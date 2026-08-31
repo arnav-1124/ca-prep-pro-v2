@@ -1,0 +1,301 @@
+{
+  "levelCode": "INTERMEDIATE",
+  "schemaVersion": "1.0",
+  "curriculumVersion": {
+    "name": "CA Intermediate Syllabus 2026-2027",
+    "applicableFrom": "2026-05-01T00:00:00.000Z",
+    "applicableTo": null
+  },
+  "subjects": [
+    {
+      "code": "PAPER_1",
+      "name": "Advanced Accounting",
+      "sortOrder": 1,
+      "nodes": [
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 1: Formulation of Accounting Standards",
+          "code": "INT_P1_CH1",
+          "sortOrder": 1,
+          "children": [
+            {
+              "type": "TOPIC",
+              "name": "Process of AS Formulation",
+              "code": "INT_P1_CH1_T1",
+              "sortOrder": 1
+            },
+            {
+              "type": "TOPIC",
+              "name": "Applicability of Accounting Standards",
+              "code": "INT_P1_CH1_T2",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 2: Financial Statements of Companies",
+          "code": "INT_P1_CH2",
+          "sortOrder": 2,
+          "children": [
+            {
+              "type": "TOPIC",
+              "name": "Preparation of Balance Sheet and P&L",
+              "code": "INT_P1_CH2_T1",
+              "sortOrder": 1
+            },
+            {
+              "type": "TOPIC",
+              "name": "Cash Flow Statement (AS 3)",
+              "code": "INT_P1_CH2_T2",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PAPER_2",
+      "name": "Corporate and Other Laws",
+      "sortOrder": 2,
+      "nodes": [
+        {
+          "type": "MODULE",
+          "name": "Part I: Company Law",
+          "code": "INT_P2_MOD1",
+          "sortOrder": 1,
+          "children": [
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 1: Preliminary Concepts",
+              "code": "INT_P2_MOD1_CH1",
+              "sortOrder": 1,
+              "children": [
+                {
+                  "type": "TOPIC",
+                  "name": "Definitions and Company Types",
+                  "code": "INT_P2_MOD1_CH1_T1",
+                  "sortOrder": 1
+                }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 2: Incorporation of Company",
+              "code": "INT_P2_MOD1_CH2",
+              "sortOrder": 2,
+              "children": [
+                {
+                  "type": "TOPIC",
+                  "name": "Memorandum & Articles of Association",
+                  "code": "INT_P2_MOD1_CH2_T1",
+                  "sortOrder": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "MODULE",
+          "name": "Part II: Other Laws",
+          "code": "INT_P2_MOD2",
+          "sortOrder": 2,
+          "children": [
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 9: The General Clauses Act, 1897",
+              "code": "INT_P2_MOD2_CH9",
+              "sortOrder": 1,
+              "children": [
+                {
+                  "type": "TOPIC",
+                  "name": "Interpretation of Statutes & Construction",
+                  "code": "INT_P2_MOD2_CH9_T1",
+                  "sortOrder": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PAPER_3",
+      "name": "Taxation",
+      "sortOrder": 3,
+      "nodes": [
+        {
+          "type": "MODULE",
+          "name": "Section A: Income Tax Law",
+          "code": "INT_P3_SECA",
+          "sortOrder": 1,
+          "children": [
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 1: Basic Concepts",
+              "code": "INT_P3_SECA_CH1",
+              "sortOrder": 1,
+              "children": [
+                {
+                  "type": "TOPIC",
+                  "name": "Concept of Income and Tax Rates",
+                  "code": "INT_P3_SECA_CH1_T1",
+                  "sortOrder": 1
+                }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 4: Heads of Income",
+              "code": "INT_P3_SECA_CH4",
+              "sortOrder": 2,
+              "children": [
+                {
+                  "type": "TOPIC",
+                  "name": "Salaries",
+                  "code": "INT_P3_SECA_CH4_T1",
+                  "sortOrder": 1
+                },
+                {
+                  "type": "TOPIC",
+                  "name": "Profits and Gains of Business or Profession (PGBP)",
+                  "code": "INT_P3_SECA_CH4_T2",
+                  "sortOrder": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "MODULE",
+          "name": "Section B: Goods and Services Tax (GST)",
+          "code": "INT_P3_SECB",
+          "sortOrder": 2,
+          "children": [
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 1: GST in India - An Introduction",
+              "code": "INT_P3_SECB_CH1",
+              "sortOrder": 1,
+              "children": [
+                {
+                  "type": "TOPIC",
+                  "name": "Indirect Taxes and GST Framework",
+                  "code": "INT_P3_SECB_CH1_T1",
+                  "sortOrder": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PAPER_4",
+      "name": "Cost and Management Accounting",
+      "sortOrder": 4,
+      "nodes": [
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 1: Introduction to Cost Accounting",
+          "code": "INT_P4_CH1",
+          "sortOrder": 1,
+          "children": [
+            {
+              "type": "TOPIC",
+              "name": "Objectives and Classification of Costs",
+              "code": "INT_P4_CH1_T1",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 2: Material Cost",
+          "code": "INT_P4_CH2",
+          "sortOrder": 2,
+          "children": [
+            {
+              "type": "TOPIC",
+              "name": "Procurement, Storage, and Inventory Control",
+              "code": "INT_P4_CH2_T1",
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PAPER_5",
+      "name": "Auditing and Ethics",
+      "sortOrder": 5,
+      "nodes": [
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 1: Nature, Objective and Scope of Audit",
+          "code": "INT_P5_CH1",
+          "sortOrder": 1,
+          "children": [
+            {
+              "type": "TOPIC",
+              "name": "Auditing Concepts & Ethical Standards",
+              "code": "INT_P5_CH1_T1",
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PAPER_6",
+      "name": "Financial Management and Strategic Management",
+      "sortOrder": 6,
+      "nodes": [
+        {
+          "type": "MODULE",
+          "name": "Section A: Financial Management",
+          "code": "INT_P6_SECA",
+          "sortOrder": 1,
+          "children": [
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 1: Scope and Objectives of FM",
+              "code": "INT_P6_SECA_CH1",
+              "sortOrder": 1,
+              "children": [
+                {
+                  "type": "TOPIC",
+                  "name": "Financial Decisions and Profit Maximization",
+                  "code": "INT_P6_SECA_CH1_T1",
+                  "sortOrder": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "MODULE",
+          "name": "Section B: Strategic Management",
+          "code": "INT_P6_SECB",
+          "sortOrder": 2,
+          "children": [
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 1: Introduction to Strategic Management",
+              "code": "INT_P6_SECB_CH1",
+              "sortOrder": 1,
+              "children": [
+                {
+                  "type": "TOPIC",
+                  "name": "Concept of Strategy & Strategic Framework",
+                  "code": "INT_P6_SECB_CH1_T1",
+                  "sortOrder": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

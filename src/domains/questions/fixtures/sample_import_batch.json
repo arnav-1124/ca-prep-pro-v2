@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "1.0",
+  "batchName": "CA Intermediate Paper 1 & 2 Revision Batch (RTP 2027)",
+  "academicLevelCode": "INTERMEDIATE",
+  "sourceType": "RTP",
+  "sourceTitle": "ICAI Revision Test Paper — May 2027",
+  "sourceYear": 2027,
+  "sourceMonth": 5,
+  "questions": [
+    {
+      "questionType": "MCQ",
+      "questionText": "Under AS 1, what are the three fundamental accounting assumptions that do not require specific disclosure if followed?",
+      "difficulty": "EASY",
+      "curriculumNodeCode": "INT_P1_CH1_T1",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Going Concern, Consistency, and Accrual."
+        },
+        {
+          "letter": "B",
+          "text": "Prudence, Materiality, and Substance over Form."
+        },
+        {
+          "letter": "C",
+          "text": "Historical Cost, Dual Aspect, and Entity Concept."
+        },
+        {
+          "letter": "D",
+          "text": "Realization, Periodicity, and Matching."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "According to AS 1 (Disclosure of Accounting Policies), Going Concern, Consistency, and Accrual are fundamental accounting assumptions. If followed, specific disclosure is not required."
+    },
+    {
+      "questionType": "MCQ",
+      "questionText": "Which of the following items is classified as a Cash Flow from Operating Activities under AS 3?",
+      "difficulty": "MEDIUM",
+      "curriculumNodeCode": "INT_P1_CH2_T2",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cash receipts from sale of goods and rendering of services."
+        },
+        {
+          "letter": "B",
+          "text": "Cash proceeds from issuance of equity shares."
+        },
+        {
+          "letter": "C",
+          "text": "Cash payments to acquire plant, property, and equipment."
+        },
+        {
+          "letter": "D",
+          "text": "Redemption of debentures at a premium."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Operating cash flows are primarily derived from the principal revenue-producing activities of the enterprise (AS 3)."
+    },
+    {
+      "questionType": "CASE_STUDY",
+      "questionText": "Based on the scenario above, what is the maximum number of directors that Apex Dynamics Limited can appoint without passing a special resolution under Section 149(1) of the Companies Act, 2013?",
+      "difficulty": "HARD",
+      "subjectCode": "PAPER_2",
+      "chapterName": "Appointment and Qualification of Directors",
+      "caseStudy": {
+        "title": "Apex Dynamics Board Expansion Scenario",
+        "scenarioText": "Apex Dynamics Limited is an unlisted public company having a paid-up share capital of ₹50 Crores and an annual turnover of ₹350 Crores. The board currently consists of 12 directors. The management is planning to induct 4 additional industry experts to lead global expansion and ESG compliance initiatives."
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 directors."
+        },
+        {
+          "letter": "B",
+          "text": "12 directors."
+        },
+        {
+          "letter": "C",
+          "text": "20 directors."
+        },
+        {
+          "letter": "D",
+          "text": "10 directors."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Under Section 149(1) of the Companies Act, 2013, a company may appoint a maximum of 15 directors. Appointing more than 15 directors requires a Special Resolution passed by shareholders."
+    },
+    {
+      "questionType": "MCQ",
+      "questionText": "What is the entry to record the settlement of trade payables at a cash discount?",
+      "difficulty": "EASY",
+      "subjectCode": "PAPER_1",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debit Trade Payables, Credit Bank, Credit Discount Received."
+        },
+        {
+          "letter": "B",
+          "text": "Debit Bank, Debit Discount Allowed, Credit Trade Payables."
+        },
+        {
+          "letter": "C",
+          "text": "Debit Trade Payables, Credit Bank."
+        },
+        {
+          "letter": "D",
+          "text": "Debit Discount Received, Credit Bank."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "When trade payables are settled with a discount, Trade Payables A/c is debited (full amount), Bank A/c is credited (net paid), and Discount Received A/c is credited."
+    }
+  ]
+}

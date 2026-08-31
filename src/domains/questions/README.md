@@ -1,0 +1,74 @@
+# Questions Domain (`src/domains/questions`)
+
+## Purpose
+Manages the question bank, option variations, answer keys, explanations, case studies, question version snapshots, and curriculum mappings.
+
+## Boundaries & Constraints
+*   **Traceability**: Every question must be traceable to its specific source (e.g. Study Material, RTP, MTP, PYQ, or AI-generated) and its academic hierarchy coordinates (`academic_level_id` → `subject_id` → `curriculum_node_id`).
+*   **Question Versioning**: Separate logical question identity (`questions`) from version state (`question_versions`). If a question wording, explanation, or option layout is updated for a new syllabus cycle, historical student attempts remain tied to older version snapshots (`question_version_id`), ensuring 100% grading and analytics immutability for past tests.
+*   **Reusability**: Support cases where a single question is used across multiple mock tests, case studies, or student practice sessions without duplicating question records.
+
+---
+
+## Question ↔ Curriculum Relationship Architecture
+
+1. **Resolution Path**:
+   `questions` → `curriculum_nodes` (Node) → `curriculum_nodes` (Parent chain up to Root) → `curriculum_versions` (Version) & `subjects` (Paper) & `academic_levels` (Level).
+2. **Denormalized Foreign Keys for High-Scale Indexing**:
+   - In addition to `curriculum_node_id`, `questions` stores `academic_level_id` and `subject_id`.
+   - B-Tree indexes on `questions (academic_level_id, subject_id, curriculum_node_id, difficulty, question_type)` enable single-digit millisecond filtered queries across hundreds of thousands of questions.
+
+---
+
+## Admin Question Bank Explorer (`/admin/questions`)
+
+*   **Authorization**: Strict server-side `requireAdmin()` on page render and server actions.
+*   **Scalable Server-Side Pagination**: Uses SQL `COUNT(DISTINCT)` with bounded `LIMIT` and `OFFSET` queries. No unbounded full-table scans.
+*   **Multi-Dimensional Filtering**: Filter by Level, Curriculum Version, Subject, Chapter/Topic, Question Type (`MCQ`, `CASE_STUDY`), Difficulty (`EASY`, `MEDIUM`, `HARD`), Status (`ACTIVE`, `INACTIVE`), and Source Type.
+*   **Question Inspector**: Provides full question text, option breakdown, correct answer highlight, academic explanation, case study scenario text, visual breadcrumbs, and relational reference usage diagnostics (practice attempts count, test question usages, AI doubt chats).
+
+---
+
+---
+
+## Question Bank Import & Human Review Architecture (`/admin/questions/imports`)
+
+*Implemented in Step 18 as a permanent, non-destructive staging and review workflow.*
+
+### 1. Ingestion Pipeline & Non-Direct Publication
+```
+JSON Upload (File or Raw Text)
+       ↓
+Server-Side Structural Validation (schemaVersion, 2-6 options, answer keys)
+       ↓
+Version-Aware Curriculum Mapping (Canonical Code → UUID → Unique Name)
+       ↓
+Deterministic Duplicate Detection (Exact normalized hash + Token Jaccard >= 85%)
+       ↓
+Staging Database (`import_batches` + `imported_questions`)
+       ↓
+One-By-One Human Review Workspace (`/admin/questions/imports/[batchId]`)
+       ↓
+Admin Actions (Approve & Next, Reject with Reason, Edit, Quick Map)
+       ↓
+Atomic Publication → Live Question Bank (`questions`, `question_versions`, `question_options`)
+```
+
+### 2. Canonical Curriculum Mapping Precedence
+1. **Canonical Code Match** (`INT_P1_CH1_T1`) $\rightarrow$ `MATCHED_CANONICAL` (Highest precedence)
+2. **Database UUID Match** $\rightarrow$ `MATCHED_DATABASE_ID`
+3. **Unique Title within Version** $\rightarrow$ `MATCHED_EXACT_NAME`
+4. **Ambiguous or Missing Match** $\rightarrow$ `AMBIGUOUS_MATCH` or `UNMAPPED` (Blocking: question cannot be approved until manually mapped)
+
+### 3. Review Workspace Standards
+* **One-By-One Review**: Detailed inspection of question text, case scenarios, options, correct answers, and academic explanations.
+* **Side-by-Side Duplicate Inspector**: Direct comparison against live Question Bank candidates with similarity score pill.
+* **Keyboard-Friendly Efficiency**: `A` (Approve & Next), `R` (Reject with reason), `E` (Edit), `ArrowLeft`/`ArrowRight` (Navigate).
+* **Auditable Immutability**: All decisions recorded in `import_audit_events`.
+
+### 4. Hardening & Integrity Invariants
+* **Optimistic Concurrency Control (OCC)**: Every review action verifies `expectedUpdatedAt` timestamps, rejecting stale concurrent submissions with clear feedback.
+* **Pre-Publication Integrity Gate**: At publish time, all approved questions undergo in-memory revalidation against active curriculum nodes and subjects, plus an interim collision scan against live `question_versions`.
+* **Idempotent Resumable Publication**: Publications link `publishedQuestionId` directly to staging rows; repeated calls or retries skip already-published questions without creating duplicates.
+* **State Machine Invariants**: Unmapped, invalid, or duplicate-collided questions are strictly blocked from approval; published questions are immutable in staging.
+

@@ -1,0 +1,1 @@
+ALTER TABLE "practice_sessions" ALTER COLUMN "exam_attempt_id" DROP NOT NULL;

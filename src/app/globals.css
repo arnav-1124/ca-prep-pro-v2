@@ -1,0 +1,403 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+
+/*
+  CA PREP PRO DESIGN SYSTEM
+  Based on Lokker Design System token architecture.
+  Brand color: Emerald (preserved across all themes).
+
+  Token layers:
+    1. Primitive values        (oklch colors, easings, durations)
+    2. Semantic tokens         (--surface-*, --border-subtle, --success, ...)
+    3. shadcn/ui mapping       (--background, --card, --primary, ... in :root/.dark)
+    4. Tailwind utilities      (@theme inline - bg-surface, border-strong, text-success, ...)
+
+  Design philosophy:
+  - Dark is the primary theme: pure neutral black / dark charcoal, zero bluish tint.
+  - Light is designed independently: crisp, cool, high-contrast.
+  - Depth comes from surface levels, 1px borders, inset highlights, restrained shadows.
+  - Emerald is the brand color and is NEVER overridden.
+*/
+
+@theme inline {
+  /* ---- shadcn/ui semantic mappings ---- */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+  --font-heading: var(--font-sans);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+
+  /* ---- Radius scale (Lokker multiplier pattern) ---- */
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+
+  /* ---- Surface hierarchy ---- */
+  --color-surface: var(--surface);
+  --color-surface-elevated: var(--surface-elevated);
+  --color-surface-overlay: var(--surface-overlay);
+  --color-surface-hover: var(--surface-hover);
+  --color-surface-active: var(--surface-active);
+
+  /* ---- Border hierarchy ---- */
+  --color-border-subtle: var(--border-subtle);
+  --color-border-strong: var(--border-strong);
+
+  /* ---- Semantic status colors ---- */
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
+  --color-warning: var(--warning);
+  --color-warning-foreground: var(--warning-foreground);
+  --color-info: var(--info);
+  --color-info-foreground: var(--info-foreground);
+
+  /* ---- Typography scale ---- */
+  --text-display: 2.25rem;
+  --text-display--line-height: 1.15;
+  --text-display--letter-spacing: -0.02em;
+  --text-heading: 1.375rem;
+  --text-heading--line-height: 1.3;
+  --text-heading--letter-spacing: -0.01em;
+  --text-label: 0.875rem;
+  --text-label--line-height: 1.45;
+  --text-caption: 0.8125rem;
+  --text-caption--line-height: 1.45;
+  --tracking-label: 0.02em;
+
+  /* ---- Shadows (dark-optimized, work on both themes) ---- */
+  --shadow-xs: 0 1px 2px 0 rgb(0 0 0 / 0.5);
+  --shadow-sm:
+    0 1px 3px 0 rgb(0 0 0 / 0.6), 0 1px 2px -1px rgb(0 0 0 / 0.5);
+  --shadow-md:
+    0 4px 12px -2px rgb(0 0 0 / 0.65), 0 2px 6px -2px rgb(0 0 0 / 0.5);
+  --shadow-lg:
+    0 12px 28px -4px rgb(0 0 0 / 0.75), 0 4px 12px -4px rgb(0 0 0 / 0.6);
+  --shadow-xl:
+    0 20px 48px -8px rgb(0 0 0 / 0.85), 0 8px 16px -6px rgb(0 0 0 / 0.7);
+
+  /* ---- Inset highlight ---- */
+  --inset-shadow-highlight: var(--inset-highlight);
+
+  /* ---- Motion easings ---- */
+  --ease-standard: cubic-bezier(0.2, 0, 0, 1);
+  --ease-emphasized: cubic-bezier(0.3, 0, 0, 1);
+
+  --default-transition-duration: var(--duration-normal);
+  --default-transition-timing-function: var(--ease-standard);
+}
+
+/*
+  THEME: LIGHT
+  Crisp, cool, high-contrast. Emerald brand preserved.
+*/
+:root {
+  color-scheme: light;
+
+  --background: oklch(0.985 0 0);
+  --surface: oklch(1 0 0);
+  --surface-elevated: oklch(1 0 0);
+  --surface-overlay: oklch(1 0 0);
+  --surface-hover: oklch(0.96 0 0);
+  --surface-active: oklch(0.93 0 0);
+
+  --foreground: oklch(0.14 0 0);
+  --muted-foreground: oklch(0.48 0 0);
+
+  /* BRAND: Emerald — preserved from original */
+  --primary: oklch(0.5960 0.1450 163.2250);
+  --primary-foreground: oklch(0.9850 0 0);
+
+  --secondary: oklch(0.94 0 0);
+  --secondary-foreground: oklch(0.18 0 0);
+  --muted: oklch(0.94 0 0);
+
+  /* BRAND: Emerald-tinted accent — preserved */
+  --accent: oklch(0.9500 0.0450 163.2250);
+  --accent-foreground: oklch(0.3000 0.0800 163.2250);
+
+  --border: oklch(0.89 0 0);
+  --border-subtle: oklch(0.93 0 0);
+  --border-strong: oklch(0.78 0 0);
+  --input: oklch(0.89 0 0);
+
+  /* BRAND: Emerald ring — preserved */
+  --ring: oklch(0.5960 0.1450 163.2250);
+
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.14 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.14 0 0);
+
+  --destructive: oklch(0.55 0.22 27);
+  --destructive-foreground: oklch(0.99 0 0);
+  --success: oklch(0.52 0.15 150);
+  --success-foreground: oklch(0.99 0 0);
+  --warning: oklch(0.62 0.15 75);
+  --warning-foreground: oklch(0.2 0.05 75);
+  --info: oklch(0.55 0.16 250);
+  --info-foreground: oklch(0.99 0 0);
+
+  /* Charts: brand-first palette */
+  --chart-1: oklch(0.5960 0.1450 163.2250);
+  --chart-2: oklch(0.52 0.15 150);
+  --chart-3: oklch(0.55 0.16 250);
+  --chart-4: oklch(0.62 0.15 75);
+  --chart-5: oklch(0.55 0.22 27);
+
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.14 0 0);
+
+  /* BRAND: Emerald sidebar-primary — preserved */
+  --sidebar-primary: oklch(0.5960 0.1450 163.2250);
+  --sidebar-primary-foreground: oklch(0.9850 0 0);
+
+  /* BRAND: Emerald-tinted sidebar-accent — preserved */
+  --sidebar-accent: oklch(0.9500 0.0450 163.2250);
+  --sidebar-accent-foreground: oklch(0.3000 0.0800 163.2250);
+
+  --sidebar-border: oklch(0.89 0 0);
+  --sidebar-ring: oklch(0.5960 0.1450 163.2250);
+
+  --radius: 0.5rem;
+  --inset-highlight: inset 0 1px 0 rgb(255 255 255 / 0.8);
+
+  /* Durations (theme-independent) */
+  --duration-fast: 120ms;
+  --duration-normal: 180ms;
+  --duration-slow: 280ms;
+
+  /* Z-index scale (theme-independent) */
+  --z-base: 0;
+  --z-dropdown: 100;
+  --z-sticky: 200;
+  --z-modal: 300;
+  --z-toast: 400;
+
+  /* Font families */
+  --font-sans: var(--font-sans);
+  --font-serif: Source Serif 4, ui-serif, serif;
+  --font-mono: var(--font-mono);
+}
+
+/*
+  THEME: DARK (primary).
+  Pure neutral pitch-black & deep charcoal palette.
+  Zero blue/bluish hue. Pure neutrality (oklch Chroma = 0).
+  Emerald brand preserved.
+*/
+.dark {
+  color-scheme: dark;
+
+  /* Pitch black background */
+  --background: oklch(0.10 0 0);
+  --surface: oklch(0.14 0 0);
+  --surface-elevated: oklch(0.17 0 0);
+  --surface-overlay: oklch(0.20 0 0);
+  --surface-hover: oklch(0.20 0 0);
+  --surface-active: oklch(0.23 0 0);
+
+  /* Text: pure crisp white & neutral zinc gray */
+  --foreground: oklch(0.96 0 0);
+  --muted-foreground: oklch(0.62 0 0);
+
+  /* BRAND: Emerald — preserved from original */
+  --primary: oklch(0.6960 0.1400 163.2250);
+  --primary-foreground: oklch(0.1450 0 0);
+
+  /* Neutral controls */
+  --secondary: oklch(0.19 0 0);
+  --secondary-foreground: oklch(0.94 0 0);
+  --muted: oklch(0.18 0 0);
+
+  /* BRAND: Emerald-tinted accent — preserved */
+  --accent: oklch(0.2600 0.0550 163.2250);
+  --accent-foreground: oklch(0.9000 0.0700 163.2250);
+
+  /* Subtle 1px borders */
+  --border: oklch(0.23 0 0);
+  --border-subtle: oklch(0.18 0 0);
+  --border-strong: oklch(0.32 0 0);
+  --input: oklch(0.23 0 0);
+
+  /* BRAND: Emerald ring — preserved */
+  --ring: oklch(0.6960 0.1400 163.2250);
+
+  /* Cards, popovers */
+  --card: oklch(0.135 0 0);
+  --card-foreground: oklch(0.96 0 0);
+  --popover: oklch(0.16 0 0);
+  --popover-foreground: oklch(0.96 0 0);
+
+  /* Status */
+  --destructive: oklch(0.62 0.22 25);
+  --destructive-foreground: oklch(0.98 0 0);
+  --success: oklch(0.68 0.16 150);
+  --success-foreground: oklch(0.10 0 0);
+  --warning: oklch(0.76 0.15 75);
+  --warning-foreground: oklch(0.12 0 0);
+  --info: oklch(0.70 0.14 250);
+  --info-foreground: oklch(0.10 0 0);
+
+  /* Charts: brand-first palette */
+  --chart-1: oklch(0.6960 0.1400 163.2250);
+  --chart-2: oklch(0.68 0.16 150);
+  --chart-3: oklch(0.70 0.14 250);
+  --chart-4: oklch(0.76 0.15 75);
+  --chart-5: oklch(0.62 0.22 25);
+
+  /* Sidebar */
+  --sidebar: oklch(0.12 0 0);
+  --sidebar-foreground: oklch(0.96 0 0);
+
+  /* BRAND: Emerald sidebar-primary — preserved */
+  --sidebar-primary: oklch(0.6960 0.1400 163.2250);
+  --sidebar-primary-foreground: oklch(0.1450 0 0);
+
+  /* BRAND: Emerald-tinted sidebar-accent — preserved */
+  --sidebar-accent: oklch(0.2600 0.0550 163.2250);
+  --sidebar-accent-foreground: oklch(0.9000 0.0700 163.2250);
+
+  --sidebar-border: oklch(0.19 0 0);
+  --sidebar-ring: oklch(0.6960 0.1400 163.2250);
+
+  /* Inset highlight: crisp faint top highlight */
+  --inset-highlight: inset 0 1px 0 rgb(255 255 255 / 0.08);
+
+  /* Radius, durations, z-index: inherited from :root (theme-independent) */
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "cv02", "cv03", "cv04";
+  }
+  html {
+    @apply font-sans;
+    scroll-behavior: smooth;
+  }
+  ::selection {
+    background: color-mix(in oklab, var(--primary) 25%, transparent);
+  }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/*
+  CUSTOM SCROLLBAR
+  Brand-matched scrollbar that works in both light and dark themes.
+  Uses semantic tokens for colors.
+  Apply className="lokker-scrollbar" to any container that needs branded scrollbars.
+*/
+.lokker-scrollbar,
+.lokker-scrollbar * {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-strong) transparent;
+}
+
+.lokker-scrollbar::-webkit-scrollbar,
+.lokker-scrollbar *::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.lokker-scrollbar::-webkit-scrollbar-track,
+.lokker-scrollbar *::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.lokker-scrollbar::-webkit-scrollbar-thumb,
+.lokker-scrollbar *::-webkit-scrollbar-thumb {
+  background-color: var(--border-strong);
+  border-radius: 3px;
+  border: none;
+}
+
+.lokker-scrollbar::-webkit-scrollbar-thumb:hover,
+.lokker-scrollbar *::-webkit-scrollbar-thumb:hover {
+  background-color: var(--muted-foreground);
+}
+
+.lokker-scrollbar::-webkit-scrollbar-corner,
+.lokker-scrollbar *::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+/* Global scrollbar for the entire app */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--border);
+  border-radius: 4px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--border-strong);
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
