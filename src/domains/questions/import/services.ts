@@ -174,7 +174,7 @@ export async function createImportBatch(input: CreateImportBatchInput) {
   await db.insert(importAuditEvents).values({
     batchId: createdBatch.id,
     action: "BATCH_CREATED",
-    performedBy: input.adminEmail,
+    performedBy: input.adminEmail || "system@caprep.pro",
     details: {
       totalQuestions: validationResult.totalQuestions,
       validCount: validationResult.validCount,

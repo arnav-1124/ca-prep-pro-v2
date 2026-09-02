@@ -72,3 +72,23 @@ Atomic Publication → Live Question Bank (`questions`, `question_versions`, `qu
 * **Idempotent Resumable Publication**: Publications link `publishedQuestionId` directly to staging rows; repeated calls or retries skip already-published questions without creating duplicates.
 * **State Machine Invariants**: Unmapped, invalid, or duplicate-collided questions are strictly blocked from approval; published questions are immutable in staging.
 
+---
+
+## Question Bank Management & Canonical Export (`/admin/questions`)
+
+*Implemented in Step 19 as the administrative mutation, versioning, and export layer.*
+
+### 1. In-Place vs New Version Decision Matrix
+* **0 Historical Attempts**: If a question has 0 practice attempts and 0 test usages, edits update active `question_versions` in-place.
+* **>0 Historical Attempts**: If students have attempted the question, material content modifications automatically generate a new `question_versions` snapshot (`versionNumber = max + 1`), deactivating the old version while keeping it in the database for historical test review integrity.
+
+### 2. Dependency-Guarded Deletion
+* Deletion audits `practice_attempts`, `test_questions`, and `ai_conversations`.
+* If any dependency exists, deletion is strictly blocked and the admin is guided to deactivate/retire the question.
+* If zero dependencies exist, the question, options, versions, and unshared case study records are permanently deleted.
+
+### 3. Canonical Export & Round-Trip Interchange
+* The Question Bank Explorer provides an **Export Questions** tool generating canonical `RawImportBatchJson`.
+* Preserves canonical node codes (`INT_P1_CH1_T1`), difficulty, options, answer keys, explanations, and case studies.
+* Exported JSON files can be directly uploaded back to `/admin/questions/imports` for full round-trip staging, validation, duplicate checking, and publication.
+

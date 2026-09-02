@@ -254,6 +254,25 @@ CA Prep Pro is engineered as an enterprise-ready, high-throughput SaaS platform 
 - `PUBLISHED` $\rightarrow$ `APPROVED` / `REJECTED` / `EDITED`: Strictly BLOCKED. Live questions must be managed via versioning rather than staging mutation.
 - `APPROVED` $\rightarrow$ `APPROVED`: Idempotent no-op without duplicate audit event creation.
 
+---
+
+## 11. Question Bank Management, Lifecycle Invariants & Canonical Export
+
+### 1. Versioning vs Historical Student Attempts Invariant
+- **Unattempted Questions ($0$ Practice Attempts & $0$ Mock Tests)**: Content edits safely update active `question_versions` in-place.
+- **Attempted Questions ($>0$ Practice Attempts or Test Usages)**: Material content modifications (`questionText`, `options`, `correctAnswer`, `explanation`) **strictly create a new Question Version snapshot** (`v2`, `v3`) while preserving historical versions (`v1`) in deactivated archive state.
+- **Grading & Analytics Immutability**: Historical student practice attempts and test results remain permanently tied to their original version ID (`question_version_id`), guaranteeing 100% past test review accuracy and analytics integrity.
+
+### 2. Dependency-Guarded Deletion & Safe Retirement
+- **Hard Deletion Block**: Hard deletion of a question is strictly blocked if referencing records exist in `practice_attempts`, `test_questions`, or `ai_conversations`.
+- **Actionable Diagnostic**: When deletion is blocked, the system reports exact dependency metrics and prompts the administrator to deactivate or retire the question instead.
+- **Safe Retirement**: Toggling a question's status to `INACTIVE` / `RETIRED` deactivates the current version, excluding it from future practice pools and test generators while preserving past student records.
+
+### 3. Canonical Export & Importer Round-Trip Contract
+- **Export Format Standard**: Question Bank exports generate standard `RawImportBatchJson` containing canonical syllabus node codes (`INT_P1_CH1_T1`), difficulty ratings, structured options, answer keys, explanations, and case study scenarios.
+- **Round-Trip Guarantee**: Exported JSON files are 100% compatible with the Step 18 Question Importer, allowing seamless export $\rightarrow$ external review/amendment $\rightarrow$ import $\rightarrow$ staging $\rightarrow$ publication workflows.
+- **Zero Sensitive Exposure**: Exports contain only educational question content; internal database user IDs, billing information, and security tokens are excluded.
+
 
 
 

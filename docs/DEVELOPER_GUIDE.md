@@ -141,6 +141,12 @@ npx drizzle-kit migrate
 - **Pre-Publication Integrity Gate**: Re-validates active curriculum nodes, subjects, and versions and executes an interim live duplicate collision check prior to inserting any live questions.
 - **Idempotent Resumable Publication**: Staged items link directly to live `publishedQuestionId`; retries safely skip already-published rows with zero duplication.
 
+### 6. Question Bank Management & Canonical Export (`/admin/questions`)
+- **Safe Editing & Automated Versioning**: Unattempted questions update in-place; questions with historical student practice records automatically create new immutable question version snapshots (`v2`, `v3`).
+- **Curriculum Reassignment**: Reassigns chapter/topic mappings with server-side validation that target nodes are active and in the same curriculum version.
+- **Dependency-Guarded Deletion**: Blocks hard deletion if practice attempts, test usages, or AI conversations reference the question, guiding admins to safe deactivation/retirement.
+- **Canonical Interchange Export**: One-click download of filtered Question Bank questions formatted as canonical `RawImportBatchJson`, with 100% round-trip compatibility into the Question Importer.
+
 
 ## Production-Grade Scalability & Engineering Standards
 
