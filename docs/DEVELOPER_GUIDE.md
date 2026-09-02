@@ -149,6 +149,13 @@ npx drizzle-kit migrate
 - **Canonical Interchange Export**: One-click download of filtered Question Bank questions formatted as canonical `RawImportBatchJson`, with 100% round-trip compatibility into the Question Importer.
 - **Deterministic-First AI Boundary**: All lifecycle, validation, mapping, and duplicate rules are deterministic. AI assistance is strictly advisory for ambiguous semantic matching and human review suggestions.
 
+### 7. Question Bank Operational Intelligence & Review Queue (`/admin/questions/review`)
+- **Deterministic Attention Engine**: Automatically flags questions across 11 explainable conditions (`INACTIVE_NODE`, `OBSOLETE_CURRICULUM`, `FEW_OPTIONS`, `POTENTIAL_DUPLICATE`, `NEEDS_CHANGES`, `RETIRED_QUESTION`, `WEAK_EXPLANATION`, `NEVER_REVIEWED`, `ZERO_USAGE`, `HEAVY_USAGE`, `MULTI_VERSIONED`).
+- **Severity Ranking**: Evaluates each question's highest severity (`CRITICAL` > `HIGH` > `MEDIUM` > `LOW` > `INFO`).
+- **Review Decision Audit Log (`question_reviews`)**: Admin reviewers record decisions (`REVIEWED`, `ACCEPTED`, `NEEDS_CHANGES`, `DISMISSED`) with reviewer identity and feedback notes without mutating historical student attempts.
+- **Review Cockpit & Drawer**: Interactive inspection drawer with review history timeline, content preview, attention badges, and direct lifecycle controls (edit, status toggle, delete).
+
+
 
 ## Production-Grade Scalability & Engineering Standards
 

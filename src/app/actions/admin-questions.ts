@@ -16,6 +16,15 @@ import {
   ExportQuestionsInput,
   ExportQuestionsResult,
 } from "@/domains/questions/management/types";
+import {
+  recordQuestionReviewDecision,
+  getQuestionReviewHistory,
+} from "@/domains/questions/review/services";
+import {
+  RecordReviewInput,
+  RecordReviewResult,
+  ReviewHistoryRecord,
+} from "@/domains/questions/review/types";
 
 export interface ServerActionResult<T = unknown> {
   success: boolean;
@@ -152,3 +161,51 @@ export async function exportQuestionsAction(
     return { success: false, error: message };
   }
 }
+
+/**
+ * Authoritative administrative server action to record an operational review decision.
+ */
+export async function recordQuestionReviewAction(
+  input: Omit<RecordReviewInput, "reviewerEmail">
+): Promise<ServerActionResult<RecordReviewResult>> {
+  try {
+    const admin = await requireAdmin();
+
+    const result = await recordQuestionReviewDecision({
+      ...input,
+      reviewerEmail: admin.email,
+    });
+
+    revalidatePath("/admin/questions");
+    revalidatePath("/admin/questions/review");
+
+    return { success: true, data: result };
+  } catch (error: unknown) {
+    console.error("[Record Question Review Action Error]", error);
+    const message = error instanceof Error ? error.message : "Failed to record review decision.";
+    return { success: false, error: message };
+  }
+}
+
+/**
+ * Authoritative administrative server action to fetch review history timeline for a question.
+ */
+export async function fetchQuestionReviewHistoryAction(
+  questionId: string
+): Promise<ServerActionResult<ReviewHistoryRecord[]>> {
+  try {
+    await requireAdmin();
+
+    if (!questionId) {
+      return { success: false, error: "Question ID is required." };
+    }
+
+    const history = await getQuestionReviewHistory(questionId);
+    return { success: true, data: history };
+  } catch (error: unknown) {
+    console.error("[Fetch Question Review History Action Error]", error);
+    const message = error instanceof Error ? error.message : "Failed to fetch review history.";
+    return { success: false, error: message };
+  }
+}
+

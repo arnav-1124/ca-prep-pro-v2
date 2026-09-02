@@ -96,3 +96,38 @@ Atomic Publication → Live Question Bank (`questions`, `question_versions`, `qu
 * **Legal Changes & Amendments**: If tax rates, corporate laws, or accounting standards change, questions are version-bumped (`v2`) with new explanations and answer keys. Past versions (`v1`) remain intact for students reviewing historical mock tests taken under prior law.
 * **Deterministic Decision Authority**: AI is never used for automated deletions, duplicate mergers, or publication barriers. AI assistance is strictly confined to non-destructive advisory tasks (e.g. suggesting curriculum node aliases or flagging ambiguous semantic overlaps for human reviewer judgment).
 
+---
+
+## Question Bank Operational Intelligence & Review Workflow (`/admin/questions/review`)
+
+*Implemented in Step 20 as an explainable, deterministic review queue and quality control cockpit.*
+
+### 1. Deterministic Attention Reason Taxonomy
+The operational intelligence engine flags live questions across 11 deterministic conditions:
+
+| Attention Reason | Severity | Trigger Condition |
+| :--- | :--- | :--- |
+| `INACTIVE_NODE` | `CRITICAL` | Question is mapped to an inactive syllabus node. |
+| `OBSOLETE_CURRICULUM` | `HIGH` | Question is associated with an inactive curriculum version. |
+| `FEW_OPTIONS` | `HIGH` | MCQ has fewer than 4 options. |
+| `POTENTIAL_DUPLICATE` | `HIGH` | Staging or candidate similarity score $\ge 80\%$ with another live question. |
+| `NEEDS_CHANGES` | `HIGH` | Human reviewer previously recorded a `NEEDS_CHANGES` decision. |
+| `RETIRED_QUESTION` | `MEDIUM` | Question version is inactive/retired. |
+| `WEAK_EXPLANATION` | `MEDIUM` | Explanation is null or shorter than 20 characters. |
+| `NEVER_REVIEWED` | `LOW` | Question has never had an entry recorded in `question_reviews`. |
+| `ZERO_USAGE` | `INFO` | Question has 0 practice attempts and 0 mock test usages. |
+| `HEAVY_USAGE` | `INFO` | High-traffic question (>20 attempts or multiple test appearances). |
+| `MULTI_VERSIONED` | `INFO` | Question has $> 1$ version snapshots. |
+
+### 2. Review Decision Entity & History Audit Trail
+* **Table**: `question_reviews`
+* **Fields**: `id`, `question_id`, `question_version_id`, `reviewed_by` (email), `decision` (`REVIEWED`, `ACCEPTED`, `NEEDS_CHANGES`, `DISMISSED`), `notes`, `created_at`.
+* **Immutability Guarantee**: Recording review decisions never modifies student practice attempts, mock test answers, or past scorecards.
+* **Audit Timeline**: The review drawer presents a chronological timeline of all review decisions, reviewer identity, version snapshots, and reviewer notes.
+
+### 3. Review Workspace Cockpit
+* **Operational KPI Cards**: Displays Needing Attention count, Critical/High Priority count, Obsolete Syllabus count, Weak Explanations count, and Unreviewed Questions count.
+* **Server-Side Queue Filtering**: Instant filtering by Attention Reason, Severity Rank, Subject, Review Decision Status, Usage State, and Search Query.
+* **Interactive Review Drawer**: Inspects full content, version history, usage analytics, attention flags, and provides an operational decision form with in-drawer status toggling and editing.
+
+

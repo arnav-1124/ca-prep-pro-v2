@@ -38,6 +38,7 @@ import {
   Loader2,
   UploadCloud,
   Download,
+  ShieldCheck,
   Edit3,
   Power,
   Trash2,
@@ -532,6 +533,18 @@ export function QuestionsExplorerClient({ initialData, currentFilters }: Questio
               <Download className="h-3.5 w-3.5 text-primary" />
             )}
             <span>Export Questions</span>
+          </Button>
+
+          {/* Review Queue Link */}
+          <Button
+            asChild
+            variant="outline"
+            className="font-bold text-xs h-9 rounded-xl cursor-pointer gap-1.5 shadow-2xs border-border/80 text-primary hover:text-primary"
+          >
+            <Link href="/admin/questions/review">
+              <ShieldCheck className="h-3.5 w-3.5 text-primary" />
+              <span>Review Queue</span>
+            </Link>
           </Button>
 
           {/* Import Batches Link */}

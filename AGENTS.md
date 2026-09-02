@@ -295,6 +295,30 @@ CA Prep Pro is engineered as an enterprise-ready, high-throughput SaaS platform 
 - **Deterministic Authority**: All critical decisions (curriculum mapping, duplicate prevention, pre-publication validation, version creation, status toggling) are executed via deterministic algorithms and explicit SQL constraints.
 - **AI Limited Role**: AI semantic assistance is strictly confined to non-destructive suggestions (e.g. suggesting canonical node matches for ambiguous chapter titles or highlighting semantic duplicates for human review). AI must NEVER execute automated deletions, approvals, or publications.
 
+---
+
+## 13. Question Bank Operational Intelligence & Review Queue Invariants
+
+### 1. Deterministic Attention Flag Taxonomy
+The operational review engine systematically tags live questions using 11 explainable, deterministic attention rules:
+- `INACTIVE_NODE` (Severity: `CRITICAL`): Question mapped to an inactive syllabus node.
+- `OBSOLETE_CURRICULUM` (Severity: `HIGH`): Question mapped to an inactive/superseded curriculum version.
+- `FEW_OPTIONS` (Severity: `HIGH`): MCQ has fewer than 4 structured options.
+- `POTENTIAL_DUPLICATE` (Severity: `HIGH`): Duplicate similarity score $\ge 80\%$ with another live question.
+- `NEEDS_CHANGES` (Severity: `HIGH`): Human reviewer previously flagged the question for amendment.
+- `RETIRED_QUESTION` (Severity: `MEDIUM`): Active question version marked inactive/retired.
+- `WEAK_EXPLANATION` (Severity: `MEDIUM`): Missing or trivial explanation ($< 20$ characters).
+- `NEVER_REVIEWED` (Severity: `LOW`): Question published into Question Bank but never audited by a human reviewer.
+- `ZERO_USAGE` (Severity: `INFO`): $0$ student practice attempts and $0$ mock test usages.
+- `HEAVY_USAGE` (Severity: `INFO`): High-traffic question ($> 20$ practice attempts or multiple test appearances).
+- `MULTI_VERSIONED` (Severity: `INFO`): Question has undergone multiple amendments ($> 1$ versions).
+
+### 2. Review Decision Entity & Audit Log
+- All operational reviews are recorded in `question_reviews` capturing `question_id`, `question_version_id`, `reviewed_by` (admin email), `decision` (`REVIEWED`, `ACCEPTED`, `NEEDS_CHANGES`, `DISMISSED`), `notes`, and `created_at`.
+- Review actions **never** mutate historical student practice attempts, test answers, or grading accuracy.
+- Review queue queries provide server-side filtering by attention reason, severity rank, syllabus subject, review decision status, and usage traffic.
+
+
 
 
 

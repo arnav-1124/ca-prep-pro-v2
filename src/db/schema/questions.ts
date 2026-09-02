@@ -243,3 +243,28 @@ export const importAuditEvents = pgTable(
     index("import_audit_events_created_at_idx").on(table.createdAt),
   ]
 );
+
+export const questionReviews = pgTable(
+  "question_reviews",
+  {
+    id: uuid("id").defaultRandom().primaryKey(),
+    questionId: uuid("question_id")
+      .references(() => questions.id, { onDelete: "cascade" })
+      .notNull(),
+    questionVersionId: uuid("question_version_id")
+      .references(() => questionVersions.id, { onDelete: "cascade" })
+      .notNull(),
+    reviewedBy: varchar("reviewed_by", { length: 255 }).notNull(),
+    decision: varchar("decision", { length: 50 }).notNull(),
+    // 'REVIEWED', 'ACCEPTED', 'NEEDS_CHANGES', 'DISMISSED'
+    notes: text("notes"),
+    createdAt: timestamp("created_at").defaultNow().notNull(),
+  },
+  (table) => [
+    index("question_reviews_question_id_idx").on(table.questionId),
+    index("question_reviews_version_id_idx").on(table.questionVersionId),
+    index("question_reviews_decision_idx").on(table.decision),
+    index("question_reviews_created_at_idx").on(table.createdAt),
+  ]
+);
+
