@@ -273,6 +273,28 @@ CA Prep Pro is engineered as an enterprise-ready, high-throughput SaaS platform 
 - **Round-Trip Guarantee**: Exported JSON files are 100% compatible with the Step 18 Question Importer, allowing seamless export $\rightarrow$ external review/amendment $\rightarrow$ import $\rightarrow$ staging $\rightarrow$ publication workflows.
 - **Zero Sensitive Exposure**: Exports contain only educational question content; internal database user IDs, billing information, and security tokens are excluded.
 
+---
+
+## 12. Question Lifecycle Governance, Amendment Management & AI Boundaries
+
+### 1. Operation Governance Matrix
+| Scenario | Permitted Operation | Data & Historical Grading Effect |
+| :--- | :--- | :--- |
+| **New / Unattempted Question Typo / Option Fix** | **In-Place Update** | Active `question_versions` and options updated directly; remains `v1`. |
+| **ICAI Law / Amendment / AS Change** (Attempted Question) | **Version Creation (`v2`)** | `v1` deactivated and archived for past student review; `v2` activated with new answer key/law. Past grades untouched. |
+| **Obsolete Question** (Repealed Law / Discontinued Topic) | **Safe Retirement (`isActive=false`)** | Deactivates active version snapshot. Question excluded from future mock tests/practice pools; historical attempts preserved. |
+| **Syllabus Hierarchy Restructuring / Topic Move** | **Curriculum Reassignment** | Reassigns `questions.curriculum_node_id` & `subject_id`. `practice_sessions` historical context preserved. |
+| **Shared Case Study Deletion** | **Dependency-Guarded Child Deletion** | Child question deleted only if unattempted ($0$ refs). Shared scenario preserved until $0$ sibling questions remain. |
+| **Corrupted Draft / Zero-Attempt Test Question** | **Hard Deletion** | Allowed ONLY when `practice_attempts=0`, `test_questions=0`, and `ai_conversations=0`. |
+
+### 2. Legal & Amendment Invariant: Immutability of Past Grading
+- Under no circumstances may an administrative update alter the `correct_answer`, `options`, or `question_text` of an attempted `question_version_id`.
+- If a law change causes an answer to change from "A" to "B", students who took the test under the old law were graded on the old standard. Overwriting their version would retroactively fail students who answered correctly at that time.
+
+### 3. Deterministic-First AI Boundary
+- **Deterministic Authority**: All critical decisions (curriculum mapping, duplicate prevention, pre-publication validation, version creation, status toggling) are executed via deterministic algorithms and explicit SQL constraints.
+- **AI Limited Role**: AI semantic assistance is strictly confined to non-destructive suggestions (e.g. suggesting canonical node matches for ambiguous chapter titles or highlighting semantic duplicates for human review). AI must NEVER execute automated deletions, approvals, or publications.
+
 
 
 

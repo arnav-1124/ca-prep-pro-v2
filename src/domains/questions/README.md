@@ -92,3 +92,7 @@ Atomic Publication → Live Question Bank (`questions`, `question_versions`, `qu
 * Preserves canonical node codes (`INT_P1_CH1_T1`), difficulty, options, answer keys, explanations, and case studies.
 * Exported JSON files can be directly uploaded back to `/admin/questions/imports` for full round-trip staging, validation, duplicate checking, and publication.
 
+### 4. ICAI Amendment Lifecycle & AI Governance Boundary
+* **Legal Changes & Amendments**: If tax rates, corporate laws, or accounting standards change, questions are version-bumped (`v2`) with new explanations and answer keys. Past versions (`v1`) remain intact for students reviewing historical mock tests taken under prior law.
+* **Deterministic Decision Authority**: AI is never used for automated deletions, duplicate mergers, or publication barriers. AI assistance is strictly confined to non-destructive advisory tasks (e.g. suggesting curriculum node aliases or flagging ambiguous semantic overlaps for human reviewer judgment).
+
