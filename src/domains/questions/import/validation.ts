@@ -1,24 +1,39 @@
 import {
-  RawImportBatchJson,
-  RawImportQuestionJson,
+  CanonicalBatchJson,
+  CanonicalQuestionJson,
   QuestionValidationResult,
   BatchValidationResult,
   ValidationError,
   ValidationWarning,
   QuestionType,
   QuestionDifficulty,
+  QuestionSourceType,
+  SanitizedQuestionPayload,
 } from "./types";
 
 const VALID_TYPES: QuestionType[] = ["MCQ", "CASE_STUDY"];
 const VALID_DIFFICULTIES: QuestionDifficulty[] = ["EASY", "MEDIUM", "HARD"];
+const VALID_SOURCE_TYPES: QuestionSourceType[] = [
+  "STUDY_MATERIAL",
+  "RTP",
+  "MTP",
+  "PYQ",
+  "REVISION_MATERIAL",
+  "MOCK_TEST",
+  "OTHER_OFFICIAL",
+  "AI_GENERATED",
+  "OTHER",
+];
+const SUPPORTED_SCHEMA_VERSIONS = ["1.0", "2.0"];
 const MAX_BATCH_SIZE = 500;
 
 /**
- * Validates a single imported question payload.
+ * Validates a single imported question payload (Schema v2.0 & v1.0).
  */
 export function validateImportQuestion(
   raw: unknown,
-  questionIndex: number = 1
+  questionIndex: number = 1,
+  availableCaseStudyRefs?: Set<string>
 ): QuestionValidationResult {
   const errors: ValidationError[] = [];
   const warnings: ValidationWarning[] = [];
@@ -39,7 +54,7 @@ export function validateImportQuestion(
     };
   }
 
-  const q = raw as Partial<RawImportQuestionJson>;
+  const q = raw as Partial<CanonicalQuestionJson>;
 
   // 1. Question Text
   if (typeof q.questionText !== "string" || !q.questionText.trim()) {
@@ -62,7 +77,7 @@ export function validateImportQuestion(
       errors.push({
         questionIndex,
         field: "questionText",
-        message: `Question text exceeds maximum length of 10,000 characters.`,
+        message: "Question text exceeds maximum length of 10,000 characters.",
         code: "TEXT_TOO_LONG",
       });
     }
@@ -108,7 +123,7 @@ export function validateImportQuestion(
     }
   }
 
-  // 4. Options Validation
+  // 4. Options Validation (for MCQ and CASE_STUDY MCQs)
   const validOptions: { letter: string; text: string }[] = [];
   if (!Array.isArray(q.options) || q.options.length === 0) {
     errors.push({
@@ -187,7 +202,7 @@ export function validateImportQuestion(
     errors.push({
       questionIndex,
       field: "correctAnswer",
-      message: "correctAnswer is required (e.g. \"A\", \"B\", \"C\", \"D\").",
+      message: 'correctAnswer is required (e.g. "A", "B", "C", "D").',
       code: "REQUIRED_FIELD_MISSING",
     });
   } else {
@@ -215,16 +230,20 @@ export function validateImportQuestion(
   }
 
   // 7. Case Study (if type === CASE_STUDY)
-  let caseStudy: { title: string; scenarioText: string } | undefined;
+  let caseStudy: { caseStudyRef?: string; title: string; scenarioText: string } | undefined;
+  const caseStudyRef = typeof q.caseStudyRef === "string" ? q.caseStudyRef.trim() : undefined;
+
   if (questionType === "CASE_STUDY") {
-    if (!q.caseStudy || typeof q.caseStudy !== "object") {
-      errors.push({
-        questionIndex,
-        field: "caseStudy",
-        message: 'Questions with questionType "CASE_STUDY" must include a caseStudy object with title and scenarioText.',
-        code: "MISSING_CASE_STUDY_PAYLOAD",
-      });
-    } else {
+    if (caseStudyRef) {
+      if (availableCaseStudyRefs && !availableCaseStudyRefs.has(caseStudyRef)) {
+        errors.push({
+          questionIndex,
+          field: "caseStudyRef",
+          message: `caseStudyRef "${caseStudyRef}" does not match any declared batch-level case studies.`,
+          code: "UNRESOLVED_CASE_STUDY_REF",
+        });
+      }
+    } else if (q.caseStudy && typeof q.caseStudy === "object") {
       const csTitle = typeof q.caseStudy.title === "string" ? q.caseStudy.title.trim() : "";
       const csScenario = typeof q.caseStudy.scenarioText === "string" ? q.caseStudy.scenarioText.trim() : "";
 
@@ -246,39 +265,81 @@ export function validateImportQuestion(
       }
 
       if (csTitle && csScenario) {
-        caseStudy = { title: csTitle, scenarioText: csScenario };
+        caseStudy = {
+          caseStudyRef: q.caseStudy.caseStudyRef?.trim() || undefined,
+          title: csTitle,
+          scenarioText: csScenario,
+        };
       }
+    } else {
+      errors.push({
+        questionIndex,
+        field: "caseStudy",
+        message: 'Questions with questionType "CASE_STUDY" must declare a caseStudy object or a valid caseStudyRef.',
+        code: "MISSING_CASE_STUDY_PAYLOAD",
+      });
     }
   }
 
+  // 8. Source Metadata Validation
+  if (q.source?.sourceType && !VALID_SOURCE_TYPES.includes(q.source.sourceType)) {
+    warnings.push({
+      questionIndex,
+      field: "source.sourceType",
+      message: `Unrecognized sourceType "${q.source.sourceType}". Supported types: ${VALID_SOURCE_TYPES.join(", ")}.`,
+      code: "UNKNOWN_SOURCE_TYPE",
+    });
+  }
+
   const isValid = errors.length === 0;
+
+  let sanitized: SanitizedQuestionPayload | undefined;
+  if (isValid) {
+    sanitized = {
+      externalId: typeof q.externalId === "string" ? q.externalId.trim() : undefined,
+      questionType,
+      questionText: q.questionText!.trim(),
+      difficulty,
+      options: validOptions,
+      correctAnswer,
+      explanation,
+      caseStudy,
+      caseStudyRef,
+      curriculum: q.curriculum
+        ? {
+            subjectCode: typeof q.curriculum.subjectCode === "string" ? q.curriculum.subjectCode.trim() : undefined,
+            chapterCode: typeof q.curriculum.chapterCode === "string" ? q.curriculum.chapterCode.trim() : undefined,
+            unitCode: typeof q.curriculum.unitCode === "string" ? q.curriculum.unitCode.trim() : undefined,
+            topicCode: typeof q.curriculum.topicCode === "string" ? q.curriculum.topicCode.trim() : undefined,
+            nodeCode: typeof q.curriculum.nodeCode === "string" ? q.curriculum.nodeCode.trim() : undefined,
+            curriculumNodeId: typeof q.curriculum.curriculumNodeId === "string" ? q.curriculum.curriculumNodeId.trim() : undefined,
+            _subjectTitle: typeof q.curriculum._subjectTitle === "string" ? q.curriculum._subjectTitle.trim() : undefined,
+            _chapterTitle: typeof q.curriculum._chapterTitle === "string" ? q.curriculum._chapterTitle.trim() : undefined,
+            _unitTitle: typeof q.curriculum._unitTitle === "string" ? q.curriculum._unitTitle.trim() : undefined,
+            _topicTitle: typeof q.curriculum._topicTitle === "string" ? q.curriculum._topicTitle.trim() : undefined,
+          }
+        : undefined,
+      source: q.source,
+      // Legacy compatibility
+      curriculumNodeCode: typeof q.curriculumNodeCode === "string" ? q.curriculumNodeCode.trim() : q.curriculum?.nodeCode,
+      curriculumNodeId: typeof q.curriculumNodeId === "string" ? q.curriculumNodeId.trim() : q.curriculum?.curriculumNodeId,
+      subjectCode: typeof q.subjectCode === "string" ? q.subjectCode.trim() : q.curriculum?.subjectCode,
+      chapterName: typeof q.chapterName === "string" ? q.chapterName.trim() : q.curriculum?._chapterTitle,
+      topicName: typeof q.topicName === "string" ? q.topicName.trim() : q.curriculum?._topicTitle,
+    };
+  }
 
   return {
     isValid,
     hasWarnings: warnings.length > 0,
     errors,
     warnings,
-    sanitizedQuestion: isValid
-      ? {
-          questionType,
-          questionText: q.questionText!.trim(),
-          difficulty,
-          options: validOptions,
-          correctAnswer,
-          explanation,
-          caseStudy,
-          curriculumNodeCode: typeof q.curriculumNodeCode === "string" ? q.curriculumNodeCode.trim() : undefined,
-          curriculumNodeId: typeof q.curriculumNodeId === "string" ? q.curriculumNodeId.trim() : undefined,
-          subjectCode: typeof q.subjectCode === "string" ? q.subjectCode.trim() : undefined,
-          chapterName: typeof q.chapterName === "string" ? q.chapterName.trim() : undefined,
-          topicName: typeof q.topicName === "string" ? q.topicName.trim() : undefined,
-        }
-      : undefined,
+    sanitizedQuestion: sanitized,
   };
 }
 
 /**
- * Validates an entire batch payload containing multiple questions.
+ * Validates an entire batch payload containing multiple questions (Schema v2.0 & v1.0).
  */
 export function validateImportBatch(rawPayload: unknown): BatchValidationResult {
   const batchErrors: string[] = [];
@@ -294,12 +355,36 @@ export function validateImportBatch(rawPayload: unknown): BatchValidationResult 
     };
   }
 
-  // Handle both { questions: [...] } and direct array of questions [...]
   let questionsArray: unknown[] = [];
+  const availableCaseStudyRefs = new Set<string>();
+
   if (Array.isArray(rawPayload)) {
     questionsArray = rawPayload;
   } else {
-    const batch = rawPayload as Partial<RawImportBatchJson>;
+    const batch = rawPayload as Partial<CanonicalBatchJson>;
+
+    // Check schemaVersion if present
+    if (batch.schemaVersion !== undefined && typeof batch.schemaVersion === "string") {
+      if (!SUPPORTED_SCHEMA_VERSIONS.includes(batch.schemaVersion.trim())) {
+        batchErrors.push(
+          `Unsupported schemaVersion "${batch.schemaVersion}". Supported versions: ${SUPPORTED_SCHEMA_VERSIONS.join(", ")}.`
+        );
+      }
+    }
+
+    // Collect batch-level shared case studies
+    if (Array.isArray(batch.caseStudies)) {
+      batch.caseStudies.forEach((cs, csIdx) => {
+        if (cs && typeof cs === "object" && typeof cs.caseStudyRef === "string" && cs.caseStudyRef.trim()) {
+          availableCaseStudyRefs.add(cs.caseStudyRef.trim());
+        } else if (cs && typeof cs === "object" && typeof cs.title === "string" && cs.title.trim()) {
+          availableCaseStudyRefs.add(cs.title.trim());
+        } else {
+          batchErrors.push(`Case study at index ${csIdx} is missing a title or caseStudyRef.`);
+        }
+      });
+    }
+
     if (!Array.isArray(batch.questions)) {
       return {
         isValid: false,
@@ -315,11 +400,11 @@ export function validateImportBatch(rawPayload: unknown): BatchValidationResult 
 
   if (questionsArray.length === 0) {
     return {
-      isValid: false,
+      isValid: batchErrors.length === 0,
       totalQuestions: 0,
       validCount: 0,
       invalidCount: 0,
-      batchErrors: ["Batch contains 0 questions. Please upload at least 1 question."],
+      batchErrors,
       questionResults: [],
     };
   }
@@ -330,7 +415,24 @@ export function validateImportBatch(rawPayload: unknown): BatchValidationResult 
     );
   }
 
-  const questionResults = questionsArray.map((q, idx) => validateImportQuestion(q, idx + 1));
+  // Check for duplicate externalIds within batch
+  const seenExternalIds = new Set<string>();
+  questionsArray.forEach((q, idx) => {
+    if (q && typeof q === "object" && "externalId" in q && typeof (q as { externalId?: unknown }).externalId === "string") {
+      const extId = (q as { externalId: string }).externalId.trim();
+      if (extId) {
+        if (seenExternalIds.has(extId)) {
+          batchErrors.push(`Duplicate externalId "${extId}" found at question index ${idx + 1}. External IDs must be unique within batch.`);
+        } else {
+          seenExternalIds.add(extId);
+        }
+      }
+    }
+  });
+
+  const questionResults = questionsArray.map((q, idx) =>
+    validateImportQuestion(q, idx + 1, availableCaseStudyRefs.size > 0 ? availableCaseStudyRefs : undefined)
+  );
   const validCount = questionResults.filter((r) => r.isValid).length;
   const invalidCount = questionResults.filter((r) => !r.isValid).length;
 

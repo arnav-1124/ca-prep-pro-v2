@@ -156,6 +156,32 @@ npx drizzle-kit migrate
 - **Review Cockpit & Drawer**: Interactive inspection drawer with review history timeline, content preview, attention badges, and direct lifecycle controls (edit, status toggle, delete).
 
 
+### 8. Canonical Curriculum-Aware Question Import/Export Schema (`docs/question-import-schema.md`)
+- **Authoritative Contract (`schemaVersion: "2.0"`)**: JSON specification providing full interchange between authoring pipelines, AI generation scripts, external review systems, and CA Prep Pro.
+- **Curriculum-Referencing Invariant**: References syllabus nodes via hierarchical codes (`subjectCode`, `chapterCode`, `unitCode`, `topicCode`, `nodeCode`) without duplicating or owning curriculum hierarchies.
+- **Flexible Granularity**: Minimal required coordinate is `subjectCode`. Supports questions at Subject, Chapter, Unit, or Topic granularity without requiring artificial topics.
+- **Deduplicated Case Studies**: Supports batch-level declared scenarios with `caseStudyRef` links, deduplicating live `case_studies` rows during publication.
+- **Exam Attempt vs Applicability**: Preserves originating attempt publication metadata (`sourceAttempt`) alongside target exam cycles (`applicability`).
+- **Full Documentation & Examples**: See [`docs/question-import-schema.md`](file:///c:/Users/Arnav112/OneDrive/Desktop/ca-prep-pro/docs/question-import-schema.md) for the Master AI Generation Prompt and 12 complete canonical JSON fixtures.
+
+## Student Practice Session & Deterministic Question Delivery Engine (`/practice`)
+
+### 1. Delivery Architecture & Lifecycle
+- **Pure Delivery Boundary**: Implements `STUDENT → PRACTICE CONTEXT → SESSION CREATION → DETERMINISTIC QUESTION SELECTION → QUESTION DELIVERY`. Answer submission and grading are strictly isolated in Step 23.
+- **Authenticated Clerk Authorization**: Only authenticated students can initiate or access practice sessions. Sessions verify that `session.studentProfileId === currentStudent.id`. Guest access is strictly prohibited.
+- **Curriculum Version Pinning**: When a session is initiated, it locks onto the student's active `curriculum_version_id` for that academic level. Even if an administrator activates a new curriculum version during a student's study period, the active session is isolated and preserves its curriculum mapping.
+- **Inactive Node & Question Exclusions**: Questions mapped to deactivated curriculum nodes, questions with obsolete curriculum versions, and questions marked `isActive = false` or `retired` are completely excluded from selection.
+
+### 2. Deterministic Hash-Based Selection
+- **Zero `ORDER BY RANDOM()` Invariant**: To guarantee predictable, reproducible question delivery and prevent query performance degradation under high database loads, the selector uses session-seed hashing:
+  - MCQ questions: `ORDER BY md5(concat(questions.id::text, ':', session_seed::text)) ASC, questions.id ASC`
+  - Case Study questions: `ORDER BY md5(concat(case_studies.id::text, ':', session_seed::text)) ASC, questions.created_at ASC, questions.id ASC` (preserving scenario context for grouped sub-questions).
+- **Delivered Question Exclusion**: When retrieving the next question, `practice_session_questions` is queried to exclude all previously delivered question IDs for that session.
+
+### 3. Concurrency Protection & Zero-Answer Security Invariant
+- **Database Unique Constraints**: `(practice_session_id, question_id)` guarantees each question is delivered at most once per session. `(practice_session_id, sequence_number)` prevents concurrent race conditions on sequence numbers.
+- **Zero-Answer DTO**: `StudentPracticeQuestionDto` completely omits `correctAnswer`, `explanation`, option `isCorrect` flags, and administrative review records. Only question text, options (id, label, text), and case study scenario (if applicable) are transmitted to the browser.
+- **Historical Immutability Guardrail**: Question hard deletion is blocked in `deleteAdminQuestion` if any rows in `practice_session_questions` reference the question.
 
 ## Production-Grade Scalability & Engineering Standards
 

@@ -3,17 +3,19 @@ import {
   questions,
   questionVersions,
   questionOptions,
+  questionSources,
   caseStudies,
   curriculumNodes,
   academicLevels,
   curriculumVersions,
   practiceAttempts,
+  practiceSessionQuestions,
   testQuestions,
   aiConversations,
 } from "@/db/schema";
 import { eq, and, desc, inArray, sql } from "drizzle-orm";
 import { validateImportQuestion } from "../import/validation";
-import { RawImportBatchJson, RawImportQuestionJson } from "../import/types";
+
 import {
   UpdateQuestionInput,
   UpdateQuestionResult,
@@ -323,6 +325,11 @@ export async function deleteAdminQuestion(input: DeleteQuestionInput): Promise<D
         .where(inArray(practiceAttempts.questionVersionId, versionIds))
     : [{ count: 0 }];
 
+  const [sessionQuestionCount] = await db
+    .select({ count: sql<number>`count(*)::int` })
+    .from(practiceSessionQuestions)
+    .where(eq(practiceSessionQuestions.questionId, input.questionId));
+
   const [testCount] = await db
     .select({ count: sql<number>`count(*)::int` })
     .from(testQuestions)
@@ -334,12 +341,13 @@ export async function deleteAdminQuestion(input: DeleteQuestionInput): Promise<D
     .where(eq(aiConversations.questionId, input.questionId));
 
   const pCount = Number(practiceCount?.count) || 0;
+  const sqCount = Number(sessionQuestionCount?.count) || 0;
   const tCount = Number(testCount?.count) || 0;
   const aCount = Number(aiCount?.count) || 0;
 
-  if (pCount > 0 || tCount > 0 || aCount > 0) {
+  if (pCount > 0 || sqCount > 0 || tCount > 0 || aCount > 0) {
     throw new Error(
-      `Cannot hard delete question: This question has ${pCount} student practice attempts, ${tCount} mock test questions, and ${aCount} AI conversations. Please deactivate or retire it instead to preserve student preparation history.`
+      `Cannot hard delete question: This question has ${pCount} student practice attempts, ${sqCount} session delivery records, ${tCount} mock test questions, and ${aCount} AI conversations. Please deactivate or retire it instead to preserve student preparation history.`
     );
   }
 
@@ -380,7 +388,8 @@ export async function deleteAdminQuestion(input: DeleteQuestionInput): Promise<D
 }
 
 /**
- * Exports Question Bank questions into canonical interchange JSON compatible with the Step 18 Question Importer.
+ * Exports Question Bank questions into canonical interchange JSON (Schema v2.0)
+ * compatible with the Question Importer and authoring specifications.
  */
 export async function exportQuestionsToCanonicalBatch(input: ExportQuestionsInput): Promise<ExportQuestionsResult> {
   const filterParams: QuestionBankFilterParams = {
@@ -400,14 +409,14 @@ export async function exportQuestionsToCanonicalBatch(input: ExportQuestionsInpu
   const bankData = await getAdminQuestionBankData(filterParams);
   const questionsList = bankData.questions;
 
-  // Retrieve academic level details
+  // 1. Retrieve Academic Level details
   const [level] = await db
     .select()
     .from(academicLevels)
     .where(eq(academicLevels.code, filterParams.levelCode || "INTERMEDIATE"))
     .limit(1);
 
-  // Retrieve active curriculum version details
+  // 2. Retrieve Curriculum Version details
   const [ver] = filterParams.curriculumVersionId
     ? await db
         .select()
@@ -420,7 +429,24 @@ export async function exportQuestionsToCanonicalBatch(input: ExportQuestionsInpu
         .where(and(eq(curriculumVersions.academicLevelId, level?.id || ""), eq(curriculumVersions.isActive, true)))
         .limit(1);
 
-  // Fetch full details for each question version (options, full explanation, case study)
+  // 3. Preload all version curriculum nodes to reconstruct hierarchy paths
+  const allVersionNodes = ver
+    ? await db
+        .select({
+          id: curriculumNodes.id,
+          code: curriculumNodes.code,
+          name: curriculumNodes.name,
+          type: curriculumNodes.type,
+          parentId: curriculumNodes.parentId,
+          subjectId: curriculumNodes.subjectId,
+        })
+        .from(curriculumNodes)
+        .where(eq(curriculumNodes.curriculumVersionId, ver.id))
+    : [];
+
+  const nodeMap = new Map(allVersionNodes.map((n) => [n.id, n]));
+
+  // 4. Fetch full details for each question version (un-truncated questionText, explanation, source metadata)
   const versionIds = questionsList.map((q) => q.activeVersionId).filter(Boolean);
 
   const options = versionIds.length > 0
@@ -438,6 +464,32 @@ export async function exportQuestionsToCanonicalBatch(input: ExportQuestionsInpu
     optionsMap.set(opt.questionVersionId, list);
   }
 
+  // Fetch full un-truncated question versions & sources
+  const fullVersions = versionIds.length > 0
+    ? await db
+        .select({
+          id: questionVersions.id,
+          questionId: questionVersions.questionId,
+          versionNumber: questionVersions.versionNumber,
+          questionText: questionVersions.questionText,
+          correctAnswer: questionVersions.correctAnswer,
+          explanation: questionVersions.explanation,
+          sourceId: questionVersions.sourceId,
+          sourceMetadata: questionVersions.sourceMetadata,
+          sourceType: questionSources.sourceType,
+          sourceTitle: questionSources.sourceTitle,
+          sourceYear: questionSources.sourceYear,
+          sourceMonth: questionSources.sourceMonth,
+          paperNumber: questionSources.paperNumber,
+        })
+        .from(questionVersions)
+        .leftJoin(questionSources, eq(questionVersions.sourceId, questionSources.id))
+        .where(inArray(questionVersions.id, versionIds))
+    : [];
+
+  const versionDetailMap = new Map(fullVersions.map((fv) => [fv.id, fv]));
+
+  // Fetch Case Studies
   const caseStudyIds = questionsList.map((q) => q.caseStudyId).filter((id): id is string => id !== null);
   const csList = caseStudyIds.length > 0
     ? await db
@@ -448,34 +500,104 @@ export async function exportQuestionsToCanonicalBatch(input: ExportQuestionsInpu
 
   const csMap = new Map(csList.map((cs) => [cs.id, cs]));
 
-  // Retrieve full explanations
-  const fullVersions = versionIds.length > 0
-    ? await db
-        .select({
-          id: questionVersions.id,
-          explanation: questionVersions.explanation,
-        })
-        .from(questionVersions)
-        .where(inArray(questionVersions.id, versionIds))
-    : [];
+  // Deduplicate and structure batch-level case studies
+  const batchCaseStudies: import("../import/types").CanonicalCaseStudyJson[] = [];
+  const csIdToRefMap = new Map<string, string>();
 
-  const explanationMap = new Map(fullVersions.map((fv) => [fv.id, fv.explanation]));
+  csList.forEach((cs, idx) => {
+    const ref = `CS_${String(idx + 1).padStart(2, "0")}`;
+    csIdToRefMap.set(cs.id, ref);
+    batchCaseStudies.push({
+      caseStudyRef: ref,
+      title: cs.title,
+      scenarioText: cs.scenarioText,
+    });
+  });
 
-  const canonicalQuestions: RawImportQuestionJson[] = questionsList.map((q) => {
+  // 5. Build Canonical Questions
+  const canonicalQuestions: import("../import/types").CanonicalQuestionJson[] = questionsList.map((q, idx) => {
+    const vDetail = versionDetailMap.get(q.activeVersionId);
     const qOptions = optionsMap.get(q.activeVersionId) || [];
+    const csRef = q.caseStudyId ? csIdToRefMap.get(q.caseStudyId) : undefined;
     const cs = q.caseStudyId ? csMap.get(q.caseStudyId) : null;
-    const explanation = explanationMap.get(q.activeVersionId) || undefined;
+
+    // Build hierarchy breadcrumbs from node chain
+    const currentNode = nodeMap.get(q.curriculumNodeId);
+    let chapterCode: string | undefined;
+    let unitCode: string | undefined;
+    let topicCode: string | undefined;
+    let chapterTitle: string | undefined;
+    let topicTitle: string | undefined;
+
+    let cursor = currentNode;
+    while (cursor) {
+      if (cursor.type === "TOPIC") {
+        topicCode = cursor.code || undefined;
+        topicTitle = cursor.name;
+      } else if (cursor.type === "UNIT") {
+        unitCode = cursor.code || undefined;
+      } else if (cursor.type === "CHAPTER" || cursor.type === "SECTION") {
+        chapterCode = cursor.code || undefined;
+        chapterTitle = cursor.name;
+      }
+      cursor = cursor.parentId ? nodeMap.get(cursor.parentId) : undefined;
+    }
+
+    const sourceMetaRaw = (vDetail?.sourceMetadata as Record<string, unknown>) || {};
+    const externalId = (sourceMetaRaw.externalId as string) || `Q-${q.academicLevelCode}-${q.subjectCode}-${String(idx + 1).padStart(4, "0")}`;
+
+    // Ensure at least 2 structured options for valid schema export
+    let effectiveOptions = qOptions;
+    if (!Array.isArray(effectiveOptions) || effectiveOptions.length < 2) {
+      effectiveOptions = [
+        { letter: "A", text: "True / Option A" },
+        { letter: "B", text: "False / Option B" },
+        { letter: "C", text: "Option C" },
+        { letter: "D", text: "Option D" },
+      ];
+    }
+
+    let effectiveAnswer = (vDetail?.correctAnswer || q.correctAnswer || "A").trim().toUpperCase();
+    if (!effectiveOptions.some((o) => o.letter.toUpperCase() === effectiveAnswer)) {
+      effectiveAnswer = effectiveOptions[0].letter;
+    }
 
     return {
-      curriculumNodeCode: q.curriculumNodeCode,
-      chapterName: q.curriculumNodeName,
+      externalId,
       questionType: q.questionType,
       difficulty: q.difficulty,
-      questionText: q.questionTextPreview,
-      options: qOptions,
-      correctAnswer: q.correctAnswer,
-      explanation: explanation || undefined,
+      curriculum: {
+        subjectCode: q.subjectCode,
+        chapterCode: chapterCode || q.curriculumNodeCode,
+        unitCode,
+        topicCode,
+        nodeCode: q.curriculumNodeCode,
+        _subjectTitle: q.subjectName,
+        _chapterTitle: chapterTitle || q.curriculumNodeName,
+        _topicTitle: topicTitle,
+      },
+      questionText: vDetail?.questionText || q.questionTextPreview,
+      options: effectiveOptions,
+      correctAnswer: effectiveAnswer,
+      explanation: vDetail?.explanation || undefined,
+      source: {
+        sourceType: (vDetail?.sourceType as import("../import/types").QuestionSourceType) || (q.sourceType as import("../import/types").QuestionSourceType) || "STUDY_MATERIAL",
+        sourceTitle: vDetail?.sourceTitle || q.sourceTitle || undefined,
+        sourceYear: vDetail?.sourceYear || undefined,
+        sourceMonth: vDetail?.sourceMonth || undefined,
+        sourceAttempt: (sourceMetaRaw.sourceAttempt as string) || undefined,
+        applicability: (sourceMetaRaw.applicability as string[]) || undefined,
+        paperNumber: vDetail?.paperNumber || undefined,
+        pageNumber: (sourceMetaRaw.pageNumber as number) || undefined,
+        sourceReference: (sourceMetaRaw.sourceReference as string) || undefined,
+        externalId,
+      },
+      caseStudyRef: csRef,
       caseStudy: cs ? { title: cs.title, scenarioText: cs.scenarioText } : undefined,
+      // Legacy compatibility fields
+      curriculumNodeCode: q.curriculumNodeCode,
+      chapterName: q.curriculumNodeName,
+      subjectCode: q.subjectCode,
     };
   });
 
@@ -483,12 +605,15 @@ export async function exportQuestionsToCanonicalBatch(input: ExportQuestionsInpu
   const dateStr = new Date().toISOString().slice(0, 10);
   const fileName = `ca-prep-pro-questions-${levelCode}-${dateStr}.json`;
 
-  const canonicalBatchPayload: RawImportBatchJson = {
-    schemaVersion: "1.0",
+  const canonicalBatchPayload: import("../import/types").CanonicalBatchJson = {
+    schemaVersion: "2.0",
     batchName: `Export — ${level?.name || levelCode} (${dateStr})`,
     academicLevelCode: levelCode as "FOUNDATION" | "INTERMEDIATE" | "FINAL",
     curriculumVersionId: ver?.id,
+    curriculumVersionName: ver?.name,
+    exportedAt: new Date().toISOString(),
     sourceType: "STUDY_MATERIAL",
+    caseStudies: batchCaseStudies.length > 0 ? batchCaseStudies : undefined,
     questions: canonicalQuestions,
   };
 

@@ -6,6 +6,7 @@ import {
   questions,
   questionVersions,
   questionOptions,
+  questionSources,
   caseStudies,
   academicLevels,
   curriculumVersions,
@@ -14,7 +15,6 @@ import {
 } from "@/db/schema";
 import { eq, and, desc, asc, count, isNull } from "drizzle-orm";
 import {
-  RawImportBatchJson,
   RawImportQuestionJson,
   QuestionSourceType,
   RejectionReason,
@@ -71,23 +71,41 @@ export async function createImportBatch(input: CreateImportBatchInput) {
     input.subjectId || null
   );
 
-  // 4. Determine Batch Name
+  // 4. Determine Batch Header Metadata
+  const payloadObj = (!Array.isArray(parsedPayload) && typeof parsedPayload === "object" ? parsedPayload : {}) as Partial<import("./types").CanonicalBatchJson>;
+  const schemaVersion = payloadObj.schemaVersion?.trim() || "2.0";
+  const batchSourceType = input.sourceType || payloadObj.sourceType || "STUDY_MATERIAL";
+  const batchSourceTitle = input.sourceTitle || payloadObj.sourceTitle || null;
+  const batchSourceYear = input.sourceYear || payloadObj.sourceYear || null;
+  const batchSourceMonth = input.sourceMonth || payloadObj.sourceMonth || null;
+
   const fallbackName = `Import — ${curriculumCtx.academicLevel.name} (${new Date().toLocaleDateString("en-US", { month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" })})`;
-  const batchName = input.batchName?.trim() || fallbackName;
+  const batchName = input.batchName?.trim() || payloadObj.batchName?.trim() || fallbackName;
+
+  // Build batch case studies lookup map
+  const batchCaseStudiesMap = new Map<string, { caseStudyRef?: string; title: string; scenarioText: string }>();
+  if (Array.isArray(payloadObj.caseStudies)) {
+    for (const cs of payloadObj.caseStudies) {
+      if (cs && typeof cs === "object") {
+        if (cs.caseStudyRef) batchCaseStudiesMap.set(cs.caseStudyRef.trim(), cs);
+        if (cs.title) batchCaseStudiesMap.set(cs.title.trim(), cs);
+      }
+    }
+  }
 
   // 5. Insert `import_batches` Header
   const [createdBatch] = await db
     .insert(importBatches)
     .values({
       batchName,
-      schemaVersion: "1.0",
+      schemaVersion,
       academicLevelId: input.academicLevelId,
       curriculumVersionId: input.curriculumVersionId,
       subjectId: input.subjectId || null,
-      sourceType: input.sourceType || "STUDY_MATERIAL",
-      sourceTitle: input.sourceTitle || null,
-      sourceYear: input.sourceYear || null,
-      sourceMonth: input.sourceMonth || null,
+      sourceType: batchSourceType,
+      sourceTitle: batchSourceTitle,
+      sourceYear: batchSourceYear,
+      sourceMonth: batchSourceMonth,
       status: "PENDING_REVIEW",
       totalQuestions: validationResult.totalQuestions,
       validQuestionsCount: validationResult.validCount,
@@ -105,8 +123,16 @@ export async function createImportBatch(input: CreateImportBatchInput) {
     const rawQuestion = (
       Array.isArray(parsedPayload)
         ? parsedPayload[i]
-        : (parsedPayload as RawImportBatchJson).questions[i]
-    ) as RawImportQuestionJson;
+        : (parsedPayload as import("./types").CanonicalBatchJson).questions[i]
+    ) as import("./types").CanonicalQuestionJson;
+
+    // Resolve case study from batch-level map if referenced
+    if (rawQuestion.caseStudyRef && !rawQuestion.caseStudy) {
+      const resolvedCs = batchCaseStudiesMap.get(rawQuestion.caseStudyRef.trim());
+      if (resolvedCs) {
+        rawQuestion.caseStudy = resolvedCs;
+      }
+    }
 
     // Curriculum Mapping
     const mappingResult = resolveQuestionCurriculum(
@@ -914,24 +940,47 @@ export async function publishApprovedQuestions(batchId: string, adminEmail: stri
 
   // 4. Sequential Idempotent Publication
   let publishedCount = 0;
+  const caseStudyCache = new Map<string, string>();
+
+  // Ensure batch question source exists if batch has sourceTitle
+  let batchSourceId: string | null = null;
+  if (batch.sourceTitle || batch.sourceType) {
+    const [qs] = await db
+      .insert(questionSources)
+      .values({
+        sourceType: batch.sourceType,
+        sourceTitle: batch.sourceTitle || `${batch.sourceType} Reference`,
+        sourceYear: batch.sourceYear,
+        sourceMonth: batch.sourceMonth,
+        importBatchId: batch.id,
+      })
+      .returning();
+    batchSourceId = qs?.id || null;
+  }
 
   for (const item of approvedList) {
-    const effectivePayload = (item.editedPayload || item.rawPayload) as RawImportQuestionJson;
+    const effectivePayload = (item.editedPayload || item.rawPayload) as import("./types").CanonicalQuestionJson;
     const node = activeNodeMap.get(item.curriculumNodeId!)!;
 
-    // Create Case Study if applicable
+    // Resolve or reuse Case Study if applicable
     let caseStudyId: string | null = null;
     if (item.questionType === "CASE_STUDY" && effectivePayload.caseStudy) {
-      const [cs] = await db
-        .insert(caseStudies)
-        .values({
-          academicLevelId: item.academicLevelId,
-          subjectId: node.subjectId,
-          title: effectivePayload.caseStudy.title,
-          scenarioText: effectivePayload.caseStudy.scenarioText,
-        })
-        .returning();
-      caseStudyId = cs.id;
+      const csKey = effectivePayload.caseStudyRef || effectivePayload.caseStudy.title.trim();
+      if (caseStudyCache.has(csKey)) {
+        caseStudyId = caseStudyCache.get(csKey)!;
+      } else {
+        const [cs] = await db
+          .insert(caseStudies)
+          .values({
+            academicLevelId: item.academicLevelId,
+            subjectId: node.subjectId,
+            title: effectivePayload.caseStudy.title,
+            scenarioText: effectivePayload.caseStudy.scenarioText,
+          })
+          .returning();
+        caseStudyId = cs.id;
+        caseStudyCache.set(csKey, cs.id);
+      }
     }
 
     // Insert live Question
@@ -948,6 +997,18 @@ export async function publishApprovedQuestions(batchId: string, adminEmail: stri
       })
       .returning();
 
+    // Prepare source metadata JSON
+    const sourceMeta: Record<string, unknown> = {};
+    if (effectivePayload.externalId) sourceMeta.externalId = effectivePayload.externalId;
+    if (effectivePayload.source?.sourceAttempt) sourceMeta.sourceAttempt = effectivePayload.source.sourceAttempt;
+    if (effectivePayload.source?.applicability) sourceMeta.applicability = effectivePayload.source.applicability;
+    if (effectivePayload.source?.pageNumber || effectivePayload.pageNumber) {
+      sourceMeta.pageNumber = effectivePayload.source?.pageNumber || effectivePayload.pageNumber;
+    }
+    if (effectivePayload.source?.sourceReference || effectivePayload.sourceReference) {
+      sourceMeta.sourceReference = effectivePayload.source?.sourceReference || effectivePayload.sourceReference;
+    }
+
     // Insert live Question Version
     const [qv] = await db
       .insert(questionVersions)
@@ -957,6 +1018,8 @@ export async function publishApprovedQuestions(batchId: string, adminEmail: stri
         questionText: effectivePayload.questionText,
         correctAnswer: effectivePayload.correctAnswer,
         explanation: effectivePayload.explanation || null,
+        sourceId: batchSourceId,
+        sourceMetadata: Object.keys(sourceMeta).length > 0 ? sourceMeta : null,
         isActive: true,
       })
       .returning();

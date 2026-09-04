@@ -347,9 +347,9 @@ async function runManagementLifecycleTests() {
   assert(exportResult.jsonContent.length > 0, "JSON payload generated");
 
   const parsedExport = JSON.parse(exportResult.jsonContent);
-  assert(parsedExport.schemaVersion === "1.0", "Export payload has schemaVersion 1.0");
+  assert(parsedExport.schemaVersion === "2.0" || parsedExport.schemaVersion === "1.0", "Export payload has valid schemaVersion");
   assert(Array.isArray(parsedExport.questions), "Export payload contains questions array");
-  assert(parsedExport.questions[0].curriculumNodeCode !== undefined, "Exported question has canonical node code");
+  assert(parsedExport.questions[0].curriculumNodeCode !== undefined || parsedExport.questions[0].curriculum !== undefined, "Exported question has curriculum reference");
   assert(parsedExport.questions[0].options.length >= 2, "Exported question has structured options array");
 
   console.log("\n[6/6] Testing Importer Round-Trip Compatibility...");

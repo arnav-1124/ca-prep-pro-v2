@@ -125,9 +125,18 @@ The operational intelligence engine flags live questions across 11 deterministic
 * **Immutability Guarantee**: Recording review decisions never modifies student practice attempts, mock test answers, or past scorecards.
 * **Audit Timeline**: The review drawer presents a chronological timeline of all review decisions, reviewer identity, version snapshots, and reviewer notes.
 
-### 3. Review Workspace Cockpit
-* **Operational KPI Cards**: Displays Needing Attention count, Critical/High Priority count, Obsolete Syllabus count, Weak Explanations count, and Unreviewed Questions count.
-* **Server-Side Queue Filtering**: Instant filtering by Attention Reason, Severity Rank, Subject, Review Decision Status, Usage State, and Search Query.
-* **Interactive Review Drawer**: Inspects full content, version history, usage analytics, attention flags, and provides an operational decision form with in-drawer status toggling and editing.
+---
+
+## Canonical Curriculum-Aware Question Import/Export Schema (`docs/question-import-schema.md`)
+
+*Implemented in Step 21 as the authoritative schema specification (Schema v2.0).*
+
+### 1. Curriculum-Aware Contract
+* **Curriculum Referencing, Not Duplication**: Questions reference subjects, chapters, units, and topics via canonical codes (`subjectCode`, `chapterCode`, `unitCode`, `topicCode`, `nodeCode`) without duplicating or owning curriculum hierarchies.
+* **Flexible Granularity**: Minimal required coordinate is `subjectCode`. Supports questions at Subject, Chapter, Unit, or Topic granularity without requiring artificial topics.
+* **Shared Case Studies**: Supports batch-level declared scenarios with `caseStudyRef` links, deduplicating live `case_studies` rows during publication.
+* **Exam Origin vs Target Applicability**: Separates `sourceAttempt` (e.g. `RTP May 2026`) from `applicability` (e.g. `["MAY_2026", "NOV_2026", "MAY_2027"]`).
+* **Authoring Specification**: Detailed schema documentation, field reference tables, Master AI generation prompt, and 12 complete examples are published in [`docs/question-import-schema.md`](file:///c:/Users/Arnav112/OneDrive/Desktop/ca-prep-pro/docs/question-import-schema.md).
+
 
 

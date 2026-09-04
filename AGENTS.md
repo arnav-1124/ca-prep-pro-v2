@@ -318,6 +318,64 @@ The operational review engine systematically tags live questions using 11 explai
 - Review actions **never** mutate historical student practice attempts, test answers, or grading accuracy.
 - Review queue queries provide server-side filtering by attention reason, severity rank, syllabus subject, review decision status, and usage traffic.
 
+---
+
+## 14. Canonical Curriculum-Aware Question Import/Export Schema (Schema v2.0)
+
+### 1. Curriculum-Aware, Not Curriculum-Duplicating Invariant
+- Question files and import/export payloads are **curriculum-aware references**, not curriculum owners.
+- Questions reference subjects, chapters, units, and topics via canonical codes (`subjectCode`, `chapterCode`, `unitCode`, `topicCode`, `nodeCode`) and display titles prefixed with an underscore (`_subjectTitle`, `_chapterTitle`, `_topicTitle`).
+- **Zero Auto-Creation**: Question Bank import pipelines must **never** create new curriculum nodes, subjects, or chapters. The Curriculum Admin is the sole authority for curriculum structure.
+
+### 2. Hierarchical Flexibility & Flexible Mapping Levels
+- The minimal required curriculum coordinate is `subjectCode`.
+- Questions mapped to Subject-only, Subject + Chapter, Subject + Chapter + Unit, or Subject + Chapter + Unit + Topic are all valid.
+- A question **must never be rejected** merely because it lacks a topic-level classification.
+
+### 3. Source Origin vs Target Exam Applicability
+- `sourceAttempt`: Originating publication/attempt context (e.g., `RTP May 2026`).
+- `applicability`: Target exam cycles for which the question is relevant (e.g., `["MAY_2026", "NOV_2026", "MAY_2027"]`).
+
+### 4. Shared Case Study Deduplication
+- Shared case study scenarios are declared once at the batch level (`caseStudies: [...]`) and linked to child questions via `caseStudyRef`.
+- Live publication deduplicates identical case study texts into a single live `case_studies` database record, sharing foreign key references across sibling questions.
+
+### 5. Export/Import Round-Trip Guarantee
+- `exportQuestionsToCanonicalBatch` generates authoritative Canonical Schema v2.0 JSON.
+- The pipeline guarantees 100% round-trip fidelity: `EXPORT` $\rightarrow$ `IMPORT` $\rightarrow$ `VALIDATE` $\rightarrow$ `STAGE` $\rightarrow$ `PUBLISH` without schema loss or duplicate creation.
+- Backward compatibility is maintained for legacy Schema v1.0 payloads.
+
+---
+
+## 15. Student Practice Session & Deterministic Question Delivery Engine
+
+### 1. Authenticated Student Isolation & Ownership
+- Practice sessions are strictly authenticated. Client-provided user IDs are never trusted; user identity is derived server-side from Clerk session tokens (`currentUser()`).
+- Cross-student access is strictly forbidden: a student cannot inspect, advance, or modify another student's practice session.
+
+### 2. Historical Curriculum & Version Invariance
+- At session creation, the student's active `curriculum_version_id` is permanently locked onto `practice_sessions`.
+- Sessions do not silently switch to a new curriculum version if an administrator subsequently publishes or activates a new syllabus scheme.
+- Inactive curriculum nodes or subjects cannot be selected for new practice sessions.
+
+### 3. Immutable Delivered Question Snapshots
+- When a question is delivered to a student session, the exact `question_version_id` is recorded in `practice_session_questions`.
+- Subsequent question edits or version increments (`v1` $\rightarrow$ `v2`) or retirement do not alter or delete what was previously delivered to the student session.
+- System guardrails in `deleteAdminQuestion` audit `practice_session_questions` and block hard deletion if question delivery records exist.
+
+### 4. Zero Answer Exposure Delivery Contract
+- The student delivery payload (`StudentPracticeQuestionDto`) strictly omits `correctAnswer`, `explanation`, `isCorrect` option flags, admin review notes, AI prompts, and duplicate-detection metadata.
+- Serialized ORM rows must never be returned directly to the client without passing through the sanitized DTO layer.
+
+### 5. Deterministic Selection & Concurrency Guardrails
+- Question selection operates deterministically using a server-side `session_seed` hashed against eligible question IDs:
+  `ORDER BY md5(concat(questions.id::text, ':', session_seed::text)) ASC, questions.id ASC`.
+  Expensive non-deterministic `ORDER BY RANDOM()` is strictly forbidden in production.
+- Duplicate question delivery within a session is prevented via the database unique index `UNIQUE (practice_session_id, question_id)`.
+- Concurrent sequence collisions are prevented via `UNIQUE (practice_session_id, sequence_number)`. Concurrent requests that race on delivery catch the collision and safely return the delivered item without creating duplicates.
+
+
+
 
 
 

@@ -221,12 +221,12 @@ export function AdminImportsClient({
             <h1 className="text-2xl font-extrabold text-foreground tracking-tight">
               Question Import & Review Queues
             </h1>
-            <span className="bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 border border-emerald-500/20 text-[10px] font-extrabold px-2.5 py-0.5 rounded-full uppercase tracking-wider">
-              Step 18
+            <span className="bg-primary/10 text-primary border border-primary/20 text-[10px] font-extrabold px-2.5 py-0.5 rounded-full uppercase tracking-wider">
+              Schema v2.0 Canonical
             </span>
           </div>
           <p className="text-xs text-muted-foreground font-sans">
-            Upload structured JSON question batches, run deterministic validation, and conduct one-by-one human review.
+            Upload curriculum-aware JSON batches (v2.0 / v1.0), validate hierarchical mappings, and conduct human review prior to publication.
           </p>
         </div>
 

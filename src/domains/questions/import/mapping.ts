@@ -2,7 +2,7 @@ import { db } from "@/db";
 import { academicLevels, curriculumVersions, subjects, curriculumNodes } from "@/db/schema";
 import { eq, and } from "drizzle-orm";
 import {
-  RawImportQuestionJson,
+  CanonicalQuestionJson,
   CurriculumResolutionResult,
 } from "./types";
 
@@ -107,22 +107,47 @@ export async function buildVersionCurriculumContext(
 }
 
 /**
- * Resolves the curriculum mapping for an individual question.
+ * Resolves curriculum mapping for an individual question with hierarchical validation.
  */
 export function resolveQuestionCurriculum(
-  q: RawImportQuestionJson,
+  q: CanonicalQuestionJson,
   ctx: VersionCurriculumContext,
   defaultSubjectId?: string | null
 ): CurriculumResolutionResult {
   const levelName = ctx.academicLevel.name;
   const versionName = ctx.curriculumVersion.name;
 
-  // 1. Tier 1: Canonical Code Match (Highest Precedence)
-  if (q.curriculumNodeCode) {
-    const codeKey = q.curriculumNodeCode.trim().toUpperCase();
+  // Extract explicit or nested curriculum references
+  const nodeCode = q.curriculum?.nodeCode || q.curriculumNodeCode;
+  const nodeId = q.curriculum?.curriculumNodeId || q.curriculumNodeId;
+  const subjectCode = q.curriculum?.subjectCode || q.subjectCode;
+  const chapterCode = q.curriculum?.chapterCode;
+  const unitCode = q.curriculum?.unitCode;
+  const topicCode = q.curriculum?.topicCode;
+
+  // 1. Tier 1: Direct Canonical Code Match (Highest Precedence)
+  if (nodeCode) {
+    const codeKey = nodeCode.trim().toUpperCase();
     const matchedNode = ctx.codeToNode.get(codeKey);
     if (matchedNode) {
       const subject = ctx.subjects.find((s) => s.id === matchedNode.subjectId);
+
+      // Validate subject consistency if subjectCode was also supplied
+      if (subjectCode) {
+        const expectedSubject = ctx.subjectCodeToSubject.get(subjectCode.trim().toUpperCase());
+        if (expectedSubject && expectedSubject.id !== matchedNode.subjectId) {
+          return {
+            status: "UNMAPPED",
+            academicLevelId: ctx.academicLevel.id,
+            curriculumVersionId: ctx.curriculumVersion.id,
+            subjectId: expectedSubject.id,
+            curriculumNodeId: null,
+            matchDescription: `Mismatch: Node "${nodeCode}" belongs to subject "${subject?.name}" but question declared subjectCode "${subjectCode}".`,
+            breadcrumbs: { levelName, versionName, subjectName: expectedSubject.name },
+          };
+        }
+      }
+
       return {
         status: "MATCHED_CANONICAL",
         academicLevelId: ctx.academicLevel.id,
@@ -142,8 +167,8 @@ export function resolveQuestionCurriculum(
   }
 
   // 2. Tier 2: Explicit Database UUID Match
-  if (q.curriculumNodeId) {
-    const matchedNode = ctx.idToNode.get(q.curriculumNodeId.trim());
+  if (nodeId) {
+    const matchedNode = ctx.idToNode.get(nodeId.trim());
     if (matchedNode) {
       const subject = ctx.subjects.find((s) => s.id === matchedNode.subjectId);
       return {
@@ -152,7 +177,7 @@ export function resolveQuestionCurriculum(
         curriculumVersionId: ctx.curriculumVersion.id,
         subjectId: matchedNode.subjectId,
         curriculumNodeId: matchedNode.id,
-        matchDescription: `Matched exact curriculum node UUID.`,
+        matchDescription: "Matched exact curriculum node UUID.",
         breadcrumbs: {
           levelName,
           versionName,
@@ -164,15 +189,101 @@ export function resolveQuestionCurriculum(
     }
   }
 
-  // 3. Tier 3: Subject Resolution from Hint
+  // 3. Tier 3: Hierarchical Coordinates ({ subjectCode, chapterCode, unitCode, topicCode })
   let matchedSubjectId = defaultSubjectId || null;
-  if (q.subjectCode) {
-    const s = ctx.subjectCodeToSubject.get(q.subjectCode.trim().toUpperCase());
-    if (s) matchedSubjectId = s.id;
+  if (subjectCode) {
+    const s = ctx.subjectCodeToSubject.get(subjectCode.trim().toUpperCase());
+    if (s) {
+      matchedSubjectId = s.id;
+    } else {
+      return {
+        status: "UNMAPPED",
+        academicLevelId: ctx.academicLevel.id,
+        curriculumVersionId: ctx.curriculumVersion.id,
+        subjectId: null,
+        curriculumNodeId: null,
+        matchDescription: `Subject code "${subjectCode}" does not exist in curriculum version "${versionName}".`,
+        breadcrumbs: { levelName, versionName },
+      };
+    }
   }
 
-  // 4. Tier 4: Exact Name Matching (Topic or Chapter)
-  const nameCandidate = q.topicName || q.chapterName;
+  // Hierarchical Node Matching: Topic -> Unit -> Chapter -> Subject
+  const targetCode = topicCode || unitCode || chapterCode;
+  if (targetCode) {
+    const codeKey = targetCode.trim().toUpperCase();
+    const matchedNode = ctx.codeToNode.get(codeKey);
+
+    if (matchedNode) {
+      const nodeSubject = ctx.subjects.find((s) => s.id === matchedNode.subjectId);
+
+      // Validate hierarchy relationship: Node MUST belong to declared subject
+      if (matchedSubjectId && matchedNode.subjectId !== matchedSubjectId) {
+        const declaredSubject = ctx.subjects.find((s) => s.id === matchedSubjectId);
+        return {
+          status: "UNMAPPED",
+          academicLevelId: ctx.academicLevel.id,
+          curriculumVersionId: ctx.curriculumVersion.id,
+          subjectId: matchedSubjectId,
+          curriculumNodeId: null,
+          matchDescription: `Hierarchy violation: Node code "${targetCode}" belongs to subject "${nodeSubject?.name}", not declared subject "${declaredSubject?.name}".`,
+          breadcrumbs: { levelName, versionName, subjectName: declaredSubject?.name },
+        };
+      }
+
+      // If unitCode or chapterCode is also declared, validate parent relationships
+      if (unitCode && topicCode && matchedNode.parentId) {
+        const parentNode = ctx.idToNode.get(matchedNode.parentId);
+        if (parentNode && parentNode.code?.toUpperCase() !== unitCode.trim().toUpperCase()) {
+          return {
+            status: "UNMAPPED",
+            academicLevelId: ctx.academicLevel.id,
+            curriculumVersionId: ctx.curriculumVersion.id,
+            subjectId: matchedNode.subjectId,
+            curriculumNodeId: null,
+            matchDescription: `Hierarchy violation: Topic "${topicCode}" is not a child of unit "${unitCode}".`,
+            breadcrumbs: { levelName, versionName, subjectName: nodeSubject?.name },
+          };
+        }
+      }
+
+      return {
+        status: "MATCHED_CANONICAL",
+        academicLevelId: ctx.academicLevel.id,
+        curriculumVersionId: ctx.curriculumVersion.id,
+        subjectId: matchedNode.subjectId,
+        curriculumNodeId: matchedNode.id,
+        matchDescription: `Matched hierarchical node code "${matchedNode.code}".`,
+        breadcrumbs: {
+          levelName,
+          versionName,
+          subjectName: nodeSubject?.name,
+          nodeName: matchedNode.name,
+          nodeCode: matchedNode.code || undefined,
+        },
+      };
+    } else {
+      const subject = ctx.subjects.find((s) => s.id === matchedSubjectId);
+      return {
+        status: "UNMAPPED",
+        academicLevelId: ctx.academicLevel.id,
+        curriculumVersionId: ctx.curriculumVersion.id,
+        subjectId: matchedSubjectId,
+        curriculumNodeId: null,
+        matchDescription: `Curriculum code "${targetCode}" was not found in curriculum version "${versionName}".`,
+        breadcrumbs: { levelName, versionName, subjectName: subject?.name },
+      };
+    }
+  }
+
+  // 4. Tier 4: Exact Title Matching (Topic or Chapter display name fallback)
+  const nameCandidate =
+    q.curriculum?._topicTitle ||
+    q.curriculum?._chapterTitle ||
+    q.curriculum?._subjectTitle ||
+    q.topicName ||
+    q.chapterName;
+
   if (nameCandidate) {
     const normName = nameCandidate.trim().toLowerCase();
     const candidates = ctx.nameToNodes.get(normName) || [];
@@ -218,21 +329,35 @@ export function resolveQuestionCurriculum(
     }
   }
 
-  // 5. Tier 5: Fallback Unmapped (With or without subject)
-  const subject = ctx.subjects.find((s) => s.id === matchedSubjectId);
+  // 5. Tier 5: Subject-Only Mapping Fallback
+  if (matchedSubjectId) {
+    const subject = ctx.subjects.find((s) => s.id === matchedSubjectId);
+    return {
+      status: "UNMAPPED",
+      academicLevelId: ctx.academicLevel.id,
+      curriculumVersionId: ctx.curriculumVersion.id,
+      subjectId: matchedSubjectId,
+      curriculumNodeId: null,
+      matchDescription: `Subject identified (${subject?.name}), but specific Chapter or Topic assignment is required before approval.`,
+      breadcrumbs: {
+        levelName,
+        versionName,
+        subjectName: subject?.name,
+      },
+    };
+  }
+
+  // 6. Tier 6: Full Fallback Unmapped
   return {
     status: "UNMAPPED",
     academicLevelId: ctx.academicLevel.id,
     curriculumVersionId: ctx.curriculumVersion.id,
-    subjectId: matchedSubjectId,
+    subjectId: null,
     curriculumNodeId: null,
-    matchDescription: matchedSubjectId
-      ? `Subject identified (${subject?.name}), but specific Chapter/Topic mapping is required.`
-      : "No curriculum mapping hints matched. Full assignment required.",
+    matchDescription: "No curriculum mapping hints matched. Full assignment required.",
     breadcrumbs: {
       levelName,
       versionName,
-      subjectName: subject?.name,
     },
   };
 }
