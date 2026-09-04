@@ -45,21 +45,26 @@ async function runCanonicalSchemaTests() {
 
   assert(activeVersion, "Active curriculum version must exist");
 
-  const [subject] = await db
-    .select()
-    .from(subjects)
-    .where(and(eq(subjects.academicLevelId, level.id), eq(subjects.isActive, true)))
-    .limit(1);
-
-  assert(subject, "Subject must exist");
-
   const [activeNode] = await db
     .select()
     .from(curriculumNodes)
-    .where(and(eq(curriculumNodes.subjectId, subject.id), eq(curriculumNodes.isActive, true)))
+    .where(
+      and(
+        eq(curriculumNodes.curriculumVersionId, activeVersion.id),
+        eq(curriculumNodes.isActive, true)
+      )
+    )
     .limit(1);
 
   assert(activeNode, "Active curriculum node must exist");
+
+  const [subject] = await db
+    .select()
+    .from(subjects)
+    .where(eq(subjects.id, activeNode.subjectId))
+    .limit(1);
+
+  assert(subject, "Subject must exist");
 
   console.log(`Context: Level=${level.code}, Subject=${subject.name} (${subject.code}), Node=${activeNode.name} (${activeNode.code})\n`);
 
@@ -225,13 +230,14 @@ async function runCanonicalSchemaTests() {
   console.log("  ✓ PASS: Subject-only mapping resolved cleanly without forcing a topic");
 
   // 3. Hierarchy Violation: Node belonging to different subject
-  const [otherSubject] = await db
+  const allSubjects = await db
     .select()
     .from(subjects)
-    .where(and(eq(subjects.academicLevelId, level.id), eq(subjects.isActive, true)))
-    .limit(2);
+    .where(and(eq(subjects.academicLevelId, level.id), eq(subjects.isActive, true)));
 
-  if (otherSubject && otherSubject.id !== subject.id) {
+  const otherSubject = allSubjects.find((s) => s.id !== subject.id);
+
+  if (otherSubject) {
     const mismatchRes = resolveQuestionCurriculum(
       {
         ...validV2Question,
@@ -347,20 +353,16 @@ async function runCanonicalSchemaTests() {
     }
 
     // Count existing case studies before publication
-    const [csCountBefore] = await db
-      .select({ count: db.$count(caseStudies) })
-      .from(caseStudies);
+    const csCountBefore = await db.$count(caseStudies);
 
     // Publish batch
     const pubResult = await publishApprovedQuestions(createdCsBatch.batchId, "chief_reviewer@caprep.pro");
     assert.strictEqual(pubResult.publishedCount, 2, "Must publish 2 questions");
 
     // Check case study count: Exactly 1 new case study should be created for both questions!
-    const [csCountAfter] = await db
-      .select({ count: db.$count(caseStudies) })
-      .from(caseStudies);
+    const csCountAfter = await db.$count(caseStudies);
 
-    assert.strictEqual(csCountAfter.count - csCountBefore.count, 1, "Exactly 1 shared case study entity created");
+    assert.strictEqual(csCountAfter - csCountBefore, 1, "Exactly 1 shared case study entity created");
 
     // Fetch the published questions and verify they share the same caseStudyId
     const updatedStagedQuestions = await db
@@ -459,7 +461,7 @@ async function runCanonicalSchemaTests() {
     // [8/8] Testing Zero-Curriculum Creation Invariant
     console.log("[8/8] Testing Zero-Curriculum Creation Invariant...");
 
-    const [nodesCountBefore] = await db.select({ count: db.$count(curriculumNodes) }).from(curriculumNodes);
+    const nodesCountBefore = await db.$count(curriculumNodes);
 
     // Attempt to import batch with unknown curriculum codes
     const unknownNodeBatch: CanonicalBatchJson = {
@@ -491,11 +493,24 @@ async function runCanonicalSchemaTests() {
     });
     unknownBatchId = unknownBatchRes.batchId;
 
-    const [nodesCountAfter] = await db.select({ count: db.$count(curriculumNodes) }).from(curriculumNodes);
-    assert.strictEqual(nodesCountAfter.count, nodesCountBefore.count, "Zero new curriculum nodes created during import");
+    const nodesCountAfter = await db.$count(curriculumNodes);
+    assert.strictEqual(nodesCountAfter, nodesCountBefore, "Zero new curriculum nodes created during import");
     console.log("  ✓ PASS: Zero-Curriculum Creation invariant strictly enforced");
   } finally {
     const testBatchIds = [createdCsBatch?.batchId, unknownBatchId].filter((id): id is string => id !== null);
+
+    // Ensure all published question IDs from these batches are tracked for cleanup
+    if (testBatchIds.length > 0) {
+      const staged = await db
+        .select({ publishedQuestionId: importedQuestions.publishedQuestionId })
+        .from(importedQuestions)
+        .where(inArray(importedQuestions.batchId, testBatchIds));
+      for (const s of staged) {
+        if (s.publishedQuestionId && !publishedQIds.includes(s.publishedQuestionId)) {
+          publishedQIds.push(s.publishedQuestionId);
+        }
+      }
+    }
 
     // 1. Delete imported_questions first (releases FK to question_versions and batches)
     if (testBatchIds.length > 0) {

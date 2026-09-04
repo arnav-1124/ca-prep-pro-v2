@@ -1,0 +1,366 @@
+{
+  "levelCode": "FOUNDATION",
+  "schemaVersion": "1.0",
+  "curriculumVersion": {
+    "name": "CA Foundation Syllabus 2026-2027",
+    "applicableFrom": "2026-05-01T00:00:00.000Z",
+    "applicableTo": null
+  },
+  "subjects": [
+    {
+      "code": "PAPER_1",
+      "name": "Accounting",
+      "sortOrder": 1,
+      "nodes": [
+        {
+          "type": "MODULE",
+          "name": "Module 1",
+          "code": "FND_P1_MOD1",
+          "sortOrder": 1,
+          "children": [
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 1: Theoretical Framework",
+              "code": "FND_P1_CH1",
+              "sortOrder": 1,
+              "children": [
+                { "type": "TOPIC", "name": "Meaning and Scope of Accounting", "code": "FND_P1_CH1_T1", "sortOrder": 1 },
+                { "type": "TOPIC", "name": "Accounting Concepts, Principles and Conventions", "code": "FND_P1_CH1_T2", "sortOrder": 2 },
+                { "type": "TOPIC", "name": "Capital and Revenue Expenditures and Receipts", "code": "FND_P1_CH1_T3", "sortOrder": 3 },
+                { "type": "TOPIC", "name": "Contingent Assets and Contingent Liabilities", "code": "FND_P1_CH1_T4", "sortOrder": 4 },
+                { "type": "TOPIC", "name": "Accounting Policies and Valuation Principles", "code": "FND_P1_CH1_T5", "sortOrder": 5 },
+                { "type": "TOPIC", "name": "Accounting Standards - Concepts and Objectives", "code": "FND_P1_CH1_T6", "sortOrder": 6 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 2: Accounting Process",
+              "code": "FND_P1_CH2",
+              "sortOrder": 2,
+              "children": [
+                { "type": "TOPIC", "name": "Journal Entries and Subsidiary Books", "code": "FND_P1_CH2_T1", "sortOrder": 1 },
+                { "type": "TOPIC", "name": "Ledgers and Trial Balance", "code": "FND_P1_CH2_T2", "sortOrder": 2 },
+                { "type": "TOPIC", "name": "Cash Book and Petty Cash Book", "code": "FND_P1_CH2_T3", "sortOrder": 3 },
+                { "type": "TOPIC", "name": "Rectification of Errors", "code": "FND_P1_CH2_T4", "sortOrder": 4 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 3: Bank Reconciliation Statement",
+              "code": "FND_P1_CH3",
+              "sortOrder": 3,
+              "children": [
+                { "type": "TOPIC", "name": "Causes of Differences and Preparation of BRS", "code": "FND_P1_CH3_T1", "sortOrder": 1 },
+                { "type": "TOPIC", "name": "Adjusted Cash Book and Overdrafts", "code": "FND_P1_CH3_T2", "sortOrder": 2 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 4: Inventories",
+              "code": "FND_P1_CH4",
+              "sortOrder": 4,
+              "children": [
+                { "type": "TOPIC", "name": "Meaning and Basis of Inventory Valuation (AS 2)", "code": "FND_P1_CH4_T1", "sortOrder": 1 },
+                { "type": "TOPIC", "name": "Inventory Systems and Cost Formulas (FIFO, Weighted Average)", "code": "FND_P1_CH4_T2", "sortOrder": 2 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 5: Depreciation and Amortisation",
+              "code": "FND_P1_CH5",
+              "sortOrder": 5,
+              "children": [
+                { "type": "TOPIC", "name": "Methods of Depreciation (SLM, WDV)", "code": "FND_P1_CH5_T1", "sortOrder": 1 },
+                { "type": "TOPIC", "name": "Change in Method and Disposal of Depreciable Assets", "code": "FND_P1_CH5_T2", "sortOrder": 2 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 6: Bills of Exchange and Promissory Notes",
+              "code": "FND_P1_CH6",
+              "sortOrder": 6,
+              "children": [
+                { "type": "TOPIC", "name": "Characteristics and Parties to Bills of Exchange", "code": "FND_P1_CH6_T1", "sortOrder": 1 },
+                { "type": "TOPIC", "name": "Accounting Treatment, Dishonour and Accommodation Bills", "code": "FND_P1_CH6_T2", "sortOrder": 2 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 7: Preparation of Final Accounts of Sole Proprietors",
+              "code": "FND_P1_CH7",
+              "sortOrder": 7,
+              "children": [
+                { "type": "TOPIC", "name": "Final Accounts of Non-Manufacturing Entities", "code": "FND_P1_CH7_T1", "sortOrder": 1 },
+                { "type": "TOPIC", "name": "Final Accounts of Manufacturing Entities", "code": "FND_P1_CH7_T2", "sortOrder": 2 }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "MODULE",
+          "name": "Module 2",
+          "code": "FND_P1_MOD2",
+          "sortOrder": 2,
+          "children": [
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 8: Financial Statements of Not-for-Profit Organisations",
+              "code": "FND_P1_CH8",
+              "sortOrder": 1,
+              "children": [
+                { "type": "TOPIC", "name": "Receipts and Payments Account", "code": "FND_P1_CH8_T1", "sortOrder": 1 },
+                { "type": "TOPIC", "name": "Income and Expenditure Account and Balance Sheet", "code": "FND_P1_CH8_T2", "sortOrder": 2 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 9: Accounts from Incomplete Records",
+              "code": "FND_P1_CH9",
+              "sortOrder": 2,
+              "children": [
+                { "type": "TOPIC", "name": "Statement of Affairs Method", "code": "FND_P1_CH9_T1", "sortOrder": 1 },
+                { "type": "TOPIC", "name": "Conversion to Double Entry Method", "code": "FND_P1_CH9_T2", "sortOrder": 2 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 10: Partnership and LLP Accounts",
+              "code": "FND_P1_CH10",
+              "sortOrder": 3,
+              "children": [
+                { "type": "TOPIC", "name": "Introduction and Treatment of Goodwill", "code": "FND_P1_CH10_T1", "sortOrder": 1 },
+                { "type": "TOPIC", "name": "Admission, Retirement and Death of a Partner", "code": "FND_P1_CH10_T2", "sortOrder": 2 },
+                { "type": "TOPIC", "name": "Dissolution of Partnership Firms and LLPs", "code": "FND_P1_CH10_T3", "sortOrder": 3 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 11: Company Accounts",
+              "code": "FND_P1_CH11",
+              "sortOrder": 4,
+              "children": [
+                { "type": "TOPIC", "name": "Issue, Forfeiture and Re-Issue of Shares", "code": "FND_P1_CH11_T1", "sortOrder": 1 },
+                { "type": "TOPIC", "name": "Issue of Debentures and Bonus/Right Issue", "code": "FND_P1_CH11_T2", "sortOrder": 2 },
+                { "type": "TOPIC", "name": "Redemption of Preference Shares and Debentures", "code": "FND_P1_CH11_T3", "sortOrder": 3 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PAPER_2",
+      "name": "Business Laws",
+      "sortOrder": 2,
+      "nodes": [
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 1: Indian Regulatory Framework",
+          "code": "FND_P2_CH1",
+          "sortOrder": 1,
+          "children": [
+            { "type": "TOPIC", "name": "Major Regulatory Bodies and Legislative Structure", "code": "FND_P2_CH1_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 2: The Indian Contract Act, 1872",
+          "code": "FND_P2_CH2",
+          "sortOrder": 2,
+          "children": [
+            { "type": "TOPIC", "name": "Nature of Contract, Offer and Acceptance", "code": "FND_P2_CH2_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Consideration and Other Essential Elements", "code": "FND_P2_CH2_T2", "sortOrder": 2 },
+            { "type": "TOPIC", "name": "Performance and Discharge of Contract", "code": "FND_P2_CH2_T3", "sortOrder": 3 },
+            { "type": "TOPIC", "name": "Breach of Contract and Remedies", "code": "FND_P2_CH2_T4", "sortOrder": 4 },
+            { "type": "TOPIC", "name": "Contingent and Quasi Contracts", "code": "FND_P2_CH2_T5", "sortOrder": 5 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 3: The Sale of Goods Act, 1930",
+          "code": "FND_P2_CH3",
+          "sortOrder": 3,
+          "children": [
+            { "type": "TOPIC", "name": "Formation of the Contract of Sale", "code": "FND_P2_CH3_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Conditions and Warranties", "code": "FND_P2_CH3_T2", "sortOrder": 2 },
+            { "type": "TOPIC", "name": "Transfer of Ownership and Delivery of Goods", "code": "FND_P2_CH3_T3", "sortOrder": 3 },
+            { "type": "TOPIC", "name": "Unpaid Seller and His Rights", "code": "FND_P2_CH3_T4", "sortOrder": 4 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 4: The Indian Partnership Act, 1932",
+          "code": "FND_P2_CH4",
+          "sortOrder": 4,
+          "children": [
+            { "type": "TOPIC", "name": "General Nature of Partnership", "code": "FND_P2_CH4_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Relations of Partners Inter Se and to Third Parties", "code": "FND_P2_CH4_T2", "sortOrder": 2 },
+            { "type": "TOPIC", "name": "Registration and Dissolution of a Firm", "code": "FND_P2_CH4_T3", "sortOrder": 3 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 5: The Limited Liability Partnership Act, 2008",
+          "code": "FND_P2_CH5",
+          "sortOrder": 5,
+          "children": [
+            { "type": "TOPIC", "name": "Salient Features and Incorporation of LLP", "code": "FND_P2_CH5_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Partners and Their Relations, Financial Disclosures", "code": "FND_P2_CH5_T2", "sortOrder": 2 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 6: The Companies Act, 2013",
+          "code": "FND_P2_CH6",
+          "sortOrder": 6,
+          "children": [
+            { "type": "TOPIC", "name": "Essential Features and Classification of Companies", "code": "FND_P2_CH6_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Incorporation, Memorandum & Articles of Association", "code": "FND_P2_CH6_T2", "sortOrder": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PAPER_3",
+      "name": "Quantitative Aptitude",
+      "sortOrder": 3,
+      "nodes": [
+        {
+          "type": "MODULE",
+          "name": "Part A: Business Mathematics",
+          "code": "FND_P3_SECA",
+          "sortOrder": 1,
+          "children": [
+            { "type": "CHAPTER", "name": "Chapter 1: Ratio and Proportion, Indices and Logarithms", "code": "FND_P3_CH1", "sortOrder": 1 },
+            { "type": "CHAPTER", "name": "Chapter 2: Equations and Linear Inequalities", "code": "FND_P3_CH2", "sortOrder": 2 },
+            { "type": "CHAPTER", "name": "Chapter 3: Mathematics of Finance (Interest and Annuity)", "code": "FND_P3_CH3", "sortOrder": 3 },
+            { "type": "CHAPTER", "name": "Chapter 4: Permutations and Combinations", "code": "FND_P3_CH4", "sortOrder": 4 },
+            { "type": "CHAPTER", "name": "Chapter 5: Sequence and Series (AP & GP)", "code": "FND_P3_CH5", "sortOrder": 5 },
+            { "type": "CHAPTER", "name": "Chapter 6: Sets, Relations, Functions and Differential Calculus", "code": "FND_P3_CH6", "sortOrder": 6 }
+          ]
+        },
+        {
+          "type": "MODULE",
+          "name": "Part B: Logical Reasoning",
+          "code": "FND_P3_SECB",
+          "sortOrder": 2,
+          "children": [
+            { "type": "CHAPTER", "name": "Chapter 7: Number Series, Coding and Decoding", "code": "FND_P3_CH7", "sortOrder": 1 },
+            { "type": "CHAPTER", "name": "Chapter 8: Direction Tests", "code": "FND_P3_CH8", "sortOrder": 2 },
+            { "type": "CHAPTER", "name": "Chapter 9: Seating Arrangements", "code": "FND_P3_CH9", "sortOrder": 3 },
+            { "type": "CHAPTER", "name": "Chapter 10: Blood Relations", "code": "FND_P3_CH10", "sortOrder": 4 }
+          ]
+        },
+        {
+          "type": "MODULE",
+          "name": "Part C: Statistics",
+          "code": "FND_P3_SECC",
+          "sortOrder": 3,
+          "children": [
+            { "type": "CHAPTER", "name": "Chapter 11: Statistical Representation of Data", "code": "FND_P3_CH11", "sortOrder": 1 },
+            { "type": "CHAPTER", "name": "Chapter 12: Measures of Central Tendency and Dispersion", "code": "FND_P3_CH12", "sortOrder": 2 },
+            { "type": "CHAPTER", "name": "Chapter 13: Probability and Theoretical Distributions", "code": "FND_P3_CH13", "sortOrder": 3 },
+            { "type": "CHAPTER", "name": "Chapter 14: Correlation and Regression", "code": "FND_P3_CH14", "sortOrder": 4 },
+            { "type": "CHAPTER", "name": "Chapter 15: Index Numbers", "code": "FND_P3_CH15", "sortOrder": 5 }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PAPER_4",
+      "name": "Business Economics",
+      "sortOrder": 4,
+      "nodes": [
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 1: Introduction to Business Economics",
+          "code": "FND_P4_CH1",
+          "sortOrder": 1,
+          "children": [
+            { "type": "TOPIC", "name": "Scope and Methodology of Business Economics", "code": "FND_P4_CH1_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 2: Theory of Demand and Supply",
+          "code": "FND_P4_CH2",
+          "sortOrder": 2,
+          "children": [
+            { "type": "TOPIC", "name": "Law of Demand and Elasticity of Demand", "code": "FND_P4_CH2_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Consumer Behaviour (Utility & Indifference Curve Analysis)", "code": "FND_P4_CH2_T2", "sortOrder": 2 },
+            { "type": "TOPIC", "name": "Supply and Market Equilibrium", "code": "FND_P4_CH2_T3", "sortOrder": 3 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 3: Theory of Production and Cost",
+          "code": "FND_P4_CH3",
+          "sortOrder": 3,
+          "children": [
+            { "type": "TOPIC", "name": "Laws of Production and Returns to Scale", "code": "FND_P4_CH3_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Short-run and Long-run Cost Concepts", "code": "FND_P4_CH3_T2", "sortOrder": 2 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 4: Price Determination in Different Markets",
+          "code": "FND_P4_CH4",
+          "sortOrder": 4,
+          "children": [
+            { "type": "TOPIC", "name": "Perfect Competition and Monopoly", "code": "FND_P4_CH4_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Monopolistic Competition and Oligopoly", "code": "FND_P4_CH4_T2", "sortOrder": 2 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 5: Determination of National Income",
+          "code": "FND_P4_CH5",
+          "sortOrder": 5,
+          "children": [
+            { "type": "TOPIC", "name": "Concepts of Macroeconomics and National Income Aggregates", "code": "FND_P4_CH5_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Keynesian Theory of Determination of National Income", "code": "FND_P4_CH5_T2", "sortOrder": 2 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 6: Public Finance",
+          "code": "FND_P4_CH6",
+          "sortOrder": 6,
+          "children": [
+            { "type": "TOPIC", "name": "Fiscal Functions and Market Failure", "code": "FND_P4_CH6_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Fiscal Policy and Public Debt", "code": "FND_P4_CH6_T2", "sortOrder": 2 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 7: Money Market",
+          "code": "FND_P4_CH7",
+          "sortOrder": 7,
+          "children": [
+            { "type": "TOPIC", "name": "Concept of Money Demand and Supply", "code": "FND_P4_CH7_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Monetary Policy Instruments", "code": "FND_P4_CH7_T2", "sortOrder": 2 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 8: International Trade",
+          "code": "FND_P4_CH8",
+          "sortOrder": 8,
+          "children": [
+            { "type": "TOPIC", "name": "Theories of International Trade and Trade Policies", "code": "FND_P4_CH8_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Exchange Rate and Foreign Direct Investment", "code": "FND_P4_CH8_T2", "sortOrder": 2 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 9: Indian Economy",
+          "code": "FND_P4_CH9",
+          "sortOrder": 9,
+          "children": [
+            { "type": "TOPIC", "name": "Key Characteristics and Sectoral Trends of the Indian Economy", "code": "FND_P4_CH9_T1", "sortOrder": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

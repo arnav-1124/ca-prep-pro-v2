@@ -14,22 +14,12 @@
       "nodes": [
         {
           "type": "CHAPTER",
-          "name": "Chapter 1: Formulation of Accounting Standards",
+          "name": "Chapter 1: Introduction to Accounting Standards",
           "code": "INT_P1_CH1",
           "sortOrder": 1,
           "children": [
-            {
-              "type": "TOPIC",
-              "name": "Process of AS Formulation",
-              "code": "INT_P1_CH1_T1",
-              "sortOrder": 1
-            },
-            {
-              "type": "TOPIC",
-              "name": "Applicability of Accounting Standards",
-              "code": "INT_P1_CH1_T2",
-              "sortOrder": 2
-            }
+            { "type": "TOPIC", "name": "Process of AS Formulation and Applicability", "code": "INT_P1_CH1_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Key Accounting Standards (AS 1, 2, 3, 10, 16)", "code": "INT_P1_CH1_T2", "sortOrder": 2 }
           ]
         },
         {
@@ -38,18 +28,54 @@
           "code": "INT_P1_CH2",
           "sortOrder": 2,
           "children": [
-            {
-              "type": "TOPIC",
-              "name": "Preparation of Balance Sheet and P&L",
-              "code": "INT_P1_CH2_T1",
-              "sortOrder": 1
-            },
-            {
-              "type": "TOPIC",
-              "name": "Cash Flow Statement (AS 3)",
-              "code": "INT_P1_CH2_T2",
-              "sortOrder": 2
-            }
+            { "type": "TOPIC", "name": "Preparation of Balance Sheet and Statement of P&L", "code": "INT_P1_CH2_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Cash Flow Statement (AS 3)", "code": "INT_P1_CH2_T2", "sortOrder": 2 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 3: Buy-Back of Securities & Equity with Differential Rights",
+          "code": "INT_P1_CH3",
+          "sortOrder": 3,
+          "children": [
+            { "type": "TOPIC", "name": "Provisions of Section 68 and Accounting Treatment", "code": "INT_P1_CH3_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 4: Accounting for Special Transactions",
+          "code": "INT_P1_CH4",
+          "sortOrder": 4,
+          "children": [
+            { "type": "TOPIC", "name": "Investment Accounts (AS 13)", "code": "INT_P1_CH4_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Insurance Claims for Loss of Stock and Loss of Profit", "code": "INT_P1_CH4_T2", "sortOrder": 2 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 5: Amalgamation of Companies (AS 14)",
+          "code": "INT_P1_CH5",
+          "sortOrder": 5,
+          "children": [
+            { "type": "TOPIC", "name": "Calculation of Purchase Consideration & Accounting Entries", "code": "INT_P1_CH5_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 6: Internal Reconstruction",
+          "code": "INT_P1_CH6",
+          "sortOrder": 6,
+          "children": [
+            { "type": "TOPIC", "name": "Preparation of Capital Reduction Account and Reconstructed Balance Sheet", "code": "INT_P1_CH6_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 7: Branch Accounting",
+          "code": "INT_P1_CH7",
+          "sortOrder": 7,
+          "children": [
+            { "type": "TOPIC", "name": "Dependent and Independent Branches, Foreign Branches (AS 11)", "code": "INT_P1_CH7_T1", "sortOrder": 1 }
           ]
         }
       ]
@@ -61,36 +87,116 @@
       "nodes": [
         {
           "type": "MODULE",
-          "name": "Part I: Company Law",
+          "name": "Part I: Company Law & LLP",
           "code": "INT_P2_MOD1",
           "sortOrder": 1,
           "children": [
             {
               "type": "CHAPTER",
-              "name": "Chapter 1: Preliminary Concepts",
+              "name": "Chapter 1: Preliminary Concepts & Definitions",
               "code": "INT_P2_MOD1_CH1",
               "sortOrder": 1,
               "children": [
-                {
-                  "type": "TOPIC",
-                  "name": "Definitions and Company Types",
-                  "code": "INT_P2_MOD1_CH1_T1",
-                  "sortOrder": 1
-                }
+                { "type": "TOPIC", "name": "Definitions and Types of Companies", "code": "INT_P2_MOD1_CH1_T1", "sortOrder": 1 }
               ]
             },
             {
               "type": "CHAPTER",
-              "name": "Chapter 2: Incorporation of Company",
+              "name": "Chapter 2: Incorporation of Company and Matters Incidental Thereto",
               "code": "INT_P2_MOD1_CH2",
               "sortOrder": 2,
               "children": [
-                {
-                  "type": "TOPIC",
-                  "name": "Memorandum & Articles of Association",
-                  "code": "INT_P2_MOD1_CH2_T1",
-                  "sortOrder": 1
-                }
+                { "type": "TOPIC", "name": "Memorandum & Articles of Association (MOA & AOA)", "code": "INT_P2_MOD1_CH2_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 3: Prospectus and Allotment of Securities",
+              "code": "INT_P2_MOD1_CH3",
+              "sortOrder": 3,
+              "children": [
+                { "type": "TOPIC", "name": "Public Offer and Private Placement", "code": "INT_P2_MOD1_CH3_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 4: Share Capital and Debentures",
+              "code": "INT_P2_MOD1_CH4",
+              "sortOrder": 4,
+              "children": [
+                { "type": "TOPIC", "name": "Issue and Transfer of Securities", "code": "INT_P2_MOD1_CH4_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 5: Acceptance of Deposits by Companies",
+              "code": "INT_P2_MOD1_CH5",
+              "sortOrder": 5,
+              "children": [
+                { "type": "TOPIC", "name": "Rules regarding Deposits from Members and Public", "code": "INT_P2_MOD1_CH5_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 6: Registration of Charges",
+              "code": "INT_P2_MOD1_CH6",
+              "sortOrder": 6,
+              "children": [
+                { "type": "TOPIC", "name": "Creation, Modification and Satisfaction of Charges", "code": "INT_P2_MOD1_CH6_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 7: Management & Administration",
+              "code": "INT_P2_MOD1_CH7",
+              "sortOrder": 7,
+              "children": [
+                { "type": "TOPIC", "name": "Annual General Meeting (AGM), Extraordinary General Meeting (EGM), Proxies & Voting", "code": "INT_P2_MOD1_CH7_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 8: Declaration and Payment of Dividend",
+              "code": "INT_P2_MOD1_CH8",
+              "sortOrder": 8,
+              "children": [
+                { "type": "TOPIC", "name": "Source of Dividend and Investor Education Protection Fund (IEPF)", "code": "INT_P2_MOD1_CH8_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 9: Accounts of Companies & Corporate Social Responsibility (CSR)",
+              "code": "INT_P2_MOD1_CH9",
+              "sortOrder": 9,
+              "children": [
+                { "type": "TOPIC", "name": "Books of Account and Section 135 CSR Compliance", "code": "INT_P2_MOD1_CH9_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 10: Audit and Auditors",
+              "code": "INT_P2_MOD1_CH10",
+              "sortOrder": 10,
+              "children": [
+                { "type": "TOPIC", "name": "Appointment, Resignation and Reporting Duties of Auditors", "code": "INT_P2_MOD1_CH10_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 11: Companies Incorporated Outside India",
+              "code": "INT_P2_MOD1_CH11",
+              "sortOrder": 11,
+              "children": [
+                { "type": "TOPIC", "name": "Provisions Governing Foreign Companies", "code": "INT_P2_MOD1_CH11_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 12: The Limited Liability Partnership Act, 2008",
+              "code": "INT_P2_MOD1_CH12",
+              "sortOrder": 12,
+              "children": [
+                { "type": "TOPIC", "name": "Key Provisions and Differences from Partnership/Companies", "code": "INT_P2_MOD1_CH12_T1", "sortOrder": 1 }
               ]
             }
           ]
@@ -103,16 +209,29 @@
           "children": [
             {
               "type": "CHAPTER",
-              "name": "Chapter 9: The General Clauses Act, 1897",
-              "code": "INT_P2_MOD2_CH9",
+              "name": "Chapter 13: The General Clauses Act, 1897",
+              "code": "INT_P2_MOD2_CH13",
               "sortOrder": 1,
               "children": [
-                {
-                  "type": "TOPIC",
-                  "name": "Interpretation of Statutes & Construction",
-                  "code": "INT_P2_MOD2_CH9_T1",
-                  "sortOrder": 1
-                }
+                { "type": "TOPIC", "name": "General Definitions and Rules of Construction", "code": "INT_P2_MOD2_CH13_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 14: Interpretation of Statutes",
+              "code": "INT_P2_MOD2_CH14",
+              "sortOrder": 2,
+              "children": [
+                { "type": "TOPIC", "name": "Rules of Interpretation and Internal/External Aids", "code": "INT_P2_MOD2_CH14_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 15: The Foreign Exchange Management Act, 1999 (FEMA)",
+              "code": "INT_P2_MOD2_CH15",
+              "sortOrder": 3,
+              "children": [
+                { "type": "TOPIC", "name": "Current and Capital Account Transactions, Residential Status under FEMA", "code": "INT_P2_MOD2_CH15_T1", "sortOrder": 1 }
               ]
             }
           ]
@@ -126,42 +245,98 @@
       "nodes": [
         {
           "type": "MODULE",
-          "name": "Section A: Income Tax Law",
+          "name": "Section A: Income Tax Law (Direct Tax)",
           "code": "INT_P3_SECA",
           "sortOrder": 1,
           "children": [
             {
               "type": "CHAPTER",
-              "name": "Chapter 1: Basic Concepts",
+              "name": "Chapter 1: Basic Concepts and Residential Status",
               "code": "INT_P3_SECA_CH1",
               "sortOrder": 1,
               "children": [
-                {
-                  "type": "TOPIC",
-                  "name": "Concept of Income and Tax Rates",
-                  "code": "INT_P3_SECA_CH1_T1",
-                  "sortOrder": 1
-                }
+                { "type": "TOPIC", "name": "Tax Rates and Residential Status Determination", "code": "INT_P3_SECA_CH1_T1", "sortOrder": 1 }
               ]
             },
             {
               "type": "CHAPTER",
-              "name": "Chapter 4: Heads of Income",
-              "code": "INT_P3_SECA_CH4",
+              "name": "Chapter 2: Incomes which do not form part of Total Income",
+              "code": "INT_P3_SECA_CH2",
               "sortOrder": 2,
               "children": [
-                {
-                  "type": "TOPIC",
-                  "name": "Salaries",
-                  "code": "INT_P3_SECA_CH4_T1",
-                  "sortOrder": 1
-                },
-                {
-                  "type": "TOPIC",
-                  "name": "Profits and Gains of Business or Profession (PGBP)",
-                  "code": "INT_P3_SECA_CH4_T2",
-                  "sortOrder": 2
-                }
+                { "type": "TOPIC", "name": "Exempt Incomes under Section 10", "code": "INT_P3_SECA_CH2_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 3: Salaries",
+              "code": "INT_P3_SECA_CH3",
+              "sortOrder": 3,
+              "children": [
+                { "type": "TOPIC", "name": "Allowances, Perquisites, Retirement Benefits and Deductions", "code": "INT_P3_SECA_CH3_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 4: Income from House Property",
+              "code": "INT_P3_SECA_CH4",
+              "sortOrder": 4,
+              "children": [
+                { "type": "TOPIC", "name": "Computation of Annual Value and Deductions under Section 24", "code": "INT_P3_SECA_CH4_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 5: Profits and Gains of Business or Profession (PGBP)",
+              "code": "INT_P3_SECA_CH5",
+              "sortOrder": 5,
+              "children": [
+                { "type": "TOPIC", "name": "Admissible Deductions, Inadmissible Expenses, Presumptive Taxation (44AD/44ADA)", "code": "INT_P3_SECA_CH5_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 6: Capital Gains",
+              "code": "INT_P3_SECA_CH6",
+              "sortOrder": 6,
+              "children": [
+                { "type": "TOPIC", "name": "Short-term & Long-term Capital Gains, Exemptions under Section 54", "code": "INT_P3_SECA_CH6_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 7: Income from Other Sources",
+              "code": "INT_P3_SECA_CH7",
+              "sortOrder": 7,
+              "children": [
+                { "type": "TOPIC", "name": "Taxability of Gifts, Dividend and Other Residual Incomes", "code": "INT_P3_SECA_CH7_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 8: Clubbing, Set-off and Carry Forward of Losses",
+              "code": "INT_P3_SECA_CH8",
+              "sortOrder": 8,
+              "children": [
+                { "type": "TOPIC", "name": "Inter-source and Inter-head Adjustments", "code": "INT_P3_SECA_CH8_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 9: Deductions from Gross Total Income (Chapter VI-A)",
+              "code": "INT_P3_SECA_CH9",
+              "sortOrder": 9,
+              "children": [
+                { "type": "TOPIC", "name": "Deductions under Section 80C to 80U", "code": "INT_P3_SECA_CH9_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 10: Computation of Total Income, TDS, TCS and Advance Tax",
+              "code": "INT_P3_SECA_CH10",
+              "sortOrder": 10,
+              "children": [
+                { "type": "TOPIC", "name": "Section 115BAC Default Regime vs Old Regime & Return Filing", "code": "INT_P3_SECA_CH10_T1", "sortOrder": 1 }
               ]
             }
           ]
@@ -174,16 +349,65 @@
           "children": [
             {
               "type": "CHAPTER",
-              "name": "Chapter 1: GST in India - An Introduction",
-              "code": "INT_P3_SECB_CH1",
+              "name": "Chapter 11: GST in India - An Introduction",
+              "code": "INT_P3_SECB_CH11",
               "sortOrder": 1,
               "children": [
-                {
-                  "type": "TOPIC",
-                  "name": "Indirect Taxes and GST Framework",
-                  "code": "INT_P3_SECB_CH1_T1",
-                  "sortOrder": 1
-                }
+                { "type": "TOPIC", "name": "Constitutional Provisions and GST Framework", "code": "INT_P3_SECB_CH11_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 12: Supply under GST",
+              "code": "INT_P3_SECB_CH12",
+              "sortOrder": 2,
+              "children": [
+                { "type": "TOPIC", "name": "Scope of Supply, Schedule I, II, III Activities", "code": "INT_P3_SECB_CH12_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 13: Charge of GST and Composition Levy",
+              "code": "INT_P3_SECB_CH13",
+              "sortOrder": 3,
+              "children": [
+                { "type": "TOPIC", "name": "Forward & Reverse Charge Mechanism (RCM) and Section 10 Composition", "code": "INT_P3_SECB_CH13_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 14: Exemptions from GST",
+              "code": "INT_P3_SECB_CH14",
+              "sortOrder": 4,
+              "children": [
+                { "type": "TOPIC", "name": "Exempt Goods and Specified Exempt Services", "code": "INT_P3_SECB_CH14_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 15: Time and Value of Supply",
+              "code": "INT_P3_SECB_CH15",
+              "sortOrder": 5,
+              "children": [
+                { "type": "TOPIC", "name": "Time of Supply Rules (Section 12, 13) and Valuation (Section 15)", "code": "INT_P3_SECB_CH15_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 16: Input Tax Credit (ITC)",
+              "code": "INT_P3_SECB_CH16",
+              "sortOrder": 6,
+              "children": [
+                { "type": "TOPIC", "name": "Eligibility, Conditions, Blocked Credits (Section 17(5)) & Reversal", "code": "INT_P3_SECB_CH16_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 17: Registration, Invoicing, Payment of Tax & Returns",
+              "code": "INT_P3_SECB_CH17",
+              "sortOrder": 7,
+              "children": [
+                { "type": "TOPIC", "name": "Threshold Limits, Tax Invoices, E-Way Bill and Electronic Cash/Credit Ledgers", "code": "INT_P3_SECB_CH17_T1", "sortOrder": 1 }
               ]
             }
           ]
@@ -197,16 +421,11 @@
       "nodes": [
         {
           "type": "CHAPTER",
-          "name": "Chapter 1: Introduction to Cost Accounting",
+          "name": "Chapter 1: Introduction to Cost and Management Accounting",
           "code": "INT_P4_CH1",
           "sortOrder": 1,
           "children": [
-            {
-              "type": "TOPIC",
-              "name": "Objectives and Classification of Costs",
-              "code": "INT_P4_CH1_T1",
-              "sortOrder": 1
-            }
+            { "type": "TOPIC", "name": "Objectives and Classification of Costs", "code": "INT_P4_CH1_T1", "sortOrder": 1 }
           ]
         },
         {
@@ -215,12 +434,106 @@
           "code": "INT_P4_CH2",
           "sortOrder": 2,
           "children": [
-            {
-              "type": "TOPIC",
-              "name": "Procurement, Storage, and Inventory Control",
-              "code": "INT_P4_CH2_T1",
-              "sortOrder": 1
-            }
+            { "type": "TOPIC", "name": "Procurement, Storage, Inventory Control & EOQ", "code": "INT_P4_CH2_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 3: Employee Cost (Labour)",
+          "code": "INT_P4_CH3",
+          "sortOrder": 3,
+          "children": [
+            { "type": "TOPIC", "name": "Attendance & Payroll Procedures, Labour Turnover & Incentive Schemes", "code": "INT_P4_CH3_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 4: Overheads (Absorption Costing Method)",
+          "code": "INT_P4_CH4",
+          "sortOrder": 4,
+          "children": [
+            { "type": "TOPIC", "name": "Allocation, Apportionment and Absorption of Overheads", "code": "INT_P4_CH4_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 5: Activity Based Costing (ABC)",
+          "code": "INT_P4_CH5",
+          "sortOrder": 5,
+          "children": [
+            { "type": "TOPIC", "name": "Cost Pools, Cost Drivers and ABC vs Traditional Costing", "code": "INT_P4_CH5_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 6: Cost Sheet",
+          "code": "INT_P4_CH6",
+          "sortOrder": 6,
+          "children": [
+            { "type": "TOPIC", "name": "Preparation of Cost Sheet for Manufacturing and Services", "code": "INT_P4_CH6_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 7: Cost Accounting System & Reconciliation",
+          "code": "INT_P4_CH7",
+          "sortOrder": 7,
+          "children": [
+            { "type": "TOPIC", "name": "Integrated and Non-Integrated Cost Accounts", "code": "INT_P4_CH7_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 8: Unit & Batch Costing and Job & Contract Costing",
+          "code": "INT_P4_CH8",
+          "sortOrder": 8,
+          "children": [
+            { "type": "TOPIC", "name": "Specific Order Costing and Economic Batch Quantity (EBQ)", "code": "INT_P4_CH8_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 9: Process & Operation Costing, Joint & By-Products",
+          "code": "INT_P4_CH9",
+          "sortOrder": 9,
+          "children": [
+            { "type": "TOPIC", "name": "Equivalent Production Units, Normal/Abnormal Loss & Joint Cost Apportionment", "code": "INT_P4_CH9_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 10: Service Costing",
+          "code": "INT_P4_CH10",
+          "sortOrder": 10,
+          "children": [
+            { "type": "TOPIC", "name": "Costing of Transport, Hospital, Hotel and IT Services", "code": "INT_P4_CH10_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 11: Standard Costing",
+          "code": "INT_P4_CH11",
+          "sortOrder": 11,
+          "children": [
+            { "type": "TOPIC", "name": "Material, Labour, Overhead and Sales Variances", "code": "INT_P4_CH11_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 12: Marginal Costing",
+          "code": "INT_P4_CH12",
+          "sortOrder": 12,
+          "children": [
+            { "type": "TOPIC", "name": "Cost-Volume-Profit (CVP) Analysis, Break-even Point & Decision Making", "code": "INT_P4_CH12_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 13: Budget and Budgetary Control",
+          "code": "INT_P4_CH13",
+          "sortOrder": 13,
+          "children": [
+            { "type": "TOPIC", "name": "Flexible Budgets, Cash Budgets and Functional Budgets", "code": "INT_P4_CH13_T1", "sortOrder": 1 }
           ]
         }
       ]
@@ -236,12 +549,70 @@
           "code": "INT_P5_CH1",
           "sortOrder": 1,
           "children": [
-            {
-              "type": "TOPIC",
-              "name": "Auditing Concepts & Ethical Standards",
-              "code": "INT_P5_CH1_T1",
-              "sortOrder": 1
-            }
+            { "type": "TOPIC", "name": "Auditing Concepts, Inherent Limitations & Ethical Standards", "code": "INT_P5_CH1_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 2: Audit Strategy, Audit Planning and Audit Programme",
+          "code": "INT_P5_CH2",
+          "sortOrder": 2,
+          "children": [
+            { "type": "TOPIC", "name": "Planning an Audit of Financial Statements (SA 300)", "code": "INT_P5_CH2_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 3: Risk Assessment and Internal Control",
+          "code": "INT_P5_CH3",
+          "sortOrder": 3,
+          "children": [
+            { "type": "TOPIC", "name": "Identifying & Assessing RoMM through Understanding Entity (SA 315)", "code": "INT_P5_CH3_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 4: Audit Evidence & Sampling",
+          "code": "INT_P5_CH4",
+          "sortOrder": 4,
+          "children": [
+            { "type": "TOPIC", "name": "Sufficient Appropriate Audit Evidence (SA 500) & Audit Sampling (SA 530)", "code": "INT_P5_CH4_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 5: Audit of Items of Financial Statements",
+          "code": "INT_P5_CH5",
+          "sortOrder": 5,
+          "children": [
+            { "type": "TOPIC", "name": "Substantive Procedures for Assets, Liabilities, Incomes and Expenses", "code": "INT_P5_CH5_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 6: Audit Documentation & Completion/Review",
+          "code": "INT_P5_CH6",
+          "sortOrder": 6,
+          "children": [
+            { "type": "TOPIC", "name": "Audit Working Papers (SA 230) and Written Representations (SA 580)", "code": "INT_P5_CH6_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 7: Audit Report",
+          "code": "INT_P5_CH7",
+          "sortOrder": 7,
+          "children": [
+            { "type": "TOPIC", "name": "Forming an Opinion (SA 700), Modifications (SA 705) & Key Audit Matters (SA 701)", "code": "INT_P5_CH7_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 8: Special Features of Audit of Different Entities",
+          "code": "INT_P5_CH8",
+          "sortOrder": 8,
+          "children": [
+            { "type": "TOPIC", "name": "Audit of Government, Banks, NGOs and Educational Institutions", "code": "INT_P5_CH8_T1", "sortOrder": 1 }
           ]
         }
       ]
@@ -259,16 +630,47 @@
           "children": [
             {
               "type": "CHAPTER",
-              "name": "Chapter 1: Scope and Objectives of FM",
+              "name": "Chapter 1: Scope and Objectives of Financial Management",
               "code": "INT_P6_SECA_CH1",
               "sortOrder": 1,
               "children": [
-                {
-                  "type": "TOPIC",
-                  "name": "Financial Decisions and Profit Maximization",
-                  "code": "INT_P6_SECA_CH1_T1",
-                  "sortOrder": 1
-                }
+                { "type": "TOPIC", "name": "Financial Decisions and Profit vs Wealth Maximization", "code": "INT_P6_SECA_CH1_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 2: Types of Financing & Financial Analysis (Ratio Analysis)",
+              "code": "INT_P6_SECA_CH2",
+              "sortOrder": 2,
+              "children": [
+                { "type": "TOPIC", "name": "Financial Ratios, Liquidity, Solvency and Profitability Analysis", "code": "INT_P6_SECA_CH2_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 3: Cost of Capital & Capital Structure Decisions",
+              "code": "INT_P6_SECA_CH3",
+              "sortOrder": 3,
+              "children": [
+                { "type": "TOPIC", "name": "Computation of WACC, EBIT-EPS Analysis and Leverage (DOL, DFL, DCL)", "code": "INT_P6_SECA_CH3_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 4: Investment Decisions (Capital Budgeting)",
+              "code": "INT_P6_SECA_CH4",
+              "sortOrder": 4,
+              "children": [
+                { "type": "TOPIC", "name": "NPV, IRR, Payback Period, Profitability Index & Risk in Capital Budgeting", "code": "INT_P6_SECA_CH4_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 5: Dividend Decisions & Management of Working Capital",
+              "code": "INT_P6_SECA_CH5",
+              "sortOrder": 5,
+              "children": [
+                { "type": "TOPIC", "name": "Dividend Theories (Walter, Gordon, MM) & Operating Cycle / Cash Management", "code": "INT_P6_SECA_CH5_T1", "sortOrder": 1 }
               ]
             }
           ]
@@ -281,16 +683,38 @@
           "children": [
             {
               "type": "CHAPTER",
-              "name": "Chapter 1: Introduction to Strategic Management",
-              "code": "INT_P6_SECB_CH1",
+              "name": "Chapter 6: Introduction to Strategic Management",
+              "code": "INT_P6_SECB_CH6",
               "sortOrder": 1,
               "children": [
-                {
-                  "type": "TOPIC",
-                  "name": "Concept of Strategy & Strategic Framework",
-                  "code": "INT_P6_SECB_CH1_T1",
-                  "sortOrder": 1
-                }
+                { "type": "TOPIC", "name": "Strategic Intent, Vision, Mission, Objectives & Business Model", "code": "INT_P6_SECB_CH6_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 7: Strategic Analysis: External & Internal Environment",
+              "code": "INT_P6_SECB_CH7",
+              "sortOrder": 2,
+              "children": [
+                { "type": "TOPIC", "name": "Porter's 5 Forces, PESTLE, SWOT Analysis and Value Chain", "code": "INT_P6_SECB_CH7_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 8: Strategic Choices (Business & Corporate Level)",
+              "code": "INT_P6_SECB_CH8",
+              "sortOrder": 3,
+              "children": [
+                { "type": "TOPIC", "name": "Michael Porter's Generic Strategies, Ansoff Grid, BCG Matrix", "code": "INT_P6_SECB_CH8_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 9: Strategy Implementation and Evaluation",
+              "code": "INT_P6_SECB_CH9",
+              "sortOrder": 4,
+              "children": [
+                { "type": "TOPIC", "name": "Organization Structure, Strategic Leadership and Benchmarking", "code": "INT_P6_SECB_CH9_T1", "sortOrder": 1 }
               ]
             }
           ]

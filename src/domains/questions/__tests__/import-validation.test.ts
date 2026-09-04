@@ -17,7 +17,7 @@ import {
   importedQuestions,
   importAuditEvents,
 } from "@/db/schema";
-import { eq } from "drizzle-orm";
+import { eq, and } from "drizzle-orm";
 import fs from "fs";
 import path from "path";
 
@@ -185,7 +185,12 @@ async function runTests() {
   const [activeVer] = await db
     .select()
     .from(curriculumVersions)
-    .where(eq(curriculumVersions.isActive, true))
+    .where(
+      and(
+        eq(curriculumVersions.academicLevelId, intermediateLevel.id),
+        eq(curriculumVersions.isActive, true)
+      )
+    )
     .limit(1);
 
   if (intermediateLevel && activeVer) {

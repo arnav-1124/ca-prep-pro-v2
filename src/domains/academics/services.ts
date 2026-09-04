@@ -392,10 +392,13 @@ export async function importCurriculumJson(jsonString: string): Promise<{ succes
           .onConflictDoUpdate({
             target: curriculumNodes.code,
             set: {
+              curriculumVersionId: versionId,
+              subjectId,
               name: node.name,
               type: node.type.toUpperCase(),
               sortOrder: node.sortOrder,
               parentId,
+              isActive: true,
               updatedAt: new Date(),
             },
           })

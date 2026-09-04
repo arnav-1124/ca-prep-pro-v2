@@ -102,8 +102,15 @@ export function AdminImportsClient({
     setIsDownloadingTemplate(true);
     setStatusMessage(null);
     try {
-      const activeLvl = modalData.allLevels.find((l) => l.id === uploadLevelId) || modalData.allLevels[0];
-      const res = await downloadCanonicalTemplateAction(activeLvl?.code);
+      let targetCode: string | undefined;
+      if (isUploadOpen && uploadLevelId) {
+        targetCode = modalData.allLevels.find((l) => l.id === uploadLevelId)?.code;
+      } else if (selectedLevel !== "ALL") {
+        targetCode = selectedLevel;
+      } else {
+        targetCode = modalData.allLevels[0]?.code || "INTERMEDIATE";
+      }
+      const res = await downloadCanonicalTemplateAction(targetCode);
       if (res.success && res.data) {
         const blob = new Blob([res.data.jsonContent], { type: "application/json" });
         const url = URL.createObjectURL(blob);

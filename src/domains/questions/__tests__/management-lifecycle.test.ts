@@ -11,7 +11,7 @@ import {
   studentProfiles,
   practiceSessions,
 } from "@/db/schema";
-import { eq } from "drizzle-orm";
+import { eq, and } from "drizzle-orm";
 import {
   updateAdminQuestion,
   toggleQuestionActiveStatus,
@@ -53,7 +53,7 @@ async function runManagementLifecycleTests() {
   const [activeVer] = await db
     .select()
     .from(curriculumVersions)
-    .where(eq(curriculumVersions.isActive, true))
+    .where(and(eq(curriculumVersions.academicLevelId, level.id), eq(curriculumVersions.isActive, true)))
     .limit(1);
 
   console.log(`Context found: Level=${level?.code} (${level?.id}), Version=${activeVer?.name} (${activeVer?.id})`);

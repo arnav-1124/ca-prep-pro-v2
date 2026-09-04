@@ -1,0 +1,510 @@
+{
+  "levelCode": "FINAL",
+  "schemaVersion": "1.0",
+  "curriculumVersion": {
+    "name": "CA Final Syllabus 2026-2027",
+    "applicableFrom": "2026-05-01T00:00:00.000Z",
+    "applicableTo": null
+  },
+  "subjects": [
+    {
+      "code": "PAPER_1",
+      "name": "Financial Reporting",
+      "sortOrder": 1,
+      "nodes": [
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 1: Framework for Financial Reporting & General Purpose Ind AS",
+          "code": "FIN_P1_CH1",
+          "sortOrder": 1,
+          "children": [
+            { "type": "TOPIC", "name": "Conceptual Framework for Financial Reporting under Ind AS", "code": "FIN_P1_CH1_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 2: Ind AS on Presentation and Disclosures",
+          "code": "FIN_P1_CH2",
+          "sortOrder": 2,
+          "children": [
+            { "type": "TOPIC", "name": "Ind AS 1, 7, 8, 10, 33, 34, 108 Applications", "code": "FIN_P1_CH2_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 3: Ind AS on Assets, Liabilities & Leases",
+          "code": "FIN_P1_CH3",
+          "sortOrder": 3,
+          "children": [
+            { "type": "TOPIC", "name": "Ind AS 16 (PPE), Ind AS 38 (Intangibles), Ind AS 36 (Impairment) & Ind AS 116 (Leases)", "code": "FIN_P1_CH3_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 4: Ind AS on Revenue from Contracts with Customers (Ind AS 115)",
+          "code": "FIN_P1_CH4",
+          "sortOrder": 4,
+          "children": [
+            { "type": "TOPIC", "name": "5-Step Revenue Model, Variable Consideration and Licensing", "code": "FIN_P1_CH4_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 5: Ind AS on Financial Instruments (Ind AS 32, 107, 109)",
+          "code": "FIN_P1_CH5",
+          "sortOrder": 5,
+          "children": [
+            { "type": "TOPIC", "name": "Classification, Fair Value Measurement, Impairment (ECL) and Hedge Accounting", "code": "FIN_P1_CH5_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 6: Business Combinations and Corporate Restructuring (Ind AS 103)",
+          "code": "FIN_P1_CH6",
+          "sortOrder": 6,
+          "children": [
+            { "type": "TOPIC", "name": "Acquisition Method, Purchase Consideration, Goodwill/Gain on Bargain Purchase", "code": "FIN_P1_CH6_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 7: Consolidated Financial Statements (Ind AS 110, 111, 28)",
+          "code": "FIN_P1_CH7",
+          "sortOrder": 7,
+          "children": [
+            { "type": "TOPIC", "name": "Control Assessment, Non-Controlling Interest (NCI) and Equity Method for Associates", "code": "FIN_P1_CH7_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 8: Accounting and Technology & Professional Ethics in Financial Reporting",
+          "code": "FIN_P1_CH8",
+          "sortOrder": 8,
+          "children": [
+            { "type": "TOPIC", "name": "Cloud Accounting, AI in Financial Reporting and Ethical Responsibilities", "code": "FIN_P1_CH8_T1", "sortOrder": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PAPER_2",
+      "name": "Advanced Financial Management",
+      "sortOrder": 2,
+      "nodes": [
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 1: Financial Policy and Corporate Strategy",
+          "code": "FIN_P2_CH1",
+          "sortOrder": 1,
+          "children": [
+            { "type": "TOPIC", "name": "Strategic Financial Planning and Value Creation", "code": "FIN_P2_CH1_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 2: Risk Management & Advanced Capital Budgeting",
+          "code": "FIN_P2_CH2",
+          "sortOrder": 2,
+          "children": [
+            { "type": "TOPIC", "name": "Enterprise Risk Management and Project Appraisal under Uncertainty", "code": "FIN_P2_CH2_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 3: Security Analysis and Valuation",
+          "code": "FIN_P2_CH3",
+          "sortOrder": 3,
+          "children": [
+            { "type": "TOPIC", "name": "Equity and Fixed Income (Bond) Valuation and Duration", "code": "FIN_P2_CH3_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 4: Portfolio Management & Mutual Funds",
+          "code": "FIN_P2_CH4",
+          "sortOrder": 4,
+          "children": [
+            { "type": "TOPIC", "name": "Markowitz Model, CAPM, Arbitrage Pricing Theory (APT) & Performance Evaluation", "code": "FIN_P2_CH4_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 5: Securitization & Derivatives Analysis and Valuation",
+          "code": "FIN_P2_CH5",
+          "sortOrder": 5,
+          "children": [
+            { "type": "TOPIC", "name": "Pricing of Forwards, Futures, Options (Black-Scholes) and Swaps", "code": "FIN_P2_CH5_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 6: Foreign Exchange Exposure and Risk Management",
+          "code": "FIN_P2_CH6",
+          "sortOrder": 6,
+          "children": [
+            { "type": "TOPIC", "name": "Transaction, Translation and Economic Risk Hedging Strategies", "code": "FIN_P2_CH6_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 7: International Financial Management & Interest Rate Risk Management",
+          "code": "FIN_P2_CH7",
+          "sortOrder": 7,
+          "children": [
+            { "type": "TOPIC", "name": "International Capital Budgeting, Euro Currency Markets & FRA/Cap/Floor/Collars", "code": "FIN_P2_CH7_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 8: Business Valuation, Mergers, Acquisitions & Corporate Restructuring",
+          "code": "FIN_P2_CH8",
+          "sortOrder": 8,
+          "children": [
+            { "type": "TOPIC", "name": "Discounted Cash Flow (DCF), Economic Value Added (EVA) and Swap Ratios", "code": "FIN_P2_CH8_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 9: Startup Finance",
+          "code": "FIN_P2_CH9",
+          "sortOrder": 9,
+          "children": [
+            { "type": "TOPIC", "name": "Pitch Deck, Angel Investors, Venture Capital Funding and Bootstrapping", "code": "FIN_P2_CH9_T1", "sortOrder": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PAPER_3",
+      "name": "Advanced Auditing, Assurance and Professional Ethics",
+      "sortOrder": 3,
+      "nodes": [
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 1: Quality Management (SQC 1, SA 220)",
+          "code": "FIN_P3_CH1",
+          "sortOrder": 1,
+          "children": [
+            { "type": "TOPIC", "name": "Firm-Level Quality Control and Engagement Quality Review", "code": "FIN_P3_CH1_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 2: General Auditing Principles and Auditor Responsibilities (SA 200 Series)",
+          "code": "FIN_P3_CH2",
+          "sortOrder": 2,
+          "children": [
+            { "type": "TOPIC", "name": "Fraud, Laws and Regulations, Communication with TCWG (SA 240, 250, 260)", "code": "FIN_P3_CH2_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 3: Audit Planning, Strategy, Execution and Materiality (SA 300 Series)",
+          "code": "FIN_P3_CH3",
+          "sortOrder": 3,
+          "children": [
+            { "type": "TOPIC", "name": "Risk Assessment (SA 315), Performance Materiality (SA 320) & Responses to Assessed Risk (SA 330)", "code": "FIN_P3_CH3_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 4: Audit Evidence & Specialized Areas (SA 500 & 600 Series)",
+          "code": "FIN_P3_CH4",
+          "sortOrder": 4,
+          "children": [
+            { "type": "TOPIC", "name": "Related Parties (SA 550), Going Concern (SA 570), Using Work of Others (SA 600, 610, 620)", "code": "FIN_P3_CH4_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 5: Audit Reporting & Group Audits (SA 700 Series)",
+          "code": "FIN_P3_CH5",
+          "sortOrder": 5,
+          "children": [
+            { "type": "TOPIC", "name": "Key Audit Matters (SA 701), Modified Opinions (SA 705) & Group Audits (SA 600)", "code": "FIN_P3_CH5_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 6: Digital Auditing, Assurance & Internal Financial Controls (IFC)",
+          "code": "FIN_P3_CH6",
+          "sortOrder": 6,
+          "children": [
+            { "type": "TOPIC", "name": "Data Analytics in Audit, Testing Automated Controls and Cyber Risk", "code": "FIN_P3_CH6_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 7: Audit of Banks, NBFCs, Insurance and Public Sector Undertakings",
+          "code": "FIN_P3_CH7",
+          "sortOrder": 7,
+          "children": [
+            { "type": "TOPIC", "name": "NPA Classification, Statutory Bank Branch Audit and CAG Compliance", "code": "FIN_P3_CH7_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 8: Due Diligence, Investigation & Forensic Accounting",
+          "code": "FIN_P3_CH8",
+          "sortOrder": 8,
+          "children": [
+            { "type": "TOPIC", "name": "Techniques of Investigation and Forensic Audit Procedures", "code": "FIN_P3_CH8_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 9: Emerging Areas: Sustainable Development Goals (SDG) & ESG Assurance",
+          "code": "FIN_P3_CH9",
+          "sortOrder": 9,
+          "children": [
+            { "type": "TOPIC", "name": "BRSR Core Framework and Assurance Standards (SSAE 3000)", "code": "FIN_P3_CH9_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 10: Professional Ethics and Liabilities of Auditors",
+          "code": "FIN_P3_CH10",
+          "sortOrder": 10,
+          "children": [
+            { "type": "TOPIC", "name": "First & Second Schedules to Chartered Accountants Act 1949 and Disciplinary Mechanism", "code": "FIN_P3_CH10_T1", "sortOrder": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PAPER_4",
+      "name": "Direct Tax Laws and International Taxation",
+      "sortOrder": 4,
+      "nodes": [
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 1: Comprehensive Computation of Total Income and Tax Liability",
+          "code": "FIN_P4_CH1",
+          "sortOrder": 1,
+          "children": [
+            { "type": "TOPIC", "name": "Corporate Taxation, Special Rates (115BAA/115BAB) and AMT/MAT (115JB)", "code": "FIN_P4_CH1_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 2: Taxation of Trusts, Institutions and Special Entities",
+          "code": "FIN_P4_CH2",
+          "sortOrder": 2,
+          "children": [
+            { "type": "TOPIC", "name": "Charitable & Religious Trusts (Section 11-13), Electoral Trusts and Business Trusts", "code": "FIN_P4_CH2_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 3: Assessment Procedures, Search, Seizure & Reassessment",
+          "code": "FIN_P4_CH3",
+          "sortOrder": 3,
+          "children": [
+            { "type": "TOPIC", "name": "Faceless Assessment (Section 144B), Income Escaping Assessment (Section 148)", "code": "FIN_P4_CH3_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 4: Appeals, Revisions, Dispute Resolution & Penalties",
+          "code": "FIN_P4_CH4",
+          "sortOrder": 4,
+          "children": [
+            { "type": "TOPIC", "name": "CIT(Appeals), ITAT, High Court/Supreme Court, Section 270A Penalty for Underreporting", "code": "FIN_P4_CH4_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 5: Transfer Pricing and Other Anti-Avoidance Measures (GAAR)",
+          "code": "FIN_P4_CH5",
+          "sortOrder": 5,
+          "children": [
+            { "type": "TOPIC", "name": "Arm's Length Price (ALP) Determination, Safe Harbour Rules, APA and Chapter X-A GAAR", "code": "FIN_P4_CH5_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 6: Non-Resident Taxation & Double Taxation Relief (DTAA)",
+          "code": "FIN_P4_CH6",
+          "sortOrder": 6,
+          "children": [
+            { "type": "TOPIC", "name": "Taxation of Non-Residents and Foreign Companies (Section 115A-115BBA) and Section 90/91 Relief", "code": "FIN_P4_CH6_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 7: Model Tax Conventions, BEPS & Equalisation Levy",
+          "code": "FIN_P4_CH7",
+          "sortOrder": 7,
+          "children": [
+            { "type": "TOPIC", "name": "OECD vs UN Model, BEPS Action Plans, MLI and Equalisation Levy on E-Commerce", "code": "FIN_P4_CH7_T1", "sortOrder": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PAPER_5",
+      "name": "Indirect Tax Laws",
+      "sortOrder": 5,
+      "nodes": [
+        {
+          "type": "MODULE",
+          "name": "Part I: Goods and Services Tax (GST)",
+          "code": "FIN_P5_MOD1",
+          "sortOrder": 1,
+          "children": [
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 1: Supply, Charge and Place of Supply",
+              "code": "FIN_P5_MOD1_CH1",
+              "sortOrder": 1,
+              "children": [
+                { "type": "TOPIC", "name": "Place of Supply of Goods and Services under IGST Act (Section 10-13)", "code": "FIN_P5_MOD1_CH1_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 2: Input Tax Credit (ITC) & Value of Supply",
+              "code": "FIN_P5_MOD1_CH2",
+              "sortOrder": 2,
+              "children": [
+                { "type": "TOPIC", "name": "Apportionment of Credit, Banking Company Provisions and Job Work", "code": "FIN_P5_MOD1_CH2_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 3: Refunds under GST",
+              "code": "FIN_P5_MOD1_CH3",
+              "sortOrder": 3,
+              "children": [
+                { "type": "TOPIC", "name": "Refund on Zero-Rated Supplies, Inverted Duty Structure and Deemed Exports", "code": "FIN_P5_MOD1_CH3_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 4: Assessment, Audit, Inspection, Search, Seizure & Arrest",
+              "code": "FIN_P5_MOD1_CH4",
+              "sortOrder": 4,
+              "children": [
+                { "type": "TOPIC", "name": "Departmental Audit (Section 65) and Powers of Inspection and Arrest (Section 67-69)", "code": "FIN_P5_MOD1_CH4_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 5: Demands, Recovery, Offences & Penalties",
+              "code": "FIN_P5_MOD1_CH5",
+              "sortOrder": 5,
+              "children": [
+                { "type": "TOPIC", "name": "Determination of Tax (Section 73 & 74), Penalties (Section 122) and Compounding", "code": "FIN_P5_MOD1_CH5_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 6: Appeals, Revision & Advance Ruling",
+              "code": "FIN_P5_MOD1_CH6",
+              "sortOrder": 6,
+              "children": [
+                { "type": "TOPIC", "name": "Appellate Tribunal (GSTAT), Pre-deposit Requirements and AAR Jurisdiction", "code": "FIN_P5_MOD1_CH6_T1", "sortOrder": 1 }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "MODULE",
+          "name": "Part II: Customs & Foreign Trade Policy (FTP)",
+          "code": "FIN_P5_MOD2",
+          "sortOrder": 2,
+          "children": [
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 7: Levy of and Exemptions from Customs Duty & Classification",
+              "code": "FIN_P5_MOD2_CH7",
+              "sortOrder": 1,
+              "children": [
+                { "type": "TOPIC", "name": "Taxable Event, Types of Duties (BCD, SWS, ADD, CVD) and General Rules of Interpretation", "code": "FIN_P5_MOD2_CH7_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 8: Valuation under the Customs Act, 1962",
+              "code": "FIN_P5_MOD2_CH8",
+              "sortOrder": 2,
+              "children": [
+                { "type": "TOPIC", "name": "Transaction Value and Customs Valuation (Determination of Value of Imported Goods) Rules", "code": "FIN_P5_MOD2_CH8_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 9: Importation, Exportation, Warehousing & Duty Drawback",
+              "code": "FIN_P5_MOD2_CH9",
+              "sortOrder": 3,
+              "children": [
+                { "type": "TOPIC", "name": "Bill of Entry, Warehousing Provisions (Section 57-73) and Section 74/75 Drawback", "code": "FIN_P5_MOD2_CH9_T1", "sortOrder": 1 }
+              ]
+            },
+            {
+              "type": "CHAPTER",
+              "name": "Chapter 10: Foreign Trade Policy (FTP)",
+              "code": "FIN_P5_MOD2_CH10",
+              "sortOrder": 4,
+              "children": [
+                { "type": "TOPIC", "name": "Export Promotion Schemes (Advance Authorisation, EPCG, RoDTEP) and Status Holders", "code": "FIN_P5_MOD2_CH10_T1", "sortOrder": 1 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "PAPER_6",
+      "name": "Integrated Business Solutions",
+      "sortOrder": 6,
+      "nodes": [
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 1: Corporate Governance, Restructuring & Financial Strategy Case Studies",
+          "code": "FIN_P6_CH1",
+          "sortOrder": 1,
+          "children": [
+            { "type": "TOPIC", "name": "Multi-disciplinary Scenarios integrating AFM, Law and Strategic Decisions", "code": "FIN_P6_CH1_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 2: Financial Reporting and Cross-Border Tax Planning Case Studies",
+          "code": "FIN_P6_CH2",
+          "sortOrder": 2,
+          "children": [
+            { "type": "TOPIC", "name": "Scenarios combining Ind AS Consolidation, Transfer Pricing and BEPS Strategies", "code": "FIN_P6_CH2_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 3: Forensic Auditing, ESG Assurance & Regulatory Investigation Case Studies",
+          "code": "FIN_P6_CH3",
+          "sortOrder": 3,
+          "children": [
+            { "type": "TOPIC", "name": "Comprehensive Cases on Fraud Detection, Digital Forensics and Board Liabilities", "code": "FIN_P6_CH3_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 4: Supply Chain Optimization, Indirect Taxation & International Trade Case Studies",
+          "code": "FIN_P6_CH4",
+          "sortOrder": 4,
+          "children": [
+            { "type": "TOPIC", "name": "Global Supply Chain GST, Customs Valuation and FTP Incentive Realization", "code": "FIN_P6_CH4_T1", "sortOrder": 1 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 5: Comprehensive Enterprise Turnaround & M&A Valuation Case Studies",
+          "code": "FIN_P6_CH5",
+          "sortOrder": 5,
+          "children": [
+            { "type": "TOPIC", "name": "End-to-end Problem Solving for Insolvent and Distressed Corporate Entities", "code": "FIN_P6_CH5_T1", "sortOrder": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

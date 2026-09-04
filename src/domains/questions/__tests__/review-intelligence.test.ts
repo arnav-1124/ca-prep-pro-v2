@@ -38,26 +38,26 @@ async function runReviewIntelligenceTests() {
   const [activeVersion] = await db
     .select()
     .from(curriculumVersions)
-    .where(eq(curriculumVersions.academicLevelId, level.id))
+    .where(and(eq(curriculumVersions.academicLevelId, level.id), eq(curriculumVersions.isActive, true)))
     .limit(1);
 
   assert(activeVersion, "Active curriculum version must exist");
 
-  const [subject] = await db
-    .select()
-    .from(subjects)
-    .where(eq(subjects.academicLevelId, level.id))
-    .limit(1);
-
-  assert(subject, "Subject must exist");
-
   const [activeNode] = await db
     .select()
     .from(curriculumNodes)
-    .where(and(eq(curriculumNodes.subjectId, subject.id), eq(curriculumNodes.isActive, true)))
+    .where(and(eq(curriculumNodes.curriculumVersionId, activeVersion.id), eq(curriculumNodes.isActive, true)))
     .limit(1);
 
   assert(activeNode, "Active curriculum node must exist");
+
+  const [subject] = await db
+    .select()
+    .from(subjects)
+    .where(eq(subjects.id, activeNode.subjectId))
+    .limit(1);
+
+  assert(subject, "Subject must exist");
 
   console.log(`Context found: Level=${level.code}, Subject=${subject.name}, Node=${activeNode.name}\n`);
 
