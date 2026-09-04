@@ -14,6 +14,7 @@ import {
   toggleQuestionStatusAction,
   deleteQuestionAction,
   exportQuestionsAction,
+  downloadCanonicalTemplateAction,
 } from "@/app/actions/admin-questions";
 import { cn } from "@/lib/utils";
 import {
@@ -46,6 +47,7 @@ import {
   Trash,
   CheckCircle2,
   AlertTriangle,
+  Sparkles,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -262,6 +264,43 @@ export function QuestionsExplorerClient({ initialData, currentFilters }: Questio
       setStatusMessage({
         type: "error",
         text: "An error occurred while exporting question data.",
+      });
+    } finally {
+      setIsExporting(false);
+    }
+  };
+
+  // Download Canonical Import Template & Schema
+  const handleDownloadTemplate = async () => {
+    setIsExporting(true);
+    setStatusMessage(null);
+    try {
+      const res = await downloadCanonicalTemplateAction(currentFilters.levelCode);
+      if (res.success && res.data) {
+        const blob = new Blob([res.data.jsonContent], { type: "application/json" });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = res.data.fileName;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+
+        setStatusMessage({
+          type: "success",
+          text: `Downloaded Canonical Import Schema Template (${res.data.fileName}). Contains complete compulsory/optional specifications and sample questions for AI agents.`,
+        });
+      } else {
+        setStatusMessage({
+          type: "error",
+          text: res.error || "Failed to download canonical template.",
+        });
+      }
+    } catch {
+      setStatusMessage({
+        type: "error",
+        text: "An error occurred while downloading template.",
       });
     } finally {
       setIsExporting(false);
@@ -533,6 +572,19 @@ export function QuestionsExplorerClient({ initialData, currentFilters }: Questio
               <Download className="h-3.5 w-3.5 text-primary" />
             )}
             <span>Export Questions</span>
+          </Button>
+
+          {/* Download AI Schema Template Button */}
+          <Button
+            type="button"
+            variant="outline"
+            disabled={isExporting}
+            onClick={handleDownloadTemplate}
+            className="font-bold text-xs h-9 rounded-xl cursor-pointer gap-1.5 shadow-2xs border-primary/30 text-primary hover:bg-primary/10"
+            title="Download Master Canonical Schema & Sample Questions for AI extraction"
+          >
+            <Sparkles className="h-3.5 w-3.5 text-primary" />
+            <span>AI Import Template</span>
           </Button>
 
           {/* Review Queue Link */}

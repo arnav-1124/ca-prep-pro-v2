@@ -8,6 +8,7 @@ import {
   toggleQuestionActiveStatus,
   deleteAdminQuestion,
   exportQuestionsToCanonicalBatch,
+  getCanonicalImportTemplate,
 } from "@/domains/questions/management/services";
 import {
   UpdateQuestionInput,
@@ -158,6 +159,24 @@ export async function exportQuestionsAction(
   } catch (error: unknown) {
     console.error("[Export Questions Action Error]", error);
     const message = error instanceof Error ? error.message : "Failed to export questions.";
+    return { success: false, error: message };
+  }
+}
+
+/**
+ * Authoritative administrative server action to download the Master Canonical Schema & AI Extraction Template.
+ */
+export async function downloadCanonicalTemplateAction(
+  levelCode?: string
+): Promise<ServerActionResult<ExportQuestionsResult>> {
+  try {
+    await requireAdmin();
+
+    const result = await getCanonicalImportTemplate(levelCode);
+    return { success: true, data: result };
+  } catch (error: unknown) {
+    console.error("[Download Canonical Template Action Error]", error);
+    const message = error instanceof Error ? error.message : "Failed to generate canonical import template.";
     return { success: false, error: message };
   }
 }

@@ -15,6 +15,7 @@ import {
 } from "@/db/schema";
 import { eq, and, desc, inArray, sql } from "drizzle-orm";
 import { validateImportQuestion } from "../import/validation";
+import { generateCanonicalImportTemplate } from "../import/template";
 
 import {
   UpdateQuestionInput,
@@ -409,6 +410,16 @@ export async function exportQuestionsToCanonicalBatch(input: ExportQuestionsInpu
   const bankData = await getAdminQuestionBankData(filterParams);
   const questionsList = bankData.questions;
 
+  // If question bank has 0 matching questions, export the complete Master Canonical Schema & AI Extraction Template!
+  if (questionsList.length === 0) {
+    const template = await generateCanonicalImportTemplate({ levelCode: filterParams.levelCode });
+    return {
+      fileName: template.fileName,
+      jsonContent: template.jsonContent,
+      questionCount: template.sampleQuestionCount,
+    };
+  }
+
   // 1. Retrieve Academic Level details
   const [level] = await db
     .select()
@@ -605,7 +616,18 @@ export async function exportQuestionsToCanonicalBatch(input: ExportQuestionsInpu
   const dateStr = new Date().toISOString().slice(0, 10);
   const fileName = `ca-prep-pro-questions-${levelCode}-${dateStr}.json`;
 
-  const canonicalBatchPayload: import("../import/types").CanonicalBatchJson = {
+  // Fetch schema specification to embed in exported JSON
+  const templateDoc = await generateCanonicalImportTemplate({ levelCode });
+  let schemaDocumentation: Record<string, unknown> | undefined;
+  try {
+    const parsed = JSON.parse(templateDoc.jsonContent);
+    schemaDocumentation = parsed.$schema_documentation;
+  } catch {
+    // optional fallback
+  }
+
+  const canonicalBatchPayload = {
+    $schema_documentation: schemaDocumentation,
     schemaVersion: "2.0",
     batchName: `Export — ${level?.name || levelCode} (${dateStr})`,
     academicLevelCode: levelCode as "FOUNDATION" | "INTERMEDIATE" | "FINAL",
@@ -621,5 +643,18 @@ export async function exportQuestionsToCanonicalBatch(input: ExportQuestionsInpu
     fileName,
     jsonContent: JSON.stringify(canonicalBatchPayload, null, 2),
     questionCount: canonicalQuestions.length,
+  };
+}
+
+/**
+ * Dedicated service to export the complete Canonical Import Schema v2.0 template.
+ * Contains full specification of compulsory vs optional fields and realistic ICAI sample questions.
+ */
+export async function getCanonicalImportTemplate(levelCode?: string): Promise<ExportQuestionsResult> {
+  const template = await generateCanonicalImportTemplate({ levelCode });
+  return {
+    fileName: template.fileName,
+    jsonContent: template.jsonContent,
+    questionCount: template.sampleQuestionCount,
   };
 }

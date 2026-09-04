@@ -14,6 +14,7 @@ import {
   Check,
   X,
   Sparkles,
+  Download,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -34,6 +35,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { createImportBatchAction } from "@/app/actions/admin-question-imports";
+import { downloadCanonicalTemplateAction } from "@/app/actions/admin-questions";
 import { QuestionSourceType } from "@/domains/questions/import/types";
 import { cn } from "@/lib/utils";
 
@@ -93,7 +95,45 @@ export function AdminImportsClient({
   // Dialog state
   const [isUploadOpen, setIsUploadOpen] = React.useState(false);
   const [isSubmitting, setIsSubmitting] = React.useState(false);
+  const [isDownloadingTemplate, setIsDownloadingTemplate] = React.useState(false);
   const [statusMessage, setStatusMessage] = React.useState<{ type: "success" | "error"; text: string } | null>(null);
+
+  const handleDownloadTemplate = async () => {
+    setIsDownloadingTemplate(true);
+    setStatusMessage(null);
+    try {
+      const activeLvl = modalData.allLevels.find((l) => l.id === uploadLevelId) || modalData.allLevels[0];
+      const res = await downloadCanonicalTemplateAction(activeLvl?.code);
+      if (res.success && res.data) {
+        const blob = new Blob([res.data.jsonContent], { type: "application/json" });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = res.data.fileName;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+
+        setStatusMessage({
+          type: "success",
+          text: `Downloaded Canonical Import Schema Template (${res.data.fileName}) with complete compulsory/optional specifications and sample questions for AI agents.`,
+        });
+      } else {
+        setStatusMessage({
+          type: "error",
+          text: res.error || "Failed to download canonical template.",
+        });
+      }
+    } catch {
+      setStatusMessage({
+        type: "error",
+        text: "An error occurred while downloading template.",
+      });
+    } finally {
+      setIsDownloadingTemplate(false);
+    }
+  };
 
   const initialLevelId = modalData.allLevels[0]?.id || "";
   const initialVersionId =
@@ -230,13 +270,31 @@ export function AdminImportsClient({
           </p>
         </div>
 
-        <Button
-          onClick={() => setIsUploadOpen(true)}
-          className="font-bold text-xs h-9.5 px-4 rounded-xl cursor-pointer gap-2 shadow-xs"
-        >
-          <UploadCloud className="h-4 w-4" />
-          <span>Upload Question Batch</span>
-        </Button>
+        <div className="flex flex-wrap items-center gap-2.5">
+          <Button
+            type="button"
+            variant="outline"
+            disabled={isDownloadingTemplate}
+            onClick={handleDownloadTemplate}
+            className="font-bold text-xs h-9.5 px-3.5 rounded-xl cursor-pointer gap-1.5 shadow-xs border-primary/30 text-primary hover:bg-primary/10"
+            title="Download Master Canonical Schema Template with compulsory/optional column specifications and sample questions for AI agents"
+          >
+            {isDownloadingTemplate ? (
+              <Loader2 className="h-3.5 w-3.5 animate-spin" />
+            ) : (
+              <Sparkles className="h-3.5 w-3.5" />
+            )}
+            <span>Download AI Schema Template</span>
+          </Button>
+
+          <Button
+            onClick={() => setIsUploadOpen(true)}
+            className="font-bold text-xs h-9.5 px-4 rounded-xl cursor-pointer gap-2 shadow-xs"
+          >
+            <UploadCloud className="h-4 w-4" />
+            <span>Upload Question Batch</span>
+          </Button>
+        </div>
       </div>
 
       {/* Filter & Transition Toolbar */}
@@ -474,6 +532,30 @@ export function AdminImportsClient({
           </DialogHeader>
 
           <form onSubmit={handleUploadSubmit} className="space-y-4 pt-2">
+            {/* AI Extraction Template Helper Card */}
+            <div className="bg-primary/5 border border-primary/20 rounded-xl p-3 flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs">
+              <div className="space-y-0.5 min-w-0">
+                <div className="flex items-center gap-1.5 font-bold text-foreground">
+                  <Sparkles className="h-3.5 w-3.5 text-primary shrink-0" />
+                  <span>Preparing questions using an AI Agent (PDF Extraction)?</span>
+                </div>
+                <p className="text-muted-foreground text-[11px] leading-relaxed">
+                  Download our Canonical Schema template with compulsory vs optional column specs to give your AI agent.
+                </p>
+              </div>
+              <Button
+                type="button"
+                variant="outline"
+                size="sm"
+                onClick={handleDownloadTemplate}
+                disabled={isDownloadingTemplate}
+                className="shrink-0 h-8 px-3 text-[11px] font-bold rounded-lg border-primary/30 text-primary hover:bg-primary/10 cursor-pointer gap-1.5"
+              >
+                {isDownloadingTemplate ? <Loader2 className="h-3 w-3 animate-spin" /> : <Download className="h-3 w-3" />}
+                <span>Get AI Template</span>
+              </Button>
+            </div>
+
             {/* Target Level & Version */}
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               <div className="space-y-1.5">

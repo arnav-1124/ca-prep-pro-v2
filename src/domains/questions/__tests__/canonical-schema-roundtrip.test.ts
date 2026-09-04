@@ -495,14 +495,14 @@ async function runCanonicalSchemaTests() {
     assert.strictEqual(nodesCountAfter.count, nodesCountBefore.count, "Zero new curriculum nodes created during import");
     console.log("  ✓ PASS: Zero-Curriculum Creation invariant strictly enforced");
   } finally {
-    const testBatchIds = [createdCsBatch.batchId, unknownBatchId].filter((id): id is string => id !== null);
+    const testBatchIds = [createdCsBatch?.batchId, unknownBatchId].filter((id): id is string => id !== null);
 
-    // 1. Delete imported_questions first (releases FK to question_versions)
+    // 1. Delete imported_questions first (releases FK to question_versions and batches)
     if (testBatchIds.length > 0) {
       await db.delete(importedQuestions).where(inArray(importedQuestions.batchId, testBatchIds));
     }
 
-    // 2. Delete question_options and question_versions (releases FK to question_sources)
+    // 2. Delete question_options, question_versions, and questions
     if (publishedQIds.length > 0) {
       const liveVIds = (
         await db.select({ id: questionVersions.id }).from(questionVersions).where(inArray(questionVersions.questionId, publishedQIds))
