@@ -9,8 +9,11 @@ import {
   abandonPracticeSession,
   getPracticeSessionState,
   submitAnswer,
+  submitPracticeAnswer,
+  getPracticeSessionSummary,
   getAvailableQuestionsCount,
   CreatePracticeSessionInput,
+  SubmitAnswerInput,
 } from "@/domains/practice/services";
 import { getOrGenerateExplanation, checkExplanationQuota } from "@/domains/ai/services";
 import { getCurriculumNodes, getActiveStudentAttempt } from "@/domains/academics/services";
@@ -141,7 +144,36 @@ export async function getPracticeStateAction(sessionId: string) {
 }
 
 /**
- * Action to submit an answer choice.
+ * Action to submit an answer choice in an active practice session.
+ * Grades against the authoritative delivered question version and returns student-safe reveal data.
+ */
+export async function submitPracticeAnswerAction(input: SubmitAnswerInput) {
+  try {
+    const profile = await getAuthProfile();
+    const result = await submitPracticeAnswer(profile.id, input);
+    return { success: true as const, ...result };
+  } catch (err: unknown) {
+    const msg = err instanceof Error ? err.message : "Failed to submit practice answer.";
+    return { success: false as const, error: msg };
+  }
+}
+
+/**
+ * Action to retrieve the complete authoritative summary for a practice session.
+ */
+export async function getSessionSummaryAction(sessionId: string) {
+  try {
+    const profile = await getAuthProfile();
+    const summary = await getPracticeSessionSummary(profile.id, sessionId);
+    return { success: true as const, summary };
+  } catch (err: unknown) {
+    const msg = err instanceof Error ? err.message : "Failed to retrieve session summary.";
+    return { success: false as const, error: msg };
+  }
+}
+
+/**
+ * Action to submit an answer choice (legacy backward-compatible wrapper).
  */
 export async function submitAnswerAction(
   sessionId: string,

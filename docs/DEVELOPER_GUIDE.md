@@ -167,7 +167,7 @@ npx drizzle-kit migrate
 ## Student Practice Session & Deterministic Question Delivery Engine (`/practice`)
 
 ### 1. Delivery Architecture & Lifecycle
-- **Pure Delivery Boundary**: Implements `STUDENT → PRACTICE CONTEXT → SESSION CREATION → DETERMINISTIC QUESTION SELECTION → QUESTION DELIVERY`. Answer submission and grading are strictly isolated in Step 23.
+- **Lifecycle Architecture**: Implements `STUDENT → PRACTICE CONTEXT → SESSION CREATION → DETERMINISTIC QUESTION SELECTION → QUESTION DELIVERY → ANSWER SUBMISSION → IMMUTABLE GRADING → ATTEMPT RECORD → SESSION PROGRESS → SESSION SCORE / SUMMARY`.
 - **Authenticated Clerk Authorization**: Only authenticated students can initiate or access practice sessions. Sessions verify that `session.studentProfileId === currentStudent.id`. Guest access is strictly prohibited.
 - **Curriculum Version Pinning**: When a session is initiated, it locks onto the student's active `curriculum_version_id` for that academic level. Even if an administrator activates a new curriculum version during a student's study period, the active session is isolated and preserves its curriculum mapping.
 - **Inactive Node & Question Exclusions**: Questions mapped to deactivated curriculum nodes, questions with obsolete curriculum versions, and questions marked `isActive = false` or `retired` are completely excluded from selection.
@@ -182,6 +182,16 @@ npx drizzle-kit migrate
 - **Database Unique Constraints**: `(practice_session_id, question_id)` guarantees each question is delivered at most once per session. `(practice_session_id, sequence_number)` prevents concurrent race conditions on sequence numbers.
 - **Zero-Answer DTO**: `StudentPracticeQuestionDto` completely omits `correctAnswer`, `explanation`, option `isCorrect` flags, and administrative review records. Only question text, options (id, label, text), and case study scenario (if applicable) are transmitted to the browser.
 - **Historical Immutability Guardrail**: Question hard deletion is blocked in `deleteAdminQuestion` if any rows in `practice_session_questions` reference the question.
+
+### 4. Deterministic Grading Engine & The Golden Historical Invariant
+- **Deterministic Domain Grading**: Grading is executed purely in `src/domains/practice/services/grading.ts` by checking the selected option letter against the version's registered `correctAnswer`. Zero AI or LLMs are involved in MCQ grading.
+- **The Golden Historical Invariant**: Student answers are graded strictly against the exact `question_version_id` locked in `practice_session_questions` at delivery time. If an amendment publishes `v2` for a question, past attempts graded on `v1` remain completely frozen and unaltered.
+- **Attempt Idempotency**: `practice_attempts.practice_session_question_id` has a unique database index (`practice_attempts_session_question_unique_idx`). Concurrent submissions or re-submissions safely return the existing attempt record without throwing errors or corrupting session progress.
+
+### 5. Session Progress & Comprehensive Summary Review
+- **Real-Time Progress**: `calculateSessionProgress` dynamically counts answered questions, total questions, score (+1 mark per correct answer), and accuracy percentage.
+- **Automatic Completion**: When all questions in the session are answered, `practice_sessions.status` transitions to `COMPLETED` and `completedAt` is stamped.
+- **Authoritative Review**: `getPracticeSessionSummary` delivers a comprehensive review payload with detailed items showing student choice, correct answer, correctness status, and academic explanations.
 
 ## Production-Grade Scalability & Engineering Standards
 

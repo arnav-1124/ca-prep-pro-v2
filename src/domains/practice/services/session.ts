@@ -2,6 +2,7 @@ import { db } from "@/db";
 import {
   practiceSessions,
   practiceSessionQuestions,
+  practiceAttempts,
   academicLevels,
   subjects,
   curriculumNodes,
@@ -19,12 +20,14 @@ import {
   PracticeSessionDetailsDto,
   NextQuestionResult,
   CurrentQuestionResult,
+  SubmitAnswerResultDto,
 } from "../types";
 import {
   countEligibleQuestions,
   selectNextEligibleQuestion,
   QuestionFilterCriteria,
 } from "./selector";
+import { calculateSessionProgress } from "./attempts";
 
 /**
  * Creates a new practice session for an authenticated student with deterministic ordering.
@@ -482,10 +485,46 @@ export async function getCurrentPracticeQuestion(
     deliveredAt: latestDelivery.deliveredAt.toISOString(),
   };
 
+  // Check if this delivered question has already received a final answer
+  let existingAttemptDto: SubmitAnswerResultDto | null = null;
+  const [existingAttempt] = await db
+    .select()
+    .from(practiceAttempts)
+    .where(eq(practiceAttempts.practiceSessionQuestionId, latestDelivery.id))
+    .limit(1);
+
+  if (existingAttempt) {
+    const [attemptVersion] = await db
+      .select({
+        correctAnswer: questionVersions.correctAnswer,
+        explanation: questionVersions.explanation,
+      })
+      .from(questionVersions)
+      .where(eq(questionVersions.id, existingAttempt.questionVersionId))
+      .limit(1);
+
+    const progress = await calculateSessionProgress(session.id, totalQuestions);
+
+    existingAttemptDto = {
+      attemptId: existingAttempt.id,
+      sessionId: session.id,
+      sessionQuestionId: latestDelivery.id,
+      questionVersionId: existingAttempt.questionVersionId,
+      selectedAnswer: existingAttempt.selectedAnswer,
+      isCorrect: existingAttempt.isCorrect,
+      correctAnswer: attemptVersion?.correctAnswer || "",
+      explanation: attemptVersion?.explanation || null,
+      marksAwarded: existingAttempt.marksAwarded,
+      sessionProgress: progress,
+      isSessionCompleted: session.status === "COMPLETED",
+    };
+  }
+
   return {
     isCompleted: false,
     question: questionDto,
     session: sessionDetails,
+    existingAttempt: existingAttemptDto,
   };
 }
 

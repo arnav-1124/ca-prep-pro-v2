@@ -5,7 +5,7 @@ Orchestrates authenticated active learning practice sessions, deterministic ques
 
 ---
 
-## Architectural Principles (Step 22)
+## Architectural Principles (Step 22 & Step 23)
 
 ```
 Student (Clerk Auth)
@@ -20,7 +20,15 @@ Atomic Question Delivery (`practice_session_questions` with Unique Constraints)
        ↓
 Sanitized Student Delivery DTO (Zero Answer Keys, Zero Explanations)
        ↓
-[Step 23: Answer Submission & Grading Foundation]
+Student Answer Selection (Option Letter: 'A' | 'B' | 'C' | 'D'...)
+       ↓
+Deterministic Grading Engine (`src/domains/practice/services/grading.ts`)
+       ↓
+Immutable Attempt Record (`practice_attempts` bound to Delivered `question_version_id`)
+       ↓
+Post-Submission Reveal DTO (Correctness, Correct Letter, Academic Explanation)
+       ↓
+Session Progress Tracking & Authoritative Summary (`getPracticeSessionSummary`)
 ```
 
 ### 1. Practice Session Architecture
@@ -102,9 +110,43 @@ To be eligible for delivery, a question must satisfy:
 
 ---
 
-## Foundation for Step 23 (Answer Submission & Grading)
-Step 23 will build on this architecture:
-1. **Student Submission**: The student selects an option letter for the delivered `questionVersionId` and submits an answer choice.
-2. **Server-Side Grading**: The server verifies the student's submission against `question_versions.correctAnswer` using the immutable `question_version_id` locked in `practice_session_questions`.
-3. **Attempt Recording**: Persists the result into `practice_attempts` (`selected_answer`, `is_correct`, `time_spent_seconds`).
-4. **Option Feedback & Explanations**: Only after an answer is submitted does the server expose correctness feedback and academic explanations to the student.
+## Answer Submission, Immutable Grading & Session Scoring (Step 23)
+
+### 9. Deterministic Grading Engine (`src/domains/practice/services/grading.ts`)
+* **Zero AI Involvement**: All grading is 100% deterministic and evaluated directly against official question version answer keys. No LLMs or heuristics are used for MCQ grading.
+* **Pure Domain Evaluation (`gradeAnswer`)**:
+  * Normalizes student input and answer keys (trimmed, uppercase).
+  * Validates that the selected option letter exists within the version's registered `options` list.
+  * Compares normalized `selectedOptionLetter` to `question_versions.correctAnswer`.
+  * Standard marking: +1 mark for correct, 0 marks for incorrect. Negative marking is omitted for standard CA practice sessions.
+
+### 10. The Golden Historical Invariant: Immutability of Graded Attempts
+* **Strict Reference Chain**:
+  `practice_session → practice_session_question → question_version → student_answer / attempt → grading_result`
+* **Amended Questions (V2 vs V1)**:
+  * When an ICAI amendment changes a law or accounting standard, an administrator publishes version `v2` with a new answer key and explanation.
+  * Any student practice attempt created under `v1` is graded **strictly against `v1`**.
+  * The existence or activation of `v2` does not modify `v1`'s attempt row, correctness flag, score, or past explanation review.
+  * Verified hermetically in `src/domains/practice/__tests__/grading-integrity.test.ts`.
+
+### 11. Idempotency, Concurrency & Attempt Uniqueness
+* **Table**: `practice_attempts`
+  * Added `practiceSessionQuestionId` with a unique index: `practice_attempts_session_question_unique_idx`.
+  * Added `studentProfileId` foreign key and indexes on `practiceSessionId`, `studentProfileId`, and `questionVersionId`.
+* **Single Attempt Rule**: Exactly one final attempt record is permitted per delivered question (`practice_session_question_id`). Retrying individual questions within the same session is strictly forbidden.
+* **Double-Submission Protection**:
+  * UI disables the submit button during mutation and renders a loading spinner.
+  * In the database, concurrent racing requests hit `practice_attempts_session_question_unique_idx`.
+  * `submitPracticeAnswer` catches database unique constraint collisions and gracefully returns the existing attempt record without throwing errors or corrupting session progress.
+
+### 12. Security Boundary & Post-Submission Reveal Contract
+* **Pre-Submission**: `StudentPracticeQuestionDto` completely redacts `correctAnswer`, `explanation`, and `isCorrect` flags from options.
+* **Post-Submission (`SubmitAnswerResultDto`)**: Correct answer and academic explanations are revealed **only after** a valid attempt is recorded in the database:
+  * `isCorrect`: Boolean indicating whether the student answered correctly.
+  * `correctOptionLetter`: The official correct option letter for the delivered version.
+  * `explanation`: The official academic rationale from the delivered version.
+  * `marksAwarded`: Score awarded (1 or 0).
+  * `progress`: Updated session counts (`answeredQuestions`, `totalQuestions`, `score`, `accuracyPercentage`).
+* **Session Summary Screen (`PracticeSessionSummaryDto`)**:
+  * Upon answering the final delivered question, `practice_sessions.status` transitions to `COMPLETED` and `completedAt` is stamped.
+  * Authoritative summary displays overall score, accuracy %, question counts, and a comprehensive question review list detailing user choices, correct answers, and academic explanations.

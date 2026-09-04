@@ -18,6 +18,7 @@ CA Prep Pro is a serious, production-grade SaaS platform for Chartered Accountan
 ### Student Experience
 - **Attempt-Aware Curriculum**: Level-specific syllabus tree dynamically loaded from active curriculum versions.
 - **MCQ & Case-Study Practice**: Practice sessions with deterministic seed-hashed question selection, active curriculum version pinning, delivered-question tracking, and zero-answer client security.
+- **Answer Submission & Immutable Grading**: Pure deterministic server-side grading, idempotent attempt recording locked to delivered question versions, post-submission academic explanations, real-time progress, and comprehensive session scoring.
 - **Exam-Style Mock Tests**: Timed, attempt-specific test simulations with comprehensive diagnostics.
 - **Detailed Progress Analytics**: Preparation insights mapped across Level → Subject → Chapter → Topic.
 

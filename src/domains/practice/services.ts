@@ -17,9 +17,13 @@ import { getActiveStudentAttempt, getActiveCurriculumVersion } from "@/domains/a
 export * from "./types";
 export * from "./services/selector";
 export * from "./services/session";
+export * from "./services/grading";
+export * from "./services/attempts";
+export * from "./services/summary";
 
 import { countEligibleQuestions } from "./services/selector";
 import { createPracticeSession } from "./services/session";
+import { submitPracticeAnswer } from "./services/attempts";
 
 export interface PracticeQuestion {
   id: string; // question ID
@@ -301,6 +305,7 @@ export async function getPracticeSessionState(
 
 /**
  * Submits a student's answer choice for the current question in a practice session.
+ * Backward-compatible helper that resolves the delivered session question.
  */
 export async function submitAnswer(
   studentProfileId: string,
@@ -308,7 +313,34 @@ export async function submitAnswer(
   questionVersionId: string,
   selectedAnswer: string
 ) {
-  // 1. Fetch practice session and check ownership
+  // Find delivered session question for this session and version
+  const [sessionQuestion] = await db
+    .select({ id: practiceSessionQuestions.id })
+    .from(practiceSessionQuestions)
+    .where(
+      and(
+        eq(practiceSessionQuestions.practiceSessionId, sessionId),
+        eq(practiceSessionQuestions.questionVersionId, questionVersionId)
+      )
+    )
+    .limit(1);
+
+  if (sessionQuestion) {
+    const res = await submitPracticeAnswer(studentProfileId, {
+      sessionId,
+      sessionQuestionId: sessionQuestion.id,
+      selectedAnswer,
+    });
+    return {
+      attemptId: res.attemptId,
+      isCorrect: res.isCorrect,
+      correctAnswer: res.correctAnswer,
+      explanation: res.explanation,
+      isSessionCompleted: res.isSessionCompleted,
+    };
+  }
+
+  // Fallback for unlinked legacy questions without delivery records
   const [session] = await db
     .select()
     .from(practiceSessions)
@@ -327,7 +359,6 @@ export async function submitAnswer(
     throw new Error("Practice session is already completed.");
   }
 
-  // 2. Fetch the question version to verify correctness
   const [version] = await db
     .select()
     .from(questionVersions)
@@ -338,7 +369,6 @@ export async function submitAnswer(
     throw new Error("Question details not found.");
   }
 
-  // Check if this question was already answered in the session
   const [existingAttempt] = await db
     .select()
     .from(practiceAttempts)
@@ -351,19 +381,26 @@ export async function submitAnswer(
     .limit(1);
 
   if (existingAttempt) {
-    throw new Error("This question has already been answered.");
+    return {
+      attemptId: existingAttempt.id,
+      isCorrect: existingAttempt.isCorrect,
+      correctAnswer: version.correctAnswer,
+      explanation: version.explanation,
+      isSessionCompleted: session.status === "COMPLETED",
+    };
   }
 
   const isCorrect = version.correctAnswer.toUpperCase() === selectedAnswer.toUpperCase();
 
-  // 3. Record attempt in database
   const [attempt] = await db
     .insert(practiceAttempts)
     .values({
       practiceSessionId: sessionId,
+      studentProfileId,
       questionVersionId,
       selectedAnswer: selectedAnswer.toUpperCase(),
       isCorrect,
+      marksAwarded: isCorrect ? 1 : 0,
       timeSpentSeconds: 0,
     })
     .returning();

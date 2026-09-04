@@ -1,7 +1,7 @@
 import { currentUser } from "@clerk/nextjs/server";
 import { redirect } from "next/navigation";
 import { getOrCreateStudentProfile } from "@/domains/auth/services";
-import { getCurrentPracticeQuestion } from "@/domains/practice/services";
+import { getCurrentPracticeQuestion, getPracticeSessionSummary } from "@/domains/practice/services";
 import { AppShell } from "@/components/app/app-shell";
 import { SessionRunner } from "./session-runner";
 
@@ -35,11 +35,22 @@ export default async function PracticeSessionPage({ params }: PracticeSessionPag
     redirect("/practice");
   }
 
+  let initialSummary = null;
+  if (initialData.isCompleted || initialData.session.status === "COMPLETED") {
+    try {
+      initialSummary = await getPracticeSessionSummary(profile.id, sessionId);
+    } catch {
+      // Ignore if summary fails
+    }
+  }
+
   return (
     <AppShell>
       <SessionRunner
         sessionId={sessionId}
         initialQuestion={initialData.question}
+        initialAttempt={initialData.existingAttempt || null}
+        initialSummary={initialSummary}
         sessionDetails={initialData.session}
       />
     </AppShell>

@@ -80,16 +80,23 @@ export const practiceAttempts = pgTable(
     practiceSessionId: uuid("practice_session_id")
       .references(() => practiceSessions.id)
       .notNull(),
+    practiceSessionQuestionId: uuid("practice_session_question_id")
+      .references(() => practiceSessionQuestions.id, { onDelete: "cascade" }),
+    studentProfileId: uuid("student_profile_id")
+      .references(() => studentProfiles.id),
     questionVersionId: uuid("question_version_id")
       .references(() => questionVersions.id)
       .notNull(),
     selectedAnswer: text("selected_answer").notNull(),
     isCorrect: boolean("is_correct").notNull(),
+    marksAwarded: integer("marks_awarded").default(0).notNull(),
     timeSpentSeconds: integer("time_spent_seconds"),
     createdAt: timestamp("created_at").defaultNow().notNull(),
   },
   (table) => [
+    uniqueIndex("practice_attempts_session_question_unique_idx").on(table.practiceSessionQuestionId),
     index("practice_attempts_session_idx").on(table.practiceSessionId),
+    index("practice_attempts_student_idx").on(table.studentProfileId),
     index("practice_attempts_version_idx").on(table.questionVersionId),
     index("practice_attempts_created_at_idx").on(table.createdAt),
   ]

@@ -374,13 +374,27 @@ The operational review engine systematically tags live questions using 11 explai
 - Duplicate question delivery within a session is prevented via the database unique index `UNIQUE (practice_session_id, question_id)`.
 - Concurrent sequence collisions are prevented via `UNIQUE (practice_session_id, sequence_number)`. Concurrent requests that race on delivery catch the collision and safely return the delivered item without creating duplicates.
 
+---
 
+## 16. Student Answer Submission, Immutable Grading & Session Scoring
 
+### 1. Deterministic Grading Engine & Zero AI Involvement
+- All practice MCQ grading is executed strictly via deterministic rules comparing student-selected option letters against the version's registered `correctAnswer` in `src/domains/practice/services/grading.ts`.
+- AI, LLMs, or non-deterministic heuristics are strictly prohibited from MCQ grading or generating synthetic answer keys.
+- Normalization (trim, uppercase) and option existence checks are strictly enforced before comparison.
 
+### 2. The Golden Historical Invariant: Immutability of Graded Attempts
+- Grading must strictly resolve against the exact, immutable `question_version_id` locked in `practice_session_questions` at question delivery time.
+- If an amendment creates a newer question version (`v2`) with an altered answer key or revised explanation, past student attempts graded against `v1` must remain 100% frozen and untouched.
+- Under no circumstances may an administrative update retroactively change the grading, marks awarded, or review display of an existing student attempt record.
 
+### 3. Attempt Uniqueness, Idempotency & Double-Click Guardrails
+- Exactly one final attempt record is permitted per delivered question (`practice_session_question_id`). Retrying individual questions within the same session is strictly forbidden.
+- Enforced at the database level via the unique index `practice_attempts_session_question_unique_idx` on `practice_attempts (practice_session_question_id)`.
+- Concurrent submission collisions or network retries catch unique constraint violations gracefully, returning the existing attempt record without throwing unhandled exceptions or corrupting session progress.
+- UI elements must disable the submit button immediately upon click and render a localized pending spinner.
 
-
-
-
-
-
+### 4. Post-Submission Reveal Boundary & Security Contract
+- Prior to submission, `correctAnswer` and `explanation` are strictly withheld from client-side payloads.
+- Correctness status, the official correct option letter, and the academic explanation are revealed **only after** a valid attempt is recorded in PostgreSQL.
+- Session summary screens (`PracticeSessionSummaryDto`) authoritatively resolve the final score, accuracy percentage, and comprehensive review items strictly from persisted database attempts.

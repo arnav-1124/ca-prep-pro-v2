@@ -13,7 +13,8 @@ export const createPracticeSessionSchema = z.object({
   requestedQuestionCount: z.number().int().min(1).max(50).default(10),
 });
 
-export type CreatePracticeSessionInput = z.infer<typeof createPracticeSessionSchema>;
+export type CreatePracticeSessionInput = z.input<typeof createPracticeSessionSchema>;
+export type ValidatedCreatePracticeSessionInput = z.infer<typeof createPracticeSessionSchema>;
 
 /**
  * Sanitized question option view model for student practice.
@@ -106,4 +107,81 @@ export interface CurrentQuestionResult {
   isCompleted: boolean;
   question: StudentPracticeQuestionDto | null;
   session: PracticeSessionDetailsDto;
+  existingAttempt?: SubmitAnswerResultDto | null;
 }
+
+/**
+ * Zod schema for client answer submission input.
+ */
+export const submitAnswerSchema = z.object({
+  sessionId: z.string().uuid("Invalid session ID"),
+  sessionQuestionId: z.string().uuid("Invalid session question ID"),
+  selectedAnswer: z.string().min(1, "Selected answer cannot be empty"),
+  timeSpentSeconds: z.number().int().min(0).max(7200).optional().default(0),
+});
+
+export type SubmitAnswerInput = z.input<typeof submitAnswerSchema>;
+export type ValidatedSubmitAnswerInput = z.infer<typeof submitAnswerSchema>;
+
+/**
+ * Authoritative real-time session progress and metrics.
+ */
+export interface PracticeSessionProgressDto {
+  totalQuestions: number;
+  deliveredCount: number;
+  answeredCount: number;
+  correctCount: number;
+  incorrectCount: number;
+  unansweredCount: number;
+  accuracyPercentage: number;
+  currentScore: number;
+  maxPossibleScore: number;
+}
+
+/**
+ * Student-safe result returned upon successful answer submission.
+ *
+ * INVARIANT: Answer key and explanation are revealed strictly
+ * AFTER the answer has been graded and persisted.
+ */
+export interface SubmitAnswerResultDto {
+  attemptId: string;
+  sessionId: string;
+  sessionQuestionId: string;
+  questionVersionId: string;
+  selectedAnswer: string;
+  isCorrect: boolean;
+  correctAnswer: string; // Authoritative answer key from delivered version
+  explanation: string | null; // Academic explanation from delivered version
+  marksAwarded: number;
+  sessionProgress: PracticeSessionProgressDto;
+  isSessionCompleted: boolean;
+}
+
+/**
+ * Item review model for completed practice sets.
+ */
+export interface PracticeQuestionReviewItemDto {
+  sessionQuestionId: string;
+  sequenceNumber: number;
+  questionText: string;
+  questionType: "MCQ" | "CASE_STUDY";
+  difficulty: string;
+  options: StudentPracticeOptionDto[];
+  selectedAnswer: string | null;
+  correctAnswer: string;
+  isCorrect: boolean | null;
+  explanation: string | null;
+  marksAwarded: number;
+  timeSpentSeconds: number;
+}
+
+/**
+ * Complete summary model for completed practice sessions.
+ */
+export interface PracticeSessionSummaryDto {
+  session: PracticeSessionDetailsDto;
+  progress: PracticeSessionProgressDto;
+  reviewItems: PracticeQuestionReviewItemDto[];
+}
+
