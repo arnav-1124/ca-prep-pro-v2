@@ -13,7 +13,7 @@ import {
   subjects,
   curriculumNodes,
 } from "@/db/schema";
-import { eq, and, desc, asc, count, isNull, ne } from "drizzle-orm";
+import { eq, and, desc, asc, count, isNull, ne, gt } from "drizzle-orm";
 import {
   RawImportQuestionJson,
   QuestionSourceType,
@@ -1079,6 +1079,48 @@ export async function publishApprovedQuestions(batchId: string, adminEmail: stri
   });
 
   return { publishedCount };
+}
+
+/**
+ * Publishes all approved questions across all batches that have approved questions.
+ */
+export async function publishAllApprovedBatches(adminEmail: string): Promise<{
+  totalPublished: number;
+  publishedBatchesCount: number;
+}> {
+  const eligibleBatches = await db
+    .select({
+      id: importBatches.id,
+      batchName: importBatches.batchName,
+      approvedCount: importBatches.approvedCount,
+    })
+    .from(importBatches)
+    .where(
+      and(
+        ne(importBatches.status, "COMPLETED"),
+        gt(importBatches.approvedCount, 0)
+      )
+    );
+
+  let totalPublished = 0;
+  let publishedBatchesCount = 0;
+
+  for (const b of eligibleBatches) {
+    try {
+      const res = await publishApprovedQuestions(b.id, adminEmail);
+      if (res.publishedCount > 0) {
+        totalPublished += res.publishedCount;
+        publishedBatchesCount++;
+      }
+    } catch (err) {
+      console.error(`Failed to publish batch ${b.batchName}:`, err);
+    }
+  }
+
+  return {
+    totalPublished,
+    publishedBatchesCount,
+  };
 }
 
 /**

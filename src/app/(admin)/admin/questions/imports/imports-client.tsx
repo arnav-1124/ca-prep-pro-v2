@@ -15,6 +15,7 @@ import {
   X,
   Sparkles,
   Download,
+  ShieldCheck,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -37,6 +38,8 @@ import {
 import {
   createImportBatchAction,
   bulkApproveBatchAction,
+  publishAllApprovedBatchesAction,
+  publishApprovedQuestionsAction,
 } from "@/app/actions/admin-question-imports";
 import { downloadCanonicalTemplateAction } from "@/app/actions/admin-questions";
 import { QuestionSourceType } from "@/domains/questions/import/types";
@@ -127,6 +130,65 @@ export function AdminImportsClient({
       setStatusMessage({
         type: "error",
         text: result.error || "Failed to bulk approve batch questions.",
+      });
+    }
+  };
+
+  // Publish states
+  const [isPublishAllOpen, setIsPublishAllOpen] = React.useState(false);
+  const [isPublishingAll, setIsPublishingAll] = React.useState(false);
+  const [publishSingleBatch, setPublishSingleBatch] = React.useState<ImportBatchItem | null>(null);
+  const [isPublishingSingle, setIsPublishingSingle] = React.useState(false);
+
+  const totalApprovedAcrossBatches = React.useMemo(() => {
+    return initialBatches.reduce((acc, b) => acc + (b.status !== "COMPLETED" ? b.approvedCount : 0), 0);
+  }, [initialBatches]);
+
+  const handlePublishAll = async () => {
+    setIsPublishingAll(true);
+    setStatusMessage(null);
+
+    const result = await publishAllApprovedBatchesAction();
+
+    setIsPublishingAll(false);
+    setIsPublishAllOpen(false);
+
+    if (result.success && result.data) {
+      setStatusMessage({
+        type: "success",
+        text: `Successfully published ${result.data.totalPublished} approved questions across ${result.data.publishedBatchesCount} batches to the live Question Bank!`,
+      });
+      router.refresh();
+    } else {
+      setStatusMessage({
+        type: "error",
+        text: result.error || "Failed to publish approved batches.",
+      });
+    }
+  };
+
+  const handlePublishSingle = async () => {
+    if (!publishSingleBatch) return;
+    setIsPublishingSingle(true);
+    setStatusMessage(null);
+
+    const result = await publishApprovedQuestionsAction({
+      batchId: publishSingleBatch.id,
+    });
+
+    setIsPublishingSingle(false);
+    setPublishSingleBatch(null);
+
+    if (result.success && result.data) {
+      setStatusMessage({
+        type: "success",
+        text: `Successfully published ${result.data.publishedCount} approved questions from "${publishSingleBatch.batchName}" to the live Question Bank!`,
+      });
+      router.refresh();
+    } else {
+      setStatusMessage({
+        type: "error",
+        text: result.error || "Failed to publish approved questions.",
       });
     }
   };
@@ -334,6 +396,19 @@ export function AdminImportsClient({
             <UploadCloud className="h-4 w-4" />
             <span>Upload Question Batch</span>
           </Button>
+
+          {totalApprovedAcrossBatches > 0 && (
+            <Button
+              type="button"
+              disabled={isPublishingAll}
+              onClick={() => setIsPublishAllOpen(true)}
+              className="font-bold text-xs h-9.5 px-4 rounded-xl cursor-pointer gap-2 bg-emerald-600 hover:bg-emerald-700 text-white shadow-xs"
+              title="Publish all approved questions across all batches to the live Question Bank"
+            >
+              <ShieldCheck className="h-4 w-4" />
+              <span>Publish All Approved ({totalApprovedAcrossBatches})</span>
+            </Button>
+          )}
         </div>
       </div>
 
@@ -539,6 +614,20 @@ export function AdminImportsClient({
                         >
                           <Check className="h-3.5 w-3.5 text-emerald-600 dark:text-emerald-400" />
                           <span>Bulk Approve</span>
+                        </Button>
+                      )}
+
+                      {batch.approvedCount > 0 && batch.status !== "COMPLETED" && (
+                        <Button
+                          type="button"
+                          variant="outline"
+                          size="sm"
+                          disabled={isPublishingSingle}
+                          onClick={() => setPublishSingleBatch(batch)}
+                          className="font-bold text-xs rounded-xl cursor-pointer gap-1 border-emerald-500/40 text-emerald-700 dark:text-emerald-300 bg-emerald-500/10 hover:bg-emerald-500/20 shadow-2xs"
+                        >
+                          <ShieldCheck className="h-3.5 w-3.5 text-emerald-600 dark:text-emerald-400" />
+                          <span>Publish ({batch.approvedCount})</span>
                         </Button>
                       )}
 
@@ -842,6 +931,124 @@ export function AdminImportsClient({
                 <>
                   <Check className="h-3.5 w-3.5" />
                   <span>Confirm Bulk Approval</span>
+                </>
+              )}
+            </Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
+
+      {/* PUBLISH ALL CONFIRMATION DIALOG */}
+      <Dialog open={isPublishAllOpen} onOpenChange={setIsPublishAllOpen}>
+        <DialogContent className="sm:max-w-md rounded-2xl font-sans">
+          <DialogHeader>
+            <div className="h-10 w-10 rounded-xl bg-emerald-500/10 text-emerald-600 flex items-center justify-center mb-2">
+              <ShieldCheck className="h-5 w-5" />
+            </div>
+            <DialogTitle className="text-base font-extrabold text-foreground">
+              Publish All Approved Questions
+            </DialogTitle>
+            <DialogDescription className="text-xs text-muted-foreground font-sans leading-relaxed">
+              Transfer all approved questions across all batches into the live Question Bank.
+            </DialogDescription>
+          </DialogHeader>
+
+          <div className="p-3.5 bg-muted/40 rounded-xl border border-border text-xs space-y-2.5 font-sans">
+            <p className="text-muted-foreground leading-relaxed">
+              You are about to publish <strong className="text-foreground">{totalApprovedAcrossBatches} approved questions</strong> across all pending and partially approved batches directly into the live Question Bank.
+            </p>
+            <div className="p-2.5 rounded-lg bg-background border border-border text-[11px] text-muted-foreground space-y-1">
+              <div>• Questions will immediately become active and available for student practice and mock tests.</div>
+              <div>• Batches with all questions approved and published will transition to <strong className="text-foreground">COMPLETED</strong>.</div>
+              <div>• Duplicate checks and pre-flight validation are automatically enforced before live insertion.</div>
+            </div>
+          </div>
+
+          <DialogFooter className="pt-3 gap-2">
+            <Button
+              type="button"
+              variant="outline"
+              onClick={() => setIsPublishAllOpen(false)}
+              disabled={isPublishingAll}
+              className="font-bold text-xs h-9.5 rounded-xl cursor-pointer"
+            >
+              Cancel
+            </Button>
+            <Button
+              type="button"
+              disabled={isPublishingAll}
+              onClick={handlePublishAll}
+              className="font-bold text-xs h-9.5 rounded-xl cursor-pointer gap-1.5 bg-emerald-600 hover:bg-emerald-700 text-white shadow-xs"
+            >
+              {isPublishingAll ? (
+                <>
+                  <Loader2 className="h-3.5 w-3.5 animate-spin" />
+                  <span>Publishing All...</span>
+                </>
+              ) : (
+                <>
+                  <ShieldCheck className="h-3.5 w-3.5" />
+                  <span>Confirm Publish All ({totalApprovedAcrossBatches})</span>
+                </>
+              )}
+            </Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
+
+      {/* PUBLISH SINGLE BATCH CONFIRMATION DIALOG */}
+      <Dialog open={!!publishSingleBatch} onOpenChange={(open) => !open && setPublishSingleBatch(null)}>
+        <DialogContent className="sm:max-w-md rounded-2xl font-sans">
+          <DialogHeader>
+            <div className="h-10 w-10 rounded-xl bg-emerald-500/10 text-emerald-600 flex items-center justify-center mb-2">
+              <ShieldCheck className="h-5 w-5" />
+            </div>
+            <DialogTitle className="text-base font-extrabold text-foreground">
+              Publish Batch Questions
+            </DialogTitle>
+            <DialogDescription className="text-xs text-muted-foreground font-sans leading-relaxed">
+              Publish approved questions from this batch into the live Question Bank.
+            </DialogDescription>
+          </DialogHeader>
+
+          {publishSingleBatch && (
+            <div className="p-3.5 bg-muted/40 rounded-xl border border-border text-xs space-y-2.5 font-sans">
+              <p className="text-muted-foreground leading-relaxed">
+                This will publish <strong className="text-foreground">{publishSingleBatch.approvedCount} approved questions</strong> from{" "}
+                <strong className="text-foreground">{publishSingleBatch.batchName}</strong> to the live Question Bank.
+              </p>
+              <div className="p-2.5 rounded-lg bg-background border border-border text-[11px] text-muted-foreground space-y-1">
+                <div>• Questions will be live for student practice and mock tests immediately.</div>
+                <div>• If all questions in this batch are published, the batch status will be marked as Completed.</div>
+              </div>
+            </div>
+          )}
+
+          <DialogFooter className="pt-3 gap-2">
+            <Button
+              type="button"
+              variant="outline"
+              onClick={() => setPublishSingleBatch(null)}
+              disabled={isPublishingSingle}
+              className="font-bold text-xs h-9.5 rounded-xl cursor-pointer"
+            >
+              Cancel
+            </Button>
+            <Button
+              type="button"
+              disabled={isPublishingSingle}
+              onClick={handlePublishSingle}
+              className="font-bold text-xs h-9.5 rounded-xl cursor-pointer gap-1.5 bg-emerald-600 hover:bg-emerald-700 text-white shadow-xs"
+            >
+              {isPublishingSingle ? (
+                <>
+                  <Loader2 className="h-3.5 w-3.5 animate-spin" />
+                  <span>Publishing...</span>
+                </>
+              ) : (
+                <>
+                  <ShieldCheck className="h-3.5 w-3.5" />
+                  <span>Confirm Publish ({publishSingleBatch?.approvedCount})</span>
                 </>
               )}
             </Button>

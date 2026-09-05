@@ -7,6 +7,7 @@ import {
   rejectImportedQuestion,
   editImportedQuestion,
   publishApprovedQuestions,
+  publishAllApprovedBatches,
   bulkApproveBatchQuestions,
 } from "@/domains/questions/import/services";
 import {
@@ -204,4 +205,31 @@ export async function bulkApproveBatchAction(params: {
     };
   }
 }
+
+/**
+ * Server Action to publish all approved questions across all eligible batches.
+ */
+export async function publishAllApprovedBatchesAction(): Promise<
+  ServerActionResult<{ totalPublished: number; publishedBatchesCount: number }>
+> {
+  try {
+    const admin = await requireAdmin();
+
+    const result = await publishAllApprovedBatches(admin.email);
+
+    revalidateImportPaths();
+
+    return {
+      success: true,
+      data: result,
+    };
+  } catch (err: unknown) {
+    const errorMsg = err instanceof Error ? err.message : "Failed to publish all approved batches.";
+    return {
+      success: false,
+      error: errorMsg,
+    };
+  }
+}
+
 
