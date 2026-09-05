@@ -7,6 +7,7 @@ import {
   rejectImportedQuestion,
   editImportedQuestion,
   publishApprovedQuestions,
+  bulkApproveBatchQuestions,
 } from "@/domains/questions/import/services";
 import {
   QuestionSourceType,
@@ -177,3 +178,30 @@ export async function publishApprovedQuestionsAction(params: {
     };
   }
 }
+
+/**
+ * Server Action to bulk approve all valid questions in a batch.
+ */
+export async function bulkApproveBatchAction(params: {
+  batchId: string;
+}): Promise<ServerActionResult<{ approvedCount: number; newlyApprovedCount: number }>> {
+  try {
+    const admin = await requireAdmin();
+
+    const result = await bulkApproveBatchQuestions(params.batchId, admin.email);
+
+    revalidateImportPaths(params.batchId);
+
+    return {
+      success: true,
+      data: result,
+    };
+  } catch (err: unknown) {
+    const errorMsg = err instanceof Error ? err.message : "Failed to bulk approve batch questions.";
+    return {
+      success: false,
+      error: errorMsg,
+    };
+  }
+}
+

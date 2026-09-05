@@ -34,7 +34,10 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { createImportBatchAction } from "@/app/actions/admin-question-imports";
+import {
+  createImportBatchAction,
+  bulkApproveBatchAction,
+} from "@/app/actions/admin-question-imports";
 import { downloadCanonicalTemplateAction } from "@/app/actions/admin-questions";
 import { QuestionSourceType } from "@/domains/questions/import/types";
 import { cn } from "@/lib/utils";
@@ -97,6 +100,36 @@ export function AdminImportsClient({
   const [isSubmitting, setIsSubmitting] = React.useState(false);
   const [isDownloadingTemplate, setIsDownloadingTemplate] = React.useState(false);
   const [statusMessage, setStatusMessage] = React.useState<{ type: "success" | "error"; text: string } | null>(null);
+
+  // Bulk Approve state
+  const [bulkApproveBatch, setBulkApproveBatch] = React.useState<ImportBatchItem | null>(null);
+  const [isBulkApproving, setIsBulkApproving] = React.useState(false);
+
+  const handleBulkApprove = async () => {
+    if (!bulkApproveBatch) return;
+    setIsBulkApproving(true);
+    setStatusMessage(null);
+
+    const result = await bulkApproveBatchAction({
+      batchId: bulkApproveBatch.id,
+    });
+
+    setIsBulkApproving(false);
+    setBulkApproveBatch(null);
+
+    if (result.success && result.data) {
+      setStatusMessage({
+        type: "success",
+        text: `Successfully bulk approved ${result.data.newlyApprovedCount} questions in "${bulkApproveBatch.batchName}"! (${result.data.approvedCount} total approved)`,
+      });
+      router.refresh();
+    } else {
+      setStatusMessage({
+        type: "error",
+        text: result.error || "Failed to bulk approve batch questions.",
+      });
+    }
+  };
 
   const handleDownloadTemplate = async () => {
     setIsDownloadingTemplate(true);
@@ -494,12 +527,28 @@ export function AdminImportsClient({
                       </div>
                     </div>
 
-                    <Button asChild size="sm" className="font-bold text-xs rounded-xl cursor-pointer gap-1">
-                      <Link href={`/admin/questions/imports/${batch.id}`}>
-                        <span>Review Batch</span>
-                        <ChevronRight className="h-3.5 w-3.5" />
-                      </Link>
-                    </Button>
+                    <div className="flex items-center gap-2">
+                      {batch.pendingReviewCount > 0 && (
+                        <Button
+                          type="button"
+                          variant="outline"
+                          size="sm"
+                          disabled={isBulkApproving}
+                          onClick={() => setBulkApproveBatch(batch)}
+                          className="font-bold text-xs rounded-xl cursor-pointer gap-1 border-emerald-500/30 text-emerald-700 dark:text-emerald-300 hover:bg-emerald-500/10 shadow-2xs"
+                        >
+                          <Check className="h-3.5 w-3.5 text-emerald-600 dark:text-emerald-400" />
+                          <span>Bulk Approve</span>
+                        </Button>
+                      )}
+
+                      <Button asChild size="sm" className="font-bold text-xs rounded-xl cursor-pointer gap-1">
+                        <Link href={`/admin/questions/imports/${batch.id}`}>
+                          <span>Review Batch</span>
+                          <ChevronRight className="h-3.5 w-3.5" />
+                        </Link>
+                      </Button>
+                    </div>
                   </div>
                 </div>
               );
@@ -737,6 +786,66 @@ export function AdminImportsClient({
               </Button>
             </DialogFooter>
           </form>
+        </DialogContent>
+      </Dialog>
+
+      {/* BULK APPROVE CONFIRMATION DIALOG */}
+      <Dialog open={!!bulkApproveBatch} onOpenChange={(open) => !open && setBulkApproveBatch(null)}>
+        <DialogContent className="sm:max-w-md rounded-2xl font-sans">
+          <DialogHeader>
+            <div className="h-10 w-10 rounded-xl bg-emerald-500/10 text-emerald-600 flex items-center justify-center mb-2">
+              <Check className="h-5 w-5" />
+            </div>
+            <DialogTitle className="text-base font-extrabold text-foreground">
+              Bulk Approve Batch Questions
+            </DialogTitle>
+            <DialogDescription className="text-xs text-muted-foreground font-sans leading-relaxed">
+              Approve all structurally valid and mapped questions in this batch.
+            </DialogDescription>
+          </DialogHeader>
+
+          {bulkApproveBatch && (
+            <div className="p-3.5 bg-muted/40 rounded-xl border border-border text-xs space-y-2.5 font-sans">
+              <p className="text-muted-foreground leading-relaxed">
+                This will mark all <strong className="text-foreground">{bulkApproveBatch.pendingReviewCount} pending questions</strong> in{" "}
+                <strong className="text-foreground">{bulkApproveBatch.batchName}</strong> that have valid syntax and mapped syllabus nodes as <strong className="text-emerald-600 dark:text-emerald-400">Approved</strong>.
+              </p>
+              <div className="p-2.5 rounded-lg bg-background border border-border text-[11px] text-muted-foreground space-y-1">
+                <div>• Any questions with invalid formatting or missing curriculum nodes will remain pending.</div>
+                <div>• Once approved, you can publish them directly to the live Question Bank.</div>
+              </div>
+            </div>
+          )}
+
+          <DialogFooter className="pt-3 gap-2">
+            <Button
+              type="button"
+              variant="outline"
+              onClick={() => setBulkApproveBatch(null)}
+              disabled={isBulkApproving}
+              className="font-bold text-xs h-9.5 rounded-xl cursor-pointer"
+            >
+              Cancel
+            </Button>
+            <Button
+              type="button"
+              disabled={isBulkApproving}
+              onClick={handleBulkApprove}
+              className="font-bold text-xs h-9.5 rounded-xl cursor-pointer gap-1.5 bg-emerald-600 hover:bg-emerald-700 text-white shadow-xs"
+            >
+              {isBulkApproving ? (
+                <>
+                  <Loader2 className="h-3.5 w-3.5 animate-spin" />
+                  <span>Approving...</span>
+                </>
+              ) : (
+                <>
+                  <Check className="h-3.5 w-3.5" />
+                  <span>Confirm Bulk Approval</span>
+                </>
+              )}
+            </Button>
+          </DialogFooter>
         </DialogContent>
       </Dialog>
     </div>

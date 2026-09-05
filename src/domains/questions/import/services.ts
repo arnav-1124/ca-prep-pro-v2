@@ -13,7 +13,7 @@ import {
   subjects,
   curriculumNodes,
 } from "@/db/schema";
-import { eq, and, desc, asc, count, isNull } from "drizzle-orm";
+import { eq, and, desc, asc, count, isNull, ne } from "drizzle-orm";
 import {
   RawImportQuestionJson,
   QuestionSourceType,
@@ -1082,9 +1082,92 @@ export async function publishApprovedQuestions(batchId: string, adminEmail: stri
 }
 
 /**
+ * Bulk approves all valid and mapped questions in an import batch.
+ * Skips invalid or unmapped questions so human review remains required for anomalies.
+ */
+export async function bulkApproveBatchQuestions(
+  batchId: string,
+  adminEmail: string
+): Promise<{ approvedCount: number; newlyApprovedCount: number }> {
+  const [batch] = await db
+    .select()
+    .from(importBatches)
+    .where(eq(importBatches.id, batchId))
+    .limit(1);
+
+  if (!batch) {
+    throw new Error("Import batch not found.");
+  }
+
+  if (batch.status === "COMPLETED") {
+    throw new Error("This batch has already been completed and published.");
+  }
+
+  // Find all questions in PENDING_REVIEW that are valid and mapped
+  const eligibleQuestions = await db
+    .select({ id: importedQuestions.id })
+    .from(importedQuestions)
+    .where(
+      and(
+        eq(importedQuestions.batchId, batchId),
+        eq(importedQuestions.status, "PENDING_REVIEW"),
+        ne(importedQuestions.validationStatus, "INVALID"),
+        ne(importedQuestions.curriculumMappingStatus, "UNMAPPED"),
+        ne(importedQuestions.curriculumMappingStatus, "AMBIGUOUS_MATCH")
+      )
+    );
+
+  const newlyApprovedCount = eligibleQuestions.length;
+
+  if (newlyApprovedCount > 0) {
+    await db
+      .update(importedQuestions)
+      .set({
+        status: "APPROVED",
+        rejectionReason: null,
+        rejectionNotes: null,
+        reviewedBy: adminEmail,
+        reviewedAt: new Date(),
+        updatedAt: new Date(),
+      })
+      .where(
+        and(
+          eq(importedQuestions.batchId, batchId),
+          eq(importedQuestions.status, "PENDING_REVIEW"),
+          ne(importedQuestions.validationStatus, "INVALID"),
+          ne(importedQuestions.curriculumMappingStatus, "UNMAPPED"),
+          ne(importedQuestions.curriculumMappingStatus, "AMBIGUOUS_MATCH")
+        )
+      );
+
+    await recalculateBatchCounts(batchId);
+
+    await db.insert(importAuditEvents).values({
+      batchId,
+      action: "BATCH_BULK_APPROVED",
+      performedBy: adminEmail,
+      details: {
+        newlyApprovedCount,
+      },
+    });
+  }
+
+  const [updatedBatch] = await db
+    .select({ approvedCount: importBatches.approvedCount })
+    .from(importBatches)
+    .where(eq(importBatches.id, batchId))
+    .limit(1);
+
+  return {
+    approvedCount: updatedBatch?.approvedCount || 0,
+    newlyApprovedCount,
+  };
+}
+
+/**
  * Re-computes and syncs counts for an import batch.
  */
-async function recalculateBatchCounts(batchId: string) {
+export async function recalculateBatchCounts(batchId: string) {
   const allQuestions = await db
     .select({
       status: importedQuestions.status,
@@ -1128,3 +1211,4 @@ async function recalculateBatchCounts(batchId: string) {
     })
     .where(eq(importBatches.id, batchId));
 }
+

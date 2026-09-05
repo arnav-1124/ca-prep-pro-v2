@@ -42,6 +42,7 @@ import {
   rejectImportedQuestionAction,
   editImportedQuestionAction,
   publishApprovedQuestionsAction,
+  bulkApproveBatchAction,
 } from "@/app/actions/admin-question-imports";
 import {
   getImportBatchDetailData,
@@ -77,6 +78,7 @@ export function BatchReviewClient({
   const [isRejectOpen, setIsRejectOpen] = React.useState(false);
   const [isEditOpen, setIsEditOpen] = React.useState(false);
   const [isPublishOpen, setIsPublishOpen] = React.useState(false);
+  const [isBulkApproveOpen, setIsBulkApproveOpen] = React.useState(false);
   const [showRawPayload, setShowRawPayload] = React.useState(false);
 
   // Reject Form
@@ -310,6 +312,32 @@ export function BatchReviewClient({
     }
   };
 
+  // Action: Bulk Approve Batch
+  const handleBulkApproveSubmit = async () => {
+    setIsActionPending(true);
+    setStatusMessage(null);
+
+    const result = await bulkApproveBatchAction({
+      batchId: batch.id,
+    });
+
+    setIsActionPending(false);
+    setIsBulkApproveOpen(false);
+
+    if (result.success && result.data) {
+      setStatusMessage({
+        type: "success",
+        text: `Successfully bulk approved ${result.data.newlyApprovedCount} questions! (${result.data.approvedCount} total approved)`,
+      });
+      router.refresh();
+    } else {
+      setStatusMessage({
+        type: "error",
+        text: result.error || "Failed to bulk approve questions.",
+      });
+    }
+  };
+
   const validationErrors = (currentQ?.validationErrors as { field: string; message: string }[]) || [];
   const validationWarnings = (currentQ?.validationWarnings as { field: string; message: string }[]) || [];
 
@@ -349,8 +377,21 @@ export function BatchReviewClient({
           </div>
         </div>
 
-        {/* Publish Action Button */}
-        <div className="flex items-center gap-2 self-start md:self-auto">
+        {/* Action Buttons */}
+        <div className="flex flex-wrap items-center gap-2 self-start md:self-auto">
+          {batch.pendingReviewCount > 0 && (
+            <Button
+              type="button"
+              onClick={() => setIsBulkApproveOpen(true)}
+              disabled={isActionPending}
+              variant="outline"
+              className="font-bold text-xs h-9.5 px-3.5 rounded-xl cursor-pointer gap-2 border-emerald-500/30 text-emerald-700 dark:text-emerald-300 hover:bg-emerald-500/10 shadow-xs"
+            >
+              <Check className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+              <span>Bulk Approve Valid ({batch.pendingReviewCount})</span>
+            </Button>
+          )}
+
           <Button
             onClick={() => setIsPublishOpen(true)}
             disabled={batch.approvedCount === 0 || isActionPending}
@@ -1116,6 +1157,64 @@ export function BatchReviewClient({
             >
               {isActionPending && <Loader2 className="h-3.5 w-3.5 animate-spin" />}
               <span>Confirm & Publish Now</span>
+            </Button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
+
+      {/* BULK APPROVE CONFIRMATION DIALOG */}
+      <Dialog open={isBulkApproveOpen} onOpenChange={setIsBulkApproveOpen}>
+        <DialogContent className="sm:max-w-md rounded-2xl font-sans">
+          <DialogHeader>
+            <div className="h-10 w-10 rounded-xl bg-emerald-500/10 text-emerald-600 flex items-center justify-center mb-2">
+              <Check className="h-5 w-5" />
+            </div>
+            <DialogTitle className="text-base font-extrabold text-foreground">
+              Bulk Approve Valid Questions
+            </DialogTitle>
+            <DialogDescription className="text-xs text-muted-foreground font-sans leading-relaxed">
+              Approve all structurally valid and mapped questions in this batch.
+            </DialogDescription>
+          </DialogHeader>
+
+          <div className="p-3.5 bg-muted/40 rounded-xl border border-border text-xs space-y-2.5 font-sans">
+            <p className="text-muted-foreground leading-relaxed">
+              This will mark all <strong className="text-foreground">{batch.pendingReviewCount} pending questions</strong> in{" "}
+              <strong className="text-foreground">{batch.batchName}</strong> that have valid syntax and mapped syllabus nodes as <strong className="text-emerald-600 dark:text-emerald-400">Approved</strong>.
+            </p>
+            <div className="p-2.5 rounded-lg bg-background border border-border text-[11px] text-muted-foreground space-y-1">
+              <div>• Any questions with invalid formatting or missing curriculum nodes will remain pending.</div>
+              <div>• Once approved, you can immediately publish them into the live Question Bank.</div>
+            </div>
+          </div>
+
+          <DialogFooter className="pt-3 gap-2">
+            <Button
+              type="button"
+              variant="outline"
+              onClick={() => setIsBulkApproveOpen(false)}
+              disabled={isActionPending}
+              className="font-bold text-xs h-9.5 rounded-xl cursor-pointer"
+            >
+              Cancel
+            </Button>
+            <Button
+              type="button"
+              disabled={isActionPending}
+              onClick={handleBulkApproveSubmit}
+              className="font-bold text-xs h-9.5 rounded-xl cursor-pointer gap-1.5 bg-emerald-600 hover:bg-emerald-700 text-white shadow-xs"
+            >
+              {isActionPending ? (
+                <>
+                  <Loader2 className="h-3.5 w-3.5 animate-spin" />
+                  <span>Approving...</span>
+                </>
+              ) : (
+                <>
+                  <Check className="h-3.5 w-3.5" />
+                  <span>Confirm Bulk Approval</span>
+                </>
+              )}
             </Button>
           </DialogFooter>
         </DialogContent>
