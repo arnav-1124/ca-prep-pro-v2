@@ -1,0 +1,1813 @@
+CHAPTER               2
+
+EQUATIONS
+
+After studying this chapter, you will be able to:
+ Understand the concept of equations and its various degrees ­ linear, simultaneous,
+
+      quadratic and cubic equations;
+ Know how to solve the different equations using different methods of solution; and
+
+CHAPTER OVERVIEW
+
+                               Definition of Equation
+
+                                                        Applications Equations
+
+ Simple   Simultaneous                               Methods of Solving    Quadratic
+Equation   equations in                            Three Linear Equations  Equation
+          two unknowns
+                                                     with three Variables
+
+                         Nature of                  Constructions of        Roots of the
+                         the Roots                 Quadratic Equation  Quadratic Equation
+
+          Methods of Solution
+
+Cross Multiplication  Elimination
+        Method          Method
+
+© The Institute of Chartered Accountants of India
+2.2         BUSINESS MATHEMATICS
+
+     Equation is defined to be a mathematical statement of equality. If the equality is true for
+     certain value of the variable involved, the equation is often called a conditional equation
+     and equality sign `=' is used; while if the equality is true for all values of the variable
+     involved, the equation is called an identity.
+
+     For Example: x + 2 + x + 3 = 3 holds true only for x =1.
+                       3         2
+
+     So it is a conditional. On the other hand, x + 2 + x + 3 = 5 x + 1 3
+                                                                 3       2      6
+
+     is an identity since it holds for all values of the variable x.
+
+     Determination of value of the variable which satisfy an equation is called solution of the
+     equation or root of the equation. An equation in which highest power of the variable is 1
+     is called a Linear (or a simple) equation. This is also called the equation of degree 1. Two or
+     more linear equations involving two or more variables are called Simultaneous Linear
+     Equations. An equation of degree 2 (Highest Power of the variable is 2) is called Quadratic
+     equation and the equation of degree 3 is called Cubic Equation.
+
+     For Example: 8x+17(x­3) = 4 (4x­9) + 12 is a Linear equation.
+
+                   3x2 + 5x +6 = 0 is a Quadratic equation.
+
+                   4x3 + 3x2 + x­7 = 1 is a Cubic equation.
+
+                   x + 2y = 1, 2x + 3y = 2 are jointly called Simultaneous equations.
+
+     A simple equation in one unknown x is in the form ax + b = 0.
+
+     Where a, b are known constants and a # 0
+
+     Note: A simple equation has only one root.
+
+     Example:  4x  -1  =  14  x  +  19  .
+               3          15        5
+
+     Solution: By transposing the variables in one side and the constants in other side we have
+
+     4x  ­  14x    19            (20-14)x                 19  5  or  6x     24
+     3      15 =   5 +1 or           15                      5       15     5.
+
+     x = 24x15  12
+            5x6
+
+Choose the most appropriate option (a) (b) (c) or (d).
+
+     © The Institute of Chartered Accountants of India
+                                                                                           EQUATIONS     2.3
+
+1. The equation ­7 x + 1 = 5 ­ 3 x will be satisfied for x equal to:
+
+    a) 2                b) ­1                                 c) 1                     d) none of these
+
+2.  The root of the equation    x+4   +                x -5   = 11  is
+                                  4                      3
+
+    a) 20               b) 10                                 c) 2                     d) none of these
+
+3.  Pick  up the  correct   value of  x for            x   =  2
+                                                       30     45
+
+    a) x = 5            b) x = 7                                       1               d) none of these
+                                                              c) x =1 3
+
+4.  The solution of the equation      x + 24               =4+ x
+                                         5                         4
+
+    a) 6                b) 10                                 c) 16                    d) none of these
+
+5. 8 is the solution of the equation
+
+    a)  x + 4 + x - 5 = 11                                    b)      x4     x  10  8
+          43                                                            2      9
+
+    c)  x  24  4  x                                           d)      x-15   x5 4
+           5      4                                                    10      5
+
+6.  The value of y that satisfies the equation                y  11 - y  1   y7        is
+                                                                69             4
+
+                        b) 7                                                               1
+    a) ­1                                                     c) 1                     d) ­ 7
+
+7. The solution of the equation (p+2) (p­3) + (p+3) (p­4) = p(2p­5) is
+
+    a) 6                b) 7                                  c) 5                     d) none of these
+
+8.  The equation  12x+1 = 15x -    1 + 2x -            5   is true for
+                     4          5      3x -            1
+
+    a) x=1              b) x=2                                c) x=5                   d) x=7
+
+9.  Pick up the correct value x for which                     x  1 + x  1 =0
+                                                             0.5 0.05 0.005 0.0005
+
+    a) x=0              b) x = 1                              c) x = 10                d) none of these
+
+       ILLUSTRATIONS:
+1. The denominator of a fraction exceeds the numerator by 5 and if 3 be added to both the
+
+                            3
+     fraction becomes 4 . Find the fraction.
+
+    © The Institute of Chartered Accountants of India
+2.4       BUSINESS MATHEMATICS
+
+     Let x be the numerator and the fraction be                  x                        x+3 =  3
+                                                                x + 5 . By the question  x+5+3   4 or
+
+     4x + 12 = 3x + 24 or x = 12
+
+                                  12
+     The  required  fraction  is     .
+                                  17
+
+2. If thrice of A's age 6 years ago be subtracted from twice his present age, the result would
+      be equal to his present age. Find A's present age.
+
+     Let x years be A's present age. By the question
+
+     2x­3(x­6) = x
+
+     or 2x­3x + 18 = x
+
+     or ­x + 18 = x
+
+          or 2x = 18
+
+          or x=9
+
+      A's present age is 9 years.
+
+3. A number consists of two digits the digit in the ten's place is twice the digit in the unit's
+      place. If 18 be subtracted from the number the digits are reversed. Find the number.
+
+     Let x be the digit in the unit's place. So the digit in the ten's place is 2x. Thus the number
+     becomes 10(2x) + x. By the question
+
+     20x + x­ 18 = 10x + 2x
+
+     or 21x ­ 18 = 12x
+
+          or 9x = 18
+
+          or x = 2
+
+     So the required number is 10 (2 × 2) + 2 = 42.
+
+4. For a certain commodity the demand equation giving demand `d' in kg, for a price `p' in
+      rupees per kg. is d = 100 (10 ­ p). The supply equation giving the supply s in kg. for a price
+      p in rupees per kg. is s = 75( p ­ 3). The market price is such at which demand equals
+      supply. Find the market price and quantity that will be bought and sold.
+
+     Given d = 100(10 ­ p) and s = 75(p ­ 3).
+
+     Since the market price is such that demand (d) = supply (s) we have
+
+     100 (10 ­ p) = 75 (p ­ 3)          or 1000 ­ 100p = 75p ­ 225
+
+     or ­ 175p = ­ 1225.  p =         - 1225              7  .
+                                      - 175
+
+     So market price of the commodity is ` 7 per kg.
+
+      the required quantity bought = 100 (10 ­ 7) = 300 kg.
+
+     and the quantity sold = 75 (7 ­ 3) = 300 kg.
+
+     © The Institute of Chartered Accountants of India
+                                                                                EQUATIONS    2.5
+
+Choose the most appropriate option (a) (b) (c) or (d).
+1. The sum of two numbers is 52 and their difference is 2. The numbers are
+
+a) 17 and 15 b) 12 and 10                          c) 27 and 25           d) none of these
+
+2.> The diagonal of a rectangle is 5 cm and one of its sides is 4 cm. Its area is
+
+a) 20 sq.cm.  b) 12 sq.cm.                         c) 10 sq.cm.           d) none of these
+
+3. Divide 56 into two parts such that three times the first part exceeds one third of the second
+      by 48. The parts are.
+
+a) (20, 36)   b) (25, 31)                          c) (24, 32)            d) none of these
+
+4. The sum of the digits of a two digit number is 10. If 18 be subtracted from it the digits in
+      the resulting number will be equal. The number is
+
+a) 37         b) 73                                c) 75                  d) none of these numbers.
+
+5. The fourth part of a number exceeds the sixth part by 4. The number is
+
+a) 84         b) 44                                c) 48                  d) none of these
+
+6. Ten years ago the age of a father was four times of his son. Ten years hence the age of the
+      father will be twice that of his son. The present ages of the father and the son are.
+
+a) (50, 20)   b) (60, 20)                          c) (55, 25)            d) none of these
+
+7. The product of two numbers is 3200 and the quotient when the larger number is divided
+      by the smaller is 2.The numbers are
+
+a) (16, 200)  b) (160, 20)                         c) (60, 30)            d) (80, 40)
+
+8. The denominator of a fraction exceeds the numerator by 2. If 5 be added to the numerator
+      the fraction increases by unity. The fraction is.
+
+a)                     1                           7                      3
+              b) 3                                 c) 9                   d) 5
+
+9. Three persons Mr. Roy, Mr. Paul and Mr. Singh together have ` 51. Mr. Paul has ` 4 less
+      than Mr. Roy and Mr. Singh has got ` 5 less than Mr. Roy. They have the money
+      as.
+
+a) (` 20, ` 16, ` 15)                              b) (` 15, ` 20, ` 16)
+c) (` 25, ` 11, ` 15)                              d) none of these
+
+10. A number consists of two digits. The digits in the ten's place is 3 times the digit in the
+      unit's place. If 54 is subtracted from the number the digits are reversed. The number is
+
+a) 39         b) 92                                c) 93                  d) 94
+
+11. One student is asked to divide a half of a number by 6 and other half by 4 and then to add
+      the two quantities. Instead of doing so the student divides the given number by 5. If the
+      answer is 4 short of the correct answer then the number was
+
+a) 320        b) 400                               c) 480                 d) none of these.
+
+© The Institute of Chartered Accountants of India
+2.6         BUSINESS MATHEMATICS
+
+                                                              1
+12. If a number of which the half is greater than 5 th of the number by 15 then the number is
+
+     a) 50               b) 40                             c) 80                    d) none of these.
+
+     The general form of a linear equations in two unknowns x and y is ax + by + c = 0 where
+
+     a, b are non-zero coefficients and c is a constant. Two such equations a1x + b1y + c1 = 0
+     and a2 x + b2 y + c2 = 0 form a pair of simultaneous equations in x and y. A value for each
+     unknown which satisfies simultaneously both the equations will give the roots of the
+
+     equations.
+
+1. Elimination Method: In this method two given linear equations are reduced to a linear
+      equation in one unknown by eliminating one of the unknowns and then solving for the
+      other unknown.
+
+     Example 1: Solve: 2x + 5y = 9 and 3x ­ y = 5.
+
+     Solution: 2x + 5y = 9        ........ (i)
+
+            3x ­ y = 5            .........(ii)
+
+     By making (i) x 1, 2x + 5y = 9
+
+     and by making (ii) x 5, 15x ­ 5y = 25
+
+     Adding 17x = 34 or x = 2. Substituting this values of x in (i) i.e. 5y = 9 ­ 2x we find;
+
+     5y = 9 ­ 4 = 5  y = 1  x = 2, y = 1.
+
+2. Cross Multiplication Method: Let two equations be:
+
+     a1x + b1y + c1 = 0
+
+     a2x + b2y + c2 = 0
+
+     We write the coefficients of x, y and constant terms and two more columns by repeating
+     the coefficients of x and y as follows:
+
+           1x2 y 3 1 4
+
+     b1     c1              a1       b1
+
+     b2     c2              a2       b2
+
+     and the result is given by:     x                  =         y  =  1
+
+                                  b1c2 ­ b2c1 (c1a 2c2 a1) (a1b2 a 2b1)
+
+     so the solution is :       x = b1c2 - b2c1                   y = c1a2 -c2a1 .
+                                     a1b2 - a2b1                      a1b2 -a2 b1
+
+     © The Institute of Chartered Accountants of India
+                                                                               EQUATIONS             2.7
+
+Example 2: Solve 3x + 2y + 17 = 0, 5x ­ 6y ­ 9 = 0
+
+Solution: 3x + 2y + 17 = 0 ....... (i)
+
+                 5x ­ 6y ­ 9 = 0 ........(ii)
+
+Method of elimination: By (i) x 3 we get 9x + 6y + 51 = 0 ...... (iii)
+
+Adding (ii) & (iii) we get 14x + 42 = 0
+
+                       42
+            or x = ­ 14 = ­ 3
+Putting x = ­3 in (i) we get 3(­3) + 2y + 17 = 0
+
+                                       or, 2y + 8                       8
+                             So x = ­3 and y            = 0 or, y = ­ 2 = ­ 4
+                                                        = ­4
+
+Method of cross-multiplication: 3x + 2y + 17 = 0
+
+                                                   5x ­ 6y ­ 9 = 0
+
+        x        =           y        =         1
+2(­ 9) ­17(­ 6)      17 (5) ­ 3(­ 9)     3(­ 6)­ 5 (2)
+
+or,        x        y   =   1
+           84    = 112     ­28
+
+or   x  =  y     1
+     3     4=    ­1
+
+or x = ­3, y = ­4
+
+Example 1: Solve for x, y and z:
+      2x ­ y + z = 3, x + 3y ­ 2z = 11, 3x ­ 2y + 4z = 1
+
+Solution: (a) Method of elimination                     .......(i)
+      2x ­ y + z = 3
+
+x + 3y ­ 2z = 11                                        .... (ii)
+
+3x ­ 2y + 4z = 1                                        .... (iii)
+
+By (i) × 2 we get
+
+4x ­ 2y + 2z = 6                                        .... (iv)
+
+By (ii) + (iv), 5x + y = 17                             ....(v) [the variable z is thus eliminated]
+
+By (ii) × 2, 2x + 6y ­ 4z = 22                          ....(vi)
+
+By (iii) + (vi), 5x + 4y = 23                           ....(vii)
+
+© The Institute of Chartered Accountants of India
+2.8       BUSINESS MATHEMATICS
+
+     By (v) ­ (vii), ­3y = ­ 6 or y = 2
+
+     Putting y = 2 in (v) 5x + 2 = 17, or 5x = 15 or, x = 3
+
+     Putting x = 3 and y = 2 in (i)
+
+     2×3­2+z=3
+
+     or 6 ­ 2 + z = 3
+
+     or 4 + z = 3
+
+     or z = ­1
+
+     So x = 3, y = 2, z = ­1 is the required solution.
+
+     (Any two of 3 equations can be chosen for elimination of one of the variables)
+
+(b) Method of cross multiplication
+
+     We write the equations as follows:
+
+     2x ­ y + (z ­ 3) = 0
+
+     x + 3y + (­2z ­11) = 0
+
+     By cross multiplication
+
+                   x          =                         y           =        1
+
+     ­1(­2z ­ 11) ­3(z ­ 3) (z ­ 3)­2(­2z ­ 11) (2 × 3) ­(1(­1))
+
+       x = y =1
+     20-z 5z+19 7
+
+          20 - z              5z  19
+     x= 7 , y= 7
+
+     Substituting above values for x and y in equation (iii) i.e. 3x - 2y + yz = 1, we have
+
+          20    z             5z     19  
+            7                     7      
+     3                ­  2                 +  4z           =  1
+
+     or 60 ­ 3z ­ 10z ­ 38 + 28z = 7
+
+     or 15z = 7 ­ 22 or 15z = ­15 or z = ­1
+
+     Now  x= 20-(-1) = 21 =3         ,        y= 5(-1)+19 = 14 =2
+                 77                                              7     7
+
+     Thus x = 3, y = 2, z = ­1
+
+     Example 2: Solve for x, y and z :
+
+     1 + 1 + 1 =5, 2 ­ 3 ­ 4 =­11,                            3 + 2 ­ 1 =­6
+     xyz                    xyz                               xyz
+
+     © The Institute of Chartered Accountants of India
+                                                                                                  EQUATIONS  2.9
+
+Solution: We put u =         1  ;  v  =  1  ;      w  =    1  and get
+                             x           y                 z
+
+u + v + w = 5 ........ (i)
+
+2u ­ 3v ­ 4w = ­11........ (ii)
+
+3u + 2v ­ w = ­6........ (iii)
+
+By (i) + (iii)         4u + 3v = ­1 ........ (iv)
+
+By (iii) x 4           12u + 8v ­ 4w = ­24 ......... (v)
+
+By (ii) ­ (v)          ­10u ­ 11v = 13
+
+or 10u + 11v = ­13                                         .......... (vi)
+
+By (iv) × 11           44x + 33v = ­11                     ........(vii)
+By (vi) × 3            30u + 33v = ­39                     ........(viii)
+
+By (vii) ­ (viii)               14u = 28 or u = 2
+
+Putting u = 2 in (iv)           4  2 + 3v = ­1
+or 8 + 3v = ­1
+
+or 3v = ­9 or v = ­3
+Putting u = 2, v = ­3 in (i) or 2­3 + w = 5
+
+or ­1 + w = 5 or w = 5 + 1 or w = 6
+
+Thus x =  1     =   1  ,  y  =     ­  1  =  1              z=    1   =  1       is the solution.
+          u         2                 v                          w      6
+                                            -3,
+
+Example 3: Solve for x, y and z:
+
+xy              xz                 yz
+
+x+y = 70, x+z = 84, y+z = 140
+
+Solution: We can write as
+
+x+y     1       or  1+1= 1                              ....... (i)
+xy =    70          x y 70
+
+x+z  =  1       or  1+1= 1                            ........ (ii)
+xz      84          z x 84
+
+y+z = 1         or     1+1= 1                         ....... (iii)
+yz 140                 y z 140
+
+By (i) + (ii) + (iii),    we get 2       1         1    1     =  1   +      1   +   1   =  14
+                                         x         y    z        70         84     140     420
+
+© The Institute of Chartered Accountants of India
+2.10               BUSINESS MATHEMATICS
+
+      or     1+1+1         =       7     =  1          ......(iv)
+             x yz                 420       60
+
+      By (iv)­(iii)      1= 1 - 1 = 4                  or x = 105
+                         x 60 140 420                  or y = 210
+
+      By (iv)­(ii)       1= 1 - 1 = 2
+                         y 60 84 420
+
+      By (iv)­(i)        1= 1 - 1                      or z = 420
+                         z 60 70
+
+      Required solution is x = 105, y = 210, z = 420
+
+Choose the most appropriate option (a), (b), (c) or (d).
+
+1. The solution of the set of equations 3x + 4y = 7, 4x ­ y = 3 is
+
+      a) (1, ­1)                  b) (1, 1)            c) (2, 1)             d) (1, ­2)
+
+2. The values of x and y satisfying the equations x + y =2 , x + 2y = 8 are given by the pair.
+                                                                23
+
+      a) (3, 2)                   b) (­2, ­3)          c) (2, 3)             d) none of these
+
+3.    x   +  y  =2    ,  x + y = p + q are satisfied by the values given by the pair.
+      p      q
+
+      a) (x=p, y=q) b) (x=q, y=p)                      c) (x=1, y=1)         d) none of these
+
+4. The solution for the pair of equations
+
+       1+1                 9   ,   1 - 1 =4            is given by
+      16x 15y              20     20x 27y 45
+
+      (a)    1  ,  1              (b)    1  ,  1       (c) (3 4)             (d) (4 3)
+             4     3                     3     4  
+
+5.    Solve for x and y:          4 - 5 = x+y + 3      and 3xy = 10 (y­x).
+                                  x y xy 10
+
+      a) (5, 2)                   b) (­2, ­5)          c) (2, ­5)            d) ( 2, 5)
+
+6.    The pair satisfying the equations x + 5y = 36,                x+y = 5  is given by
+                                                                    x-y 3
+
+      a) (16, 4)                  b) (4, 16)           c) ( 4, 8)            d) none of these.
+
+7. Solve for x and y : x­3y = 0, x+2y = 20.
+
+      a) x = 4, y = 12 b) x = 12, y = 4                c) x = 5, y = 4       d) none of these
+
+    © The Institute of Chartered Accountants of India
+                                                                          EQUATIONS         2.11
+
+8. The simultaneous equations 7x­3y = 31, 9x­5y = 41 have solutions given by
+
+    a) (­4, ­1)                b) (­1, 4)              c) (4, ­1)         d) ( 3, 7)
+
+9. 1.5x + 2.4 y = 1.8, 2.5(x+1) = 7y have solutions as
+
+    a) (0.5, 0.4)              b) (0.4, 0.5)           c)  (  1  ,  2  )  d) ( 2, 5)
+                                                              2     5
+
+10. The values of x and y satisfying the equations
+
+     3 + 2 =3               ,     2 + 3 =3 2           are given by
+    x+y x-y                      x+y x-y 3
+
+    a) (1, 2)                  b) (­1, ­2)                    1           d) ( 2, 1)
+                                                       c) (1, 2 )
+
+Choose the most appropriate option (a), (b), (c) or (d) as the solution to the given set of
+equations :
+
+1. 1.5x + 3.6y = 2.1, 2.5 (x+1) = 6y
+
+    a) (0.2, 0.5)              b) (0.5, 0.2)           c) (2, 5)          d) (­2, ­5)
+
+2.  x  +  y  +1=         x  +  y    =  28
+    5     6              6     5
+
+    a) (6, 9)                  b) (9, 6)               c) (60, 90)        d) (90, 60)
+
+3.  x  =  y  =     z  ;        7x + 8y + 5z= 62
+    4     3        2           b) (2, 3, 4)
+
+    a) (4, 3, 2)                                       c) (3, 4, 2)       d) (4, 2, 3)
+
+4.  xy    =20   ,  yz       =40  ,  zx     =24
+    x+y            y+z              z+x
+
+    a) (120, 60, 30) b) (60, 30, 120)                  c) (30, 120, 60)   d) (30, 60, 120)
+                                                                          d) (1, 0, 2)
+5. 2x + 3y + 4z = 0, x + 2y ­ 5z = 0, 10x + 16y ­ 6z = 0
+                                                                          d) (5, 24, 9)
+    a) (0,0,0)                 b) (1, ­1, 1)           c) (3, 2, ­1)
+
+    1                                  1               1
+6. 3 (x+y) + 2z = 21, 3x ­ 2 (y+z) = 65, x + 2 (x+y­z) = 38
+
+    a) (4, 9, 5)               b) (2, 9, 5)            c) (24, 9, 5)
+
+7.  4 - 5 = x+y + 3              3 xy = 10 (y­x)
+    x y xy 10
+
+    a) (2, 5)                  b) (5, 2)               c) (2, 7)          d) (3, 4)
+
+    © The Institute of Chartered Accountants of India
+2.12       BUSINESS MATHEMATICS
+
+8.     x + y+0.03 = y + x+0.03          =2
+      0.01 0.05 0.02 0.04
+
+      a) (1, 2)          b) (0.1, 0.2)                 c) (0.01, 0.02)  d) (0.02, 0.01)
+
+9.    xy =110, yz =132, zx = 60                                         d) (12, 10, 11)
+      y-x           z-y     z+x 11                                      d) (­10, 10, 1)
+
+      a) ( 12, 11, 10) b) (10, 11, 12)                 c) (11, 10, 12)
+
+10. 3x­4y+70z = 0, 2x+3y­10z = 0, x+2y+3z = 13
+
+      a) (1, 3, 7)       b) (1, 7, 3)                  c) (2, 4, 3)
+
+       ILLUSTRATIONS:
+
+1. If the numerator of a fraction is increased by 2 and the denominator by 1 it becomes 1.
+      Again if the numerator is decreased by 4 and the denominator by 2 it becomes 1/2 . Find
+      the fraction.
+
+      SOLUTION: Let x/y be the required fraction.
+
+      By the question       x+2 =1, x-4 = 1
+                            y+1 y-2 2
+
+      Thus x + 2 = y + 1    or x ­ y = ­1              ......... (i)
+
+      and 2x ­ 8 = y ­ 2    or 2x ­ y = 6              ......... (ii)
+
+      By (i) ­ (ii) ­ x = ­7 or x = 7
+
+      from (i) 7 ­ y = ­1   or y = 8
+
+      So the required fraction is 7/8.
+
+2. The age of a man is three times the sum of the ages of his two sons and 5 years hence his
+      age will be double the sum of their ages. Find the present age of the man?
+
+      SOLUTION: Let x years be the present age of the man and sum of the present ages of the
+
+      two sons be y years.
+
+      By the condition      x = 3y                     .......... (i)
+
+      and                   x + 5 = 2 (y + 5 + 5) ..........(ii)
+
+      From (i) & (ii) 3y + 5 = 2 (y + 10)
+
+      or 3y + 5 = 2y + 20
+
+      or 3y ­ 2y = 20 ­ 5
+
+      or y = 15
+
+       x = 3 × y = 3 × 15 = 45
+
+    © The Institute of Chartered Accountants of India
+                                                                                 EQUATIONS  2.13
+
+      Hence the present age of the man is 45 years
+
+3. A number consist of three digit of which the middle one is zero and the sum of the other
+      digits is 9. The number formed by interchanging the first and third digits is more than the
+      original number by 297 find the number.
+
+SOLUTION: Let the number be 100x + y.we have x + y = 9......(i)
+
+Also 100y + x = 100x + y + 297 ................................... (ii)
+
+From (ii) 99(x ­ y) = ­297
+
+or x ­ y = ­3  .......................................................... (iii)
+
+Adding (i) and (iii) 2x = 6 or x = 3                       from (i) y = 6
+
+ Hence the number is 306.
+
+Choose the most appropriate option (a), (b), (c) or (d).
+
+1. Monthly incomes of two persons are in the ratio 4 : 5 and their monthly expenses are in
+      the ratio 7 : 9. If each saves ` 50 per month find their monthly incomes.
+
+a) (500, 400) b) (400, 500)                        c) (300, 600)           d) (350, 550)
+
+2. Find the fraction which is equal to 1/2 when both its numerator and denominator are
+      increased by 2. It is equal to 3/4 when both are increased by 12.
+
+a) 3/8         b) 5/8                              c) 2/8                  d) 2/3
+
+3. The age of a person is twice the sum of the ages of his two sons and five years ago his age
+      was thrice the sum of their ages. Find his present age.
+
+a) 60 years    b) 52 years                         c) 51 years             d) 50 years
+
+4. A number between 10 and 100 is five times the sum of its digits. If 9 be added to it the
+      digits are reversed find the number.
+
+a) 54          b) 53                               c) 45                   d) 55
+
+5. The wages of 8 men and 6 boys amount to ` 33. If 4 men earn ` 4.50 more than 5 boys
+      determine the wages of each man and boy.
+
+a) (` 1.50, ` 3) b) (` 3, ` 1.50)
+
+c) (` 2.50, ` 2) d) (` 2, ` 2.50)
+
+6. A number consisting of two digits is four times the sum of its digits and if 27 be added to
+      it the digits are reversed. The number is :
+
+a) 63          b) 35                               c) 36                   d) 60
+
+7. Of two numbers, 1/5th of the greater is equal to 1/3rd of the smaller and their sum is 16.
+      The numbers are:
+
+a) (6, 10)     b) (9, 7)                           c) (12, 4)              d) (11, 5)
+
+© The Institute of Chartered Accountants of India
+2.14          BUSINESS MATHEMATICS
+
+8. y is older than x by 7 years 15 years back x's age was 3/4 of y's age. Their present ages are:
+
+      a) (x=36, y=43)                              b) (x=50, y=43)
+      c) (x=43, y=50)                              d) (x=40, y=47)
+
+9. The sum of the digits in a three digit number is 12. If the digits are reversed the number is
+      increased by 495 but reversing only of the ten's and unit digits increases the number by 36.
+      The number is
+
+      a) 327              b) 372                   c) 237                         d) 273
+
+10. Two numbers are such that twice the greater number exceeds twice the smaller one by 18
+      and 1/3rd of the smaller and 1/5th of the greater number are together 21. The numbers are:
+
+      a) (36, 45)         b) (45, 36)              c) (50, 41)                    d) (55, 46)
+
+11. The demand and supply equations for a certain commodity are 4q + 7p = 17 and
+
+      p=  q+7.      respectively     where  p is   the market  price  and  q  is  the  quantity  then  the
+          34
+
+      equilibrium price and quantity are:
+
+             3                   1                        3                       (d) None of these.
+      (a) 2, 4            (b) 3, 2                 (c) 5, 5
+
+      An equation of the form ax2 + bx + c = 0 where x is a variable and a, b, c are constants
+      with a  0 is called a quadratic equation or equation of the second degree.
+
+      When b=0 the equation is called a pure quadratic equation; when b  0 the equation is
+      called an affected quadratic.
+
+      Examples: i) 2x2 + 3x + 5 = 0
+
+                       ii) x2 ­ x = 0
+
+                       iii) 5x2 ­ 6x ­3 = 0
+
+      The value of the variable say x is called the root of the equation. A quadratic equation has
+      got two roots.
+
+      How to find out the roots of a quadratic equation:
+
+      ax2 + bx + c = 0 (a  0)
+
+               b  x+   c =0
+      or x2 + a        a
+
+                 b  x+    b2      b2   ­  c
+      or x2 + 2 2a        4a2 =   4a2     a
+
+      or  x       b 2  =  b2   ­  c
+                          4a2     a
+
+                  2a 
+
+© The Institute of Chartered Accountants of India
+                                                                            EQUATIONS  2.15
+
+         b ± b2 ­ 4ac
+or x + 2a =
+                   2a
+
+or x = -b± b2 -4ac
+               2a
+
+Sum and Product of the Roots:
+      Let one root be  and the other root be 
+
+Now  +  = -b+             b2 -4ac -b-  b2 -4ac = -b+  b2 -4ac -b-  b2 -4ac
+                                   +
+                          2a           2a                    2a
+
+                =  -2b = -b
+                   2a a
+
+                              b     coefficient of x
+
+Thus sum of roots = ­ a = ­ coeffient of x2
+
+Next  =        b          b2  4ac        b   b2  4ac      =  c
+                                                             a
+                          2a                 2a
+
+                                         c constant term
+So the product of the roots = a = coefficient of x2
+
+For the equation ax2 + bx + c = 0 we have
+
+          bc
+or x2 + x + = 0
+
+          aa
+
+or x2 ­      b     x+ c   =0
+             a         a
+
+or x2 ­ (Sum of the roots) x + Product of the roots = 0
+
+         -b± b2 -4ac
+   x=
+
+               2a
+   i) If b2­4ac = 0 the roots are real and equal;
+   ii) If b2­4ac >0 then the roots are real and unequal (or distinct);
+   iii) If b2­4ac <0 then the roots are imaginary;
+
+© The Institute of Chartered Accountants of India
+2.16  BUSINESS MATHEMATICS
+
+      iv) If b2­4ac is a perfect square (  0) the roots are real, rational and unequal (distinct);
+      v) If b2­4ac >0 but not a perfect square the roots are real, irrational and unequal.
+
+            Since b2 ­ 4ac discriminates the roots b2 ­ 4ac is called the discriminant in the equation
+            ax2 + bx + c = 0 as it actually discriminates between the roots.
+      Note: (a) Irrational roots occur in conjugate pairs that is if (m + n ) is a root then
+
+                    (m ­ n ) is the other root of the same equation.
+
+                                                                                                              c
+             (b) If one root is reciprocal to the other root then their product is 1 and so a =1
+
+                    i.e. c = a
+
+      (c) If one root is equal to other root but opposite in sign then.
+
+                                           b
+             their sum = 0 and so a = 0. i.e. b = 0.
+
+Example 1: Solve x2 ­ 5x + 6 = 0
+
+Solution: 1st method :       x2 ­ 5x + 6 = 0
+                             or x2 ­2x ­3x +6 = 0
+
+                             or x(x­2) ­ 3(x­2) = 0
+
+                             or (x­2) (x­3) = 0
+
+                                   or x = 2 or 3
+      2nd method (By formula) x2 ­ 5x + 6 = 0
+      Here a = 1, b = ­5 , c = 6 (comparing the equation with ax2 + bx + c = 0)
+
+      x = -b± b2 -4ac       -(-5)± 25-24
+                        =
+      2a                     2
+
+      5±1 6             4
+      = = and ;               x = 3 and 2
+      22                2
+
+Example 2: Examine the nature of the roots of the following equations.
+
+      i) x2 ­ 8x + 16 = 0          ii) 3x2 ­ 8x + 4 = 0
+
+      iii) 5x2 ­ 4x + 2 = 0        iv) 2x2 ­ 6x ­ 3 = 0
+
+Solution: (i) a = 1, b = ­8, c = 16
+                     b2 ­ 4ac = (­8)2 ­ 4 × 1 × 16 = 64 ­ 64 = 0
+
+           The roots are real and equal.
+      (ii) 3x2 ­ 8x + 4 = 0
+
+             a = 3, b = ­8, c = 4
+
+© The Institute of Chartered Accountants of India
+                                                                              EQUATIONS  2.17
+
+                     b2 ­ 4ac = (­8)2 ­ 4 × 3 × 4 = 64 ­ 48 = 16 > 0 and a perfect square
+                     The roots are real, rational and unequal
+         (iii) 5x2 ­ 4x + 2 = 0
+                   b2 ­ 4ac = (­4)2 ­ 4 × 5 × 2 = 16 ­ 40 = ­24 < 0
+                   The roots are imaginary and unequal
+         (iv) 2x2 ­ 6x ­ 3 = 0
+                   b2 ­ 4ac = (­6)2 ­ 4 × 2 (­3)
+                   = 36 + 24 = 60 > 0
+            The roots are real and unequal. Since b2 ­ 4ac is not a perfect square the roots are real
+            irrational and unequal.
+
+       ILLUSTRATIONS:
+1. If  and ß be the roots of x2 + 7x + 12 = 0 find the equation whose roots are ( +)2 and
+
+      ()2 .
+
+    SOLUTION: Now sum of the roots of the required equation
+
+    =   2  (  )2  (7)2  (  )2  4
+
+    = 49 + (­7)2 ­ 4x12
+    = 49 + 49 ­ 48 = 50
+
+    Product of the roots of the required equation = (  )2 (  )2
+
+                                                           = 49 (49­48) = 49
+
+    Hence the required equation is
+
+    x2 ­ (sum of the roots) x + product of the roots = 0
+
+    or x2 ­ 50x + 49 = 0
+
+                                                              2 2
+2.  If ,  be the roots of 2x2 ­ 4x ­ 1 = 0 find the value of     +
+                                                              
+
+                            ­(­4)                      ­1
+    SOLUTION:  + = 2 = 2, = 2
+
+       2   2   =  3 +3   =    3 ­ 3(  )
+                    
+                                       
+
+    © The Institute of Chartered Accountants of India
+2.18             BUSINESS MATHEMATICS
+
+      23  3  1 .2
+              2
+
+                  1              = ­ 22
+                  2  
+
+3. Solve x : 4x ­ 3.2x+2 + 25 = 0
+
+      SOLUTION: 4x ­ 3.2x+2 + 25 = 0
+
+      or (2x)2 ­ 3.2x. 22 + 32 = 0
+
+      or (2x)2 ­ 12. 2x + 3 2 = 0
+
+      or y2 ­ 12y + 32 = 0 (taking y = 2x)
+
+      or y2 ­ 8y ­ 4y + 32 = 0
+
+      or y(y ­ 8) ­ 4(y ­ 8) = 0                      (y ­ 8) (y ­ 4) = 0
+
+      either y ­ 8 = 0 or y ­ 4 = 0 y = 8 or y = 4.
+
+       2x = 8 = 23 or 2x = 4 = 22 Therefore x = 3 or x = 2.
+
+4.    Solve     x       1  2     2 x      1       7  1  .
+                        x                 x          4
+
+      SOLUTION:            x        1  2   2x        1          7  1  .
+                                    x                x             4
+
+                      x       1  2     2  x    1        29   .
+                              x                x        4
+
+              or      x       1  2     4     2 x     1          29
+                              x                      x          4
+
+                     2              2
+      [as (a ­ b) = (a + b) ­ 4ab)]
+
+      or  p2  +   2p    - 45  =  0                                     1
+                          4                          Taking p = x+ x
+
+      or 4p2 + 8p ­ 45 = 0
+
+      or 4p2 + 18p ­ 10p ­ 45 = 0
+
+      or 2p(2p + 9) ­ 5(2p + 9) = 0
+
+      or (2p ­ 5) (2p + 9) = 0.
+
+      Either 2p + 9 = 0 or 2p ­ 5 = 0                                    p  =  -  9           5
+                                                                                  2  or p = 2
+
+    © The Institute of Chartered Accountants of India
+                                                                EQUATIONS   2.19
+
+Either       x+ 1   =  -  9         or  x+ 1       =  5
+                 x        2                 x         2
+
+i.e. Either 2x2 + 9x +2 = 0 or 2x2 ­ 5x + 2 = 0
+
+                  - 9±       81-16      or, x = 5±       25-16
+i.e. Either x =
+                             4                           4
+
+i.e. Either x =     - 9± 65                           1
+                                    or x = 2 or 2 .
+                          4
+
+5. Solve 2x­2 + 23­x = 3
+
+SOLUTION: 2x­2 + 23­x = 3
+
+or 2x. 2­2 + 23. 2­x = 3
+
+or  2x  +  23   =3
+    22     2x
+
+or  t  +  8  =  3  when   t  =  2x
+    4     t
+
+or t2 + 32 = 12t
+
+or t2 ­ 12t + 32 = 0
+
+or t2 ­ 8t ­ 4t + 32 = 0
+
+or t(t­8) ­ 4(t­8) = 0
+
+or (t­4) (t­8) = 0
+
+ t = 4, 8
+
+For t = 4, 2x = 4 = 22 i.e. x = 2
+
+For t = 8, 2x = 8 = 23 i.e. x = 3
+
+6. If one root of the equation is 2 - 3 form the equation given that the roots are irrational
+
+SOLUTION: Other root is 2 + 3  sum of two roots = 2 ­ 3 + 2 + 3 = 4
+
+Product of roots = (2 ­ 3 )(2 + 3 ) = 4 ­ 3 = 1
+
+ Required equation is : x2 ­ (sum of roots)x + (product of roots) = 0
+
+or x2 ­ 4x + 1 = 0.
+
+7. If  are the two roots of the equation x2 ­ px + q = 0 form the equation
+
+w hose roots are             and    .
+                                  
+
+© The Institute of Chartered Accountants of India
+2.20           BUSINESS MATHEMATICS
+
+      SOLUTION: As  are the roots of the equation x2 ­ px + q = 0
+
+      +  = ­ (­ p) = p and  = q.
+
+      Now    .  2  2  (  )2  2  p2  2q ; and  .  = 1
+                                                                q            
+
+          Required  equation  is  x2  ­   p2           2q    x  +  1  =   0
+                                                 q
+
+      or q x2 ­ (p2 ­ 2q) x + q = 0
+
+8. If the roots of the equation p(q ­ r)x2 + q(r ­ p)x + r(p ­ q) = 0
+
+      are equal show that     2   =  1  +  1  .
+                              q      p     r
+
+      SOLUTION: Since the roots of the given equation are equal the discriminant must be
+
+      zero ie. q2(r ­ p)2 ­ 4. p(q ­ r) r(p ­ q) = 0
+
+      or q2 r2 + q2 p2 ­ 2q2 rp ­ 4pr (pq ­ pr ­ q2 + qr) = 0
+
+      or p2q2 + q2r2 + 4p2r2 + 2q2pr ­ 4p2qr ­ 4pqr2 = 0
+
+      or (pq + qr ­ 2rp)2 = 0
+
+       pq + qr = 2pr
+
+      or  pq+qr =1         or, q . (p+r) =1or, 1 + 1 = 2
+            2pr                      2 pr                          rpq
+
+Choose the most appropriate option (a) (b) (c) or (d).
+
+1. If the roots of the equation 2x2 + 8x ­ m3 = 0 are equal then value of m is
+
+      (a) ­ 3         (b) ­ 1                                      (c) 1       (d) ­ 2
+
+2. If 22x + 3 ­ 32. 2x + 1 = 0 then values of x are
+
+      (a) 0, 1        (b) 1, 2                                     (c) 0, 3    (d) 0, ­ 3
+
+3.    The values of 4+ 4+ 4+ 1 1 1
+
+                                 4+.....
+
+      (a) 1± 2        (b) 2+ 5                                     (c) 2± 5    (d) none of these
+
+    © The Institute of Chartered Accountants of India
+                                                                                       EQUATIONS         2.21
+
+4. If ,  be the roots of the equation 2x2 ­ 4x ­ 3 = 0
+
+     the value of 2 + 2 is
+
+     a) 5       b) 7                                          c) 3                     d) ­ 4
+
+5.> If the sum of the roots of the quadratic equation ax2 + bx + c = 0 is equal to the sum of the
+
+     squares of their reciprocals then             b2  +  bc  is equal to
+                                                   ac     a2
+
+     a) 2       b) ­2                                         c) 1                     d) ­1
+
+6. The equation x2 ­(p+4)x + 2p + 5 = 0 has equal roots the values of p will be.
+
+     a) ± 1     b) 2                                          c) ± 2                   d) ­2
+
+7. The roots of the equation x2 + (2p­1)x + p2 = 0 are real if.
+
+     a) p > 1   b) p < 4                                      c) p > 1/4               d) p < 1/4
+
+8. If x = m is one of the solutions of the equation 2x2 + 5x ­ m = 0 the possible values of m are
+
+     a) (0, 2)  b) (0, ­2)                                    c) (0, 1)                d) (1, ­1)
+
+9. If p and q are the roots of x2 + 2x + 1 = 0 then the values of p3 + q3 becomes
+
+     a) 2       b) ­2                                         c) 4                     d) ­ 4
+
+10. If L + M + N = 0 and L, M, N are rationals the roots of the equation
+      (M+N­L)x2+(N+L­M)x+(L+M­N) = 0 are
+
+     a) real and irrational                                   b) real and rational
+
+     c) imaginary and equal                                   d) real and equal
+
+11.  If  and  are the roots of x2 = x + 1 then value of                  2  ­  2
+                                                                                   is
+                                                                         
+
+     a) 2 5     b) 5                                          c) 3 5                   d) ­2 5
+
+                                                                                                     pq
+12. If p  q and p2 = 5p ­ 3 and q2 = 5q ­ 3 the equation having roots as q and p is
+
+     a) x2 ­ 19x + 3 = 0                                      b) 3x2 ­ 19x ­ 3 = 0
+
+     c) 3x2 ­ 19x + 3 = 0                                     d) 3x2 + 19x + 3 = 0
+
+13. If one root of 5x2 + 13x + p = 0 be reciprocal of the other then the value of p is
+
+     a) ­5      b) 5                                          c) 1/5                   d) ­1/5
+
+Choose the most appropriate option (a) (b) (c) or (d).
+1. A solution of the quadratic equation (a+b­2c)x2 + (2a­b­c)x + (c+a­2b) = 0 is
+
+© The Institute of Chartered Accountants of India
+2.22      BUSINESS MATHEMATICS
+
+      a) x = 1      b) x = ­1                             c) x = 2      d) x = ­ 2
+
+2. If the root of the equation x2­8x+m = 0 exceeds the other by 4 then the value of m is
+
+      a) m = 10     b) m = 11                             c) m = 9      d) m = 12
+
+3. The values of x in the equation
+
+      7(x+2p)2 + 5p2 = 35xp + 117p2 are
+
+      a) (4p, ­3p)  b) (4p, 3p)                           c) (­4p, 3p)  d) (­4p, ­3p)
+
+4.    The solutions of the equation  6x + 6(x+1) =13            are
+                                     x+1 x
+
+      a) (2, 3)     b) (3, ­2)                            c) (­2, ­3)   d) (2, ­3)
+
+5. The satisfying values of x for the equation
+
+          1 111
+               =++
+      x+p+q x p q   are
+
+      a) (p, q)     b) ( ­p, ­q)                          c) (p, ­p)    d) ( ­p, q)
+                                                                        d) (­1, 12)
+6. The values of x for the equation x2 + 9x + 18 = 6 ­ 4x are
+
+      a) (1, 12)    b) (­1, ­12)                          c) (1, ­12)
+
+7. The values of x satisfying the equation
+
+          (2x2 +5x-2)- (2x2 +5x-9) = 1 are
+
+      a) (2, ­9/2)  b) (4, ­9)                            c) (2, 9/2)   d) (­2, 9/2)
+                                                                                2
+8. The solution of the equation 3x2­17x + 24 = 0 are
+                                                                        d) (3, 3 )
+      a) (2, 3)              2                                     2
+                    b) (2, 3 3 )                          c) (3, 2 3 )  d) (2, ­1)
+
+9. The equation     3(3x2 +15)  + 2x2 + 9 =            2x2 +96  +6
+
+                    6                                  7
+
+      has got the solution as
+
+      a) (1, 1)     b) (1/2, ­1)                          c) (1, ­1)
+
+10. The equation l  m x2 l  m x  m  0has got two values of x to satisfy the equation
+                    2             2
+
+      given as
+
+      a)  1, 2m     b)  1, m                              c)    1, 2l   d)  1, 1
+             lm            lm                                      lm          lm
+
+    © The Institute of Chartered Accountants of India
+                                                                      EQUATIONS       2.23
+
+1. Difference between a number and its positive square root is 12; find the numbers?
+      Solution: Let the number be x.
+     Then x  x  12 ............... (i)
+     ( x ) 2 ­ x ­12 = 0. Taking y = x , y2 ­ y ­ 12 = 0
+
+     or (y ­ 4) (y + 3) = 0  Either y = 4 or y = ­ 3 i.e. Either x = 4 or x = ­ 3
+     If x = ­ 3 x = 9 if does not satisfy equation (i) so x =4 or x=16.
+
+2. A piece of iron rod costs ` 60. If the rod was 2 metre shorter and each metre costs
+      ` 1.00 more, the cost would remain unchanged. What is the length of the rod?
+                                                                                                                 60
+     Solution: Let the length of the rod be x metres. The rate per meter is ` x .
+
+                                                                                                        60
+     New Length = (x ­ 2); as the cost remain the same the new rate per meter is x-2
+
+                  60 60
+     As given x-2 = x +1
+
+          60 60
+     or x-2 ­ x =1
+
+           120
+     or x (x-2) = 1
+
+or x2 ­ 2x = 120
+
+or x2 ­ 2x ­ 120 = 0 or (x ­ 12) (x + 10) = 0.
+
+Either x = 12 or x = ­10 (not possible)
+
+ Hence the required length = 12m.
+
+3. Divide 25 into two parts so that sum of their reciprocals is 1/6.
+
+Solution: let the parts be x and 25 ­ x
+
+By the question   1+ 1 =1
+                  x 25-x 6
+
+or  25-x+x = 1
+    x(25-x) 6
+
+or 150 = 25x ­ x2
+
+© The Institute of Chartered Accountants of India
+2.24        BUSINESS MATHEMATICS
+
+      or x2­25x+150 = 0
+      or x2­15x­10x+150 = 0
+      or x(x­15) ­ 10(x­15) = 0
+      or (x­15) (x­10) = 0
+      or x = 10, 15
+      So the parts of 25 are 10 and 15.
+
+Choose the most appropriate option (a) (b) (c) or (d).
+
+1. The sum of two numbers is 8 and the sum of their squares is 34. Taking one number as x
+      form an equation in x and hence find the numbers. The numbers are
+
+      a) (7, 10)         b) (4, 4)                 c) (3, 5)          d) (2, 6)
+
+2. The difference of two positive integers is 3 and the sum of their squares is 89. Taking the
+      smaller integer as x form a quadratic equation and solve it to find the integers. The integers
+      are.
+
+      a) (7, 4)          b) (5, 8)                 c) (3, 6)          d) (2, 5)
+
+3. Five times of a positive whole number is 3 less than twice the square of the number. The
+      number is
+
+      a) 3               b) 4                      c) ­3              d) 2
+
+4. The area of a rectangular field is 2000 sq.m and its perimeter is 180m. Form a quadratic
+      equation by taking the length of the field as x and solve it to find the length and breadth of
+      the field. The length and breadth are
+
+      a) (205m, 80m) b) (50m, 40m)                 c) (60m, 50m)      d) none
+
+5. Two squares have sides p cm and (p + 5) cms. The sum of their squares is 625 sq. cm. The
+      sides of the squares are
+
+      a) (10 cm, 30 cm)                            b) (12 cm, 25 cm)
+      c) 15 cm, 20 cm)                             d) none of these
+
+6. Divide 50 into two parts such that the sum of their reciprocals is 1/12. The numbers are
+
+      a) (24, 26)        b) (28, 22)               c) (27, 23)        d) (20, 30)
+
+7. There are two consecutive numbers such that the difference of their reciprocals is 1/240.
+      The numbers are
+
+      a) (15, 16)        b) (17, 18)               c) (13, 14)        d) (12, 13)
+
+8. The hypotenuse of a right­angled triangle is 20cm. The difference between its other two
+      sides be 4cm. The sides are
+
+      a) (11cm, 15cm) b) (12cm, 16cm)              c) (20cm, 24cm)    d) none of these
+
+© The Institute of Chartered Accountants of India
+                                            EQUATIONS          2.25
+
+9. The sum of two numbers is 45 and the mean proportional between them is 18. The numbers
+      are
+
+a) (15, 30)   b) (32, 13)    c) (36, 9)     d) (25, 20)
+
+10. The sides of an equilateral triangle are shortened by 12 units 13 units and 14 units
+      respectively and a right angle triangle is formed. The side of the equilateral triangle is
+
+a) 17 units   b) 16 units    c) 15 units    d) 18 units
+
+11. A distributor of apple Juice has 5000 bottle in the store that it wishes to distribute in a
+      month. From experience it is known that demand D (in number of bottles) is given by
+      D = ­2000p2 + 2000p + 17000. The price per bottle that will result zero inventory is
+
+a) ` 3        b) ` 5         c) ` 2         d) none of these.
+
+12. The sum of two irrational numbers multiplied by the larger one is 70 and their difference
+      is multiplied by the smaller one is 12; the two numbers are
+
+a) 3 2 , 2 3  (b) 5 2 , 3 5  (c) 2 2 , 5 2  d) none of these.
+
+      On trial basis putting if some value of x stratifies the equation then we get a factor. This is
+      a trial and error method. With this factor to factorise the LHS and then other get values of x.
+       ILLUSTRATIONS:
+1. Solve x3 ­ 7x + 6 = 0
+      Putting x = 1 L.H.S is Zero. So (x­1) is a factor of x3 ­ 7x + 6
+      We write x3­7x +6 = 0 in such a way that (x­1) becomes its factor. This can be achieved by
+      writing the equation in the following form.
+      or x3­x2+x2­x­6x+6 = 0
+      or x2(x­1) + x(x­1) ­ 6(x­1) = 0
+      or (x­1)(x2+x­6) = 0
+      or (x­1)(x2+3x­2x­6) = 0
+      or (x­1){ x(x+3) ­ 2(x+3) } = 0
+      or (x­1)(x­2)(x+3) = 0
+       or x = 1, 2, ­3
+2. Solve for real x: x3 + x + 2 = 0
+       SOLUTION: By trial we find that x = ­1 makes the LHS zero. So (x + 1) is a factor
+      of x3 + x + 2
+      We write x3 + x + 2 = 0 as x3 + x2 ­ x2 ­ x + 2x + 2 = 0
+      or x2(x + 1) ­ x(x + 1) + 2(x + 1) = 0
+
+   © The Institute of Chartered Accountants of India
+2.26            BUSINESS MATHEMATICS
+
+      or (x + 1) (x2 ­ x + 2) = 0.
+      Either x + 1 = 0; x = -1
+      or x2 ­ x + 2 = 0 i.e. x = ­1
+
+      i.e. x =  1± 1-8 1± -7
+                       =
+                   2      2
+
+      As x =    1± -7  is not real, x = ­1 is the required solution.
+
+                   2
+
+Choose the most appropriate option (a), (b), (c) or (d)
+1. The solution of the cubic equation x3­6x2+11x­6 = 0 is given by the triplet :
+
+      a) (­1, 1 ­2)       b) (1, 2, 3)             c) (­2, 2, 3)         d) (0, 4, ­5)
+
+2. The cubic equation x3 + 2x2 ­ x ­ 2 = 0 has 3 roots namely.
+
+      a) (1, ­1, 2)       b) (­1, 1, ­2)           c) (­1, 2, ­2)        d) (1, 2, 2)
+
+3. x, x ­ 4, x + 5 are the factors of the left­hand side of the equation.
+
+      a) x3 + 2x2 ­ x ­ 2 = 0                      b) x3 + x2 ­ 20x = 0
+
+      c) x3 ­ 3x2 ­ 4x + 12 = 0                    d) x3 ­ 6x2 + 11x ­ 6 = 0
+
+4. The equation 3x3 + 5x2 = 3x + 5 has got 3 roots and hence the factors of the left­hand side
+      of the equation 3x3 + 5x2 ­ 3x ­ 5 = 0 are
+
+      a) x ­ 1, x ­ 2, x ­ 5/3 b) x ­ 1, x +1, 3x + 5 c) x + 1, x ­ 1, 3x - 5 d) x ­ 1, x + 1, x ­ 2
+
+5. The roots of the equation x3 + 7x2 ­ 21x ­ 27 = 0 are
+
+      a) (­ 3, ­ 9, ­ 1) b) (3, ­ 9, ­ 1)          c) (3, 9, 1)          d) (­ 3, 1, 9)
+
+6. The roots of x3 + x2 ­ x ­ 1 = 0 are
+
+      a) (­ 1, ­ 1, 1) b) (1, 1, ­ 1)              c) (­ 1, ­ 1, ­ 1)    d) (1, 1, 1)
+
+7. The satisfying value of x3 + x2 ­ 20x = 0 are
+
+      a) (1, 4, ­ 5)      b) (2, 4, ­ 5)           c) (0, ­ 4, 5)        d) (0, 4, ­ 5)
+
+8. The roots of the cubic equation x3 ­ 6x2 + 9x ­ 4 = 0 are
+
+      a) (4, 1, ­1)       b) (­4, ­1, ­1)          c) (­4, ­1, 1)        d) (1, 1, 4)
+
+9. If 4x3 +8x2­x­2=0 then value of (2x+3) is given by
+
+      a) 4, ­1, 2         b) ­4, 2, 1              c) 2, ­4, ­1          d) none of these.
+
+10. The rational root of the equation 2x3 ­ x2 ­ 4x + 2 = 0 is
+
+      1                        1                                         d) ­ 2.
+      a) 2                b) ­ 2                   c) 2
+
+© The Institute of Chartered Accountants of India
+                                                                EQUATIONS     2.27
+
+ A simple equation in one unknown x is in the form ax + b = 0.
+
+     Where a, b are known constants and a  0
+
+ The general form of a linear equations in two unknowns x and y is ax + by + c = 0 where
+      a, b are non-zero coefficients and c is a constant. Two such equations a1x + b1y + c1 = 0
+      and a2 x + b2 y + c2 = 0 form a pair of simultaneous equations in x and y. A value for each
+      unknown which satisfies simultaneously both the equations will give the roots of the
+      equations.
+
+ Elimination Method: In this method two given linear equations are reduced to a linear
+      equation in one unknown by eliminating one of the unknowns and then solving for the
+      other unknown.
+
+ Cross Multiplication Method: Let two equations be:
+
+a1x + b1y + c1 = 0
+a2x + b2y + c2 = 0
+
+x = b1c2 - b 2c1       y  =  c1a2                  -  c2a1   .
+     a1b2 - a2b1             a1b2                  -  a2 b1
+
+ An equation of the form ax2 + bx + c = 0 where x is a variable and a, b, c are constants
+      with a ¹ 0 is called a quadratic equation or equation of the second degree.
+
+      When b=0 the equation is called a pure quadratic equation; when b = 0 the equation is
+      called an affected quadratic.
+
+ The roots of a quadratic equation:
+
+         -b± b2 -4ac
+      =
+
+               2a
+ The Sum and Product of the Roots of quadratic equation
+
+                    b     coefficient of x
+
+sum of roots = ­ a = ­ coeffient of x2
+
+                                c constant term
+product of the roots = a = coefficient of x2
+
+ To construct a quadratic equation for the equation ax2 + bx + c = 0 we have
+      x2 ­ (Sum of the roots) x + Product of the roots = 0
+
+ Nature of the roots
+
+     -b± b2 -4ac
+x=
+
+            2a
+
+© The Institute of Chartered Accountants of India
+2.28  BUSINESS MATHEMATICS
+
+       i) If b2­4ac = 0 the roots are real and equal;
+      ii) If b2­4ac >0 then the roots are real and unequal (or distinct);
+      iii) If b2­4ac <0 then the roots are imaginary;
+      iv) If b2­4ac is a perfect square (  0) the roots are real, rational and unequal (distinct);
+      v) If b2­4ac >0 but not a perfect square the rots are real, irrational and unequal.
+       Since b2 ­ 4ac discriminates the roots b2 ­ 4ac is called the discriminant in the equation
+       ax2 + bx + c = 0 as it actually discriminates between the roots.
+
+Exercise (A)
+1. (b) 2. (a) 3. (c) 4. (c) 5. (b) 6. (d) 7. (a) 8. (d)
+9. (c)
+Exercise (B)
+1. (c) 2. (b) 3. (a) 4. (b) 5. (c) 6. (a) 7. (d) 8. (d)
+9. (a) 10. (c) 11. (c) 12. (a)
+Exercise (C)
+1. (b) 2. (c) 3. (a) 4. (a) 5. (d) 6. (a) 7. (b) 8. (c)
+9. (b) 10. (d)
+Exercise (D)
+1. (a) 2. (c) 3. (a) 4. (d) 5. (a) 6. (c) 7. (a) 8. (c)
+9. (b) 10. (d)
+Exercise (E)
+1. (b) 2. (a) 3. (d) 4. (c) 5. (b) 6. (c) 7. (a) 8. (a)
+9. (c) 10. (b) 11. (a)
+Exercise (F)
+1. (d) 2. (d) 3. (b) 4. (b) 5. (a) 6. (c) 7. (d) 8. (b)
+9. (b) 10. (b) 11. (d) 12. (c) 13. (b)
+Exercise (G)
+1. (b) 2. (d) 3. (a) 4. (d) 5. (b) 6. (b) 7. (a) 8. (c)
+9. (c) 10. (a)
+
+ © The Institute of Chartered Accountants of India
+                                                                                                EQUATIONS  2.29
+
+Exercise (H)
+1. (c) 2. (b) 3. (a) 4. (b) 5. (c) 6. (d) 7. (a) 8. (b)
+9. (c) 10. (a) 11. (a) 12. (c)
+Exercise (I)
+1. (b) 2. (b) 3. (b) 4. (b) 5. (b) 6. (a) 7. (d) 8. (d)
+9. (a) 10. (a)
+
+1. Solving equation x2 - a+b x + ab = 0 are, value(s) of x
+
+    (a) a, b                  (b) a                              (c) b                (d) None
+                                                                                      (d) None
+2. Solving equation x2 - 24x + 135 = 0 are, value(s) of x
+
+    (a) 9, 6                  (b) 9, 15                          (c) 15, 6
+
+3.  If   x  +  b  =  a  +  b  the roots of the equation are
+         b     x     b     a
+
+    (a) a, b2 / a             (b) a2, b/a2                       (c) a2 , b2 /a       (d) a, b2
+
+4.  Solving equation       6x+2    +  2x2 -1           =  10x-1  we     get roots as
+                             4        2x2 +2                4x
+
+    (a) ±1                    (b) +1                             (c) -1               (d) 0
+
+5. Solving equation 3x2 - 14x + 16 = 0 we get roots as
+
+    (a) ±1                                   8                   (c) 0                (d) None
+
+                              (b) 2 and 3
+
+6. Solving equation 3x2 - 14x + 8 = 0 we get roots as
+
+    (a) ±4                    (b) ±2                             (c)  4,  2           (d) None
+                                                                          3
+
+7. Solving equation  b-c x2 + c-a x + a-b = 0 following roots are obtained
+
+    (a) b-a , 1               (b) a-ba-c, 1                      (c)  b-c , 1         (d) None
+         b-c                                                          a-b
+
+8.  Solving equation       7   x +8      1-x           = 15  following roots     are  obtained
+                              1-x         x
+
+    (a)  64 ,  1              (b)  1,  1                         (c)  49 ,   1        (d)  1,   64
+         113   2                   50  65                             50     65            50   65
+
+    © The Institute of Chartered Accountants of India
+2.30           BUSINESS MATHEMATICS
+
+                                x                      1x 
+9.    Solving equation 6                   +               = 13 following roots are obtained
+                                  1x                   x  
+
+      (a)  4,   9               (b)  -4 ,  -9               (c)  4,   5               (d)  6,  7
+           13   13                   13    13                    13   13                   13  13
+
+10. Solving equation z2 -6z + 9 = 4 z2 -6z + 6 following roots are obtained
+
+      (a) 3 + 2 3 , 3 - 2 3 (b) 5, 1                        (c) all the above         (d) None
+
+                            x+ 12p-x p +1
+                                          =
+11.   Solving equation      x-    12p-x        p -1 following roots are obtained
+
+      (a) 3p                    (b) both 3p and -4p (c) only -4p                      (d) -3p, 4p
+
+  12. Solving equation 1+x2/3 + 1-x2/3 = 4 1­x2 1/3 are, values of x
+
+            5                   (b) ­  5                    (c)  ±    5               (d)  ±  15
+      (a) 3                            3                            33                         3
+
+13. Solving equation 2x+1 2x+3 x-1 x-2 =150 the roots available are
+
+           1± 129               (b)  7,    ­3               (c)  ­7,     3            (d) None
+      (a)                            2                             2
+
+               4
+
+14. Solving equation 2x+3 2x+5 x-1 x-2 = 30 the roots available are
+
+      (a)  0, 1 ,- 11 ,  9      (b) 0,- 1 , -1± 105         (c)  0,-  1  ,- 11 ,-  9  (d) None
+              24         4               24                           2     4      4
+
+15.   Solving equation z+         z= 6     the value of z works out to
+                                      25
+
+          1                         2                            1                         2
+      (a) 5                     (b) 5                       (c) 25                    (d) 25
+
+16. Solving equation z10 -33z5 +32=0 the following values of z are obtained
+
+      (a) 1, 2                  (b) 2, 3                    (c) 2, 4                  (d) 1, 2, 3
+
+17. When 2z+1+ 3z+4 = 7 the value of z is given by
+
+      (a) 1                     (b) 2                       (c) 3                     (d) 4
+
+    © The Institute of Chartered Accountants of India
+                                                                                                      EQUATIONS          2.31
+
+18. Solving equation x2 -9x+18 + x2 +2x-15 = x2 -4x+3 following roots are obtained
+
+     (a) 3, 2± 91               2± 94                        (c)  4,    -  8                  (d)  3,  4    -  8
+                 3         (b)                                             3                                   3
+
+                                    3
+
+19. Solving equation y2 +4y-21 + y2 -y-6 = 6y2 -5y-39 following roots are obtained
+
+     (a) 2, 3, 5/3         (b) 2, 3, -5/3                    (c) -2, -3, 5/3                  (d) -2, -3, -5/3
+
+20. Solving equation 6x4 +11x3 -9x2 -11x+6=0 following roots are obtained
+
+     (a) 1 ,-2, -1± 37     (b) - 1 , 2 , -1± 37              (c)   1 , -2 , 5 , -7            (d) None
+         2          6             2                6               2 66
+
+21.  If  x-bc + x-ca + x-ab =a+b+c     the value of x is
+         b+c c+a a+b
+
+     (a) a2 +b2 +c2        (b) aa+b+c                        (c) a+bb+c                       (d) ab+bc+ca
+
+          x+2 x-2 x-1 x+3
+22. If - = - then the values of x are
+
+          x-2 x+2 x+3 x-3
+
+     (a) 0,± 6             (b) 0,± 3                         (c) 0,±2 3                       (d) None
+
+         x­a x­b b                a
+23. If        +=+                      then the values of x are
+         b a x­a x­b
+
+     (a) 0,a+b,a-b (b) 0,a+b, a2 +b2 (c) 0,a-b, a2 + b2                                            a2 + b2
+                                                   a+b                             a+b        (d)
+                                                                                                       a+b
+
+         x-a2 -b2      c2
+24. If c2 + x-a2 -b2 =2 the value of x is
+
+     (a) a2 +b2 +c2        (b) -a2 -b2 -c2                             1                      (d)  -  a  2    1   +c  2
+                                                             (c) a2 +b2 +c2                                 +b2
+
+25.  Solving  equation     x   1 2    6 x          1       12     0   we      get  roots  as  follows
+                                                   x  
+
+                               x
+
+     (a) 0                 (b) 1                             (c) -1                           (d) None
+
+26.  Solving  equation     x   1 2     10   x         1      24      0  we    get  roots  as  follows
+                                                      x  
+
+                               x
+
+     (a) 0                 (b) 1                             (c) -1                           (d) (2± 5 ), (3± 10 )
+
+© The Institute of Chartered Accountants of India
+2.32         BUSINESS MATHEMATICS
+
+27.   Solving equation  2   x  1 2     5           x    1    2      18    0  we get  roots  as under
+                            x                           x       
+
+      (a) 0                (b) 1                             (c) -1                  (d) 2,1/2
+
+28. If   are the roots of equation x2 -5x+6=0 and >  thenthe equation with roots ( + )
+
+      and ( - ) is
+
+      (a) x2 -6x+5=0       (b) 2x2 -6x+5=0 (c) 2x2 -5x+6=0                           (d) x2 -5x+6=0
+
+29. If   are the roots of equation x2 -5x+6=0 and >  then the equation with roots (2 + )
+      and ( + 2) is
+
+     (a) x2 -9x+99=0 (b) x2 -18x+90=0 (c) x2 -18x+77=0 (d) None
+
+30. If   are the roots of equation x2 -5x+6=0 and >  then the equation with roots (++)
+      and (--) is
+
+     (a) x2 -12x+11=0 (b) 2x2 -6x+12=0 (c) x2 -12x+12=0 (d) None
+
+31. The condition that one of ax2 +bx+c=0 the roots of is twice the other is
+
+      (a) b2 =4ca          (b) 2b2 =9c+a (c) 2b2 =9ca                                (d) 2b2 =9c-a
+
+32. The condition that one of ax2 +bx+c=0 the roots of is thrice the other is
+
+      (a) 3b2 =16ca        (b) b2 =9ca                       (c) 3b2 =-16ca          (d) b2 =-9ca
+
+                                                                  p                         b2
+33. If the roots of ax2 +bx+c=0 are in the ratio q then the value of (ca) is
+
+          (p + q)2             (p + q)                           (p - q)2                (p - q)
+      (a) (pq)             (b) (pq)                          (c) (pq)                (d) (pq)
+
+34. Solving 6x+5y-16=0 and 3x-y-1=0 we get values of x and y as
+
+      (a) 1, 1             (b) 1, 2                          (c) -1, 2               (d) 0, 2
+
+35. Solving x2 +y2 -25=0 and x-y-1=0 we get the roots as under
+
+      (a) ±3 ±4            (b) ±2 ±3                         (c) 0, 3, 4             (d) 0, -3, -4
+
+36. Solving x + y - 5 =0 and x+y-5=0 we get the roots as under
+                  y x2
+
+      (a) 1, 4             (b) 1, 2                          (c) 1, 3                (d) 1, 5
+
+© The Institute of Chartered Accountants of India
+                                                                                 EQUATIONS  2.33
+
+37.  Solving   1    +  1   -13=0  and  1 + 1 -5=0 we get the roots as under
+               x2      y2              xy
+
+     (a)  1,1              (b)    1,1              (c)  1 ,1           (d)       1,1
+          85                      23                    13 5                     45
+
+38. Solving x2 +xy-21=0 and xy-2y2 +20=0 we get the roots as under
+
+     (a) ±1, ±2            (b) ±2, ±3              (c) ±3, ±4          (d) None
+
+39. Solving x2 +xy+y2 =37 and 3xy+2y2 =68 we get the following roots
+
+     (a) ±3, ±4            (b) ±4, ±5              (c) ±2, ±3          (d) None
+
+40. Solving 4x .2y =128 and 33x+2y =9xy we get the following roots
+
+     (a)  7,7              (b) 2, 3                (c) 1, 2            (d) 1, 3
+          42
+
+41. Solving 9x =3y and 5x+y+1=25xy we get the following roots
+
+     (a) 1, 2              (b) 0, 1                (c) 0, 3            (d) 1, 3
+
+42. Solving 9x+3y-4z=3 , x+y-z=0 and 2x-5y-4z=-20 following roots are obtained
+
+     (a) 2, 3, 4           (b) 1, 3, 4             (c) 1, 2, 3         (d) None
+
+43. Solving x+2y+2z=0 , 3x-4y+z=0 and x2 +3y2 +z2 =11 following roots are obtained
+
+     (a) 2, 1, -2 and -2, -1, 2                    (b) 2, 1, 2 and -2, -1, -2
+
+     (c) only 2, 1, -2                             (d) only -2, -1, 2
+
+44. Solving x3 -6x2 +11x-6=0 we get the following roots
+
+     (a) -1, -2, 3         (b) 1, 2, -3            (c) 1, 2, 3         (d) -1, -2, -3
+
+45. Solving x3 +9x2 -x-9=0 we get the following roots
+
+     (a) ±1, -9            (b) ±1, ±9              (c) ±1, 9           (d) None
+
+46. It is being given that one of the roots is half the sum of the other two solving
+      x3 -12x2 +47x-60=0 we get the following roots:
+
+     (a) 1, 2, 3           (b) 3, 4, 5             (c) 2, 3, 4         (d) -3, -4, -5
+
+47. Solve x3 +3x2 -x-3=0 given that the roots are in arithmetical progression
+
+     (a) -1, 1, 3          (b) 1, 2, 3             (c) -3, -1, 1 (d) -3, -2, -1
+
+48. Solve x3 -7x2 +14x-8=0 given that the roots are in geometrical progression
+
+     (a) ½, 1, 2           (b) 1, 2, 4             (c) ½ , -1, 2 (d) -1, 2, -4
+
+© The Institute of Chartered Accountants of India
+2.34     BUSINESS MATHEMATICS
+
+49. Solve x3 -6x2 +5x+12=0 given that the product of the two roots is 12
+
+      (a) 1, 3, 4   (b) -1, 3, 4                   (c) 1, 6, 2  (d) 1, -6, -2
+
+50. Solve x3 -5x2 -2x+24=0 given that two of its roots being in the ratio of 3:4
+
+      (a) -2, 4, 3  (b) -1, 4, 3                   (c) 2, 4, 3  (d) -2, -4, -3
+
+1. (a)              18. (a)  35. (a)
+2. (b)              19. (b)  36. (a)
+3. (a)              20. (a)  37. (b)
+4. (b)              21. (d)  38. (c)
+5. (b)              22. (d)  39. (a)
+6. (c)              23. (b)  40. (a), (b)
+7. (a)              24. (a)  41. (a)
+8. (a)              25. (b)  42. (c)
+9. (a)              26. (d)  43. (a)
+10. (c)             27. (d)  44. (c)
+11. (a)             28. (a)  45. (a)
+12. (c)             29. (c)  46. (b)
+13. (a)             30. (a)  47. (c)
+14. (b)             31. (c)  48. (b)
+15. (c)             32. (a)  49. (b)
+16. (a)             33. (a)  50. (a)
+17. (d)             34. (b)
+
+© The Institute of Chartered Accountants of India
+

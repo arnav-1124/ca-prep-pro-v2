@@ -1,0 +1,915 @@
+CHAPTER  8
+
+MONEY MARKET
+
+   UNIT - 1: THE CONCEPT OF
+MONEY DEMAND: IMPORTANT
+
+                THEORIES
+
+                                         LEARNING OUTCOMES
+
+After studying this Unit, you will be able to ­
+ Define money and describe its nature and characteristics
+ Explain the functions performed by money
+ Describe the various theories related to demand for money
+ Identify the factors that affect the demand for money.
+ Distinguish between the different variables considered by each of
+
+       the theories of demand for money
+
+© The Institute of Chartered Accountants of India
+.2             8.2  BUSINESS ECONOMICS
+
+    CHAPTER OVERVIEW
+
+                    Money Market
+
+                    The Concept of Money
+                              Demand
+
+    Functions           The                            Theories of  Post-Keynesian
+    of Money         Demand                            Demand for    Developments
+                    for Money                                       in the Theory of
+                                                          Money
+                                                                       Demand for
+                                                                          Money
+
+        1.1 INTRODUCTION
+
+    Money may make the world go around, it plays an essential role in causing the things in life
+    to work as they should; to underlie the fulfilment of the needs of human existence. And most
+    people in the world probably have handled money, many of them on a daily basis. But despite
+    its familiarity, probably few people could tell you exactly what money is, or how it works.
+    In short, money can be anything that can serve as a
+
+    (1) store of value, which means people can save it and use it later--smoothing their
+             purchases over time;
+
+    (2) unit of account, that is, provide a common base for prices; or
+
+    (3) medium of exchange, something that people can use to buy and sell from one another.
+
+    Perhaps the easiest way to think about the role of money is to consider what would change if
+    we did not have it.
+
+    If there were no money, we would be reduced to a barter economy. Every item someone
+    wanted to purchase would have to be exchanged for something that person could provide.
+
+    © The Institute of Chartered Accountants of India
+   1.3                                                MONEY MARKET  8.3
+
+For example, a person who specialises in fixing cars and needed to trade for food would have
+to find a farmer with a broken car. But what if the farmer did not have anything that needed
+to be fixed? Or what if a farmer could only give the mechanic more eggs than the mechanic
+could reasonably use? Having to find specific people to trade with makes it very difficult to
+specialise. People might starve before they were able to find the right person with whom to
+barter.
+
+But with money, you don't need to find a particular person. You just need a market in which
+to sell your goods or services. In that market, you don't barter for individual goods. Instead
+you exchange your goods or services for a common medium of exchange--that is, money.
+You can then use that money to buy what you need from others who also accept the same
+medium of exchange. As people become more specialised, it is easier to produce more, which
+leads to more demand for transactions and, hence, more demand for money.
+
+To put it a different way, money is something that holds its value over time, can be easily
+translated into prices, and is widely accepted. Many different things have been used as money
+over the years--among them, cowry shells, barley, peppercorns, gold, and silver.
+
+Fiat Money
+
+Until relatively recently, gold and silver were the main currency people used. Gold and silver
+are heavy, though, and over time, instead of carrying the actual metal around and exchanging
+it for goods, people found it more convenient to deposit precious metals at banks and buy
+and sell using a note that claimed ownership of the gold or silver deposits. Anyone who
+wanted to could go to the bank and get the precious metal that backs the note. Eventually,
+the paper claim on the precious metal was delinked from the metal. When that link was
+broken, fiat money was born. Fiat money is materially worthless, but has value simply because
+a nation collectively agrees to ascribe a value to it. In short, money works because people
+believe that it will. As the means of exchange evolved, so did its source--from individuals in
+barter, to some sort of collective acceptance when money was barley or shells, to governments
+in more recent times.
+
+`There is no unique definition of `money', either as a concept in economic theory or as
+measured in practice. Money can be defined for policy purposes as the set of liquid financial
+assets, the variation in the stock of which could impact on aggregate economic activity. As a
+statistical concept, money could include certain liquid liabilities of a particular set of financial
+intermediaries or other issuers'. (Reserve Bank of India Manual on Financial and Banking
+Statistics, 2007)
+
+There are some general characteristics that money should possess in order to make it serve
+its functions as money. Money should be:
+
+·  generally acceptable
+
+   © The Institute of Chartered Accountants of India
+.4                8.4           BUSINESS ECONOMICS
+
+    ·  durable or long-lasting
+
+    ·  effortlessly recognizable.
+
+    ·  difficult to counterfeit i.e. not easily reproducible by people
+
+    ·  relatively scarce, but has elasticity of supply
+
+    ·  portable or easily transported
+
+    ·  possessing uniformity; and
+
+    ·  divisible into smaller parts in usable quantities or fractions without losing value
+
+    How money is measured
+
+    In official statistics, the amount of money in an economy is generally measured through what
+    is called broad money, which encompasses everything that providers a store of value and
+    liquidity. Liquidity refers to the extent to which financial assets can be sold at close to full
+    market value at short notice. That is, they can easily be converted into another form of money,
+    such as cash. Although currency and transferable deposits (narrow money) are included by
+    all countries in broad money, there are other components that may also provide sufficient
+    store of value and liquidity to count as broad money. Among the things the IMF (2000) says
+    can be counted as broad money are the following:
+
+    National currencies (generally issued by the central government).
+
+    Transferable deposits, which include demand deposits (transferable by check or money order),
+    bank checks (if used as a medium of exchange), travelers checks (if used for transactions with
+    residents), and deposits otherwise commonly used to make payments (such as some Foreign-
+    Currency deposits).
+
+    Other deposits, such as nontransferable savings deposits., term deposits (funds left on deposit
+    for a fixed period of time), or repurchase agreements (in which one party sells a security and
+    agrees to buy it back at a fixed price).
+
+    Securities other than shares of stock. Such as tradable certificates of deposit and commercial
+    paper (which is essentially a corporate IOU).
+
+    Source : IMF
+
+        1.2 THE DEMAND FOR MONEY
+
+    Having understood the role of money in an economy, we shall now examine the concept of
+    demand for money. If people desire to hold money, we say there is demand for money. As
+    we are aware, the demand for money is in the nature of derived demand; it is demanded for
+
+       © The Institute of Chartered Accountants of India
+1.5                                                MONEY MARKET  8.5
+
+its purchasing power. The demand for money is a demand for real balances. In other words,
+people demand money because they wish to have command over real goods and services
+with the use of money. Demand for money is actually demand for liquidity and demand to
+store value. The demand for money is a decision about how much of one's given stock of
+wealth should be held in the form of money rather than as other assets such as bonds.
+Although it gives little or no return, individuals, households as well as firms hold money
+because it is liquid and offers the most convenient way to accomplish their day to day
+transactions.
+
+Demand for money has an important role in the determination of interest, prices and income
+in an economy. Understanding money demand and how various factors affect that demand
+is the basic requirement in setting a target for the monetary authority.
+
+Before we go into the theories of demand for money, we shall have a quick look at some
+important variables on which demand for money depends on. The quantity of nominal money
+or how much money people would like to hold in liquid form depends on many factors, such
+as income, general level of prices, rate of interest, real GDP, and the degree of financial
+innovation etc. Higher the income of individuals, higher the expenditure; richer people hold
+more money to finance their expenditure. The quantity which people desire to hold is directly
+proportional to the prevailing price level; higher the prices, higher should be the holding of
+money. As mentioned above, one may hold his wealth in any form other than money, say as
+an interest yielding asset. It follows that the opportunity cost of holding money is the interest
+rate a person could earn on other assets. Therefore, higher the interest rate, higher would be
+opportunity cost of holding cash and lower the demand for money. Innovations such as
+internet banking, application based transfers and automated teller machines reduce the need
+for holding liquid money. Just as households do, firms also hold money essentially for the
+same basic reasons.
+
+    1.3 THEORIES OF DEMAND FOR MONEY
+
+1.3.1 Classical Approach: The Quantity Theory of Money (QTM)
+
+The quantity theory of money, one of the oldest theories in Economics, was first propounded
+by Irving Fisher of Yale University in his book `The Purchasing Power of Money' published in
+1911 and later by the neoclassical economists. Both versions of the QTM demonstrate that
+there is a strong relationship between money and price level and the quantity of money is the
+main determinant of the price level or the value of money. In other words, changes in the
+general level of commodity prices or changes in the value or purchasing power of money are
+determined first and foremost by changes in the quantity of money in circulation.
+
+© The Institute of Chartered Accountants of India
+.6  8.6  BUSINESS ECONOMICS
+
+    Fisher's version, also termed as `equation of exchange' or `transaction approach' is formally
+    stated as follows:
+
+                                                             MV = PT
+
+    Where, M = the total amount of money in circulation (on an average) in an economy
+
+                       V = transactions velocity of circulation i.e. the average number of times across
+                               all transactions a unit of money (say Rupee) is spent in purchasing goods
+                               and services
+
+                       P = average price level (P= MV/T)
+
+                       T = the total number of transactions.
+
+    (Later economists replaced T by the real output Y).
+
+    Subsequently, Fisher extended the equation of exchange to include demand (bank) deposits
+    (M') and their velocity (V') in the total supply of money. Thus, the expanded form of the
+    equation of exchange becomes:
+
+                                                         MV + M'V' = PT
+
+    Where M' = the total quantity of credit money
+
+             V' = velocity of circulation of credit money
+
+    The total supply of money in the community consists of the quantity of actual money (M) and
+    its velocity of circulation (V). Velocity of money in circulation (V) and the velocity of credit
+    money (V') remain constant. T is a function of national income. Since full employment prevails,
+    the volume of transactions T is fixed in the short run. Briefly put, the total volume of
+    transactions (T) multiplied by the price level (P) represents the demand for money. The
+    demand for money (PT) is equal to the supply of money (MV + M'V)'. In any given period, the
+    total value of transactions made is equal to PT and the value of money flow is equal to MV+
+    M'V'.
+
+    There is an aggregate demand for money for transaction purposes and more the number of
+    transactions people want, greater will be the demand for money. The total volume of
+    transactions multiplied by the price level (PT) represents the demand for money.
+
+    1.3.2 The Cambridge approach
+
+    In the early 1900s, Cambridge Economists Alfred Marshall, A.C. Pigou, D.H. Robertson and
+    John Maynard Keynes (then associated with Cambridge) put forward a fundamentally different
+    approach to quantity theory, known as cash balance approach. The Cambridge version holds
+    that money increases utility in the following two ways:
+
+    © The Institute of Chartered Accountants of India
+    1.7                                            MONEY MARKET  8.7
+
+1.     enabling the possibility of split-up of sale and purchase to two different points of time
+
+       rather than being simultaneous, and
+
+2.     being a hedge against uncertainty.
+
+While the first above represents transaction motive, just as Fisher envisaged, the second points
+to money's role as a temporary store of wealth. Since sale and purchase of commodities by
+individuals do not take place simultaneously, they need a `temporary abode' of purchasing
+power as a hedge against uncertainty. As such, demand for money also involves a
+precautionary motive in the Cambridge approach. Since money gives utility in its store of
+wealth and precautionary modes, one can say that money is demanded for itself.
+
+Now, the question is how much money will be demanded? The answer is: it depends partly on
+income and partly on other factors of which important ones are wealth and interest rates. The
+former determinant of demand i.e. income, points to transactions demand such that higher
+the income, the greater the quantity of purchases and as a consequence greater will be the
+need for money as a temporary abode of value to overcome transaction costs. The demand
+for money was primarily determined by the need to conduct transactions which will have a
+positive relationship to the money value of aggregate expenditure. Since the latter is equal to
+money national income, the Cambridge money demand function is stated as:
+
+                                                   Md = k PY
+
+Where
+
+         Md = is the demand for money balances,
+
+         Y = real national income
+
+         P = average price level of currently produced goods and services
+
+         PY = nominal income
+
+         k = proportion of nominal income (PY) that people want to hold as cash balances
+
+The term `k' in the above equation is called `Cambridge k' is a parameter reflecting economic
+structure and monetary habits, namely the ratio of total transactions to income and the ratio
+of desired money balances to total transactions. The equation above explains that the demand
+for money (M) equals k proportion of the total money income.
+
+Thus we see that the neoclassical theory changed the focus of the quantity theory of money
+to money demand and hypothesized that demand for money is a function of only money
+income. Both these versions are chiefly concerned with money as a means of transactions or
+exchange, and therefore, they present models of the transaction demand for money.
+
+© The Institute of Chartered Accountants of India
+.8  8.8  BUSINESS ECONOMICS
+
+    1.3.3 The Keynesian Theory of Demand for Money
+
+    Keynes' theory of demand for money is known as `Liquidity Preference Theory'. `Liquidity
+    preference', a term that was coined by John Maynard Keynes in his masterpiece `The General
+    Theory of Employment, Interest and Money' (1936), denotes people's desire to hold money
+    rather than securities or long-term interest-bearing investments.
+
+    According to Keynes, people hold money (M) in cash for three motives:
+
+    (i) Transactions motive,
+
+    (ii) Precautionary motive, and
+
+    (iii) Speculative motive.
+
+    (a) The Transactions Motive
+
+    The transactions motive for holding cash relates to `the need for cash for current transactions
+    for personal and business exchange.' The need for holding money arises because there is lack
+    of synchronization between receipts and expenditures. The transaction motive is further
+    classified into income motive and business (trade) motive, both of which stressed on the
+    requirement of individuals and businesses respectively to bridge the time gap between receipt
+    of income and planned expenditures.
+
+    Keynes did not consider the transaction balances as being affected by interest rates. The
+    transaction demand for money is directly related to the level of income. The transactions
+    demand for money is a direct proportional and positive function of the level of income and is
+    stated as follows:
+
+                                                        Lr = kY
+
+    Where
+
+               Lr, is the transactions demand for money,
+
+               k is the ratio of earnings which is kept for transactions purposes
+
+               Y is the earnings.
+
+    Keynes considered the aggregate demand for money for transaction purposes as the sum of
+    individual demand and therefore, the aggregate transaction demand for money is a function
+    of national income.
+
+    (b) The Precautionary Motive
+
+    Many unforeseen and unpredictable contingencies involving money payments occur in our
+    day to day life. Individuals as well as businesses keep a portion of their income to finance
+    such unanticipated expenditures. The amount of money demanded under the precautionary
+
+    © The Institute of Chartered Accountants of India
+1.9                                                MONEY MARKET  8.9
+
+motive depends on the size of income, prevailing economic as well as political conditions and
+personal characteristics of the individual such as optimism/ pessimism, farsightedness etc.
+Keynes regarded the precautionary balances just as balances under transactions motive as
+income elastic and by itself not very sensitive to rate of interest.
+
+(c) The Speculative Demand for Money
+
+The speculative motive reflects people's desire to hold cash in order to be equipped to exploit
+any attractive investment opportunity requiring cash expenditure. According to Keynes,
+people demand to hold money balances to take advantage of the future changes in the rate
+of interest, which is the same as future changes in bond prices. It is implicit in Keynes theory,
+that the `rate of interest', i, is really the return on bonds. Keynes assumed that that the
+expected return on money is zero, while the expected returns on bonds are of two types,
+namely:
+
+(i) the interest payment
+
+(ii) the expected rate of capital gain.
+
+The market value of bonds and the market rate of interest are inversely related. A rise in the
+market rate of interest leads to a decrease in the market value of the bond, and vice versa.
+Investors have a relatively fixed conception of the 'normal' or `critical' interest rate and
+compare the current rate of interest with such `normal' or `critical' rate of interest.
+
+If wealth-holders consider that the current rate of interest is high compared to the `normal or
+critical rate of interest', they expect a fall in the interest rate (rise in bond prices). At the high
+current rate of interest, they will convert their cash balances into bonds because:
+
+(i) they can earn high rate of return on bonds
+
+(ii) they expect capital gains resulting from a rise in bond prices consequent upon an
+         expected fall in the market rate of interest in future.
+
+Conversely, if the wealth-holders consider the current interest rate as low, compared to the
+`normal or critical rate of interest', i.e., if they expect the rate of interest to rise in future (fall
+in bond prices), they would have an incentive to hold their wealth in the form of liquid cash
+rather than bonds because:
+
+(i) the loss suffered by way of interest income forgone is small,
+
+(ii) they can avoid the capital losses that would result from the anticipated increase in
+         interest rates, and
+
+(iii) the return on money balances will be greater than the return on alternative assets
+
+© The Institute of Chartered Accountants of India
+.10  8.10  BUSINESS ECONOMICS
+
+     (iv) If the interest rate does increase in future, the bond prices will fall and the idle cash
+              balances held can be used to buy bonds at lower price and can thereby make a capital-
+              gain.
+
+     Summing up, so long as the current rate of interest is higher than the critical rate of interest,
+     a typical wealth-holder would hold in his asset portfolio only government bonds, and if the
+     current rate of interest is lower than the critical rate of interest, his asset portfolio would
+     consist wholly of cash. When the current rate of interest is equal to the critical rate of interest,
+     a wealth-holder is indifferent to holding either cash or bonds. The inference from the above
+     is that the speculative demand for money and interest are inversely related.
+
+     The speculative demand for money of individuals can be diagrammatically presented as
+     follows:
+
+                                                            Figure: 2.1.1
+                                     Individual's Speculative Demand for Money
+
+     The discontinuous portfolio decision of a typical individual investor is shown in the figure
+     above. When the current rate of interest rn is higher than the critical rate of interest rc, the
+     entire wealth is held by the individual wealth-holder in the form of government bonds. If the
+     rate of interest falls below the critical rate of interest rc, the individual will hold his entire
+     wealth in the form of speculative cash balances.
+     When we go from the individual speculative demand for money to the aggregate speculative
+     demand for money, the discontinuity of the individual wealth-holder's demand curve for the
+     speculative cash balances disappears and we obtain a continuous downward sloping demand
+     function showing the inverse relationship between the current rate of interest and the
+     speculative demand for money as shown in figure below:
+
+       © The Institute of Chartered Accountants of India
+1.11  MONEY MARKET  8.11
+
+                            Figure: 2.1.2
+      Aggregate Speculative Demand for Money
+
+According to Keynes, higher the rates of interest, lower the speculative demand for money,
+and lower the rate of interest, higher the speculative demand for money.
+The concept of Liquidity Trap
+Liquidity trap is a situation when expansionary monetary policy (increase in money supply)
+does not increase the interest rate, income and hence does not stimulate economic growth.
+Liquidity trap is the extreme effect of monetary policy. It is a situation in which the general
+public is prepared to hold on to whatever amount of money is supplied, at a given rate of
+interest. They do so because of the fear of adverse events like deflation, war. In that case, a
+monetary policy carried out through open market operations has no effect on either the
+interest rate, or the level of income. In a liquidity trap, the monetary policy is powerless to
+affect the interest rate.
+There is a liquidity trap at short term zero percent interest rate. When interest rate is zero,
+public would not want to hold any bond, since money, which also pays zero percent interest,
+has the advantage of being usable in transactions.
+In other words, investors would maintain cash savings rather than hold bonds. The speculative
+demand becomes perfectly elastic with respect to interest rate and the speculative money
+demand curve becomes parallel to the X axis. This situation is called a `Liquidity trap'.
+In such a situation, the monetary authority is unable to stimulate the economy with monetary
+policy. Since the opportunity cost of holding money is zero, even if the monetary authority
+increases money supply to stimulate the economy, people would prefer to hoard money.
+Consequently, excess funds may not be converted into new investment. The liquidity trap is
+synonymous with ineffective monetary policy.
+
+  © The Institute of Chartered Accountants of India
+.12  8.12  BUSINESS ECONOMICS
+
+     The Bank of Japan's experience is a real-life example of the Keynesian economic theory of a
+     liquidity trap, in which money printed by a central bank is hoarded in anticipation of further
+     deflation rather than invested. Japan's 10-year yield dropped to a record 0.2 percent.
+
+         1.4 POST-KEYNESIAN DEVELOPMENTS IN THE
+                  THEORY OF DEMAND FOR MONEY
+
+     Most post-Keynesian theories of demand for money emphasize the store-of-value or the asset
+     function of money.
+
+     1.4.1 Inventory Approach to Transaction Balances
+
+     Baumol (1952) and Tobin (1956) developed a deterministic theory of transaction demand for
+     money, known as Inventory Theoretic Approach, in which money or `real cash balance' was
+     essentially viewed as an inventory held for transaction purposes.
+     Inventory models assume that there are two media for storing value:
+     (a) money and
+     (b) an interest-bearing alternative financial asset.
+     There is a fixed cost of making transfers between money and the alternative assets e.g. broker
+     charges. While relatively liquid financial assets other than money (such as, bank deposits)
+     offer a positive return, the above said transaction cost of going between money and these
+     assets justifies holding money.
+
+        © The Institute of Chartered Accountants of India
+1.13                                               MONEY MARKET  8.13
+
+Baumol put forward a new approach to demand for money which explains the transaction
+demand for money from the viewpoint of the inventory management. Baumol asserts that
+individuals hold money (inventory of money) for the transaction purposes.
+
+According to him, individuals have to keep optimum inventory of money for their day to day
+transaction purposes. They also incur cost when they hold inventories of money and the cost
+forgone is the interest rate which they could have earned if they had kept their wealth in
+saving deposits or fixed deposits or invested in bonds or shares. This forgone cost is also
+called opportunity cost. Money that people hold in the form of currency and demand deposits
+which are very safe and riskless but pays no interest. While bonds or shares provide returns
+(interest) but are risky and may also involve capital loss if people invest in them.
+
+But saving deposits in banks is quite safe and risk free but also gives some interest. So, Baumol
+questions why people hold money in the form of currency or cash or demand deposits instead
+of saving deposits which are quite safe and risk free and also earn some interest as well.
+
+According to him, it is for convenience and capability of it being easily used for transactions
+purposes. Baumol and Tobin proclaim that transactions demand for money depends on the
+rate of interest.
+
+As interest rates on savings deposits go up people will hold less money in the form of currency
+or cash or demand deposits and vice versa. So, individuals compare the costs and benefits of
+funds in the form of money with no interest with the money in the form of savings deposits
+with some interest. According to Baumol, the cost forgone when people hold money is the
+opportunity cost of these funds.
+
+Baumol has proved that the average amount of cash withdrawal which minimises cost is given
+by ­
+
+C = 2bY/r
+
+This means that the average amount of cash withdrawal which minimises cost is the square
+root of the two times broker's fee multiplied by the size of an individual's income and divided
+by the interest rate. This is also called Square Root Rule.
+
+The inventory-theoretic approach also suggests that the demand for money and bonds
+depend on the cost of making a transfer between money and bonds e.g. the brokerage fee.
+An increase in the brokerage fee raises the marginal cost of bond market transactions and
+consequently lowers the number of such transactions. The increase in the brokerage fee raises
+the transactions demand for money and lowers the average bond holding over the period.
+This result follows because an increase in the brokerage fee makes it more costly to switch
+funds temporarily into bond holdings. An individual combines his asset portfolio of cash and
+bond in such proportions that his overall cost of holding the assets is minimised.
+
+© The Institute of Chartered Accountants of India
+.14      8.14                     BUSINESS ECONOMICS
+
+     1.4.2 Friedman's Restatement of the Quantity Theory
+
+     Milton Friedman (1956) extended Keynes' speculative money demand within the framework
+     of asset price theory. Friedman treats the demand for money as nothing more than the
+     application of a more general theory of demand for capital assets. Demand for money is
+     affected by the same factors as demand for any other asset, namely
+
+     1.  Permanent income.
+
+     2.  Relative returns on assets. (which incorporate risk)
+
+     Friedman maintains that it is permanent income­ and not current income as in the Keynesian
+     theory ­ that determines the demand for money. Permanent income which is Friedman's
+     measure of wealth is the present expected value of all future income. To Friedman, money is
+     a good as any other durable consumption good and its demand is a function of a great
+     number of factors.
+
+     Friedman identifies the following four determinants of the demand for money. The nominal
+     demand for money:
+
+     ·   is a function of total wealth, which is represented by permanent income divided by the
+
+         discount rate, defined as the average return on the five asset classes in the monetarist
+
+         theory world, namely money, bonds, equity, physical capital and human capital.
+
+     ·   is positively related to the price level, P. If the price level rises the demand for money
+
+         increases and vice versa.
+
+     ·   rises if the opportunity costs of money holdings (i.e. returns on bonds and stock)
+
+         decline and vice versa.
+
+     ·   is influenced by inflation, a positive inflation rate reduces the real value of money
+
+         balances, thereby increasing the opportunity costs of money holdings.
+
+     1.4.3 The Demand for Money as Behaviour toward Risk
+
+     James Tobin, an American economist, in his analysis makes a valid assumption that people
+     prefer more wealth to less. According to him, an investor is faced with a problem of what
+     proportion of his portfolio of financial assets he should keep in the form of ready money
+     (which earns no interest) and in the form of investment (which earns interest) such as bonds.
+     An individual's portfolio may also consist of more risky assets such as shares.
+
+     According to Tobin, when individuals are faced with various safe and risky assets, they diversify
+     their portfolio by holding a balanced combination of safe and risky assets.
+
+     According to Tobin, an individual's behaviour shows risk aversion, which means they prefer
+     less risk to more risk at a given rate of return.
+
+        © The Institute of Chartered Accountants of India
+1.15                                               MONEY MARKET  8.15
+
+If an individual chooses to hold a greater proportion of risky assets such as bonds or shares
+in his portfolio, then he will be earning a higher average return but will bear a higher degree
+of risk. Tobin argues that a risk averter will not choose such a portfolio with all risky bonds or
+a greater proportion of them.
+
+In the other case, an individual who, in his portfolio of wealth, holds only safe and riskless
+assets such as money in form of cash or demand deposits, he will be taking almost zero risk
+but will also be getting no return. Therefore, people prefer a mixed or diversified portfolio of
+money, bonds and shares, with each person opting for a little different balance between risk
+and return.
+
+Tobin's Liquidity Preference Function
+
+Tobin derived his liquidity preference function showing the relationship between rate of
+interest and demand for money. He argues that with the increase in the rate of return on
+bonds, individuals will be attracted to hold a greater proportion of their wealth in bonds and
+less in the form of ready money.
+
+At a higher rate of interest, the demand for holding money will be less and people will hold
+more bonds in their portfolio and vice versa.
+
+In Tobin's portfolio approach demand function for money as an asset slopes downwards,
+where horizontal axis shows the demand for money and vertical axis shows the rate of interest.
+
+The downward sloping liquidity preference function curve shows that the asset demand for
+money in the portfolio increases as the rate of interest on bonds falls. In this way Tobin derives
+the aggregate liquidity preference curve by determining the effects of changes in the interest
+rate on the asset demand for money in the portfolio of peoples.
+
+Tobin's liquidity preference theory has been found to be true by the empirical studies
+conducted to measure interest elasticity of the demand for money as an asset.
+
+    1.5 CONCLUSION
+
+We have discussed the important theories pertaining to demand for money. All the theories
+have provided significant insights into the concept of demand for money. While the
+transactions version of Fisher focused on the supply of money as determining prices, the cash
+balance approach of the Cambridge University economists established the formal
+relationship between demand for real money and the real income. Keynes developed
+the money demand theory on the basis of explicit motives for holding money and
+formally introduced the interest rate as an additional explanatory variable that
+determines the demand for real balances. The post-Keynesian economists developed a
+number of models to provide alternative explanations to confirm the formulation relating real
+
+© The Institute of Chartered Accountants of India
+.16    8.16                 BUSINESS ECONOMICS
+
+     money balances with real income and interest rates. However, we find that all these theories
+     establish a positive relation of demand for money to real income and an inverse relation to
+     the rate of return on earning assets, i.e. the interest rate. However, the propositions in these
+     theories need to be supported by empirical evidence. As countries differ in respect of various
+     determinants of demand for money, we cannot expect any uniform pattern of behaviour.
+     Broadly speaking, real income, interest rates and expectations in respect to inflation are
+     significant predictors of demand for money.
+
+     SUMMARY
+
+       Money refers to assets which are commonly used and accepted as a means of payment
+
+       or as a medium of exchange or for transferring purchasing power.
+
+       Money is totally liquid, has generalized purchasing power and is generally acceptable
+
+       in settlement of all transactions and in discharge of other kinds of business obligations
+
+       including future payments.
+
+       The functions of money are: acting as a medium of exchange to facilitate easy
+
+       exchanges of goods and services, providing a `common measure of value' or `common
+
+       denominator of value', serving as a unit or standard of deferred payments and
+
+       facilitating storing of value both as a temporary abode of purchasing power and as a
+
+       permanent store of value.
+
+       Money should be generally acceptable, durable, difficult to counterfeit, relatively
+
+       scarce, easily transported, divisible without losing value and effortlessly recognizable.
+
+       The demand for money is derived demand and is a decision about how much of one's
+
+       given stock of wealth should be held in the form of money rather than as other assets
+
+       such as bonds.
+
+       Both versions of the theory of money, namely, the classical approach and the
+
+       neoclassical approach demonstrate that there is strong relationship between money
+
+       and price level and the quantity of money is the main determinant of the price level or
+
+       the value of money.
+
+       Keynes' theory of demand for money is known as the `liquidity preference theory'.
+
+       `Liquidity preference', is a term that was coined by John Maynard Keynes in his
+
+       masterpiece `The General Theory of Employment, Interest and Money' (1936).
+
+       According to Keynes, people hold money (M) in cash for three motives: the
+
+       transactions, precautionary and speculative motives.
+
+     © The Institute of Chartered Accountants of India
+  1.17                                             MONEY MARKET  8.17
+
+  The transaction motive for holding cash is directly related to the level of income and
+
+  relates to `the need for cash for the current transactions for personal and business
+
+  exchange.'
+
+  The amount of money demanded under the precautionary motive is to meet
+
+  unforeseen and unpredictable contingencies involving money payments and depends
+
+  on the size of the income, prevailing economic as well as political conditions and
+
+  personal characteristics of the individual such as optimism/ pessimism, farsightedness
+
+  etc.
+
+  The speculative motive reflects people's desire to hold cash in order to be equipped
+
+  to exploit any attractive investment opportunity requiring cash expenditure. The
+
+  speculative demand for money and interest are inversely related.
+
+  So long as the current rate of interest is higher than the critical rate of interest (rc), a
+
+  typical wealth-holder would hold in his asset portfolio only government bonds while if
+
+  the current rate of interest is lower than the critical rate of interest, his asset portfolio
+
+  would consist wholly of cash.
+
+  Liquidity trap is a situation where the desire to hold bonds is very low and approaches
+
+  zero, and the demand to hold money in liquid form as an alternative approaches
+
+  infinity. People expect a rise in interest rate and the consequent fall in bond prices and
+
+  the resulting capital loss. The speculative demand becomes perfectly elastic with
+
+  respect to interest rate and the speculative money demand curve becomes parallel to
+
+  the X axis.
+
+  Baumol (1952) and Tobin (1956) developed a deterministic theory of transaction
+
+  demand for `real cash balance', known as Inventory Theoretic Approach, in which
+
+  money is essentially viewed as an inventory held for transaction purposes.
+
+  People hold an optimum combination of bonds and cash balance, i.e., an amount that
+
+  minimizes the opportunity cost.
+
+  The optimal average money holding is: a positive function of income Y, a positive
+
+  function of the price level P, a positive function of transactions costs c, and a negative
+
+  function of the nominal interest rate i.
+
+  Milton Friedman (1956) extending Keynes' speculative money demand within the
+
+  framework of asset price theory holds that demand for money is affected by the same
+
+  factors as demand for any other asset, namely, permanent income and relative returns
+
+  on assets.
+
+© The Institute of Chartered Accountants of India
+.18    8.18  BUSINESS ECONOMICS
+
+       The nominal demand for money is positively related to the price level, P; rises if bonds
+
+       and stock returns, rb and re, respectively decline and vice versa; is influenced by
+
+       inflation; and is a function of total wealth
+
+       The Demand for Money as Behaviour toward `aversion to risk' propounded by Tobin
+
+       states that money is a safe asset but an investor will be willing to exercise a trade-off
+
+       and sacrifice to some extent, the higher return from bonds for a reduction in risk
+
+       According to Tobin, rational behaviour induces individuals to hold an optimally
+
+       structured wealth portfolio which is comprised of both bonds and money and the
+
+       demand for money as a store of wealth depends negatively on the interest rate.
+
+     TEST YOUR KNOWLEDGE
+
+     Multiple Choice Type Questions
+
+     1. Choose the incorrect statement
+              (a) Anything that would act as a medium of exchange is money
+              (b) Money has generalized purchasing power and is generally acceptable in
+                        settlement of all transactions
+              (c) Money is a totally liquid asset and provides us with means to access goods and
+                        services
+              (d) Currency which represents money does not necessarily have intrinsic value.
+
+     2. Money performs all of the three functions mentioned below, namely
+              (a) medium of exchange, price control, store of value
+              (b) unit of account, store of value , provide yields
+              (c) medium of exchange, unit of account, store of value
+              (d) medium of exchange, unit of account, income distribution
+
+     3. Demand for money is
+              (a) Derived demand
+              (b) Direct demand
+              (c) Real income demand
+              (d) Inverse demand
+
+     © The Institute of Chartered Accountants of India
+1.19                                               MONEY MARKET  8.19
+
+4. Higher the ______________, higher would be ________________of holding cash and lower will
+         be the ______________________
+         (a) demand for money, opportunity cost, interest rate
+         (b) price level , opportunity cost, interest rate
+         (c) real income , opportunity cost, demand for money
+         (d) interest rate, opportunity cost, demand for money
+
+5. The quantity theory of money holds that
+         (a) changes in the general level of commodity prices are caused by changes in the
+                   quantity of money
+         (b) there is strong relationship between money and price level and the quantity of
+                   money is the main determinant of the price
+         (c) changes in the value of money or purchasing power of money are determined
+                   first and foremost by changes in the quantity of money in circulation
+         (d) All the above
+
+6. The Cambridge approach to quantity theory is also known as
+         (a) Cash balance approach
+         (b) Fisher's theory of money
+         (c) Classical approach
+         (d) Keynesian Approach
+
+7. Fisher's approach and the Cambridge approach to demand for money consider
+         (a) money's role in acting as a store of value and therefore, demand for money is for
+                   storing value temporarily.
+         (b) money as a means of exchange and therefore demand for money is termed as
+                   for liquidity preference
+         (c) money as a means of transactions and therefore, demand for money is only
+                   transaction demand for money.
+         (d) None of the above
+
+8. Real money is
+         (a) nominal money adjusted to the price level
+         (b) real national income
+
+© The Institute of Chartered Accountants of India
+.20  8.20  BUSINESS ECONOMICS
+
+              (c) money demanded at given rate of interest
+              (d) nominal GNP divided by price level
+     9. The precautionary money balances people want to hold
+              (a) as income elastic and not very sensitive to rate of interest
+              (b) as income inelastic and very sensitive to rate of interest
+              (c) are determined primarily by the level of transactions they expect to make in the
+
+                        future.
+              (d) are determined primarily by the current level of transactions
+     10. Speculative demand for money
+              (a) is not determined by interest rates
+              (b) is positively related to interest rates
+              (c) is negatively related to interest rates
+              (d) is determined by general price level
+     11. According to Keynes, if the current interest rate is high
+              (a) people will demand more money because the capital gain on bonds would be less
+
+                        than return on money
+              (b) people will expect the interest rate to rise and bond price to fall in the future.
+              (c) people will expect the interest rate to fall and bond price to rise in the future.
+              (d) Either a) or b) will happen
+     12. The inventory-theoretic approach to the transactions demand for money
+              (a) explains the negative relationship between money demand and the interest rate.
+              (b) explains the positive relationship between money demand and the interest rate.
+              (c) explains the positive relationship between money demand and general price level
+              (d) explains the nature of expectations of people with respect to interest rates and
+
+                        bond prices
+     13. According to Baumol and Tobin's approach to demand for money, the optimal average
+
+              money holding is:
+              (a) a positive function of income Y and the price level P
+              (b) a positive function of transactions costs c,
+
+     © The Institute of Chartered Accountants of India
+    1.21                                           MONEY MARKET    8.21
+
+         (c) a negative function of the nominal interest rate i
+         (d) All the above
+14. ___________ considered demand for money is as an application of a more general theory
+         of demand for capital assets
+         (a) Baumol
+         (b) James Tobin
+         (c) J M Keynes
+         (d) Milton Friedman
+15. The nominal demand for money rises if
+         (a) the opportunity costs of money holdings ­ i.e. bonds and stock returns, rB and rE ,
+
+                   respectively- decline and vice versa
+         (b) the opportunity costs of money holdings ­ i.e. bonds and stock returns, rB and rE ,
+
+                   respectively- rises and vice versa
+         (c) the opportunity costs of money holdings ­ i.e. bonds and stock returns, rB and rE ,
+
+                   respectively remain constant
+         (d) b) and c) above
+
+ANSWERS
+
+1.  (a) 2.  (c) 3.                                 (a) 4.  (d) 5.  (d) 6   (a)
+
+7.  (c) 8.  (a) 9.                                 (a) 10. (c) 11. (c) 12  (a)
+
+13. (d) 14. (d) 15. (a)
+
+© The Institute of Chartered Accountants of India
+

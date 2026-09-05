@@ -1,0 +1,1895 @@
+CHAPTER              6
+
+SEQUENCE AND SERIES-ARITHMETIC
+AND GEOMETRIC PROGRESSIONS
+
+Often students will come across a sequence of numbers which are having a common difference,
+i.e., difference between the two consecutive pairs are the same. Also another very common
+sequence of numbers which are having common ratio, i.e., ratio of two consecutive pairs are the
+same. Could you guess what these special type of sequences are termed in mathematics?
+
+Read this chapter to understand that these two special type of sequences are called Arithmetic
+Progression and Geometric Progression respectively. Further learn how to find out an element
+of these special sequences and how to find sum of these sequences.
+
+These sequences will be useful for understanding various formulae of accounting and finance.
+
+The topics of sequence, series, A.P. G.P. find useful applications in commercial problems among
+others; viz., to find interest earned through compound interest, depreciations after certain amount
+of time and total sum earned on recurring deposits, etc.
+
+CHAPTER OVERVIEW                                   Sequence
+
+Arithmetic Progression                             Special Series              Geometric Progression
+
+Sum of n  First         Common
+  terms   Term          difference
+
+  Sum of first `n'      Sum of the squares of the                   Sum of the cubes of the
+terms of the series     First `n' terms of the series              First `n' terms of the series
+
+                                                   Sum of          First term  Common      Applications
+                                                   n terms                     difference   of Finance
+
+© The Institute of Chartered Accountants of India
+6.2  BUSINESS MATHEMATICS
+
+Let us consider the following collection of numbers-
+(1) 28 , 2, 25, 27, ----------------
+(2) 2 , 7, 11, 19, 31, 51, ----------
+(3) 1, 2, 3, 4, 5, 6, --------------
+(4) 20, 18, 16, 14, 12, 10, ----------
+
+In (1) the nos. are not arranged in a particular order. In (2) the nos. are in ascending order but they
+do not obey any rule or law. It is, therefore, not possible to indicate the number next to 51.
+
+In (3) we find that by adding 1 to any number, we get the next one. Here the number next to 6 is
+6 + 1 = 7.
+
+In (4) if we subtract 2 from any number we get the nos. that follows. Here the number next to 10
+is 10 ­2 = 8.
+
+Under these circumstances, we say, the numbers in the collections (1) and (2) do not form sequences
+whereas the numbers in the collections (3) & (4) form sequences.
+
+Thus a sequence may be defined as follows:--
+
+An ordered collection of numbers a1, a2, a3, a4, ................., an, ................. is a sequence if according
+to some definite rule or law, there is a definite value of an , called the term or element of the
+sequence, corresponding to any value of the natural number n.
+
+Clearly, a1 is the 1st term of the sequence , a2 is the 2nd term, ................., an is the nth term.
+
+In the nth term an , by putting n = 1, 2 ,3 ,......... successively , we get a1, a2 , a3 , a4, .........
+
+Thus it is clear that the nth term of a sequence is a function of the positive integer n. The nth term
+is also called the general term of the sequence. To specify a sequence, nth term must be known,
+otherwise it may lead to confusion. A sequence may be finite or infinite.
+
+If the number of elements in a sequence is finite, the sequence is called finite sequence; while if the
+number of elements is unending, the sequence is infinite.
+
+A finite sequence a1, a2, a3, a4, ................., an is denoted by    ai  n      and  an  infinite  sequence a1, a2,
+                                                                               i=1
+
+a3, a4, ................., an ,................. is denoted by                        a           or simply by
+{ an } where an is the nth element of the sequence.                                        n n=1
+
+Example :
+1) The sequence { 1/n } is 1, 1/2, 1/3, 1/4......
+2) The sequence { ( ­ 1 ) n n } is ­1, 2, ­3, 4, ­5,.....
+3) The sequence { n } is 1, 2, 3,...
+4) The sequence { n / (n + 1) } is 1/2, 2/3, 3/4, 4/5 .......
+5) A sequence of even positive integers is 2, 4, 6, .....................................
+6) A sequence of odd positive integers is 1, 3, 5, 7, .....................................
+
+All the above are infinite sequences.
+
+     © The Institute of Chartered Accountants of India
+                          SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS  6.3
+
+Example:
+1) A sequence of even positive integers within 12 i.e., is 2, 4, 6, 8, 10.
+2) A sequence of odd positive integers within 11 i.e., is 1, 3, 5, 7, 9.
+All the above are finite sequences.
+
+An expression of the form a1 + a2 + a3 + ..... + an + ............................ which is the sum of the
+elements of the sequence { a n } is called a series. If the series contains a finite number of elements,
+it is called a finite series, otherwise called an infinite series.
+
+If Sn = u1 + u2 + u3 + u4 + ....... + un, then Sn is called the sum to n terms (or the sum of the first n
+terms) of the series and the term sum is denoted by the Greek letter .
+
+             n
+
+Thus,  Sn =       ur  or  simply by  un.
+
+             r=1
+
+       ILLUSTRATIONS:
+(i) 1 + 3 + 5 + 7 + ............................ is a series in which 1st term = 1, 2nd term = 3 , and so on.
+(ii) 2 ­ 4 + 8 ­16 + ..................... is also a series in which 1st term = 2, 2nd term = ­4 , and so on.
+
+A sequence a1, a2 ,a3, ......, an is called an Arithmetic Progression (A.P.) when a2 ­ a1 = a3 ­ a2 = .....
+= an ­ an­1. That means A. P. is a sequence in which each term is obtained by adding a constant d
+to the preceding term. This constant `d' is called the common difference of the A.P. If 3 numbers a,
+b, c are in A.P., we say
+
+b ­ a = c ­ b or a + c = 2b; b is called the arithmetic mean between a and c.
+
+Example: 1) 2,5,8,11,14,17,...... is an A.P. in which d = 3 is the common diference.
+              2) 15,13,11,9,7,5,3,1,­1, is an A.P. in which ­2 is the common difference.
+
+Solution: In (1) 2nd term = 5 , 1st term = 2, 3rd term = 8,
+so 2nd term ­ 1st term = 5 ­ 2 = 3, 3rd term ­ 2nd term = 8 ­ 5 = 3
+Here the difference between a term and the preceding term is same that is always constant. This
+constant is called common difference.
+Now in generel an A.P. series can be written as
+
+      a, a + d, a + 2d, a + 3d, a + 4d, ......
+where `a' is the 1st term and `d' is the common difference.
+Thus 1st term ( t1 ) = a = a + ( 1 ­ 1 ) d
+
+         2nd term ( t2 ) = a + d = a + ( 2 ­ 1 ) d
+         3rd term (t3) = a + 2d = a + (3 ­ 1) d
+
+   © The Institute of Chartered Accountants of India
+6.4  BUSINESS MATHEMATICS
+
+         4th term (t4) = a + 3d = a + (4 ­ 1) d
+         ....................................................
+         nth term (tn) = a + ( n ­ 1) d, where n is the position number of the term.
+Using this formula we can get
+      50th term (= t50) = a+ (50 ­ 1) d = a + 49d
+Example 1: Find the 7th term of the A.P. 8, 5, 2, ­1, ­4,.....
+Solution: Here a = 8, d = 5 ­ 8 = ­3
+
+               Now t7 = 8 + (7 ­ 1) d
+                             = 8 + (7 ­ 1) (­ 3)
+                             = 8 + 6 (­ 3)
+                             = 8 ­ 18
+                             = ­ 10
+
+Example 2: Which term of the AP        3,               4,  5 ............is 17 ?
+                                       7                7   7     7
+
+               3       43 1            7 , tn =             17
+                  , d= -            =
+Solution: a =  7       7         7                             7
+
+We may write
+
+     17 = 3  (n - 1)  1
+     77                7
+
+or, 17 = 3 + ( n ­ 1)
+
+or, n = 17 ­ 2 = 15
+
+Hence, 15th term of the A.P. is  17 .
+                                  7
+
+Example 3: If 5th and 12th terms of an A.P. are 14 and 35 respectively, find the A.P.
+
+Solution: Let a be the first term & d be the common difference of A.P.
+
+      t5 = a + 4d = 14
+      t12 = a + 11d = 35
+On solving the above two equations,
+
+7d = 21 = i.e., d = 3
+
+and a = 14 ­ (4 × 3) = 14 ­ 12 = 2
+
+     © The Institute of Chartered Accountants of India
+                        SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS  6.5
+
+Hence, the required A.P. is 2, 5, 8, 11, 14,...............
+
+Example 4: Divide 69 into three parts which are in A.P. and are such that the product of the first
+two parts is 483.
+
+Solution: Given that the three parts are in A.P., let the three parts which are in A.P. be a ­ d, a,
+a + d.........
+
+Thus a ­ d + a + a + d = 69
+
+or 3a = 69
+
+or a = 23
+
+So the three parts are 23 ­ d, 23, 23 + d
+
+Since the product of first two parts is 483, therefore, we have
+
+        23 ( 23 ­ d ) = 483
+
+or 23 ­ d = 483 / 23 = 21
+
+or d = 23 ­ 21 = 2
+
+Hence, the three parts which are in A.P. are
+
+        23 ­ 2 = 21, 23, 23 + 2 = 25
+
+Hence the three parts are 21, 23, 25.
+
+Example 5: Find the arithmetic mean between 4 and 10.
+
+Solution: We know that the A.M. of a & b is = ( a + b ) /2
+
+Hence, The A. M between 4 & 10 = ( 4 + 10 ) /2 = 7
+
+Example 6: Insert 4 arithmetic means between 4 and 324.
+
+    4, ­, ­, ­, ­, 324
+
+Solution: Here a= 4, d = ? n = 2 + 4 = 6, tn = 324
+
+Now         tn = a + ( n ­ 1 ) d
+
+or          324= 4 + ( 6 ­ 1 ) d
+
+or          320= 5d i.e., = i.e., d = 320 / 5 = 64
+
+So the      1st AM = 4 + 64 = 68
+
+            2nd AM = 68 + 64 = 132
+
+            3rd AM = 132 + 64 = 196
+
+            4th AM = 196 + 64 = 260
+
+Sum of the first n terms
+
+Let S be the Sum, a be the 1st term and  the last term of an A.P. If the number of term is n, then tn
+= . Let d be the common difference of the A.P.
+
+Now S = a + ( a + d ) + ( a + 2d ) + .. + (  ­ 2d ) + (  ­ d ) + 
+Again S =  + (  ­ d ) + (  ­ 2d ) + .... + ( a + 2d ) + ( a + d ) + a
+
+© The Institute of Chartered Accountants of India
+6.6          BUSINESS MATHEMATICS
+
+On adding the above, we have
+
+2S = ( a +  ) + ( a +  ) + ( a +  ) + ...... + ( a +  )
+
+= n( a +  )     S = n( a +  ) / 2
+or
+
+Note: The above formula may be used to determine the sum of n terms of an A.P. when the first
+term a and the last term is given.
+
+       Now  = tn = a + ( n ­ 1 ) d
+
+        S = n{a + a + (n - 1)d}
+                         2
+
+or     S= n 2a +(n - 1)d
+
+           2
+
+Note: The above formula may be used when the first term a, common difference d and the number
+of terms of an A.P. are given.
+
+Sum of 1st n natural or counting numbers
+
+                S = 1 + 2 + 3 + ....... +....... ( n ­ 2 )      +(n­1)+n
+
+Again           S = n + ( n ­ 1 ) + ( n ­ 2 ) + ......... + 3 + 2                 +1
+
+On adding the above, we get
+
+                2S = ( n + 1 ) + ( n + 1 ) +....... to n terms
+
+       or 2S = n ( n + 1 )
+
+                S = n( n + 1 )/2
+
+                Then Sum of first n natural number is n( n + 1 ) / 2
+
+                                                  n(n + 1)
+                i.e. 1 + 2 + 3 + ........ + n = 2 .
+
+Sum of 1st n odd number
+         S = 1 + 3 + 5 + ...... + ( 2n ­ 1 )
+
+Sum of first n odd number
+S = 1 + 3 + 5 + ...... + ( 2n ­ 1 )
+Since S = n{ 2a + ( n ­1 ) d } / 2, we find
+
+             n                      n
+       S = { 2.1 + ( n ­ 1 ) 2 } = ( 2n ) = n2
+             2                      2
+
+or     S = n2
+
+Then sum of first, n odd numbers is n2, i.e. 1 + 3 + 5 + ..... + ( 2n ­ 1 ) = n2
+Sum of the Squares of the first n natural nos.
+Let S = 12 + 22 + 32 + ...... + n2
+
+     © The Institute of Chartered Accountants of India
+                  SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS                              6.7
+
+We know m3 ­ ( m ­ 1 ) 3 = 3m2 ­ 3m + 1
+We put m = 1, 2, 3,......,n
+
+                  13 ­ 0 = 3.12 ­ 3.1 + 1
+                  23 ­ 13 = 3.22 ­ 3.2 + 1
+                  33 ­ 23 = 3.32 ­ 3.3 + 1
+                  ................................
+
+                  + n3 ­ ( n ­ 1 ) 3 = 3n2 ­ 3.n + 1
+
+              Adding both sides term by term,
+
+                       n3 = 3S ­ 3 n ( n + 1 ) / 2 + n
+              or 2n3 = 6S ­ 3n2 ­ 3n + 2n
+              or 6S = 2n3 + 3n2 + n
+              or 6S = n ( 2n2 + 3n + 1 )
+              or 6S = n ( n + 1 ) ( 2n + 1 )
+
+                  S = n( n + 1 )( 2n + 1 ) / 6
+
+Thus sum of the squares of the first n natural numbers is          n(n + 1) (2n + 1)
+
+                                                                        6
+
+i.e. 12 + 22 + 32 + ........ + n2 =  n(n + 1) (2n + 1)  .
+
+                                        6                                   n(n +1) 2
+
+Similarly, sum of the cubes of first n natural numbers can be found out as                by taking
+                                                                           2 
+the identity
+
+m4 ­ ( m ­ 1 ) 4 = 4m3 ­ 6m2 + 4m ­ 1 and putting m = 1, 2, 3,...., n.
+
+Thus
+
+                                      n(n + 1) 2
+13 + 23 + 33 + .... + n3 =                 
+                                     2     
+
+Choose the most appropriate option ( a ), ( b ) , ( c ) or (d).
+
+1. The nth element of the sequence 1, 3, 5, 7,.........is
+
+(a) n                                (b) 2n ­ 1            (c) 2n +1                  (d) none of these
+                                                                                      (d) none of these
+2. The nth element of the sequence ­1, 2, ­4, 8 ..... is
+
+(a) ( ­1 )n2 n­1                     (b) 2 n­1             (c) 2n
+
+            7
+
+3.  2i -1 can be written as
+          i=4
+
+(a) 7 + 9 + 11 + 13                                        (b) 2 7 + 2 9 + 2 11 + 2 13
+(c) 2 7 + 2 9 + 2 11 + 2 13                                (d) none of these.
+
+© The Institute of Chartered Accountants of India
+6.8          BUSINESS MATHEMATICS
+
+4. The sum to  of the series ­5, 25, ­125 , 625, ..... can be written as
+
+                                                                  (c)             5  k     (d) none of these
+
+     (a)  (-5) k        (b)  5 k                                          
+               k=1               k=1
+                                                                          k =1
+
+5. The first three terms of sequence when nth term tn is n2 ­ 2n are
+
+     (a) ­1, 0, 3       (b) 1, 0, 2                               (c) ­1, 0, ­3            (d) none of these
+
+6. Which term of the progression ­1, ­3, ­5, .... is ­39
+
+     (a) 21st           (b) 20th                                  (c) 19th                 (d) none of these
+
+7. The value of x such that 8x + 4, 6x ­ 2, 2x + 7 will form an AP is
+
+     (a) 15             (b) 2                                     (c) 15/2                 (d) none of the these
+
+8. The mth term of an A. P. is n and nth term is m. The rth term of it is
+
+     (a) m + n +r       (b) n + m ­ 2r                            (c) m + n + r/2          (d) m + n ­ r
+
+                                                             21
+9.   The number of the terms of the series 10 +              9    +  9    + 9 + ............will amount to 155 is
+                                                               3       3
+
+     (a) 30             (b) 31                                    (c) 32                   (d) none of these
+
+10. The nth term of the series whose sum to n terms is 5n2 + 2n is
+
+     (a) 3n ­ 10        (b) 10n ­ 2                               (c) 10n ­ 3              (d) none of these
+
+11. The 20th term of the progression 1, 4, 7, 10.................is
+
+     (a) 58             (b) 52                                    (c) 50                   (d) none of these
+
+12. The last term of the series 5, 7, 9,..... to 21 terms is
+
+     (a) 44             (b) 43                                    (c) 45                   (d) none of these
+                                                                                           (d) none of these
+13. The last term of the A.P. 0.6, 1.2, 1.8,... to 13 terms is                             (d) none of these
+
+     (a) 8.7            (b) 7.8                                   (c) 7.7
+
+14. The sum of the series 9, 5, 1,.... to 100 terms is
+
+     (a) ­18,900        (b) 18,900                                (c) 19,900
+
+15. The two arithmetic means between ­6 and 14 is
+
+     (a) 2/3, 1/3       (b)        2/3,                 71        (c)  ­  2/3,    ­7    1  (d) none of these
+                                                          3                             3
+
+16. The sum of three integers in AP is 15 and their product is 80. The integers are
+
+     (a) 2, 8, 5        (b) 8, 2, 5                               (c) 2, 5, 8              (d) 8, 5, 2
+
+17. The sum of n terms of an AP is 3n2 + 5n. The series is
+
+     (a) 8, 14, 20, 26  (b) 8, 22, 42, 68                         (c) 22, 68, 114, ....    (d) none of these
+
+18. The number of numbers between 74 and 25,556 divisible by 5 is
+
+     (a) 5,090          (b) 5,097                                 (c) 5,095                (d) none of these
+
+19. The pth term of an AP is (3p ­ 1)/6. The sum of the first n terms of the AP is
+
+     (a) n (3n + 1)     (b) n(3n + 1)/12                          (c) n/12 (3n ­ 1)        (d) none of these
+
+20. The arithmetic mean between 33 and 77 is
+
+     (a) 50             (b) 45                                    (c) 55                   (d) none of these
+
+     © The Institute of Chartered Accountants of India
+                  SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS             6.9
+
+21. The 4 arithmetic means between ­2 and 23 are
+
+(a) 3, 13, 8, 18  (b) 18, 3, 8, 13                (c) 3, 8, 13, 18   (d) none of these
+
+22. The first term of an A.P is 14 and the sums of the first five terms and the first ten terms are
+      equal in magnitude but opposite in sign. The 3rd term of the AP is
+
+(a)  6  4         (b) 6                           (c) 4/11           (d) none of these
+        11
+
+23. The sum of a certain number of terms of an AP series ­8, ­6, ­4, ...... is 52. The number of
+
+terms is
+
+(a) 12            (b) 13                          (c) 11             (d) none of these
+
+24. The first and the last term of an AP are ­4 and 146. The sum of the terms is 7171. The number
+
+of terms is
+
+(a) 101           (b) 100                         (c) 99             (d) none of these
+
+25. The sum of the series 3 ½ + 7 + 10 ½ + 14 + .... to 17 terms is
+
+(a) 530           (b) 535                         (c) 535 ½          (d) none of these
+
+If in a sequence of terms each term is constant multiple of the proceeding term, then the sequence
+is called a Geometric Progression (G.P). The constant multiplier is called the common ratio
+Examples: 1) In 5, 15, 45, 135,..... common ratio is 15/5 = 3
+
+               2) In 1, 1/2, 1/4, 1/9 ... common ratio is (1/2) /1 = 1/2
+               3) In 2, ­6, 18, ­54, .... common ratio is (­6) / 2 = ­3
+Illustrations: Consider the following series :­
+(i) 1 + 4 + 16 + 64 + ................
+Here second term / first term = 4/1 = 4; third term / second term = 16/4 = 4
+fourth term/third term = 64/16 = 4 and so on.
+Thus, we find that, in the entire series, the ratio of any term and the term preceding it, is a
+constant.
+(ii) 1/3 ­ 1/9 + 1/27 ­ 1/81 + .............
+Here second term / 1st term = (­1/9) / ( 1/3) = ­1/3
+third term / second term = ( 1/27 ) / ( ­1/9 ) = ­1/3
+fourth term / third term = ( ­1/81 ) / (1/27 ) = ­1/3 and so on.
+Here also, in the entire series, the ratio of any term and the term preceding one is constant.
+The above mentioned series are known as Geometric Series.
+Let us consider the sequence a, ar, ar2, ar3, ....
+1st term = a, 2nd term = ar = ar 2­1, 3rd term = ar2 = ar3­1, 4th term = ar3 = ar 4 ­1, .....
+
+   © The Institute of Chartered Accountants of India
+6.10       BUSINESS MATHEMATICS
+
+Similarly  nth term of GP tn = ar n­1
+
+Thus, common ratio =       Any term = t n
+                        Preceding term t n-1
+
+                        = ar n­1/ar n­2 = r
+
+Thus, general term of a G.P is given by ar n­1 and the general form of G.P. is
+
+a + ar + ar2 + ar3 +....... ....
+
+For example, r =  t2 = ar
+                  t1 a
+
+So    r=  t2 = t3 = t4  = ....
+          t1 t2 t3
+
+Example 1: If a, ar, ar2, ar3, .... be in G.P. Find the common ratio.
+
+Solution: 1st term = a, 2nd term = ar
+
+Ratio of any term to its preceding term = ar/a = r = common ratio.
+
+Example 2: Which term of the progression 1, 2, 4, 8,... is 256?
+
+Solution: a = 1, r = 2/1 = 2, n = ? tn = 256
+
+           tn = ar n­1
+
+or    256 = 1 × 2 n­1 i.e., 28 = 2 n­1 or, n ­ 1 = 8 i.e., n = 9
+
+      Thus 9th term of the G. P. is 256
+
+If a, b, c are in G.P we get b/a = c/b => b2 = ac, b is called the geometric mean between a
+and c
+
+Example 1: Insert 3 geometric means between 1/9 and 9.
+
+Solution: 1/9, ­, ­, ­, 9
+
+we know    a = 1/9, r = ?, n = 2 + 3 = 5, tn = 9
+or         tn = ar n­1
+           1/9 × r 5­1 = 9
+
+or         r4 = 81 = 34 => r = 3
+
+Thus       1st G. M = 1/9 × 3 = 1/3
+
+           2nd G. M = 1/3 × 3 = 1
+
+           3rd G. M = 1× 3 = 3
+
+      © The Institute of Chartered Accountants of India
+                       SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS                        6.11
+
+Example 2: Find the G.P where 4th term is 8 and 8th term is 128/625
+
+Solution: Let a be the 1st term and r be the common ratio.
+
+    By the question t4 = 8 and t8 = 128/625
+
+So  ar3 = 8 and ar7 = 128 / 625
+
+Therefore ar7 / ar3 =  128      => r4 = 16 / 625 =( +2/5 )4 => r = 2/5 and ­2 /5
+
+                       625 ´ 8
+
+Now ar3 = 8 => a × (2/5) 3 = 8 => a = 125
+
+Thus the G. P is
+
+    125, 50, 20, 8, 16/5, ...........
+
+When r = ­2/5 , a = ­125 and the G.P is ­125, 50, ­20, 8, ­16/5 ,.........
+
+Finally, the G.P. is 125, 50, 20, 8, 16/5, ...........
+
+    or, ­125, 50, ­20, 8, ­16/5,.........
+
+Sum of first n terms of a G P
+
+Let a be the first term and r be the common ratio. So the first n terms are a, ar, ar2, ...... ar n­1.
+
+If S be the sum of n terms,
+
+      Sn = a + ar + ar2 + ......+ ar n­1 (i) ............................................
+Now rSn = ar + ar2 + ..... + ar n­1 + arn (ii) ......................................
+Subtracting (i) from (ii)
+
+Sn ­ rSn = a ­ ar n
+or Sn(1 ­ r) = a (1 ­ rn)
+
+or  Sn = a ( 1 ­ rn) / ( 1 ­ r ) when r < 1
+
+    Sn = a ( rn ­ 1 ) / ( r ­ 1 ) when r > 1
+
+If r = 1 , then Sn = a + a + a+ ........... to n terms
+                      = na
+
+If the nth term of the G. P be l then  = arn­1
+
+                                                                           r - a
+Therefore, Sn = (arn ­a ) / (r ­ 1) = (a rn ­1 r ­a) / (r ­ 1) = r - 1
+
+So, when the last term of the G. P is known, we use this formula.
+
+Sum of infinite geometric series
+
+S = a ( 1 ­ rn ) / (1 ­ r) when r < 1
+
+    = a (1 ­ 1/Rn) / ( 1 ­ 1/R ) (since r < 1 , we take r = 1/R).
+
+© The Institute of Chartered Accountants of India
+6.12        BUSINESS MATHEMATICS
+
+If n   , 1/Rn  0
+
+            S     a   r<1
+      Thus     =,
+                 1­r
+
+                                             a
+i.e. Sum of G.P. upto infinity is 1 ­ r , where r < 1
+
+                 a
+Also, S  = 1 ­ r , if -1<r<1.
+
+Example 1: Find the sum of 1 + 2 + 4 + 8 + ... to 8 terms.,
+
+Solution: Here a = 1, r = 2/1 = 2 , n = 8
+
+            Let S = 1 + 2 + 4 + 8 + ...... to 8 terms
+
+                  = 1 ( 28 ­ 1 ) / ( 2 ­ 1 ) = 28 ­ 1 = 255
+
+Example 2: Find the sum to n terms of                    6 + 27 + 128 + 629 + .......
+
+Solution: Required Sum= ( 5 + 1 ) + (52 + 2 ) + ( 53 +3 ) + ( 54 + 4 ) + ... to n terms
+
+                               = ( 5 + 52 +53 + ...... + 5n ) + ( 1 + 2 + 3 + .. + n terms)
+
+                               = {5 ( 5n ­ 1 ) / (5 ­ 1 )} + {n ( n + 1 ) / 2}
+
+                               = {5 ( 5n ­ 1 ) /4} + {n ( n + 1 ) / 2}
+
+Example 3: Find the sum to n terms of the series
+               3 + 33 + 333 + .......
+
+Solution: Let S denote the required sum.
+
+i.e. S = 3 + 33 + 333 + .............. to n terms
+              = 3 (1 + 11 + 111 + ....... to n terms)
+
+               3
+            = 9 (9 + 99 + 999 + .... to n terms)
+
+               3
+            = 9 {( 10 ­ 1 ) + ( 102 ­ 1 ) + ( 103 ­ 1 ) + ... + ( 10n ­ 1 )}
+
+               3
+            = 9 {( 10 + 102 + 103 + .... + 10n ) ­ n}
+
+               3
+            = 9 {10 ( 1 + 10 + 102 + ... + 10 n­1 ) ­ n}
+
+               3
+            = 9 [{10 ( 10n ­ 1 ) / (10 ­ 1)} ­ n]
+
+               3
+            = 81 (10 n+1 ­ 10 ­ 9n)
+
+      © The Institute of Chartered Accountants of India
+             SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS                 6.13
+
+                  1
+             = 27 (10 n+1 ­ 9n ­ 10)
+Example 4: Find the sum of n terms of the series 0.7 + 0.77 + 0.777 + .... to n terms
+Solution: Let S denote the required sum.
+i.e. S = 0.7 + 0.77 + 0.777 + ..... to n terms
+          = 7 (0.1 + 0.11 + 0.111 + .... to n terms)
+
+              7
+          = 9 (0.9 + 0.99 + 0.999 + ... to n terms )
+
+          7
+       = 9 {(1 ­ 1/10 ) + ( 1 ­ 1/102 ) + ( 1 ­ 1/103 ) + ... + ( 1 ­ 1/ 10n )}
+
+       7  1
+       = 9 {n ­ 10 ( 1 + 1/10 + 1/102 + .... + 1/10 n­1)}
+
+       7  1
+So S = 9 {n ­ 10 ( 1 ­ 1/10n )/(1 ­ 1/10 ) }
+
+          7
+       = 9 {n ­ ( 1 ­ 10 ­n ) / 9 ) }
+
+              7
+          = 81 {9n ­ 1 + 10 ­n }
+Example 5: Evaluate 0.2175 using the sum of an infinite geometric series.
+
+Solution: 0.2175 = 0.2175757575 .......
+
+          0.2175 = 0.21 + 0.0075 + 0.000075 + ....
+
+                    = 0.21 + 75 ( 1 + 1/102 + 1/104 + .... ) / 104
+
+                    = 0.21 + 75 {1 / (1­ 1/102} / 104
+
+                    = 0.21 + (75/104) × 102 /99
+
+                    =21/100 + (¾ ) × (1/99 )
+
+                    = 21/100 + 1/132
+
+                    = ( 693 + 25 )/3300 = 718/3300 = 359/1650
+
+Example 6: Find three numbers in G. P whose sum is 19 and product is 216.
+
+Solution: Let the 3 numbers be a/r, a, ar.
+
+According to the question a/r × a × ar = 216
+
+or a3 = 63 => a =6
+
+So the numbers are 6/r, 6, 6r
+
+Again     6/r + 6 + 6r = 19
+
+© The Institute of Chartered Accountants of India
+6.14           BUSINESS MATHEMATICS
+
+or                6/r + 6r = 13
+
+or                6 + 6r2 = 13r
+
+or                6r2 ­ 13r + 6 = 0
+
+or                6r2 ­ 4r ­ 9r + 6 = 0
+
+or                2r(3r ­2) ­ 3 (3r ­ 2) = 2
+
+or                (3r ­ 2) (2r ­ 3) = 0 or, r = 2/3 , 3/2
+
+So the numbers are
+
+                  6/(2/3), 6, 6 × (2/3 ) = 9 , 6 , 4
+
+or                6/(3/2), 6 , 6 × (3/2) = 4 , 6 , 9
+
+Choose the most appropriate option (a), (b), (c) or (d)
+
+1. The 7th term of the series 6, 12, 24,......is
+
+      (a) 384                    (b) 834                                  (c) 438       (d) none of these
+                                                                                        (c) none of these
+2. t8 of the series 6, 12, 24,...is                                                     (d) none of these
+                                                                                        (d) none of these
+      (a) 786                    (b) 768                                  (c) 867       (d) none of these
+                                                                                        (d) none of these
+3. t12 of the series ­128, 64, ­32, ....is                                              (d) none of these
+                                                                                        (d) none of these
+      (a) ­ 1/16                 (b) 16                                   (c) 1/16
+                                                                                        (d) none of these
+4. The 4th term of the series 0.04, 0.2, 1, ... is
+                                                                                        (d) none of these
+      (a) 0.5                    (b) 1/2                                  (c) 5
+
+5. The last term of the series 1, 2, 4,.... to 10 terms is
+
+      (a) 512                    (b) 256                                  (c) 1024
+
+6. The last term of the series 1, ­3, 9, ­27 up to 7 terms is
+
+      (a) 297                    (b) 729                                  (c) 927
+
+7. The last term of the series x2, x, 1, .... to 31 terms is
+
+      (a) x28                    (b) 1/x                                  (c) 1/x28
+
+8. The sum of the series ­2, 6, ­18, .... to 7 terms is
+
+      (a) ­1094                  (b) 1094                                 (c) ­ 1049
+
+9. The sum of the series 243, 81, 27, .... to 8 terms is
+
+                                           36  13                                    1
+      (a) 36                     (b)           30                         (c)    36
+                                                                                    9
+
+10.   The sum of the series      1 +1+     3             +  ......to  18  terms  is
+                                 3         3
+
+                  (1 + 3)        (b) 9841                                       9841
+      (a) 9841 3                                                          (c) 3
+
+      © The Institute of Chartered Accountants of India
+              SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS                            6.15
+
+11. The second term of a G P is 24 and the fifth term is 81. The series is
+
+(a) 16, 36, 24, 54,..  (b) 24, 36, 53,...               (c) 16, 24, 36, 54,..   (d) none of these
+
+12. The sum of 3 numbers of a G P is 39 and their product is 729. The numbers are
+
+(a) 3, 27, 9           (b) 9, 3, 27                     (c) 3, 9, 27            (d) none of these
+
+13. In a G. P, the product of the first three terms is 27/8. The middle term is
+
+(a) 3/2                (b) 2/3                          (c) 2/5                 (d) none of these
+
+14. If you save 1 paise today, 2 paise the next day 4 paise the succeeding day and so on, then
+
+your total savings in two weeks will be
+
+(a) ` 163              (b) ` 183                        (c) ` 163.83            (d) none of these
+
+15. Sum of n terms of the series 4 + 44 + 444 + ... is
+
+(a) 4/9 { 10/9 ( 10n ­1 ) ­n }                          (b) 10/9 ( 10n ­1 ) ­n
+
+(c) 4/9 ( 10n ­1 ) ­n                                   (d) none of these
+
+16. Sum of n terms of the series 0.1 + 0.11 + 0.111 + ... is
+
+(a) 1/9 {n ­ ( 1­ ( 0.1 )n )}                           (b) 1/9 {n ­ (1­(0.1)n)/9}
+
+(c) n­ 1 ­ (0.1)n/9                                     (d) none of these
+
+17. The sum of the first 20 terms of a G. P is 244 times the sum of its first 10 terms. The common
+      ratio is
+
+(a) ± 3                (b) ±3                           (c) 3                   (d) none of these
+
+18. Sum of the series 1 + 3 + 9 + 27 +....is 364. The number of terms is
+
+(a) 5                  (b) 6                            (c) 11                  (d) none of these
+
+19. The product of 3 numbers in G P is 729 and the sum of squares is 819. The numbers are
+
+(a) 9, 3, 27           (b) 27, 3, 9                     (c) 3, 9, 27            (d) none of these
+
+20. The sum of the series 1 + 2 + 4 + 8 + .. to n term
+
+(a) 2n ­1              (b) 2n ­ 1                       (c) 1/2n ­ 1            (d) none of these
+
+21. The sum of the infinite GP 14, ­ 2, + 2/7, ­ 2/49, + ... is
+
+(a)  41                (b)      12 1                    (c) 12                  (d) none of these
+       12                          4                                            (d) none of these
+
+22. The sum of the infinite G. P. 1 - 1/3 + 1/9 - 1/27 +... is
+
+(a) 0.33               (b) 0.57                         (c) 0.75
+
+23. The number of terms to be taken so that 1 + 2 + 4 + 8 + will be 8191 is
+
+(a) 10                 (b) 13                           (c) 12                  (d) none of these
+
+24. Four geometric means between 4 and 972 are                                  (d) none of these
+      (a) 12, 36, 108, 324 (b) 12, 24, 108, 320 (c) 10, 36, 108, 320
+
+       ILLUSTRATIONS:
+
+(I) A person is employed in a company at ` 3000 per month and he would get an increase of `
+      100 per year. Find the total amount which he receives in 25 years and the monthly salary in
+      the last year.
+
+© The Institute of Chartered Accountants of India
+6.16  BUSINESS MATHEMATICS
+
+      SOLUTION:
+
+      He gets in the 1st year at the Rate of 3000 per month;
+      In the 2nd year he gets at the rate of ` 3100 per month;
+      In the 3rd year at the rate of ` 3200 per month so on.
+      In the last year the monthly salary will be
+      ` {3000 + ( 25 ­ 1 ) × 100} = ` 5400
+
+                                                                n
+Total amount = ` 12 (3000 + 3100 + 3200 +... + 5400) Use Sn = 2 (a+l)
+
+      = ` 12 × 25/2 (3000 + 5400)
+
+      = ` 150 × 8400
+
+      = ` 12,60,000
+
+(II) A person borrows ` 8,000 at 2.76% Simple Interest per annum. The principal and the interest
+      are to be paid in the 10 monthly instalments. If each instalment is double the preceding one,
+      find the value of the first and the last instalment.
+
+      SOLUTION:
+
+      Interest to be paid = 2.76 × 10 × 8000 / 100 × 12 = ` 184
+      Total amount to be paid in 10 monthly instalment is ` (8000 + 184) = ` 8184
+      The instalments form a G P with common ratio 2 and so ` 8184 = a (210 ­ 1 ) / ( 2 ­ 1 ),
+      a = 1st instalment
+      Here a = ` 8184 / 1023 = ` 8
+      The last instalment = ar 10--1 = 8 × 29 = 8 × 512 = ` 4096
+
+ Sequence: An ordered collection of numbers a1, a2, a3, a4, ................., an, ................. is a
+      sequence if according to some definite rule or law, there is a definite value of an , called the
+      term or element of the sequence, corresponding to any value of the natural number n.
+
+ An expression of the form a1 + a2 + a3 + ..... + an + ............................ which is the sum of the
+      elements of the sequence { an } is called a series. If the series contains a finite number of
+      elements, it is called a finite series, otherwise called an infinite series.
+
+ Arithmetic Progression: A sequence a1, a2 ,a3, ......, an is called an Arithmetic Progression
+      (A.P.) when a2 ­ a1 = a3 ­ a2 = ..... = an ­ an­1. That means A. P. is a sequence in which each
+      term is obtained by adding a constant d to the preceding term. This constant `d' is called
+      the common difference of the A.P. If 3 numbers a, b, c are in A.P., we say
+
+      b ­ a = c ­ b or a + c = 2b; b is called the arithmetic mean between a and c.
+
+      nth term ( tn ) = a + ( n ­ 1 ) d,
+
+      © The Institute of Chartered Accountants of India
+      SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS       6.17
+
+      Where a = First Term
+                 d = Common difference= tn- tn-1
+
+      Sum of n terms of AP=
+
+             s = n 2a +(n - 1)d
+
+                         2
+ Sum of the first n terms : Sum of 1st n natural or counting numbers
+
+                 S = n( n + 1 )/2
+      Sum of 1st n odd numbers : S = n2
+      Sum of the Squares of the first, n natural numbers
+
+=  n(n + 1) (2n + 1)
+
+         6
+
+sum of the cubes of the first n natural numbers is
+
+    n(n + 1) 2
+            
+      2     
+
+ Geometric Progression (G.P). If in a sequence of terms each term is constant multiple
+      of the proceeding term, then the sequence is called a Geometric Progression (G.P). The
+      constant multiplier is called the common ratio
+
+                 = Any term = t n
+                    Preceding term t n-1
+
+                 = ar n­1/ar n­2 = r
+ Sum of first n terms of a G P:
+
+                Sn = a ( 1 ­ rn) / ( 1 ­ r ) when r < 1
+                Sn = a ( rn ­ 1 ) / ( r ­ 1 ) when r > 1
+      Sum of infinite geometric series
+
+   S     a      r<1
+      =,
+        1­r
+
+ A.M. of a & b is = ( a + b ) /2
+
+ If a, b, c are in G.P we get b/a = c/b => b2= ac, b is called the geometric mean between a
+      and c
+
+© The Institute of Chartered Accountants of India
+6.18         BUSINESS MATHEMATICS
+
+Choose the most appropriate option (a), (b), (c) or (d).
+
+1. Three numbers are in AP and their sum is 21. If 1, 5, 15 are added to them respectively, they
+
+      form a G. P. The numbers are
+
+      (a) 5, 7, 9            (b) 9, 5, 7                 (c) 7, 5, 9       (d) none of these
+
+2. The sum of 1 + 1/3 + 1/32 + 1/33 + ... + 1/3 n ­1 is
+
+      (a) 2/3                (b) 3/2                     (c) 4/5           (d) none of these
+
+3. The sum of the infinite series 1 + 2/3 + 4/9 + .. is
+
+      (a) 1/3                (b) 3                       (c) 2/3           (d) none of these
+
+4. The sum of the first two terms of a G.P. is 5/3 and the sum to infinity of the series is 3. The
+
+      common ratio is
+
+      (a) 1/3                (b) 2/3                     (c) ­ 2/3         (d) none of these
+
+5. If p, q and r are in A.P. and x, y, z are in G.P. then xq­r. y r­p. zp­q is equal to
+
+      (a) 0                  (b) ­1                      (c) 1             (d) none of these
+
+6. The sum of three numbers in G.P. is 70. If the two extremes by multiplied each by 4 and the
+
+      mean by 5, the products are in AP. The numbers are
+
+      (a) 12, 18, 40         (b) 10, 20, 40              (c) 40, 20, 10    (d) none of these
+
+7. The sum of 3 numbers in A.P. is 15. If 1, 4 and 19 be added to them respectively, the results
+
+      are is G. P. The numbers are
+
+      (a) 26, 5, ­16         (b) 2, 5, 8                 (c) 5, 8, 2       (d) none of these
+
+8. Given x, y, z are in G.P. and xp = yq = z, then 1/p , 1/q, 1/ are in
+
+      (a) A.P.               (b) G.P.                    (c) Both A.P. and G.P. (d) none of these
+
+9. If the terms 2x, (x+10) and (3x+2) be in A.P., the value of x is
+
+      (a) 7                  (b) 10                      (c) 6             (d) none of these
+
+10. If A be the A.M. of two positive unequal quantities x and y and G be their G. M, then
+
+      (a) A < G              (b) A>G                     (c) A  G          (d) A  G
+
+11. The A.M. of two positive numbers is 40 and their G. M. is 24. The numbers are
+
+      (a) (72, 8)            (b) (70, 10)                (c) (60, 20)      (d) none of these
+
+12. Three numbers are in A.P. and their sum is 15. If 8, 6, 4 be added to them respectively, the
+
+      numbers are in G.P. The numbers are
+
+      (a) 2, 6, 7            (b) 4, 6, 5                 (c) 3, 5, 7       (d) none of these
+
+13. The sum of four numbers in G. P. is 60 and the A.M. of the first and the last is 18. The
+
+      numbers are
+
+      (a) 4, 8, 16, 32       (b) 4, 16, 8, 32            (c) 16, 8, 4, 20  (d) none of these
+
+14. A sum of ` 6240 is paid off in 30 instalments such that each instalment is ` 10 more than the
+
+      preceeding installment. The value of the 1st instalment is
+
+      (a) ` 36               (b) ` 30                    (c) ` 60          (d) none of these
+
+15. The sum of 1.03 + ( 1.03 ) 2 + ( 1.03 ) 3 + .... to n terms is
+
+      (a) 103 {(1.03)n ­ 1}  (b) 103/3 {(1.03 )n ­ 1} (c) (1.03)n ­1       (d) none of these
+
+      © The Institute of Chartered Accountants of India
+                        SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS              6.19
+
+16. If x, y, z are in A.P. and x, y, (z + 1) are in G.P. then
+
+(a) (x ­ z)2 = 4x                  (b) z2 = (x ­ y)        (c) z = x ­ y        (d) none of these
+
+17. The numbers x, 8, y are in G.P. and the numbers x, y, ­8 are in A.P. The value of x and y are
+
+(a) (­8, ­8)                       (b) (16, 4)             (c) (8, 8)           (d) none of these
+
+18. The nth term of the series 16, 8, 4,.... in 1/217. The value of n is
+
+(a) 20                             (b) 21                  (c) 22               (d) none of these
+
+19. The sum of n terms of a G.P. whose first terms 1 and the common ratio is 1/2 , is equal to
+
+1   127  .  The  value  of  n  is
+    128
+
+(a) 7                              (b) 8                   (c) 6                (d) none of these
+
+20.> t4 of a G.P. is x, t10 = y and t16 = z. Then
+
+(a) x2 = yz                        (b) z2 = xy             (c) y2 = zx          (d) none of these
+
+21. If x, y, z are in G.P., then
+
+(a) y2 = xz             (b) y ( z2 + x2 ) = x ( z2 + y2 )         (c) 2y = x+z  (d) none of these
+
+22. The sum of all odd numbers between 200 and 300 is
+
+(a) 11,600                         (b) 12,490              (c) 12,500           (d) 24,750
+
+23. The sum of all natural numbers between 500 and 1000 which are divisible by 13, is
+
+(a) 28,405                         (b) 24,805              (c) 28,540           (d) none of these
+
+24. If unity is added to the sum of any number of terms of the A.P. 3, 5, 7, 9,...... the resulting
+
+sum is
+
+(a) `a' perfect cube (b) `a' perfect square (c) `a' number                      (d) none of these
+
+25. The sum of all natural numbers from 100 to 300 which are exactly divisible by 4 or 5 is
+
+(a) 10,200                         (b) 15,200              (c) 16,200           (d) none of these
+
+26. The sum of all natural numbers from 100 to 300 which are exactly divisible by 4 and 5 is
+
+(a) 2,200                          (b) 2,000               (c) 2,220            (d) none of these
+
+27. A person pays ` 975 by monthly instalment each less then the former by ` 5. The first
+
+instalment is ` 100. The time by which the entire amount will be paid is
+
+(a) 10 months                      (b) 15 months           (c) 14 months        (d) none of these
+
+28. A person saved ` 16,500 in ten years. In each year after the first year he saved ` 100 more
+
+than he did in the preceding year. The amount of money he saved in the 1st year was
+
+(a) ` 1000                         (b) ` 1500              (c) ` 1200           (d) none of these
+
+29. At 10% C.I. p.a., a sum of money accumulate to ` 9625 in 5 years. The sum invested initially
+
+is
+
+(a) ` 5976.37                      (b) ` 5970              (c) ` 5975           (d) ` 5370.96
+
+30. The population of a country was 55 crores in 2005 and is growing at 2% p.a C.I. the population
+      is the year 2015 is estimated as
+
+(a) 5705                           (b) 6005                (c) 6700             (d) none of these
+
+© The Institute of Chartered Accountants of India
+6.20         BUSINESS MATHEMATICS
+
+Exercise 6 (A)        3. (a)         4. (a)              5. (a)   6. (b)         7. (c)   8. (d)
+1. (b) 2. (a)         11. (a)        12. (c)             13. (b)  14. (a)        15. (b)  16. (c),(d)
+9. (a), (b) 10 (c)    19. (b)        20. (c)             21. (c)  22. (a)        23. (b)  24. (a)
+17. (a) 18. (b)
+25. (c)               3. (c)         4. (c)              5. (a)   6. (b)         7. (c)   8. (a)
+                      11. (c)        12. (c)             13. (a)  14. (c)        15. (a)  16. (b)
+Exercise 6 (B)        19. (c)        20. (a)             21. (b)  22. (c)        23. (b)  24. (a)
+1. (a) 2. (b)
+9. (d) 10. (a)        3. (b)         4. (b), (c) 5. (c)           6. (b), (c) 7. (a), (b) 8. (a)
+17. (a) 18. (b)       11. (a)        12. (c) 13. (a)              14. (d) 15. (b) 16. (a)
+                      19. (b)        20. (c) 21. (a)              22. (c) 23. (a) 24. (b)
+Exercise 6 (C)        27. (b)        28. (c) 29. (a)              30. (d)
+1. (a) 2. (d)
+9. (c) 10. (b)
+17. (a), (b) 18. (c)
+25. (c) 26. (a)
+
+1. If a, b, c are in A.P. as well as in G.P. then ­
+
+      (a) They are also in H.P. (Harmonic Progression) (b) Their reciprocals are in A.P.
+
+      (c) Both (a) and (b) are true                               (d) Both (a) and (b) are false
+
+2. If a, b, c be respectively pth, qth and rth terms of an A.P. the value of
+      a(q  r)  b(r  p)  c( p  q) is __________.
+
+      (a) 0                          (b) 1                        (c) ­1         (d) None
+
+3. If the pth term of an A.P. is q and the qth term is p the value of the rth term is_________.
+
+      (a) p ­ q ­ r                  (b) p + q ­ r                (c) p + q + r  (d) None
+
+4. If the pth term of an A.P. is q and the qth term is p the value of the (p + q)th term is_______.
+
+      (a) 0                          (b) 1                        (c) ­1         (d) None
+
+5. The sum of first n natural number is _______.
+
+      (a) (n/2)(n+1)                 (b) (n/6)(n+1)(2n+1) (c) [(n/2)(n+1)]² (d) None
+
+      © The Institute of Chartered Accountants of India
+                SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS                     6.21
+
+6. The sum of square of first n natural number is __________.
+
+(a) (n/2)(n+1)  (b) (n/6)(n+1)(2n+1) (c) [(n/2)(n+1)]² (d) None
+
+7. The sum of cubes of first n natural number is __________.
+
+(a) (n/2)(n+1)  (b) (n/6)(n+1)(2n+1) (c) [(n/2)(n+1)]² (d) None
+
+8. The sum of a series in A.P. is 72 the first term is 17 and the common difference ­2. the
+      number of terms is __________.
+
+(a) 6           (b) 12                             (c) 6 or 12        (d) None
+
+9. Find the sum to n terms of (1-1/n) + (1-2/n) + (1-3/n) +......
+
+(a) ½(n­1)      (b) ½(n+1)                         (c) (n­1)          (d) (n+1)
+
+10. If Sn the sum of first n terms in a series is given by 2n2 + 3n the series is in ______.
+
+(a) A.P.        (b) G.P.                           (c) H.P.           (d) None
+
+11. The sum of all natural numbers between 200 and 400 which are divisible by 7 is ______.
+
+(a) 7,730       (b) 8,729                          (c) 7,729          (d) 8,730
+
+12. The sum of natural numbers upto 200 excluding those divisible by 5 is ________.
+
+(a) 20,100      (b) 4,100                          (c) 16,000         (d) None
+
+13. If a, b, c be the sums of p, q, r terms respectively of an A.P. the value of
+
+     (a/p) (q - r) + (b/q) (r - p) + (c/r) (p - q) is ______.
+
+(a) 0           (b) 1                              (c) ­1             (d) None
+
+14. If S1 , S2 , S3 be the respectively the sum of terms of n, 2n, 3n an A.P. the value of
+     S3 ÷(S2 -S1) is given by ______.
+
+(a) 1           (b) 2                              (c) 3              (d) None
+
+15. The sum of n terms of two A.P.s are in the ratio of (7n-5)/(5n+17) . Then the _______ term of
+      the two series are equal.
+
+(a) 12          (b) 6                              (c) 3              (d) None
+
+16. Find three numbers in A.P. whose sum is 6 and the product is ­24
+
+(a) ­2, 2, 6    (b) ­1, 1, 3                       (c) 1, 3, 5        (d) 1, 4, 7
+
+17. Find three numbers in A.P. whose sum is 6 and the sum of whose square is 44.
+
+(a) ­2, 2, 6    (b) ­1, 1, 3                       (c) 1, 3, 5        (d) 1, 4, 7
+
+© The Institute of Chartered Accountants of India
+6.22         BUSINESS MATHEMATICS
+
+18. Find three numbers in A.P. whose sum is 6 and the sum of their cubes is 232.
+
+      (a) ­2, 2, 6                 (b) ­1, 1, 3                (c) 1, 3, 5              (d) 1, 4, 7
+
+19. Divide 12.50 into five parts in A.P. such that the first part and the last part are in the ratio of
+      2:3
+
+      (a) 2, 2.25, 2.5, 2.75, 3    (b) ­2, ­2.25, ­2.5, ­2.75, ­3
+
+      (c) 4, 4.5, 5, 5.5, 6        (d) ­4, ­4.5, ­5, ­5.5, ­6
+
+20. If a, b, c are in A.P. then the value of (a3 + 4b3 + c3)/[b(a2 + c2 )] is
+
+      (a) 1                        (b) 2                       (c) 3                    (d) None
+
+21. If a, b, c are in A.P. then the value of (a2 + 4ac + c2 )/(ab + bc + ca) is
+
+      (a) 1                        (b) 2                       (c) 3                    (d) None
+
+22. If a, b, c are in A.P. then (a/bc) (b + c), (b/ca) (c + a), (c/ab) (a + b) are in ____________.
+
+      (a) A.P.                     (b) G.P.                    (c) H.P.                 (d) None
+
+23. If a, b, c are in A.P. then a2(b + c), b2(c + a), c2(a + b) are in ________.
+
+      (a) A.P.                     (b) G.P.                    (c) H.P.                 (d) None
+
+24. If (b + c)-1, (c + a)-1, (a + b)-1 are in A.P. then a2 , b2 , c2 are in _________.
+
+      (a) A.P.                     (b) G.P.                    (c) H.P.                 (d) None
+
+25. If a2 , b2 , c2 are in A.P. then (b + c), (c + a), (a + b) are in ________.
+
+      (a) A.P.                     (b) G.P.                    (c) H.P.                 (d) None
+
+26. If a2 , b2 , c2 are in A.P. then a/(b + c), b/(c + a), c/(a + b) are in ____________.
+
+      (a) A.P.                     (b) G.P.                    (c) H.P.                 (d) None
+
+27. If (b + c ­ a)/a, (c + a ­ b)/b, (a + b ­ c)/c are in A.P. then a, b, c are in __________.
+
+      (a) A.P.                     (b) G.P.                    (c) H.P.                 (d) None
+
+28. If (b ­ c)2 , (c ­ a)2 , (a ­ b)2 are in A.P. then (b ­ c), (c ­ a), (a ­ b) are in _______.
+
+      (a) A.P.                     (b) G.P.                    (c) H.P.                 (d) None
+
+      © The Institute of Chartered Accountants of India
+               SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS                       6.23
+
+29. If a b c are in A.P. then (b + c), (c + a), (a + b) are in ________.
+
+(a) A.P.       (b) G.P.                            (c) H.P.               (d) None
+
+30. Find the number which should be added to the sum of any number of terms of the A.P. 3,
+      5, 7, 9, 11 .......resulting in a perfect square.
+
+(a) ­1         (b) 0                               (c) 1                  (d) None
+
+31. The sum of n terms of an A.P. is 2n2 + 3n . Find the nth term.
+
+(a) 4n + 1     (b) 4n - 1                          (c) 2n + 1             (d) 2n - 1
+
+32. The pth term of an A.P. is 1/q and the qth term is 1/p. The sum of the (pq)th term is_______.
+
+(a)  1 (pq+1)  (b)  1 (pq-1)                       (c) pq+1               (d) pq-1
+     2              2
+
+33. The sum of p terms of an A.P. is q and the sum of q terms is p. The sum of p + q terms is
+      ________.
+
+(a) ­ (p + q)  (b) p + q                           (c) (p ­ q)2           (d) p2 ­ q2
+
+34. If S1, S2, S3 be the sums of n terms of three A.P.s the first term of each being unity and the
+      respective common differences 1, 2, 3 then (S1 + S3) / S2 is ______.
+
+(a) 1          (b) 2                               (c) ­1                 (d) None
+
+35. The sum of all natural numbers between 500 and 1000, which are divisible by 13, is _______.
+
+(a) 28,400     (b) 28,405                          (c) 28,410             (d) None
+
+36. The sum of all natural numbers from 100 and 300, which are divisible by 4, is ____.
+
+(a) 10,200     (b) 30,000                          (c) 8,200              (d) 2,200
+
+37. The sum of all natural numbers from 100 to 300 excluding those, which are divisible by 4, is
+      _______.
+
+(a) 10,200     (b) 30,000                          (c) 8,200              (d) 2,200
+
+38. The sum of all natural numbers from 100 to 300, which are divisible by 5, is ______.
+
+(a) 10,200     (b) 30,000                          (c) 8,200              (d) 2,200
+
+39. The sum of all natural numbers from 100 to 300, which are divisible by 4 and 5, is ______.
+
+(a) 10,200     (b) 30,000                          (c) 8,200              (d) 2,200
+
+40. The sum of all natural numbers from 100 to 300, which are divisible by 4 or 5, is ______.
+
+(a) 10,200     (b) 8,200                           (c) 2,200              (d) 16,200
+
+© The Institute of Chartered Accountants of India
+6.24         BUSINESS MATHEMATICS
+
+41. If the n terms of two A.P.s are in the ratio (3n+4) : (n+4) the ratio of the fourth term
+      is ______.
+
+      (a) 2                            (b) 3                  (c) 4                   (d) None
+
+42. If a, b, c, d are in A.P. then
+
+      (a) a2 ­ 3b2 +3c2 ­ d2 =0        (b) a2 +3b2 +3c2 +d2 =0 (c) a2 + 3b2 + 3c2 ­ d2 =0 (d) None
+
+43. If a, b, c, d, e are in A.P. then
+
+      (a) a ­ b ­ d + e = 0            (b) a ­ 2c + e = 0     (c) b ­ 2c + d = 0 (d) all the above
+
+44. The three numbers in A.P. whose sum is 18 and product is 192 are _______.
+
+      (a) 4, 6, 8                      (b) ­4, ­6, ­8         (c) 8, 6, 4             (d) both (a) & (c)
+
+45. The three numbers in A.P., whose sum is 27 and the sum of their squares is 341, are _______.
+
+      (a) 2, 9, 16       (b) 16, 9, 2 (C) both (a) and (b) (d) ­2, ­9, ­16
+
+46. The four numbers in A.P., whose sum is 24 and their product is 945, are _______.
+
+      (a) 3, 5, 7, 9                   (b) 2, 4, 6, 8         (c) 5, 9, 13, 17        (d) None
+
+47. The four numbers in A.P., whose sum is 20 and the sum of their squares is 120, are _______.
+
+      (a) 3, 5, 7, 9                   (b) 2, 4, 6, 8         (c) 5, 9, 13, 17        (d) None
+
+48. The four numbers in A.P. with the sum of second and third being 22 and the product of the
+      first and fourth beinf 85 are _______.
+
+      (a) 3, 5, 7, 9                   (b) 2, 4, 6, 8         (c) 5, 9, 13, 17        (d) None
+
+49. The five numbers in A.P. with their sum 25 and the sum of their squares 135 are _______.
+
+      (a) 3, 4, 5, 6, 7                (b) 3, 3.5, 4, 4.5, 5  (c) ­3, ­4, ­5, ­6, ­7
+
+      (d) ­3, ­3.5, ­4, ­4.5, ­5
+
+50. The five numbers in A.P. with the sum 20 and product of the first and last 15 are _______.
+
+      (a) 3, 4, 5, 6, 7                (b) 3, 3.5, 4, 4.5, 5  (c) ­3, ­4, ­5, ­6, ­7
+
+      (d) ­3, ­3.5, ­4, ­4.5, ­5
+
+51. The sum of n terms of 2, 4, 6, 8..... is
+
+      (a) n(n+1)                       (b) (n/2)(n+1)         (c) n(n­1)              (d) (n/2)(n-1)
+
+52. The sum of n terms of a+b, 2a, 3a­b, ..... is
+
+      (a) n(a­b)+2b                    (b) n(a+b)             (c) both the above (d) None
+
+      © The Institute of Chartered Accountants of India
+                   SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS                   6.25
+
+53. The sum of n terms of (x + y)², (x² + y²), (x ­ y)²,...... is
+
+(a) (x + y)² ­2(n ­ 1)xy  (b) n(x + y)² ­ n(n ­ 1)xy (c) both the above (d) None
+
+54. The sum of n terms of (1/n)(n­1), (1/n) (n­2), (1/n) (n­3)....... is
+
+(a) 0                     (b) (1/2)(n­1)                       (c) (1/2)(n+1)  (d) None
+
+55. The sum of n terms of 1.4, 3.7, 5.10 ....... Is
+
+(a) (n/2)(4n²+5n­1)       (b) n(4n²+5n­1)                      (c) (n/2)(4n²­5n­1) (d) None
+
+56. The sum of n terms of 1², 3², 5², 7²,.......is
+
+(a) (n/3)(4n² ­1)         (b) (n/2)(4n² ­1)                    (c) (n/3)(4n² +1) (d) None
+
+57. The sum of n terms of 1, (1 + 2), (1 + 2 + 3) ........ is
+
+(a) (n/3)(n+1)(n­2)       (b) (n/3)(n+1)(n+2) (c) n(n+1)(n+2) (d) None
+
+58. The sum of n terms of the series 1²/1+(1²+2²)/2+(1²+2²+3²)/3+.......is
+
+(a) (n/36)(4n² +15n+17)                                        (b) (n/12)(4n²+15n+17)
+(c) (n/12)(4n² +15n+17)                                        (d) None
+
+59. The sum of n terms of the series 2.4.6 + 4.6.8 + 6.8.10 + .......... is
+
+(a) 2n(n³+6n²+11n+6)                                           (b) 2n(n³­6n²+11n­6)
+(c) n(n³+6n²+11n+6)                                            (d) n(n³+6n²+11n­ 6)
+
+60. The sum of n terms of the series 1.32 +4.42 +7.52 +10.62 +........ is
+
+(a) (n/12)(n+1)(9n²+49n+44)­8n                                 (b) (n/12)(n+1)(9n²+49n+44)+8n
+
+(c) (n/6)(2n+1)(9n²+49n+44)­8n                                 (d) None
+
+61. The sum of n terms of the series 4 + 6 + 9 + 13 ........ is
+
+(a) (n/6)(n²+3n+20)       (b) (n/6)(n+1)(n+2) (c) (n/3)(n+1)(n+2) (d) None
+
+62. The sum to n terms of the series 11, 23, 59, 167 .........is
+
+(a) 3n+1+5n­3             (b) 3n+1+5n+3                        (c) 3n+5n­3     (d) None
+
+63. The sum of n terms of the series 1/(4.9)+1/(9.14)+1/(14.19)+1/(19.24)+ ........is
+
+(a) (n/4)(5n+4)­1         (b) (n/4)(5n+4)                      (c) (n/4)(5n­4)­1 (d) None
+
+64. The sum of n terms of the series 1 + 3 + 5 + .......... Is
+
+(a) n 2                   (b) 2n2                              (c) n2/2        (d) None
+
+© The Institute of Chartered Accountants of India
+6.26          BUSINESS MATHEMATICS
+
+65. The sum of n terms of the series 2 + 6 + 10 + ....... is
+
+      (a) 2n2                       (b) n 2                   (c) n2/2           (d) 4n2
+
+66. The sum of n terms of the series 1.2 + 2.3 + 3.4 + ....... Is
+
+      (a) (n/3)(n+1)(n+2)           (b) (n/2)(n+1)(n+2) (c) (n/3)(n+1)(n­ 2)(D) None
+
+67. The sum of n terms of the series 1.2.3 + 2.3.4 + 3.4.5 + .......is
+
+      (a) (n/4)(n+1)(n+2)(n+3)                                (b) (n/3)(n+1)(n+2)(n+3)
+
+      (c) (n/2)(n+1)(n+2)(n+3)                                (d) None
+
+68. The sum of n terms of the series 1.2+3.2²+5.2³+7.24+....... is
+
+      (a) (n­1)2n+2­2n+1 +6         (b) (n+1)2n+2­2n+1 +6 (c) (n­1)2n+2­2n+1 ­6 (d) None
+
+69. The sum of n terms of the series 1/(3.8)+1/(8.13)+1/(13.18)+...... is
+
+      (a) (n/3)(5n+3)­1             (b) (n/2)(5n+3)­1         (c) (n/2)(5n­3)­1  (d) None
+
+70. The sum of n terms of the series 1/1+1/(1+2)+1/(1+2+3)+..... is
+
+      (a) 2n( n+1)­1                (b) n(n+1)                (c) 2n(n­1)­1      (d) None
+
+71. The sum of n terms of the series 22+52+82+........ is
+
+      (a) (n/2)(6n2+3n­1)           (b) (n/2)(6n2­3n­1)
+
+      (c) (n/2)(6n2+3n+1)           (d) None
+
+72. The sum of n terms of the series 12+32+52+........ is
+
+      (a)  n  (4n2 ­ 1)             (b) n2(2n2+1)             (c) n(2n­1)        (d) n(2n+1)
+           3
+
+73. The sum of n terms of the series 1.4 + 3.7 + 5.10 + ...... is
+
+      (a)  n  (4n2 + 5n + 5)        (b) (n/2)(5n2+4n­1)
+           3
+
+      (c) (n/2)(4n2+5n+1)           (d) None
+
+74. The sum of n terms of the series 2.32 +5.42 +8.52 + ........ is
+
+      (a) (n/12)(9n3 +62n2 +123n+22)                          (b) (n/12)(9n3 -62n2 +123n-22)
+      (c) (n/6)(9n3 +62n2 +123n+22)                           (d) None
+
+75. The sum of n terms of the series 1 + (1 + 3) + (1 + 3 + 5) + ....... is
+
+      (a) (n/6)(n+1)(2n+1)          (b) (n/6)(n+1)(n+2) (c) (n/3)(n+1)(2n+1) (d) None
+
+      © The Institute of Chartered Accountants of India
+                   SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS                         6.27
+
+76. The sum of n terms of the series 12 +(12 +22 )+(12 +22 +32 )+........ is
+
+(a) (n/12)(n+1)2 (n+2)         (b) (n/12)(n-1)2 (n+2) (c) (n/12)(n2 -1)(n+2)               (d) None
+
+77. The sum of n terms of the series 1+(1+1/3)+(1+1/3+1/32 )+........ is
+
+(a) (3/2)(1-3-n )              (b) (3/2)[n-(1/2)(1-3-n )]        (c) Both        (d) None
+
+78. The sum of n terms of the series n.1+(n-1).2+(n-2).3+ ........ is
+
+(a) (n/6)(n+1)(n+2)            (b) (n/3)(n+1)(n+2) (c) (n/2)(n+1)(n+2) (d) None
+
+79. The sum of n terms of the series 1 + 5 + 12 + 22 + ..... is
+
+(a) (n2 /2)(n+1)               (b) n2 (n+1)                (c) (n 2 /2) (n-1)    (d) None
+
+80. The sum of n terms of the series 4 + 14 + 30 + 52 + 80 + ...... is
+
+(a) n(n+1)2                    (b) n(n-1)2                 (c) n(n2 -1)          (d) None
+
+81. The sum of n terms of the series 3 + 6 + 11 + 20 + 37 + ........ is
+
+(a) 2n+1 + (n/2)(n+1)-2        (b) 2n+1 + (n/2)(n+1)-1 (c) 2n+1 + (n/2)(n-1)-2             (d) None
+
+82. The nth terms of the series is 1/(4.7) + 1/(7.10) + 1/(10.13) + ....... is
+
+(a) (1/3)[(3n+1)-1- (3n+4)-1]                              (b) (1/3)[(3n-1)-1- (3n+4)-1]
+
+(c) (1/3)[(3n+1)-1- (3n-4)-1]                              (d) None
+
+83. In question No.(82) the sum of the series upto n is
+
+(a) (n/4)(3n+4)-1              (b) (n/4)(3n-4)-1           (c) (n/2)(3n+4)-1     (d) None
+
+84. The sum of n terms of the series 12 /1+(12 +22 )/(1+2)+(12 +22 +32 )/(1+2+3)+ .... is
+
+(a) (n/3)(n+2)                 (b) (n/3)(n+1)              (c) (n/3)(n+3)        (d) None
+
+85. The sum of n terms of the series 13 /1+(13 +23 )/2+(13 +23 +33 )/3+ .... is
+
+(a) (n/48)(n+1)(n+2)(3n+5)                                 (b) (n/24)(n+1)(n+2)(3n+5)
+
+(c) (n/48)(n+1)(n+2)(5n+3)                                 (d) None
+
+© The Institute of Chartered Accountants of India
+6.28          BUSINESS MATHEMATICS
+
+86. The value of n2 + 2n[1+2+3+ .....+(n-1)] is
+
+      (a) n3                        (b) n2               (c) n                 (d) None
+
+87. 24n -1 is divisible by          (b) 4                (c) 6                 (d) 64
+      (a) 15                        (b) 4
+                                                         (c) 6                 (d) 64
+88. 3n -2n-1 is divisible by
+      (a) 15
+
+89. n(n-1)(2n-1) is divisible by
+
+      (a) 15                        (b) 4                (c) 6                 (d) 64
+
+90. 72n +16n-1 is divisible by
+
+      (a) 15                        (b) 4                (c) 6                 (d) 64
+
+91. The sum of n terms of the series whose nth term 3n2 +2n is is given by
+
+      (a) (n/2)(n+1)(2n+3)                               (b) (n/2)(n+1)(3n+2)
+
+      (c) (n/2)(n+1)(3n-2)                               (d) (n/2)(n+1)(2n-3)
+
+92. The sum of n terms of the series whose nth term n.2n is is given by
+
+      (a) (n-1)2n+1 +2              (b) (n+1)2n+1 +2     (c) (n-1)2n +2        (d) None
+
+93. The sum of n terms of the series whose nth term 5.3n+1 +2n is is given by
+
+      (a) (5/2)(3n+2 -9)+n(n+1)                          (b) (2/5)(3n+2 -9)+n(n+1)
+
+      (c) (5/2)(3n+2 +9)+n(n+1)                          (d) None
+
+94. If the third term of a G.P. is the square of the first and the fifth term is 64 the series would be
+      ________.
+
+      (a) 4 + 8 + 16 + 32 + ....                         (b) 4 ­ 8 + 16 ­ 32 + ........
+
+      (c) both                                           (d) None
+
+95. Three numbers whose sum is 15 are in A.P. but if they are added by 1, 4, 19 respectively
+      they are in G.P. The numbers are _______.
+
+      (a) 2, 5, 8                   (b) 26, 5, ­16       (c) Both              (d) None
+
+96. If a, b, c are the pth, qth and rth terms of a G.P. respectively the value of aq-r.br-p.cp-q
+
+      is ________
+
+      (a) 0                         (b) 1                (c) ­1                (d) None
+
+      © The Institute of Chartered Accountants of India
+                  SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS                          6.29
+
+97. If a, b, c are in A.P. and x, y, z in G.P. then the value of xb-c .yc-a .za-b is ________
+
+(a) 0                          (b) 1               (c) ­1                    (d) None
+
+98. If a, b, c are in A.P. and x, y, z in G.P. then the value of (xb.yc .za )÷(xc .ya .zb ) is ____
+
+(a) 0                          (b) 1               (c) ­1                    (d) None
+
+99. The sum of n terms of the series 7 + 77 + 777 + ...... is
+
+(a) (7/9)[(1/9)(10n+1 -10)-n]                      (b) (9/10)[(1/9)(10n+1 -10)-n]
+
+(c) (10/9)[(1/9)(10n+1 -10)-n]                     (d) None
+
+100. The least value of n for which the sum of n terms of the series 1 + 3 + 32+ ...... is greater than
+      7000 is ______.
+
+(a) 9                          (b) 10              (c) 8                     (d) 7
+
+101. If `S' be the sum, `P' the product and `R' the sum of the reciprocals of n terms in a G.P. then
+      `P' is the _______ of Sn and R-n.
+
+(a) Arithmetic Mean            (b) Geometric Mean (c) Harmonic Mean (d) None
+
+102. Sum upto of the series 8+4 2 +4+ ..... is
+
+(a) 8(2+ 2 )                   (b) 8(2- 2 )        (c) 4(2+ 2 )              (d) 4(2- 2 )
+
+103. Sum upto of the series 1/2+1/32 +1/23 +1/34 +1/25 +1/36 + ..... is
+
+(a) 19/24                      (b) 24/19           (c) 5/24                  (d) None
+
+104. If 1+a+a2 + ....... = x and 1+b+b2 + ....... = y then 1 + ab + a2b2 + ....... is given by
+
+      __________.
+
+(a) (xy)/(x+y-1)               (b) (xy)/(x-y-1)    (c) (xy)/(x+y+1) (d) None
+
+105. If the sum of three numbers in G.P. is 35 and their product is 1000 the numbers are ____.
+
+(a) 20, 10, 5                  (b) 5, 10, 20       (c) both                  (d) None
+
+106. If the sum of three numbers in G.P. is 21 and the sum of their squares is 189 the numbers are
+      ____.
+
+(a) 3, 6, 12                   (b) 12, 6, 3        (c) both                  (d) None
+
+107. If a, b, c are in G.P. then the value of a(b2 +c2 )-c(a2 +b2 ) is ____
+
+(a) 0                          (b) 1               (c) ­1                    (d) None
+
+© The Institute of Chartered Accountants of India
+6.30         BUSINESS MATHEMATICS
+
+108. If a, b, c, d are in G.P. then the value of b(ab-cd)-(c+a)(b2 -c2 ) is ____
+
+      (a) 0                        (b) 1                        (c) ­1            (d) None
+
+109. If a, b, c, d are in G.P. then the value of (ab+bc+cd)2 -(a2 +b2 +c2 )(b2 +c2 +d2 ) is _________.
+
+      (a) 0                        (b) 1                        (c) ­1            (d) None
+
+110. If a, b, c, d are in G.P. then a+b, b+c, c+d are in
+
+      (a) A.P.                     (b) G.P.                     (c) H.P.          (d) None
+
+111. If a, b, c are in G.P. then a2 +b2 , ab+bc, b2 +c2 are in
+
+      (a) A.P.                     (b) G.P.                     (c) H.P.          (d) None
+
+112. If a, b, x, y, z are positive numbers such that a, x, b are in A.P. and a, y, b are in G.P. and
+      z=(2ab)/(a+b) then
+
+      (a) x, y, z are in G.P.      (b) x  y  z                  (c) both          (d) None
+
+113. If a, b, c are in G.P. then the value of (a-b+c)(a+b+c)2 -(a+b+c)(a2 +b2 +c2 ) is given by
+
+      (a) 0                        (b) 1                        (c) ­1            (d) None
+
+114. If a, b, c are in G.P. then the value of a (b2 +c2 )-c(a2 +b2 ) is given by
+
+      (a) 0                        (b) 1                        (c) ­1            (d) None
+
+115. If a, b, c are in G.P. then the value of a2 b2c2 (a-3 +b-3 +c-3 )-(a3 +b3 +c3 ) is given by
+
+      (a) 0                        (b) 1                        (c) ­1            (d) None
+
+116. If a, b, c, d are in G.P. then (a-b)2 , (b-c)2 , (c-d)2 are in
+
+      (a) A.P.                     (b) G.P.                     (c) H.P.          (d) None
+
+117. If a, b, c, d are in G.P. then the value of (b-c)2 + (c-a)2 + (d-b)2 -(a-d)2 is given by
+
+      (a) 0                        (b) 1                        (c) ­1            (d) None
+
+118. If (a-b), (b-c), (c-a) are in G.P. then the value of (a+b+c)2 -3(ab+bc+ca) is given by
+
+      (a) 0                        (b) 1                        (c) ­1            (d) None
+
+119. If a1/x =b1/y =c1/z and a, b, c are in G.P. then x, y, z are in
+
+      (a) A.P.                     (b) G.P.                     (c) H.P.          (d) None
+
+      © The Institute of Chartered Accountants of India
+                    SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS                        6.31
+
+120. If x = a + a/r + a/r2 + .....   y = b ­ b/r + b/r2 ­ .....   and z = c + c/r2 + c/r4 + .....
+
+  then the value of        xy  ab  is
+                           zc
+
+(a) 0                        (b) 1                 (c) ­1               (d) None
+
+121. If a, b, c are in A.P. a, x, b are in G.P. and b, y, c are in G.P then x2 , b2 , y2 are in
+
+(a) A.P.                     (b) G.P.              (c) H.P.             (d) None
+
+122. If a, b-a, c-a are in G.P. and a=b/3=c/5 then a, b, c are in
+
+(a) A.P.                     (b) G.P.              (c) H.P.             (d) None
+
+123. If a, b, (c+1) are in G.P. and a = (b­c) 2 then a, b, c are in
+
+(a) A.P.                     (b) G.P.              (c) H.P.             (d) None
+
+124. If S1 , S2 , S3 , ........Sn are the sums of infinite G.P.s whose first terms are 1, 2, 3 .....n and
+
+whose common ratios are 1/2, 1/3, ......1/(n+1) then the value of S1 +S2 +S3 + ........Sn is
+
+(a) (n/2) (n+3)              (b) (n/2) (n+2)       (c) (n/2) (n+1)      (d) n2/2
+
+125. The G.P. whose 3rd and 6th terms are 1, ­1/8 respectively is
+
+(a) 4, ­2, 1 .....           (b) 4, 2, 1 .......   (c) 4, ­1, 1/4 ........ (d) None
+
+126. In a G.P. if the (p+ q)th term is m and the (p ­ q)th term is n then the pth term is_________.
+
+(a) (mn)1/2                  (b) mn                (c) (m+n)            (d) (m-n)
+
+127. The sum of n terms of the series is 1/ 3+1+3/ 3 + ....
+
+(a) (1/6) (3+ 3) (3n/2 -1)                         (b) (1/6) ( 3 +1) (3n/2 -1)
+
+(c) (1/6) (3+ 3 ) (3n/2 +1)                        (d) None
+
+128. The sum of n terms of the series 5/2 ­ 1 + 2/5 ­ ...... is
+
+(a) (1/14) (5n +2n )/5n-2    (b) (1/14) (5n -2n )/5n-2 (c) both         (d) None
+                                                                        (d) None
+129. The sum of n terms of the series 0.3 + 0.03 + 0.003 + ........ is
+
+(a) (1/3)(1-1/10n )          (b) (1/3)(1+1/10n ) (c) both
+
+130. The sum of first eight terms of G.P. is five times the sum of the first four terms. The common
+      ratio is __________.
+
+(a) 2                        (b) - 2               (c) both             (d) None
+
+© The Institute of Chartered Accountants of India
+6.32         BUSINESS MATHEMATICS
+
+131. If the sum of n terms of a G.P. with first term 1 and common ratio 1/2 is 1+127/128, the
+      value of n is _______.
+
+      (a) 8                        (b) 5                 (c) 3                 (d) None
+
+132. If the sum of n terms of a G.P. with last term 128 and common ratio 2 is 255, the value of n is
+      _________.
+
+      (a) 8                        (b) 5                 (c) 3                 (d) None
+
+133. How many terms of the G.P. 1, 4, 16 .... are to be taken to have their sum 341?
+
+      (a) 8                        (b) 5                 (c) 3                 (d) None
+
+134. The sum of n terms of the series 5 + 55 + 555 + ........ is
+
+      (a) (50/81) (10n -1)-(5/9)n                        (b) (50/81) (10n +1)-(5/9)n
+
+      (c) (50/81) (10n +1)+(5/9)n                        (d) None
+
+135. The sum of n terms of the series 0.5 + 0.55 + 0.555 + .......... is
+
+      (a) (5/9)n-(5/81)(1-10-n )                         (b) (5/9)n+(5/81)(1-10-n )
+      (c) (5/9)n+(5/81)(1+10-n )                         (d) None
+
+136. The sum of n terms of the series 1.03+1.032 +1.033 + ...... is
+
+      (a) (103/3)(1.03n -1)        (b) (103 / 3)(1.03n  1) (c) (103/3)(1.03n+1 -1) (d) None
+
+137. The sum upto infinity of the series 1/2 + 1/6 + 1/18 + ...... is
+
+      (a) 3/4                      (b) 1/4               (c) 1/2               (d) None
+                                                                               (d) None
+138. The sum upto infinity of the series 4 + 0.8 + 0.16 + ...... is
+
+      (a) 5                        (b) 10                (c) 8
+
+139. The sum upto infinity of the series 2 +1/ 2 +1/(2 2)+ ....... is
+
+      (a) 2 2                      (b) 2                 (c) 4                 (d) None
+                                                                               (d) None
+140. The sum upto infinity of the series 2/3 + 5/9 + 2/27 + 5/81 + ....... is
+
+      (a) 11/8                     (b) 8/11              (c) 3/11
+
+      © The Institute of Chartered Accountants of India
+                     SEQUENCE AND SERIES-ARITHMETIC AND GEOMETRIC PROGRESSIONS                      6.33
+
+141. The sum upto infinity of the series ( 2 +1)+1+( 2-1)+ ...... is
+
+(a) (1/2)(4+3 2)         (b) (1/2)(4-3 2)                  (c) 4+3 2                   (d) None
+
+142. The sum upto infinity of the series (1+2-2 )+(2-1 +2-4 )+(2-2 +2-6 )+ ....... is
+
+(a) 7/3                  (b) 3/7                           (c) 4/7                     (d) None
+
+143. The sum upto infinity of the series 4/7-5/72 +4/73 -5/74 + ....... is
+
+(a) 23/48                (b) 25/48                         (c) 1/2                     (d) None
+
+144. If the sum of infinite terms in a G.P. is 2 and the sum of their squares is 4/3 the series is
+
+(a) 1, 1/2, 1/4 ......   (b) 1, ­1/2, 1/4 ....... (c) ­1, ­1/2, ­1/4 .... (d) None
+
+145. The infinite G.P. with first term 1/4 and sum 1/3 is
+
+(a) 1/4, 1/16, 1/64 ...  (b) 1/4, ­1/16, 1/64 ...(C) 1/4, 1/8, 1/16 .... (d) None
+
+146. If the first term of a G.P. exceeds the second term by 2 and the sum to infinity is 50 the series
+      is __________.
+
+(a) 10, 8, 32/5 ...      (b) 10, 8, 5/2 ...                (c) 10, 10/3, 10/9 .... (d) None
+
+147. Three numbers in G.P. with their sum 130 and their product 27,000 are _________.
+
+(a) 10, 30, 90 ...       (b) 90, 30, 10 ...                (c) both                    (d) None
+
+148. Three numbers in G.P. with their sum 13/3 and sum of their squares 91/9 are ____.
+
+(a) 1/3, 1, 3            (b) 3, 1, 1/3                     (c) both                    (d) None
+
+149. Find five numbers in G.P. such that their product is 32 and the product of the last two is 108.
+
+(a) 2/9, 2/3, 2, 6, 18   (b) 18, 6, 2, 2/3, 2/9 (c) both                               (d) None
+
+150. If the continued product of three numbers in G.P. is 27 and the sum of their products in
+      pairs is 39 the numbers are _________.
+
+(a) 1, 3, 9              (b) 9, 3, 1                       (c) both                    (d) None
+
+151. The numbers x, 8, y are in G.P. and the numbers x, y, ­8 are in A.P. The values of x, y are
+      ___________.
+
+(a) 16, 4                (b) 4, 16                         (c) both                    (d) None
+
+© The Institute of Chartered Accountants of India
+6.34      BUSINESS MATHEMATICS
+
+1. (c)    31. (a)               61. (a)                  91. (a)   121. (a)
+2. (a)    32. (a)               62. (a)                  92. (a)   122. (a)
+3. (b)    33. (a)               63. (a)                  93. (a)   123. (a)
+4. (a)    34. (b)               64. (a)                  94. (c)   124. (a)
+5. (a)    35. (b)               65. (a)                  95. (c)   125. (a)
+6. (b)    36. (a)               66. (a)                  96. (b)   126. (a)
+7. (c)    37. (b)               67. (a)                  97. (b)   127. (a)
+8. (c)    38. (c)               68. (d)                  98. (b)   128. (c)
+9. (a)    39. (d)               69. (a)                  99. (a)   129. (a)
+10. (a)   40. (d)               70. (a)                  100. (a)  130. (c)
+11. (b)   41. (a)               71. (a)                  101. (b)  131. (a)
+12. (c)   42. (a)               72. (a)                  102. (a)  132. (a)
+13. (a)   43. (d)               73. (a)                  103. (a)  133. (b)
+14. (c)   44. (d)               74. (a)                  104. (a)  134. (a)
+15. (b)   45. (c)               75. (a)                  105. (c)  135. (a)
+16. (a)   46. (a)               76. (a)                  106. (c)  136. (a)
+17. (a)   47. (b)               77. (b)                  107. (a)  137. (a)
+18. (a)   48. (c)               78. (a)                  108. (a)  138. (a)
+19. (a)   49. (a)               79. (a)                  109. (a)  139. (a)
+20. (c)   50. (b)               80. (a)                  110. (b)  140. (a)
+21. (b)   51. (a)               81. (a)                  111. (b)  141. (a)
+22. (a)   52. (d)               82. (a)                  112. (c)  142. (a)
+23. (a)   53. (b)               83. (a)                  113. (a)  143. (a)
+24. (a)   54. (b)               84. (a)                  114. (a)  144. (a)
+25. (c)   55. (a)               85. (a)                  115. (a)  145. (a)
+26. (a)   56. (a)               86. (a)                  116. (b)  146. (a)
+27. (c)   57. (d)               87. (a)                  117. (a)  147. (c)
+28. (c)   58. (a)               88. (b)                  118. (a)  148. (c)
+29. (a)   59) (a)               89. (c)                  119. (a)  149. (a)
+30. (c)   60. (a)               90. (d)                  120. (a)  150. (c)
+151. (a)
+
+      © The Institute of Chartered Accountants of India
+

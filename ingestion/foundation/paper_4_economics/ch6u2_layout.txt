@@ -1,0 +1,1608 @@
+a  6.34  BUSINESS ECONOMICS
+
+UNIT - 2: THE KEYNESIAN THEORY
+OF DETERMINATION OF NATIONAL
+
+                    INCOME
+
+                                         LEARNING OUTCOMES
+
+After studying this Unit, you will be able to understand:
+ Define Keynes' concept of equilibrium aggregate income
+ Describe the components of aggregate expenditure in two, three and
+
+       four sector economy models
+ Explain national income determination in two, three and four sector
+
+       economy models
+ Illustrate the functioning of multiplier, and
+ Outline the changes in equilibrium aggregate income on account of
+
+       changes in its determinants.
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                                        6.35  a
+
+UNIT OVERVIEW
+
+                          Determination of
+                           National Income
+
+                     The Keynesian Theory of
+                    Determination of National
+
+                                 Income
+
+  The Two-Sector         The                         Determination of   Determination
+Model for National  Investment                     Equilibrium Income:  of Equilibrium
+                    Multiplier                     Three Sector Model    Income: Four
+        Income                                                          Sector Model
+   Determination
+
+    2.1 INTRODUCTION
+
+In the previous unit on National Income Accounting, we have discussed the importance of
+(GDP) to estimate the macro fundamentals of the country. In this unit, we shall focus on two
+issues namely, the factors that determine the level of national income and the determination
+of equilibrium aggregate income and output in an economy.
+
+The Great Depression of the 1930's, was the greatest economic crisis the western world had
+experienced. The classical economist of the time had no well developed theory that would
+explain persistent unemployment nor any policy prescriptions to solve the problem. Many
+economists then recommended government spending as a way of reducing unemployment,
+but they had no macroeconomic theory by which to justify their recommendations. The history
+of modern macroeconomics was revolutionised in 1936, with the publication of John Maynard
+Keynes's General Theory of Employment, Interest, and Money.
+
+The General Theory of Employment, Interest, and Money was more than a treatise for
+economists. It offered clear policy implications, and they were in tune with the times of the
+
+© The Institute of Chartered Accountants of India
+a  6.36  BUSINESS ECONOMICS
+
+Great Depression. Keynes introduced many of the building blocks of modern
+macroeconomics:
+
+1. The relation of consumption to income, and the multiplier, which explains how shocks
+         to aggregate demand can be amplified and lead to larger shifts in output.
+
+2. Liquidity Preference ( the term Keynes gave to the demand for money), which explains
+         how monetary policy can affect interest rates and aggregate demand.
+
+3. The importance of expectations in affecting consumption and investment; and the idea
+         that shifts in expectations are a major factor behind shifts to demand and output.
+
+The Keynesian theory of income determination is presented in three models:
+(i) The two-sector model consisting of the household and the business sectors,
+(ii) The three-sector model consisting of household, business and government sectors, and
+(iii) The four-sector model consisting of household, business, government and foreign sectors
+
+Before we attempt to explain the determination of income in each of the above models, it is
+pertinent that we understand the concept of circular flow in an economy which explains the
+functioning of an economy.
+
+    2.2 CIRCULAR FLOW IN A SIMPLE TWO-SECTOR
+             MODEL
+
+Concept of circular flow
+
+The circular flow model demonstrates how money moves through society. Money flows from
+producers to workers as wages and flows back to producers as payment for products. In short,
+an economy is an endless circular flow of money. That is the basic form of the model, but
+actual money flows are more complicated. Economists have added in more factors to better
+depict complex modern economies. These factors are the components of a nation's GDP or
+national income. For that reason, the model is also referred to as the circular flow of income
+model.
+
+The basic purpose of the circular flow model is to understand how money moves within an
+economy. It breaks the economy down into two primary players: households and corporations.
+It separates the markets that these participants operate in as markets for goods and services
+and the markets for the factors of production.
+
+Households own all factors of production and they sell their factor services to earn factor
+incomes which are entirely spent to consume all final goods and services produced by
+business firms. The business firms are assumed to hire factors of production from the
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME  6.37  a
+
+households; they produce and sell goods and services to the households and they do not
+save. There are no corporations, corporate savings or retained earnings. The total income
+produced, Y, accrues to the households and equals their disposable personal income Yd i.e., Y
+= Yd.
+
+In the figure 1.2.1, the circular flow of income and expenditure which presents the working of
+the two- sector economy is illustrated in a simple manner.
+
+                                                       Figure 1.2.1
+
+                                   Circular Flow in a Two Sector Economy
+
+The circular broken lines with arrows show factor and product flows and present `real flows'
+and the continuous line with arrows show `money flows' which are generated by real flows.
+Real flows refer to the flow of the actual goods or services, while money flows refer to the
+payments for the services (wages, for example) or consumption payments.There are no
+injections into or leakages from the system. Since the whole of household income is spent on
+goods and services produced by firms, household expenditures equal the total receipts of
+firms which equal the value of output.
+
+  Factor Payments = Household Income = Household Expenditure = Total Receipts of
+                                         Firms = Value of Output.
+
+Before we go into the discussion on the equilibrium aggregate income and changes in it, we
+shall first try to understand the meaning of the term `equilibrium' (defined as a state in which
+there is no tendency to change; or a position of rest). Output is at equilibrium level when the
+quantity of output produced is equal to the quantity demanded. Logically, an economy can
+
+  © The Institute of Chartered Accountants of India
+       a  6.38  BUSINESS ECONOMICS
+
+be said to be in equilibrium when the production plans of the firms and the expenditure plans
+of the households match.
+
+Having understood the working of the two-sector model and the meaning of equilibrium
+output, we shall now have the formal presentation of the theory of income determination in
+a two-sector model which is the simplest representation of the key principles of Keynesian
+economics. In the theoretical model of the economy, the ex ante values of different variables
+should be our primary concern. Before we discuss the Keynesian theory of income
+determination, let us look at the basic concepts, definitions and functions used in his theory
+of income determination.
+
+2.3 BASIC CONCEPTS AND FUNCTIONS
+
+2.3.1 Aggregate Demand Function
+
+Aggregate demand (AD) is what economists call total planned expenditure. In a simple two-
+sector economy, the ex ante aggregate demand (AD) for final goods or aggregate expenditure
+consists of only two components:
+
+(i) Ex ante aggregate demand for consumer goods (C), and
+
+(ii) Ex ante aggregate demand for investment goods (I)
+
+                AD = C + I                         (2. 1)
+
+Of the two components, consumption expenditure accounts for the highest proportion of the
+GDP. In a simple economy, the variable I is assumed to be determined exogenously and
+constant in the short run. Therefore, the short-run aggregate demand function can be written
+as:
+
+                AD = C + I                         (2.2)
+
+Where     = constant investment.
+
+From the equation (2.2), we can infer that, in the short run, AD depends largely on the
+aggregate consumption expenditure. We shall now go over to the discussion on consumption
+function.
+
+2.3.2 The Consumption Function
+
+Consumption function expresses the functional relationship between aggregate consumption
+expenditure and aggregate disposable income, expressed as:
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME    6.39  a
+
+C = f (Y)          (2.3)
+
+When income is low, consumption expenditures of households will exceed their disposable
+income and households dissave i.e. they either borrow money or draw from their past savings
+to purchase consumption goods. If the disposable income increases, consumers will increase
+their planned expenditures and current consumption expenditures rise, but only by less than
+the increase in income.
+
+The specific form of consumption­income relationship termed the consumption function,
+proposed by Keynes is as follows:
+
+C = a + bY         (2.4)
+
+MPC == b    (2.5)
+
+where C = aggregate consumption expenditure; Y= total disposable income; a is a constant
+term which denotes the (positive) value of consumption at zero level of disposable income;
+and the parameter b, the slope of the function, (C /Y) is the marginal propensity to consume
+(MPC) i.e. the increase in consumption per unit increase in disposable income.
+
+                   Figure 1.2.2
+The Keynesian Consumption Function
+
+The consumption function shows the level of consumption (C) corresponding to each level of
+disposable income (Y) and is expressed through a linear consumption function, as shown by
+the line marked C = f(Y) in figure 1.2.2.
+The Keynesian assumption is that consumption increases with an increase in disposable
+income, but that the increase in consumption will be less than the increase in disposable
+
+  © The Institute of Chartered Accountants of India
+a           6.40       BUSINESS ECONOMICS
+
+income (b <1). i.e. 0 < b < 1. This fundamental relationship between income and consumption
+plays a crucial role in the Keynesian theory of income determination.
+
+2.3.3 Relationship Between Income and Consumption
+
+Just as marginal propensity to consume, the average propensity to consume is a ratio of
+consumption defining income consumption relationship. The ratio of total consumption to
+total income is known as the average propensity to consume (APC).
+
+                  APC  =                                       =    (2.6)
+                                                                  
+
+The table below shows the relationship between income and consumption
+
+                                            Table 1.2.1
+                  Relationship between Income and Consumption
+
+Income (Y)  Consumption                              Saving       APC (C/Y)    MPC (C /Y)
+(` Crores)  (C) (` Crores)                         (` Crores)
+                                                                                        -
+       0            50                             -50                         75/100 = 0.75
+     100           125                                                         75/100 = 0.75
+     200           200                             -25         125/100 = 1.25  75/100 = 0.75
+     300           275                                                         75/100 = 0.75
+     400           350                             0           200/200 = 1.00  75/100 = 0.75
+     500           425
+                                                   25          275/300 = 0.92
+
+                                                   50          350/400=0.88
+
+                                                   75          425/500=0.85
+
+Note: The conventional Keynesian MPC is assumed to have a constant value less than 1.00 and
+usually greater than 0.50:
+
+APC is calculated at various income levels. It is obvious that the proportion of income spent
+on consumption decreases as income increases. What happens to the rest of the income that
+is not spent on consumption? If it is not spent, it must be saved because income is either
+spent or saved; there are no other uses to which it can be put. Thus, just as consumption,
+saving is a function of disposable income: S=f(Y).
+
+2.3.5 The Relationship Between Income, Consumption and Saving
+
+Saving is also a function of disposable income. The saving function shows the functional
+relationship between national income (= disposable income in two sector model) and saving.
+
+                                                           S = f(Y)
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME         6.41                               a
+
+This can be illustrated with the following table and diagram.
+                                                        Table 1.2.2
+
+                       Relationship between Income, Consumption and Saving
+
+Disposable Income (Yd)  Consumption (C)  Saving (S)
+          (` Crores)         (` Crores)  (` Crores)
+                0                 20
+               60                 70          -20
+               120                120         -10
+               180                170          0
+               240                220         10
+                                              20
+
+                  Figure 1.2.3.
+The Consumption and Saving Function
+
+In figure 1.2.3, the consumption and saving functions are graphed. The saving function shows
+the level of saving (S) at each level of disposable income (Y). We know that consumption at
+zero level of income is positive (equal to a), and as such there should be dissaving also of the
+same magnitude. By definition, national income Y = C + S, Therefore, S = Y ­ C.
+
+  © The Institute of Chartered Accountants of India
+     a           6.42      BUSINESS ECONOMICS
+
+The slope of the saving function is the marginal propensity to save. If a one-unit increase in
+disposable income leads to an increase of `b' units in consumption, the remainder (1 - b) is
+the increase in saving. The marginal propensity to save is the increase in saving per unit
+increase in disposable income.
+
+(MPS) , s = 1-c
+
+Saving is an increasing function of the level of income. In other words, saving increases as
+income rises.
+
+                           MPS  =                    = 1- b (2.7)
+                                                   
+
+Marginal Propensity to Consume (MPC) is always less than unity, but greater than zero, i.e., 0
+< b < 1 Also, MPC + MPS = 1; we have MPS 0 < b < 1. Thus, saving is an increasing function
+of the level of income because the marginal propensity to save (MPS) = 1- b is positive, i.e.
+saving increases as income increases.
+
+Average Propensity to Save (APS)
+
+The ratio of total saving to total income is called average propensity to save (APS).
+Alternatively, it is that part of total income which is saved.
+
+                       APS =   =                                   (2.8)
+
+                                     
+
+2.3.8 Aggregate Supply:
+
+Ex ante or planned aggregate supply is the total supply of goods and services which firms in
+a national economy plan on selling during a specific time period. It is equal to the national
+income of the economy, which is either consumed or saved.
+
+                                                        AS = C + S
+
+Numerical Illustrations
+ILLUSTRATION 1
+
+What will be the value of average propensity to save when -
+
+(i) C = 200 at Y = 1,000
+
+(ii) S = 450 at Y = 1,200
+
+SOLUTION
+
+(i)  APS = S ; S = Y ­ C = 1,000 ­ 200 = 800. Therefore, APS= S = 800 = 0.8
+          Y                                                               Y 1000
+
+(ii) When S = 450 and Y = 1,200; APS= S = 450/1200= = 0.375
+                                                             Y
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME         6.43          a
+
+    2.4 THE TWO-SECTOR MODEL OF NATIONAL INCOME
+             DETERMINATION
+
+In this section, we shall describe the two-sector model of determination of equilibrium levels
+of output and income in its formal form using the aggregate demand function and the
+aggregate supply function. The equilibrium level of income and output in the Keynesian
+framework is that level at which aggregate demand (C+ I) and aggregate supply (C + S) or
+output are equal. In other words, Investment is equal to Savings.
+
+                                                  C+I=C+S
+
+     or
+
+I=S                               (2.9)
+
+                                 Figure 1.2.4
+Determination of Equilibrium Income: Two Sector Model
+
+In figure 1.2.4, the aggregate demand curve is linear and positively sloped indicating that as
+the level of national income rises, the aggregate demand (or aggregate spending) in the
+
+  © The Institute of Chartered Accountants of India
+a  6.44  BUSINESS ECONOMICS
+
+economy also rises. The aggregate expenditure line is flatter than the 45-degree line because,
+as income rises, consumption also increases, but by less than the increase in income. The 45-
+degree line illustrates every single point at which planned aggregate expenditure, measured
+on the Y, or vertical axis, is equal to planned aggregate production, which is measured on the
+X, or horizontal axis. In other words, all points on the 45° line indicate that aggregate
+expenditure equal aggregate output; i.e. (C+I) is equal to Y or (C+S). Therefore, the line maps
+out all possible equilibrium income levels.
+
+For all points below the 45-degree line, planned aggregate expenditure is lesser than GDP
+and for all points above the 45-degree line; planned aggregate expenditure is greater than
+GDP. we would like equilibrium to occur at potential GDP i.e. at the level of full employment.
+Only at point E and at the corresponding equilibrium levels of income and output YO does
+aggregate demand exactly equals output. At that level of output and income, planned
+spending precisely matches production.
+
+You may bear in mind the basic point that according to Keynes, aggregate demand will not
+always be equal to aggregate supply. Aggregate demand depends on the households' plan
+to consume and to save. Aggregate supply depends on the producers' plan to produce goods
+and services. In other words, aggregate supply represents aggregate value expected by
+business firms and aggregate demand represents their realised value. For the aggregate
+demand and the aggregate supply to be equal so that equilibrium is established, the
+households' plan must coincide with producers' plan. At equilibrium, expected value equals
+realised value. However, Keynes held the view that that there is no reason to believe that:
+
+(i) consumers' consumption plan always coincides with producers' production plan, and
+
+(ii) that producers' plan to invest matches always with households' plan to save.
+
+Putting it differently, there is no reason for C + I and C + S to always be equal.
+
+The investment function (I) is shown in panel B of the figure, equilibrium, planned investment
+equals savings Above the equilibrium of income Y0, saving (the distance between the 45
+degree line and the consumption schedule) exceeds planned investment, while below
+equilibrium level of income Y0 , planned investment exceeds saving.
+
+The equality between saving and investment can be seen directly from national income
+accounting . Since income is either spent or saved, Y = C+S. Without government and foreign
+trade, aggregate demand equals consumption plus investment, Y=C+I. Putting the two
+together, we have C+S = C+I, or S=I.
+
+If the leakages are greater than the injections, then national income will fall, while if injections
+are greater than leakages, national income will rise. The national income will be in equilibrium
+only when intended saving is equal to intended investment. If there is any deviation from
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                                 6.45  a
+
+equilibrium, i.e. planned saving is not equal to planned investment, the process of
+readjustment will bring the economy back to equilibrium.
+
+2.4.1 Equilibrium with Unemployment or Inflation
+
+An important point to remember is that Keynesian equilibrium with equality of planned
+aggregate expenditures and output need not take place at full employment. If the aggregate
+expenditure line intersects the 45-degree line at the level of potential GDP, then there is full
+employment equilibrium. There is no recession, and unemployment is at the natural rate. But
+there is no guarantee that the equilibrium will occur at the potential GDP level of output. The
+economy can settle at any equilibrium which might be higher or lower than the full
+employment equilibrium.
+
+(i) Deflationary Gap
+
+If the aggregate demand is for an amount of output less than the full employment level of
+output, then we say there is deficient demand. Deficient demand gives rise to a `deflationary
+gap' or `recessionary gap'. Recessionary gap also known as `contractionary gap' arises in the
+Keynesian model of the macro economy when the equilibrium level of aggregate production
+achieved in the short-run falls short of what could be produced at full employment.
+Recessionary gap occurs when the economy is in a business-cycle contraction or recession.
+
+                                                       Figure 1.2.5
+                                      Deficient Demand - Deflationary Gap
+
+                                                          (C+I)
+
+© The Institute of Chartered Accountants of India
+a  6.46  BUSINESS ECONOMICS
+
+In figure 1.2.5, OQ* is the full employment level of output. For the economy to be at full
+employment equilibrium, aggregate demand should be Q*F. If the aggregate demand is Q*G,
+it represents a situation of deficient demand. The resulting deflationary gap is FG. Firms will
+experience unplanned build-up of inventories of unsold goods and they will respond by
+cutting production and employment leading to decrease in output and income until the
+under-employment equilibrium is reached at E.
+
+(ii) Inflationary Gap
+
+If the aggregate demand is for an amount of output greater than the full employment level
+of output, then we say there is excess demand. Excess demand gives rise to `inflationary gap'
+which is the amount by which actual aggregate demand exceeds the level of aggregate
+demand required to establish the full employment equilibrium. This is the sort of gap that
+tends to occur during a business-cycle expansion and sets in motion forces that will cause
+demand pull inflation.
+
+                                                       Figure 1.2.6
+                                        Excess Demand - Inflationary Gap
+
+                             (C+I)0
+                                    (C+I)1
+
+In figure 1.2.6, the economy will be at full employment equilibrium at F with OQ* full
+employment level of output and income. Suppose the aggregate demand is for Q*G, there is
+excess demand and the resulting inflationary gap FG. The real output will be constant, but the
+rise in the price level will cause an increase in the nominal output until the new equilibrium is
+reached at point E. Point E is an equilibrium point because the aggregate demand ME is equal
+to output OM. At the new equilibrium, real output, real income and employment will be the
+same; nominal output and income has increased due to inflation.
+In the Keynesian model, neither wages nor interest rates will decline in the face of abnormally
+high unemployment and excess capacity. Therefore, output will remain at less than the full
+employment rate as long as there is insufficient spending in the economy. Keynes argued
+that this was precisely what was happening during the Great Depression.
+
+  © The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                   6.47  a
+
+Numerical Illustrations
+ILLUSTRATION 2
+Calculate marginal propensity to consume and marginal propensity to save from the following
+data about an economy which is in equilibrium:
+National income = 2500, Autonomous consumption expenditure = 300, Investment expenditure
+= 100
+SOLUTION
+Y=C+I
+By putting the value we get, 2500 = C + 100
+C = 2500 -100 = 2400
+C = C + bY
+2400 = 300 + 2500 b
+2400-300= 2500b
+b = 0.84; MPS= 1- MPC = 1- 0.84 = 0.16
+ILLUSTRATION 3
+An economy is in equilibrium. Calculate national income from the following-
+Autonomous consumption = 100; Marginal propensity to save= 0.2; Investment expenditure= 200
+SOLUTION
+Y= C + I
+Y= C + MPC (Y) + I where MPC = 1-MPS
+Y = 100 + 0.8Y + 200= 300 + 0.8Y
+Y- 0.8Y = 300
+0.2Y=300,
+Y= 1500
+ILLUSTRATION 4
+Suppose the consumption of an economy is given by C = 20+ 0.6 Y and investment I= 10+ 0.2
+Y. What will be the equilibrium level of National Income?
+SOLUTION
+Y= C + I= 20+ 0.6 Y + 10+ 0.2 Y
+Y = 30+ 0.8 Y
+
+© The Institute of Chartered Accountants of India
+a  6.48  BUSINESS ECONOMICS
+
+Y- 0.8 Y = 30
+Y= 150
+ILLUSTRATION 5
+Suppose the consumption function C= 7+ 0.5Y, Investment is ` 100, Find out equilibrium level
+of Income, consumption and saving?
+SOLUTION
+Equilibrium Condition­
+Y= C +I, Given C= 7+0.5Y and I= 100
+Therefore Y= 7+0.5Y+ 100
+Y- 0.5Y= 107
+
+    107
+Y= 0.5 = 214
+Y= C+I
+214= C+100
+C=114
+S= Y- C =100
+ILLUSTRATION 6
+If the consumption function is C= 250 + 0.80 Y and I = 300. Find out equilibrium level of Y, C
+and S?
+SOLUTION
+Y= 1 (a+ I )or Y = C+ I
+
+     1-b
+       1
+
+Y= (250+300) = 2750
+
+     1-.80
+
+C = a + b (a+ I )or C= 250 + 0.80 Y
+
+            1-b
+
+C = 250+0.8(2750) C = 2450
+S = Y-C where C = a+ bY
+S = Y- (a + bY)
+S= -a + (1- b) Y
+= - 250 + (1 ­ 0.80)2750= 300
+
+© The Institute of Chartered Accountants of India
+                 DETERMINATION OF NATIONAL INCOME    6.49  a
+
+Or directly,
+
+S=Y- C
+
+S=2750 ­ 2450= 300.
+
+ILLUSTRATION 7
+
+If saving function S = -10 + 0.2Y and autonomous investment I = 50 Crores. Find out the
+equilibrium level of income, consumption and if investment increases permanently by ` 5 Crores,
+what will be the new level of income and consumption?
+
+SOLUTION
+
+S= I
+
+-10 + 0.2Y = 50
+
+         0.2Y = 50+ 10
+
+            Y = 300 Crores
+
+            C= Y- S
+
+Where S= -10 + 0.2 (300) = 50
+
+         C= 300-50 = 250 Crores
+
+With the increase in investment by ` 5 Crores, the new investment will become equal to ` 55
+Crores.
+
+S=I
+
+-10 + 0.2Y = 55
+
+Y= 325 Crores
+
+C= 270 Crores
+
+ILLUSTRATION 8
+
+Given the empirical consumption function C= 100+0.75Y and I = 1000, calculate equilibrium
+level of national income. What would be the consumption expenditure at equilibrium level
+national income?
+
+SOLUTION
+
+C= 100+0.75Y and I = 1000,
+
+Y=C+I in equilibrium
+
+Y= 100+0.75 Y + 1000 =>     =            (100+1000)
+                                 1-0.75
+
+Y=    I     (1100) = 1/0.25 (1100) = 4400.
+
+    1-0.75
+
+© The Institute of Chartered Accountants of India
+a  6.50  BUSINESS ECONOMICS
+
+Y=C + I; C= 4400 ­ 1000 = 3400
+
+    2.5 THE INVESTMENT MULTIPLIER
+
+In this section we develop an answer to the following question: By how much does a one unit
+increase in autonomous spending raise the equilibrium level of income? There appears to be
+a simple answer. Since, in equilibrium , income equals aggregate demand , it would seem that
+a unit increase in autonomous demand or spending should raise equilibrium income by one
+unit . That is not correct. In Fact the effect of an increase in investment (upward shift in the
+investment schedule) causes an upward shift in the aggregate demand function. It is due to a
+process of multiple increases in equilibrium income due to increase in investment and how
+much increase occurs depends upon the marginal propensity to consume. The process of
+increase in national income due to increase in investment depicts the investment multiplier
+impact illustrated below.
+
+                                                       Figure 1.2.7
+                               Effect of Changes in Autonomous Investment
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                           6.51  a
+
+In the figure 1.2.7, an increase in autonomous investment by I shifts the aggregate demand
+schedule from C+I to C+I+I. Correspondingly, the equilibrium shifts from E to E1and the
+equilibrium income increases more than proportionately from Yo to Y1. Why and how does
+this happen? This occurs due to the operation of the investment multiplier.
+
+Multiplier refers to the phenomenon whereby increase in investment expenditure will lead to
+a proportionately larger change (or multiple changes) in the equilibrium level of national
+income. The investment multiplier explains how many times the equilibrium aggregate income
+increases as a result of an increase in autonomous investment. When the level of investment
+increases by an amount, say I, the equilibrium level of income will increase by some multiple
+amounts,  Y. The ratio of Y to I is called the investment multiplier, k.
+
+k =                                                (2.11)
+
+The size of the multiplier effect is given by  Y = k I.
+
+For example, if a change in investment of ` 2000 million causes a change in national income
+of ` 6000 million, then the multiplier is 6000/2000 =3. Thus multiplier indicates the change
+in equilibrium national income for each rupee change in the desired autonomous investment.
+Since the increase in national income (Y) is the result of increase in investment (I), the
+multiplier is called `investment multiplier.'
+
+The process behind the multiplier can be compared to the `ripple effect' of water. Let us
+assume that the initial disturbance comes from a change in autonomous investment (I) of
+500 units. The economy being in equilibrium, an upward shift in aggregate demand leads to
+an increase in national income which in a two sector economy will be, by definition, distributed
+as factor incomes. There will be an equal increase in disposable income. Firms experience
+increased demand and as a response, their output increases. The process further continues
+as an autonomous rise in investment leads to induced increases in consumer demand as
+income increases.
+
+We find at the end that the increase in equilibrium income per rupee increase in investment
+is:
+
+ = 1 = 1                                           (2.12)
+
+ 1- 
+
+From the above, we find that the marginal propensity to consume (MPC) is the determinant
+of the value of the multiplier and that there exists a direct relationship between MPC and the
+value of multiplier. Higher the MPC more will be the value of the multiplier, and vice-versa.
+On the contrary, higher the MPS, lower will be the value of multiplier and vice-versa. The
+maximum value of multiplier is infinity when the value of MPC is 1 i.e. the economy decides
+
+© The Institute of Chartered Accountants of India
+a  6.52  BUSINESS ECONOMICS
+
+to consume the whole of its additional income. We conclude that the value of the multiplier
+is the reciprocal of MPS.
+
+For example, if the value of MPC is 0.75, then the value of the multiplier as per (2.11) is:
+
+                                                       1  =  .= 4
+                                                   1-
+
+The multiplier concept is central to Keynes's theory because it explains how shifts in
+investment caused by changes in business expectations set off a process that causes not only
+investment but also consumption to vary. The multiplier shows how shocks to one sector are
+transmitted throughout the economy.
+
+Increase in income due to increase in initial investment, does not go on endlessly. The process
+of income propagation slows down and ultimately comes to a halt. Causes responsible for the
+decline in income are called leakages. Income that is not spent on currently produced
+consumption goods and services may be regarded as having leaked out of the income stream.
+If the increased income goes out of the cycle of consumption expenditure, there is a leakage
+from the income stream which reduces the effect of multiplier. The more powerful these
+leakages are, the smaller the value of the multiplier. The leakages are caused due to:
+
+1. progressive rates of taxation which result in no appreciable increase in consumption
+         despite increase in income
+
+2. high liquidity preference and idle saving or holding of cash balances and an equivalent
+         fall in marginal propensity to consume
+
+3. increased demand for consumer goods being met out of the existing stocks or through
+         imports
+
+4. additional income spent on purchasing existing wealth or purchase of government
+         securities and shares from shareholders or bondholders
+
+5. undistributed profits of corporations
+
+6. part of increment in income used for payment of debts
+
+7. case of full employment additional investment will only lead to inflation, and
+
+8. scarcity of goods and services despite having high MPC
+
+The MPC, on which the multiplier effect of increase in income depends, is high in
+underdeveloped countries; but ironically the value of multiplier is low. Due to structural
+inadequacies, increase in consumption expenditure is not generally accompanied by increase
+in production. E.g. increased demand for industrial goods consequent on increased income
+does not lead to increase in their real output; rather prices tend to rise.
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                   6.53  a
+
+An important element of Keynesian models is that they relate to short-period equilibrium and
+contain no dynamic elements. There is nothing like Keynesian macro-economic dynamics.
+When a shock occurs, for example when there is a change in autonomous investment due to
+change in some variable, one equilibrium position can be compared with another as a matter
+of comparative statics. There is no link between one period and the next and no provision is
+made for an analysis of processes through time.
+Numerical Illustrations
+ILLUSTRATION 9
+In an economy investment expenditure is increased by ` 400 Crores and marginal propensity to
+consume is 0.8. Calculate the total increase in income and saving.
+SOLUTION
+
+MPC = 0.8; I = 400 Crores
+
+Multiplier (K)= 1 /1- MPC = 1 /1- 0.8 =1/ 0.2= 5
+
+MPS= 1 - MPC = 1 ­ 0.8 = 0.2
+
+Increase in income (Y) = K ×I = 5 × 400=2,000 Crores
+
+Increase in saving= Y × MPS = 2,000 × 0.2 = 400 Crores
+ILLUSTRATION 10
+An increase in investment by 400 Crores leads to increase in national income by 1,600 Crores.
+Calculate marginal propensity to consume.
+SOLUTION
+
+Increase in investment (I) = 400 Crores
+
+Increase in national income ( Y) = 1,600 Crores
+
+Multiplier (K) =Y/I = K= 1,600/ 400 = 4
+
+We know, K= 1 /1 ­MPC
+
+4= 1 /1 -MPC
+     MPC= 0.75
+
+ILLUSTRATION 11
+In an economy, investment is increased by Rs 600 Crores. If the marginal propensity to consume
+is 0.6, calculate the total increase in income and consumption expenditure.
+
+© The Institute of Chartered Accountants of India
+a         6.54               BUSINESS ECONOMICS
+
+SOLUTION
+
+MPC = 0.6; I = ` 600 Crores
+
+Multiplier (K) = 1/ 1- MPC = 1/ 1 ­ 0.6 = 1/ 0.4 =25.
+
+Increase in income (Y) = K × I = 2.5 × Rs 600 Crores= ` 1,500 Crores
+
+Increase in consumption (C) =Y × MPC = Rs1, 500Crores × 0.6 = ` 900 Crores.
+ILLUSTRATION 12
+
+Suppose in a country investment increases by ` 100 Crores and consumption is given by C = 10
++ 0.6Y (where C = consumption and Y = income). How much increases will there take place in
+income?
+
+SOLUTION
+
+          1                  1
+
+Multiplier = k = 1 - MPC k = 1 - 0.6 = 2.5
+
+Substituting the value of k and I value in Y= kI
+
+Y= 2.5  100= ` 250Crores
+
+Thus, increase in investment by Rs 100 Crores will cause equilibrium income to rise by ` 250
+Crores.
+
+2.6 DETERMINATION OF EQUILIBRIUM INCOME:
+         THREE SECTOR MODEL
+
+Aggregate demand in the three sector model of closed economy (neglecting foreign trade)
+consists of three components namely, household consumption(C), desired business
+investment demand(I) and the government sector's demand for goods and services(G). Thus
+in equilibrium, we have
+
+                             Y = C+I+G                 (2.13)
+
+Since there is no foreign sector, GDP and national income are equal. As prices are assumed to
+be fixed, all variables are real variables and all changes are in real terms. To help interpret
+these conditions, we turn to the flowchart below. Each of the variables in the model is a flow
+variable.
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                   6.55  a
+
+                    Figure 1.2.8
+Circular Flow in a Three Sector Economy
+
+© The Institute of Chartered Accountants of India
+    a  6.56  BUSINESS ECONOMICS
+
+The three-sector, three-market circular flow model which accounts for government
+intervention highlights the role played by the government sector. From the above flow chart,
+we can find that the government sector adds the following key flows to the model:
+
+i)  Taxes on households and business sector to fund government purchases
+
+ii) Transfer payments to household sector and subsidy payments to the business sector
+
+iii) Government purchases goods and services from business sector and factors of
+         production from household sector, and
+
+iv) Government borrowing in financial markets to finance the deficits occurring when
+         taxes fall short of government purchases
+
+However, unlike in the two sector model, the whole of national income does not return directly
+to the firms as demand for output. There are two flows out of the household sector in addition
+to consumption expenditure namely, saving flow and the flow of tax payments to the
+government. These are actually leakages. The saving leakage flows into financial markets,
+which means that the part that is saved is held in the form of some financial asset (currency,
+bank deposits, bonds, equities, etc.). The tax flow goes to the government sector.
+
+The leakages which occur in the household sector do not necessarily mean that the total
+demand must fall short of output. There are additional demands for output on the part of the
+business sector itself for investment and from the government sector. In terms of the circular
+flow, these are injections. The investment injection is shown as a flow from fina ncial markets
+to the business sector. The purchasers of the investment goods, typically financed by
+borrowing, are actually the firms in the business sector themselves. Thus, the amount of
+investment in terms of money represents an equivalent flow of funds lent to the business
+sector.
+
+The three-sector Keynesian model is commonly constructed assuming that government
+purchases are autonomous. This is not a realistic assumption, but it will simplify our analysis.
+Determination of income can also be explained with the help of aggregate demand and
+aggregate supply (figure 1.2.9)
+
+                                                       AD = C + I+ G
+
+                                                       AS = C + S+ T
+
+The equilibrium national income is determined at a point where both aggregate demand and
+aggregate supply are equal, that is,
+
+                                                       AD = Y = AS
+
+             C + I+ G =Y= C + S+ T
+
+    © The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME  6.57                   a
+
+                                Figure 1.2.9
+Determination of Equilibrium Income: Three Sector Model
+
+(Y=C+S+T)
+
+The variables measured on the vertical axis are C, I and G. The autonomous expenditure
+components namely, investment and government spending do not directly depend on income
+and are exogenous variables determined by factors outside the model. You may observe that
+in panel B of the figure 1.2.9, the lines that plot these autonomous expenditure components
+are horizontal as their level does not depend on Y. Therefore, C + I + G schedule lies above
+the consumption function by a constant amount.
+
+The line S + T in the graph plots the value of savings plus taxes. This schedule slopes upwards
+because saving varies positively with income. Just as government spending, level of tax
+receipts (T) is decided by policy makers.
+
+The equilibrium level of income is shown at the point E 1where the (C + l + G) schedule crosses
+the 45° line, and aggregate demand is therefore equal to income (Y). In equilibrium, it is also
+true that the (S + T) schedule intersects the (I + G) horizontal schedule.
+
+We shall now see why other points on the graph are not points of equilibrium. Consider a
+level of income below Y. We find that it generates consumption as shown along the
+consumption function. When this level of consumption is added to the autonomous
+expenditures (I + G), aggregate demand exceeds income; the (C + I + G) schedule is above
+the 45° line. Equivalently at this point I + G is greater than S + T, as can be seen in panel B of
+the figure 1.2.9. With demand outstripping production, desired investments will exceed actual
+investment and there will be an unintended inventory shortfall and therefore a tendency for
+
+  © The Institute of Chartered Accountants of India
+a  6.58  BUSINESS ECONOMICS
+
+output to rise. Conversely, at levels of income above Y1, output will exceed demand; people
+are not willing to buy all that is produced. Excess inventories will accumulate, leading
+businesses to reduce their future production. Employment will subsequently decline and
+output will fall back to the equilibrium level. It is only at Y that output is equal to aggregate
+demand; there is no unintended inventory shortfall or accumulation and, consequently, no
+tendency for output to change. An important thing to note is that the change in total
+spending, followed by changes in output and employment, is what will restore equilibrium in
+the Keynesian model, not changes in prices.
+
+2.6.1 The Government Sector and Income Determination
+
+We have seen above that the government influences the level of income through taxes,
+transfer payments, government purchases and government borrowing. A comprehensive
+discussion on the effect of government fiscal policy is beyond the scope of this unit; and
+therefore, we shall look into a few variables.
+
+(i) Income Determination with Lump Sum Tax
+
+We assume that the government imposes a lump sum tax, i.e. taxes that do not depend on
+income, has a balanced budget (G=T) and also that there are no transfer payments. The
+consumption function is defined as ­
+
+C = a + b Yd
+
+Where Yd = Y ­T (disposable income), T = lump sum tax
+
+Y= a + b (Y - T) + I + G
+
+         1
+
+Y = (a-bT+I+G)
+
+        1-b
+
+Numerical Illustrations
+ILLUSTRATION 13
+
+Suppose we have the following data about a simple economy:
+
+C = 10 + 0.75Yd, I = 50, G = T = 20where C is consumption, I is investment, Yd is disposable
+income, G is government expenditure and T is tax.
+
+(a) Find out the equilibrium level of national income.
+
+(b) What is the size of the multiplier?
+SOLUTION
+
+(a) Since G = T, budget of the government is balanced
+
+         Substituting the values of C, I and G in Y we have
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                   6.59  a
+
+         Y=C+I+G
+         Y = a + bYd + I + G
+         Y= 10 + 0.75 (Y ­ 20) + 50 + 20
+         Y= 10 + 0.75 Y- 15 + 50 + 20
+         or, Y ­ 0.75 Y = 65
+         or, Y (1 ­ 0.75) = 65
+         or, 0.25 Y = 65
+         or, Y = 65 /.25 = 260
+         The equilibrium value of Y = 260
+(b) The value of the multiplier is = 1/ (1 ­ MPC) = 1/ (1 ­ b) = 1/ (1 ­ 0.75) = 1/0.25 = 4
+(ii) Income Determination with Lump Sum Tax and Transfer payments
+The consumption function is defined as ­
+C = a + b Yd
+Where Yd= Y- T+ TR where T is a lump sum tax and TR is autonomous transfer payments
+C = a+ b (Y - T + TR)
+Y= C+ I+ G
+Y= a+ b (Y - T + TR) + I + G
+Y= a +bY ­ bT +bTR + I + G
+Y ­ bY= a ­ bT +bTR + I + G
+Y(1-b)= a ­ bT +bTR + I + G
+        1 (a - bT + bTR + I + G)
+Y = 1-b
+ILLUSTRATION 14
+Suppose the structural model of an economy is given ­
+C = 100+ 0.75 Yd; I = 200, G = T = 100; TR= 50, find the equilibrium level of income?
+SOLUTION
+Y= C+ I+ G
+Y = 100+ 0.75 Yd + 200 + 100
+Y= 100 + 0.75(Y­ 100 + 50) + 200 + 100
+
+© The Institute of Chartered Accountants of India
+       a         6.60           BUSINESS ECONOMICS
+
+Y = 100 + 0.75Y -75 + 37.5 +200 +100
+
+Y = 1450
+Or use Y = 1 ( -  +  +  + ) to calculate income.
+
+                     1-
+
+(iii) Income Determination with tax as a function of Income
+
+In (i) and (ii) above, we have analysed the effect of balanced budget with an autonomous lump
+sum tax. In reality, the tax system consists of both lump sum tax and proportional taxes. The
+tax function is defined as;
+
+                                               Tax function T = T + t Y
+
+Where T = autonomous constant tax
+
+       t = income tax rate
+
+       T = total tax
+
+The consumption function is
+
+C = a + b Yd
+Where Yd = Y- T or Y -T - t Y
+C= a+ b(Y- T - t Y)
+
+Therefore, the equilibrium level of national income can be measured as-
+
+Y= C + I+ G
+
+Y=a+bYd+I+G
+
+Y=a+b(Y-T -tY)+I+G
+
+Y = a +bY - bT - b t Y + I + G
+
+Y- bY + btY = a -bT + I +G
+
+Y (1- b+ bt) = a -bT + I +G
+
+Y=  1         (a -bT + I +G)
+
+    1-b(1-t)
+
+Where     1      (represent the tax multiplier)
+
+       1-b(1-t)
+
+ILLUSTRATION 15
+
+For a closed economy, the following data is given ­
+
+Consumption C = 75 + 0.5 (Y-T); Investment I = 80; Total tax T = 25 + 0.1Y; Government
+expenditure G = 100.
+
+© The Institute of Chartered Accountants of India
+                 DETERMINATION OF NATIONAL INCOME                6.61    a
+
+(a) Find out equilibrium income?
+
+(b) What is the value of multiplier?
+
+SOLUTION
+
+a) Y = C+ I+G
+
+       Y= 75+ 0.5(Y- 25- 0.1Y) + 80+ 100
+
+       Y(1-0.5+0.05)= 75-12.5+80+100
+
+       Y=     1
+
+                          (242.5)
+
+              1-0.5+0.05
+
+       Y= 440.91
+
+                          1
+
+b) Multiplier =                     = 1/[1-0.5(1-0.1)] = 1.82
+
+                          1-b(1-t)
+
+(iv) Income Determination with Tax (as a Function of Income), Government
+         Expenditure and Transfer Payments
+
+Here consumption function is written as C= a + b(Y- T -tY + TR)
+
+Y= a + b(Y- T -tY + TR) + I + G
+
+Y=  1    (a- bT +bTR + I + G)
+
+    1-b(1-t)
+
+ILLUSTRATION 16
+
+Suppose C= 100 + 0.80 (Y- T + TR); I = 200; T= 25+0.1Y; TR= 50; G = 100
+
+Find out equilibrium level of Income?
+
+SOLUTION
+
+Y=C+I+G
+
+Y= 100 + 0.80 (Y- T + TR) + I+ G
+
+Y=100 +0.80(Y ­ 25 - 0.1Y + 50) + 200 + 100
+
+Y ­ 0.80 Y +0.08 Y = 420
+
+Y(1-0.8+0.08) =420
+
+Y= 1500
+
+© The Institute of Chartered Accountants of India
+a  6.62  BUSINESS ECONOMICS
+
+    2.7 DETERMINATION OF EQUILIBRIUM INCOME:
+             FOUR SECTOR MODEL
+
+The four sector model includes all four macroeconomic sectors, the household sector, the
+business sector, the government sector, and the foreign sector. The foreign sector includes
+households, businesses, and governments that reside in other countries. The following
+flowchart shows the circular flow in a four sector economy.
+
+In the four sector model, there are three additional flows namely: exports, imports and net
+capital inflow which is the difference between capital outflow and capital inflow. The
+C+I+G+(X-M) line indicates the aggregate demand or the total planned expenditures of
+consumers, investors, governments and foreigners (net exports) at each income level.
+
+                                                      Figure 1.2.10
+
+                                   Circular Flow in a Four Sector Economy
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                                                  6.63  a
+
+In equilibrium, we have
+
+                         Y = C + I + G + (X-M)     (2.14)
+
+The domestic economy trades goods with the foreign sector through exports and imports.
+Exports are the injections in the national income, while imports act as leakages or outflows of
+national income. Exports represent foreign demand for domestic output and therefore, are
+part of aggregate demand. Since imports are not demands for domestic goods, we must
+subtract them from aggregate demand. The demand for imports has an autonomous
+component and is assumed to depend on income. Imports depend upon marginal propensity
+to import which is the increase in import demand per unit increase in GDP. The demand for
+exports depends on foreign income and is therefore exogenously determined and
+autonomous. Imports are subtracted from exports to derive net exports, which is the foreign
+sector's contribution to aggregate expenditures. Since import has an autonomous component
+(M ) and is assumed to depend on income(Y) and marginal propensity to import (m), the import
+function is expressed as M= M + mY. Marginal propensity to import m =  M/ Y is assumed
+to be constant.
+
+As noted above, the equilibrium level of national income is determined at the level at which
+the aggregate demand is equal to aggregate supply. As the aggregate demand in the four
+sector model is given in equation 2.14, the equilibrium condition is expressed as follows-
+
+                                                Y = C + I+ G + (X ­ M)
+
+                                                 Where C = a + b(Y-T)
+
+                                                       M= M + mY
+
+The equilibrium level of National Income can now be expressed by ­
+
+                                                Y = C + I+ G + (X ­ M)
+
+                                       Y = a+ b (Y- T) + I + G + X-M - mY
+
+                         Y ­ bY + mY = a- bT + I + G + X - M
+
+                         Y= 1
+                              1 - b + m (a- b T+ I+ G + X - M )
+
+The economy being in equilibrium, suppose export of country increases by  X autonomously,
+all other factors remaining constant. By incorporating the increase in exports by  X, the
+equilibrium equation of the country can be expressed as
+
+                         Y + Y=  1                 (a- b T+ I+ G + X - M + X) or
+
+                                 1-b+m
+
+© The Institute of Chartered Accountants of India
+a                6.64        BUSINESS ECONOMICS
+
+                                1                                1
+                       Y + Y =                     (a- b T+ I+ G + X ­ M ) + X
+
+                             1-b+m                               1-b+m
+
+                                 Y= 1
+                             As, 1 - b + m (a- b T+ I+ G + X - M )
+
+                                                                             1
+
+                                We get, Y + Y =Y+ X
+
+                                                                          1-b+m
+
+                                                                                                  1
+
+                 Subtracting Y from both sides, we get Y = X
+
+                                                                                              1-b+m
+
+                                                                      1
+
+                           By rearranging Y = X, we get
+
+                                                                  1-b+m
+
+                                          Y = 1
+                                          X 1 - b + m
+
+Or alternatively written as
+
+                                                   Y = 1
+                                                   X 1- (b - m)
+
+The term  1      is known as foreign trade multiplier whose value is determined by marginal
+
+          1-b+m
+
+propensity to consume (b) and marginal propensity to import (m).
+
+If in the model proportional income tax and government transfer payments are incorporated,
+then only the denominator of multiplier will change. If income tax is of form T= T + t Y where
+T is constant lump-sum, t is the proportion of income tax and TR > 0 and autonomous, then
+the four sector model can be expressed as: ­
+
+                                Y = C + I+ G + (X ­ M)
+
+                             Where C = a + b(Y- T - t Y + TR)
+
+                                                   M= M + mY.
+
+The equilibrium level of National Income can now be expressed as:
+
+            1
+Y = 1- b(1- t) + m (a ­ b T +b TR + I + G + X - M )
+
+With the help of figure 1.2.11, we shall explain income determination in the four sector model.
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                   6.65  a
+
+                                Figure 1.2.11
+Determination of Equilibrium Income: Four Sector Model
+
+Equilibrium is identified as the intersection between the C + I + G + (X - M) line and the 45-
+degree line. The equilibrium income is Y. From panel B, we find that the leakages(S+T+M) are
+equal to injections (I+G+X) only at equilibrium level of income.
+
+We have seen above that only net exports(X-M) are incorporated into the four sector model
+of income determination. We know that injections increase the level of income and leakages
+decrease it. Therefore, if net exports are positive (X > M), there is net injection and national
+income increases. Conversely, if X<M, there is net withdrawal and national income decreases.
+
+                                                      Figure 1.2.12
+
+                     Effects on Income When Imports are Greater than Exports
+
+© The Institute of Chartered Accountants of India
+a             6.66      BUSINESS ECONOMICS
+
+We have seen in section 2.5 above that equilibrium income is expressed as a product of two
+
+terms: Y = k I; i.e. the level of autonomous investment expenditure and the investment
+
+multiplier. The autonomous expenditure multiplier in a four sector model includes the effects
+
+of foreign transactions and is stated as 1 where `m' is the propensity to import which is
+
+                                                                           (1-+)
+
+greater than zero. You may recall that the multiplier in a closed economy  is     1
+                                                                               (1-)
+
+The greater the value of `m', the lower will be the autonomous expenditure multiplier. The
+more open an economy is to foreign trade, (the higher mis) the smaller will be the response
+of income to aggregate demand shocks, such as changes in government spending or
+autonomous changes in investment demand. The higher the value of `m',the larger the
+proportion of this induced effect on demand for foreign, not domestic, consumer goods. The
+increase in imports per unit of income constitutes an additional leakage from the circular flow
+of (domestic) income at each round of the multiplier process and reduces the value of the
+autonomous expenditure multiplier.
+
+An increase in demand for exports of a country is an increase in aggregate demand for
+domestically produced output and will increase equilibrium income just as an increase in
+government spending or an autonomous increase in investment. In summary, an increase in
+the demand for a country's exports has an expansionary effect on equilibrium income, whereas
+an autonomous increase in imports has a contractionary effect on equilibrium income.
+However, this should not be interpreted to mean that exports are good and imports are
+harmful in their economic effects. Countries import goods that can be more efficiently
+produced abroad, and trade increases the overall efficiency of the worldwide allocation of
+resources. This forms the rationale for attempts to stimulate the domestic economy by
+promoting exports and restricting imports.
+
+Numerical Illustration
+
+ILLUSTRATION 17
+
+The consumption function is C = 40 + 0.8Yd,T= 0.1Y, I = 60 Crores G = 40 Crores, X = 58 and
+M = 0.05 Y. Find out equilibrium level of income, Net Export, net export if export were to increase
+by 6.25.
+
+SOLUTION
+
+C= 40+ 0.8Yd
+
+C= 40 + 0.8 (Y- 0.1Y)
+
+Y= C + I+ G + (X ­ M)Y= 40+0.8(Y-0.1Y)+60+40+(58-0.05Y)
+
+Y= 40+0.8(0.9Y)+60+40+58-0.05Y
+
+Y-0.72Y+0.05Y =198
+
+© The Institute of Chartered Accountants of India
+                 DETERMINATION OF NATIONAL INCOME                        6.67  a
+
+Y(1-0.72+0.05) =198
+
+Y(0.33) =198
+
+Y= 198/0.33 = 600 Crores
+
+Net Export= X-M = 58 ­ 0.05Y
+
+58 ­ 0.05 (600) =58- 30= 28
+
+If exports increase by 6.25, then exports = 64.25
+
+Then, Y = 40+ 0.8 (Y- 0.1Y) + 60 + 40 + (64.25- 0.05Y)
+
+Y(1-0.72+0.05) = 204.5
+
+Y(0.33) = 204.5
+
+Y=204.5/0.33 = 619.697
+
+Then import = .05 × 619.697= 30.98
+
+Net Export= 64.25- 30.98= 33.27 Crores
+
+Thus, there is surplus in balance of trade as Net Exports are positive.
+
+ILLUSTRATION 18
+
+An economy is characterised by the following equation-
+
+Consumption                  C = 60+0.9Yd
+
+Investment                    I = 10
+
+Government expenditure G = 10
+
+Tax                                   T=0
+
+Exports                      X = 20
+
+Imports                               M = 10 +0.05 Y
+
+What is the equilibrium income?
+
+Calculate trade balance and foreign trade multiplier.
+
+SOLUTION
+
+Y = C + I+ G + (X ­ M)
+
+= 60+0.9(Y ­ 0) + 10 +10 + (20- 10 -0.05Y)
+
+= 60+ 0.9 Y +30 -0.05 Y
+
+Y= 600
+
+© The Institute of Chartered Accountants of India
+a  6.68                           BUSINESS ECONOMICS
+
+Trade Balance = X ­ M = 20-10-0.05(600)=- 20
+
+Thus, trade balance in deficit.
+
+Foreign trade multiplier=  1      1
+                                 =&1-0.9+0.05 = 6.66
+                           1-b+m
+
+    2.8 CONCLUSION
+
+According to the Keynesian theory of income and employment, national income depends
+upon the aggregate effective demand. If the aggregate effective demand falls short of that
+output at which all those who are both able and willing to work are employed, it will result in
+unemployment in the economy. Consequently, there will be a gap between the economy's
+actual and optimum potential output. On the contrary, if the aggregate effective demand
+exceeds the economy's full employment output (production capacity), it will result in inflation.
+Nominal output will increase, but it simply reflects higher prices, rather than additional real
+output. It is not necessary that the equilibrium aggregate output will also be the full
+employment aggregate output. It is undesirable and a cause of great concern for the society
+and government if a large number of people remain unemployed. In the absence of
+government policies to stabilise the economy, incomes will be unstable because of the
+instability of investment. By making appropriate changes in government spending (G) and
+taxes, the government can counteract the effects of shifts in investment. Appropriate changes
+in fiscal policy by adjusting government expenditure and taxes could keep the autonomous
+expenditure constant even in the face of undesirable changes in the investment.
+
+SUMMARY
+
+ John Maynard Keynes in his masterpiece `The General Theory of Employment Interest
+         and Money' published in 1936 put forth a comprehensive theory to explain the
+         determination of equilibrium aggregate income and output in an economy.
+
+ The equilibrium analysis is best understood with a hypothetical simpletwo-sector
+         economy which has only households and firms with all prices (including factor prices),
+         supply of capital and technology constant; the total income produced Y, accrues to the
+         households and equals their disposable personal income.
+
+ The equilibrium output occurs when the desired amount of output demanded by all
+         the agents in the economy exactly equals the amount produced in a given time period.
+
+ In the two-sector economy aggregate demand (AD) or aggregate expenditure consists
+         of only two components: aggregate demand for consumer goods and aggregate
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                   6.69  a
+
+         demand for investment goods, I being determined exogenously and constant in the
+         short run.
+
+ Consumption function expresses the functional relationship between aggregate
+         consumption expenditure and aggregate disposable income, expressed as C = f (Y).The
+         specific form consumption function, proposed by Keynes C = a + bY
+
+ The value of the increment to consumer expenditure per unit of increment to income
+         (b) is termed the Marginal Propensity to Consume (MPC).
+
+ The Keynesian assumption is that consumption increases with an increase in disposable
+         income (b >0), but that the increase in consumption will be less than the increase in
+         disposable income (b <1).
+
+ The propensity to consume refers to the proportion of the total and the marginal
+         incomes which people spend on consumer goods and services.
+
+ The proportion or fraction of the total income consumed is called `average propensity
+         to consume' (APC)= Total Consumption /Total Income
+
+ Since Y = C + S, consumption and saving functions are counterparts of each other. The
+         condition for national income equilibrium can thus be expressed as C + I = C + S
+
+ Changes in income are primarily from changes in the autonomous components of
+         aggregate demand, especially from changes in the unstable investment component.
+
+ The investment multiplier k is defined as the ratio of change in national income (Y)
+         due to change in investment (I)
+
+ The marginal propensity to consume (MPC) is the determinant of the value of the
+         multiplier. The higher the marginal propensity to consume (MPC) the greater is the
+         value of the multiplier.
+
+ The more powerful the leakages are, the smaller will be the value of multiplier.
+
+ Aggregate demand in the three sector model of closed economy (neglecting foreign
+         trade) consists of three components namely, household consumption(C), desired
+         business investment demand(I) and the government sector's demand for goods and
+         services(G).
+
+ The government sector imposes taxes on households and business sector,effects
+         transfer payments to household sector and subsidy payments to the business sector,
+         purchases goods and services and borrow from financial markets.
+
+ In equilibrium, it is also true that the (S + T) schedule intersects the (I + G) horizontal
+         schedule.
+
+© The Institute of Chartered Accountants of India
+a  6.70  BUSINESS ECONOMICS
+
+ Taxes act as leakage from the economic system. Thus, tax multiplier when, T=T -tY, is
+
+                1
+
+          1- b(1- t) < 1
+
+                                (1-)
+
+ The four sector model includes all four macroeconomic sectors, the household sector,
+         the business sector, the government sector, and the foreign sector and in equilibrium,
+         we have Y = C + I + G + (X-M)
+
+ The domestic economy trades goods with the foreign sector through exports and
+         imports.
+
+ Imports are subtracted from exports to derive net exports, which is the foreign sector's
+         contribution to aggregate expenditures. If net exports are positive (X > M), there is net
+         injection and national income increases. Conversely, if X<M, there is net withdrawal
+         and national income decreases.
+
+ The autonomous expenditure multiplier in a four sector model includes the effects of
+
+foreign transactions and is stated as                   1  against     1  in  a  closed  economy.
+                                                   (1-+)            (1-)
+
+ The greater the value of m, the lower will be the autonomous expenditure multiplier.
+
+ An increase in the demand for exports of a country is an increase in aggregate demand
+         for domestically produced output and will increase equilibrium income just as would
+         an increase in government spending or an autonomous increase in investment.
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions
+
+1. In the Keynesian model, equilibrium aggregate output is determined by
+     (a) aggregate demand
+     (b) consumption function
+     (c) the national demand for labor
+     (d) the price level
+
+2. Keynes believed that an economy may attain equilibrium level of output
+     (a) only at the full-employment level of output
+     (b) below the full-employment level of output
+     (c) only if prices were inflexible
+     (d) a) and c) above
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                   6.71  a
+
+3. According to Keynes, consumption expenditure is determined by
+     (a) the level of interest rates
+     (b) extent of government taxes and subsidies
+     (c) disposable income
+     (d) autonomous investment expenditure
+
+4. The marginal propensity to consume (MPC) can be defined as
+     (a) a change in spending due to a change in income
+     (b) a change in income that is saved after consumption
+     (c) part of income that is spent on consumption.
+     (d) part of income that is not saved.
+
+5. If the consumption function is expressed as C = a + bY then b represents
+         (a) autonomous consumer expenditure when income is zero
+         (b) the marginal propensity to consume.
+         (c) the expenditure multiplier when consumption is increased
+         (d) part of disposable income
+
+6. If the consumption function is expressed as C = a + bY then a represents
+         (a) autonomous consumer expenditure.
+         (b) the marginal propensity to consume.
+         (c) the consumption income relationship
+         (d) Non- linear consumption function
+
+7. If the consumption function is C = 20 + 0.5Yd, then an increase in disposable income by
+         ` 100 will result in an increase in consumer expenditure by `-----------
+         (a) 25
+         (b) 70
+         (c) 50
+         (d) 100
+
+8. If the autonomous consumption equals ` 2,000 and the marginal propensity to consume
+         equals 0.8. If disposable income equals ` 10,000, then total consumption will be ` _____
+         (a) 8,000
+
+© The Institute of Chartered Accountants of India
+    a          6.72  BUSINESS ECONOMICS
+
+         (b) 6,000
+         (c) 10,000
+         (d) None of the above
+9. In the Keynesian cross diagram, the point at which the aggregate demand function
+         crosses the 45-degree line indicates the
+         (a) level of full employment income.
+         (b) less than full employment level of income.
+         (c) equilibrium level of income which may or may not be full employment level of
+
+                   income
+         (d) autonomous level of income which may not be full employment level of income
+10. In a closed economy, aggregate demand is the sum of
+         (a) consumer expenditure, demand for exports and government spending.
+         (b) consumer expenditure, planned investment spending and government spending.
+         (c) consumer expenditure, actual investment spending, government spending and net
+
+                   exports.
+         (d) consumer expenditure, planned investment spending, government spending, and net
+
+                   exports.
+11. Under equation C= a+by, b=0.8, what is the value of 2 sector expenditure multiplier?
+
+         (a) 4
+         (b) 2
+         (c) 5
+         (d) 1
+
+ANSWERS
+
+1.     (a) 2.        (b) 3.                        (c) 4.  (a) 5.   (b) 6.  (a)
+
+7. (c) 8.            (c) 9.                        (c) 10. (b) 11.  (c)
+
+© The Institute of Chartered Accountants of India
+

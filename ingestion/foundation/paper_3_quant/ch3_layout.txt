@@ -1,0 +1,868 @@
+CHAPTER  3
+
+LINEAR INEQUALITIES
+
+ One of the widely used decision making problems, nowadays, is to decide on the optimal mix
+ of scarce resources in meeting the desired goal. In simplest form, it uses several linear
+ inequations in two variables derived from the description of the problem.
+ The objective in this section is to make a foundation of the working methodology for the
+ above by way of introduction of the idea of :
+  development of inequations from the descriptive problem;
+  graphing of linear inequations; and
+  determination of common region satisfying the inequations.
+
+CHAPTER OVERVIEW
+
+         Development of Inequalities               Optimal solution
+         from the Descriptive Problem
+
+          Forms of Linear inequalities             Feasible region or
+          in one variable and solution              Feasible points
+         space with various condition
+                                                   Determination of
+              like >0, >0, <0 and <0                Common region
+
+         Graphing of linear inequation
+
+© The Institute of Chartered Accountants of India
+3.2  BUSINESS MATHEMATICS
+
+Inequalities are statements where two quantities are unequal but a relationship exists between
+them. These type of inequalities occur in business whenever there is a limit on supply, demand,
+sales etc. For example, if a producer requires a certain type of raw material for his factory and
+there is an upper limit in the availability of that raw material, then any decision which he takes
+about production should involve this constraint also. We will see in this chapter more about such
+situations.
+
+Any linear function that involves an inequality sign is a linear inequality. It may be of one variable,
+or, of more than one variable. Simple example of linear inequalities are those of one variable
+only; viz., x > 0, x < 0 etc.
+
+                 x>0                                                          x0
+
+     ­3 ­2  ­1   0    1    2                            3        ­3 ­2 ­1     0          1        2  3
+
+The values of the variables that satisfy an inequality are called the solution space, and is abbreviated
+as S.S. The solution spaces for (i) x > 0, (ii) x  0 are shaded in the above diagrams, by using deep
+lines.
+
+Linear inequalities in two variables: Now we turn to linear inequalities in two variables x and y
+and shade a few S.S.
+
+Let us now consider a linear inequality in two variables given by 3x + y < 6
+
+     y                     y                                  y               y
+
+            x>O               x>O                                x>O             x>O
+
+                                                                 y>O             y>O
+
+                      x                                    x               x                         x
+
+The inequality mentioned above is true for certain pairs of                   AY
+numbers (x, y) that satisfy 3x + y < 6. By trial, we may arbitrarily                      (0, 6)
+find such a pair to be (1,1) because 3  1 + 1 = 4, and 4 < 6.
+
+Linear inequalities in two variables may be solved easily by
+
+extending our knowledge of straight lines.                                       6 ­ 3x      (x, y)
+For this purpose, we replace the inequality by an equality and
+                                                                                       {             (2, 0)
+
+seek the pairs of number that satisfy 3x + y = 6. We may write                O                                          X
+                                                                                                     B
+3x + y = 6 as y = 6 ­ 3x, and draw the graph of this linear
+
+     © The Institute of Chartered Accountants of India
+                                                                                              LINEAR INEQUALITIES             3.3
+
+function.
+
+Let x = 0 so that y = 6. Let y = 0, so that x = 2.
+
+Any pair of numbers (x, y) that satisfies the equation y = 6 ­ 3x falls on the line AB.
+
+Note: The pair of inequalities x  0, y  0 play an important role in linear programming problems.
+
+Therefore, if y is to be less than 6 ­ 3x for the same value of x, it must assume a value that is less
+than the ordinate of length 6 ­ 3x.
+
+All such points (x, y) for which the ordinate is less than 6 ­ 3x lie below the line AB.
+
+The region where these points fall is indicated by an
+
+arrow and is shaded too in the adjoining diagram. Now                                                    Y
+we consider two inequalities 3x + y  6 and x ­ y  ­ 2                                         A
+
+being satisfied simultaneously by x and y. The pairs of
+
+numbers (x, y) that satisfy both the inequalities may be
+
+found by drawing the graphs of the two lines y = 6 ­ 3x                                                     y = 6 ­ 3x
+
+and y = 2 + x, and determining the region where both
+
+the inequalities hold. It is convenient to express each
+
+equality with y on the left-side and the remaining terms
+
+in the right side. The first inequality 3x + y  6 is                                                                       X
+
+equivalent to y  6 ­ 3x and it requires the value of y for                                    O
+
+each x to be less than or equal to that of and on 6 ­ 3x.
+
+The inequality is therefore satisfied by all points lying
+
+below the line y = 6 ­ 3x. The region where these points                                                                B
+
+fall has been shaded in the adjoining diagram.
+
+We consider the second inequality x ­ y  ­2, and note that this is equivalent to y  2 + x. It
+requires the value of y for each x to be larger than or equal to that of 2 + x. The inequality is,
+therefore, satisfied by all points lying on and above the line y = 2 + x.
+
+The region of interest is indicated by an arrow on the line y = 2 + x in the diagram below.
+
+For x = 0, y = 2 + 0 = 2;
+
+For y = 0, 0 = 2 + x i.e, x = ­2.
+
+                                                      y
+
+                                                                                    y=2+x
+
+                                                      (0, 2)
+
+                           (-2, 0)                                                         x
+
+                                                   0
+
+© The Institute of Chartered Accountants of India
+3.4  BUSINESS MATHEMATICS
+
+By superimposing the above two graphs we determine the common region ACD in which the
+pairs (x, y) satisfy both inequalities.
+
+                                                                                AY
+
+                                                                                                                 y=2+x
+                                                                                               C
+
+                              D  O                          X
+                                        y = 6 ­ 3x
+
+Example 1: We now consider the problem of drawing graphs of the following inequalities
+
+     x  0, y  0, x  6, y  7, x + y  12
+
+     and shading the common region.
+
+Note: [1] The inequalities 3x + y  6 and x ­ y  ­2 differ from the preceding ones in that these
+               also include equality signs. It means that the points lying on the corresponding lines
+               are also included in the region.
+
+     [2] The procedure may be extended to any number of inequalities.
+
+We note that the given inequalities may be grouped as follows :
+
+     x  0, y  0
+
+     x  6, y  7, x + y  12
+
+     Y                                                                                                                           Y
+
+                        9 =x                                                                               y =7
+
+     O                               X
+          x > 0, x < 6                                                                                                          X
+
+                                                                              O
+                                                                                                   y > 0, y < 7
+
+                                     Y
+
+                                                                                                                              X
+                                                                                                x + y < 12
+
+     © The Institute of Chartered Accountants of India
+                                                                     LINEAR INEQUALITIES  3.5
+
+By superimposing the above three graphs, we determine the common region in the xy plane
+where all the five inequalities are simultaneously satisfied.
+
+                                                                             Y
+
+                     (0, 7)                        (5,7)
+
+                                                          (6, 6)
+
+                     0,0                                          X
+
+                     O                             (6,0)
+
+This common region is known as feasible region or the solution set (or the polygonal convex
+sets).
+
+A region is said to be bounded if it can be totally included within a (very large) circle. The
+shaded region enclosed by deep lines in the previous diagram is bounded, since it can be
+included within a circle.
+
+The objective function attains a maximum or a minimum value at one of the corner points
+of the feasible solution known as extreme points of the solution set. Once these extreme
+points (the points of intersection of lines bounding the region) are known, a compact matrix
+representation of these points is possible. We shall denote the matrix of the extreme points
+by E.
+
+The coefficients of the objective function may also be represented by a column vector. We
+shall represent this column vector by C.
+
+The elements in the product matrix EC shows different values, which the objective function
+attains at the various extreme points. The largest and the smallest elements in matrix EC are
+respectively the maximum and the minimum values of the objective function. The row in
+matrix EC in which this happens is noted and the elements in that row indicate the appropriate
+pairing and is known as the optimal solution.
+
+In the context of the problem under consideration.
+
+           XY
+
+   0 0
+
+E  0  7  ,C    1  x
+   5  7        2  y
+   6  0
+
+   6 6
+
+© The Institute of Chartered Accountants of India
+3.6     BUSINESS MATHEMATICS
+
+     0 0 01 02  0 
+
+     0  7  1    0  1  7    2    14
+     5  7  2    5  1  7    2
+EC   6  0       6  1  0    2    19
+                                     
+                                  6  
+
+     6 6        61 62 18
+
+The given objective function viz. Z = x + 2y is maximum at the points (5, 7) present in the
+third row of the matrix E. Thus the optimal solution is x = 5, y = 7, and the maximum value
+of the objective function is 19.
+
+We now list the steps to be followed under graphical solution to a linear programming problem.
+
+Step 1 Determine the region that satisfies the set of given inequalities.
+
+Step 2 Ensure that the region is bounded*. If the region is not bounded, either there are
+           additional hidden conditions which can be used to bound the region or there is no
+           solution to the problem.
+
+Step 3 Construct the matrix E of the extreme points, and the column vector C of the objective
+           function.
+
+Step 4 Find the matrix product EC. For maximization, determine the row in EC where the
+           largest element appears; while for minimization, determine the row in EC where
+           the smallest element appears.
+
+Step 5 The objective function is optimized corresponding to the same row elements of the
+           extreme point matrix E.
+
+Note: If the slope of the objective function be same as that of one side of feasible region,
+           there are multiple solutions to the problem. However, the optimized value of the
+           objective function remains the same.
+
+Example 2:
+
+A manufacturer produces two products A and B, and has his machines in operation for 24 hours a
+day. Production of A requires 2 hours of processing in machine M1 and 6 hours in machine M2.
+Production of B requires 6 hours of processing in machine M1 and 2 hours in machine M2. The
+manufacturer earns a profit of ` 5 on each unit of A and ` 2 on each unit of B. How many units of
+each product should be produced in a day in order to achieve maximum profit?
+
+Solution:
+
+Let x1 be the number of units of type A product to be produced, and x2 is that of type B
+product to be produced. The formulation of the L.P.P. in this case is as below:
+
+Maximize Z = 5x1 + 2x2
+
+* It is inconceivable for a practical problem to have an unbounded solution.
+
+     © The Institute of Chartered Accountants of India
+                                                                                          LINEAR INEQUALITIES  3.7
+
+subject to the constraints.
+
+2x1 + 6x2< 24       2x1 + 6x2 = 24
+6x1 + 2x2< 24       Let x1 = 0, so that x2 = 4
+x1 > 0, x2 > 0      Let x2 = 0, so that x1 = 12
+For the line        6x1 + 2x2 = 24
+                    Let x1 = 0, so that x2 = 12
+For the line        Let x2 = 0, so that x1 = 4
+
+                    X2
+
+                             (0, 12)
+
+                             6x 1 + 2x 2 = 24
+
+                             E2(0, 4) E3(3, 3)
+
+                                                         2x     +  6x     =  24
+                                                             1         2
+
+                                               E4(4, 0)                                   X1
+
+                    E1 (0,0)                                                     (12, 0)
+
+The shaded portion in the diagram is the feasible region and the matrix of the extreme points
+E1, E2, E3 and E4 is
+
+   X1 Y2
+
+   0 0 E1
+   0 4 E2
+E
+   3  3         E3
+   4  0         E4
+
+© The Institute of Chartered Accountants of India
+3.8         BUSINESS MATHEMATICS
+
+                                                                         5 x1
+The column vector for the objective function is C = 2 x2
+The column vector the values of the objective function is given by
+
+      0  0       0 5  0 2  0  E1
+EC  0
+         4  5    0 5    4 2       8    E2
+      3  3  2    35     32             E3
+      4  0       4  5   0 2            E4
+                                21
+                               20
+
+Since 21 is the largest element in matrix EC, therefore the maximum value is reached at the
+extreme point E3 whose coordinates are (3,3).
+
+Thus, to achieve maximum profit the manufacturer should produce 3 units each of both the
+products A and B.
+
+Summary of Graphical Method
+
+It involves:
+
+(i) Formulating the linear programming problem, i.e. expressing the objective function and
+      constraints in the standardised format.
+
+(ii) Plotting the capacity constraints on the graph paper. For this purpose normally two
+      terminal points are required. This is done by presuming simultaneously that one of the
+      constraints is zero. When constraints concerns only one factor, then line will have only
+      one origin point and it will run parallel to the other axis.
+
+(iii) Identifying feasible region and coordinates of corner points. Mostly it is done by breading
+      the graph, but a point can be identified by solving simultaneous equation relating to
+      two lines which intersect to form a point on graph.
+
+(iv) Testing the corner point which gives maximum profit. For this purpose the coordinates
+      relating to the corner point should put in objectives function and the optimal point
+      should be ascertained.
+
+(v) For decision ­ making purpose, sometimes, it is required to know whether optimal point
+      leaves some resources unutilized. For this purpose value of coordinates at the optimal
+      point should be put with constraint to find out which constraints are not fully utilized.
+
+Example 3: A company produces two products A and B, each of which requires processing in
+two machines. The first machine can be used at most for 60 hours, the second machine can be
+used at most for 40 hours. The product A requires 2 hours on machine one and one hour on
+machine two. The product B requires one hour on machine one and two hours on machine two.
+Express above situation using linear inequalities.
+
+Solution: Let the company produce, x number of product A and y number of product B. As each
+of product A requires 2 hours in machine one and one hour in machine two, x number of product
+A requires 2x hours in machine one and x hours in machine two. Similarly, y number of product
+
+     © The Institute of Chartered Accountants of India
+                                                                          LINEAR INEQUALITIES  3.9
+
+B requires y hours in machine one and 2y hours in machine two. But machine one can be used for
+60 hours and machine two for 40 hours. Hence 2x + y cannot exceed 60 and x + 2y cannot exceed
+40. In other words,
+
+2x + y  60           and x + 2y  40.
+
+Thus, the conditions can be expressed using linear inequalities.
+
+Example 4: A fertilizer company produces two types of fertilizers called grade I and grade II.
+Each of these types is processed through two critical chemical plant units. Plant A has maximum
+of 120 hours available in a week and plant B has maximum of 180 hours available in a week.
+Manufacturing one bag of grade I fertilizer requires 6 hours in plant A and 4 hours in plant B.
+Manufacturing one bag of grade II fertilizer requires 3 hours in plant A and 10 hours in plant B.
+Express this using linear inequalities.
+
+Solution: Let us denote by x1, the number of bags of fertilizers of grade I and by x2, the number of
+bags of fertilizers of grade II produced in a week. We are given that grade I fertilizer requires 6
+hours in plant A and grade II fertilizer requires 3 hours in plant A and plant A has maximum of
+120 hours available in a week. Thus 6x1 + 3x2  120.
+
+Similarly grade I fertilizer requires 4 hours in plant B and grade II fertilizer requires 10 hours in
+Plant B and Plant B has maximum of 180 hours available in a week. Hence, we get the inequality
+4x1 + 10x2  180.
+
+Example 5: Graph the inequalities 5x1 + 4x2  9, x1 + x2  3, x1 0 and x20 and mark the
+common region.
+
+Solution: We draw the straight lines 5x1 + 4x2 = 9 and x1 + x2 = 3.
+
+Table for 5x1 + 4x2 = 9                            Table for x1 + x2 = 3
+
+x1                0  9/5                           x1  0                  3
+
+x2  9/4              0                             x2  3                  0
+
+Now, if we take the point (4, 4), we find
+
+      5x1 + 4x2  9
+i.e., 5.4 + 4.4  9
+
+or, 36  9 (True)
+
+      x1 + x2  3
+i.e., 4 + 4  3
+
+8  3 (True)
+
+© The Institute of Chartered Accountants of India
+3.10  BUSINESS MATHEMATICS
+
+Hence (4, 4) is in the region which satisfies the                      x2
+
+inequalities.
+
+We mark the region being satisfied by the
+
+inequalities and note that the cross-hatched                     4
+
+region is satisfied by all the inequalities.                     3                           x   +x
+                                                                                                   2
+                                                                                             1
+
+Example 6: Draw the graph of the solution set                    2                                    =3
+
+of the following inequality and equality:                                        5x   +4x
+                                                                                   1      2
+
+                                                         x2 = 0  1                           =9
+
+      x + 2y = 4.                                                                                                                                 x1
+
+                                                                    0                 1                   2  3  4
+
+                                                                           0
+
+      x ­ y  3.                                                            =
+
+                                                                           x
+                                                                              1
+
+      Mark the common region.
+
+Solution: We draw the graph of both x + 2y = 4 and x ­ y  3 in the same plane.
+
+The solution set of system is that portion of the graph of x + 2y = 4 that lies within the half-plane
+representing the inequality x ­ y 3.
+
+For x + 2y = 4,                                                                                       y
+x40                                                                                                          x­y=4
+y02
+                                                                                                                                               x
+For x ­ y = 3,
+x30                                                                              x = ­2                         x+y=4
+y 0 ­3
+
+Example 7: Draw the graphs of the following
+inequalities:
+
+         x + y  4,
+         x ­ y  4,
+         x  ­2.
+and mark the common region.
+      For x ­ y = 4,
+      x40
+      y 0 ­4
+
+      © The Institute of Chartered Accountants of India
+                                                                  LINEAR INEQUALITIES     3.11
+
+For x + y = 4,
+x04
+y40
+
+The common region is the one represented by overlapping of the shadings.
+Example 8: Draw the graphs of the following linear inequalities:
+
+5x + 4y 100,       5x + y  40,
+3x + 5y  75,       x  0, y  0.
+
+and mark the common region.
+Solution:
+
+5x + 4y = 100 or,            x + y =1
+3x + 5y = 75 or,             20 25
+                             x + y =1
+                             25 15
+
+5x + y = 40 or,              x + y =1
+                             8 40
+
+Plotting the straight lines on the graph paper we have the above diagram:
+
+The common region of the given inequalities is shown by the shaded portion ABCD.
+
+Example 9: Draw the graphs of the following linear inequalities:
+
+5x + 8y  2000, x  175,       x0.
+
+7x + 4y  1400, y  225,       y  0.
+
+and mark the common region:
+
+Solution: Let us plot the line AB (5x +8y = 2,000) by joining     x        400         0
+the points A(400, 0) and B(0, 250).
+
+                                                                  y           0        250
+
+Similarly, we plot the line CD (7x + 4y = 1400) by                x        200         0
+joining the points C(200, 0) and D(0, 350).
+                                                                  y        0           350
+
+© The Institute of Chartered Accountants of India
+3.12         BUSINESS MATHEMATICS
+
+Also, we draw the lines EF(x = 175)
+and GH (y = 225).
+The required graph is shown alongside
+in which the common region is shaded.
+
+Example 10: Draw the graphs of the following linear inequalities:
+
+      x + y 1,  7x + 9y  63,
+
+      y  5,     x  6,                                    x  0, y  0.
+
+and mark the common region.
+
+                x1 0                                     x9 0
+Solution: x + y = 1 ; y 0 1 ; 7x + 9y = 63, y 0 7 .
+
+We plot the line AB (x + y = 1), CD (y = 5), EF (x = 6),
+
+DE (7x + 9y = 63).
+
+Given inequalities are shown by arrows.
+
+Common region ABCDEF is the shaded region.
+
+Example 11: Two machines (I and II) produce two grades of plywood, grade A and grade B. In
+one hour of operation machine I produces two units of grade A and one unit of grade B, while
+machine II, in one hour of operation produces three units of grade A and four units of grade B.
+The machines are required to meet a production schedule of at least fourteen units of grade A
+and twelve units of grade B. Express this using linear inequalities and draw the graph.
+
+Solution: Let the number of hours required on machine I be x and that on machine II be y. Since
+in one hour, machine I can produce 2 units of grade A and one unit of grade B, in x hours it will
+produce 2x and x units of grade A and B respectively. Similarly, machine II, in one hour, can
+produce 3 units of grade A and 4 units of grade B. Hence, in y hours, it will produce 3y and 4y
+units Grade A & B respectively.
+
+      © The Institute of Chartered Accountants of India
+                                                               LINEAR INEQUALITIES  3.13
+
+The given data can be expressed in the form of linear inequalities as follows:
+2x + 3y  14 (Requirement of grade A)
+x + 4y  12 (Requirement of grade B)
+Moreover x and y cannot be negative, thus x 0 and y  0
+Let us now draw the graphs of above inequalities. Since both x and y are positive, it is enough to
+draw the graph only on the positive side.
+The inequalities are drawn in the following graph:
+
+      For 2x + 3y = 14,
+      x70
+      y 0 4.66
+
+      For x + 4y = 12,
+      x 0 12
+      y30
+
+In the above graph we find that the shaded portion is moving towards infinity on the positive
+side. Thus the result of these inequalities is unbounded.
+
+Choose the correct answer/answers
+
+1 (i) An employer recruits experienced (x) and fresh workmen (y) for his firm under the
+            condition that he cannot employ more than 9 people. x and y can be related by the
+            inequality
+
+(a) x + y  9 (b) x + y  9 x  0, y  0 (c) x + y  9 x  0, y  0 (d) none of these
+
+(ii) On the average experienced person does 5 units of work while a fresh one 3 units of
+      work daily but the employer has to maintain an output of at least 30 units of work per
+      day. This situation can be expressed as
+
+(a) 5x + 3y 30 (b) 5x + 3y >30                     (c) 5x+3y30 x  0, y  0 (d) none of these
+
+(iii) The rules and regulations demand that the employer should employ not more than 5
+      experienced hands to 1 fresh one and this fact can be expressed as
+
+(a) y  x/5  (b) 5y  x                              (c) 5 y  x  (d) none of these
+
+© The Institute of Chartered Accountants of India
+3.14  BUSINESS MATHEMATICS
+
+      (iv) The union however forbids him to employ less than 2 experienced person to each fresh
+            person. This situation can be expressed as
+
+      (a) x  y/2  (b) y  x/2                             (c) y  x /2  (d) x  2y
+
+      (v) The graph to express the inequality x + y  9 is
+
+      (a)                                                (b)
+
+              o                                                        o
+      (c)                                                (d) none of these
+
+           o
+
+      (vi) The graph to express the inequality 5x + 3y  30 is
+
+      (a)                                                (b)
+
+              o                                                         o
+      (c)                                                (d) none of these
+
+           o
+
+      © The Institute of Chartered Accountants of India
+                                                                 LINEAR INEQUALITIES  3.15
+
+  (vii) The graph to express the inequality y      1       x is indicated by
+                                                   2
+
+(a)                                                (b)
+
+       o                                                  o
+(c)                                                (d)
+
+          o                                                   o
+
+(viii)
+
+L1 : 5x + 3y = 30 L2 : x+y = 9 L3 : y = x/3 L4 : y = x/2
+
+The common region (shaded part) shown in the diagram refers to
+
+(a) 5x + 3y  30 (b) 5x + 3y  30 (c) 5x + 3y  30 (d) 5x + 3y > 30 (e) None of these
+
+x+y9         x+y9                                  x+y9          x+y<9
+
+y  1/5 x     y  x/3                                y  x/3        y9
+
+y  x/2       y  x/2                                y  x/2        y  x/2
+
+             x  0, y 0                             x  0, y 0     x  0, y 0
+
+© The Institute of Chartered Accountants of India
+3.16  BUSINESS MATHEMATICS
+
+2. A dietitian wishes to mix together two kinds of food so that the vitamin content of the
+      mixture is at least 9 units of vitamin A, 7 units of vitamin B, 10 units of vitamin C and 12
+      units of vitamin D. The vitamin content per Kg. of each food is shown below:
+
+                     A                 B                 C              D
+
+      Food I :       2                 1                 1              2
+
+      Food II:       1                 1                 2              3
+
+      Assuming x units of food I is to be mixed with y units of food II the situation can be expressed
+      as
+
+      (a) 2x + y  9 (b) 2x + y  30 (c) 2x + y  9                        (d) 2x + y  9
+
+      x+y7              x+y7                             x+y7           x+y7
+
+      x + 2y  10        x + 2y  10                       x + y  10      x +2 y  10
+
+      2x +3 y  12       x + 3y  12                       x + 3y  12     2x +3 y  12
+
+      x > 0, y > 0                                                      x  0, y  0,
+
+3. Graphs of the inequations are drawn below :
+
+                o
+
+      L1 : 2x +y = 9 L2 : x + y = 7 L3 : x+2y= 10 L4 : x + 3y = 12
+
+      The common region (shaded part) indicated on the diagram is expressed by the set of
+      inequalities
+
+      (a) 2x + y  9     (b) 2x + y  9                    (c) 2x + y  9  (d) none of these
+           x+y7              x+y7                             x+y7
+
+      x + 2y  10        x +2 y  10                       x +2y  10
+
+      x +3 y  12        x + 3y  12                       x +3 y  12
+                                                         x  0, y 0
+
+      © The Institute of Chartered Accountants of India
+                 LINEAR INEQUALITIES                                              3.17
+
+4. The common region satisfied by the inequalities L1: 3x + y  6, L2: x + y  4, L3: x +3y  6, and
+      L4: x + y  6 is indicated by
+
+(a)         (b)
+
+         o           o
+(c)         (d) none of these
+
+               o
+5. The region indicated by the shading in the graph is expressed by inequalities
+
+                 o
+
+   © The Institute of Chartered Accountants of India
+3.18            BUSINESS MATHEMATICS
+
+      (a) x1 + x2  2 (b) x1 + x2  2                      (c) x1 + x2  2  (d) x1 + x2  2
+
+           2x1 + 2x2  8    x2 x1 + x2  4                 2x1 + 2x2  8    2x1 + 2x2 > 8
+
+           x1  0 , x2  0,
+
+6. (i) The inequalities x1  0, x2  0, are represented by one of the graphs shown below:
+
+      (a)                                                (b)
+
+             o                                                 o
+      (c)                                                (d)
+
+                                                              o
+
+           o                                             The region is expressed as
+      (ii)
+                                                         (a) x1 ­ x2  1
+              o                                          (b) x1 + x2  1
+                                                         (c) x1 + x2  1
+                                                         (d) none of these
+
+      © The Institute of Chartered Accountants of India
+                                                                LINEAR INEQUALITIES  3.19
+
+(iii) The inequality ­x1 + 2x2  0 is indicated on the graph as
+
+(a)                                                (b)
+
+            o                                             o
+(c)                                                (d) none of these
+
+              o
+7.
+
+© The Institute of Chartered Accountants of India
+3.20       BUSINESS MATHEMATICS
+
+      The common region indicated on the graph is expressed by the set of five inequalities
+
+      (a) L1 : x1  0          (b) L1 : x1  0             (c) L1 : x1  0   (d) None of these
+
+           L2 : x2  0            L2 : x2  0              L2 : x2  0
+
+           L3 : x1 + x2  1       L3 : x1+x2  1           L3 : x1+ x2  1
+
+           L4 : x1 ­ x2  1       L4 : x1­x2  1           L4 : x1­x2  1
+
+           L5 : ­x1 + 2x2  0     L5 :­ x1+2x2  0         L5 :­ x1+2x2  0
+
+8. A firm makes two types of products : Type A and Type B. The profit on product A is ` 20
+
+      each and that on product B is ` 30 each. Both types are processed on three machines M1, M2
+
+      and M3. The time required in hours by each product and total time available in hours per
+
+      week on each machine are as follows:
+
+      Machine               Product A                    Product B        Available Time
+
+           M1                 3                               3           36
+
+           M2                 5                               2           50
+
+           M3                 2                               6           60
+
+      The constraints can be formulated taking x1 = number of units A and x2 = number of unit of
+      B as
+
+      (a) x1 + x2  12         (b) 3x1 + 3x2  36 (c) 3x1 + 3x2  36 (d) none of these
+
+           5x1 + 2x2  50         5x1 + 2x2  50           5x1 + 2x2  50
+
+           2x1 + 6x2  60         2x1 + 6x2  60           2x1 + 6x2  60
+
+                                 x1 0, x2  0             x1 0, x2  0
+
+9. The set of inequalities L1: x1 + x2  12, L2: 5x1 + 2x2  50, L3: x1 + 3x2  30, x1  0, and x2  0 is
+      represented by
+
+      (a)                                                (b)
+
+      © The Institute of Chartered Accountants of India
+          LINEAR INEQUALITIES  3.21
+
+(c)  (d) none of these
+
+10. The common region satisfying the set of inequalities x  0, y  0, L1: x+y  5, L2: x +2y  8
+      and L3: 4x +3y  12 is indicated by
+
+(a)  (b)
+
+(c)  (d) none of these
+
+ Any linear function that involves an inequality sign is a linear inequality. It may be of one
+      variable, or, of more than one variable. Simple example of linear inequalities are those of
+      one variable only; viz., x > 0, x < 0.
+
+ The values of the variables that satisfy an inequality are called the solution space, and is
+      abbreviated as S.S. The solution spaces for (i) x > 0, (ii) x < 0 are shaded in the diagrams, by
+      using deep lines.
+
+ Linear inequalities in two variables may be solved easily by extending our knowledge of
+      straight lines.
+
+© The Institute of Chartered Accountants of India
+3.22  BUSINESS MATHEMATICS
+
+1. (i) (b) (ii) (c) (iii) (a or c) (iv) (b) (v) (a) (vi) (c) (vii) (d) (viii) (b)
+2. (d) 3. (c) 4. (a) 5. (a) 6. (i) (b) (ii) (c) (iii) (a)
+7. (b) 8. (c) 9. (b) 10. (a)
+
+1. On solving the inequalities 2x  5 y  20 , 3x  2 y  12 , x  0, y  0 , we get the following situation
+
+        (a)                                                (b)
+      (0, 0), (0, 4), (4, 0) and  2011,      36          (0, 0), (10, 0), (0, 6) and  2011,      36
+                                                11                                                  11
+
+      (c) (0, 0), (0, 4), (4, 0) and (2, 3)              (d) (0, 0), (10, 0), (0, 6) and (2, 3)
+
+2. On solving the inequalities 6x  y  18 , x  4 y  12 , 2x  y  10 , we get the following situation
+      (a) (0, 18), (12, 0), (4, 2) and (2, 6)
+      (b) (3, 0), (0, 3), (4, 2) and (7, 6)
+      (c) (5, 0), (0, 10), (4, 2) and (7, 6)
+
+      (d) (0, 18), (12, 0), (4, 2), (0, 0) and (7, 6)
+
+1. (a) 2. (a)
+
+      © The Institute of Chartered Accountants of India
+

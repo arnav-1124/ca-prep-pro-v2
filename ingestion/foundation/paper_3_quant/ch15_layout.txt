@@ -1,0 +1,3409 @@
+15 CHAPTER
+
+PROBABILITY
+
+Concept of probability is used in accounting and finance to understand the likelihood
+of occurrence or non-occurrence of a variable. It helps in developing financial forecasting in
+which you need to develop expertise at an advanced stage of chartered accountancy course.
+
+CHAPTER OVERVIEW
+
+Introduction               Random                  Event  Definition of                  Random
+                        Experimental                      probability                    Variable
+
+Simple        Compound  Mutually                          Exhaustive     Equally Likely
+                        Exclusive                           Events           Events
+
+                         Events
+
+Statistical definition  Set theoretic approach                        Modern definition
+    of probability            to Probability                             of Probability
+
+Addition                Conditional                Compound theorem of
+theorems                probability                        probability
+
+                                                   Compound Probability
+
+                                                                      Probability   Expected value
+                                                                      Distribution    of Random
+                                                                                        Variable
+
+© The Institute of Chartered Accountants of India
+15.2  STATISTICS
+
+The terms 'Probably' 'in all likelihood', 'chance', 'odds in favour', 'odds against' are too familiar
+nowadays and they have their origin in a branch of Mathematics, known as Probability. In recent
+time, probability has developed itself into a full-fledged subject and become an integral part of
+statistics. The theories of Testing Hypothesis and Estimation are based on probability.
+
+It is rather surprising to know that the first application of probability was made by a group of
+mathematicians in Europe about three hundreds years back to enhance their chances of winning
+in different games of gambling. Later on, the theory of probability was developed by Abraham
+De Moicere and Piere-Simon De Laplace of France, Reverend Thomas Bayes and R. A. Fisher of
+England, Chebyshev, Morkov, Khinchin, Kolmogorov of Russia and many other noted
+mathematicians as well as statisticians.
+
+Two broad divisions of probability are Subjective Probability and Objective Probability. Subjective
+Probability is basically dependent on personal judgement and experience and, as such, it may be
+influenced by the personal belief, attitude and bias of the person applying it. However in the
+field of uncertainty, this would be quite helpful and it is being applied in the area of decision
+making management. This Subjective Probability is beyond the scope of our present discussion.
+We are going to discuss Objective Probability in the remaining sections.
+
+In order to develop a sound knowledge about probability, it is necessary to get ourselves familiar
+with a few terms.
+
+Experiment: An experiment may be described as a performance that produces certain results.
+
+Random Experiment: An experiment is defined to be random if the results of the experiment
+depend on chance only. For example if a coin is tossed, then we get two outcomes--Head (H)
+and Tail (T). It is impossible to say in advance whether a Head or a Tail would turn up when we
+toss the coin once. Thus, tossing a coin is an example of a random experiment. Similarly, rolling
+a dice (or any number of dice), drawing items from a box containing both defective and non--
+defective items, drawing cards from a pack of well shuffled fifty two cards etc. are all random
+experiments.
+
+Events: The results or outcomes of a random experiment are known as events. Sometimes events
+may be combination of outcomes. The events are of two types:
+
+(i) Simple or Elementary,
+
+(ii) Composite or Compound.
+
+An event is known to be simple if it cannot be decomposed into further events. Tossing a coin
+once provides us two simple events namely Head and Tail. On the other hand, a composite
+event is one that can be decomposed into two or more events. Getting a head when a coin is
+tossed twice is an example of composite event as it can be split into the events HT and TH which
+are both elementary events.
+
+   © The Institute of Chartered Accountants of India
+                                                                PROBABILITY                        15.3
+
+Mutually Exclusive Events or Incompatible Events: A set of events A1, A2, A3, ...... is known
+to be mutually exclusive if not more than one of them can occur simultaneously. Thus occurrence
+of one such event implies the non-occurrence of the other events of the set. Once a coin is tossed,
+we get two mutually exclusive events Head and Tail.
+
+Exhaustive Events: The events A1, A2, A3, ............ are known to form an exhaustive set if one
+of these events must necessarily occur. As an example, the two events Head and Tail, when a
+coin is tossed once, are exhaustive as no other event except these two can occur.
+
+Equally Likely Events or Mutually Symmetric Events or Equi-Probable Events: The events of
+a random experiment are known to be equally likely when all necessary evidence are taken into
+account, no event is expected to occur more frequently as compared to the other events of the set
+of events. The two events Head and Tail when a coin is tossed is an example of a pair of equally
+likely events because there is no reason to assume that Head (or Tail) would occur more frequently
+as compared to Tail (or Head).
+
+Let us consider a random experiment that result in n finite elementary events, which are assumed
+
+to be equally likely. We next assume that out of these n events, nA (  n) events are favourable to
+an event A. Then the probability of occurrence of the event A is defined as the ratio of the
+number of events favourable to A to the total number of events. Denoting this by P(A), we have
+
+P(A)  nA       =  No. of equally likely events favourable to A  ................ (15.1)
+         n
+                  Total no. of equally likely events
+
+However if instead of considering all elementary events, we focus our attention to only those
+composite events, which are mutually exclusive, exhaustive and equally likely and if m(  n)
+
+denotes such events and is furthermore mA( nA) denotes the no. of mutually exclusive, exhaustive
+and equally likely events favourable to A, then we have
+
+            m     No. of mutually exclusive, exhaustive and equally likely events favourable to A
+P(A) = A =
+                  Total no.of mutually exclusive, exhaustive and equally likely events
+            m
+
+                                                                                                   .................. (15.2)
+
+For this definition of probability, we are indebted to Bernoulli and Laplace. This definition is
+also termed as a priori definition because probability of the event A is defined on the basis of
+prior knowledge.
+
+© The Institute of Chartered Accountants of India
+15.4    STATISTICS
+
+This classical definition of probability has the following demerits or limitations:
+(i) It is applicable only when the total no. of events is finite.
+(ii) It can be used only when the events are equally likely or equi-probable. This assumption is
+
+      made well before the experiment is performed.
+(iii) This definition has only a limited field of application like coin tossing, dice throwing, drawing
+
+      cards etc. where the possible events are known well in advance. In the field of uncertainty or
+      where no prior knowledge is provided, this definition is inapplicable.
+
+In connection with classical definition of probability, we may note the following points:
+
+(a) The probability of an event lies between 0 and 1, both inclusive.
+
+      i.e. 0  P(A)  1                                                            ....... (15.3)
+
+      When P(A) = 0, A is known to be an impossible event and when P(A) = 1, A is known to be
+      a sure event.
+
+                                                                             
+(b) Non-occurrence of event A is denoted by A' or AC or  and it is known as complimentary
+
+      event of A. The event A along with its complimentary A' forms a set of mutually exclusive
+      and exhaustive events.
+
+      i.e. P(A) + P (A') = 1
+
+        P(A') = 1  P(A)
+
+                       1        mA
+                                 m
+
+                          =     m  mA                                  ............... (15.4)
+                                   m
+
+(c) The ratio of no. of favourable events to the no. of unfavourable events is known as odds in
+      favour of the event A and its inverse ratio is known as odds against the event A.
+
+      i.e. odds in favour of A                     = mA : (m ­ mA)     .................. (15.5)
+            and odds against A                     = (m ­ mA) : mA     .................. (15.6)
+
+       ILLUSTRATIONS:
+Example 15.1: A coin is tossed three times. What is the probability of getting:
+(i) 2 heads
+(ii) at least 2 heads.
+
+© The Institute of Chartered Accountants of India
+                                                            PROBABILITY  15.5
+
+Solution: When a coin is tossed three times, first we need enumerate all the elementary events.
+This can be done using 'Tree diagram' as shown below:
+
+                                                         H
+                                                      HT
+                                                      TH
+                                                   H
+
+                 Start                                   T
+                                                         H
+
+                                                   TH    T
+
+                                                      T  H
+
+                                                         T
+
+Hence the elementary events are
+
+HHH, HHT, HTH, HTT, THH, THT, TTH, TTT
+
+Thus the number of elementary events (n) is 8.
+
+(i) Out of these 8 outcomes, 2 heads occur in three cases namely HHT, HTH and THH. If we
+      denote the occurrence of 2 heads by the event A and if assume that the coin as well as
+      performer of the experiment is unbiased then this assumption ensures that all the eight
+      elementary events are equally likely. Then by the classical definition of probability, we
+      have
+
+P (A)  =  n  A
+
+          n
+
+       =  3
+
+          8
+
+       =  0.375
+
+(ii) Let B denote occurrence of at least 2 heads i.e. 2 heads or 3 heads. Since 2 heads occur in 3
+      cases and 3 heads occur in only 1 case, B occurs in 3 + 1 or 4 cases. By the classical definition
+      of probability,
+
+P(B)   =  4
+
+          8
+
+       =  0.50
+
+Example 15.2: A dice is rolled twice. What is the probability of getting a difference of 2 points?
+
+Solution: If an experiment results in p outcomes and if the experiment is repeated q times, then
+the total number of outcomes is pq. In the present case, since a dice results in 6 outcomes and the
+dice is rolled twice, total no. of outcomes or elementary events is 62 or 36. We assume that the
+dice is unbiased which ensures that all these 36 elementary events are equally likely. Now a
+difference of 2 points in the uppermost faces of the dice thrown twice can occur in the following
+cases:
+
+© The Institute of Chartered Accountants of India
+15.6       STATISTICS
+
+                             1st Throw               2nd Throw         Difference
+
+                                6                    4                          2
+
+                                5                    3                          2
+
+                                4                    2                          2
+
+                                3                    1                          2
+
+                                1                    3                          2
+
+                                2                    4                          2
+
+                                3                    5                          2
+
+                                4                    6                          2
+
+Thus denoting the event of getting a difference of 2 points by A, we find that the no. of outcomes
+favourable to A, from the above table, is 8. By classical definition of probability, we get
+
+                 8
+
+      P(A)= 36
+
+                             =  2
+                                9
+
+Example 15.3: Two dice are thrown simultaneously. Find the probability that the sum of points
+on the two dice would be 7 or more.
+
+Solution: If two dice are thrown then, as explained in the last problem, total no. of elementary
+events is 62 or 36. Now a total of 7 or more i.e. 7 or 8 or 9 or 10 or 11 or 12 can occur only in the
+following combinations:
+
+SUM = 7:            (1, 6),        (2, 5),           (3, 4),           (4, 3),           (5, 2),  (6, 1)
+
+SUM = 8:               (2, 6),              (3, 5),           (4, 4),           (5, 3),           (6, 2)
+
+SUM = 9:                           (3, 6),           (4, 5),           (5, 4),           (6, 3)
+
+SUM = 10:                                   (4, 6),           (5, 5),           (6, 4)
+
+SUM = 11:                                            (5, 6),           (6, 5)
+
+SUM = 12:                                                     (6, 6)
+
+Thus the no. of favourable outcomes is 21. Letting A stand for getting a total of 7 points or more,
+we have
+
+© The Institute of Chartered Accountants of India
+                                                   PROBABILITY  15.7
+
+             21
+
+P(A) = 36
+
+      =  7
+         12
+
+Example 15.4: What is the chance of picking a spade or an ace not of spade from a pack of 52
+cards?
+
+Solution: A pack of 52 cards contain 13 Spades, 13 Hearts, 13 Clubs and 13 Diamonds. Each of
+these groups of 13 cards has an ace. Hence the total number of elementary events is 52 out of
+which 13 + 3 or 16 are favourable to the event A representing picking a Spade or an ace not of
+Spade. Thus we have
+
+P(A)     =       16  =4
+                 52    13
+
+P(AB) = P(A) + P(B) ­ P(AB)
+
+         =       13  =  3          16  =  4
+                 52     52  ­ 0 = 52      13
+
+Example 15.5: Find the probability that a four digit number comprising the digits 2, 5, 6 and 7
+would be divisible by 4.
+
+Solution: Since there are four digits, all distinct, the total number of four digit numbers that can
+be formed without any restriction is 4! or 4 × 3 × 2 × 1 or 24. Now a four digit number would be
+divisible by 4 if the number formed by the last two digits is divisible by 4. This could happen
+when the four digit number ends with 52 or 56 or 72 or 76. If we fix the last two digits by 52, and
+then the 1st two places of the four digit number can be filled up using the remaining 2 digits in
+2! or 2 ways. Thus there are 2 four digit numbers that end with 52. Proceeding in this manner, we
+find that the number of four digit numbers that are divisible by 4 is 4 × 2 or 8. If (A) denotes the
+event that any four digit number using the given digits would be divisible by 4, then we have
+
+P(A) = 8
+
+             24
+
+                     1
+
+              =3
+
+Example 15.6: A committee of 7 members is to be formed from a group comprising 8 gentlemen
+and 5 ladies. What is the probability that the committee would comprise:
+(a) 2 ladies,
+(b) at least 2 ladies.
+Solution: Since there are altogether 8 + 5 or 13 persons, a committee comprising 7 members can
+be formed in
+
+© The Institute of Chartered Accountants of India
+15.8          STATISTICS
+
+           13C7       or      13!            or    13×12×11×10×9×8×7!
+                              7!6!                   7!×6×5×4×3×2×1
+
+      or 11 × 12 × 13 ways.
+
+(a) When the committee is formed taking 2 ladies out of 5 ladies, the remaining (7­2) or 5
+      committee members are to be selected from 8 gentlemen. Now 2 out of 5 ladies can be
+      selected in 5C2 ways and 5 out of 8 gentlemen can be selected in 8C5 ways. Thus if A denotes
+      the event of having the committee with 2 ladies, then A can occur in 5C2× 8C5 or
+
+      5×4  ×  8  ×7×  6  or 10 × 56  ways.
+      2×1        3×2
+
+                                   10×56
+
+      Thus P(A) = 11×12×13
+
+                               140
+                         = 429
+
+(b) Since the minimum number of ladies is 2, we can have the following combinations:
+
+      Population:             5L                   8G
+
+      Sample:                 2L          +        5G
+
+      or                      3L          +        4G
+
+      or                      4L          +        3G
+
+      or                      5L          +        2G
+
+Thus if B denotes the event of having at least two ladies in the committee, then B can occur in
+
+5C2 × 8C5 + 5C3 × 8C4 + 5C4 × 8C3+ 5C5 × 8C2
+i.e. 1568 ways.
+
+                             1568
+
+Hence P(B) = 11×12×13
+
+                 =       392
+                         429
+
+Owing to the limitations of the classical definition of probability, there are cases when we consider
+the statistical definition of probability based on the concept of relative frequency. This definition
+of probability was first developed by the British mathematicians in connection with the survival
+probability of a group of people.
+
+© The Institute of Chartered Accountants of India
+                                                                      PROBABILITY                    15.9
+
+Let us consider a random experiment repeated a very good number of times, say n, under an
+
+identical set of conditions. We next assume that an event A occurs fA times. Then the limiting
+value of the ratio of fA to n as n tends to infinity is defined as the probability of A.
+
+i.e. P(A) = lim F A                                                   ................... (15.7)
+                 n n  
+
+This statistical definition is applicable if the above limit exists and tends to a finite value.
+
+Example 15.7: The following data relate to the distribution of wages of a group of workers:
+
+Wages in `:          50-60 60-70 70-80 80-90                  90-100 100-110 110-120
+
+No. of workers:         15  23                     36  42         17  12                          5
+
+If a worker is selected at random from the entire group of workers, what is the probability that
+
+(a) his wage would be less than ` 50?
+
+(b) his wage would be less than ` 80?
+
+(c) his wage would be more than ` 100?
+
+(d) his wages would be between ` 70 and ` 100?
+
+Solution: As there are altogether 150 workers, n = 150.
+
+(a) Since there is no worker with wage less than ` 50, the probability that the wage of a randomly
+
+selected worker would be less than ` 50 is P(A) =         0   =0
+                                                         150
+
+(b) Since there are (15+23+36) or 74 worker having wages less than ` 80 out of a group of 150
+      workers, the probability that the wage of a worker, selected at random from the group,
+      would be less than ` 80 is
+
+P(B)  =      74  37
+             150 75
+
+(c) There are (12+5) or 17 workers with wages more than ` 100. Thus the probability of finding
+      a worker, selected at random, with wage more than ` 100 is
+
+                   17
+
+      P(C) = 150
+(d) There are (36+42+17) or 95 workers with wages in between ` 70 and ` 100. Thus
+
+P(D)  =       95    19
+             150    30
+
+© The Institute of Chartered Accountants of India
+15.10  STATISTICS
+
+Applying the concept of set theory, we can give a new dimension to the classical definition of
+probability. A sample space may be defined as a non-empty set containing all the elementary
+events of a random experiment as sample points. A sample space is denoted by S or  . An event
+A may be defined as a non-empty subset of S. This is shown in Figure 15.1
+
+                                                            A
+
+                                                        Figure 15.1
+                               Showing an event A and the sample space S
+As for example, if a dice is rolled once than the sample space is given by
+S = {1, 2, 3, 4, 5, 6}.
+Next, if we define the events A, B and C such that
+A = {x: x is an even no. of points in S}
+B = {x: x is an odd no. of points in S}
+C = {x: x is a multiple of 3 points in S}
+Then, it is quite obvious that
+      A = {2, 4, 6}, B = {1, 3, 5} and C = {3, 6}.
+The classical definition of probability may be defined in the following way.
+Let us consider a finite sample space S i.e. a sample space with a finite no. of sample points,
+n (S). We assume that all these sample points are equally likely. If an event A which is a subset
+of S, contains n (A) sample points, then the probability of A is defined as the ratio of the number
+of sample points in A to the total number of sample points in S. i.e.
+
+                   n(A)  ..................... (15.8)
+
+       P(A) = n(S)
+
+© The Institute of Chartered Accountants of India
+                                                   PROBABILITY  15.11
+
+Union and Intersection of Two Events
+Union of two events A and B is defined as a set of events containing all the sample points of
+event A or event B or both the events. This is shown in Figure 15.2 and
+we have A  B = {x:x  A and x B}.
+where x denotes the sample points.
+
+                                                                           
+
+                                                        Figure 15.2
+                 Showing the union of two events A and B and also their intersection
+In the above example, we have AC = {2, 3, 4, 6}
+
+                                      and AB = {1, 2, 3, 4, 5, 6}.
+The intersection of two events A and B may be defined as the set containing all the sample points
+that are common to both the events A and B. This is shown in Figure 15.2. we have
+AB = {x:x A and x B }.
+
+In the above example, A  B = 
+                               A  C = {6}
+
+Since the intersection of the events A and B is a null set  , it is obvious that A and B are mutually
+exclusive events as they cannot occur simultaneously.
+The difference of two events A and B, to be denoted by A ­ B, may be defined as the set of sample
+points present in set A but not in B. i.e.
+
+A ­ B = {x:x A and x  B}.
+
+© The Institute of Chartered Accountants of India
+15.12  STATISTICS
+
+Similarly, B ­ A = {x:x  B and x  A}.
+In the above examples,
+
+      A­B= 
+      And A ­ C = {2, 4}.
+This is shown in Figure 15.3.
+
+                                                             
+
+                                       Figure 15.3
+
+                                Showing (A ­ B) and (B ­ A)
+
+The complement of an event A may be defined as the difference between the sample space S and
+the event A. i.e.
+
+      A'= {x: x  S and x  A}.
+In the above example A'= S ­ A
+
+                        = {1, 3, 5}
+
+Figure 15.4 depicts A'
+
+                                         '
+
+                                                           Figure 15.4
+                                                          Showing A'
+Now we are in a position to redefine some of the terms we have already discussed in this section.
+
+   © The Institute of Chartered Accountants of India
+                                                                   PROBABILITY           15.13
+
+Two events A and B are mutually exclusive if P (A  B) = 0 or more precisely, ....(15.9)
+
+P (A  B) = P(A) + P(B)                                             ..........(15.10)
+
+Similarly three events A, B and C are mutually exclusive if
+
+P (A  B  C) = P(A) + P(B) + P(C)                                   .........(15.11)
+
+Two events A and B are exhaustive if
+
+P(A  B) = 1                                                        ..........(15.12)
+
+Similarly three events A, B and C are exhaustive if
+
+P(A  B  C) = 1                                                     ........... (15.13)
+
+Three events A, B and C are equally likely if
+
+P(A) = P(B) = P(C)                                                 ............ (15.14)
+
+Example 15.8: Three events A, B and C are mutually exclusive, exhaustive and equally likely.
+What is the probability of the complementary event of A?
+
+Solution: Since A, B and C are mutually exclusive, we have
+
+P(A  B  C) = P(A) + P(B) + P(C)                                    ............. (1)
+
+Since they are exhaustive, P(A  B  C) =1                           ............. (2)
+
+Since they are also equally likely, P(A) = P(B) = P(C) = K, Say    .............(3)
+
+Combining equations (1), (2) and (3), we have
+
+1=K+K+K
+
+ K = 1/3
+
+Thus P(A) = P(B) = P(C) = 1/3
+
+Hence P(A') = 1 ­ 1/3 = 2/3
+
+Let us consider a sample space S in connection with a random experiment and let A be an event
+
+defined on the sample space S i.e. A  S. Then a real valued function P defined on S is known as
+a probability measure and P(A) is defined as the probability of A if P satisfies the following
+axioms:
+
+(i) P(A)  0 for every A  S (subset)                                ......... (15.15)
+
+(ii) P(S) = 1                                                      ......... (15.16)
+
+(iii) For any sequence of mutually exclusive events A1, A2, A3,..  ............ (15.17)
+      P(A1  A2  A3  ....) = P(A1) + P(A2) + P(A3) +
+
+© The Institute of Chartered Accountants of India
+15.14  STATISTICS
+
+Theorem 1 For any two mutually exclusive events A and B, the probability that either A or B
+occurs is given by the sum of individual probabilities of A and B.
+
+       i.e. P (A  B)
+
+       or P(A + B) = P(A) + P(B)                                     .......... (15.18)
+
+       or P(A or B)         whenever A and B are mutually exclusive
+
+This is illustrated in the following example.
+
+Example 15.9: A number is selected from the first 25 natural numbers. What is the probability
+that it would be divisible by 4 or 7?
+
+Solution: Let A be the event that the number selected would be divisible by 4 and B, the event
+that the selected number would be divisible by 7. Then AUB denotes the event that the number
+would be divisible by 4 or 7. Next we note that A = {4, 8, 12, 16, 20, 24} and B = {7, 14, 21} whereas
+
+S = {1, 2, 3, ......... 25}. Since A  B =  , the two events A and B are mutually exclusive and as
+such we have
+
+       P(A  B) = P(A) + P(A)                       .........                                 (1)
+
+       Since P(A) =   n(A)  6
+                      n(S) 25
+
+       and P(B) =  n(B)  =  3
+                   n(S)     25
+
+       Thus from (1), we have
+
+                                            63
+                            P(A  B) = 25 + 25
+
+                                                       9
+
+                                            = 25
+Hence the probability that the selected number would be divisible by 4 or 7 is 9/25 or 0.36
+Example 15.10: A coin is tossed thrice. What is the probability of getting 2 or more heads?
+Solution: If a coin is tossed three times, then we have the following sample space.
+S = {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT} 2 or more heads imply 2 or 3 heads.
+If A and B denote the events of occurrence of 2 and 3 heads respectively, then we find that
+
+      A = {HHT, HTH, THH} and B = {HHH}
+
+                    n(A) 3
+       P(A) = n(S) = 8
+
+© The Institute of Chartered Accountants of India
+                                                       PROBABILITY                        15.15
+
+and P(B) =    n(B)  =  1
+              n(S)     8
+
+As A and B are mutually exclusive, the probability of getting 2 or more heads is
+      P(A  B) = P(A) + P(B)
+
+=  3  +  1
+   8     8
+
+= 0.50
+
+Theorem 2 For any K(  2) mutually exclusive events A1, A2, A3 ..., AK the probability that at
+least one of them occurs is given by the sum of the individual probabilities of the K events.
+
+i.e. P(A1  A2  ...  AK) = P(A1) + P(A2) + .... P(AK)                              ......... (15.19)
+      Obviously, this is an extension of Theorem 1.
+
+Theorem 3 For any two events A and B, the probability that either A or B occurs is given by the
+sum of individual probabilities of A and B less the probability of simultaneous occurrence of the
+events A and B.
+
+i. e. P(A  B) = P(A) + P(B) ­ P(A  B)                                             .......... (15.20)
+
+This theorem is stronger than Theorem 1 as we can derive Theorem 1 from Theorem 3 and not
+Theorem 3 from Theorem 1. For want of sufficient evidence, it is wiser to apply Theorem 3 for
+evaluating total probability of two events.
+
+Example 15.11: A number is selected at random from the first 1000 natural numbers. What is the
+probability that it would be a multiple of 5 or 9?
+
+Solution: Let A, B, A  B and A  B denote the events that the selected number would be a
+multiple of 5, 9, 5 or 9 and both 5 and 9 i.e. LCM of 5 and 9 i.e. 45 respectively.
+
+multiple of 5 since 1000 = 5 × 200
+
+multiple of 9 = 9 × 111 + 1
+
+Both 5 and 9 = 45 × 22 + 10,
+
+it is obvious that
+
+         200              111                      22
+P(A) = 1000 , P(B) = 1000 , P(A  B) = 1000
+
+Hence the probability that the selected number would be a multiple of 4 or 9 is given by
+
+P(A  B) = P(A) + P(B) ­ P(A  B)
+
+    200 111 22
+= 1000 + 1000 ­ 1000
+= 0.29
+
+© The Institute of Chartered Accountants of India
+15.16          STATISTICS
+
+Example 15.12: The probability that an Accountant's job applicant has a B. Com. Degree is 0.85,
+that he is a CA is 0.30 and that he is both B. Com. and CA is 0.25 out of 500 applicants, how many
+would be B. Com. or CA?
+
+Solution: Let the event that the applicant is a B. Com. be denoted by B and that he is a CA be
+denoted by C Then as given,
+
+       P(B) = 0.85, P(C) = 0.30 and P(B  C) = 0.25
+
+       The probability that an applicant is B. Com. or CA is given by
+
+       P(B  C) = P(B) + P(C) ­ P(B  C)
+
+       = 0.85 + 0.30 ­ 0.25
+
+       = 0.90
+
+       Expected frequency = N × P (B  C)
+
+       Expected frequency = 500 × 0.90 = 450
+
+Example 15.13: If P(A­B) = 1/5, P(A) = 1/3 and P (B) = 1/2, what is the probability that out of the
+two events A and B, only B would occur?
+
+Solution: A glance at Figure 15.3 suggests that
+
+       P(A­B) = P (A  B') = P(A) ­ P(A  B)                             ..............(15.21)
+
+       And P(B ­A) = P(B  A') = P(B) ­ P(A  B)                         ..............(15.22)
+
+Also (15.21) and (15.22) describe the probabilities of occurrence of the event only A and only B
+respectively.
+
+                          1
+As given P(A­B) = 5
+
+                                      1
+        P(A) ­ P(A  B) = 5
+
+          1    ­ P(A  B) =     1                   [Since P(A) = 1/3]
+          3                    5
+
+              P(A  B)  =   2
+                           15
+
+The probability that the event B only would occur
+
+       = P(B­A)
+
+       = P(B) ­ P(A  B)
+
+       =  1 2                     [Since P(B) =    1  ]
+          2 15                                     2
+
+          11
+
+       = 30
+
+© The Institute of Chartered Accountants of India
+                                                                PROBABILITY     15.17
+
+Theorem 4 For any three events A, B and C, the probability that at least one of the events occurs
+is given by
+
+P(A  B  C) = P(A) + P(B) + P(C) ­ P(A  B) ­ P(A  C) ­ P(B  C)+ P(A  B  C)
+                                                                                                     .......... (15.23)
+
+Following is an application of this theorem.
+
+Example 15.14: There are three persons A, B and C having different ages. The probability that A
+survives another 5 years is 0.80, B survives another 5 years is 0.60 and C survives another 5 years
+is 0.50. The probabilities that A and B survive another 5 years is 0.46, B and C survive another 5
+years is 0.32 and A and C survive another 5 years 0.48. The probability that all these three persons
+survive another 5 years is 0.26. Find the probability that at least one of them survives another 5
+years.
+
+Solution: As given P(A) = 0.80, P(B) = 0.60, P(C) = 0.50,
+
+P(A  B) = 0.46, P(B  C) = 0.32, P(A  C) = 0.48 and
+
+P(A  B  C) = 0.26
+
+The probability that at least one of them survives another 5 years in given by
+
+P(A  B  C)
+
+= P(A) + P(B) + P(C) ­ P(A  B) ­ P(A  C) ­ P(B  C)+ P(A  B  C)  ....... (15.23)
+
+= 0.80 + 0.60 + 0.50 ­ 0.46 ­ 0.32 ­ 0.48 + 0.26
+
+= 0.90
+
+Expected Frequency = N X P(A  B  C)
+=500 X 0.90= 450
+
+Compound Probability or Joint Probability
+
+The probability of an event, discussed so far, is technically known as unconditional or marginal
+probability. However, there are situations that demand the probability of occurrence of more
+than one event. The probability of occurrence of two events A and B simultaneously is known as
+the Compound Probability or Joint Probability of the events A and B and is denoted by
+P(A  B). In a similar manner, the probability of simultaneous occurrence of K events A1, A2, ....
+Ak, is denoted by P(A1  A2  ....  Ak).
+In case of compound probability of 2 events A and B, we may face two different situations. In the
+first case, if the occurrence of one event, say B, is influenced by the occurrence of another event
+A, then the two events A and B are known as dependent events. We use the notation P(B/A), to
+be read as 'probability of the event B given that the event A has already occurred (or 'the
+conditional probability of B given A) to suggest that another event B will happen if and only if
+the first event A has already happened. This is given by
+
+   © The Institute of Chartered Accountants of India
+15.18         STATISTICS
+
+P(B/A) =      P(B  A)     =  P(A  B)                                          ........ (15.24)
+                P(A)           P(A)
+
+Provided P(A) > 0 i.e. A is not an impossible event.
+
+Similarly, P(A/B) =       P(A  B)                                             ............ (15.25)
+                            P(B)
+
+if P(B) > 0.
+
+As an example if a box contains 5 red and 8 white balls and two successive draws of 2 balls are
+made from it without replacement then the probability of the event 'the second draw would
+result in 2 white balls given that the first draw has resulted in 2 Red balls' is an example of
+conditional probability since the drawings are made without replacement, the composition of
+the balls in the box changes and the occurrence of 2 w hite balls in the second draw (B2) is
+dependent on the outcome of the first draw (R2). This event may b denoted by
+
+P(B2/R2).
+
+In the second scenario, if the occurrence of the second event B is not influenced by the occurrence
+of the first event A, then B is known to be independent of A. It also follows that in this case, A is
+also independent of B and A and B are known as mutually independent or just independent. In
+this case, we have
+
+       P(B/A) = P(B)                                                          .......... (15.26)
+
+       and also P(A/B) = P(A)                                                 .......... (15.27)
+
+       There by implying, P(A  B) = P(A) × P(B)                               .......... (15.28)
+
+                                                   [From (15.24) or (15.25)]
+
+In the above example, if the balls are drawn with replacement, then the two events B2 and R2 are
+independent and we have
+
+P(B2 / R2) = P(B2)
+
+(15.28) is the necessary and sufficient condition for the independence of two events. In a similar
+manner, three events A, B and C are known as independent if the following conditions hold :
+
+       P(A  B) = P(A) × P(B)
+
+       P(A  C) = P(A) × P(C)
+
+       P(B  C) = P(B) × P(C)
+
+       P(A  B  C) = P(A) × P(B) × P(C)                                        ......... (15.29)
+
+It may be further noted that if two events A and B are independent, then the following pairs of
+events are also independent:
+
+(i) A and B'
+
+(ii) A' and B
+
+(iii) A' and B'                                                               ......... (15.30)
+
+© The Institute of Chartered Accountants of India
+                                                                      PROBABILITY  15.19
+
+Theorems of Compound Probability
+
+Theorem 5 For any two events A and B, the probability that A and B occur simultaneously is
+given by the product of the unconditional probability of A and the conditional probability of B
+given that A has already occurred
+
+i.e. P(A  B) = P(A) × P(B/A)                       Provided P(A) > 0  ................(15.31)
+
+Theorem 6 For any three events A, B and C, the probability that they occur jointly is given by
+
+P(A  B  C) = P(A) × P(B/A) × P(C/(A  B)) Provided P(A  B) > 0                      ... (15.32)
+
+In the event of independence of the events
+
+(15.31) and (15.32) are reduced to
+
+P(A  B) = P(A) × P(B)
+
+and P(A  B  C) = P(A) × P(B) × P(C)
+
+which we have already discussed.
+
+Example 15.15: Rupesh is known to hit a target in 5 out of 9 shots whereas David is known to hit
+the same target in 6 out of 11 shots. What is the probability that the target would be hit once they
+both try?
+
+Solution: Let A denote the event that Rupesh hits the target and B, the event that David hits the
+target. Then as given,
+
+P(A) =   5   P(B) =  6
+         9,          11
+
+and P(A  B) = P(A) × P(B)
+
+=  5  ×  6
+   9     11
+
+   10
+
+= 33 (as A and B are independent)
+
+The probability that the target would be hit is given by
+      P(A  B) = P(A) + P(B) ­ P(A  B)
+
+=  5  +  6   ­  10
+   9     11     33
+
+          79
+
+      = 99
+Alternately P(A  B) = 1 ­ P(A  B)'
+
+            = 1 ­ P(A'  B')(by De-Morgan's Law)
+            = 1 ­ P(A') × P(B')
+
+© The Institute of Chartered Accountants of India
+15.20          STATISTICS
+
+       = 1 ­ [1 ­ P(A)] × [1 ­ P(B)]               (by 15.30)
+
+       =       1  ­  1 ­  5    ×  1 ­  161
+                          9
+
+       =       1  ­    4   151
+                       9
+
+       =       79
+               99
+
+Example 15.16: A pair of dice is thrown together and the sum of points of the two dice is noted
+
+to be 10. What is the probability that one of the two dice has shown the point 4?
+
+Solution: Let A denote the event of getting 4 points on one of the two dice and B denote the
+event of getting a total of 10 points on the two dice. Then we have
+
+       P(A) =     1×1= 1
+                  2 6 12
+
+                            2
+      and P(A  B) = 36
+[Since a total of 10 points may result in (4, 6) or (5, 5) or (6, 4) and two of these combinations
+contain 4]
+
+                     P(A  B)
+Thus P(B/A) = P (A)
+
+                      2/ 36
+                  = 1/12
+
+                      2
+                  =3
+
+Alternately The sample space for getting a total of 10 points when two dice are thrown
+simultaneously is given by
+
+      S = {(4, 6), (5, 5), (6, 4)}
+Out of these 3 cases, we get 4 in 2 cases. Thus by the definition of probability, we have
+
+                    2
+      P(B/A) = 3
+
+Example 15.17: In a group of 20 males and 15 females, 12 males and 8 females are service holders.
+What is the probability that a person selected at random from the group is a service holder given
+that the selected person is a male?
+Solution: Let S and M stand for service holder and male respectively. We are to evaluate
+P (S / M).
+
+      We note that (S  M) represents the event of both service holder and male.
+
+© The Institute of Chartered Accountants of India
+                                                                             PROBABILITY  15.21
+
+Thus P(S/M) =           P(S  M)
+                          P(M)
+
+   =                    12/35
+
+                        20/35
+
+   =                0.60
+
+Example 15.18: In connection with a random experiment, it is found that
+
+2                3                                 5
+P(A) = 3 , P(B) 5 = and P(A  B) = 6
+
+Evaluate the following probabilities:
+
+(i) P(A/B) (ii) P(B/A) (iii) P(A'/ B) (iv) P(A/ B') (v) P(A'/ B')
+
+Solution: P(A  B) = P(A) + P(B) ­ P(A  B)
+
+     523
+=> 6 = 3 + 5 ­ P(A  B)
+
+                    23 5
+=> P(A  B) = 3 + 5 ­ 6
+
+      13
+   = 30
+
+                    P(AB) 13/30 13
+Hence (i) P(A/B) =                =                   =
+                          P(B)          3/5              18
+
+               P(AB) 13/30 13
+
+(ii) P(B/A) =             =          =
+                 P(A) 2/3 20
+
+(iii) P(A'/B) =  P(A'B) P(B)  P (AB)                  =      3   13   =  5
+                            =                                5    30     18
+                                                                3
+                    P(B)             P(B)
+                                                                5
+
+               P(AB') P(A)  P (AB) 7
+
+(iv) (A/B') =    P(B')    =      1  P(B)              =  12
+
+                    P(A' B')
+(v) P(A'/B') =
+
+                       P(B')
+
+© The Institute of Chartered Accountants of India
+15.22           STATISTICS
+
+          P(A  B)'
+
+       =              [ by De-Morgan's Law A'  B' = (AUB)' ]
+            P(B')
+
+          1  P (AB)
+       =
+
+             1 P(B)
+
+       =  1- 5/6
+          1- 3/5
+
+          5
+      = 12
+
+Example 15.19: The odds in favour of an event is 2 : 3 and the odds against another event is 3 : 7.
+Find the probability that only one of the two events occurs.
+
+Solution: We denote the two events by A and B respectively. Then by (15.5) and (15.6), we have
+
+                   22
+       P(A) = 2 + 3 = 5
+
+       and P(B) =       7 7
+                      7 + 3 10
+
+       As A and B are independent, P(A  B) = P(A)  P(B)
+
+                                                   =  2 7  7
+                                                      5 10 25
+
+       Probability that either only A occurs or only B occurs
+
+       = P(A ­ B) + P(B ­ A)
+
+       = [P(A) ­ P(A  B)] + [P(B) ­ P(A  B)]
+
+       = P(A) + P(B) ­ 2 P(A  B)
+
+       =  2  +  7     2 275
+          5     10
+
+       =  20 + 35  28
+
+                50
+
+          27
+
+       = 50
+
+© The Institute of Chartered Accountants of India
+                                                                              PROBABILITY              15.23
+
+Example 15.20: There are three boxes with the following compositions :
+
+                       Colour
+
+                    Box                Blue             Red  White            Total
+
+                  I                          5          8    10               23
+
+                  II                         4          9    8                21
+
+                  III                        3          6    7                16
+
+One ball is drawn from each box. What is the probability that they would be of the same colour?
+
+Solution: Either the balls would be Blue or Red or White. Denoting Blue, Red and White balls by
+B, R and W respectively and the box by lower suffix, the required probability is
+
+= P(B1  B2  B3) + P(R1  R2  R3) + P(W1  W2  W3)
+= P(B1)  P(B2)  P(B3) + P(R1)  P(R2)  P(R3) + P(W1)  P(W2)  P(W3)
+
+=  543                 +   8       96     +  10  87
+   23 21 16                23      21 16     23  21 16
+
+=  60+ 432+ 560
+
+         7728
+
+         1052
+      = 7728
+
+Example 15.21: Mr. Roy is selected for three separate posts. For the first post, there are three
+candidates, for the second, there are five candidates and for the third, there are 10 candidates.
+What is the probability that Mr. Roy would be selected?
+
+Solution: Denoting the three posts by A, B and C respectively, we have
+
+               1                1                   1
+P(A) = 3 , P(B) = 5 and P(C) = 10
+
+The probability that Mr. Roy would be selected (i.e. selected for at least one post).
+
+= P(A  B  C)
+
+= 1 ­ P[(A  B  C)']
+
+= 1 ­ P(A'  B'  C')                                     (by De-Morgan's Law)
+
+= 1 ­ P(A')  P(B')  P(C')                               (As A , B and C are independent, so are their
+                                                        complements)
+
+=  1  -  1  -  1    ×1  -  51   ×1  -  110   =  13
+               3                                25
+
+© The Institute of Chartered Accountants of India
+15.24            STATISTICS
+
+Example 15.22: The independent probabilities that the three sections of a costing department
+will encounter a computer error are 0.2, 0.3 and 0.1 per week respectively. What is the probability
+that there would be
+
+(i) at least one computer error per week?
+
+(ii) one and only one computer error per week?
+
+Solution: Denoting the three sections by A, B and C respectively, the probabilities of encountering
+a computer error by these three sections are given by P(A) = 0.20, P(B) = 0.30 and P(C) = 0.10
+
+(i) Probability that there would be at least one computer error per week.
+
+       = 1 ­ Probability of having no computer error in any at the three sections.
+
+       = 1 ­ P(A'  B'  C')
+
+       = 1 ­ P(A')  P(B')  P(C')                      [Since A, B and C are independent]
+
+       = 1 ­ (1 ­ 0.20)  (1 ­ 0.30)  (1 ­ 0.10)
+
+       = 0.50
+
+(ii) Probability of having one and only one computer error per week
+
+       = P(A  B'  C') + P(A'  B  C') +P(A'  B'  C)
+
+       = P(A)  P(B')  P(C') + P(A')  P(B)  P(C') + P(A')  P(B')  P(C)
+
+       = 0.20  0.70  0.90 + 0.80  0.30  0.90 + 0.80  0.70  0.10
+
+       = 0.40
+
+Example 15.23: A lot of 10 electronic components is known to include 3 defective parts. If a
+sample of 4 components is selected at random from the lot, what is the probability that this
+sample does not contain more than one defectives?
+
+Solution: Denoting defective component and non-defective components by D and D' respectively,
+we have the following situation :
+
+                                                   D  D´  T
+
+                             Lot                   3  7   10
+
+                             Sample (1)            0  4   4
+
+                                  (2)              1  3   4
+
+       Thus the required probability is given by
+
+       = (3C0  7C4 + 3C1  7C3) / 10C4
+
+       = 135 + 335
+                   210
+
+              2
+       =3
+
+© The Institute of Chartered Accountants of India
+                                                                          PROBABILITY  15.25
+
+Example 15.24: There are two urns containing 5 red and 6 white balls and 3 red and 7 white balls
+respectively. If two balls are drawn from the first urn without replacement and transferred to
+the second urn and then a draw of another two balls is made from it, what is the probability that
+both the balls drawn are red?
+
+Solution: Since two balls are transferred from the first urn containing 5 red and 6 white balls to
+the second urn containing 3 red and 7 white balls, we are to consider the following cases :
+
+Case A : Both the balls transferred are red. In this case, the second urn contains 5 red and 7
+white balls.
+
+Case B : The two balls transferred are of different colours. Then the second urn contains 4 red
+and 8 white balls.
+
+Case C : Both the balls transferred are white. Now the second urn contains 3 red and 9 white
+balls.
+
+      The required probability is given by
+      P(R  A) + P(R  B) + P(R  C)
+      = P(R/A)  P(A) + P(R/B)  P(B) + P(R/C)  P(C)
+
+   5 C2          5 C2         4 C2          6C C 5       3 C2      6 C2
+   C 12          C 11         C 12          1X 1         12 C2     11 C2
+=             ×            +             ×            +         ×
+           2            2             2     C 11
+                                                   2
+
+=  1010 + 6 30 + 3 15
+   66 55 66 55 66 55
+
+=    325 = 65
+   6655 726
+
+Example 15.25: If 8 balls are distributed at random among three boxes, what is the probability
+that the first box would contain 3 balls?
+
+Solution: The first ball can be distributed to the 1st box or 2nd box or 3rd box i.e. it can be
+distributed in 3 ways. Similarly, the second ball also can be distributed in 3 ways. Thus the first
+tw o balls can be distributed in 32 ways. Proceeding in this way, we find that 8 balls can be
+distributed to 3 boxes in 38 ways which is the total number of elementary events.
+
+Let A be the event that the first box contains 3 balls which implies that the remaining 5 balls
+must go to the remaining 2 boxes which, as we have already discussed, can be done in 25 ways.
+Since 3 balls out of 8 balls can be selected in 8C3 ways, the event can occur in
+8C3  25 ways, thus we have
+
+P(A) =  8 C325
+           38
+
+      5632
+   = 6561
+
+       1792
+   = 6561
+
+© The Institute of Chartered Accountants of India
+15.26           STATISTICS
+
+Example 15.26: There are 3 boxes with the following composition :
+      Box I : 7 Red + 5 White + 4 Blue balls
+      Box II : 5 Red + 6 White + 3 Blue balls
+      Box III : 4 Red + 3 White + 2 Blue balls
+
+One of the boxes is selected at random and a ball is drawn from it. What is the probability that
+the drawn ball is red?
+Solution: Let A denote the event that the drawn ball is red. Since any of the 3 boxes may be
+
+                                                      1
+drawn, we have P(BI) = P(BII) = P(BIII) = 3
+
+Also P(R1/BII) = probability of drawing a red ball from the first box
+          7
+
+      = 16
+
+                      5                            4
+       P(R2 / BII) = 14 and P(R3 / BIII) = 9
+
+       Thus we have
+
+       P(A)= P(R1  BI) + P(R2  BII) + P(R3  BIII)
+       = P(R1 / BI)  P(BI) + P(R2 / BII)  P(BII) + P(R3 / BIII)  P(BIII)
+
+       =  7     1  +  5   1    4    1
+          16    3     14  3    9    3
+
+       =  754
+          48 42 27
+
+          1249
+
+       = 3024
+
+A random variable or stochastic variable is a function defined on a sample space associated with
+a random experiment assuming any value from R and assigning a real number to each and every
+sample point of the random experiment. A random variable is denoted by a capital letter. For
+example, if a coin is tossed three times and if X denotes the number of heads, then X is a random
+variable. In this case, the sample space is given by
+
+S = {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT}
+
+and we find that X = 0 if the sample point is TTT
+
+            X = 1 if the sample point is HTT, THT or TTH
+
+            X = 2 if the sample point is HHT, HTH or THH
+
+            and X = 3 if the sample point is HHH.
+
+© The Institute of Chartered Accountants of India
+                                                                                  PROBABILITY         15.27
+
+We can make a distinction between a discrete random variable and a continuous variable. A
+random variable defined on a discrete sample space is known as a discrete random variable and
+it can assume either only a finite number or a countably infinite number of values. The number
+of car accident, the number of heads etc. are examples of discrete random variables.
+
+A continuous random variable, like height, weight etc. is a random variable defined on a
+continuous sample space and assuming an uncountably infinite number of values.
+
+The probability distribution of a random variable may be defined as a statement expressing the
+different values taken by a random variable and the corresponding probabilities. Then if a random
+variable X assumes n finite values X1, X2, X3, ........, Xn with corresponding probabilities P1, P2, P3,
+........, Pn such that
+
+      (i) pi  0 for every i ............... (15.33)
+
+and (ii)  pi = 1 (over all i) .............. (15.34)
+
+then the probability distribution of the random variable X is given by
+
+                             Probability Distribution of X
+
+X:             X1            X2                       X3     ......Xn                          Total
+
+P:             P1            P2                       P3     ....... Pn                           1
+
+For example, if an unbiased coin is tossed three times and if X denotes the number of heads
+then, as we have already discussed, X is a random variable and its probability distribution is
+given by
+
+               Probability Distribution of Head when a Coin is Tossed Thrice
+
+X:             0                                   1      2                    3               Total
+
+P:                    1                            3      3                    1               1
+
+                      8                            8      8                    8
+
+There are cases when it is possible to express the probability (P) as a function of X. In case X is a
+discrete variable and if such a function f(X) really exists, then f(X) is known as Probability Mass
+Function (PMF) of X, f(X), then, must satisfy the conditions:
+
+         (i) f(X)  0 for every X                      ............... (15.35)
+
+    and  (ii)   f(X)     =1                           ............... (15.36)
+               x
+
+    Where f(X) is given by                            ............... (15.37)
+    f(X) = P(X = x)
+
+When x is a continuous random variable defined over an interval [  ,  ], where  >  , then x
+can assume an infinite number of values from its interval and instead of assigning individual
+probability to every mass point x, we assign probabilities to interval of values. Such a function
+
+© The Institute of Chartered Accountants of India
+15.28              STATISTICS
+
+of x, provided it exists, is known as probability density function (pdf) of x. f(x) satisfies the
+following conditions:
+
+       (i) f(x)  0 for x [  ,  ]                   .............. (15.38)
+
+                                                   ............... (15.39)
+
+       (ii)  f(x)dx = 1
+
+                  
+
+and the probability that x lies between two specified values a and b, where   a < b   , is
+given by
+
+                 b                                 ............... (15.40)
+
+                 f(x)dx
+
+                 a
+
+Expected value or Mathematical Expectation or Expectation of a random variable may be defined
+
+as the sum of products of the different values taken by the random variable and the corresponding
+
+probabilities. Hence, if a random variable x assumes n values x1, x2, x3 ....,
+xn with corresponding probabilities p1, p2, p3 ...., pn , where pi's satisy (15.33) and (15.34), then
+the expected value of x is given by
+
+       = E(x) =  pi xi                             ................ (15.41)
+Expected value of x2 in given by
+
+       E(x2) =           pi  x  2                  ................ (15.42)
+                                i
+
+In particular expected value of a monotonic function g (x) is given by
+
+E [g(x)] =  pi g(xi)                               ................ (15.43)
+
+Variance of x, to be denoted by , 2 is given by
+
+V(x) = 2 = E(x ­  )2
+
+= E(x2) ­  2                                       ................. (15.44)
+
+The positive square root of variance is known as standard deviation and is denoted by  .
+
+If y = a + b x, for two random variables x and y and for a pair of constants a and b, then the mean
+i.e. expected value of y is given by
+
+             =  a  +  b                            ................ (15.45)
+          y                 x
+
+and the standard deviation of y is
+
+        y= b  X                                    ................ (15.46)
+
+© The Institute of Chartered Accountants of India
+                                                                             PROBABILITY  15.29
+
+When x is a discrete random variable with probability mass function f(x), then its expected
+value is given by
+
+ = x xf(x)                                               ......... (15.47)
+and its variance is
+ 2 = E (x2) ­  2
+
+Where E(x2) =  x2 f(x)                                   ...........(15.48)
+
+                         x
+
+For a continuous random variable x defined in [­ ], its expected value (i.e. mean) and
+variance are given by
+
+                                                         ......... (15.49)
+
+   E(x) =  x f(x)dx
+
+                              
+
+and  2 = E (x2) ­  2
+
+                                                         ......... (15.50)
+
+    where E (x2) =  x2 f(x)dx
+
+                                                      
+
+Properties of Expected Values
+
+1. Expectation of a constant k is k
+
+i.e. E(k) = k for any constant k.                        ..........(15.51)
+
+2. Expectation of sum of two random variables is the sum of their expectations.
+
+i.e. E(x + y) = E(x) + E(y) for any two random variables x and y. ............ (15.52)
+
+3. Expectation of the product of a constant and a random variable is the product of the constant
+      and the expectation of the random variable.
+
+i.e. E(k x) = k.E(x) for any constant k .......... (15.53)
+
+4. Expectation of the product of two random variables is the product of the expectation of
+      the two random variables, provided the two variables are independent.
+
+i.e. E(xy) = E(x)  E(y)                                  ......... (15.54)
+
+Whenever x and y are independent.
+
+Example 15.27: An unbiased coin is tossed three times. Find the expected value of the number of
+heads and also its standard deviation.
+
+Solution: If x denotes the number of heads when an unbiased coin is tossed three times, then the
+probability distribution of x is given by
+
+© The Institute of Chartered Accountants of India
+15.30         STATISTICS
+
+       X:                    0                     1                        2     3
+
+       P:                    1                        3                     3     1
+
+                             8                        8                     8     8
+
+The expected value of x is given by
+
+        = E(x) =  pi xi
+
+       =  10+ 31+ 32+ 13
+          8 88 8
+
+       =  0+3+6+3     = 1.50
+
+              8
+
+Also E(x2) =  pixi2
+
+       =   102 + 312 + 322 + 132
+           8       8         8    8
+
+       =   0 + 3 + 12 + 9 = 3
+                  8
+
+       =  2  E (x2) ­  2
+
+           = 3 ­ (1.50)2
+
+           = 0.75
+
+        SD =  = 0.87
+
+Example 15.28: A random variable has the following probability distribution:
+
+       X:                 4                        5                        7     8     10
+
+       P:             0.15               0.20                               0.40  0.15  0.10
+
+Find E [x ­ E(x)]2. Also obtain v(3x ­4)
+Solution: The expected value of x is given by
+
+       E(x) =  pixi
+             = 0.15  4 + 0.20  5 + 0.40  7 + 0.15  8 + 0.10  10
+             = 6.60
+
+Also,      E[x ­ E(x)]2 =  i2 Pi  where            =        =  xi  ­  E(x)
+                                                         i
+
+Let y = 3x ­ 4 = (­4) + (3)x. Then variance of y = var y = b2  2x = 9  x2 (From 15.46)
+
+© The Institute of Chartered Accountants of India
+                                                                              PROBABILITY    15.31
+
+                                         Table 15.1
+                             Computation of E [x ­ E(x)]2
+
+  xi                     pi                        i = xi ­ E(x)        2       2  pi
+                                                                        i       i
+  4
+  5                   0.15                              ­2.60         6.76    1.014
+  7                                                                           0.512
+  8                   0.20                              ­1.60         2.56    0.064
+ 10                                                                           0.294
+                      0.40                              0.40          0.16    1.156
+Total
+                      0.15                              1.40          1.96
+
+                      0.10                              3.40          11.56
+
+                      1.00                                 ­               ­  3.040
+
+Thus E [x ­ E(x)]2 = 3.04
+
+As x2  3.04, v(y) = 9  3.04 = 27.36
+
+Example 15.29: In a business venture, a man can make a profit of ` 50,000 or incur a loss of
+` 20,000. The probabilities of making profit or incurring loss, from the past experience, are known
+to be 0.75 and 0.25 respectively. What is his expected profit?
+
+Solution: If the profit is denoted by x, then we have the following probability distribution of x:
+
+X:          ` 50,000                                       ` ­20,000
+
+P:          0.75                                                0.25
+
+Thus his expected profit
+
+E(x) = p1x1 + p2 x2
+= 0.75  ` 50,000 + 0.25  (` ­ 20,000)
+
+= ` 32,500
+
+Example 15.30: A box contains 12 electric lamps of which 5 are defectives. A man selects three
+lamps at random. What is the expected number of defective lamps in his selection?
+
+Solution: Let x denote the number of defective lamps x can assume the values 0, 1, 2 and 3.
+
+P(x = 0) = Prob. of having 0 defective out of 5 defectives and 3 non defective out of 7 non defectives
+
+                         5  C0 x 7C3               35
+                             12 C3                 220
+                      =               =
+
+                                  5   C1 x 7 C2            105
+                                       12 C3
+Similarly             P(x = 1) =                        =  220
+
+© The Institute of Chartered Accountants of India
+15.32         STATISTICS
+
+                                            5   C2   x 7C1     70
+                                                     C3        220
+                               P(x = 2) =        12         =
+
+                                             5   C3 x 7C0      10
+                                                  12 C3        220
+           and                 P(x = 3) =                   =
+
+Probability Distribution of No. of Defective Lamp
+
+           X:             0                 1                  2          3
+
+           P:             35                105                70         10
+
+                          220               220             220           220
+
+Thus the expected number of defectives is given by
+
+       35  0 + 1051+ 70 2+ 10 3
+       220 220 220 220
+
+      = 1.25
+
+Example 15.31: Moidul draws 2 balls from a bag containing 3 white and 5 Red balls. He gets `
+500 if he draws a white ball and ` 200 if he draws a red ball. What is his expectation? If he is
+asked to pay ` 400 for participating in the game, would he consider it a fair game and participate?
+
+Solution: We denote the amount by x. Then x assumes the value 2 x ` 500 i.e. ` 1000 if 2 white
+balls are drawn, the value ` 500 + ` 200 i.e. ` 700 if 1 white and 1 red balls are drawn and the
+value 2 x ` 200 i.e. ` 400 if 2 red balls are drawn. The respective probabilities are given by
+
+       P(WW)              =        3  C2    3
+                                   8  C2    28
+
+       P(WR)              =        3 C1 5C1  15
+                                      8 C2         28
+
+       and P(RR)          =        5 C2  10
+                                   8 C2 28
+
+       Probability Distribution of x
+
+       X:                    ` 1000                            ` 700           ` 400
+
+       P:                      3                                15              10
+                                                                28              28
+                               28
+
+                               3                     15               10
+Hence E(x) =                   28  ` 1000 + 28  ` 700 + 28  ` 400
+
+© The Institute of Chartered Accountants of India
+                                                                                 PROBABILITY         15.33
+
+                  =         ` 3000 + ` 10500 + ` 4000
+
+                                              28
+
+                  =         ` 625 > 400. Therefore the game is fair and he would participate.
+
+Example 15.32: A number is selected at random from a set containing the first 100 natural numbers
+and another number is selected at random from another set containing the first 200 natural
+numbers. What is the expected value of the product?
+
+Solution: We denote the number selected from the first set by x and the number selected from
+the second set by y. Since the selections are independent of each other, the expected value of the
+product is given by
+
+E(xy) = E(x)  E(y)                                                                            .......... (1)
+
+Now x can assume any value between 1 to 100 with the same probability 1/100 and as such the
+probability distribution of x is given by
+
+X:                     1                           2              3              ..............100
+
+P:                     1                           1              1                             1
+                                                                                 .............. 100
+                       100                    100                 100
+
+               1            1                 1                               1
+Thus E(x) = 100  1 + 100  2 + 100  3 + ........................... 100  100
+
+            =     1+ 2 + 3 +...........+ 100
+
+                            100
+
+               100101                                 [Since 1+2+..... + n =  n(n +1)  ]
+            = 2100                                                               2
+
+            =     101
+                   2
+
+Similarly,                 201
+                  E(y) = 2
+
+ E(xy)      =     101       201                       [From (1)]
+                   2         2
+
+               =  20301
+                    4
+
+               = 5075.25
+
+Example 15.33: A dice is thrown repeatedly till a 'six' appears. Write down the sample space.
+Also find the expected number of throws.
+
+Solution: Let p denote the probability of getting a six and q = 1 ­ p, the probability of not getting
+a six. If the dice is unbiased then
+
+© The Institute of Chartered Accountants of India
+15.34           STATISTICS
+
+             1              5
+       p = 6 and q = 6
+
+If a six obtained with the very first throw then the experiment ends and the probability of getting
+a six, as we have already seen, is p. However, if the first throw does not produce a six, the dice is
+thrown again and if a six appears with the second throw, the experiment ends. The probability
+of getting a six preceded by a non­six is qp. If the second thrown does not yield a six, we go for
+a third throw and if the third throw produces a six, the experiment ends and the probability of
+getting a Six in the third attempt is q2p. The experiment is carried on and we get the following
+countably infinite sample space.
+
+       S = { p, qp, q2p, q3p, .....}
+
+If x denotes the number of throws necessary to produce a six, then x is a random variable with
+the following probability distribution :
+
+       X: 1         2          3      4 ..........
+
+       P: p         qp         q2p    q3p ..........
+
+       Thus E(x) = p  1 + qp  2 + q2p  3 + q3p  4 + ...........
+              = p(1+ 2q + 3q2 + 4q3 + ...........)
+
+             = p (1 ­ q)­2
+
+                 p             (as 1­q = p)
+             = p2
+
+                1
+             =p
+
+       In case of an unbiased dice, p = 1/6 and E(x) = 6
+
+Example 15.34: A random variable x has the following probability distribution :
+
+       X            : 0 1 23 4 5 67
+
+       P(X)         : 0 2k 3k k 2k k2 7k2 2k2+k
+
+       Find (i) the value of k
+
+                (ii) P(x < 3)
+
+                (iii) P(x  4)
+
+                (iv) P(2 < x  5)
+Solution: By virtue of (15.36), we have
+
+        P(x) = 1
+        0 + 2k + 3k + k + 2k + k2 + 7k2 + 2k2 + k = 1
+
+© The Institute of Chartered Accountants of India
+                                                           PROBABILITY              15.35
+
+ 10k2 + 9k ­ 1 = 0
+
+ (k + 1) (10k ­ 1) = 0
+
+ k = 1/10                                          (as k  ­1 by virtue of (15.36))
+
+(i) Thus the value of k is 0.10
+
+(ii) P(x < 3) = P(x = 0) + P(x = 1) + P(x = 2)
+
+= 0 + 2k + 3k
+
+= 5k
+
+= 0.50               (as k = 0.10)
+
+(iii) P(x  4) = P(x = 4) + P(x = 5) + P(x = 6) + P(x = 7)
+
+= 2k + k2 + 7k2 + (2k2 + k)
+= 10k2 + 3k
+= 10 x (0.10)2 + 3  0.10
+= 0.40
+
+(iv) P(2 < x  5) = P(x = 3) + P(x = 4) + P(x = 5)
+
+= k + 2k + k2
+= k2 + 3k
+= (0.10)2 + 3  0.10
+= 0.31
+
+ Experiment: An experiment may be described as a performance that produces certain
+      results.
+
+ Random Experiment: An experiment is defined to be random if the results of the
+      experiment depend on chance only.
+
+ Events: The results or outcomes of a random experiment are known as events. Sometimes
+      events may be combination of outcomes. The events are of two types:
+
+      (i) Simple or Elementary,
+
+      (ii) Composite or Compound.
+
+ Mutually Exclusive Events or Incompatible Events: A set of events A1, A2, A3, ...... is
+      known to be mutually exclusive if not more than one of them can occur simultaneously
+
+ Exhaustive Events: The events A1, A2, A3, ............ are known to form an exhaustive
+      set if one of these events must necessarily occur.
+
+© The Institute of Chartered Accountants of India
+15.36  STATISTICS
+
+ Equally Likely Events or Mutually Symmetric Events or Equi-Probable Events: The
+      events of a random experiment are known to be equally likely when all necessary
+      evidence are taken into account, no event is expected to occur more frequently as
+      compared to the other events of the set of events.
+
+ The probability of occurrence of the event A is defined as the ratio of the number of
+      events favourable to A to the total number of events. Denoting this by P(A), we have
+
+             nA No. of equally likely events favourable to A
+       P(A) = =
+             n               Total no. of equally likely events
+
+       (a) The probability of an event lies between 0 and 1, both inclusive.
+
+       i.e.        0  P(A)  1
+
+              When P(A) = 0, A is known to be an impossible event and when P(A) = 1, A is
+              known to be a sure event.
+
+                                                                                              
+       (b) Non-occurrence of event A is denoted by A' or AC or  and it is known as
+
+       complimentary event of A. The event A along with its complimentary A' forms a
+       set of mutually exclusive and exhaustive events.
+
+       i.e.        P(A) + P (A') = 1
+
+                             P(A') = 1  P(A)
+
+                   1     mA
+                         m
+
+                      =  m - mA
+                           m
+
+       (c) The ratio of no. of favourable events to the no. of unfavourable events is known as
+              odds in favour of the event A and its inverse ratio is known as odds against the
+              event A.
+
+       i.e.        odds in favour of A = mA : (m ­ mA)
+
+                   and odds against A = (m ­ mA) : mA
+
+       (d) For any two mutually exclusive events A and B, the probability that either A or B
+              occurs is given by the sum of individual probabilities of A and B.
+
+       i.e. P (A  B)
+       or P(A + B) = P(A) + P(B)
+
+       (e) For any K(  2) mutually exclusive events A1, A2, A3 ..., AK the probability that at
+              least one of them occurs is given by the sum of the individual probabilities of the K
+              events.
+
+              i.e. P(A1  A2  ...  AK) = P(A1) + P(A2) + .... P(AK)
+
+© The Institute of Chartered Accountants of India
+                                                            PROBABILITY  15.37
+
+(f) For any two events A and B, the probability that either A or B occurs is given by the
+       sum of individual probabilities of A and B less the probability of simultaneous
+       occurrence of the events A and B.
+
+i.e. P(A  B) = P(A) + P(B) ­ P(A  B)
+
+(g) For any three events A, B and C, the probability that at least one of the events
+       occurs is given by
+
+P(A  B  C) = P(A) + P(B) + P(C) ­ P(A  B) ­ P(A  C) ­ P(B  C)+ P(A  B  C)
+
+(h) For any two events A and B, the probability that A and B occur simultaneously is
+
+given by the product of the unconditional probability of A and the conditional
+
+probability of B given that A has already occurred
+
+i.e.           P(A  B) = P(A) × P(B/A) Provided P(A) > 0
+
+(i) Compound Probability or Joint Probability
+
+P(B/A) =       P(B  A)           =  P(A  B)
+                 P(A)                 P(A)
+
+(j) For any three events A, B and C, the probability that they occur jointly is given by
+       P(A  B  C) = P(A) × P(B/A) × P(C/(A  B)) Provided P(A  B) > 0
+
+                    P(AB)
+(k) P(A/B) =
+
+                       P(B)
+
+              P(AB)
+P(B/A) =
+
+                P(A)
+
+               P(A'B) P(B)  P (AB)
+
+P(A'/B) =      P(B)          =                     P(B)
+
+               P(AB') P(A)  P (AB)
+(l) P(A/B') =                    =
+               P(B')
+                                                   1  P(B)
+
+                       P(A' B')
+(m) P(A'/B') =
+
+                          P(B')
+
+P(A  B)'
+
+=              [by De-Morgan's Law A'  B' = (AUB)']
+     P(B')
+
+   1  P (AB)
+=
+
+      1 P(B)
+
+© The Institute of Chartered Accountants of India
+15.38  STATISTICS
+
+ A random variable or stochastic variable is a function defined on a sample space associated
+      with a random experiment assuming any value from R and assigning a real number to
+      each and every sample point of the random experiment.
+
+ Expected value or Mathematical Expectation or Expectation of a random variable may be
+      defined as the sum of products of the different values taken by the random variable and
+      the corresponding probabilities.
+
+      When x is a discrete random variable with probability mass function f(x), then its
+      expected value is given by
+
+       = x xf(x)
+
+      and its variance is
+       2 = E (x2) ­  2
+
+       Where E(x2) =  x2 f(x)
+
+                                x
+
+       For a continuous random variable x defined in [­], its expected value (i.e. mean)
+       and variance are given by
+
+                                       
+
+          E(x) =  x f(x)dx
+
+                                      
+
+       and  2 = E (x2) ­  2
+
+       where E (x2)         
+
+                     =  x2 f(x)dx
+
+                          
+
+       Properties of Expected Values
+
+       (i) Expectation of a constant k is k
+            i.e. E(k) = k for any constant k.
+
+       (ii) Expectation of sum of two random variables is the sum of their expectations.
+            i.e. E(x + y) = E(x) + E(y) for any two random variables x and y.
+
+       (iii) Expectation of the product of a constant and a random variable is the product of the
+            constant and the expectation of the random variable.
+            i.e. E(k x) = k.E(x) for any constant k
+
+       (iv) Expectation of the product of two random variables is the product of the expectation
+            of the two random variables, provided the two variables are independent.
+            i.e. E(xy) = E(x)  E(y)
+            Whenever x and y are independent.
+
+© The Institute of Chartered Accountants of India
+                                                                         PROBABILITY  15.39
+
+Set A
+
+Write down the correct answers. Each question carRies 1 mark.
+
+1. Initially, probability was a branch of
+
+(a) Physics                                        (b) Statistics
+
+      (c) Mathematics                              (d) Economics.
+2. Two broad divisions of probability are
+
+(a) Subjective probability and objective probability
+
+(b) Deductive probability and non­deductive probability
+(c) Statistical probability and Mathematical probability
+
+(d) None of these.
+
+3. Subjective probability may be used in           (b) Statistics
+      (a) Mathematics
+
+(c) Management                                     (d) Accountancy.
+
+4. An experiment is known to be random if the results of the experiment
+
+(a) Can not be predicted                           (b) Can be predicted
+
+(c) Can be split into further experiments (d) Can be selected at random.
+
+5. An event that can be split into further events is known as
+
+(a) Complex event                                  (b) Mixed event
+
+(c) Simple event                                   (d) Composite event.
+
+6. Which of the following pairs of events are mutually exclusive?
+
+(a) A : The student reads in a school.             B : He studies Philosophy.
+
+(b) A : Raju was born in India.                    B : He is a fine Engineer.
+
+(c) A : Ruma is 16 years old.                      B : She is a good singer.
+
+(d) A : Peter is under 15 years of age.            B : Peter is a voter of Kolkata.
+
+7. If P(A) = P(B), then
+
+(a) A and B are the same events                    (b) A and B must be same events
+
+(c) A and B may be different events                (d) A and B are mutually exclusive events.
+
+8. If P(A  B) = 0, then the two events A and B are
+
+(a) Mutually exclusive                             (b) Exhaustive
+
+(c) Equally likely                                 (d) Independent.
+
+© The Institute of Chartered Accountants of India
+15.40  STATISTICS
+
+9. If for two events A and B, P(AUB) = 1, then A and B are
+
+       (a) Mutually exclusive events               (b) Equally likely events
+
+       (c) Exhaustive events                       (d) Dependent events.
+
+10. If an unbiased coin is tossed once, then the two events Head and Tail are
+
+       (a) Mutually exclusive                      (b) Exhaustive
+
+       (c) Equally likely                          (d) All these (a), (b) and (c).
+
+11. If P(A) = P(B), then the two events A and B are
+
+       (a) Independent                             (b) Dependent
+
+       (c) Equally likely                          (d) Both (a) and (c).
+
+12. If for two events A and B, P(A  B)  P(A)  P(B), then the two events A and B are
+
+       (a) Independent                             (b) Dependent
+
+       (c) Not equally likely                      (d) Not exhaustive.
+
+13. If P(A/B) = P(A), then
+
+       (a) A is independent of B                   (b) B is independent of A
+
+       (c) B is dependent of A                     (d) Both (a) and (b).
+
+14. If two events A and B are independent, then
+      (a) A and the complement of B are independent
+      (b) B and the complement of A are independent
+      (c) Complements of A and B are independent
+      (d) All of these (a), (b) and (c).
+
+15. If two events A and B are independent, then
+
+       (a) They can be mutually exclusive          (b) They can not be mutually exclusive
+
+       (c) They can not be exhaustive              (d) Both (b) and (c).
+
+16. If two events A and B are mutually exclusive, then
+
+       (a) They are always independent             (b) They may be independent
+
+       (c) They can not be independent             (d) They can not be equally likely.
+
+17. If a coin is tossed twice, then the events 'occurrence of one head', 'occurrence of 2 heads' and
+      'occurrence of no head' are
+
+       (a) Independent                             (b) Equally likely
+
+       (c) Not equally likely                      (d) Both (a) and (b).
+
+18. The probability of an event can assume any value between
+
+       (a) ­ 1 and 1                               (b) 0 and 1, including 0 and 1
+
+       (c) ­ 1 and 0                               (d) none of these.
+
+© The Institute of Chartered Accountants of India
+                                                                          PROBABILITY        15.41
+
+19. If P(A) = 0, then the event A
+
+(a) will never happen                              (b) will always happen
+
+(c) may happen                                     (d) may not happen.
+
+20. If P(A) = 1, then the event A is known as
+
+(a) symmetric event                                (b) dependent event
+
+(c) improbable event                               (d) sure event.
+
+21. If p : q are the odds in favour of an event, then the probability of that event is
+
+        p                                                   p
+(a) q                                              (b) p + q
+
+         q                                         (d) none of these.
+(c) p + q
+
+22. If P(A) = 5/9, then the odds against the event A is
+
+(a) 5 : 9                                          (b) 5 : 4
+
+(c) 4 : 5                                          (d) 5 : 14
+
+23. If A, B and C are mutually exclusive and exhaustive events, then P(A) + P(B) + P(C) equals
+      to
+
+      1                                            (b) 1
+(a) 3
+
+(c) 0                                              (d) any value between 0 and 1.
+
+24. If A denotes that a student reads in a school and B denotes that he plays cricket, then
+
+(a) P(A  B) = 1                                    (b) P(A  B) = 1
+
+(c) P(A  B) = 0                                    (d) P(A) = P(B).
+
+25. P(B/A) is defined only when
+
+(a) A is a sure event                              (b) B is a sure event
+
+(c) A is not an impossible event                   (d) B is an impossible event.
+
+26. P(A/B') is defined only when
+
+(a) B is not a sure event                          (b) B is a sure event
+
+(c) B is an impossible event                       (d) B is not an impossible event.
+
+27. For two events A and B, P(A  B) = P(A) + P(B) only when
+
+(a) A and B are equally likely events              (b) A and B are exhaustive events
+
+(c) A and B are mutually independent               (d) A and B are mutually exclusive.
+
+© The Institute of Chartered Accountants of India
+15.42         STATISTICS
+
+28. Addition Theorem of Probability states that for any two events A and B,
+
+      (a) P(A  B) = P(A) + P(B)                    (b) P(A  B) = P(A) + P(B) + P(A  B)
+      (c) P(A  B) = P(A) + P(B) ­ P(A  B)          (d) P(A  B) = P(A)  P(B)
+29. For any two events A and B,
+
+       (a) P(A) + P(B) > P(A  B)                   (b) P(A) + P(B) < P(A  B)
+
+       (c) P(A) + P(B)  P(A  B)                    (d) P(A) x P(B)  P(A  B)
+
+30. For any two events A and B,
+
+       (a) P(A­B) = P(A) ­ P(B)                    (b) P(A­B) = P(A) ­ P(A  B)
+
+       (c) P(A­B) = P(B) ­ P(A  B)                 (d) P(B­A) = P(B) + P(A  B).
+
+31. The limitations of the classical definition of probability
+
+       (a) it is applicable when the total number of elementary events is finite
+
+       (b) it is applicable if the elementary events are equally likely
+
+       (c) it is applicable if the elementary events are mutually independent
+
+       (d) (a) and (b).
+
+32. According to the statistical definition of probability, the probability of an event A is the
+      (a) limiting value of the ratio of the no. of times the event A occurs to the number of times
+            the experiment is repeated
+      (b) the ratio of the frequency of the occurrences of A to the total frequency
+      (c) the ratio of the frequency of the occurrences of A to the non-occurrence of A
+      (d) the ratio of the favourable elementary events to A to the total number of elementary
+            events.
+
+33. The Theorem of Compound Probability states that for any two events A and B.
+
+       (a) P(A  B) = P(A)  P(B/A)                  (b) P(A  B) = P(A)  P(B/A)
+
+       (c) P(A  B) = P(A)  P(B)                    (d) P(A  B) = P(B) + P(B) ­ P(A  B).
+
+34. If A and B are mutually exclusive events, then
+
+       (a) P(A) = P(A­B).                          (b) P(B) = P(A­B).
+
+       (c) P(A) = P(A  B).                         (d) P(B) = P(A  B).
+
+35. If P(A­B) = P(B­A), then the two events A and B satisfy the condition
+
+       (a) P(A) = P(B).                            (b) P(A) + P(B) = 1
+
+       (c) P(A  B) = 0                             (d) P(A  B) = 1
+
+36. The number of conditions to be satisfied by three events A, B and C for complete
+      independence is
+
+       (a) 2                                       (b) 3
+       (c) 4                                       (d) any number.
+
+© The Institute of Chartered Accountants of India
+                                                                           PROBABILITY       15.43
+
+37. If two events A and B are independent, then P(A  B)
+
+      (a) equals to P(A) + P(B)                    (b) equals to P(A)  P(B)
+      (c) equals to P(A)  P(B/A)                   (d) equals to P(B)  P(A/B).
+38. Values of a random variable are
+
+(a) always positive numbers.                       (b) always positive real numbers.
+
+(c) real numbers.                                  (d) natural numbers.
+
+39. Expected value of a random variable
+
+(a) is always positive                             (b) may be positive or negative
+
+(c) may be positive or negative or zero            (d) can never be zero.
+
+40. If all the values taken by a random variable are equal then
+
+(a) its expected value is zero                     (b) its standard deviation is zero
+
+(c) its standard deviation is positive             (d) its standard deviation is a real number.
+
+41. If x and y are independent, then
+
+(a) E(xy) = E(x)  E(y)                             (b) E(xy) = E(x) + E(y)
+(c) E(x ­ y) = E(x) + E(y)                         (d) E(x ­ y) = E(x) + x E(y)
+
+42. If a random variable x assumes the values x1 , x2 , x3 , x4 with corresponding probabilities p1
+      , p2 , p3 , p4 then the expected value of x is
+
+(a) p1 + p2 + p3 + p4                              (b) x1 p1 + x2 p3 + x3 p2 + x4 p4
+
+(c) p1 x1 + p2 x2 + p3 x3 + p4 x4                  (d) none of these.
+
+43. f(x), the probability mass function of a random variable x satisfies
+
+      (a) f(x) > 0                                 (b)  f(x)=1
+      (c) both (a) and (b)                                    x
+44. Variance of a random variable x is given by
+                                                   (d) f(x)  0 and  f(x) =1
+                                                                                        x
+
+(a) E (x ­  )2                                     (b) E [x ­ E(x)]2
+
+(c) E (x2 ­  )                                     (d) (a) and (b)
+
+45. If two random variables x and y are related by y = 2 ­ 3x, then the SD of y is given by
+
+(a) ­3  SD of x                                    (b) 3  SD of x.
+
+(c) 9  SD of x                                     (d) 2  SD of x.
+
+46. Probability of getting a head when two unbiased coins are tossed simultaneously is
+
+(a) 0.25                                           (b) 0.50
+
+(c) 0.20                                           (d) 0.75
+
+47. If an unbiased coin is tossed twice, the probability of obtaining at least one tail is
+
+(a) 0.25                                           (b) 0.50
+
+(c) 0.75                                           (d) 1.00
+
+© The Institute of Chartered Accountants of India
+15.44          STATISTICS
+
+48. If an unbiased die is rolled once, the odds in favour of getting a point which is a multiple of
+      3 is
+
+       (a) 1:2                                     (b) 2:1
+
+       (c) 1:3                                     (d) 3:1
+
+49. A bag contains 15 one rupee coins, 25 two rupee coins and 10 five rupee coins. If a coin is
+      selected at random from the bag, then the probability of not selecting a one rupee coin is
+
+       (a) 0.30                                    (b) 0.70
+
+       (c) 0.25                                    (d) 0.20
+
+50. A, B, C are three mutually independent with probabilities 0.3, 0.2 and 0.4 respectively. What
+      is P (A  B  C)?
+
+       (a) 0.400                                   (b) 0.240
+
+       (c) 0.024                                   (d) 0.500
+
+51. If two letters are taken at random from the word HOME, what is the Probability that none of
+      the letters would be vowels?
+
+       (a) 1/6                                     (b) 1/2
+
+       (c) 1/3                                     (d) 1/4
+
+52. If a card is drawn at random from a pack of 52 cards, what is the chance of getting a Spade or
+      an ace?
+
+       (a) 4/13                                    (b) 5/13
+
+       (c) 0.25                                    (d) 0.20
+
+53. If x and y are random variables having expected values as 4.5 and 2.5 respectively, then the
+      expected value of (x­y) is
+
+       (a) 2                                       (b) 7
+
+       (c) 6                                       (d) 0
+
+54. If variance of a random variable x is 23, then what is the variance of 2x+10?
+
+       (a) 56                                      (b) 33
+
+       (c) 46                                      (d) 92
+
+55. What is the probability of having at least one `six' from 3 throws of a perfect die?
+
+       (a) 5/6                                     (b) (5/6) 3
+
+       (c) 1­ (1/6) 3                              (d) 1 ­ (5/6) 3
+
+Set B
+
+Write down the correct answers. Each question carries 2 marks.
+
+1. Two balls are drawn from a bag containing 5 white and 7 black balls at random. What is the
+      probability that they would be of different colours?
+
+© The Institute of Chartered Accountants of India
+                                                                            PROBABILITY  15.45
+
+(a) 35/66                                          (b) 30/66
+
+(c) 12/66                                          (d) None of these
+
+2. What is the chance of throwing at least 7 in a single cast with 2 dice?
+
+(a) 5/12                                           (b) 7/12
+
+(c) 1/4                                            (d) 17/36
+
+3. What is the chance of getting at least one defective item if 3 items are drawn randomly from
+      a lot containing 6 items of which 2 are defective item?
+
+(a) 0.30                                           (b) 0.20
+
+(c) 0.80                                           (d) 0.50
+
+4. If two unbiased dice are rolled together, what is the probability of getting no difference of
+      points?
+
+(a) 1/2                                            (b) 1/3
+
+(c) 1/5                                            (d) 1/6
+
+5. If A, B and C are mutually exclusive independent and exhaustive events then what is the
+      probability that they occur simultaneously?
+
+(a) 1                                              (b) 0.50
+
+(c) 0                                              (d) any value between 0 and 1
+
+6. There are 10 balls numbered from 1 to 10 in a box. If one of them is selected at random, what
+      is the probability that the number printed on the ball would be an odd number greater that
+      4?
+
+(a) 0.50                                           (b) 0.40
+
+(c) 0.60                                           (d) 0.30
+
+7. Following are the wages of 8 workers in rupees:
+
+50, 62, 40, 70, 45, 56, 32, 45
+
+If one of the workers is selected at random, what is the probability that his wage would be
+lower than the average wage?
+
+(a) 0.625                                          (b) 0.500
+
+(c) 0.375                                          (d) 0.450
+
+8. A, B and C are three mutually exclusive and exhaustive events such that P (A) = 2 P (B) =
+      3P(C). What is P (B)?
+
+(a) 6/11                                           (b) 3/11
+
+(c) 1/6                                            (d) 1/3
+
+© The Institute of Chartered Accountants of India
+15.46          STATISTICS
+
+9. For two events A and B, P (B) = 0.3, P (A but not B) = 0.4 and P (not A) = 0.6. The events A and
+      B are
+
+       (a) exhaustive                              (b) independent
+
+       (c) equally likely                          (d) mutually exclusive
+
+10. A bag contains 12 balls which are numbered from 1 to 12. If a ball is selected at random,
+      what is the probability that the number of the ball will be a multiple of 5 or 6 ?
+
+       (a) 0.30                                    (b) 0.25
+
+       (c) 0.20                                    (d) 1/3
+
+11. Given that for two events A and B, P (A) = 3/5, P (B) = 2/3 and P (A  B) = 3/4, what is               P
+
+       (A/B)?
+
+       (a) 0.655                                   (b) 13/60
+
+       (c) 31/60                                   (d) 0.775
+
+12. For two independent events A and B, what is P (A+B), given P(A) = 3/5 and P(B) = 2/3?
+
+       (a) 11/15                                   (b) 13/15
+
+       (c) 7/15                                    (d) 0.65
+
+13. If P (A) = p and P (B) = q, then               (b) P(A/B)  p/q
+      (a) P(A/B)  p/q                              (d) None of these
+      (c) P(A/B)  q/p
+
+14. If P ( A  B ) = 5/6, P(A) = ½ and P ( B ) = 2/3, , what is P (A  B) ?
+
+       (a) 1/3                                     (b) 5/6
+
+       (c) 2/3                                     (d) 4/9
+
+15. If for two independent events A and B, P (A  B) = 2/3 and P (A) = 2/5, what is P (B)?
+
+       (a) 4/15                                    (b) 4/9
+
+       (c) 5/9                                     (d) 7/15
+
+16. If P (A) = 2/3, P (B) =3/4, P (A/B) = 2/3, then what is P (B / A)?
+
+       (a) 1/3                                     (b) 2/3
+
+       (c) 3/4                                     (d) 1/2
+
+17. If P (A) = a, P (B) = b and P (A  B) = c then the expression of P (A'  B') in terms of a, b and c is
+
+       (a) 1 ­ a ­ b ­ c                           (b) a + b ­ c
+
+       (c) 1 + a ­ b ­ c                           (d) 1 ­ a ­ b + c
+
+18. For three events A, B and C, the probability that only A occur is
+
+© The Institute of Chartered Accountants of India
+                                                                      PROBABILITY               15.47
+
+(a) P (A)                                          (b) P (A  B  C)
+
+(c) P (A'  B  C)                                   (d) P (A  B'  C')
+
+19. It is given that a family of 2 children has a girl, what is the probability that the other child is
+      also a girl ?
+
+(a) 0.50                                           (b) 0.75
+
+(c) 1/3                                            (d) 2/3
+
+20. Two coins are tossed simultaneously. What is the probability that the second coin would
+      show a tail given that the first coin has shown a head?
+
+(a) 0.50                                           (b) 0.25
+
+(c) 0.75                                           (d) 0.125
+
+21. If a random variable x assumes the values 0, 1 and 2 with probabilities 0.30, 0.50 and 0.20,
+      then its expected value is
+
+(a) 1.50                                           (b) 3
+
+(c) 0.90                                           (d) 1
+
+22. If two random variables x and y are related as y = ­3x + 4 and standard deviation of x is 2,
+      then the standard deviation of y is
+
+(a) ­ 6                                            (b) 6
+
+(c) 18                                             (d) 3.50
+
+23. If 2x + 3y + 4 = 0 and v(x) = 6 then v (y) is
+
+(a) 8/3                                            (b) 9
+
+(c) ­ 9                                            (d) 6
+
+Set C
+
+Write down the correct answers. Each question carries 5 marks.
+
+1. What is the probability that a leap year selected at random would contain 53 Saturdays?
+
+(a) 1/7                                            (b) 2/7
+
+(c) 1/12                                           (d) 1/4
+
+2. If an unbiased coin is tossed three times, what is the probability of getting more that one
+      head?
+
+(a) 1/8                                            (b) 3/8
+
+(c) 1/2                                            (d) 1/3
+
+3. If two unbiased dice are rolled, what is the probability of getting points neither 6 nor 9?
+
+(a) 0.25                                           (b) 0.50
+
+(c) 0.75                                           (d) 0.80
+
+4. What is the probability that 4 children selected at random would have different
+
+© The Institute of Chartered Accountants of India
+15.48       STATISTICS
+
+       birthdays?
+
+            364363 362                                  65 4
+                                                   (b) 73
+       (a)       3653
+
+       (c) 1/365                                   (d) (1/7) 3
+
+5. A box contains 5 white and 7 black balls. Two successive drawn of 3 balls are made (i) with
+      replacement (ii) without replacement. The probability that the first draw would produce
+      white balls and the second draw would produce black balls are respectively
+
+       (a) 6/321 and 3/926                         (b) 1/20 and 1/30
+
+       (c) 35/144 and 35/108                       (d) 7/968 and 5/264
+
+6. There are three boxes with the following composition:
+
+       Box I: 5 Red + 7 White + 6 Blue balls       Box II: 4 Red + 8 White + 6 Blue balls
+       Box III: 3 Red + 4 White + 2 Blue balls
+
+       If one ball is drawn at random, then what is the probability that they would be of same
+       colour?
+
+       (a) 89/729                                  (b) 97/729
+       (c) 82/729                                  (d) 23/32
+
+7. A number is selected at random from the first 1000 natural numbers. What is the probability
+      that the number so selected would be a multiple of 7 or 11?
+
+       (a) 0.25                                    (b) 0.32
+
+       (c) 0.22                                    (d) 0.33
+
+8. A bag contains 8 red and 5 white balls. Two successive draws of 3 balls are made without
+      replacement. The probability that the first draw will produce 3 white balls and the second 3
+      red balls is
+
+       (a) 5/223                                   (b) 6/257
+       (c) 7/429                                   (d) 3/548
+
+9. There are two boxes containing 5 white and 6 blue balls and 3 white and 7 blue balls
+      respectively. If one of the the boxes is selected at random and a ball is drawn from it, then
+      the probability that the ball is blue is
+
+       (a) 115/227                                 (b) 83/250
+
+       (c) 137/220                                 (d) 127/250
+
+10. A problem in probability was given to three CA students A, B and C whose chances of
+      solving it are 1/3, 1/5 and 1/2 respectively. What is the probability that the problem would
+      be solved?
+
+       (a) 4/15                                    (b) 7/8
+
+       (c) 8/15                                    (d) 11/15
+
+© The Institute of Chartered Accountants of India
+                                                               PROBABILITY  15.49
+
+11. There are three persons aged 60, 65 and 70 years old. The survival probabilities for these
+      three persons for another 5 years are 0.7, 0.4 and 0.2 respectively. What is the probability
+      that at least two of them would survive another five years?
+
+(a) 0.425                                          (b) 0.456
+
+(c) 0.392                                          (d) 0.388
+
+12. Tom speaks truth in 30 percent cases and Dick speaks truth in 25 percent cases. What is the
+      probability that they would contradict each other?
+
+(a) 0.325                                          (b) 0.400
+
+(c) 0.925                                          (d) 0.075
+
+13. There are two urns. The first urn contains 3 red and 5 white balls whereas the second urn
+      contains 4 red and 6 white balls. A ball is taken at random from the first urn and is transferred
+      to the second urn. Now another ball is selected at random from the second urn. The
+      probability that the second ball would be red is
+
+(a) 7/20                                           (b) 35/88
+
+(c) 17/52                                          (d) 3/20
+
+14. For a group of students, 30 %, 40% and 50% failed in Physics , Chemistry and at least one of
+      the two subjects respectively. If an examinee is selected at random, what is the probability
+      that he passed in Physics if it is known that he failed in Chemistry?
+
+(a) 1/2                                            (b) 1/3
+
+(c) 1/4                                            (d) 1/6
+
+15. A packet of 10 electronic components is known to include 2 defectives. If a sample of 4
+      components is selected at random from the packet, what is the probability that the sample
+      does not contain more than 1 defective?
+
+(a) 1/3                                            (b) 2/3
+
+(c) 13/15                                          (d) 3/15
+
+16. 8 identical balls are placed at random in three bags. What is the probability that the first bag
+      will contain 3 balls?
+
+(a) 0.2731                                         (b) 0.3256
+
+(c) 0.1924                                         (d) 0.3443
+
+17. X and Y stand in a line with 6 other people. What is the probability that there are 3 persons
+      between them?
+
+(a) 1/5                                            (b) 1/6
+
+(c) 1/7                                            (d) 1/3
+
+18. Given that P (A) = 1/2, P (B) = 1/3, P (A  B) = 1/4, what is P (A'/B')
+
+(a) 1/2                                            (b) 7/8
+
+(c) 5/8                                            (d) 2/3
+
+© The Institute of Chartered Accountants of India
+15.50      STATISTICS
+
+19. Four digits 1, 2, 4 and 6 are selected at random to form a four digit number. What is the
+      probability that the number so formed, would be divisible by 4?
+
+       (a) 1/2                                            (b) 1/5
+
+       (c) 1/4                                            (d) 1/3
+
+20. The probability distribution of a random variable x is given below:
+
+       x:        1           2      4                  5  6
+
+       P:        0.15 0.25 0.20 0.30 0.10
+
+       What is the standard deviation of x?
+
+       (a) 1.49                                              (b) 1.56
+
+       (c) 1.69                                           (d) 1.72
+
+21. A packet of 10 electronic components is known to include 3 defectives. If 4 components are
+      selected from the packet at random, what is the expected value of the number of defective?
+
+       (a) 1.20                                              (b) 1.21
+
+       (c) 1.69                                           (d) 1.72
+
+22. The probability that there is at least one error in an account statement prepared by 3 persons
+      A, B and C are 0.2, 0.3 and 0.1 respectively. If A, B and C prepare 60, 70 and 90 such statements,
+      then the expected number of correct statements
+
+       (a) 170                                               (b) 176
+
+       (c) 178                                            (d) 180
+
+23. A bag contains 6 white and 4 red balls. If a person draws 2 balls and receives ` 10 and
+      ` 20 for a white and red balls respectively, then his expected amount is
+
+       (a) ` 25                                           (b) ` 26
+
+       (c) ` 29                                           (d) ` 28
+
+24. The probability distribution of a random variable is as follows:
+
+       x:              1        2                  4      6           8
+
+       P:              k        2k                 3k     3k          k
+
+       The variance of x is
+
+       (a) 2.1                                               (b) 4.41
+
+       (c) 2.32                                           (d) 2.47
+
+© The Institute of Chartered Accountants of India
+                                                            PROBABILITY       15.51
+
+Set A      2. (a)   3. (c)                         4. (d)   5. (d)   6. (d)
+  1. (c)   8. (a)   9. (c)                         10. (d)  11. (c)  12. (b)
+  7. (c)   14. (d)  15. (b)                        16. (c)  17. (c)  18. (b)
+  13. (d)  20. (d)  21. (b)                        22. (c)  23. (b)  24. (c)
+  19. (a)  26. (a)  27. (d)                        28. (c)  29. (c)  30. (b)
+  25. (c)  32. (a)  33. (a)                        34. (a)  35. (a)  36. (c)
+  31. (d)  38. (c)  39. (c)                        40 (b)   41. (a)  42. (c)
+  37. (b)  44. (d)  45. (b)                        46. (b)  47. (c)  48. (a)
+  43. (d)  50. (c)  51. (a)                        52. (a)  53. (a)  54. (d)
+  49. (b)
+  55. (d)  2. (b)   3. (c)                         4. (d)   5. (c)   6. (d)
+  Set B    8. (b)   9. (d)                         10. (d)  11. (d)  12. (b)
+  1. (a)   14. (c)  15. (b)                        16. (c)  17. (d)  18. (d)
+  7. (b)   20. (a)  21. (c)                        22. (b)  23. (a)
+  13. (a)                                                            6. (a)
+  19. (c)  2. (c)   3. (c)                         4. (a)   5. (d)   12. (b)
+  Set C    8. (c)   9. (c)                         10. (d)  11. (d)  18. (c)
+  1. (b)   14. (a)  15. (c)                        16. (a)  17. (c)  24. (b)
+  7. (c)   20. (c)  21. (a)                        22. (c)  23. (d)
+  13. (b)
+  19. (d)
+
+© The Institute of Chartered Accountants of India
+15.52          STATISTICS
+
+1. All possible outcomes of a random experiment forms the
+
+       (a) events             (b) sample space (c) both                       (d) none
+
+2. If one of outcomes cannot be expected to occur in preference to the other in an experiment
+
+       the events are
+
+       (a) simple events                           (b) compound events
+
+       (c) favourable events                       (d) equally likely events
+
+3. If two events cannot occur simultaneously in the same trial then they are
+
+       (a) mutually exclusive events               (b) simple events
+
+       (c) favourable events                       (d) none
+
+4. When the number of cases favourable to the event A is none then P(A) is equal to
+
+       (a) 1                  (b) 0                (c)  1                     (d) none
+                                                        2
+
+5. A card is drawn from a well-shuffled pack of playing cards. The probability that it is a spade
+
+       is
+
+            1                 (b)  1                    3                     (d) none
+       (a) 13                      4               (c) 13
+
+6. A card is drawn from a well-shuffled pack of playing cards. The probability that it is a king
+
+       is
+
+            1                 (b)  1                    4                     (d) none
+       (a) 13                      4               (c) 13
+
+7. A card is drawn from a well-shuffled pack of playing cards. The probability that it is the ace
+
+       of clubs is
+
+            1                      1                    1                     (d) none
+       (a) 13                 (b) 4                (c) 52
+
+8. In a single throw with two dice the probability of getting a sum of five on the two dice is
+
+            1                      5                    5                     (d) none
+       (a) 9                  (b) 36               (c) 9
+
+9. In a single throw with two dice, the probability of getting a sum of six on the two dice is
+
+            1                      5                    5                     (d) none
+       (a) 9                  (b) 36               (c) 9
+
+10. The probability that exactly one head appears in a single throw of two fair coins is
+
+       (a)  3                 (b)  1               (c)  1                     (d) none
+            4                      2                    4
+
+11. The probability that at least one head appears in a single throw of three fair coins is
+
+            1                      7                    1                     (d) none
+       (a) 8                  (b) 8                (c) 3
+
+12. The definition of probability fails when the no of possible outcomes of the experiment is
+
+       infinite
+
+       (a) True               (b) false            (c) both                   (d) none
+
+© The Institute of Chartered Accountants of India
+                                                                                  PROBABILITY      15.53
+
+13. The following table gives distribution of wages of 100 workers ­
+
+Wages (in `)          120­140 140­160 160­180 180­200 200­220 220­240 240­260
+
+No. of workers        9                            20       0          10      8         35    18
+
+The probability that his wages are under ` 140 is
+
+(a) 20/100            (b) 9/100                             (c) 29/100            (d) none
+
+14. An individual is selected at random from the above group. The probability that his wages
+
+are under `160 is
+
+(a) 9/100             (b) 20/100                            (c) 29/100            (d) none
+
+15. For the above table the probability that his wages are above ` 200 is
+
+(a) 43/100            (b) 35/100                            (c) 53/100            (d) 61/100
+
+16. For the above table the probability that his wages between ` 160 and 220 is
+
+(a) 30/100            (b) 10/100                            (c) 38/100            (d) 18/100
+
+17. The table below shows the history of 1000 men :
+
+Life (in years) :          60                          70          80      90
+
+No. survived :        1000                             500     100         60
+
+The probability that a man will survived to age 90 is
+
+(a) 60/1000           (b) 160/1000                          (c) 660/1000          (d) none
+
+18. The terms "chance" and probability are synonymous
+
+(a) True              (b) false                             (c) both              (d) none
+
+                                                                                                                1
+19. If probability of drawing a spade from a well-shuffled pack of playing cards is 4 then the
+
+      probability that of the card drawn from a well-shuffled pack of playing cards is `not a spade'
+      is
+
+                           1                                   1                  3
+(a) 1                 (b) 2                                 (c) 4                 (d) 4
+
+20. Sum of probability of events in sample space is
+
+(a) 0                 (b)  1                                (c) 1                 (d) none
+                           2
+
+21. Sum of all probabilities of mutually exclusive and exhaustive events is equal to
+
+                           1                                   3
+(a) 0                 (b) 2                                 (c) 4                 (d) 1
+
+22. Let a sample space be S = {X1, X2, X3} which of the following defines probability space on S ?
+
+            1      1             1                                             1         2
+(a) P(X1)= 4 , P(X2)= 3 , P(X3)= 3                          (b) P(X1)= 0, P(X2)= 3 , P(X3)= 3
+
+            2      1             2                          (d) none
+(c) P(X1)= 3 , P(X2)= 3 , P(X3)= 3
+
+© The Institute of Chartered Accountants of India
+15.54           STATISTICS
+
+                                                                    1         1
+23. Let P be a probability function on S = {X1 , X2 , X3} if P(X1)= 4 and P(X3) = 3 then P (X2)
+
+       is equal to
+
+       (a) 5/12             (b) 7/12               (c) 3/4                (d) none
+
+24. The chance of getting a sum of 10 in a single throw with two dice is
+
+       (a) 10/36            (b) 1/12               (c) 5/36               (d) none
+
+25. The chance of getting a sum of 6 in a single throw with two dice is
+
+       (a) 3/36             (b) 4/36               (c) 6/36               (d) 5/36
+
+26. P (B/A) defines the probability that event B occurs on the assumption that A has happened
+
+       (a) Yes              (b) no                 (c) both               (d) none
+
+27. The complete group of all possible outcomes of a random experiment given an ________ set
+      of events.
+
+       (a) mutually exclusive (b) exhaustive       (c) both               (d) none
+
+28. When the event is `certain' the probability of it is
+
+       (a) 0                (b) 1/2                (c) 1                  (d) none
+
+29. The classical definition of probability is based on the feasibility at subdividing the possible
+      outcomes of the experiments into
+
+       (a) mutually exclusive and exhaustive
+
+       (b) mutually exclusive and equally likely
+
+       (c) exhaustive and equally likely
+
+       (d) mutually exclusive,exhaustive and equally likely cases.
+
+30. Two unbiased coins are tossed. The probability of obtaining `both heads' is
+
+            1                    2                     3                  (d) none
+       (a) 4                (b) 4                  (c) 4
+
+31. Two unbiased coins are tossed. The probability of obtaining one head and one tail is
+
+            1                    2                     3                  (d) none
+       (a) 4                (b) 4                  (c) 4
+
+32. Two unbiased coins are tossed. The probability of obtaining both tail is
+
+       (a)  2               (b)  3                 (c)    1               (d) none
+            4                    4                        4
+
+33. Two unbiased coins are tossed. The probability of obtaining at least one head is
+
+            1                    2                     3                  (d) none
+       (a) 4                (b) 4                  (c) 4
+
+34. When two unbiased coins are tossed, the probability of obtaining 3 heads is
+
+            2                    1                     3                  (d) 0
+       (a) 4                (b) 4                  (c) 4
+
+35. When two unbiased coins are tossed, the probability of obtaining not more than 3 heads is
+
+       (a)  3               (b)  1                 (c) 1                  (d) 0
+            4                    2
+
+© The Institute of Chartered Accountants of India
+                                                                            PROBABILITY  15.55
+
+36. When two unbiased coins are tossed, the probability of getting both heads or both tails is
+
+     1                       3                            1                    (d) none
+(a) 2                   (b) 4                         (c) 4
+
+37. Two dice with face marked 1, 2, 3, 4, 5, 6 are thrown simultaneously and the points on the
+      dice are multiplied together. The probability that product is 12 is
+
+(a) 4/36                (b) 5/36                      (c) 12/36                (d) none
+
+38. A bag contain 6 white and 5 black balls. One ball is drawn. The probability that it is white is
+
+(a) 5/11                (b) 1                         (c) 6/11                 (d) 1/11
+
+39. Probability of occurrence of at least one of the events A and B is denoted by
+
+(a) P(AB)               (b) P(A+B)                    (c) P(A/B)               (d) none
+
+40. Probability of occurrence of A as well as B is denoted by
+
+(a) P(AB)               (b) P(A+B)                    (c) P(A/B)               (d) none
+
+41. Which of the following relation is true ?
+
+(a) P(A)­ P(AC)= 1      (b) P(A)+ P(AC)= 1 (c) P(A) P(AC)= 1                   (d) none
+
+42. If events A and B are mutually exclusive, the probability that either A or B occurs is given by
+
+a) P (A+B)= P(A)­ P(B)                                (b) P (A+B)=P(A)+ P(B)­ P(AB)
+
+c) P (A+B)= P(A)­ P(B)+ P(AB)                         (d) P (A+B)= P(A)+ P(B)
+
+43. The probability of occurrence of at least one of the 2 events A and B (which may not be
+      mutually exclusive) is given by
+
+a) P(A+B)= P(A)­ P(B)                                 (b) P(A+B)= P(A)+ P(B)­ P(AB)
+
+c) P(A+B)= P(A)­ P(B)+ P(AB)                          (d) P(A+B)= P(A)+P (B)
+
+44. If events A and B are independent, the probability of occurrence of A as well as B is given by
+
+(a) P(AB)= P(A/B)                                     (b) P(AB)= P(A)/P(B)
+
+(c) P(AB)= P(A)P(B)                                   (d) None
+
+45. For the condition P(AB)= P(A)P(B)two events A and B are said to be
+
+(a) dependent           (b) independent (c) equally like                       (d) none
+
+46. The conditional probability of an event B on the assumption that another event A has actually
+      occurred is given by
+
+(a) P(B/A)= P(AB)/P(A)                                (b) P(A/B)= P(AB)/ P(B)
+
+(c) P(B/A)= P(AB)                                     (d) P(A/B)= P(AB)/ P(A)P(B)
+
+           1            1                          1
+47. Given P(A)= , P(B)= , P(AB)= , the value of P(A+B) is
+           2            3                          4
+
+a)  3                   b)  7                         c)  5                    d)  1
+
+    4                       12                            6                        6
+
+© The Institute of Chartered Accountants of India
+15.56           STATISTICS
+
+                         1             1            1
+48. Given P(A)= 2 , P(B)= 3 , P (AB)= 4 , the value of P (A/B) is
+
+            1                               1                   2                       3
+       (a) 2                           (b) 6               (c) 3                   (d) 4
+
+                   1            1
+49. If P (A)= , P(B)= , the events A & B are
+                   3            4
+
+       a) not equally likely                               b) mutually exclusive
+
+       c) equally likely                                   d) none
+
+50. If events A and B are independent then
+
+       a) AC and BC are dependent                          b) AC and B are dependent
+
+       c) A and BC are dependent                           d) AC and BC are also independent
+
+51. A card is drawn from each of two well-shuffled packs of cards.The probability that at least
+
+       one of them is an ace is
+
+           1                               25                  2                   d) none
+       a) 69                           b) 169              c) 13                   d) none
+                                                           c) S ={1,2,3,4,5,6}
+52. When a die is tossed, the sample space is
+
+       a) S ={1,2,3,4,5}               b) S ={1,2,3,4}
+
+53.    If P  (A)=  1  ,  P(B)=  2  ,P            1  then P(AB)is equal to
+                   4            5      (A+B)= 2
+
+       3                                     2             13                         3
+       a) 4                            b) 20               c) 20                   d) 20
+
+54. If events A and B are independent and P(A)= 2/3 , P(B)= 3/5 then P(A+B)is equal to
+
+          13                               6                  1                    d) none
+       a) 15                           b) 15               c) 15                   d) none
+
+55. The expected number of head in 100 tosses of an unbiased coin is
+
+       a) 100                          b) 50               c) 25
+
+56. A and B are two events such that P(A)= 1 , P(B) = 1 , P(A+B)= 1 , than P(B/A) is equal to
+                                                        3        4              2
+
+       a) 1                            b) 1                c) 1                    d) none
+       4                                  3                2
+
+57. Probability mass function is always
+
+       a) 0                                                b) greater than 0
+
+       c) greater than equal to 0                          d) less than 0
+
+58. The sum of probability mass function is equal to
+
+       a) ­1                           b) 0                c) 1                    d) none
+
+59. When X is a continuous function f(x)is called
+
+       a) probability mass function                        b) probability density function
+
+       c) both                                             d) none
+
+© The Institute of Chartered Accountants of India
+                                                                          PROBABILITY      15.57
+
+60. Which of the following set of function define a probability space on S = {a1, a2, a3}
+
+          1           1            1                        1         1               1
+a) P(a1)= 3 , P(a2) = 2 , P(a3)= 4                 b) P(a1)= 3 , P(a2)= 6 ,P(a3)= 2
+
+                  2      1                         d) None
+c) P(a1)= P(a2)= 3 , P(a3)= 4
+
+                      1            2
+61. If P (a1)= 0, P(a2)= 3 , P (a3) = 3 then S = {a1, a2, a3} is a probability space
+
+a) true                  b) false                  c) both                d) none
+
+62. If two events are independent then
+
+a) P(B/A)= P(AB) P(A)                              b) P(B/A)= P(AB) P(B)
+
+c) P(B/A)= P(B)                                    d) P(B/A)= P(A)
+
+63. When expected value is negative the result is
+
+a) favourable                                      b) unfavourable
+
+c) both                                            d) none to the above
+
+64. The expected value of X, the sum of the scores, when two dice are rolled is
+
+a) 9                     b) 8                      c) 6                   d) 7
+
+65. Let A and B be the events with P(A)= 1/3, P(B) = 1/4 and P(AB)= 1/12 then P(A/B) is
+
+equal to
+
+a) 1                     b) 1                         3                   d) 2
+    3                        4                     c) 4                       3
+
+66. Let A and B be the events with P(A)= 2/3, P(B)= 1/4 and P(AB)= 1/12 then P(B/A) is equal
+
+to
+
+a) 7                     b) 1                      c) 1                   d) none
+    8                           3                  8
+
+67. The odds in favour of one student passing a test are 3:7.The odds against another student
+      passing at are 3:5.The probability that both pass is
+
+    7                        21                        9                       3
+a) 16                    b) 80                     c) 80                  d) 16
+
+68. The odds in favour of one student passing a test are 3:7.The odds against another student
+      passing at are 3:5. The probability that both fail is
+
+    7                        21                        9                       3
+a)                       b) 80                     c) 80                  d)
+
+   16                                                                         16
+
+69. In formula P(B/A), P(A) is
+
+a) greater than zero                               b) less than zero
+
+c) equal to zero                                   d) greater than equal to zero
+
+70. Two events A and B are mutually exclusive means they are
+
+a) not disjoint          b) disjoint               c) equally likely      d) none
+
+© The Institute of Chartered Accountants of India
+15.58           STATISTICS
+
+71. A bag contains 10 white and 10 black balls A ball is drawn from it. The probability that it
+      will be white is
+
+            1                   (b) 1              (c) 1                    (d) none
+       (a) 10                                           2
+
+72. Two dice are thrown at a time. The probability that the numbers shown are equal is
+
+       (a) 2                    (b) 5              (c) 1                    (d) none
+            6                        6                 6
+
+73. Two dice are thrown at a time. The probability that `the difference of numbers shown is 1' is
+
+            11                       5                  7                   (d) none
+       (a)                      (b)                (c)
+
+           18                        18                18
+
+74. Two dice are thrown together. The probability that `the event the difference of numbers
+      shown is 2' is
+
+       (a) 2/9                  (b) 5/9            (c) 4/9                  (d) 7/9
+
+75. The probability space in tossing two coins is
+
+       (a) {(H,H),(H,T),(T,H)}                     (b) {(H,T),(T,H),(T,T)}
+
+       (c) {(H,H),(H,T),(T,H), (T,T)}              (d) none
+
+76. The probability of drawing a white ball from a bag containing 3 white and 8 blue balls is
+
+       (a) 3/5                  (b) 3/11           (c) 8/11                 (d) none
+
+77. Two dice are thrown together. The probability of the event that the sum of numbers shown
+      is greater than 5 is
+
+       (a) 13/18                (b) 15/18          (c) 1                    (d) none
+
+78. A traffic census show that out of 1000 vehicles passing a junction point on a highway 600
+      turned to the right. The probability of an automobile turning the right is
+
+       (a) 2/5                  (b) 3/5            (c) 4/5                  (d) none
+
+79. Three coins are tossed together. The probability of getting three tails is
+
+       (a) 5/8                  (b) 3/8            (c) 1/8                  (d) none
+
+80. Three coins are tossed together.The probability of getting exactly two heads is
+
+       (a) 5/8                  (b) 3/8            (c) 1/8                  (d) none
+
+81. Three coins are tossed together. The probability of getting at least two heads is
+
+       (a) 1/2                  (b) 3/8            (c) 1/8                  (d) none
+
+82. 4 coins are tossed. The probability that there are 2 heads is
+
+       (a) 1/2                  (b) 3/8            (c) 1/8                  (d) none
+
+83. If 4 coins are tossed. The chance that there should be two tails is
+
+       (a) 1/2                  (b) 3/8            (c) 1/8                  (d) none
+
+84. If A is an event and AC its complementary event then
+
+       (a) P(A)=P(AC)­1         (b) P(AC)=1­P(A) (c) P(A)=1 + P(AC)         (d) none
+
+© The Institute of Chartered Accountants of India
+                                                                 PROBABILITY                  15.59
+
+85. If P(A)= 3/8, P(B)= 1/3 and P(AB)= 1 then P(AC) is equal to
+                                                        4
+
+(a) 5/8    (b) 3/8                                 (c) 1/8       (d) none
+
+86. If P(A)= 3/8, P(B)= 1/3 then P(B) is equal to
+
+(a) 1      (b) 1/3                                 (c) 2/3       (d) none
+
+87. If P(A)= 3/8, P(B)= 1/3 and P(AB)= 1 then P(A + B)is
+                                                        4
+
+(a) 13/24  (b) 11/24                               (c) 17/24     (d) none
+
+88. If P(A)= 1/5, P(B)= 1/2 and A and B are mutually exclusive then P(AB) is
+
+(a) 7/10   (b) 3/10                                (c) 1/5       (d) none
+
+89. The probability of throwing more than 4 in a single throw from an ordinary die is
+
+(a) 2/3    (b) 1/3                                 (c) 1         (d) none
+
+90. The probability that a card drawn at random from the pack of playing cards may be either a
+      queen or an ace is
+
+(a) 2/13   (b) 11/13                               (c) 9/13      (d) none
+
+91. The chance of getting 7 or 11 in a throw of 2 dice is
+
+(a) 7/9    (b) 5/9                                 (c) 2/9       (d) none
+
+92. If the probability of a horse A winning a race is 1/6 and the probability of a horse B winning
+      the same race is 1/4 , what is the probability that one of the horses will win
+
+(a) 5/12   (b) 7/12                                (c) 1/12      (d) none
+
+93. If the probability of a horse A winning a race is 1/6 and the probability of a horse B winning
+      the same race is 1/4 , What is the probability that none of them will win
+
+(a) 5/12   (b) 7/12                                (c) 1/12      (d) none
+
+94. If P (A)= 7/8 then(P(AC) is equal to
+
+(a) 1      (b) 0                                   (c) 7/8       (d) 1/8
+
+95. The value of P(S) were S is the sample space is
+
+(a) ­1     (b) 0                                   (c) 1         (d) none
+
+96. A man can kill a bird once in three shots.The probabilities that a bird is not killed is
+
+(a) 1/3    (b) 2/3                                 (c) 1         (d) 0
+
+97. If on an average 9 shops out of 10 return safely to a port, the probability of one ship returns
+      safely is
+
+(a) 1/10   (b) 8/10                                (c) 9/10      (d) none
+
+© The Institute of Chartered Accountants of India
+15.60           STATISTICS
+
+98. If on an average 9 shops out of 10 return safely to a port, the probability of one ship does not
+      reach safely is
+
+       (a) 1/10             (b) 8/10               (c) 9/10               (d) none
+
+99. The probability of winning of a person is 6/11 and at a result he gets ` 77/-. The
+      expectation of this person is
+
+       (a) ` 35/-           (b) ` 42/-             (c) ` 58/-             (d) none
+
+100. A family has 2 children. The probability that both of them are boys if it is known that one of
+      them is a boy
+
+       (a) 1                (b) 1/2                (c) 3/4                (d) none
+
+101. The Probability of the occurrence of a number greater then 2 in a throw of a die if it is known
+      that only even numbers can occur is
+
+       (a) 1/3              (b) 1/2                (c) 2/3                (d) none
+
+102. A player has 7 cards in hand of which 5 are red and of these five 2 are kings. A card is drawn
+      at random. The probability that it is a king, it being known that it is red is
+
+       (a) 2/5              (b) 3/5                (c) 4/5                (d) none
+
+103. In a class 40 % students read Mathematics, 25 % Biology and 15 % both Mathematics and
+      Biology. One student is select at random. The probability that he reads Mathematics if it is
+      known that he reads Biology is
+
+       (a) 2/5              (b) 3/5                (c) 4/5                (d) none
+
+104. In a class 40 % students read Mathematics, 25 % Biology and 15 % both Mathematics and
+      Biology. One student is select at random.The probability that he reads Biology if he reads
+      Mathematics
+
+       (a) 7/8              (b) 1/8                (c) 3/8                (d) none
+
+105. Probability of throwing an odd no with an ordinary six faced die is
+
+       (a) 1/2              (b) 1                  (c) ­1/2               (d) 0
+
+106. For a event A which is certain, P (A) is equal to
+
+       (a) 1                (b) 0                  (c) ­1                 (d) none
+
+107. When none of the outcomes is favourable to the event then the event is said to be
+
+       (a) certain          (b) sample             (c) impossible         (d) none
+
+© The Institute of Chartered Accountants of India
+                                                             PROBABILITY  15.61
+
+1. (b)    2. (d)    3. (a)                         4. (b)    5. (b)
+6. (a)    7. (c)    8. (a)                         9. (b)    10. (b)
+11. (b)   12. (a)   13. (b)                        14. (c)   15. (d)
+16. (d)   17. (a)   18. (a)                        19. (d)   20. (c)
+21. (d)   22. (b)   23. (a)                        24. (b)   25. (d)
+26. (a)   27. (b)   28. (c)                        29. (d)   30. (a)
+31. (b)   32. (c)   33. (c)                        34. (d)   35. (c)
+36. (a)   37. (a)   38. (c)                        39. (b)   40. (a)
+41. (b)   42. (d)   43. (b)                        44. (c)   45. (b)
+46. (a)   47. (b)   48. (d)                        49. (a)   50. (d)
+51. (b)   52. (c)   53. (d)                        54. (a)   55. (b)
+56. (a)   57. (c)   58. (c)                        59. (b)   60. (b)
+61. (a)   62. (c)   63. (b)                        64. (d)   65. (a)
+66. (c)   67. (d)   68. (b)                        69. (a)   70. (b)
+71. (c)   72. (c)   73. (b)                        74. (a)   75. (c)
+76. (b)   77. (a)   78. (b)                        79. (c)   80. (b)
+81. (a)   82. (b)   83. (b)                        84. (b)   85. (a)
+86. (c)   87. (b)   88. (d)                        89. (b)   90. (a)
+91. (c)   92. (a)   93. (b)                        94. (d)   95. (c)
+96. (b)   97. (c)   98. (a)                        99. (b)   100. (d)
+101. (c)  102. (a)  103. (b)                       104. (c)  105. (a)
+106. (a)  107. (c)
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+

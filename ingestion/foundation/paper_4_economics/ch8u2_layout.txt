@@ -1,0 +1,1000 @@
+.22  8.22            BUSINESS ECONOMICS
+
+     UNIT ­ 2: CONCEPT OF MONEY
+                        SUPPLY
+
+                                              LEARNING OUTCOMES
+
+     After studying this Unit, you will be able to ­
+
+      Define money supply and describe its different components
+      List out the need for and rationale of measuring money supply
+      Elucidate the different sources of money supply
+      Illustrate the various measures of money supply
+      Distinguish between money multiplier and credit multiplier, and
+      Describe the different determinants of money supply
+
+     UNIT OVERVIEW
+
+                                               Money Market
+
+                     The concept of
+                     Money Supply
+
+     The Sources of  Measurement of                     Determinants  The concept
+     Money Supply     Money Supply                        of Money     of Money
+                                                            Supply     Multiplier
+
+     © The Institute of Chartered Accountants of India
+1.23                                               MONEY MARKET  8.23
+
+2.1 INTRODUCTION
+
+In the previous unit, we discussed the theories related to the demand for money. Money as a
+means of payment and thus a lubricant that facilitates exchange. Irrespective of the form of
+money, in any economy, money performs three primary functions ­ a medium of exchange, a
+unit of account, and a store of value. Money as a medium of exchange may be used for any
+transactions wherein goods or services are purchased or sold. Money as a unit of account can
+be used to value goods or services and express it in monetary terms. Money can also be stored
+or conserved for future purposes.
+
+In the real world, however, money provides monetary services along with tangible
+remuneration. It is for this reason that money must have a relationship with the activities that
+economic entities pursue. Money can, therefore, be defined for policy purposes as a set of
+liquid financial assets, the variation in the stock of which could impact aggregate economic
+activity.
+
+Economic stability requires that the supply of money at any time should to be maintained at
+an optimum level. A pre-requisite for achieving this is to accurately estimate the stock of
+money supply on a regular basis and appropriately regulate it in accordance with the
+monetary requirements of the country. In this unit, we shall look into various aspects related
+to the supply of money.
+
+Money Supply on December 30th, 2022
+
+                                 Item                            Outstanding as on
+
+                                   1                             2022               2022
+M3 (In Crores)
+Components (i+ii+iii+iv)                                         March 31 December 30
+i) Currency with the Public
+ii) Demand deposits with Banks                                         2            3
+iii) Time Deposits with Banks
+iv) `Other' Deposits with Reserve Bank                           2,04,93,729   2,18,59.358
+Source (i+ii+iii+iv ­ v)
+i) Net Bank Credit to Government Sector (a+b)                      30,35,689     31,22,019
+                                                                   22,12,992     23,41,912
+     (a) Reserve Bank                                            1,51,86,605   1,63,32,494
+
+                                                                       58,444        62,932
+
+                                                                 64,77,629     65,65,472
+                                                                 14,50,596     11,70,253
+
+© The Institute of Chartered Accountants of India
+.24  8.24  BUSINESS ECONOMICS
+
+          (b) Other Banks                                     50,27,033     53,95,219
+     ii) Bank Credit to Commercial Sector (a+b)             1,26,16,520   1,40,44,417
+
+          (a) Reserve Bank                                        16,571        19,852
+          (b) Other Banks                                   1,25,99,950   1,40,24,565
+     iii) Net Foreign Exchange Assets of Banking Sector
+     iv) Government Currency Liabilities to the Public        48,54,063     47,46,428
+     v) Banking Sector's Net Non-Monetary Liabilities             28,013        29,384
+          of which: Net Non-Monetary Liabilities of R.B.I.
+                                                              34,82,496     35,26,343
+                                                              13,08,500     14,94,789
+
+     Source : RBI Press Release: 2022-2023/1540
+
+     M3 is broad money. M3 = M1 + Time deposits with the banking system. M2 = M1 + Savings
+     deposits of post office savings banks. M1 = Currency with public + Demand deposits with the
+     Banking system (savings account, current account).
+
+     Broad money (M3) includes currency, deposits with an agreed maturity of up to two years,
+     deposits redeemable at notice of up to three months and repurchase agreements, money
+     market fund shares/units, and debt securities up to two years
+
+     The term `public' is defined to include all economic units (households, firms, and institutions)
+     except the producers of money (i.e. the government and the banking system).
+
+     The government, in this context, includes the central government and all state governments
+     and local bodies; and the banking system means the Reserve Bank of India and all the banks
+     that accept demand deposits (i.e. deposits from which money can be withdrawn by cheque
+     mainly CASA deposits). The word `public' is inclusive of all local authorities, non-banking
+     financial institutions, and non-departmental public-sector undertakings, foreign central banks
+     and governments and the International Monetary Fund which holds a part of Indian money in
+     India in the form of deposits with the RBI. In other words, while discussing the definition of
+     `supply of money' and the standard measures of money, interbank deposits and money held
+     by the government and the banking system are not included.
+
+         2.2 RATIONALE OF MEASURING MONEY SUPPLY
+
+     The empirical analysis of the money supply is important for two reasons:
+     1. It facilitates analysis of monetary developments in order to provide a deeper
+
+              understanding of the causes of money growth.
+
+     © The Institute of Chartered Accountants of India
+    1.25                                           MONEY MARKET  8.25
+
+2.  It is essential from a monetary policy perspective as it provides a framework to evaluate
+
+    whether the stock of money in the economy is consistent with the standards for price
+
+    stability and to understand the nature of deviations from this standard. The central
+
+    banks all over the world adopt monetary policy to stabilise price level and GDP growth
+
+    by directly controlling the supply of money. This is achieved mainly by managing the
+
+    quantity of monetary base. The success of monetary policy depends to a large extent
+
+    on the controllability of the monetary base and the money supply.
+
+    2.3 THE SOURCES OF MONEY SUPPLY
+
+The supply of money in the economy depends on:
+
+(a) the decision of the central bank based on the authority conferred on it, and
+
+(b) the supply responses of the commercial banking system of the country to the changes
+         in policy variables initiated by the central bank to influence the total money supply in
+         the economy.
+
+Money either has intrinsic value or represents title to commodities that have intrinsic value or
+title to other debt instruments. In modern economies, the currency is a form of money that is
+issued exclusively by the sovereign (or a central bank as its representative) and is legal tender.
+Paper currency is such a representative money, and it is essentially a debt instrument.
+
+It is a liability of the issuing central bank (and sovereign) and an asset of the holding public.
+The central banks of all countries are empowered to issue currency and, therefore, the central
+bank is the primary source of money supply in all countries. In effect, high powered money
+issued by monetary authorities is the source of all other forms of money. The currency issued
+by the central bank is `fiat money' and is backed by supporting reserves and its value is
+guaranteed by the government.
+
+The currency issued by the central bank is, in fact, a liability of the central bank and the
+government. Therefore, in principle, it must be backed by an equal value of assets mainly
+consisting of gold and foreign exchange reserves. In practice, however, most countries have
+adopted a `minimum reserve system' wherein the central bank is empowered to issue currency
+to any extent by keeping only a certain minimum reserve of gold and foreign securities.
+
+The second major source of money supply is the banking system of the country. The total
+supply of money in the economy is also determined by the extent of credit created by the
+commercial banks in the country. Banks create money supply in the process of borrowing and
+lending transactions with the public. Money so created by the commercial banks is called
+'credit money'. The high-powered money and the credit money broadly constitute the most
+
+© The Institute of Chartered Accountants of India
+.26  8.26  BUSINESS ECONOMICS
+
+     common measure of money supply, or the total money stock of a country. (For a brief note
+     on the process of creation of credit money, refer to Box 1, end of this chapter).
+
+     With the developments in the economy and the evolution of the payments system, the form
+     and functions of money has changed over time, and it will continue to influence the future
+     course of currency. The concept of money has experienced evolution from Commodity to
+     Metallic Currency to Paper Currency to Digital Currency. The changing features of money are
+     defining new financial landscape of the economy. Further, with the advent of cutting-edge
+     technologies, digitalization of money is the next milestone in the monetary history.
+     Advancement in technology has made it possible for the development of new form of money
+     viz. Central Bank Digital Currencies (CBDCs).
+
+     Recent innovations in technology-based payments solutions have led central banks around
+     the globe to explore the potential benefits and risks of issuing a CBDC so as to maintain the
+     continuum with the current trend in innovations. RBI has also been exploring the pros and
+     cons of introduction of CBDCs for some time and is currently engaged in working towards a
+     phased implementation strategy, going step by step through various stages of pilots followed
+     by the final launch, and simultaneously examining use cases for the issuance of its own CBDC
+     (Digital Rupee (e)), with minimal or no disruption to the financial system. Currently, we are
+     at the forefront of a watershed movement in the evolution of currency that will decisively
+     change the very nature of money and its functions.
+
+     Reserve Bank broadly defines CBDC as the legal tender issued by a central bank in a digital
+     form. It is akin to sovereign paper currency but takes a different form, exchangeable at par
+     with the existing currency and shall be accepted as a medium of payment, legal tender and a
+     safe store of value. CBDCs would appear as liability on a central bank's balance sheet.
+
+     The Crypto currencies face significant legislative uncertainties and are not legally recognized
+     in India as currency. Hence, these are not categorized as money. In a massive development
+     for crypto traders in India, the Reserve Bank of India (RBI) has said that banks or other financial
+     entities cannot cite RBI's 2018 order that barred them from dealing with virtual
+     cryptocurrencies.
+
+         2.4 MEASUREMENT OF MONEY SUPPLY
+
+     There is virtually a profusion of different types of money, especially credit money, and this
+     makes measurement of money supply a difficult task. Different countries follow different
+     practices in measuring money supply. The measures of money supply vary from country to
+     country, from time to time and from purpose to purpose. Reference to such different measures
+     is beyond the scope of this unit. Just as other countries do; a range of monetary and liquidity
+
+     © The Institute of Chartered Accountants of India
+1.27                                               MONEY MARKET  8.27
+
+measures are compiled and published by the RBI. Money supply will change if the magnitude
+of any of its constituents changes.
+
+In this unit, we shall be concentrating on the Indian case only and in the following discussion,
+we shall focus on the alternative measures of money supply prepared and published
+periodically by the Reserve Bank of India.
+
+Since July 1935, the Reserve Bank of India has been compiling and disseminating monetary
+statistics. Till 1967-68, the RBI used to publish only a single `narrow measure of money supply'
+(M1) defined as the sum of currency and demand deposits held by the public. From 1967-68,
+a 'broader' measure of money supply, called 'aggregate monetary resources' (AMR) was
+additionally published by the RBI. From April 1977, following the recommendations of the
+Second Working Group on Money Supply (SWG), the RBI has been publishing data on four
+alternative measures of money supply denoted by M1, M2, M3 and M4 besides the reserve
+money. The respective empirical definitions of these measures are given below:
+
+  M1 = Currency notes and coins with the people + demand deposits with the
+            banking system (Current and Saving deposit accounts) + other
+            deposits with the RBI.
+
+  M2 = M1 + savings deposits with post office savings banks.
+
+  M3 = M1 + time deposits with the banking system.
+
+  M4 = M3 + total deposits with the Post Office Savings Organization
+            (excluding National Savings Certificates).
+
+    2.5 DETERMINANTS OF MONEY SUPPLY
+
+There are two alternate theories in respect of determination of money supply. According to
+the first view, money supply is determined exogenously by the central bank. The second view
+holds that the money supply is determined endogenously by changes in the economic
+activities which affect people's desire to hold currency relative to deposits, rate of interest,
+etc. The current practice is to explain the determinants of money supply based on `money
+multiplier approach' which focuses on the relation between the money stock and money
+supply in terms of the monetary base or high-powered money. The monetary base is the sum
+of currency in circulation and bank reserves. This approach holds that total supply of nominal
+money in the economy is determined by the joint behaviour of the central bank, the
+commercial banks and the public. Before we discuss the determinants of money supply, it is
+necessary that we know the concept of money multiplier.
+
+© The Institute of Chartered Accountants of India
+.28    8.28                         BUSINESS ECONOMICS
+
+         2.6 THE CONCEPT OF MONEY MULTIPLIER
+
+     The money created by the Reserve Bank of India is the monetary base, also known as high-
+     powered money. Banks create money by making loans. A bank loans or invests its excess
+     reserves to earn more interest. A one-rupee increase in the monetary base causes the money
+     supply to increase by more than one rupee. The increase in the money supply is the money
+     multiplier.
+
+     The money supply is defined as
+
+     Money is either currency held by the public or bank deposits: M = C + D.
+
+                                                     M = m X MB
+
+     Where M is the money supply, m is the money multiplier and MB is the monetary base or
+     high-powered money. From the above equation, we can derive the money multiplier (m) as
+
+       Money  Multiplier                                  (m)=  Money supply   ...
+                                                                Monetary base
+
+     Money multiplier m is defined as a ratio that relates the changes in the money supply to a
+     given change in the monetary base. It is the ratio of the stock of money to the stock of high-
+     powered money.
+
+     For instance, if there is an injection of Rs.100 Cr through an open market operation by the
+     central bank of the country and if it leads to an increment of Rs.500 Cr. of final money supply,
+     then the money multiplier is said to be 5. Hence, the multiplier indicates the change in
+     monetary base which is transformed into money supply.
+
+     The multiplier indicates what multiple of the monetary base is transformed into money supply.
+     In other words, money and high-powered money are related by the money multiplier. We
+     make two simplifying assumptions as follows;
+
+       Banks never hold excess reserves.
+
+       Individuals and non-bank corporations never hold currency.
+
+     What determines the size of the money multiplier? The money multiplier is the reciprocal of
+
+     the reserve ratio. Deposits, unlike currency held by people, keep only a fraction of the high-
+
+     powered money in reserves and the rest is lent out and culminate in money creation. If R is
+
+     the reserve ratio in a country for all commercial banks, then each unit of (say Rupee) money
+
+     reserves generates 1/R money.
+
+     Therefore, for any value of R, the Money Multiplier is     1
+                                                                
+
+       © The Institute of Chartered Accountants of India
+1.29                                               MONEY MARKET  8.29
+
+For example, if R =10%, the value of money multiplier will be 10. If the reserve ratio is only 5
+%, then money multiplier is 20. Thus, the higher the reserve ratio, the less of each deposit
+banks loan out, and the smaller the money multiplier.
+
+If some portion of the increase in high-powered money finds its way into currency, this portion
+does not undergo multiple deposit expansion. The size of the money multiplier is reduced
+when funds are held as cash rather than as demand deposits. In other words, as a rule, an
+increase in the monetary base that goes into currency is not multiplied, whereas an increase
+in monetary base that goes into supporting deposits is multiplied.
+
+    2.7 THE MONEY MULTIPLIER APPROACH TO SUPPLY
+             OF MONEY
+
+The money multiplier approach to money supply propounded by Milton Friedman and Anna
+Schwartz, (1963) considers three factors as immediate determinants of money supply, namely:
+
+(a) the stock of high-powered money (H)
+
+(b) the ratio of reserves to deposits or reserve-ratio r = {Reserves/Deposits R/D} and
+
+(c) the ratio of currency to deposits, or currency-deposit ratio c={C/D}
+
+You may note that these represent the behaviour of the central bank, behaviour of the
+commercial banks and the behaviour of the general public respectively. We shall now describe
+how each of the above contributes to the determination of aggregate money supply in an
+economy.
+
+a) The Behaviour of the Central Bank
+
+The behaviour of the central bank which controls the issue of currency is reflected in the
+supply of the nominal high-powered money. Money stock is determined by the money
+multiplier and the monetary base (H) is controlled by the monetary authority. If the behaviour
+of the public and the commercial banks remains unchanged over time, the total supply of
+nominal money in the economy will vary directly with the supply of the nominal high-powered
+money issued by the central bank.
+
+b) The Behaviour of Commercial Banks
+
+By creating credit, the commercial banks determine the total amount of nominal demand
+deposits. The behaviour of the commercial banks in the economy is reflected in the ratio of
+their cash reserves to deposits known as the `reserve ratio'. If the required reserve ratio on
+demand deposits increases while all the other variables remain the same, more reserves would
+be needed. This implies that banks must contract their loans, causing a decline in deposits
+and hence in the money supply. If the required reserve ratio falls, there will be greater
+
+© The Institute of Chartered Accountants of India
+.30  8.30  BUSINESS ECONOMICS
+
+     expansions of deposits because the same level of reserves can now support more deposits
+     and the money supply will increase. To sum up, smaller the reserve ratio larger will be the
+     money multiplier.
+
+     In actual practice, however, the commercial banks keep only the required fraction of their total
+     deposits in the form of cash reserves. However, for the commercial banking system as a whole,
+     the actual reserves ratio may be greater than the required reserve ratio since the banks keep
+     a higher than the statutorily required percentage of their deposits in the form of cash reserves
+     as a buffer against unexpected events requiring cash.
+
+     The excess reserves (ER) which are funds that a bank keeps back beyond what is required by
+     regulation form a very important determinant of money supply. `Excess reserves' are the
+     difference between total reserves (TR) and required reserves (RR). Therefore, ER=TR-RR. If
+     total reserves are Rs 800 billion, whereas the required reserves are Rs 600billion, then the
+     excess reserves are Rs 200 billion.
+
+     We know that the cost to a bank while holding excess reserves is in terms of its opportunity
+     cost, i.e. the interest that could have been earned on loans or securities if the bank had chosen
+     to invest in them instead of excess reserves. If interest rate increases, it means that the
+     opportunity cost of holding excess reserves rises because the banks have to sacrifice possible
+     higher earnings and hence the desired ratio of excess reserves to deposits falls. Conversely, a
+     decrease in interest rate will reduce the opportunity cost of excess reserves, and excess
+     reserves will rise. Therefore, we conclude that the banking system's excess reserves ratio r is
+     negatively related to the market interest rate.
+
+     If banks fear that deposit outflows are likely to increase (that is, if expected deposit outflows
+     increase), they will want more assurance against this possibility and will increase the excess
+     reserves ratio. Conversely, a decline in expected deposit outflows will reduce the benefit of
+     holding excess reserves and excess reserves will fall.
+
+     As we know, money is mostly held in the form of deposits with commercial banks. Therefore,
+     money supply may become subject to `shocks' on account of behaviour of commercial banks
+     which may present variations overtime either cyclically and more permanently. For instance,
+     in times of financial crises, banks may be unwilling to lend to the small and medium scale
+     industries who may become credit constrained facing a higher risk premia on their
+     borrowings. The rising interest rates on bank credit to the commercial sector reflecting higher
+     risk premia can co-exist with the lowering of policy rates by the central bank. The lower credit
+     demand can lead to a sharp deceleration in monetary growth at a time when the central bank
+     pursues an easy monetary policy. (Refer Box *1 below).
+
+     © The Institute of Chartered Accountants of India
+1.31                                               MONEY MARKET       8.31
+
+c) The Behaviour of the Public
+
+As we know, demand deposits undergo multiple expansions while currency in your hands does
+not. Hence, when bank deposits are being converted into currency, banks can create only less
+credit money. The overall level of multiple expansion declines, and therefore, money multiplier
+also falls. Hence, we conclude that money multiplier and the money supply are negatively
+related to the currency ratio c.
+
+The currency-deposit ratio (c) represents the degree of adoption of banking habits by the
+people. This is related to the level of economic activities or the GDP growth and is influenced
+by the degree of financial sophistication in terms of ease and access to financial services,
+availability of a richer array of liquid financial assets, financial innovations, institutional
+changes etc.
+
+The smaller the currency-deposit ratio, the larger would be the money multiplier. This is
+because a smaller proportion of high powered money is being used as currency and therefore,
+a larger proportion is available to be reserves which get transformed into money.
+
+The time deposit-demand deposit ratio i.e. how much money is kept as time deposits
+compared to demand deposits, also has an important implication for the money multiplier
+and, hence for the money stock in the economy. An increase in TD/DD ratio means that greater
+availability of free reserves and consequent enlargement of volume of multiple deposit
+expansion and monetary expansion.
+
+To summarise the money multiplier approach, the size of the money multiplier is determined
+by the required reserve ratio (r) at the central bank, the excess reserve ratio (e ) of commercial
+banks and the currency ratio (c) of the public. The lower these ratios are, the larger the money
+multiplier is. In other words, the money supply is determined by high powered money (H)
+and the money multiplier (m) and varies directly with changes in the monetary base, and
+inversely with the currency and reserve ratios. Although these three variables do not
+completely explain changes in the nominal money supply, nevertheless they serve as useful
+devices for analysing such changes. Consequently, these variables are designated as the
+`proximate determinants' of the nominal money supply in the economy.
+
+We may now rewrite the money multiplier including the above variables.
+
+      M = C+D                                                    (1)
+
+      H = C+ reserves                                            (2)
+
+Where C is currency and D is deposits which are assumed to be demand deposits. We
+summarise the behaviour of the public, banks and the central bank by three variables namely,
+currency-deposit ratio c= C/D, reserve-ratio r= Reserves/D, and the stock of high-powered
+money (H)
+
+© The Institute of Chartered Accountants of India
+.32                 8.32                 BUSINESS ECONOMICS
+
+     Rewriting equation (1) and (2) above as
+
+        M = (c+1) D,
+
+        H = (c+ r) D
+        M = 1+c x H = m x H
+
+               r+c
+        m= 1+c
+
+             r+c
+
+     When there are excess reserves, the money multiplier m is expressed as
+
+     m  =   1+c
+           r +e+ c
+
+     Money  Supply  M  =   1+c     x  H
+                          r +e+ c
+
+     The money multiplier is a function of:
+
+     (a) the currency ratio set by depositors c which depends on the behaviour of the public
+
+     (b) excess reserves ratio set by banks e, and
+
+     (c) the required reserve ratio set by the central bank r, which depends on prescribed CRR
+              and the balances necessary to meet settlement obligations.
+
+     A simple example will explain the concept
+
+     Numerical Illustration
+
+     (a) In Gladys land,
+
+            r = 10%= 0.10
+
+            Currency = 400 billion
+
+            Deposits = 800 billion
+
+            Excess Reserves = 0.8 billion = 800 million
+
+            Money Supply is M = Currency + Deposits = 1200 billion
+
+            c = C/D = 400 billion/800 billion = 0.5 or depositors hold 50 percent of their money
+            as currency
+
+            e= 0.8 billion /800 billion = 0.001 or banks hold 0.1% of their deposits as excess
+            reserves.
+            Multiplier m= 1+c
+
+                               r +e+ c
+
+     © The Institute of Chartered Accountants of India
+1.33                                               MONEY MARKET                8.33
+
+         = 1+0.5/ 0.1+0.001+0.5 = 1.5/ 0. 601 =2.5
+         Therefore, a 1 unit increase in H leads to a 2.50 units increase in M.
+         The simple deposit multiplier in this example would be 1/r= 1/0.1=10
+         The difference is due to inclusion of currency and excess reserves in calculating the
+         multiplier.
+(b) If the reserve ratio is increased to 15 percent, the value of the money multiplier will be,
+         = 1+0.5/ 0.15+0.001+0.5 = 1.5/ 0. 651 =2.3
+         Obviously, r and m are negatively related: m falls when r rises, and m rises when r falls.
+         The reason is that less multiple deposit creation can occur when r rises, while more
+         multiple deposit creation can occur when r falls.
+
+2.8 MONETARY POLICY AND MONEY SUPPLY
+
+If the central bank of a country wants to stimulate economic activity it does so by infusing
+liquidity into the system. Let us take the example of open market operations (OMO) by central
+banks. Purchase of government securities injects high powered money (monetary base) into
+the system. Assuming that banks do not hold excess reserves and people do not hold more
+currency than before, and also that there is demand for loans from businesses, the credit
+creation process by the banking system in the country will create money to the tune of
+
+      Money                                        supply  =  1  X   Reserves
+                                                              R
+
+The effect of an open market sale is very similar to that of open market purchase, but in the
+opposite direction. In other words, an open market purchase by central bank will reduce the
+reserves and thereby reduce the money supply.
+
+Is it possible that the value of money multiplier is zero? It may happen when the interest rates
+are too low and the banks prefer to hold the newly injected reserves as excess reserves with
+no risk attached to it.
+
+    2.9 EFFECT OF GOVERNMENT EXPENDITURE ON
+             MONEY SUPPLY
+
+Whenever the central and the state governments' cash balances fall short of the minimum
+requirement, they are eligible to avail of a facility called Ways and Means Advances
+(WMA)/overdraft (OD) facility. When the Reserve Bank of India lends to the governments
+
+© The Institute of Chartered Accountants of India
+.34  8.34                   BUSINESS ECONOMICS
+
+     under WMA /OD, it results in the generation of excess reserves (i.e., excess balances of
+     commercial banks with the Reserve Bank). This happens because when government incurs
+     expenditure, it involves debiting the government balances with the Reserve Bank and crediting
+     the receiver (for e.g., salary account of government employee) account with the commercial
+     bank. The excess reserves thus created can potentially lead to an increase in money supply
+     through the money multiplier process.
+
+     The Credit Multiplier
+
+     The Credit Multiplier also referred to as the deposit multiplier or the deposit expansion
+     multiplier, describes the amount of additional money created by commercial bank through
+     the process of lending the available money it has in excess of the central bank's reserve
+     requirements. The deposit multiplier is, thus inextricably tied to the bank's reserve
+     requirement. This measure tells us how much new money will be created by the banking
+     system for a given increase in the high-powered money. It reflects a bank's ability to increase
+     the money supply.
+
+     The credit multiplier is the reciprocal of the required reserve ratio. If reserve ratio is 20%, then
+     credit multiplier = 1/0.20 = 5.
+
+                            Credit  Multiplier=         Required   1       Ratio
+                                                                  Reserve
+
+     The existence of the credit multiplier is the outcome of fractional reserve banking. It explains
+     how increase in money supply is caused by the commercial banks' use of depositors' funds to
+     lend money. When a bank uses the deposited money for lending, the bank generates another
+     claim on a given amount of deposited money. For example, if A deposits ` 1000/ in cash at a
+     bank (Bank X), this constitutes the bank's current total cash deposits. If the required reserve
+     is 10 percent, the bank would lend ` 900/ to B. By lending B ` 900/, the bank creates a deposit
+     for ` 900/ that B can now use. It is as though B owns ` 900/. This in turn means that A will
+     continue to have a claim against ` 1000/ while B will have a claim against ` 900/. The bank
+     has ` 1000/ in cash against claims of ` 1900/. In short, the bank has created ` 900/ out of "thin
+     air" since these ` 900/ are not supported by any genuine money. At any time, the fractional
+     reserve commercial banks have more cash liabilities than cash in their vaults.
+
+     Now suppose B buys goods worth ` 900/ from C and pays C by cheque. C places the cheque
+     with his bank, Bank Y. After clearing the cheque, Bank Y will have an increase in cash of ` 900/,
+     which it may take advantage of and use to lend out ` 810/ to D which may again be deposited
+     in another bank, say Bank Z. Again 10 per cent of ` 810 (` 81) has to be kept as required
+     reserves and the remaining ` 719/ can be lent out, say to E. This sequence keeps on continuing
+     until the initial deposit amount ` 1,000 grows exactly by the multiple of required reserves (in
+
+     © The Institute of Chartered Accountants of India
+1.35                                               MONEY MARKET  8.35
+
+this case, 10%). Ultimately, the expanded credit availability would be 1000 + 900 (90% of 1000)
++ 810 (90% of 900) + 729 (90% of 810) + (90% of 719) +....... This summation would end with
+an amount which is equivalent to 1/10% of 1000, which is ` 10,000. Thus, in our example, the
+initial deposit is capable of multiplying itself out 10 times. In short, we find that the fact that
+banks make use of demand deposits for lending it sets in motion a series of activities leading
+to expansion of money that is not backed by money proper. It is interesting to know that there
+is no difference between the type of money created by commercial banks and that which are
+issued by the central bank.
+
+The deposit multiplier and the money multiplier though closely related are not identical
+because:
+
+a) generally banks do not lend out all of their available money but instead maintain
+       reserves at a level above the minimum required reserve.
+
+b) all borrowers do not spend every Rupee they have borrowed. They are likely to convert
+       some portion of it to cash.
+
+We need to keep in mind that creating money through credit by banks does not mean creating
+wealth. Money creation is not the same as wealth creation.
+
+* 1 NOTE
+
+While the Reserve Bank of India was pursuing all possible measures to encourage lending to
+combat the negative outcomes of COVID pandemic, the banks were risk averse to lending and
+were comfortable parking funds under reverse repo despite the very low reverse repo rate of
+3.35 per cent. The average deposit of funds in the overnight reverse repo window in India
+increased more than three times ­ from an average of Rs 2.4-lakh crore during the March
+quarter to Rs 7-lakh crores during the June quarter. In the month of May, banks parked nearly
+` 8-lakh crores under reverse repo on a daily average basis.
+
+Numerical illustrations                                                ` 90000 crore
+ILLUSTRATION 1
+Calculate Narrow Money (M1) from the following data
+Currency with public
+
+Demand Deposits with Banking System                                    ` 200000 crore
+
+Time Deposits with Banking System                                      ` 220000 crore
+
+Other Deposits with RBI                                                ` 280000 crore
+
+Saving Deposits of Post office saving banks                            ` 60000 crore
+
+© The Institute of Chartered Accountants of India
+.36  8.36                 BUSINESS ECONOMICS
+
+     SOLUTION
+     M1 = Currency with public + Demand Deposits with Banking System + Other Deposits with
+
+              the RBI
+
+         = 90000 crore + 200000 crore + 280000 crore = 57 0000crore
+     ILLUSTRATION 2
+     Compute credit multiplier if the required reserved ratio is 10% and 12.5% for every ` 1, 00,000
+     deposited in the banking system. What will be the total credit money created by the banking
+     system in each case?
+
+     SOLUTION
+
+     Credit Multiplier is the reciprocal of required reserved ratio.
+
+     Credit Multiplier =  1
+
+                          Required Reserverd Ratio
+
+                                                                     1
+     For RRR = 0.10 i.e. 10% the credit multiplier = 0.10 = 10
+
+     For RRR = 0.125i.e. 12.5% the credit multiplier =            1          =8
+
+                                                                  0.125
+
+                                                               1
+
+     Credit creation = Initial deposits *
+
+                                                             RRR
+
+     For RRR 0.10 credit creation will be 1, 00,000× 1/0.10 = Rs, 10, 00,000
+
+     For RRR 0.125 credit creation will be 1, 00,000× 1/0.125= Rs, 8, 00,000
+     ILLUSTRATION 3
+     Calculate currency with the Public from the following data (` Crore)
+
+     1.1 Notes in Circulation                                     2496611
+     1.2 Circulation of Rupee Coin                                   25572
+     1.3 Circulation of Small Coins                                     743
+     1.4 Cash on Hand with Banks                                     98305
+
+     SOLUTION
+     Currency with the Public (1.1 + 1.2 + 1.3 ­ 1.4) =(2496611+25572+743) ­ 98305 =2424621
+
+     © The Institute of Chartered Accountants of India
+  1.37                                             MONEY MARKET  8.37
+
+ILLUSTRATION 4
+If the required reserve ratio is 10 percent, currency in circulation is ` 400 billion, demand
+deposits are ` 1000 billion, and excess reserves total ` 1 billion, find the value of money
+multiplier.
+SOLUTION
+r = 10% = 0.10
+Currency = 400 billion
+Deposits = 1000 billion
+Excess Reserves = 1 billion
+Money Supply is M = Currency + Deposits = 1400 billion
+c = C/D =
+400 billion/1000 billion = 0. 4 or depositors hold 40 percent of their money as currency
+e= 1billion /1000 billion = 0.001 or banks hold 0.1% of their deposits as excess reserves.
+Multiplier
+= 1+0.4/ 0.1+0.001+0.4 = 1.5/ 0. 501 =2.79
+Therefore, a 1 unit increase in MB leads to a 2.79 units increase in M.
+
+SUMMARY
+
+  The measures of money supply vary from country to country, from time to time and
+
+  from purpose to purpose.
+
+  The high-powered money and the credit money broadly constitute the most common
+
+  measure of money supply, or the total money stock of a country.
+
+  High powered money is the source of all other forms of money. The second major
+
+  source of money supply is the banking system of the country. Money created by the
+
+  commercial banks is called 'credit money'.
+
+  Measurement of money supply is essential from a monetary policy perspective because
+
+  it enables a framework to evaluate whether the stock of money in the economy is
+
+  consistent with the standards for price stability, to understand the nature of deviations
+
+  from this standard and to study the causes of money growth.
+
+  The stock of money always refers to the total amount of money at any particular point
+
+  of time i.e. it is the stock of money available to the `public' as a means of payments
+
+  and store of value and does not include inter-bank deposits.
+
+© The Institute of Chartered Accountants of India
+.38      8.38  BUSINESS ECONOMICS
+
+       The monetary aggregates are:
+
+         M1 = Currency and coins with the people + demand deposits of banks (Current
+
+         and Saving accounts) + other deposits of the RBI;
+
+         M2 = M1 + savings deposits with post office savings banks,
+
+         M3 = M1 + net time deposits of banks and
+
+         M4 = M3 + total deposits with the Post Office Savings Organization (excluding
+
+         National Savings Certificates).
+
+       Following the recommendations of the Working Group on Money (1998), the RBI has
+
+       started publishing a set of four new monetary aggregates as: Reserve Money =
+
+       Currency in circulation + Bankers' deposits with the RBI + Other deposits with the RBI,
+
+       NM1 = Currency with the public + Demand deposits with the banking system + `Other'
+
+       deposits with the RBI, NM2 = NM1 +Short-term time deposits of residents (including
+
+       and up to contractual maturity of one year),NM3 = NM2 + Long-term time deposits
+
+       of residents + Call/Term funding from financial institutions
+
+       The Liquidity aggregates are:
+
+         L1 = NM3 + All deposits with the post office savings banks (excluding National
+
+         Savings Certificates).
+
+         L2 = L1 +Term deposits with term lending institutions and refinancing
+
+         institutions (FIs) + Term borrowing by FIs + Certificates of deposit issued by FIs.
+
+       The Reserve money, also known as central bank money, base money or high powered
+
+       money determines the level of liquidity and price level in the economy.
+
+       The money multiplier approach showing relation between the money stock and money
+
+       supply in terms of the monetary base or high-powered money holds that total supply
+
+       of nominal money in the economy is determined by the joint behaviour of the central
+
+       bank, the commercial banks, and the public.
+
+       M= m X MB; Where M is the money supply, m is money multiplier and MB is the
+
+       monetary base or high powered money. It shows the relationship between the reserve
+
+       money and the total money stock.
+
+       The money multiplier is a function of the currency ratio which depends on the
+
+       behaviour of the public, excess reserves ratio of the banks and the required reserve
+
+       ratio set by the central bank.
+
+     © The Institute of Chartered Accountants of India
+  1.39                                             MONEY MARKET  8.39
+
+  The additional units of high-powered money that goes into `excess reserves' of the
+
+  commercial banks do not lead to any additional loans, and therefore, these excess
+
+  reserves do not lead to the creation of deposits.
+
+  When the required reserve ratio falls, there will be greater multiple expansions for
+
+  demand deposits.
+
+  Excess reserves ratio e is negatively related to the market interest rate i. If interest rate
+
+  increases, the opportunity cost of holding excess reserves rises, and the desired ratio
+
+  of excess reserves to deposits falls.
+
+  An increase in time deposit-demand deposit ratio (TD/DD) means that greater
+
+  availability of free reserves for banks and consequent enlargement of volume of
+
+  multiple deposit expansion and monetary expansion.
+
+ When the Reserve Bank lends to the governments under WMA /OD it results in the
+
+         generation of excess reserves (i.e., excess balances of commercial banks with the
+         Reserve Bank).
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Type Questions
+
+1. Reserve money is also known as
+         (a) central bank money
+         (b) base money
+         (c) high powered money
+         (d) all the above
+
+2. Choose the correct statement from the following
+         (a) Money is deemed as something held by the public and therefore only currency
+                   held by the public is included in money supply.
+         (b) Money is deemed as something held by the public and therefore inter-bank
+                   deposits are included in money supply.
+         (c) Since inter-bank deposits are not held by the public, therefore inter-bank deposits
+                   are excluded from the measure of money supply.
+         (d) Both (a) and (c) above.
+
+© The Institute of Chartered Accountants of India
+.40  8.40  BUSINESS ECONOMICS
+
+     3. Reserve Money is composed of
+              (a) currency in circulation + demand deposits of banks (Current and Saving
+                        accounts) + Other deposits with the RBI.
+              (b) currency in circulation + Bankers' deposits with the RBI + Other deposits with the
+                        RBI.
+              (c) currency in circulation + demand deposits of banks + Other deposits with the RBI.
+              (d) currency in circulation + demand and time deposits of banks + Other deposits
+                        with the RBI.
+
+     4. M1 is the sum of
+              (a) currency and coins with the people + demand deposits of banks (Current and
+                        Saving accounts) + other deposits of the RBI.
+              (b) currency and coins with the people + demand and time deposits of banks (Current
+                        and Saving accounts) + other deposits of the RBI.
+              (c) currency in circulation + Bankers' deposits with the RBI + Other deposits with the
+                        RBI
+              (d) none of the above
+
+     5. Under the' minimum reserve system' the central bank is
+              (a) empowered to issue currency to any extent by keeping an equivalent reserve of
+                        gold and foreign securities.
+              (b) empowered to issue currency to any extent by keeping only a certain minimum
+                        reserve of gold and foreign securities.
+              (c) empowered to issue currency in proportion to the reserve money by keeping only
+                        a minimum reserve of gold and foreign securities.
+              (d) empowered to issue currency to any extent by keeping a reserve of gold and
+                       foreign securities to the extent of ` 350 crores
+
+     6. The primary source of money supply in all countries is
+              (a) the Reserve Bank of India
+              (b) the Central bank of the country
+              (c) the Bank of England
+              (d) the Federal Reserve
+
+     © The Institute of Chartered Accountants of India
+1.41                                               MONEY MARKET  8.41
+
+7. The supply of money in an economy depends on
+         (a) the decision of the central bank based on the authority conferred on it.
+         (b) the decision of the central bank and the supply responses of the commercial
+                   banking system.
+         (c) the decision of the central bank in respect of high powered money.
+         (d) both a) and c) above.
+
+8. Banks in the country are required to maintain deposits with the central bank
+         (a) to provide the necessary reserves for the functioning of the central bank
+         (b) to meet the demand for money by the banking system
+         (c) to meet the central bank prescribed reserve requirements and to meet settlement
+                   obligations.
+         (d) to meet the money needs for the day to day working of the commercial banks
+
+9. If the behaviour of the public and the commercial banks is constant, then
+         (a) the total supply of nominal money in the economy will vary directly with the
+                   supply of the nominal high-powered money issued by the central bank
+         (b) the total supply of nominal money in the economy will vary directly with the rate
+                   of interest and inversely with reserve money
+         (c) the total supply of nominal money in the economy will vary inversely with the
+                   supply of high powered money
+         (d) all the above are possible
+
+10. Under the fractional reserve system
+         (a) the money supply is an increasing function of reserve money (or high powered
+                   money) and the money multiplier.
+         (b) the money supply is an decreasing function of reserve money (or high powered
+                   money) and the money multiplier.
+         (c) the money supply is an increasing function of reserve money (or high powered
+                   money) and a decreasing function of money multiplier.
+         (d) none of the above as the determinants of money supply are different
+
+11. The money multiplier and the money supply are
+         (a) positively related to the excess reserves ratio e.
+
+© The Institute of Chartered Accountants of India
+.42  8.42  BUSINESS ECONOMICS
+
+              (b) negatively related to the excess reserves ratio e.
+              (c) not related to the excess reserves ratio e.
+              (d) proportional to the excess reserves ratio e.
+     12. The currency ratio represents
+              (a) the behaviour of central bank in the issue of currency.
+              (b) the behaviour of central bank in respect cash reserve ratio.
+              (c) the behaviour of the public.
+              (d) the behaviour of commercial banks in the country.
+     13. The size of the money multiplier is determined by
+              (a) the currency ratio (c) of the public,
+              (b) the required reserve ratio (r) at the central bank, and
+              (c) the excess reserve ratio (e) of commercial banks.
+              (d) all the above
+     14. _____________tells us how much new money will be created by the banking system for a
+              given increase in the high-powered money.
+              (a) The currency ratio
+              (b) The excess reserve ratio (e)
+              (c) The credit multiplier
+              (d) The currency ratio (c)
+     15. The money multiplier will be large
+              (a) for higher currency ratio (c), lower required reserve ratio (r) and lower excess
+
+                        reserve ratio (e)
+              (b) for constant currency ratio (c), higher required reserve ratio (r) and lower excess
+
+                        reserve ratio (e)
+              (c) for lower currency ratio (c), lower required reserve ratio (r) and lower excess
+
+                        reserve ratio (e)
+              (d) None of the above
+     16. The ratio that relates the change in the money supply to a given change in the monetary
+              base is called the
+              (a) required reserve ratio.
+
+     © The Institute of Chartered Accountants of India
+    1.43                                           MONEY MARKET    8.43
+
+         (b) money multiplier.
+         (c) deposit ratio.
+         (d) discount rate.
+17. For a given level of the monetary base, an increase in the required reserve ratio will
+         denote
+         (a) a decrease in the money supply.
+         (b) an increase in the money supply.
+         (c) an increase in demand deposits.
+         (d) Nothing precise can be said
+18. For a given level of the monetary base, an increase in the currency ratio causes the
+         money multiplier to _____ and the money supply to _____.
+         (a) decrease; increase
+         (b) increase; decrease
+         (c) decrease; decrease
+         (d) increase; increase
+19. If commercial banks reduce their holdings of excess reserves
+         (a) the monetary base increases.
+         (b) the monetary base falls.
+         (c) the money supply increases.
+         (d) the money supply falls.
+
+ANSWERS
+
+1.  (d) 2.  (c) 3.                                 (b) 4.  (a) 5.  (b) 6   (b)
+
+7.  (b) 8.  (c) 9.                                 (a) 10. (a) 11. (b) 12  (c)
+
+13. (d) 14. (c) 15. (c) 16. (b) 17. (a) 18                                 (c)
+
+19. (c)
+
+© The Institute of Chartered Accountants of India
+

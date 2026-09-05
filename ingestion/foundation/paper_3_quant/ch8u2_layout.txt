@@ -1,0 +1,2390 @@
+CHAPTER          8
+
+BASIC CONCEPTS OF DIFFERENTIAL
+AND INTEGRAL CALCULUS
+
+After reading this chapter, students will be able to understand:
+ Understand the basics of differentiation and integration.
+ Know how to compute derivative of a function by the first principle, derivative of a function
+
+     by the application of formulae and higher order differentiation.
+ Appreciate various techniques of integration.
+ Understand the concept of definite of integrals of functions and its application.
+
+CHAPTER OVERVIEW
+
+                                                   Calculus
+
+         Differential Calculus                               Integral Calculus
+
+                                                   Methods of      Basic
+                                                   Substitution  Formulas
+
+ Basic Laws of      Some Standard
+Differentiation          Results
+
+© The Institute of Chartered Accountants of India
+8.2              BUSINESS MATHEMATICS
+
+     Differentiation is one of the most important fundamental operations in calculus. Its theory
+     primarily depends on the idea of limit and continuity of function.
+
+     To express the rate of change in any function we introduce concept of derivative which
+     involves a very small change in the dependent variable with reference to a very small change
+     in independent variable.
+
+     Thus differentiation is the process of finding the derivative of a continuous function. It is
+     defined as the limiting value of the ratio of the change (increment) in the function corresponding
+     to a small change (increment) in the independent variable (argument) as the later tends to
+     zero.
+
+     Let y = f(x) be a function. If h (or x) be the small increment in x and the corresponding
+     increment in y or f(x) be y = f(x+h) ­ f(x) then the derivative of f(x) is defined
+
+     as lim      f(x+h) - f(x)  i.e.
+            h 0         h
+
+     =    lim    f(x  x)  f(x)
+                        x
+          x0
+
+     This is denoted as f'(x) or dy/ dx or              d   f(x). The derivative of f(x) is also known as differential
+                                                        dx
+
+     coefficient of f(x) with respect to x. This process of differentiation is called the first principle
+
+     (or definition or abinitio) (Ab-initio).
+
+     Note: In the light of above discussion a function f (x) is said to differentiable at x = c if
+
+     lim  f(x)-f(c)  exist which is called the differential coefficient of f(x) at x = c and is denoted
+            x-c
+     hc
+
+                 dy 
+     by f `(c) or  dx x c .
+     We will now study this with an example.
+     Consider the function f(x) = x2.
+
+     © The Institute of Chartered Accountants of India
+                               BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS  8.3
+
+By definition
+
+d f(x)  lim f(x  x)  f(x)  lim (x  x)2  x 2  lim x 2  2xx  (x)2  x 2
+dx               x0            x                   x 0          x  x0  x
+
+              =  lim    (2x  x)  2x  0              2x
+
+                 x0
+
+Thus, derivative of f(x) exists for all values of x and equals 2x at any point x.
+
+Examples of differentiations from the 1st principle
+
+i) f(x) = c, c being a constant.
+
+Since c is constant we may write f(x+h) = c.
+
+So f(x+h) ­ f(x) = 0
+
+Hence     f'(x)= lim f(x+h) - f(x) =lim            0  =0
+                 h0        h               h0      h
+
+    d(c)
+So dx = 0
+
+ii) Let f(x) = xn; then f(x+h) = (x+h)n
+
+let x+h =t or h= t ­ x and as h0, tx
+
+Now  f'(x)    =  lim    f(x+h)- f(x)
+                             h
+                 h0
+
+              =  lim    (x+h)n -xn
+                             h
+                 h0
+
+              =  lim    (tn ­ xn ) / (t ­ x) = nx n­1
+
+                 tx
+
+Hence     d   (xn )  = nx n­1
+          dx
+
+iii) f (x) = ex  f(x + h) = e x+h
+
+So f'(x)  =   lim     f(x+h) - f(x)
+                            h
+              h0
+
+          =   lim     ex+h - ex    =  lim          ex ( eh -1)
+                         h                             h
+              h0                      h0
+
+          = ex lim      eh -1         = ex.1
+                    h0
+                        h
+
+          d
+Hence dx (ex) = ex
+
+© The Institute of Chartered Accountants of India
+8.4          BUSINESS MATHEMATICS
+
+iv) Let f(x) = ax then f(x+h) = ax+h
+
+                        f(x+h) - f(x)           ax+h -ax            ax (ah  1) 
+     f'(x) = lim              h        = lim       h      = lim         
+                    h0                      h0                 h0    h  
+
+     =  ax   lim  ah -1
+                   h
+             h0
+
+     = ax logea
+             d
+
+     Thus dx (ax) = ax logea
+
+v) Let f(x) = x . Then f(x + h) = x+h
+
+     f'(x)        = lim      f(x+h) - f(x)
+
+                        h0      h
+
+        = lim x+h - x
+             h0          h
+
+        = lim     ( x+h - x ) ( x+h + x )
+             h0
+                             h( x+h + x )
+
+        = lim            x+h-x
+             h0
+                  h(     x+h +  x
+
+        = lim            1      =1
+             h0
+                        x+h + x 2 x
+
+        Thus      d(     x) =    1
+                  dx            2x
+
+vi) f(x)          = log x  f(x + h) = log ( x + h)
+      f'(x)
+                  = lim f(x+h) - f(x)
+                        h0      h
+
+        = lim log (x+h) - logx
+             h0              h
+
+                        lim  log x  h 
+                                x
+                  =     h 0
+
+                                h
+
+                  =     lim  1  log1   h  
+                             h         x  
+                        h0
+
+     © The Institute of Chartered Accountants of India
+                               BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS                       8.5
+
+      h
+Let x = t i.e. h=tx and as h  0, t  0
+
+f'(x) = lim             1 log(1+t)= 1  lim         1 log(1+t)  =  1 ×1=    1  ,  since  lim  log 1 + t 1
+                    t0  tx     x                   t              x        x                       t
+                                        t0                                               t0
+
+       d                    1
+Thus dx (log x) = x
+
+       d                            d                                       d
+(1) dx (xn) = nx n­1           (2) dx (ex) = ex                        (3) dx (ax) = ax log e a
+
+       d                            d                                         d              1
+(4) dx (constant) = 0          (5) dx (eax) = ae ax                    (5) dx (log x) = x
+
+          d
+Note: dx { c f(x)} = cf'(x) c being constant.
+
+In brief we may write below the above functions and their derivatives:
+
+                               Table: Few functions and their derivatives
+
+Function                                                       derivative of the function
+
+f(x)                                                           f `(x)
+
+xn                                                             n xn­1
+
+ea x                                                           ae a x
+
+log x                                                          1/ x
+
+ax                                                             a x log ea
+c (a constant)                                                 0
+
+We also tabulate the basic laws of differentiation.
+
+© The Institute of Chartered Accountants of India
+8.6  BUSINESS MATHEMATICS
+
+                             Table: Basic Laws for differentiation
+
+     Function                                              Derivative of the function
+
+(i) h(x) = c.f(x) where c is any                           d {h(x)} =c. d { f(x)}
+     real constant (Scalar multiple of a function)         dx                 dx
+
+(ii) h(x) = f(x) ± g(x)                                    d {h(x)}        =  d f(x)± d {g(x)}
+     (Sum/Difference of function)                          dx                 dx      dx
+
+(iii) h(x) = f(x). g(x)                                    d {h(x)}        =  f(x) d {g(x)}+g(x) d {f(x)}
+     (Product of functions)                                dx                     dx           dx
+
+              f(x)                                         d {h(x)}           g(x) d {f(x)}-f(x) d {g(x)}
+(iv) h(x) = g(x)                                           dx                     dx           dx
+                                                                           =
+                                                                                      {g(x)}2
+
+     (Quotient of function)
+
+(v) h(x) = f{g(x)}                                         d {h(x)}        =  d f(z). dz  ,  where z = g(x)
+                                                           dx                 dz dx
+
+      It should be noted here even though in (ii), (iii), (iv) and (v) we have considered two functions
+f and g, it can be extended to more than two functions by taking two by two.
+
+Example: Differentiate each of the following functions with respect to x:
+
+     (a) 3x2 + 5x ­2             (b) a x + x a + aa                (c)  1 x3 -5x2 +6x-2logx+3
+                                                                        3
+
+     (d) ex log x                (e) 2x x5                             x2
+                                                                   (f) ex
+
+     (g) ex / logx               (h) 2 x. log x                          2x
+                                                                   (i) 3x3 +7
+
+Solution: (a) Let y = f(x) = 3x2 + 5x ­2
+
+               dy     d              d                  d
+                   dx = 3 dx (x) 2 + 5 dx (x) ­ dx (2)
+
+               = 3 × 2x + 5.1 ­ 0 = 6x + 5
+
+     (b) Let h(x) = a x + x a + a a
+
+               d {h(x)}  =   d   (a x + x a + a a) =    d          d           d
+               dx            dx                         dx (ax) +  dx (xa) +   dx (aa), aa is a constant
+
+     © The Institute of Chartered Accountants of India
+                      BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS                                  8.7
+
+     = ax log a + axa ­ 1 + 0 = ax log a + axa ­ 1.
+
+(c)  Let f (x) =  1 x3 -5x2 +6x-2logx+3                  d   f(x)    =  d     1  x  3  -5x  2  +6x-2logx+3
+                  3                                      dx             dx    3
+
+     =   1 . 3x2 -5.2x+6.1-2. 1 +0                 =x2 -10x+6- 2 .
+         3                       x                                x
+
+(d) Let y = ex log x
+
+     dy     = ex  d   (log x) + log x  d           (ex) (Product rule)
+     dx           dx                     dx
+
+     =   ex               ex (1+ x log x)
+         x + ex log x =   x
+
+         dy ex
+     So dx = x (1 + x log x)
+
+(e) y = 2x x5
+
+     dy           d              d
+     dx = x5 dx (2x ) + 2x dx (x5) (Product Rule)
+
+     = x5 2x loge 2 + 2x. 5. x4
+
+(f)          x2
+     let y = ex
+
+     dy      ex 8 (x2 )  x2 d (ex )                (Quotient Rule)
+     dx =         dx             dx
+
+                      (ex )2
+
+               2xex - x2 ex  =   x(2-x)
+            = (ex )2               ex
+
+(g) Let y = ex / logx
+
+         dy       (logx) d (ex )  ex d (log x)
+         dx               dx                       dx
+     so      =                                                       (Quotient Rule)
+                                (logx)2
+
+         ex log x - ex/x                           ex x log x - ex
+     = (log x)2                  =                    x (log x)2
+
+         dy ex ( x log x - 1)
+     So dx = x (log x)2
+
+© The Institute of Chartered Accountants of India
+8.8         BUSINESS MATHEMATICS
+
+     (h) Let h(x) = 2 x. log x
+
+                The given function h(x) is appearing here as product of two functions
+
+                f (x) = 2x         and g(x) = log x.
+
+                =  d   {h  (x)}  = d (2x .logx)            =2x     d   (logx)+logx  d   (2x  ).
+                   dx              dx                              dx               dx
+
+                2x × 1 +logx.(2xlog2) = 2x +2xlog2logx
+                       x                                x
+
+                                 2x
+     (i)        Let h(x) = 3x3 +7 [Given function appears as the quotient of two functions]
+
+                f(x) = 2x and g(x) = 3x3 + 7
+
+                d {h(x)}         (3x3 +7) d (2x)-2x d (3x3 +7)            (3x       3  +  7). 2-2x.(9x  2  +0)
+                dx                          dx                 dx                         (3x 3 +7)2
+                            =                                          =
+                                                        (3x3 +7)2
+
+                =     2 (3x 3 +7)-9x 3   =  2(7-6x 3 )     .
+                                            (3x3 +7)2
+                       (3x 3 +7)2
+
+     If y = f [h(x)] then dy = dy × du =f'(u)×h'(x)                    where u = h(x)
+                             dx du dx
+
+     Example: Differentiate log (1 + x2) wrt. x
+
+     Solution: Let y = log (1 + x 2) = log t when t = 1 + x 2
+
+     dy  =  dy  dt  =  1  ×(0+2x) =  2x  =     2x
+     dx     dt  dx     t              t     (1+x2 )
+
+     This is an example of derivative of function of a function and the rule is called Chain Rule.
+
+A function in the form f(x, y) = 0 is known as implicit function. For example x2y2 + 3xy + y = 0
+where y cannot be directly defined as a function of x is called an implicit function of x.
+
+In case of implicit functions if y be a differentiable function of x, no attempt is required to express
+
+                                                           dy
+y as an explicit function of x for finding out . In such case differentiation of both sides with
+                                                           dx
+                                     dy
+respect of x and substitution of dx = y1 gives the result. Thereafter y1 may be obtained by solving
+the resulting equation.
+
+     © The Institute of Chartered Accountants of India
+                                     BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS                 8.9
+
+                     dy
+Example: Find for x2y2 + 3xy + y = 0
+
+                     dx
+
+Solution: x2y2 + 3xy + y = 0
+
+Differentiating with respect to x we see
+
+    d                   d               d(y)               d        dy
+x2 dx (y2) + y2 dx (x2) + 3x dx y + 3y dx (x) + dx = 0
+
+         dy      + 2xy2 +3x       dy    + 3y   d(x)  +  dy    = 0,  d (x)=1, d(y2 )  2y dy  (chain rule)
+or 2yx2 dx                        dx           dx       dx          dx  dx  dx
+
+                     dy
+or (2yx2 + 3x + 1) dx + 2xy2 + 3y = 0
+
+    dy           (2xy2 + 3y)
+
+or dx = ­ (2x2y + 3x +1)
+
+This is the procedure for differentiation of Implicit Function.
+
+When both the variables x and y are expressed in terms of a parameter (a third variable), the
+involved equations are called parametric equations.
+
+                                                                                                      dy
+For the parametric equations x = f(t) and y = h(t) the differential coefficient
+
+                                                                                                      dx
+
+                             dy         dy         dy  dt
+                             dx                    dt dx
+is obtained by using                 =  dt  .  =
+                                        dx
+
+                                        dt
+                   dy
+Example: Find dx if x = at3, y = a / t3
+
+             dx                      dy
+Solution: dt = 3at2;                 dt = ­ 3 a / t4
+
+dy     dy    dt    3    a     1      =  -1
+dx     dt    dx     t4       3at        t6
+                                  2
+
+This is the procedure for differentiation of parametric functions.
+
+The process of finding out derivative by taking logarithm in the first instance is called logarithmic
+differentiation. The procedure is convenient to adopt when the function to be differentiated
+involves a function in its power or when the function is the product of number of functions.
+
+© The Institute of Chartered Accountants of India
+8.10         BUSINESS MATHEMATICS
+
+      Example: Differentiate xx w.r.t. x
+
+      Solution: let y = xx
+      Taking logarithm,
+      log y = x log x
+      Differentiating with respect to x,
+
+      1 dy = log x + x = 1+log x
+      y dx           x
+
+          dy
+      or dx = y (1 + log x) = xx (1 + log x)
+
+      This procedure is called logarithmic differentiation.
+
+      If y=  1-x                   dy
+(1)          1+x show that (1 ­ x2) dx + y = 0.
+
+                                                                     1
+      Solution: Taking logarithm, we may write log y = 2 {log (1 ­ x) ­ log (1 + x)}
+      Differentiating throughout we have
+
+      1  dy  =1 d    {log (1 ­ x) ­ log (1 + x)} =       1            1    1  1  x        1  1    .
+      y  dx    2 dx                                      2           1x                       x2
+
+                                             dy
+      By cross­multiplication (1 ­ x2) dx = ­ y
+
+                                  dy
+      Transposing (1 ­ x2) + y = 0.
+
+                                  dx
+(2) Differentiate the following w.r.t. x:
+
+      (a) log (x + x 2 + a 2 )
+
+     (b) log x-a + x-b .
+
+      Solution: (a) y = log (x + x 2 + a 2 )
+
+                     dy  = (x+   1                       1  2       1      (2x)
+                     dx         x2 +a2 )                           x2 a2
+
+             =        1                                         x  x2+ a2
+                (x+  x2 +a2 )                            x2+a2 )
+                                   (x+
+
+      © The Institute of Chartered Accountants of India
+                            BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS                  8.11
+
+                        (x+ x 2 +a2 )                          1
+                                                   =        x2 +a2
+            =           x2 +a2 )       x2 +a2
+
+               (x+
+
+(b) Let y= log ( x  a  x  b)
+
+      or    dy              1  x  b  2                1     1  b                   ( x  b  x  a)        .
+            dx        xa                              xa 2  x         = ( x  a  x  b) 2 x  a      xb
+
+                 1
+      =2 xa xb
+
+                                           dy y
+(3) If xm yn = (x+y) m+n prove that dx = x
+
+      Solution: xm yn = (x+y) m+n
+      Taking log on both sides
+
+         log xm yn = (m+n) log (x + y)
+
+         or m log x + n log y = ( m+n) log (x+y)
+
+so  m  n dy  (m  n) 1  dy
+    x y dx (x  y)  dx
+
+or    n  ­  m+n         dy    m+n      ­           m
+      y     x+y         dx    (x + y)              x
+                      
+
+or (nx+ny-my-ny) dy = mx+nx-mx-my
+    y(x+y)              dx             x(x+y)
+
+or (nx-my) dy = nx-my
+    y dx                x
+
+or dy = y proved.
+    dx x
+
+                        dy        log x
+
+(4) If xy= ex­y prove that dx = (1+log x)2
+
+Solution: xy= ex­y
+
+So y log x = (x ­ y) log e
+
+or y log x = (x ­ y)                   ..............(a)
+
+Differentiating w.r.t. x we get
+
+© The Institute of Chartered Accountants of India
+8.12            BUSINESS MATHEMATICS
+
+      y               dy            dy
+      x + log x dx = 1 ­ dx
+
+                          dy           y
+      or (1 + log x) dx = 1 ­ x
+
+          dy             (x-y)
+
+      or dx = x(1+log x) , substituting x­y = log x, from (a) we have
+
+          dy          y(logx)
+
+      or dx = x(1+log x) .................... (b)
+
+      From (a) y( 1 + logx ) = x
+
+          y           1
+
+      or x = (1+log x)
+
+                    dy          log x
+
+      From (b) dx = (1+log x)2
+
+      Let y = f(x) = x 4 + 5x 3 + 2x2 + 9
+
+      dy d
+      dx = dx f(x) = 4x3 + 15x2 + 4x = f'(x)
+
+      Since f(x) is a function of x it can be differentiated again.
+
+      Thus   d      dy    =  f"(x)  =  d   (4x3  +  15x2    +  4x)     =  12x2  +  30x  +  4
+             dx     dx                 dx
+
+      d      dy   is  written  as   d2 y  (read  as      d  square  y  by  dx  square)  and    is  called  the  second  derivative
+      dx     dx                     dx2
+
+                                           dy
+      of y with respect to x while dx is called the first derivative. Again the second derivative
+                                                                                                 d2 y
+      here being a function of x can be differentiated again and                           d     dx2   
+                                                                                           dx
+
+         = f  (x) = 24x +30.
+
+                                                                  d2 y
+         Example: If y = ae mx + be ­ mx prove that dx2 = m2y.
+
+                        dy d
+         Solution: dx = dx (ae mx + be ­ mx) = amemx ­ bme ­ mx
+
+          d2 y   =  d     dy       d
+          dx2       dx    dx    = dx (amemx ­ bme ­ mx)
+
+         =am2e mx+ bm2e ­ mx = m2 (ae mx + be ­ mx) = m2y.
+
+      © The Institute of Chartered Accountants of India
+                   BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS                   8.13
+
+                                                      R
+
+Let f(x) represent the curve in the fig. We take two adjacent pairs P and Q on the curve Let f(x)
+represent the curve in the fig. We take two adjacent points P and Q on the curve whose
+coordi nates are (x, y) and (x + x, y+y) respectively. The slope of the chord TPQ is given by
+
+y/x  when x 0,     Q  P. TPQ becomes the tangent at P               and  lim  y   dy
+                                                                              x   dx
+                                                                         x0
+
+The derivative of f(x) at a point x represents the slope (or sometime called the gradient of
+
+the curve) of the tangent to the curve y = f(x) at the point x. If  lim  y  exists for a particular
+                                                                         x
+                                                                    x0
+
+point say x =a and f(a) is finite we say the function is differentiable at x = a and continuous
+
+at that point.
+
+Example: Find the gradient of the curve y = 3x2 ­ 5x + 4 at the point (1, 2).
+
+                                           dy
+Solution: y = 3x2 ­ 5x + 4  dx = 6x ­ 5
+
+         so [dy /dx] x = 1 y = 2 = 6.1 ­5 = 6 ­ 5 = 1
+         Thus the gradient of the curve at (1, 2) is 1.
+
+       d                                           d                d
+ dx (xn) = nx n­1    dx (ex) = ex                                   dx (ax) = ax log e a
+                                                         
+
+© The Institute of Chartered Accountants of India
+8.14  BUSINESS MATHEMATICS
+
+       d                                                 d                 d              1
+ dx (constant) = 0          dx (eax) = ae ax                               dx (log x) = x
+                                                                
+
+          d
+Note: dx {c f(x)} = cf'(x) c being constant.
+
+     Function                                               Derivative of the function
+
+(i) h(x) = c.f(x) where c is any                            d {h(x)} =c. d { f(x)}
+     real constant (Scalar multiple of a function)          dx             dx
+
+(ii) h(x) = f(x) ± g(x)                                     d {h(x)}    =  d f(x)± d {g(x)}
+     (Sum/Difference of function)                           dx             dx        dx
+
+(iii) h(x) = f(x). g(x)                                     d   {h(x)}  =  f(x)  d   {g(x)}+g(x) d     {f(x)}
+     (Product of functions)                                 dx                   dx                dx
+
+              f(x)                                          d {h(x)}       g(x) d {f(x)}-f(x) d {g(x)}
+(iv) h(x) = g(x)                                            dx                   dx           dx
+                                                                        =
+     (Quotient of function)                                                          {g(x)}2
+
+(v) h(x) = f{g(x)}                                          d {h(x)}    =  d f(z). dz  ,  where z = g(x)
+                                                            dx             dz dx
+
+Applications of Differential Calculus:
+
+In this chapter we have discussed the concept of differentiation. Differentiation helps us to find
+out the average rate of change in the dependent variable with respect to change in the independent
+variable. It makes differentiation to have applications. Various scientific formulae and results
+involves rate of change in price, change in demand with respect change in output, change in
+revenue obtained with respect to change in price, change in demand with respect change in
+income, etc.
+
+1) Ate of Change in Quantities: Let there two variables x and y such that y is a function of x.
+                                  dy
+
+     Differential coefficient dx represents the rate of change of y with respect to x.
+
+2) In other words, the expression, "the rate of Change of a function" means the derivative of
+     the function.
+                                                                dy
+
+3) We write f(x) in place of y and f'(x) in place of .
+                                                                dx
+
+      © The Institute of Chartered Accountants of India
+                  BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS                  8.15
+
+Cost Function: Total cost consists of two parts (i) Variable Cost (ii) Fixed Cost.
+
+If C(X) denotes the cost producing x units of a product then C(x) = V(x) + F(x) , where V(x)
+denotes the variable cost and F(x) is the fixed cost. Variable cost depends upon the number of
+units produced (i.e value of x) whereas fixed cost is independent of the level of output x. For
+example,
+
+                                    Total Cost C(X)
+Average cost (AC or C ) = OutPut = X
+
+                                          Variable Cost V(x)
+Average variable cost (AVC) = OutPut = x
+
+                                      Fixed Cost F(x)
+Average Fixed Cost (AFC) = OutPut = x
+Marginal Cost: If C(x) the total cost producing x units then the increase in cost in producing one
+
+                                                                                                dC
+more unit is called marginal cost at an output level of x units and is given as dx .
+
+Marginal Cost (MC) = Rate of change in cost C per unit change in OutPut at an OutPut level of
+            dC
+
+x units = dx .
+
+To increase profits of a company may decide to increase its production. The question that concerns
+the management is how will the cost be affected by an increase in production. Economists use
+the marginal cost to answer the question.
+
+Example 1: The total cost function of a firm is C(x)  1 x 3  5x 2  28x  10 where C is the total cost
+                                                                      3
+
+and x is outpout.
+
+A tax at the rate of ` 2 per unit of output is imposed and the producer adds it to his cost. If the
+market demand function is given by, where ` p is the price per unit of output, find the profit
+maximising output and price for maximum profit.
+
+Solution:
+After the imposition of tax of ` 2 per unit, the total new cost is
+
+      C(x)  1 x 3  5x 2  28x  10  2x
+              3
+
+      Also, R(x)  px  (2530  5x)x  2530x  5x 2
+
+ P(x)  R(x) C(x)
+
+=  (2530x   5x 2 )  ( 1  x3   5x 2                  30x   10)  =    1  x3   2500x   10
+                      3                                             3
+
+© The Institute of Chartered Accountants of India
+8.16       BUSINESS MATHEMATICS
+
+For maximum total profit, and .
+
+      P'(x) = 0 gives ­x2 + 2500 = 0 x = ±50
+
+      Since output cannot be negative, we consider x = 50.
+
+      For x = 50, P"(x) = ­2x = ­2  50 = ­100 < 0
+      Thus, the profit is maximum at x = 50.
+      Putting x = 50 in the demand function, the corresponding price is p=2530 ­ 5 × 50 = ` 2280.
+
+Example 2: The cost function of a company is given by:
+      C(x)  100x  8x 2  x 3 ,
+                              3
+
+      where x denotes the output. Find the level of output at which:
+
+      (i) marginal cost is minimum
+
+      (ii) average cost is minimum
+
+Solution:                                                                 x3
+                                                                          3
+      M(x) = Marginal Cost = C(x)    =  d                100x    8x  2          = 100 - 16x + x2
+                                        dx
+
+      A(x) = Average Cost =  C(x)  = 100 - 8x +                  x2
+                                                                    .
+                             x                                    3
+
+      (i) M(x) is maximum or minimum when M¢(x) = -16 + 2x = 0 or, x = 8.
+
+          M²(8) = M(x)x8  2x8 = 2 > 0
+
+            Hence, marginal cost is minimum at x = 8.
+                                                                               2x
+
+      (ii) A(x) is maximum or minimum when A'(x) = -8+ 3 = 0 or, x = 12.
+
+      A"(12)   A(x) x12      2       =  2 0
+                             3  x12     3
+
+      Hence, average cost is minimum at x = 12.
+
+      A(x) = Average Cost = 100  8x  x2  100  8(12)  144
+                                                               3                   3
+
+                                                                                3                 3
+
+                                                                      100  96  48  52
+
+1) Revenue Function: Revenue, R(x), gives the total money obtained (Total turnover) by selling
+     x units of a product. If x units are sold at `P per unit, then R(x) = P.X
+
+     Marginal Revenue: It is the rate of change I revenue per unit change in output. If R is the
+
+                                                       dR
+      revenue and x is the output, then MR= dx .
+
+      © The Institute of Chartered Accountants of India
+BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS  8.17
+
+     Profit function: Profit P(x), the difference of between total revenue R(x) and total Cost C (x).
+
+     P(X)= R(x) ­ C(x)
+
+                                                                                                  dP
+     Marginal Profit: It is rate of change in profit per unit change in output. i.e
+
+                                                                                                  dx
+Example 3: A computer software company wishes to start the production of floppy disks. It was
+observed that the company had to spend ` 2 lakhs for the technical informations. The cost of
+setting up the machine is ` 88,000 and the cost of producing each unit is ` 30, while each floppy
+could be sold at ` 45. Find:
+
+(i) the total cost function for producing x floppies; and
+
+(ii) the break-even point.
+
+Solution :
+
+a) Given, fixed cost = ` 2,00,000 + ` 88,000 = ` 2,88,000.
+
+     (i) If C (x) be the total cost function for producing floppies, then C(x) = 30x + 2,88,000
+
+     (ii) The Revenue function R(x), for sales of x floppies is given by R(x) = 45x.
+
+     For break-even point, R(x) = C(x)
+
+     i.e., 45x = 30x + 2,88,000
+
+     i.e., 15x = 2,88,0000  x = 19,200, the break-even point
+
+Example 4: A company decided to set up a small production plant for manufacturing
+electronic clocks. The total cost for initial set up (fixed cost) is ` 9 lakhs. The additional cost
+for producing each clock is ` 300. Each clock is sold at ` 750. During the first month, 1,500
+clocks are produced and sold.
+
+     (i) What profit or loss the company incurs during the first month, when all the 1,500 clocks
+          are sold ?
+
+     (ii) Determine the break-even point.
+
+(b) Total cost of producing 20 items of a commodity is ` 205, while total cost of producing 10
+      items is ` 135. Assuming that the cost function is a linear function, find the cost function
+      and marginal cost function.
+
+Solution:
+
+(a) The total cost function for manufacturing x Clocks is given by C(x) = Fixed cost + Variable
+      cost to produce x Clocks = 9,00,000 + 300x.
+
+     The revenue function from the sale of x clocks in given by R(x) = 750 × x = 750x.
+
+     (i) Profit function,
+
+© The Institute of Chartered Accountants of India
+8.18  BUSINESS MATHEMATICS
+
+      P(x) = R(x) ­ C(x)
+
+      = 750x ­ (9,00,000 + 300x) = 450x ­ 9,00,000
+
+       Profit, when all 1500 clocks are sold = P(1500) = 450 × 1500 ­ 9,00,000 = ­ ` 2,25,000
+
+      Thus, there is a loss of ` 2,25,000 when only 1500 clocks are sold.
+
+      (ii) At the break-even point, R(x) = C(x)
+
+      or, 9,00,000 + 300x = 750x
+
+      or, 450x = 9,00,000                      x = 2,000
+
+      Hence, 2000 clocks have to be sold to achieve the break-even point.
+
+(b) Let cost function be
+
+      C(x) = ax + b,............(i)
+
+      x being number of items and a, b being constants.
+
+      Given, C(x) = 205 for x = 20 and C(x) = 135 for x = 10.
+
+      Putting these values in (i),
+
+      205 = 20a+b          ............(ii)
+
+      135 = 10a+b          ............(iii)
+
+      (ii) ­ (iii) gives,
+
+      70 = 10a or, a = 7
+
+      From (iii), b = 135 ­ 10a = 135 ­ 70 = 65
+
+       Required cost function is given by C(x) = 7x + 65
+
+      Marginal cost function, C'(x) =         d          (7x    65)  =  7
+                                              dx
+
+Marginal Propensity to Consume (MPC): The consumption function C = F(Y) expresses the
+relationship between the total consumption and total Income (Y), then the marginal propensity
+
+                                                                                                             dC
+to consume is defined as the rate of Change consumption per unit change in Income i.e., dY . By
+consumption we mean expenditure incurred in on Consumption.
+
+Marginal Propensity to save (MPS): Saving, S is the difference between income, I and
+                           dS
+
+consumption, c, i.e ., dY .
+
+      © The Institute of Chartered Accountants of India
+                         BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS                        8.19
+
+Choose the most appropriate option (a) (b) (c) or (d).
+1. The gradient of the curve y = 2x3 ­ 3x2 ­ 12x + 8 at x = 0 is
+
+     a) ­12              b) 12                     c) 0                            d) none of these
+                                                                                   d) none of these
+2. The gradient of the curve y = 2x3 ­5x2 ­ 3x at x = 0 is                         d) none of these
+                                                                                   d) none of these
+     a) 3                b) ­3                     c) 1/3
+                                                                                   d) none of these
+3. The derivative of y = x+1 is
+                                                                                   d) none of these
+     a) 1 / x+1          b) ­ 1 / x+1              c) 1 / 2 x+1
+
+4. If f(x) = eax2 +bx+c the f '(x) is
+
+     a) eax2 bxc         b) eax2 bxc (2ax +b) c) 2ax +b
+
+                x2 +1
+5. If f(x) = x2 -1 then f'(x) is
+
+     a) ­4x / (x2 ­ 1)2  b) 4x / (x2 ­ 1)2         c) x / (x2 ­ 1)2
+
+                                      dy
+6. If y = x (x ­1 ) (x ­ 2) then dx is
+
+     a) 3x2 ­ 6x +2      b) ­6x + 2                c) 3x2 + 2
+
+7. If xy = 1 then y2 + dy/dx is equal to
+
+     a) 1                b) 0                      c) ­1                           d) none of these
+
+8. The derivative of the function x+ x is
+
+             1                    1                         1      1       1     
+     a) 2 x+ x           b) 1+ 2 x                        x                      
+                                                   c) 2        x        2     x    d) none of these
+
+                               dy
+9. Given e-xy ­ 4xy = 0, dx can be proved to be
+
+     a) ­ y /x           b) y / x                  c) x / y                        d) none of these
+                                                                                   d) none of these
+10.  If  x2  -  y2        dy
+         a2     a2  = 1 , dx can be expressed as
+
+                                x                          1
+                         b) x2 -a2
+         x                                         c)     x2   -1
+     a) y                                                 a2
+
+© The Institute of Chartered Accountants of India
+8.20           BUSINESS MATHEMATICS
+
+                                dy
+11. If log (x / y) = x + y, dx may be found to be
+
+            y(1-x)           y                              1-x
+                                                         c) 1+y
+      a) x(1+y)              b) x                                             d) none of these
+                                                                              d) none of these
+                                         dy                                   d) none of these
+12. If f(x, y) = x3 + y3 ­ 3axy = 0, dx can be found out as                   d) none of these
+                                                                              d) none of these
+          ay-x2                 ay-x2                       ay+x2             d) none of these
+      a) y2 +ax              b) y2 -ax                   c) y2 +ax
+
+                                 dy
+13. Given x = at2, y = 2at; dx is calculated as
+
+      a) t                   b) ­1/t                     c) 1/t
+
+                                       dy
+14. Given x = 2t + 5, y = t2 ­ 2; dx is calculated as
+
+      a) t                   b) ­1/t                     c) 1/t
+
+               1         dy
+15. If y = x then dx is equal to
+
+            1                     -1                             1
+      a) 2x x                b) x x                      c) ­ 2x x
+
+                                      dy
+16. If x = 3t2 ­1, y = t3 ­t, then dx is equal to
+
+         3t2 -1              b) 3t2­1                       3t -1
+      a) 6t                                              c) 6t
+
+                                                                   dy
+17. For the curve x2 + y2 + 2gx + 2hy = 0, the value of dx at (0, 0) is
+
+      a) -g/h                b) g/h                      c) h/g               d) none of these
+
+               e3x -e2x      dy
+18. If y = e3x +e2x , then dx is equal to
+
+      a) 2e5x                b) 1/(e5x + e2x )2          c) e5x/(e5x + e2x )  d) none of these
+
+                                                           dy
+19. Given x = t + t­1 and y = t ­ t­1 the value of dx at t = 2 is
+
+      a) 3/5                 b) ­3/5                     c) 5/3               d) none of these
+
+      © The Institute of Chartered Accountants of India
+                                BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS       8.21
+
+                                            dy
+20. If x3 ­2x2 y2 + 5x +y ­5 =0 then dx at x = 1, y = 1 is equal to
+
+     a) 4/3             b) ­ 4/3                   c) 3/4                d) none of these
+                                                                         d) none of these
+21. The derivative of x2 log x is                                        d) none of these
+
+     a) 1+2log x        b) x(1 + 2 log x)          c) 2 log x            d) none of these
+
+                            3-5x                   c) ­30/(3 +5x)2       d) none of these
+22. The derivative of 3+5x is                                            d) none of these
+                                                   b) 1/ 2x              d) none of these
+     a) 30/(3 +5x)2     b) 1/(3 +5x)2                                    d) none of these
+                                                   d) none of these      d) none of these
+                                   dy              c) 6(x­1) e3x2 -6x+2
+23. Let y = 2x + 32x then dx is equal to
+
+     a) (1/ 2x ) + 2.32x loge3
+
+      c) 2.32x loge3
+24. The derivative of e3x2 -6x+2 is
+
+     a) 30(1 ­5x)5      b) (1­5x )5
+
+             ex 1       dy
+25. If y = ex 1 then dx is equal to
+
+          -2ex                2ex                        -2
+     a) (ex -1)2        b) (ex -1)2                c) (ex -1)2
+
+                                   dy 
+26. If x = at2, y = 2at then  dx t=2 is equal to
+
+     a) 1/2             b) ­2                      c) ­1/2
+
+27.                 x+  1 2
+     Let f(x) =         x  then f'(2) is equal to
+
+     a) 3/4             b) 1/2                     c) 0
+
+28. If f(x) = x2 ­ 6x+8 then f'(5) ­ f'(8) is equal to
+
+     a) f'(2)           b) 3f'(2)                  c) 2f'(2)
+
+29. If f(x) = xk and f'(1) = 10 the value of k is
+
+     a) 10              b) ­10                     c) 1/10
+
+© The Institute of Chartered Accountants of India
+                                     BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS           8.23
+
+Integration is the reverse process of differentiation.
+                         Integration
+
+      f(x)                                                          f'(x)
+
+                        Differentiation
+
+      We know
+
+      d     x  n1      n    1 x   n
+      dx    n           n    1
+               1     
+
+      or  d      x  n1      x  n          .....................(1)
+          dx     n
+                    1
+
+Integration is the inverse operation of differentiation and is denoted by the symbol  .
+
+Hence, from equation (1), it follows that
+
+ xn dx  xn+1
+
+           n+1
+
+                                                           x n+1
+
+i.e. Integral of xn with respect to variable x is equal to
+
+                                                           n+1
+
+Thus if we differentiate            xn+1  we can get back xn
+
+                                     n+1
+
+Again if we differentiate              xn+1  + c and c being a constant, we get back the same xn .
+
+                                     n+1
+
+      d   x    n1         xn
+i.e.  dx             c
+            n  1      
+
+             xn+1
+Hence xn dx =             n+1     + c and this c is called the constant of integration.
+
+Integral calculus was primarily invented to determine the area bounded by the curves dividing
+the entire area into infinite number of infinitesimal small areas and taking the sum of all these
+small areas.
+
+© The Institute of Chartered Accountants of India
+8.24        BUSINESS MATHEMATICS
+
+ i)     xn dx xn1 + c, n  1 (If n=-1, xn+1  1 which is not defined)
+                  n1                                             n+1 0
+
+      x1
+
+ii) dx = x + c, since 1dx = x°dx= 1 = x + c
+
+ iii)   ex dx = ex + c, since  d ex =ex
+                               dx
+
+ iv)    eax dx =  eax    c , since  d      eax                   eax
+                   a                dx      a               
+                                                            
+
+v)      dx  = log x+c, since      d logx = 1
+        x                      dx                        x
+
+ vi)    ax dx = ax / logea+c, since     d                 ax  a        ax
+                                        dx               log  e
+
+Note: In the answer for all integral sums we add +c (constant of integration) since the differentiation of
+constant is always zero.
+Elementary Rules:
+
+       c f(x) dx = c  f(x) dx where c is constant.
+
+       { f(x) dx ± g(x)} dx =  f(x)dx ±  g(x)dx
+
+ Examples : Find (a) x dx,                                (b)       1 dx,        (c) e3xdx       (d) 3x dx (e)  x x dx.
+                                                                    x
+
+Solution:          (a)                                       x 3/2                 =  2x3/2  c
+                        x dx = x1/2 +1 / (1/2 + 1) = 3/2                                3
+
+                    (b) 1  dx   =     1    dx                      11      c    2  x  c where c is arbitrary constant.
+                        x
+                                    x2                        x2
+                                                               11
+                                                                 2
+
+                  (c)   e3x dx     = e3x  c   1 e3x  c
+                                        3                           3
+
+                  (d)  3x  dx  =   3x   3    c.
+                                  loge
+
+      © The Institute of Chartered Accountants of India
+                                      BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS  8.25
+
+                   (e)  x x dx. =               3         3 1  dx  2 x5/2  c.
+
+                                              x 2 dx    x2
+
+                                                        3 1 5
+                                                        2
+
+Examples : Evaluate the following integral:
+
+i)  (x + 1/x)2 dx =  x2 dx +2  dx +  dx / x2
+
+    =  x3  +2x+ x­2+1
+       3          ­2+1
+
+    =  x3  +2x­ 1 +c
+       3          x
+
+    ii)
+       x (x3+2x ­3 ) dx = x7/2 dx +2 x3/2 dx ­3 x1/2 dx
+
+        x7/2+1       +    2 x 3/2+1     ­     3 x1/2+1
+    = 7/2 +1              3/2+1               1/2+1
+
+    = 2x9/2 + 4x5/2 ­2 x3/2 + c
+           9            5
+
+       e3 x+ e­4 x dx
+   iii)
+                              = e2 x dx + e­4 x dx
+
+                              =  e2x     e4x       =   e2x       1   c
+                                  2        4            2      4e4x
+
+       x2               x2 ­ 1 1
+  iv)                               dx
+    x1        dx          x1
+
+                  = (x2 - 1) dx dx
+                          x1                  x1
+
+                = (x  1)dx  log(x  1)  x2  x  log(x  1)  c
+                                                   2
+
+v)      x3  5x 2 ­ 3
+                         dx
+             (x  2)
+
+        By simple division                 x 3  5x 2 ­ 3
+                                                           dx
+
+                                              (x  2)
+
+       =          x  2    3x     6         9       dx
+                                                 
+                                     x        2  
+
+© The Institute of Chartered Accountants of India
+8.26     BUSINESS MATHEMATICS
+
+      = x3  3x2 ­ 6x+9log(x+2)+c
+          32
+
+It is sometime possible by a change of independent variable to transform a function into another
+which can be readily integrated.
+
+      We can show the following rules.
+      To put z = f (x) and also adjust dz = f  (x) dx
+
+    Example: F{h(x)} h' (x) dx, take ez = h(x) and to adjust dz = h (x) dx
+
+      then integrate  F (z) dz using normal rule.
+
+       Example: (2x  3 )7 dx
+
+      We put (2x + 3) = t  so 2 dx = dt or dx = dt / 2
+
+        Therefore (2x  3 )7 dx ½ t7 dt  t 8                t8   2x  38       c
+
+                                                               
+                                                         2x8 16 16
+
+      This method is known as Method of Substitution
+
+                         x3
+                       x2 1
+         Example:                3  dx                   We put (x2 +1) = t
+
+      so 2x dx = dt or x dx = dt / 2
+
+       =    x 2 .x     dx
+             t3
+
+       = 1      t      1  dt
+         2         t3
+
+        =1      dt   ­    1   dt
+         2      t2        2   t3
+
+      =  1        t  ­21      ­  1     t ­31
+         2                       2    (­3  1)
+                ­    2  1
+
+           11 11
+      = ­ 2 t + 4 t2
+
+      =  1  1        1    1
+         4  t2       2    t
+
+      © The Institute of Chartered Accountants of India
+                                           BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS  8.27
+
+              1.        1           ­  1  .     1   +c
+              4         +1             2      x2 1
+             =      x2         2
+
+IMPORTANT STANDARD FORMULAE
+
+ a)     dx          1       x­a        +   c
+     x2 ­ a2            log
+                    2a x  a
+
+ b)  a2  dx      =  1   log  a+  x     +c
+         ­ x2       2a       a­  x
+
+ c)     dx = log x +              x2 + a2      +c
+       x2  a2
+
+   d)
+         dx  log x  x2  a2 + c
+       x2  a2
+
+ e) ex {f(x)  f'(x)}dx  exf(x) + c
+
+f)     x2  a2 dx x               x2  a2  a2 log x  x2  a2 + c
+g)                    2                     2
+                                x 2 - a 2 - a2 log( x  x 2 ­ a2 ) + c
+       x 2 - a2 dx x                          2
+                      2
+
+      f' (x)
+h)           dx         =log f(x) + c
+       f(x)
+
+  Examples: ( a)        e2   ex   4    dx           dz
+                             x                    z2  22 where z=e x dz = e x dx
+
+              1  log    ex     2       +c
+              4         ex     2
+
+                                                    x  x2 1
+                                                   x2  1) (x ­
+(b)         1                  dx                                         dx=  (x   x2  1) dx
+            x  x2 1                                             x2
+                                             (x                     ­ 1)
+
+         =  x2      x        x2  1  1 log(x         x2  1)  c
+            2       2                  2
+
+            ex (x3  3x2 )dx  ex f(x)  f'(x)dx, wheref (x) x3
+  (c)
+         [by (e) above)] = exx3+c
+
+         u vdx          u vdx              [   d(u) vdx] dx
+
+                                              dx
+
+© The Institute of Chartered Accountants of India
+8.28               BUSINESS MATHEMATICS
+
+      where u and v are two different functions of x
+
+      Evaluate:
+
+ i) xex dx
+
+      Integrating by parts we see
+
+                            ex dx             d            ex dx dx
+          xex dx x                            dx  (x)            
+                                         
+
+       = x e x ­ 1. ex dx  xex ­ ex  c
+
+ii)  x log x dx
+
+      Integrating by parts,
+
+         = log x                         d            x)   xdxdx
+                         x dx­           dx   (log              
+                                       
+
+            x2                   1     x2  
+            2      logx          x     2   
+                                           
+       = .               ­          .         dx
+
+      =     .  x2        x  ­  1    xdx
+               2   log         2
+                   
+
+      =  .     x2        x  ­  x2      +c
+               2   log         4
+                   
+
+iii)         x 2 eax dx
+
+                      eax dx ­             d       2       eax dx dx
+               = x2                        dx  (x     )           
+                                       
+
+             = x2 eax ­ 2x . eax dxa       a
+
+             = x 2 eax ­ 2 x.eax dxaa
+
+                   x 2 eax ­ 2         eax dx ­            d          eax      
+               =   a           a                           dx  (  x)       dx    dx
+
+               x 2eax       2     xeax            1. eax      
+                 a          a      a                  a    dx
+             =                             
+                                                              
+
+      © The Institute of Chartered Accountants of India
+                                BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS  8.29
+
+   =  x2eax    ­  2xeax  +  2   eax  +c
+        a          a2       a3
+
+Type I :
+
+         (3x  2) dx
+
+Example: (x - 2) (x - 3)
+
+                 ( 3x +2)
+Solution: let (x-2) (x-3)
+
+=    A+ B
+   (x ­ 2) (x ­ 3)
+
+[Here degree of the numerator must be lower than that of the denominator; the denominator
+contains non­repeated linear factor]
+
+so 3x + 2 = A (x ­ 3) + B (x ­ 2)
+
+We put x = 2 and get
+3.2 + 2 = A (2­3) + B (2­2) => A = ­8
+
+we put x = 3 and get
+
+3.3 +2 = A (3­3) + B (3­2)                         => B= 11
+
+   (3x  2)dx
+ (x  2)2 (x  3)
+                         8    dx  11                dx
+                             x2                    x­3
+
+= ­log(x­2)+11log (x -3)+c
+
+Type II:
+
+         (3x  2) dx
+
+Example: (x  2)2 (x  3)
+
+Solution: let   (3x + 2)     =    A    +  (x       B      +C
+               (x-2)2 (x-3)     (x­2)              ­ 2)2    (x ­ 3)
+
+or 3x + 2 = A (x ­ 2) (x ­ 3) + B (x ­ 3) +C (x ­ 2)2
+Comparing coefficients of x2, x and the constant terms of both sides, we find
+A+C = 0 ............(i)
+­5A + B ­ 4C = 3 ......(ii)
+6A ­ 3B + 4C = 2 .......(iii)
+
+© The Institute of Chartered Accountants of India
+8.30       BUSINESS MATHEMATICS
+
+      By (ii) + (iii) A ­ 2B = 5 .........(iv)
+
+      (i) ­ (iv) 2B + C = ­5 .......(v)
+
+      From (iv) A = 5 + 2B
+
+      From (v) C = ­5 ­ 2B
+
+      From (ii) ­5 ( 5 + 2B) + B ­ 4 (­ 5 ­ 2B) = 3
+
+      or ­ 25 ­ 10B + B + 20 + 8B = 3
+
+      or ­ B ­ 5 = 3
+
+      or B = ­ 8, A = 5 ­ 16 = ­ 11, from (iv) C = ­ A = 11
+
+               (3x  2) dx
+
+      Therefore (x - 2)2 (x - 3)
+
+                   dx ­ 8             dx                   dx
+                 (x ­ 2)              ­ 2)2              (x ­ 3)
+         = ­ 11                                 11
+                             (x
+
+                             8
+      = ­11 log (x­2) + (x­2) + 11 log (x­3)
+
+      = 11 log   (x ­ 3)  +        8   +c
+
+                 (x ­ 2) (x­2)
+
+Type III:
+
+ Example:     (3x 2   - 2x  5)     dx
+             (x - 1)  2 ( x 2  5)
+
+Solution:  Let    3x2 ­ 2x +5      =   A     +  Bx       +  C
+                 (x­1)2 (x2 +5)       x­1       (x 2     +  5)
+
+      so 3x2 ­2x +5 = A (x2 + 5 ) + (Bx +C) (x­1)
+
+      Equating the coefficients of x2, x and the constant terms from both sides we get
+
+           A+B=3                                            ............(i)
+
+           C ­ B = ­2                                       ............(ii)
+
+           5A ­ C = 5                                    .............(iii)
+           by (i) + (ii) A + C = 1                          ......... (iv)
+
+           by (iii) + (iv) 6A = 6                               ......... (v)
+                            or A = 1
+
+      therefore              B = 3 ­ 1 = 2 and C = 0
+
+       Thus   (3x 2   - 2x  5)     dx
+             (x - 1)  2 ( x 2  5)
+
+      © The Institute of Chartered Accountants of India
+                                BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS  8.31
+
+               dx               2x
+              x­1               2
+             =               x      5  dx
+
+           = log (x­1) + log (x2 + 5)
+           = log (x2 + 5) (x­1) + c
+
+ Example:      dx
+           x (x 3  1)
+
+          dx
+
+Solution: x (x3  1)
+
+             x2dx                                  we put x3 = z, 3x2 dx = dz
+
+           = x 3 (x 3  1)
+
+             1 dz
+
+           = 3 z(z  1)
+
+            = 1      1  ­  z  1  1    dz
+              3      z              
+
+           = 1 log z ­ log (z + 1)
+
+                3
+
+           =  1  log      x  x3     1  
+              3              3+        
+                                       
+
+Example : Find the equation of the curve where slope at (x, y) is 9x and which passes through the
+origin.
+
+              dy
+Solution: dx = 9x
+
+        dy = or y = 9x2 /2 +c
+
+Since it passes through the origin, c = 0; thus required eqn . is 9x2 = 2y.
+
+Suppose F(x) dx = f (x)
+As x changes from a to b the value of the integral changes from f (a) to f (b). This is as
+
+© The Institute of Chartered Accountants of India
+8.32       BUSINESS MATHEMATICS
+
+ b
+
+ F(x) dx f (b)  f (a)
+
+ a
+
+`b' is called the upper limit and `a' the lower limit of integration. We shall first deal with indefinite
+integral and then take up definite integral.
+
+                      2
+
+ Example: x5 dx
+                      0
+
+         = 2                 x6
+
+Solution: x 5 dx                6
+           0
+
+      2  x5   dx         x6  2
+                         6   0
+      0
+
+         1                      = 64/6 = 32/3
+      = 6 (26 ­ 0)
+
+Note: In definite integration the constant (c) should not be added
+
+ Example: 2 (x2  5x  2)dx
+                       1
+
+           2 (x2  5x  2)dx               x3   5x2                    2  (x 2                  x3    5x2        2
+                                         3       2                   1                                 2   2x
+           1
+  Solution:                                                                     5x    2)dx                     1
+                                                          2x . Now,                             3
+                                                                                              
+
+         23       5x22                   1     5         2   ­19/6
+      =             2           2x2       3    2
+           3
+                                    
+
+Important Properties of definite Integral
+
+      b                  b                                                      b               a
+
+  (I)                                                                     (II) f (x) dx  f (x) dx
+         f (x)dx f (t) dt
+
+      a                  a                                                      a               b
+
+      b                  c            b
+
+(III)  f(x)dx =  f(x) dx + f(x)dx, a < c < b
+      a                  a            c
+
+      a                  a
+
+  (IV)
+         f (x) dx f (a ­ x) dx
+
+      0                  o
+
+      © The Institute of Chartered Accountants of India
+                                    BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS  8.33
+
+                                         na                a
+
+  (V) When f(x) =f (a+x) then f (x) dx  n f (x) dx
+                                         0                 0
+
+a                        a
+
+  (VI)
+    f (x)dx  2 f (x)dx                             if f(­x) = f(x)
+                                                   if f(­x) = ­f(x)
+­a                 0
+
+       =0
+
+    2     x 2dx
+
+Example: 0 x 2  (2  x)2
+
+             2                x 2dx
+Solution: Let I = 0 x2  (2 ­ x)2
+
+  2 (2 - x)2 dx                     [by prop. IV]
+
+= 0 (2 - x)2  x 2
+
+             2              x 2dx        2      (2  x)2
+             0               (2 ­ x)2    0   (2  x)2  x2
+      
+       21          x2                                         dx
+
+          2 x 2  (2 ­ x)2
+
+          0 x 2  (2 ­ x)2 dx
+
+               2
+
+          = dx = x02 = 2­0 = 2
+               0
+
+   or I = 2/2 = 1
+
+Example: Evaluate           2 x4 dx                (a  2)
+
+                            ­2 a10 ­ x10
+
+                 x 4 dx            x 4 dx
+Solution: a10 ­ x10           ( a5 ) 2 ­ (x 5 )2
+
+let x5 = t so that 5x4 dx = dt
+
+Now        x4dx
+            (a5 )2 ­ (x5 )2
+
+=         1                 5x 4dx
+
+          5 (a5 )2  (x 5 )2
+
+       1        dt
+= 5 (a5 )2 ­ t2
+
+© The Institute of Chartered Accountants of India
+8.34            BUSINESS MATHEMATICS
+
+        =     1           log     a5  x5                 (by standard formula b)
+            10a5                  a5 ­ x5
+
+               2 x4dx
+
+      Therefore, 2 a10 ­ x10
+
+        =    2          x 4 dx                     ( by prop. VI)
+                      a10 ­ x10
+            2
+
+               0
+
+            2x         1                a5  x5 2
+        =             10a 5  log                   
+                                        a5  -  x5  0
+                                 
+
+        =        1        log     a5  32
+                5a 5              a5 ­ 32
+
+       xn dx xn1             + c,    n  1          (If n=-1, xn+1  1 which is not defined)
+                 n1                                           n+1 0
+
+      x1
+
+ dx = x, since 1dx = x°dx= 1 = x + c
+
+        ex dx = ex + c, since           d ex =ex
+                                        dx
+
+       eax dx =       eax   c , since          d  eax            eax
+                       a                       dx  a        
+
+        dx                              d logx = 1
+        x = log x+c, since              dx               x
+
+       ax dx = ax / logea+c, since                 d      ax  a       ax
+                                                   dx    log  e
+
+       c f(x) dx = c  f(x) dx where c is constant.
+
+       { f(x) dx ± g(x)} dx =  f(x)dx ±  g(x)dx
+
+           dx       1 log x ­ a             +c
+        x2 ­ a2      2a x  a
+
+        a2  dx  2  =  1   log  a  +  x  +c
+            ­x        2a       a  ­  x
+
+      © The Institute of Chartered Accountants of India
+                                  BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS            8.35
+
+   dx = log x +          x2 + a2     +c
+      x2  a2
+
+   
+      dx  log x  x2  a2 + c
+  x2  a2
+
+  ex {f(x)  f'(x)}dx  exf(x) + c
+
+  x2  a2 dx x x2  a2  a2 log x  x2  a2 + c
+                      2               2
+
+   x2 - a2 dx x          x 2 - a 2 - a2 log( x  x 2 ­ a2 ) + c
+                     2                 2
+
+   f' (x)
+        dx  =log f(x) + c
+  f(x)
+
+Integration by parts
+
+Important Properties of definite Integral
+
+  b         b                                              b        a
+
+    f (x)dx f (t) dt                                       f (x) dx  f (x) dx
+
+  a                a                                       a        b
+
+  b                c     b
+
+   f(x)dx =  f(x) dx + f(x) dx, a < c < b
+
+  a                a     c
+
+  a                a
+
+    f (x) dx f (a ­ x) dx
+
+  0                o
+
+                                  na                    a
+
+    When f(x) =f (a+x) = f (x) dx  n f (x) dx
+
+                                  0                     0
+
+  a                   a
+
+    f (x)dx  2 f (x)dx
+
+  ­a                  0
+
+Choose the most appropriate option (a) (b) (c) or (d).
+
+ 1. Evaluate  5x2 dx :
+
+  (a) 5 / 3x3 + k        (b) 5x 3 + k                      (c) 5x3             (d) none of these
+                                3
+
+2. Integration of 3 ­ 2x ­ x4 will become
+
+  (a) ­ x2 ­ x5 / 5      (b) 3x  x2  x5  k (c) 3x  x2  x5  k (d) none of these
+                                                     5                 5
+
+  © The Institute of Chartered Accountants of India
+8.36       BUSINESS MATHEMATICS
+
+ 3. Given f(x) = 4x3 + 3x2 ­ 2x + 5 and f(x) dx is
+
+     (a) x4 + x3 ­ x2 + 5x                                         (b) x4 + x3 ­ x2 + 5x + k
+     (c) 12x2 + 6x ­ 2x2                                           (d) none of these
+
+ 4. Evaluate ( x2 - 1 ) dx                                         (b) x 3  x  k
+                                                                         3
+     (a) x5/5 ­ 2/3 x3 + x + k
+                                                                   (d) none of these
+     (c) 2x
+
+ 5. ( 1 ­ 3x ) ( 1  x ) dx is equal to
+
+      (a) x ­ x2 ­ x3       (b) x3 ­ x2 + x              (c) x ­ x2 ­ x3 + k       (d) none of these
+
+   6.
+           x ­ 1 / x dx is equal to
+
+      (a)  2                      2  x 2                 x  k (c)    1        1      x  k     (d) none of these
+           3 x3/2 ­ 2 x½ +k   (b) 3                                2x            2x
+
+7. The integral of px3 + qx2 + rk + w/x is equal to
+
+      (a) px2 + qx + r + k                                           (b) px3/3 + qx2/2 + rx
+
+      (c) 3px + 2q ­ w/x2                                            (d) none of these
+
+8. Use method of substitution to integrate the function f(x) = ( 4x + 5 )6 and the answer is
+
+      (a) 1/28 ( 4x + 5 )7 + k (b) ( 4x + 5 )7/7 + k (c) ( 4x + 5 )7/7 (d) none of these
+
+ 9. Use method of substitution to evaluate x(x 2  4)5 dx and the answer is
+
+      (a) (x2 + 4 )6 + k                                             (b) 1/12 ( x2 + 4 )6 + k
+
+      (c) ( x2 + 4 )6/ + k                                           (d) none of these
+
+10. Integrate ( x + a )n and the result will be
+
+      (a)  (x  a)n1  k                                             (b) (x  a)n  1
+              n1                                                              n1
+
+     (c) (x + a)n + 1                                              (d) none of these
+
+ 11. 8x2 /( x3  2 )3 dx is equal to                                       4
+                                                                     3(x 3 
+      (a) ­ 4/3(x3 + 2)2 + k                             (b)                  2)2  +k
+
+      © The Institute of Chartered Accountants of India
+                              BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS                     8.37
+
+(c)       4          k                             (d) none of these
+     3(x 3  2)2
+
+                                                                                                    1
+12. Using method of partial fraction the integration of f(x) when f(x) = x2 - a2 and the
+
+answer is
+
+(a)  log  x    x  a  a     k                       (b) log (x ­ a) ­ log (x + a) + k
+                  
+
+     1  x-a                                        (d) none of these
+(c) 2a log  x + a  + k
+
+ 13. Use integration by parts to evaluate x2e3xdx
+
+(a) x2 e3x/3 ­ 2x e3x/9 + 2/27 e3x + k             (b) x2 e3x ­ 2x e3x + 2e3x + k
+
+(c) e3x/3 ­ x e3x/9 + 2e3x + k                     (d) none of these
+
+ 14. logx dx is equal to
+
+(a) x logx + k                (b) x logx ­ x2 + k (c) x logx + k      (d) none of these
+
+ 15. xex dx is                (b) (x ­ 1) ex       (c) x ex + k         (d) none of these
+                                                                        (d) none of these
+      (a) (x ­ 1)ex + k                                               (d) none of these.
+                                                                      (d) +1
+                               1
+
+ 16. Evaluate ( 2x2 - x3 ) dx and the value is
+                              0
+
+(a) 4/3 + k                   (b) 5/12             (c) ­ 4/3
+
+                               4
+
+ 17. Evaluate ( 3x - 2 )2 dx and the value is
+                               2
+
+(a) 104                       (b) 100              (c) 10
+
+                              1
+
+ 18. Evaluate xexdx dx and the value is
+                              0
+
+(a) ­1                        (b) 10               (c) 10/9
+
+ 19. xx (1 + logx) dx is equal to
+
+(a) xx logx + k               (b) ex2 + k              x2             (d) xx + c
+                                                   (c) 2 + k
+
+© The Institute of Chartered Accountants of India
+8.38           BUSINESS MATHEMATICS
+
+ 20. If f(x) = 1 + x2 then f(x)dx is                         x   1+x2 + 1 log (x+  x2 +1) +k
+                                                         (b) 2            2
+           2
+      (a) 3 x (1 + x2) 3/2 + k                           (d) none of these
+
+           2
+      (c) 3 x (1 + x2) 3/2 + k
+
+ 21.       2 x2 + 1      dx is equal to
+
+              x2 + 2
+
+          x
+
+      (a) 2
+                  x2 + 2 + k (b)    x2 + 2 + k           (c) 1/(x2 + 2) 3/2 + k   (d) none of these
+
+ 22. (ex  e­x )2 (ex ­ e­x ) dx is
+
+      (a)  1 (ex  e ) ­x. 3 +k                           (b)  1 (ex ­ e­x )2 + k
+           3                                                  2
+
+      (c) ex + k                                         (d) none of these
+
+      a
+
+ 23. [ f(x)  f(­x) ] dx is equal to
+      0
+           a                        a                                                      a
+
+       (a) 2 f(x) dx                 (b) f(x) dx         (c) 0                     (d) ­ f(­x) dx
+           0                        ­a                   (c) ex + k                       ­a
+
+ 24. xex /(x  1 )2 dx is equal to                                                 (d) none of these
+
+      (a) ex/(x + 1) + k (b) ex/x + k
+
+ 25. (x4  3/x) dx is equal to
+
+      (a) x5/5 + 3 log x                                 (b) 1/5 x5 + 3 log x + k
+                                                         (d) none of these
+      (c) 1/5 x5 + k
+
+                  4
+
+ 26. Evaluate ( 2x  5 ) dx and the value is
+                  1
+
+      (a) 3                     (b) 10                   (c) 30                   (d) none of these
+
+ 27.  2    2x  dx    is  equal  to
+      1  1 x2
+
+      (a) loge (5/2)                                     (b) loge5 ­ loge2
+      (c) loge (2/5)                                     (d) none of these
+
+      © The Institute of Chartered Accountants of India
+                                          BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS          8.39
+
+4
+
+ 28. 3x + 4 dx is equal to
+           0
+
+(a) 9/112                           (b) 112/9                (c) 11/9                (d) none of these
+                                                             (c) loge3               (d) none of these
+ 29. 2 x  2 dx is                                            (c) ­1                  (d) none of these
+      0 x1                                                   (c) ­ ex/x + k          (d) none of these
+                                                             (c) 8                   (d) none of these
+(a) 2 + loge2                       (b) 2 + loge3
+
+                    e2
+
+                            3               3
+
+  30. The value of f (5 ­ x) dx­ f (x) dx is
+                            2               2
+(a) 1                               (b) 0
+
+   31. x  1 ex / x2dx is equal to
+
+(a) ex/x + k                        (b) e­x/x + k
+
+           2                        (b) ­8
+
+ 32. 3x2 dx is
+          0
+
+      (a) 7
+
+ 33. Using integration by parts x3 log xdx
+
+(a) x4/16 + k                                                (b) x4/16 ( 4 log x ­ 1 ) + k
+
+(c) 4 log x ­ 1 + k                                          (d) none of these
+
+ 34. Evaluate           ex      ex    dx  and the  value is
+                        ex      ex
+
+(a) loge ex + e­x                                            (b) log e ex + e­x + k
+
+(c) loge ex ­ e­x + k(d) none of these
+
+35. If f(x) = x ­ 1, the equation of a curve y = f(x) passing through the point (1, 0) is given by
+
+(a) y = x2 ­ 2x + 1                                          (b) y = x2/2 ­ x + 1
+
+(c) y = x2/2 ­ x + 1/2(d) none of these
+
+© The Institute of Chartered Accountants of India
+8.42  BUSINESS MATHEMATICS
+
+Exercise 8(A)               4. (b)                       5. (a)   6. (a)   7. (b)   8. (c)
+1. (a) 2. (b) 3. (c)        12. (b)                      13. (c)  14. (a)  15. (c)  16. (a)
+9. (a) 10. (a)&(b) 11. (a)  20. (a)                      21. (b)  22. (c)  23. (a)  24. (c)
+17. (a) 18. (d) 19. (c)     28. (b)                      29. (a)  30. (c)  31. (a)  32. (b)
+25. (a) 26. (a) 27. (a)
+33. (a) 34. (c) 35. (b)
+
+Exercise 8(B)    3. (b)     4. (b)                       5. (c)   6. (a)   7. (d)   8. (a)
+1. (b) 2. (b)    11. (b)    12. (c)                      13. (a)  14. (d)  15. (a)  16. (b)
+9. (b) 10. (a)   19. (d)    20. (b)                      21. (a)  22. (a)  23. (b)  24. (a)
+17. (a) 18. (d)  27. (a)    28. (b)                      29. (b)  30. (b)  31. (a)  32. (c)
+25. (b) 26. (c)  35. (c)
+33. (b) 34. (b)
+
+      © The Institute of Chartered Accountants of India
+                                  BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS  8.41
+
+      8. C APPLICATION OF INTEGRATION TO COMMERCE AND
+ECONOMICS
+
+We know that marginal function is obtained by differentiating the total function. Now, when
+Marginal function is given and initial values are given, then total function can be obtained with
+the help of integration.
+
+8.C.1 Determination of cost function
+
+If C denotes the total cost and MC= dC is the marginal cost, then we can write
+                                                          dx
+
+ C = C (x ) = (MC) dx + k,,where k is the constant of integration, k, being the constant, is the
+
+fixed cost.
+
+Example 8.C.1. The marginal cost function of manufacturing x units of a product is 5 + 16x ­ 3x2.
+The total cost of producing 5 times is Rs. 500. Find the total cost function.
+
+Solution: Given, MC = 5 + 16x ­ 3x2
+
+   ( ) C (x ) = 5 + 16x - 3x2 dx
+
+     = 5x + 16 x2 - 3. x3 + k
+                    23
+
+  C(x) = 5x + 8x2 -x3 + k
+
+When x = 5, C(x) = C(5) = Rs. 500
+
+or, 500 = 25 + 200 ­ 125 + k
+
+This gives, k= 400
+
+  C (x ) = 5x + 8x2 - x3 + 400
+
+Example 8. C.2.The marginal cost (MC) of a product is given to be a constant multiple of number
+of units (x) produced. Find the total cost function, if fixed cot is Rs. 5000 and the cot of producing
+50 units is Rs. 5625
+
+Solution: Here MC á x i.e MC = k1x                 (k1is a constant)
+
+   dC
+
+  dx
+                    = k1x  C=         k1xdx + k2
+
+  C                 =  k1  x2  +  k2
+                           2
+
+Since fixed cost = Rs 5000  x = 0  C = 5000
+
+  5625                 =   k1  2500   + 5000
+                                 2
+
+© The Institute of Chartered Accountants of India
+8.42          BUSINESS MATHEMATICS
+
+                         625  =  1250     k1    k1  = 1
+                                                      2
+
+Hence C = x2 + 5000, is the required cost function.
+                 4
+
+8.C.3.2 Determination of Total Revenue Function
+If R (x) denote the total revenue function and MR is the marginal revenue function, then
+
+MR = d [R(x)]
+
+          dx
+
+            R(x) = (MR)dx + k Where k is the constant of integration.
+
+Also, when R (x) is known, the demand function can be found as p =      Rx
+                                                                         x
+
+Example 8.C.20 The marginal revenue function for a product is given by
+
+MR    =    6      -4.
+         (x-3)2
+
+Find the total revenue function and the demand function.
+
+Solution:     MR      =    6     -4
+                         (x-3)2
+
+                   R =       6       -4   dx =    6 - 4x +k
+                           (x-3)2               x-3
+
+X = 0, R = 0  k = - 2
+
+R=     6   -  4x  -2  ,  which   is  the  required  revenue  function.
+      x-3
+
+Now, PR = R = 6 - 4 - 2
+                x x(x-3) x
+
+= - 6 - 2 -4
+    x ( x - 3) x
+
+= -6 - 2x + 6 - 4
+    x ( x - 3)
+
+= -2 - 4 = 2 - 4
+      x-3             3-x
+
+      The demand function is given by               p=    2  -  4.
+                                                        3-x
+
+© The Institute of Chartered Accountants of India
+                      BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS                      8.43
+
+         EXERCISE -8(C)
+
+Choose the most appropriate option (a) (b) (c) or (d)
+
+1. T he fixed cost of a new product is Rs. 18000 and the variable cost per unit is Rs 550. If demand
+      function p(x)=4000 -150x, find the break-even values.
+
+(a) 15, 8             (b) 7, 12                            (c) 3, 17             (d) 5, 15
+
+U sing the data (2-4) A company sells its product at Rs.60 per unit. Fixed cost for the company
+is Rs.18000 and the variable cost is estimated to be 25% of total revenue.
+
+2. Determine: the total revenue function .
+
+(a) 70x               (b) 60x                              (c) 90x               (d) 100x
+
+3. Determine the total cost function
+
+(a) 19000 + 6x        (b) 20000+ 10 x                      (c) 18000 + 15x       (d) 4000 + 5x
+
+4. Determine the breakeven point
+
+(a) 600               (b) 400                              (c) 700               (d) 1000
+
+U sing the data (5-8) The total cost C(x) of a company as C(x) = 1000 + 25x + 2x2 where x is
+the output.
+
+5. Determine: the average cost
+
+(a) 1000/x + 25 + 2x                                       (b) 1000/x + 20 + 2x
+
+(c) 1000/x + 30 + 3x                                       (d) 1000/x + 25 + x
+
+6. Determine the marginal cost.
+
+(a) 30 + 4x           (b) 25 + 4x                          (c) 50 + 4x           (d) 50 + 5x
+
+7. Find the marginal cost when 15 units are produced,
+
+(a) 60                (b) 90                               (c) 80                (d) 85
+
+8. Find the actual cost of producing 15th unit.
+
+(a) 80                (b) 70                       (c) 83                        (d) 90
+
+Using the data (9-12).The total cost function of a firm is given
+
+aCs(x) = 0.002x3 - 0.04x2 + 5x + 1500, where x is the output.
+
+9. Determine: the average cost                             (b) 0.002x2 ­ 0.05x +5 + 1500/x
+      (a) 0.002x2 ­ 0.04x +5 + 1500/x                      (d) 0.002x2 ­ 0.05x +5 + 500/x
+      (c) 0.002x2 ­ 0.05x +5 + 1000/x
+
+© The Institute of Chartered Accountants of India
+8.44  BUSINESS MATHEMATICS
+
+10. Determine the marginal average cost (MAC)
+
+      (a) 0.004x ­ 0.08 ­ 1500/x2                  (b) 0.004x ­ 0.04 ­ 1500/x2
+
+      (c) 0.004x ­ 0.04 ­ 1000/x2                  (d) 0.001x ­ 0.04 ­ 1500/x2
+
+(11) Find the marginal cost.
+
+      (a) 0.06x2 ­ 0.10x + 5                       (b) 0.06x2 ­ 0.16x + 5
+
+      (c) 0.06x2 ­ 0.08x + 5                       (d) 0.05x2 ­ 0.08x + 5
+
+(12) Find the rate of change of MC with respect to x.
+
+      (a) 0.012x ­ 0.10                            (b) 0.010x ­ 0.08
+
+ (c) 0.012x + 0.08                                 (d) 0.012x ­ 0.08
+
+13.The total cost function for a company is given by C (x) = 3 x2 - 7x + 27. Find the level of
+                                                                      4
+      output for which MC = AC
+
+      (a) 8(b) 6(c) 9(d) 10
+
+Using the data (14-17) The demand function for a monopolist is given by x = 100 ­ 4p, where
+      x is the number of units of product produced and old and p is the price per unit.
+
+14. Find total revenue function
+
+      (a) 25x ­ x2/4                               (b) 25x + x2/4
+
+      (c) 25x ­ x2/2                               (d) 5x ­ x2/4
+
+15. Find average revenue function
+
+      (a) 25-x/6                                   (b) 25-x/4
+
+      (c) 5-x/4(d) 25 + x/4
+
+16. Find marginal revenue function
+
+      (a) 25-x/3              (b) 25-x/4           (c) 5-x/2                    (d) 25-x/2
+
+17. Find price and quantity at which MR= 0.
+
+      (a) 50, 12.5            (b) 70, 12.5         (c) 100, 12.5                (d) 70, 10
+
+Using the data (18-21) A firm knows that the demand function for one of its products is linear.
+      It also knows that it can sell 1000 units when the price is Rs. 4 per unit and it can sell 1500
+      units when the price is Rs. 2 per unit.
+
+18. Find the demand function.
+
+      (a) 2000-250p           (b) 2000-5p          (c) 2000+5p                  (d) 2000-25p
+
+19. Find the total revenue function
+
+      (a) 8 ­ x2/250          (b) 8x ­ x2/50       (c) 8x ­ x2/250              (d) 8x ­ x2/25
+
+© The Institute of Chartered Accountants of India
+                                      BASIC CONCEPTS OF DIFFERENTIAL AND INTEGRAL CALCULUS                   8.45
+
+20. Find the average revenue function.
+
+      (a) 8-x/50                      (b) 8-x/25           (c) 8+x/250            (d) 8-x/250
+
+21. Find the marginal revenue function.
+
+      (a) 8 ­ x/12                    (b) 8 ­ x/25         (c) 8 ­ x/125          (d) 8 + x/125
+
+22.A company charge Rs. 15000 for a refrigerator on orders of 20 or less refrigerator. The charge
+      is reduced on every set by Rs. 100 per piece for each piece ordered in excess of 20. Find the
+      largest size order the company should allow so as to receive a maximum revenue.
+
+      (a) 85(b) 80(c) 100(d) 70
+
+23. A firm has the following demand and the average cost-functions:
+
+x  =  480  -  20p  and  AC  =  10  +  x   .Determine  the  profit  maximizing  output  and  price        of  the
+                                      15
+monopolist.
+
+      (a) 70, 25                      (b) 60, 30           (c) 60, 25             (d) 70, 30
+
+Using the data (24-25) The marginal cost of production is MC = 20 - 0.04x + 0.003x2 where x is
+the number of units produced. The fixed cost is Rs. 7000.
+
+24. Find the total cost function.
+
+      (a) C = 20 x - 0.02x2 + 0.001x3 + 7000               (b) C = -20 x - 0.04x2 + 0.001x3 + 7000
+
+      (c) C = 20 x + 0.02x2 + 0.001x3 + 7000               (d) C = 20 x - 0.02x2 + 0.001x3 - 7000
+
+25. Find the average cost function.
+
+      (a)  AC= 20 - 0.02x + 0.001x2       + 7000           (b) AC = 20 - 0.02x + 0.001x2 + 7000
+                                              x                                                       x
+
+      (c) AC = 20 - 0.02x + 0.001x2 - 7000  (d) AC = 20 + 0.02x + 0.001x2 + 7000
+                                          x                                                   x
+
+Using the data (26-27) The marginal cost function of manufacturing x units of a product is given
+by MC = 3x2 - 10x + 3 . The total cost of producing one unit of the product is Rs. 7.
+
+26. Find the total cost function
+
+      (a) C = x3 +5x2 + 3x + 7 (b) C = x3 - 5x2 + 3x + 7
+
+      (c) C = x3 + 5x2 - 3x + 7 (d) C = x3 - 5x2 - 3x -7
+
+27.Find the average cost function.
+
+      (a) AC = x2 - 5x + 3 + 7 (b) AC = x2 - 5x + 3 - 7
+                               x                                               x
+
+      (c) AC = x2 - 5x - 3 + 7 (d) AC = x2 +5x - 3 + 7
+                               x                                               x
+
+© The Institute of Chartered Accountants of India
+8.46       BUSINESS MATHEMATICS
+
+Using the data (28-29). The marginal cost function of a commodity is given by MC = 14000
+                                                                                            7x + 4
+      and the fixed cost is Rs. 18000.
+
+28. Find the total cost function.
+
+      (a) C = 4000 7x+4 + 10000  (b) C = 4000 7x+4 - 10000
+
+      (c) C = 400 7x+4 + 10000  (d) C = 4000 7x2 +4 + 1000
+29. Find average cost of producing 3 units of the products.
+
+      (a)  AC =  4000   7x+2  10000                (b) AC = 4000 7x+4 + 10000
+                   x             x 
+                                                                 x           x
+
+      (c) AC = 4000     7x+4  +  10000             (d)  AC =  4000  7x+4 + 1000
+                     x             x2                           x               x
+
+30. The marginal revenue of a function MR = 7-4x-x2. Find the total Revenue.
+
+      (a) R = 7x- 4x2 - x3       (b) R = 7x+ 4x2 - x3
+                        23                        23
+
+      (c) R = 7x- 4x2 + x3       (d) R = 7x+ 4x2 + x3
+                        23                        23
+
+ANSWERS
+
+Set C
+
+1 (a)            2 (b)             3(c)                 4  (b)      5  (a)         6  (b)
+7 (d)            8 (c)             9  (a)               10  (b)     11  (c)        12  (d)
+13 (b)           14 (a)            15  (b)              16  (d)     17  (a)        18  (a)
+19 (c)           20 (d)            21  (c)              22  (a)     23  (c)        24  (a)
+25 (a)           26 (b)            27  (a)              28  (a)     29  (b)        30  (a)
+
+© The Institute of Chartered Accountants of India
+

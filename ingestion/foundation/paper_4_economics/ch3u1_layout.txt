@@ -1,0 +1,1450 @@
+CHAPTER  3
+
+THEORY OF PRODUCTION
+AND COST
+
+ UNIT -1: THEORY OF PRODUCTION
+
+                                          LEARNING OUTCOMES
+
+After studying this unit, you would be able to:
+ Define Production and Describe Production Function.
+ Describe the Characteristics of various Factors of Production.
+ Distinguish between Short run and Long run Production Functions.
+ Illustrate the Law of Diminishing Returns and Returns to Scale.
+
+ Describe Production Optimisation using Isoquants and Iso-cost
+
+       curves.
+
+© The Institute of Chartered Accountants of India
+3.2  BUSINESS ECONOMICS
+
+CHAPTER OVERVIEW
+
+    1.0 MEANING OF PRODUCTION
+
+Production is a very important economic activity. As we are aware, the survival of any firm in
+a competitive market depends upon its ability to produce goods and services at a
+competitive cost. One of the principal concerns of business managers is the achievement of
+optimum efficiency in production by minimising the cost of production. The performance of
+an economy is judged by the level of its production. The amount of goods and services an
+economy is able to produce determines the richness or poverty of that economy. In fact, the
+standard of living of people depends on the volume and variety of goods and services
+produced in a country. Thus, the U.S.A. is a rich country just because its level of production
+is high.
+
+  © The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST                      3.3
+                                                                  v
+
+In common parlance, the term `production' is used to indicate an activity of making
+something material. The growing of wheat, rice or any other agricultural crop by farmers and
+manufacturing of cement, radio-sets, wool, machinery or any other industrial product is
+often referred to as production. What exactly do we mean by production in Economics? In
+Economics the word `production' is used in a wider sense to denote the process by which
+man utilises resources such as men, material, capital, time etc, working upon them to
+transform them into commodities and services so as to make them satisfy human wants. In
+other words, production is any economic activity which converts inputs into outputs which
+are capable of satisfying human wants. Whether it is making of material goods or providing
+a service, it is included in production provided it satisfies the wants of some people.
+Therefore, in Economics, activities such as making of cloth by an industrial worker, the
+services of the retailer who delivers it to consumers, the work of doctors, lawyers, teacher s,
+actors, dancers, etc. are production.
+
+According to James Bates and J.R. Parkinson "Production is the organized activity of
+transforming resources into finished products in the form of goods and services; and
+the objective of production is to satisfy the demand of such transformed resources".
+
+It should be noted that production should not be taken to mean as creation of matter
+because, according to the fundamental law of science, man cannot create matter. What a
+man can do is only to create or add utility to things that already exist in nature. Production
+can also be defined as creation or addition of utility. For example, when a carpenter
+produces a table, he does not create the matter of which the wood is composed of; he only
+transforms wood into a table. By doing so, he adds utility to wood which did not have utility
+before.
+
+Production consists of various processes to add utility to natural resources for gaining
+greater satisfaction from them by:
+
+(i) Changing the form of natural resources. Most manufacturing processes consist of use
+         of physical inputs such as raw materials and transforming them into physical
+         products possessing utility, e.g., changing the form of a log of wood into a table or
+         changing the form of iron into a machine. This may be called conferring utility of
+         form.
+
+(ii) Changing the place of the resources from a place where they are of little or no use to
+         another place where they are of greater use. This utility of place can be obtained by:
+
+(a) Extraction from earth e.g., removal of coal, minerals, gold and other metal
+         ores from mines and supplying them to markets.
+
+(b) Transferring goods from where they give little or no satisfaction, to places
+         where their utility is more, e.g., tin in Malaya is of little use until it is brought
+
+© The Institute of Chartered Accountants of India
+3.4  BUSINESS ECONOMICS
+
+                   to the industrialised centres where necessary machinery and technology are
+                   available to produce metal boxes for packing. Another example is: apples in
+                   Kashmir orchards have a little utility to farmers. But when the apples are
+                   transported to markets where human settlements are thick and crowded like
+                   the city centres, they afford more satisfaction to greater number of people.
+                   These examples emphasise the additional utility conferred on goods, by all
+                   forms of transportation systems, by transport workers and by the agents who
+                   assist in the movement and marketing of goods.
+
+(iii) Making available materials at times when they are not normally available e.g.,
+         harvested food grains are stored for use till next harvest. Canning of seasonal fruits is
+         undertaken to make them available during off-season. This may be called conferring
+         of utility of time.
+
+(iv) Making use of personal skills in the form of services, e.g., those of organisers,
+         merchants, transport workers etc.
+
+The fundamental purpose of all these activities is the same, namely to create utility in some
+manner. Thus, production is nothing but creation of utilities in the form of goods and
+services. For example, in the production of a woollen suit, utility is created in some form or
+the other. Firstly wool is changed into woollen cloth at the spinning and weaving mill (utility
+created by changing the form). Then, it is taken to a place where it is to be sold (utility
+added by transporting it). Since woollen clothes are used only in winter, they will be retained
+until such time when they are required by purchasers (time utility). In the whole process, the
+services of various groups of people are utilised (as that of mill workers, shopkeepers,
+agents etc.) to contribute to the enhancement of utility. Thus, the entire process of
+production is nothing but creation of form utility, place utility, time utility and/or personal
+utility.
+
+It should be noted that the production process need not necessarily involve conversion of
+physical inputs into physical output. For example, production of services such as those of
+lawyers, doctors, musicians, consultants etc. involves intangible inputs to produce intangible
+output. But, production does not include work done within a household by anyone out of
+love and affection, voluntary services and goods produced for self-consumption. Intention
+to exchange in the market is an essential component of production.
+
+The money expenses incurred in the process of production, i.e., for transforming resources
+into finished products constitute the cost of production. Although cost of production is not
+taken into account for a pure production analysis, it is an extremely vital matter for any
+business decision-making. Nevertheless, in the theory of production, we would confine
+ourselves to laws of production, production function and methods of production
+optimisation. However, it is necessary to remember that a production decision cannot
+
+© The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST  3.5
+                                              v
+
+depend merely on physical productivity based on operating efficiency alone. The
+profitability of a productive activity would depend upon the revenue realised from the
+output and the costs incurred in raising that output. Aspects of cost and revenue will be
+discussed in the following units.
+
+    1.1 FACTORS OF PRODUCTION
+
+Factors of production refer to inputs. An input is a good or service which a firm buys for use
+in its production process. Production process requires a wide variety of inputs, depending
+on the nature of output. The process of producing goods in a modern economy is very
+complex. A good has to pass through many stages and many hands until it reaches the
+consumers' hands in a finished form. Land, labour, capital and entrepreneurial ability are the
+four factors or resources which make it possible to produce goods and services. Even a small
+piece of bread cannot be produced without the active participation of these factors of
+production. While land is a free gift of nature and refers to natural resources, the human
+endeavour is classified functionally and qualitatively into three main components namely,
+labour, capital and entrepreneurial skills.
+
+We may discuss these factors of production briefly in the following paragraphs.
+
+  © The Institute of Chartered Accountants of India
+3.6  BUSINESS ECONOMICS
+
+1.1.0 Land
+
+The term `land' is used in a special sense in Economics. It does not mean soil or earth's
+surface alone, but refers to all free gifts of nature which would include besides land in
+common parlance, natural resources, fertility of soil, water, air, light, heat natural vegetation
+etc. It becomes difficult at times to state precisely as to what part of a given factor is due
+solely to gift of nature and what part belongs to human effort made on it in the past.
+Therefore, as a theoretical concept, we may list the following characteristics which would
+qualify a given factor to be called land:
+
+(i) Land is a free gift of nature: No human effort is required for making land available
+         for production. It has no supply price in the sense that no payment has been made to
+         mother nature for obtaining land
+
+(ii) Supply of land is fixed: Land is strictly limited in quantity. It is different from other
+         factors of production in that, no change in demand can affect the amount of land in
+         existence. In other words, the total supply of land is perfectly inelastic from the point
+         of view of the economy. However, it is relatively elastic from the point of view of a
+         firm.
+
+(iii) Land is permanent and has indestructible powers: Land is permanent in nature
+         and cannot be destroyed. According to Ricardo, land has certain original and
+         indestructible powers and these properties of land cannot be destroyed.
+
+(iv) Land is a passive factor: Land is not an active factor. Unless human effort is
+         exercised on land, it does not produce anything on its own.
+
+(v) Land is immobile: in the geographical sense. Land cannot be shifted physically from
+         one place to another. The natural factors typical to a given place cannot be shifted to
+         other places.
+
+(vi) Land has multiple uses: and can be used for varied purposes, though its suitability
+         in all the uses is not the same.
+
+(vii) Land is heterogeneous: No two pieces of land are alike. They differ in fertility and
+         situation.
+
+1.1.1 Labour
+
+The term `labour', means any mental or physical exertion directed to produce goods or
+services. All human efforts of body or of mind undergone partly or wholly with a view to
+secure an income apart from the pleasure derived directly from the work is termed as
+labour. In other words, it refers to various types of human efforts which require the use of
+physical exertion, skill and intellect. It is, however, difficult to say that in any human effort all
+
+© The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST                      3.7
+                                                                  v
+
+the three are not required; the proportion of each might vary. Labour, to have an economic
+significance, must be one which is done with the motive of some economic reward. Anything
+done out of love and affection, although very useful in increasing human well-being, is not
+labour in the economic sense of the term. It implies that any work done for the sake of
+pleasure or love does not represent labour in Economics. It is for this reason that the
+services of a house-wife are not treated as labour, while those of a maid servant are treated
+as labour. If a person sings just for the sake of pleasure, it is not considered as labour
+despite the exertion involved in it. On the other hand, if a person sings against payment of
+some fee, then this activity signifies labour.
+
+Characteristics of labour:
+
+ Human Effort: Labour, as compared with other factors is different. It is connected
+         with human efforts whereas others are not directly connected with human efforts. As
+         a result, there are certain human and psychological considerations which may come
+         up unlike in the case of other factors. Therefore, leisure, fair treatment, favourable
+         work environment etc. are essential for labourers.
+
+ Labour is perishable: Labour is highly `perishable' in the sense that a day's labour
+         lost cannot be completely recovered by extra work on any other day. In other words,
+         a labourer cannot store his labour.
+
+ Labour is an active factor: Without the active participation of labour, land and
+         capital may not produce anything.
+
+ Labour is inseparable from the labourer: A labourer is the source of his own labour
+         power. When a labourer sells his service, he has to be physically present where they
+         are delivered. The labourer sells his labour against wages, but retains the capacity to
+         work.
+
+ Labour power differs from labourer to labourer: Labour is heterogeneous in the
+         sense that labour power differs from person to person. Labour power or efficiency of
+         labour depends upon the labourers' inherent and acquired qualities, characteristics of
+         work environment, and incentive to work.
+
+ All labour may not be productive: (i.e.) all efforts are not sure to produce
+         resources.
+
+ Labour has poor bargaining power: Labour has a weak bargaining power. Labour
+         has no reserve price. Since labour cannot be stored, the labourer is compelled to
+         work at the wages offered by the employers. For this reason, when compared to
+         employers, labourers have poor bargaining power and can be exploited and forced
+         to accept lower wages. The labourer is economically weak while the employer is
+
+© The Institute of Chartered Accountants of India
+3.8  BUSINESS ECONOMICS
+
+         economically powerful although things have changed a lot in favour of labour during
+         20th and 21st centuries.
+
+ Labour is mobile: Labour is a mobile factor. Apparently, workers can move from one
+         job to another or from one place to another. However, in reality there are many
+         obstacles in the way of free movement of labour from job to job or from place to
+         place.
+
+ There is no rapid adjustment of supply of labour to the demand for it: The total
+         supply of labour cannot be increased or decreased instantly.
+
+ Choice between hours of labour and hours of leisure: A labourer can make a
+         choice between the hours of labour and the hours of leisure. This feature gives rise to
+         a peculiar backward bending shape to the supply curve of labour. The supply of
+         labour and wage rate is directly related. It implies that, as the wage rate increases the
+         labourer tends to increase the supply of labour by reducing the hours of leisure.
+         However, beyond a desired level of income, the labourer reduces the supply of
+         labour and increases the hours of leisure in response to further rise in the wage rate.
+         That is, he prefers to have more of rest and leisure than earning more money.
+
+1.1.2 Capital
+
+We may define capital as that part of wealth of an individual or community which is used for
+further production of wealth. In fact, capital is a stock concept which yields a periodical
+income which is a flow concept. It is necessary to understand the difference between capital
+and wealth. Whereas wealth refers to all those goods and human qualities which are useful
+in production and which can be passed on for value, only a part of these goods and services
+can be characterised as capital because if these resources are lying idle they will constitute
+wealth but not capital.
+
+Capital has been rightly defined as `produced means of production' or `man-made
+instruments of production'. In other words, capital refers to all man made goods that are
+used for further production of wealth. This definition distinguishes capital from both land
+and labour because both land and labour are not produced factors. They are primary or
+original factors of production, but capital is not a primary or original factor; it is a produced
+factor of production. It has been produced by man by working with nature. Machine tools
+and instruments, factories, dams, canals, transport equipment etc., are some of the examples
+of capital. All of them are produced by man to help in the production of further goods.
+
+Types of Capital:
+
+Fixed capital is that which exists in a durable shape and renders a series of services over a
+period of time. For example tools, machines, etc.
+
+© The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST                      3.9
+                                                                  v
+
+Circulating capital is another form of capital which performs its function in production in a
+single use and is not available for further use. For example, seeds, fuel, raw materials, etc.
+
+Real capital refers to physical goods such as building, plant, machines, etc.
+
+Human capital refers to human skill and ability. This is called human capital because a good
+deal of investment goes into creation of these abilities in humans.
+
+Tangible capital can be perceived by senses whereas intangible capital is in the form of
+certain rights and benefits which cannot be perceived by senses. For example, copyrights,
+goodwill, patent rights, etc.
+
+Individual capital is personal property owned by an individual or a group of individuals.
+
+Social Capital is what belongs to the society as a whole in the form of roads, bridges, etc.
+
+Capital Formation: Capital formation means a sustained increase in the stock of real capital
+in a country. In other words, capital formation involves production of more capital goods
+like, machines, tools, factories, transport equipments, electricity etc. which are used for
+further production of goods. Capital formation is also known as investment.
+
+The need for capital formation or investment is realised not merely for replacement and
+renovation but for creating additional productive capacity. In order to accumulate capital
+goods, some current consumption has to be sacrificed and savings of current income are to
+be made. Savings are also to be channelised into productive investment. The greater the
+extent that people are willing to abstain from present consumption, the greater the extent
+of savings and investment that society will devote to new capital formation. If a society
+consumes all what it produces and saves nothing, the future productive capacity of the
+economy will fall when the present capital equipment wears out. In other words, if the whole
+of the current present capacity is used to produce consumer goods and no new capital
+goods are made, production of consumer goods in the future will greatly decline. It is
+prudent to cut down some of the present consumption and direct part of it to the making of
+capital goods such as, tools and instruments, machines and transport facilities, plant and
+equipment etc. Higher rate of capital formation will enhance production and productive
+capacity, increase the efficacy of production efforts, accelerate economic growth and add to
+opportunities for employment.
+
+Stages of capital formation: There are mainly three stages of capital formation which are
+as follows:
+
+1. Savings: The basic factor on which formation of capital depends is the ability to save.
+         The ability to save depends upon the income of an individual. Higher incomes are
+         generally followed by higher savings. This is because, with an increase in income, the
+         propensity to consume comes down and the propensity to save increases. This is true
+
+© The Institute of Chartered Accountants of India
+3.10  BUSINESS ECONOMICS
+
+         not only for an individual but also for the economy as a whole. A rich country has
+         greater ability to save and thereby can get richer quickly compared to a poor country
+         which has no ability to save and therefore has limited capacity for growth in national
+         income, given the capital output ratio.
+
+         It is not only the ability to save, but the willingness to save also counts a great deal.
+         Willingness to save depends upon the individual's concern about his future as well as
+         upon the social set-up in which he lives. If an individual is far sighted and wants to
+         make his future secure, he will save more. Moreover, the government can enforce
+         compulsory savings on employed people by making insurance and provident fund
+         compulsory. Government can also encourage saving by allowing tax deductions on
+         income saved. In recent years, business community's savings and government's
+         savings are also becoming important.
+
+2. Mobilisation of savings: It is not enough that people save money; the saved money
+         should enter into circulation and facilitate the process of capital formation.
+         Availability of appropriate financial products and institutions is a necessary
+         precondition for mobilisation of savings. There should be a wide spread network of
+         banking and other financial institutions to collect public savings and to take them to
+         prospective investors. In this process, the state has a very important and positive role
+         to play both in generating savings through various fiscal and monetary incentives
+         and in channelising the savings towards priority needs of the community so that
+         there is not only capital generation but also socially beneficial type of capital
+         formation.
+
+3. Investment: The process of capital formation gets completed only when the real
+         savings get converted into real capital assets. An economy should have an
+         entrepreneurial class which is prepared to bear the risk of business and invest savings
+         in productive avenues so as to create new capital assets.
+
+1.1.3 Entrepreneur
+
+Having explained the three factors namely land, labour and capital, we now turn to the
+description of the fourth factor of production, namely, the entrepreneur. It is not enough to
+say that production is a function of land, capital and labour. There must be some factor
+which mobilises these factors, combines them in the right proportion, initiates the process
+of production and bears the risks involved in it. This factor is known as the entrepreneur. He
+has also been called the organiser, the manager or the risk taker. But, in these days of
+specialisation and separation of ownership and management, the tasks performed by a
+manager or organiser have become different from that of the entrepreneur. While
+organisation and management involve decision-making of routine and non-routine types,
+
+© The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST                      3.11
+                                                                  v
+
+the task of the entrepreneur is to initiate production work and to bear the risks involved in
+it.
+
+Functions of an entrepreneur: In general, an entrepreneur performs the following
+functions:
+
+(i) Initiating business enterprise and resource co-ordination: An entrepreneur senses
+         business opportunities, conceives project ideas, decides on scale of operation,
+         products and processes and builds up, owns and manages his own enterprise. The
+         first and the foremost function of an entrepreneur is to initiate a business enterprise.
+         An entrepreneur perceives opportunity, organizes resources needed for exploiting
+         that opportunity and exploits it. He undertakes the dynamic process of obtaining
+         different factors of production such as land, labour and capital, bringing about co-
+         ordination among them and using these economic resources to secure higher
+         productivity and greater yield. An entrepreneur hires the services of various other
+         factors of production and pays them fixed contractual rewards: labour is hired at
+         predetermined rate of wages, land or factory building at a fixed rent for its use and
+         capital at a fixed rate of interest. The surplus, if any, after paying for all factors of
+         production hired by him, accrues to the entrepreneur as his reward for his efforts and
+         risk-taking. Thus, the reward for an entrepreneur, that is a profit, is not certain or
+         fixed. He may earn profits, or incur losses. Other factors get the payments agreed
+         upon, irrespective of whether the entrepreneur makes profits or losses.
+
+(ii) Risk bearing or uncertainty bearing: The ultimate responsibility for the success and
+         survival of business lies with the entrepreneur. What is planned and anticipated by
+         the entrepreneur may not come true and the actual course of events may differ from
+         what was anticipated and planned. The economy is dynamic and changes occur every
+         day. The demand for a commodity, the cost structure, fashions and tastes of the
+         people and government's policy regarding taxation, credit, interest rate etc. may
+         change. All these changes bring about changes in the cost and/or demand conditions
+         of a business firm. It may happen that as a result of certain broad changes which
+         were not anticipated by the entrepreneur, the firm has to incur losses. Thus, the
+         entrepreneur has to bear these financial risks. Apart from financial risks, the
+         entrepreneur also faces technological risks which arise due to the inventions and
+         improvement in techniques of production, making the existing techniques and
+         machines obsolete. The entrepreneur has to assess and bear the risks. However,
+         Frank Knight is of the opinion that profit is the reward for bearing uncertainties. An
+         entrepreneur need not bear the foreseeable risks such as of fire, theft, burglary etc.
+         as these can be insured against. Uncertainties are different from risks in the sense
+         that these cannot be insured against and therefore, the entrepreneur has to bear
+         them. For example genuine business uncertainties such as change in tastes,
+
+© The Institute of Chartered Accountants of India
+3.12  BUSINESS ECONOMICS
+
+         emergence of competition etc. cannot be foreseen or insured against. Thus, an
+         entrepreneur earns profits because he bears uncertainty in a dynamic economy
+         where changes occur every day. While nearly all functions of an entrepreneur can be
+         delegated or entrusted with paid managers, risk bearing cannot be delegated to
+         anyone. Therefore, risk bearing is the most important function of an entrepreneur
+
+(iii) Innovations: According to Schumpeter, the true function of an entrepreneur is to
+         introduce innovations. Innovation refers to commercial application of a new idea or
+         invention to better fulfilment of business requirements. Innovations, in a very broad
+         sense, include the introduction of new or improved products, devices and production
+         processes, utilisation of new or improved source of raw-materials, adoption of new or
+         improved technology, novel business models, extending sales to unexplored markets
+         etc. According to Schumpeter, the task of the entrepreneur is to continuously
+         introduce new innovations. These innovations may bring in greater efficiency and
+         competitiveness in business and bring in profits to the innovator. A successful
+         innovation will be imitated by others in due course of time. Therefore, an innovation
+         may yield profits for the entrepreneur for a short time but when it is widely adopted
+         by others, the profits tend to disappear. The entrepreneurs promote economic
+         growth of the country by introducing new innovations from time to time and
+         contributing to technological progress. But innovations involve risks and only a few
+         individuals in the society are capable of introducing new innovations. The greater the
+         innovating ability, the greater the supply of entrepreneurs in the economy, and
+         greater will be the rate of technological progress.
+
+Enterprise's objectives and constraints
+
+The standard assumption about an enterprise is that its business activity is carried out with
+the sole objective of earning profits. However, in the real world, enterprises do not make
+decisions based exclusively on profit maximisation objective alone. Since an enterprise
+functions in the economic, social, political and cultural environment, its objectives will have
+to be set up in relation to its survival and growth in such environments.
+
+Thus, the objectives of an enterprise may be broadly categorised under the following heads:
+
+(1) Organic objectives
+
+(2) Economic objectives
+
+(3) Social objectives
+
+(4) Human objectives
+
+(5) National objectives
+
+© The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST                      3.13
+                                                                  v
+
+1. Organic objectives: The basic minimum objective of all kinds of enterprises is to
+         survive or to stay alive. An enterprise can survive only if it is able to produce and
+         distribute products or services at a price which enables it to recover its costs. If an
+         enterprise does not recover its costs of staying in business, it will not be in a position
+         to meet its obligations to its creditors, suppliers and employees with the result that it
+         will be forced into bankruptcy. Therefore, survival of an enterprise is essential for the
+         continuance of its business activity. Once the enterprise is assured of its survival, it
+         will aim at growth and expansion.
+
+         Growth as an objective has assumed importance with the rise of professional
+         managers. R.L. Marris's theory of firm assumes that the goal that managers of a
+         corporate firm set for themselves is to maximise the firm's balanced growth rate
+         subject to managerial and financial constraints. In corporate firms, the structural
+         division of ownership and management, yields opportunity for mangers to set goals
+         which may not conform to the utility function of owner shareholders. It is pointed out
+         that ability or success of the managers is judged by their performance in promoting
+         the growth or expansion of the firm and rewards obtained by them are reflection of
+         their success is achieving growth of the firms managed by them. While owners want
+         to maximise their utility function which relate to profit, capital, market share and
+         public reputation, the managers want to maximise their utility function which
+         includes variables such as salary, power, and status and job security. Although there
+         is divergence and some degree of conflict between these utility functions, Marris
+         argues that most of the variables incorporated in both of them are positively related
+         to size of the firm and therefore, the two utility functions converge into a single
+         variable, namely, a steady growth in the size of the firm. The managers do not aim at
+         optimising profits; rather they aim at optimisation of the balanced rate of growth of
+         the firm which involves optimisation of the rate of increase of demand for the
+         commodities of the firm and the rate of increase of capital supply.
+
+2. Economic objectives: The profit maximising behaviour of the firm has been the most
+         basic assumption made by economists over the last more than two hundred years
+         and is still at the heart of neo classical micro economic theory. This assumption is
+         simple, rational and quantitative and is amenable to equilibrium analysis. Under this
+         assumption, the firm determines the price and output policy in such a way as to
+         maximize profits within the constraints imposed upon it such as technology, finance
+         etc. The investors expect that their company will earn sufficient profits in order to
+         ensure fair dividends to them and to improve the prices of their stocks. Not only
+         investors but creditors and employees are also interested in a profitable enterprise.
+         Creditors will be reluctant to lend money to an enterprise which is not making
+
+© The Institute of Chartered Accountants of India
+3.14  BUSINESS ECONOMICS
+
+profits. Similarly, any increase in salaries, wages and perquisite of employees can
+come only out of profits.
+
+The definition of profits in Economics is different from the accountants' definition of
+profits. Profit, in the accounting sense, is the difference between total revenue and
+total costs of the firm. Economic profit is the difference between total revenue and
+total costs, but total costs here costs include both explicit and implicit costs.
+Accounting profit considers only explicit costs while economic profit reflects explicit
+and implicit costs i.e. the cost of self-owned factors used by the entrepreneur in his
+own business. Since economic profit includes these opportunity costs associated with
+self-owned factors, it is generally lower than the accounting profit. When the
+economist speaks of profits, s/he means profits after taking into account the capital
+and labour provided by the owners i.e. s/he differentiates between normal profits
+and super normal profits. Normal profits include normal rate of return on capital
+invested by the entrepreneur, remuneration for the labour and the reward for risk
+bearing function of the entrepreneur.
+
+Normal profit (zero economic profit) is a component of costs and therefore what a
+business owner considers as the minimum necessary to continue in the business.
+Supernormal profit, also called economic profit or abnormal profit is over and above
+normal profits. It is earned when total revenue is greater than the total costs. Total
+costs in this case include a reward to all the factors, including normal profit.
+
+The profit maximisation objective has been subject to severe criticism in recent years.
+Many economists have pointed out that all firms do not aim to maximise profits.
+Some firms try to achieve security, subject to reasonable level of profits. H A Simon
+argues that firms have `satisfying' behaviour and strive for profits that are
+satisfactory. Baumol's theory of sales maximisation holds that sales revenue
+maximisation rather than profit maximisation is the ultimate goal of the business
+firms. He cites empirical evidence for his hypothesis that sales rank ahead of profits
+as the main objective of the enterprise. He asserts that it is quite a common
+experience that when an executive is asked about his business, he will answer that his
+sales have been increasing (or decreasing) and talks about profits only as an
+afterthought. He, however, points out that in their attempt to maximise sales,
+businessmen do not completely ignore costs incurred on output and profits to be
+made.
+
+In 1932, A. A. Berle and G.C. Means pointed out that in large business corporations,
+management is separated from ownership and therefore the managers enjoy
+discretionary powers to set goals of the firm they manage. Williamson's model of
+maximisation of managerial utility function is an important contribution to
+
+© The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST                      3.15
+                                                                  v
+
+managerial theory of firms' behaviour. The owners (shareholders) of joint stock
+companies prefer profit maximisation; but managers maximise their own utility
+function subject to a minimum profit, rather than maximising profit.
+
+         The objective of utility maximization has been discussed in the context of two types
+         of firms: First in case of firms owned and managed by the entrepreneur himself,
+         utility maximisation implies that in choosing an output level, the entrepreneur owner
+         considers not only the money profits which he will make, but also the sacrifice of
+         leisure which he would have to make in doing the necessary activity for producing
+         that level of output. Second, in case of large joint stock companies, the utility
+         function of managers or executives of these companies includes not only the profits
+         which they earn for the shareholders but also the promotion of sales, maintaining
+         lavish offices, seeking to have a larger member of staff under their supervision etc. In
+         this case, the manager will maximise his utility by attaining a best combination of
+         profits and the above mentioned other objectives. Cyert and March suggests four
+         possible functional goals in addition to profit goal namely, production goal,
+         inventory goal, sales goal and market share goal.
+
+3. Social objectives: Since an enterprise lives in a society, it cannot grow unless it
+         meets the needs of the society. Some of the important social objectives of business
+         are:
+
+ To maintain a continuous and sufficient supply of unadulterated goods and
+         articles of standard quality.
+
+ To avoid profiteering and anti-social practices.
+
+ To create opportunities for gainful employment for the people in the society.
+
+ To ensure that the enterprise's output does not cause any type of pollution -
+         air, water or noise.
+
+         An enterprise should consistently endeavour to contribute to the quality of life of its
+         community in particular and the society in general. If it fails to do so, it may not
+         survive for long.
+
+4. Human objectives: Human beings are the most precious resources of an
+         organisation. If they are ignored, it will be difficult for an enterprise to achieve any of
+         its other objectives. Therefore, the comprehensive development of its human
+         resource or employees' should be one of the major objectives of an organisation.
+         Some of the important human objectives are:
+
+          To provide fair deal to the employees at different levels
+
+© The Institute of Chartered Accountants of India
+3.16  BUSINESS ECONOMICS
+
+          To develop new skills and abilities and provide a work climate in which they
+                   will grow as mature and productive individuals.
+
+          To provide the employees an opportunity to participate in decision-making in
+                   matters affecting them.
+
+          To make the job contents interesting and challenging.
+
+         If the enterprise is conscious of its duties towards its employees, it will be able to
+         secure their loyalty and support.
+
+5. National objectives: An enterprise should endeavour for fulfilment of national needs
+         and aspirations and work towards implementation of national plans and policies.
+         Some of the national objectives are:
+
+          To remove inequality of opportunities and provide fair opportunity to all to
+                   work and to progress.
+
+          To produce according to national priorities.
+
+          To help the country become self-reliant and avoid dependence on other
+                   nations.
+
+          To train young men as apprentices and thus contribute in skill formation for
+                   economic growth and development.
+
+Since all the enterprises have multiple goals, they need to set priorities. This requires
+appropriate balancing of the objectives in order to determine the relative importance of
+each.
+
+Various objectives of an enterprise may conflict with one another. For example, the profit
+maximisation objective may not be wholly consistent with the marketing objective of
+increasing its market share which may involve improvement in quality, slashing down of
+product prices, improved customer service, etc. Similarly, its social responsibility objective
+may run into conflict with the introduction of technological changes which may cause
+unemployment or environmental pollution. In such situations, the manager has to strike a
+balance between the two so that both can be achieved with reasonable success.
+
+In the above paragraphs, we have discussed the different objectives of an enterprise.
+However, no comprehensive economic theory explaining the multitudes of behaviour of
+firms under various market conditions (perfect competition, monopoly, etc.) has been
+developed so far. Therefore, in rest of this book, we shall continue to assume that firms aim
+at maximising profits until and unless otherwise mentioned.
+
+© The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST                      3.17
+                                                                  v
+
+In the pursuit of this objective, an enterprise's actions may get constrained by many factors.
+Important among them are:
+
+ Lack of knowledge and information: The enterprise functions in an uncertain world
+         where due to lack of accurate information, many variables that affect the
+         performance of the firm cannot be correctly predicted for the current month or the
+         current year, let alone for the future years. Similarly, the firms may not know about
+         the prices of all inputs and the characteristics of all relevant technologies. Under such
+         circumstances, it is very difficult to determine what the profit maximising price is.
+
+ There may be other constraints such as restrictions imposed in the public interest by
+         the state on the production, price and movement of factors. In practice, there are
+         several hindrances for free mobility of labour and capital. For example, trade unions
+         may place several restrictions on the mobility of labour or specialised training may be
+         required to enable workers to change occupation. These contingencies may make
+         attainment of maximum profits a difficult task.
+
+ There may be infrastructural inadequacies and consequent supply chain bottlenecks
+         resulting in shortages and unanticipated emergencies. For example, there could be
+         frequent power cuts, irregular supply of raw-materials or non-availability of proper
+         transport. This could put limitations on the power of enterprises to maximise profits.
+
+ Changes in business and economic conditions which become contagious due to the
+         highly connected nature of economies, place constraints by causing demand
+         fluctuations and instability in firms' sales and revenues. Besides, external factors such
+         as sudden change in government policies with regard to location, prices, taxes,
+         production, etc. or natural calamities like fire, flood etc. may place additional burdens
+         on the business firms and defeat their plans. When firms are forced to implement
+         policies in response to fiscal limitations, legal, regulatory, or contractual
+         requirements, these have adverse consequences on the firms' profitability and
+         growth plans.
+
+ Events such as inflation, rising interest rates, unfavourable exchange rate fluctuations
+         cause increased raw material, capital and labour costs and affect the budgets and
+         financial plans of firms. Significant constraints are also imposed by the inability of
+         firms to find skilled workforce at competitive wages as well as due to the recurring
+         need for personnel training.
+
+Enterprise's Problems
+
+An enterprise faces a number of problems from its inception, through its life time and till its
+closure. We shall try to get a few insights about them from the following discussion.
+
+© The Institute of Chartered Accountants of India
+3.18  BUSINESS ECONOMICS
+
+Problems relating to objectives: As mentioned earlier, an enterprise functions in the
+economic, social, political and cultural environment. Therefore, it has to set its objectives in
+relation to its environment. The problem is that these objectives are multifarious and very
+often conflict with one another. For example, the objective of maximising profits is in
+conflict with the objective of increasing the market share which generally involves improving
+the quality, slashing the prices etc. Thus the enterprise faces the problem of not only
+choosing its objectives but also striking a balance among them.
+
+Problems relating to location and size of the plant: An enterprise has to decide about the
+location of its plant. It has to decide whether the plant should be located near the source of
+raw material or near the market. It has to consider costs such as cost of labour, facilities and
+cost of transportation. Of course, the entrepreneur will have to weigh the relevant factors
+against one another in order to choose the right location which is most economical.
+
+Another problem relates to the size of the firm. It has to decide whether it is to be a small
+scale unit or large scale unit. Due consideration will have to be given to technical,
+managerial, marketing and financial aspects of the proposed business before deciding on
+the scale of operations. It goes without saying that the management must make a realistic
+evaluation of its strengths and limitations while choosing a particular size for a new unit.
+
+Problems relating to selecting and organising physical facilities: A firm has to make
+decision on the nature of production process to be employed and the type of equipments to
+be installed. The choice of the process and equipments will depend upon the design chosen
+and the required volume of production. As a rule, production on a large scale involves the
+use of elaborate, specialized and complicated machinery and processes. Quite often, the
+entrepreneur has to choose from among different types of equipments and processes of
+production. Such a choice will be based on the evaluation of their relative cost and
+efficiency. Having determined the equipment to be used and the processes to be employed,
+the entrepreneur will prepare a layout illustrating the arrangement of equipments and
+buildings and the allocation for each activity.
+
+Problems relating to Finance: An enterprise has to undertake not only physical planning
+but also expert financial planning. Financial planning involves (i) determination of the
+amount of funds required for the enterprise with reference to the physical plans already
+prepared (ii) assessment of demand and cost of its products (iii) estimation of profits on
+investment and comparison with the profits of comparable existing concerns to find out
+whether the proposed investment will be profitable enough and (iv) determining capital
+structure and the appropriate time for financing the enterprise etc.
+
+Problems relating to organisation structure: An enterprise also faces problems relating to
+the organisational structure. It has to divide the total work of the enterprise into major
+specialised functions and then constitute proper departments for each of its specialized
+
+© The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST                      3.19
+                                                                  v
+
+functions. Not only this, the functions of all the positions and levels would have to be clearly
+laid down and their inter-relationship (in terms of span of control, authority, responsibility,
+etc) should be properly defined. In the absence of clearly defined roles and relationships, the
+enterprise may not be able to function efficiently.
+
+Problems relating to marketing: Proper marketing of its products and services is essential
+for the survival and growth of an enterprise. For this, the enterprise has to discov er its target
+market by identifying its actual and potential customers, and determine tactical marketing
+tools it can use to produce desired responses from its target market. After identifying the
+market, the enterprise has to make decision regarding 4 P's namely,
+
+ Product: variety, quality, design, features, brand name, packaging, associated
+         services, utility etc.
+
+ Promotion: Methods of communicating with consumers through personal selling,
+         social contacts, advertising, publicity etc.
+
+ Price: Policies regarding pricing, discounts, allowance, credit terms, concessions, etc.
+
+ Place: Policy regarding coverage, outlets for sales, channels of distribution, location
+         and layout of stores, inventory, logistics etc.
+
+Problems relating to legal formalities: A number of legal formalities have to be carried
+out during the time of launching of the enterprise as well as during its life time and its
+closure. These formalities relate to assessing and paying different types of taxes (corporate
+tax, excise duty, sales tax, custom duty, etc.), maintenance of records, submission of various
+types of information to the relevant authorities from to time, adhering to various rules and
+laws formulated by government (for example, laws relating to location, environmental
+protection and control of pollution, size, wages and bonus, corporate management
+licensing, prices) etc.
+
+Problems relating to industrial relations: With the emergence of the present day factory
+system of production, the management has to devise special measures to win the co-
+operation of a large number of workers employed in industry. Misunderstanding and conflict
+of interests have assumed enormous dimensions that these cannot be easily and promptly
+dealt with. Industrial relations at present are much more involved and complicated. Various
+problems which an enterprise faces with regard to industrial relations are - the problem of
+winning workers' cooperation, the problem of enforcing proper discipline among workers,
+the problem of dealing with organised labour and the problem of establishing a state of
+democracy in the industry by associating workers with the management of industry.
+
+© The Institute of Chartered Accountants of India
+3.20  BUSINESS ECONOMICS
+
+    1.2 PRODUCTION FUNCTION
+
+The production function is a statement of the relationship between a firm's scarce resources
+(i.e. its inputs) and the output that results from the use of these resources. More specifically,
+it states technological relationship between inputs and output. The production function can
+be algebraically expressed in the form of an equation in which the output is the dependent
+variable and inputs are the independent variables. The equation can be expressed as:
+
+                                                 Q = f (a, b, c, d .......n)
+
+Where `Q' stands for the rate of output of given commodity and a, b, c, d.......n, are the
+different factors (inputs) and services used per unit of time.
+
+Assumptions of Production Function: There are three main assumptions underlying any
+production function.
+
+First we assume that the relationship between inputs and outputs exists for a specific period
+of time. In other words, Q is not a measure of accumulated output over time.
+
+Second, it is assumed that there is a given "state-of-the-art" in the production technology.
+Any innovation would cause change in the relationship between the given inputs and their
+output. For example, use of robotics in manufacturing or a more efficient software package
+for financial analysis would change the input-output relationship.
+
+Third assumption is that whatever input combinations are included in a particular function,
+the output resulting from their utilization is at the maximum level.
+
+The production function can be defined as:
+
+The relationship between the maximum amount of output that can be produced and
+the input required to make that output. It is defined for a given state of technology
+i.e., the maximum amount of output that can be produced with given quantities of
+inputs under a given state of technical knowledge. (Samuelson)
+
+It can also be defined as the minimum quantities of various inputs that are required to
+yield a given quantity of output.
+
+The output takes the form of volume of goods or services and the inputs are the different
+factors of production i.e., land, labour, capital and enterprise. To illustrate, for a company
+which produces beverages, the inputs could be fixed assets such as plant and machinery;
+raw materials such as carbonated water, sweeteners and flavourings and labour such as
+assembly line workers, support-staff and supervisory personnel.
+
+For the purpose of analysis, the whole array of inputs in the production function can be
+reduced to two; L and K. Restating the equation given above, we get:
+
+© The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST                                                         3.21
+                                                                                                     v
+
+                                                      Q = f (L, K). Where Q = Output
+                                                      L= Labour
+                                                      K= Capital
+Short-Run Vs Long-Run Production Function
+
+The production function of a firm can be studied in the context of short period or long
+period. It is to be noted that in economic analysis, the distinction between short-run and
+long-run is not related to any particular measurement of time (e.g. days, months, or years).
+In fact, it refers to the extent to which a firm can vary the amounts of the inputs in the
+production process. A period will be considered short-run period if the amount of at least
+one of the inputs used remains unchanged during that period. Thus, short-run production
+function shows the maximum amount of a good or service that can be produced by a set of
+inputs, assuming that the amount of at least one of the inputs used remains fixed (or
+unchanged). Generally, it has been observed that during the short period or in the short run,
+a firm cannot install a new capital equipment to increase production. It implies that capital is
+a fixed factor in the short run. Thus, in the short-run, the production function is studied by
+holding the quantities of capital fixed, while varying the amount of other factors (labour, raw
+material etc.) This is done when the law of variable proportion is studied.
+
+The production function can also be studied in the long run. The long run is a period of time
+(or planning horizon) in which all factors of production are variable. It is a time period when
+the firm will be able to install new machines and capital equipments apart from increasing
+the variable factors of production. A long-run production function shows the maximum
+quantity of a good or service that can be produced by a set of inputs, assuming that the firm
+is free to vary the amount of all the inputs being used. The behaviour of production when all
+factors are varied is the subject matter of the law of returns to scale.
+
+1.2.0 Cobb-Douglas Production Function
+
+A famous statistical production function is Cobb-Douglas production function. Paul H.
+Douglas and C.W. Cobb of the U.S.A. studied the production function of the American
+manufacturing industries. In its original form, this production function applies not to an
+individual firm but to the whole of manufacturing in the United States. In this case, output is
+manufacturing production and inputs used are labour and capital.
+
+Cobb-Douglas production function is stated as:
+
+                                                      Q = KLa C (1-a)
+
+where `Q' is output, `L' the quantity of labour and `C' the quantity of capital. `K' and `a' are
+positive constants.
+
+© The Institute of Chartered Accountants of India
+     3.22  BUSINESS ECONOMICS
+
+The conclusion drawn from this famous statistical study is that labour contributed about
+3/4th and capital about 1/4th of the increase in the manufacturing production. Although,
+the Cobb-Douglas production function suffers from many shortcomings, it is extensively
+used in Economics as an approximation.
+
+1.2.1 The Law of Variable Proportions or The Law of Diminishing
+       Returns
+
+In the short run, the input output relations are studied with one variable input (labour) with
+all other inputs held constant. The laws of production under these conditions are known
+under various names as the law of variable proportions (as the behaviour of output is
+studied by changing the proportion in which inputs are combined) the law of returns to a
+variable input (as any change in output is taken as resulting from the additional variable
+input) or the law of diminishing returns (as returns eventually diminish).
+
+The law states that as we increase the quantity of one input which is combined with other
+fixed inputs, the marginal physical productivity of the variable input must eventually decline.
+In other words, an increase in some inputs relative to other fixed inputs will, in a given state
+of technology, cause output to increase; but after a point, the extra output resulting from
+the same addition of extra input will become less and less.
+
+Before discussing this law, if would be appropriate to understand the meaning of total
+product, average product and marginal product.
+
+Total Product (TP): Total product is the total output resulting from the efforts of all the
+factors of production combined together at any time. If the inputs of all but one factor are
+held constant, the total product will vary with the quantity used of the variable factor.
+Column (1) of Table 1 presents the quantity of variable factor (labour) used along with the
+factors whose quantity is held constant and column (2) represent the total product at
+various levels of use of the variable input.
+
+                                             Table 1: Product Schedule
+
+Quantity of labour Total Product (TP)              Average Product  Marginal Product
+                                                            (AP)             (MP)
+(1)        (2)                                               (3)               (4)
+                                                           100.0              100
+1          100                                             105.0              110
+                                                           110.0              120
+2          210                                             110.0              110
+                                                           104.0               80
+3          330
+
+4          440
+
+5          520
+
+© The Institute of Chartered Accountants of India
+    THEORY OF PRODUCTION AND COST                                           3.23
+                                                                                           v
+
+6   600                                                          100.0      80
+
+7   670                                                               95.7  70
+
+8   720                                                               90.0  50
+
+9   750                                                               83.3  30
+
+10  750                                                               75.0  0
+
+11  740                                                               67.3  ­10
+
+We find that when one unit of labour is employed along with other factors of production,
+the total product is 100 units. When two units of labour are employed, the total product
+rises to 210 units. The total product goes on rising as more and more units of labour are
+employed. With 9 or 10 units of labour, the total product rises to maximum level of 750
+units. When 11 units of labour are employed, total product falls to 740 units due to negative
+returns from the 11th unit of labour.
+
+Average Product (AP): Average product is the total product per unit of the variable factor.
+
+                      Total Product
+    AP=
+
+           No. of units of Variable Factors
+
+It is shown as a schedule in column (3) of Table 1. When one unit of labour is employed,
+average product is 100, when two units of labour are employed, average product rises to
+105. This goes on, as shown in Table 1.
+
+Marginal Product (MP): Marginal product is the change in total product per unit change in
+the quantity of variable factor. In other words, it is the addition made to the total production
+by an additional unit of input. Symbolically,
+
+                                                   MP = TP ­ TP  n-1
+                                                   n  n
+
+The computed value of the marginal product appears in the last column of Table 1. For
+example, the MP corresponding to 4 units is given as 110 units. This reflects the fact that an
+increase in labour from 3 to 4 units, has increased output from 330 to 440 units.
+
+Relationship between Average Product and Marginal Product: Both average product and
+marginal product are derived from the total product. Average product is obtained by
+dividing total product by the number of units of the variable factor and marginal pro duct is
+the change in total product resulting from a unit increase in the quantity of variable factor.
+The relationship between average product and marginal product can be summed up as
+follows:
+
+(i) when average product rises as a result of an increase in the quantity of variable input,
+         marginal product is more than the average product.
+
+© The Institute of Chartered Accountants of India
+3.24  BUSINESS ECONOMICS
+
+(ii) when average product is maximum, marginal product is equal to average product. In
+         other words, the marginal product curve cuts the average product curve at its
+         maximum.
+
+(iii) when average product falls, marginal product is less than the average product.
+
+Table 1 and Figure 1 confirm the above relationship.
+
+The Law of Variable Proportions or the Law of Diminishing Returns examines the production
+function with one factor variable, keeping quantities of other factors fixed. In other words, it
+refers to input-output relationship, when the output is increased by varying the quantity of
+one input. This law operates in the short run `when all factors of production cannot be
+increased or decreased simultaneously (for example, we cannot build a plant or dismantle a
+plant in the short run).
+
+The law operates under certain assumptions which are as follows:
+
+1. The state of technology is assumed to be given and unchanged. If there is any
+         improvement in technology, then marginal product and average product may rise
+         instead of falling.
+
+2. There must be some inputs whose quantity is kept fixed. This law does not apply to
+         cases when all factors are proportionately varied. When all the factors are
+         proportionately varied, laws of returns to scale are applicable.
+
+3. The law does not apply to those cases where the factors must be used in fixed
+         proportions to yield output. When the various factors are required to be used in fixed
+         proportions, an increase in one factor would not lead to any increase in output i.e.,
+         marginal product of the variable factor will then be zero and not diminishing.
+
+4. We consider only physical inputs and outputs and not economic profitability in
+         monetary terms.
+
+The behaviour of output when the varying quantity of one factor is combined with a fixed
+quantity of the others can be divided into three distinct stages or laws. In order to
+understand these three stages or laws, we may graphically illustrate the production function
+with one variable factor. This is done in Figure 1.
+
+In this figure, the quantity of variable factor is depicted on the X axis and the Total Product
+(TP), Average Product (AP) and Marginal Product (MP) are shown on the Y-axis. As the figure
+shows, the TP curve goes on increasing upto to a point and after that it starts declining. AP
+and MP curves first rise and then decline; MP curve starts declining earlier than the AP curve.
+
+© The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST  3.25
+                                              v
+
+The behaviour of these Total, Average and Marginal Products of the variable facto r
+consequent on the increase in its amount is generally divided into three stages (laws) which
+are explained below.
+
+                                      Fig. 1: Law of Variable Proportions
+
+Stage 1: The Stage of Increasing Returns: In this stage, the total product increases at an
+increasing rate upto a point (in figure upto point F), marginal product also rises and is
+maximum at the point corresponding to the point of inflexion and average product goes on
+rising. From point F onwards during the stage one, the total product goes on rising but at a
+diminishing rate. Marginal product falls but is positive. The stage 1 ends where the AP curve
+reaches its highest point.
+
+Thus, in the first stage, the AP curve rises throughout whereas the marginal product curve
+first rises and then starts falling after reaching its maximum. It is to be noted that the
+marginal product although starts declining, remains greater than the average product
+throughout the stage so that average product continues to rise.
+
+Explanation of law of increasing returns: The law of increasing returns operates because
+in the beginning, the quantity of fixed factors is abundant relative to the quantity of the
+variable factor. As more units of the variable factor are added to the constant quantity of the
+fixed factors, the fixed factors are more intensively and effectively utilised i.e., the efficiency
+of the fixed factors increases as additional units of the variable factors are added to them.
+This causes the production to increase at a rapid rate. For example, if a machine can be
+efficiently operated when four persons are working on it and if in the beginning we are
+operating it only with three persons, production is bound to increase if the fourth person is
+also put to work on the machine since the machine will be effectively utilised to its optimum.
+This happens because, in the beginning some amount of fixed factor remained unutilised
+and, therefore, when the variable factor is increased, fuller utilisation of the fixed factor
+becomes possible and it results in increasing returns. A question arises as to why the fixed
+
+  © The Institute of Chartered Accountants of India
+3.26  BUSINESS ECONOMICS
+
+factor is not initially taken in a quantity which suits the available quantity of the variable
+factor. The answer is that, generally, those factors which are indivisible are taken as fixed.
+Indivisibility of a factor means that due to technological requirements, a minimum amount
+of that factor must be employed whatever be the level of output. Thus, as more units of the
+variable factor are employed to work with an indivisible fixed factor, output greatly increases
+due to fuller utilisation of the latter. The second reason why we get increasing returns at the
+initial stage is that as more units of the variable factor are employed, the efficiency of the
+variable factor increases. This is because introduction of division of labour and specialisation
+becomes possible with sufficient quantity of the variable factor and these results in higher
+productivity.
+
+Stage 2: Stage of Diminishing Returns: In stage 2, the total product continues to increase
+at a diminishing rate until it reaches its maximum at point H, where the second stage ends.
+In this stage, both marginal product and average product of the variable factor are
+diminishing but are positive. At the end of this stage i.e., at point M (corresponding to the
+highest point H of the total product curve), the marginal product of the variable factor is
+zero. Stage 2, is known as the stage of diminishing returns because both the average and
+marginal products of the variable factors continuously fall during this stage. This stage is
+very important because the firm will seek to produce within its range.
+
+Explanation of law of diminishing returns: The question arises as to why we get
+diminishing returns after a certain amount of the variable factor has been added to the fixed
+quantity of that factor. As explained above, increasing returns occur primarily because of
+more efficient use of fixed factors as more units of the variable factor are combined to work
+with it. Once the point is reached at which the amount of variable factor is sufficient to
+ensure efficient utilisation of the fixed factor, any further increases in the variable factor will
+cause marginal and average product to decline because the fixed factor then becomes
+inadequate relative to the quantity of the variable factor. Continuing the above example,
+when four men were put to work on one machine, the optimum combination was achieved.
+Now, if the fifth person is put on the machine, his contribution will be nil. In other wo rds, the
+marginal productivity will start diminishing.
+
+The phenomenon of diminishing returns, like that of increasing returns, rests upon the
+indivisibility of the fixed factor. Just as the average product of the variable factor increases in
+the first stage when better utilisation of the fixed indivisible factor is being made, so the
+average product of the variable factor diminishes in the second stage when the fixed
+indivisible factor is being worked too hard. Another reason offered for the operation of the
+law of diminishing returns is the imperfect substitutability of one factor for another. Had the
+perfect substitute of the scarce fixed factor been available, then the paucity of the scarce
+fixed factor during the second stage would have been made up by increasing the supply of
+
+© The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST                      3.27
+                                                                  v
+
+its perfect substitute with the result that output could be expanded without diminishing
+returns.
+
+Stage 3: Stage of Negative Returns: In Stage 3, total product declines, MP is negative,
+average product is diminishing. This stage is called the stage of negative returns since the
+marginal product of the variable factor is negative during this stage.
+
+Explanation the law of negative returns: As the amount of the variable factor continues to
+be increased to a constant quantity of the other, a stage is reached when the total product
+declines and marginal product becomes negative. This is due to the fact that the quantity of
+the variable factor becomes too excessive relative to the fixed factor so that they get in each
+other's ways with the result that the total output falls instead of rising. In such a situation, a
+reduction in the units of the variable factor will increase the total output.
+
+Stage of Operation: An important question is in which stage a rational producer will seek
+to produce. A rational producer will never produce in stage 3 where marginal product of the
+variable factor is negative. This being so, a producer can always increase his output by
+reducing the amount of variable factor. Even if the variable factor is free of cost, a rational
+producer stops before the beginning of the third stage.
+
+A rational producer will also not produce in stage 1 as he will not be making the best use of
+the fixed factors and he will not be utilising fully the opportunities of increasing production
+by increasing the quantity of the variable factor whose average product continues to rise
+throughout stage 1. Even if the fixed factor is free of cost in this stage, a ration al
+entrepreneur will continue adding more variable factors.
+
+It is thus clear that a rational producer will never produce in stage 1 and stage 3. These
+stages are called stages of `economic absurdity' or `economic non-sense'.
+
+A rational producer will always produce in stage 2 where both the marginal product and
+average product of the variable factors are diminishing. At which particular point in this
+stage, the producer will decide to produce depends upon the prices of factors. The optimum
+level of employment of the variable factor (here labour) will be determined by applying the
+principle of marginalism in such a way that the marginal revenue product of labour is equal
+to the marginal wages. (The principle of marginalism is explained in detail in the chapter
+discussing equilibrium in different types of markets.)
+
+1.2.2 Returns to Scale
+
+We shall now study about changes in output when all factors of production in a particular
+production function are increased together. In other words, we shall study the behaviour of
+output in response to a change in the scale. A change in scale means that all factors of
+production are increased or decreased in the same proportion. Change in scale is different
+
+© The Institute of Chartered Accountants of India
+3.28  BUSINESS ECONOMICS
+
+from changes in factor proportions. Changes in output as a result of the variation in factor
+proportions, as seen before, form the subject matter of the law of variable proportions. On
+the other hand, the study of changes in output as a consequence of changes in scale forms
+the subject matter of returns to scale which is discussed below.It should be kept in mind
+that the returns to scale faced by a firm are solely technologically determined and are not
+influenced by economic decisions taken by the firm or by market conditions.
+
+Returns to scale may be constant, increasing or decreasing. If we increase all factors i.e.,
+scale in a given proportion and output increases in the same proportion, returns to scale are
+said to be constant. Thus, if doubling or trebling of all factors causes a doubling or trebling
+of output, then returns to scale are constant. But, if the increase in all factors leads to more
+than proportionate increase in output, returns to scale are said to be increasing. Thus, if all
+factors are doubled and output increases more than double, then the returns to scale are
+said to be increasing. On the other hand, if the increase in all factors leads to less than
+proportionate increase in output, returns to scale are decreasing. It is needless to say that
+this law operates in the long run when all the factors can be changed in the same proportion
+simultaneously.
+
+It should be remembered that increasing returns to scale is not the same as increasing
+marginal returns. Increasing returns to scale applies to `long run' in which all inputs can be
+changed. Increasing marginal returns refers to the short run in which at least one input is
+fixed. The existence of fixed inputs in the short run gives rise to increasing and later to
+diminishing marginal returns.
+
+Constant Returns to Scale: As stated above, constant returns to scale means that with the
+increase in the scale in some proportion, output increases in the same proportion. Constant
+returns to scale, otherwise called as "Linear Homogeneous Production Function", may be
+expressed as follows:
+
+                                                     kQx = f( kK, kL)
+
+                                                          = k (K, L)
+
+If all the inputs are increased by a certain amount (say k) output increases in the same
+proportion (k). It has been found that an individual firm passes through a long phase of
+constant returns to scale in its lifetime.
+
+Increasing Returns to Scale: As stated earlier, increasing returns to scale means that output
+increases in a greater proportion than the increase in inputs. When a firm expands,
+increasing returns to scale are obtained in the beginning. For example, a wooden box of 3 ft.
+cube contains 9 times greater wood than the wooden box of 1 foot-cube. But the capacity of
+the 3 foot- cube box is 27 times greater than that of the one foot cube. Many such examples
+are found in the real world. Another reason for increasing returns to scale is the indivisibility
+
+© The Institute of Chartered Accountants of India
+       THEORY OF PRODUCTION AND COST               3.29
+                                                                  v
+
+of factors. Some factors are available in large and lumpy units and can, therefore, be utilised
+with utmost efficiency at a large output. If all the factors are perfectly divisible, increasing
+returns may not occur. Returns to scale may also increase because of greater possibilities of
+specialisation of land and machinery.
+
+Decreasing Returns to Scale: When output increases in a smaller proportion relative to an
+increase in all inputs, decreasing returns to scale are said to prevail. When a firm goes on
+expanding by increasing all inputs, decreasing returns to scale set in. Decreasing returns to
+scale eventually occur because of increasing difficulties of management, coordination and
+control. When the firm has expanded to a very large size, it is difficult to manage it with the
+same efficiency as earlier.
+
+The Cobb-Douglas production function, explained earlier is used to explain "returns to scale"
+in production. Originally, Cobb and Douglas assumed that returns to scale are constant. The
+function was constructed in such a way that the exponents summed to a+1-a=1. However,
+later they relaxed the requirement and rewrote the equation as follows:
+
+                                                        Q = K La C b
+
+Where `Q' is output, `L' the quantity of labour and `C' the quantity of capital, `K' and `a' and
+`b' are positive constants.
+
+If a + b > 1 Increasing returns to scale result i.e. increase in output is more than the
+                   proportionate increase in the use of factors (labour and capital).
+
+a+b=1  Constant returns to scale result i.e. the output increases in the same
+       proportion in which factors are increased.
+
+a+b<1  decreasing returns to scale result i.e. the output increases less than the
+       proportionate increase in the labour and capital.
+
+    1.3 PRODUCTION OPTIMISATION
+
+Normally, a profit maximising firm is interested to know what combination of factors of
+production (or inputs) would minimise its cost of production for a given output. This can be
+known by combining the firm's production and cost functions, namely isoquants and iso-
+cost lines respectively.
+
+Isoquants: Isoquants are similar to indifference curves in the theory of consumer behaviour.
+An isoquant represents all those combinations of inputs which are capable of producing the
+same level of output. Since an isoquant curve represents all those combination of inputs
+which yield an equal quantity of output, the producer is indifferent as to which comb ination
+he chooses. Therefore, Isoquants are also called equal-product curves, production
+
+© The Institute of Chartered Accountants of India
+3.30                BUSINESS ECONOMICS
+
+indifference curves or iso-product curves. The concept of isoquant can be easily understood
+with the help of the following schedule.
+
+       Table 2 : Various combinations of X and Y to produce a given level of output
+
+Factor combination  Factor X  Factor Y  MRTS
+             A           1        12
+             B           2        08       4
+             C           3        05       3
+             D           4        03       2
+             E           5        02       1
+
+When we plot the various combinations of factor X and factor Y, we get a curve IQ as shown
+in Figure 2.
+
+                                  Fig. 2 : Equal Product Curve or Isoquant
+Isoquants have properties similar to indifference curves. Isoquants are negatively sloped,
+convex to the origin due to diminishing marginal rate of technical substitution (MRTS) and
+are non-intersecting. However, there is one important difference between the two: whereas
+in an indifference curve it is not possible to quantify the level of satisfaction acquired by the
+consumer, the level of production acquired by the producer is easily quantified. Thus, while
+isoquant IQ1 represents 100 units, curves IQ2, IQ3 etc. representing higher levels of
+production can be drawn. While a curve on the right represents a higher level of output that
+on the left represents a lower level of output.
+Isocost or Equal-cost Lines: Isocost line, also known as budget line or the budget constraint
+line, shows the various alternative combinations of two factors which the firm can buy with
+
+  © The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST  3.31
+                                              v
+
+given outlay. Suppose a firm has ` 1,000 to spend on the two factors X and Y. If the price of
+factor X is ` 10 and that of Y is ` 20, the firm can spend its outlay on X and Y in various
+ways. It can spend the entire amount on X and thus buy 100 units of X and zero units of Y or
+it can spend the entire outlay on Y and buy 50 units of it with zero units of X factor. In
+between, it can have any combination of X and Y. Whatever be the combination of factors
+the firm chooses, the total cost to the firm remains the same. In other words, all points on a
+budget line would cost the firm the same amount.
+
+We can show the iso-cost line diagrammatically also. The X-axis shows the units of factor X
+and Y-axis the units of factor Y. When the entire ` 1,000 is spent on factor X, we get OB of
+factor X and when the entire amount is spent on factor Y we get OA of factor Y. The straight
+line AB which joins points A and B will pass through all combinations of factors X and Y
+which the firm can buy with outlay of ` 1,000. The line AB is called iso-cost line.
+
+                                                 Fig. 3: Iso-cost lines
+Figure 3 shows various iso-cost lines representing different combinations of factors with
+different outlays. Isoquants, which represent the technical conditions of production for a
+product and iso-cost lines which represent various `levels of cost or outlay' (given the prices
+of two factors) can help the firm to optimize its production. It may try to minimise its cost
+for producing a given level of output or it may try to maximise the output for a given cost or
+outlay. Suppose the firm has already decided about the level of output to be produced.
+Then the question is with which factor combination the firm should try to produce the pre-
+decided level of output. The firm will try to use the least-cost combination of factors. The
+least cost combination of factors can be found by super-imposing the isoquant that
+represents the pre decided level of output on the iso-cost lines. This is shown in Figure 4.
+
+  © The Institute of Chartered Accountants of India
+3.32  BUSINESS ECONOMICS
+
+                Fig. 4 : Least-cost Combination of Factors: Producer's Equilibrium
+Suppose the firm has decided to produce 1,000 units (represented by iso-quant P). These
+units can be produced by any factor combination lying on P such as A, B, C, D, E, etc. The
+cost of producing 1,000 units would be minimum at the factor combination represented by
+point C where the iso-cost line MM1 is tangent to the given isoquant P. At all other points
+such as A, B, D, E the cost is more as these points lie on higher iso-cost lines Compared to
+MM1. Thus, the factor combination represented by point C is the optimum combination for
+the producer. It represents the least-cost of producing 1,000 units of output. It is thus clear
+that the tangency point of the given isoquant with an iso-cost line represents the least cost
+combination of factors for producing a given output.
+
+SUMMARY
+
+ Production is the outcome of the combined activity of the four factors of production
+         viz, land, labour, capital and organization. In simple terms production, means
+         `creation of utility'. i.e. Utility of form, utility of place, utility of time and personal
+         utility.
+
+ Production does not include work done out of love and affection, voluntary services
+         and goods produced for self-consumption. Intention to exchange in the market is an
+         essential component of production.
+
+ Land includes all those free natural resources whose supply for the economy as a
+         whole is fixed.
+
+  © The Institute of Chartered Accountants of India
+THEORY OF PRODUCTION AND COST                      3.33
+                                                                  v
+
+ Labour is all human efforts of body or of mind undergone partly or wholly with a
+         view to secure an income apart from the pleasure derived directly from the work.
+
+ Capital is that part of wealth of an individual or community which is used for further
+         production of wealth. Capital, a stock concept, refers to produced means of
+         production and it comprises of man-made machines and materials which are used for
+         further production.
+
+ Capital formation, also known as investment, means a sustained increase in the stock
+         of real capital in a country. There are mainly three stages of capital formation viz.
+         Savings which depends on ability to save and willingness to save; Mobilisation of
+         savings which depends on availability of financial institutions and products; and
+         Investment i.e. the process whereby the real savings get converted into real capital
+         assets.
+
+ Entrepreneur is the person who organises business; initiates production, remunerates
+         other factors of production, introduces innovations and bears the risk and
+         uncertainties of business.
+
+ The objectives of an enterprise may be broadly categorised under the following
+         heads. (i) Organic objectives (ii) Economic objectives (iii) Social objectives (iv) Human
+         objectives (v) National objectives.
+
+ An enterprise faces a number of problems from its inception, through its life time
+         and till its closure. These may relate to objectives, location, size, physical facilities,
+         finance, organization structure, marketing, legal formalities and industrial relations.
+
+ Factors of production can be divided into two categories ­ Fixed factors are those
+         factors whose quantity remains unchanged with changes in output within a capacity
+         and variable factors are those the quantity of which change with a change in the lev el
+         of output.
+
+ Production function is the technical relationship between inputs and output.
+         Samuelson describes production function as the relationship between the maximum
+         amount of output that can be produced and the input required to make that output.
+         It is defined for a given state of technology.
+
+ The law of variable proportion or the law of diminishing returns is relevant when
+         some factors are kept fixed and others are varied. It is applicable to the short-run.
+
+ There are three stages of the law of variable proportion ­ where law of increasing
+         returns, law of diminishing returns and law of negative returns operate.
+
+ Total product is the total output resulting from the efforts of all the factors of
+         production combined together at any time.
+
+© The Institute of Chartered Accountants of India
+3.34  BUSINESS ECONOMICS
+
+ Marginal product is the change in total product per unit change in the quantity of
+         variable factor.
+
+ Average product is the total product per unit of the variable factor.
+
+ The Law of returns to scale describes the relationship between inputs and output in
+         the long run when all inputs are changed in the same proportion. Returns to scale
+         may be constant, increasing and decreasing.
+
+ Constant returns to scale occur when the inputs increase by some proportion and the
+         output also increases by the same proportion. It is also called linear homogeneous
+         production function.
+
+ Increasing returns to scale occur when the inputs increase by some proportion and
+         the output increases more than proportionately.
+
+ Decreasing returns to scale occur when the inputs increase by some proportion and
+         the output increases less than proportionately.
+
+ Isoquants or product indifference curves show all those combinations of different
+         factors of production which give the same output to the producer.
+
+ Iso-cost lines show various combinations of two factors which the firm can buy with
+         given expenditure or outlay.
+
+ By combining Isoquants and iso-cost lines, a producer can find out the combination
+         of factors of production which is optimum i.e. the combination of factors of
+         production which would minimise his cost of production.
+
+ For producing a given output, the tangency point of the relevant isoquant
+         (representing the output) with an iso-cost line represents the least cost combination
+         of factors.
+
+© The Institute of Chartered Accountants of India
+

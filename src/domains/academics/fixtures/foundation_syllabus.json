@@ -232,11 +232,13 @@
           "sortOrder": 1,
           "children": [
             { "type": "CHAPTER", "name": "Chapter 1: Ratio and Proportion, Indices and Logarithms", "code": "FND_P3_CH1", "sortOrder": 1 },
-            { "type": "CHAPTER", "name": "Chapter 2: Equations and Linear Inequalities", "code": "FND_P3_CH2", "sortOrder": 2 },
-            { "type": "CHAPTER", "name": "Chapter 3: Mathematics of Finance (Interest and Annuity)", "code": "FND_P3_CH3", "sortOrder": 3 },
-            { "type": "CHAPTER", "name": "Chapter 4: Permutations and Combinations", "code": "FND_P3_CH4", "sortOrder": 4 },
-            { "type": "CHAPTER", "name": "Chapter 5: Sequence and Series (AP & GP)", "code": "FND_P3_CH5", "sortOrder": 5 },
-            { "type": "CHAPTER", "name": "Chapter 6: Sets, Relations, Functions and Differential Calculus", "code": "FND_P3_CH6", "sortOrder": 6 }
+            { "type": "CHAPTER", "name": "Chapter 2: Equations", "code": "FND_P3_CH2", "sortOrder": 2 },
+            { "type": "CHAPTER", "name": "Chapter 3: Linear Inequalities", "code": "FND_P3_CH3", "sortOrder": 3 },
+            { "type": "CHAPTER", "name": "Chapter 4: Mathematics of Finance", "code": "FND_P3_CH4", "sortOrder": 4 },
+            { "type": "CHAPTER", "name": "Chapter 5: Basic Principles of Permutations and Combinations", "code": "FND_P3_CH5", "sortOrder": 5 },
+            { "type": "CHAPTER", "name": "Chapter 6: Sequence and Series - AP & GP", "code": "FND_P3_CH6", "sortOrder": 6 },
+            { "type": "CHAPTER", "name": "Chapter 7: Sets, Relations and Functions", "code": "FND_P3_CH7", "sortOrder": 7 },
+            { "type": "CHAPTER", "name": "Chapter 8: Basic Applications of Differential and Integral Calculus", "code": "FND_P3_CH8", "sortOrder": 8 }
           ]
         },
         {
@@ -245,10 +247,10 @@
           "code": "FND_P3_SECB",
           "sortOrder": 2,
           "children": [
-            { "type": "CHAPTER", "name": "Chapter 7: Number Series, Coding and Decoding", "code": "FND_P3_CH7", "sortOrder": 1 },
-            { "type": "CHAPTER", "name": "Chapter 8: Direction Tests", "code": "FND_P3_CH8", "sortOrder": 2 },
-            { "type": "CHAPTER", "name": "Chapter 9: Seating Arrangements", "code": "FND_P3_CH9", "sortOrder": 3 },
-            { "type": "CHAPTER", "name": "Chapter 10: Blood Relations", "code": "FND_P3_CH10", "sortOrder": 4 }
+            { "type": "CHAPTER", "name": "Chapter 9: Number Series, Coding and Decoding and Odd Man Out", "code": "FND_P3_CH9", "sortOrder": 1 },
+            { "type": "CHAPTER", "name": "Chapter 10: Direction Tests", "code": "FND_P3_CH10", "sortOrder": 2 },
+            { "type": "CHAPTER", "name": "Chapter 11: Seating Arrangements", "code": "FND_P3_CH11", "sortOrder": 3 },
+            { "type": "CHAPTER", "name": "Chapter 12: Blood Relations", "code": "FND_P3_CH12", "sortOrder": 4 }
           ]
         },
         {
@@ -257,11 +259,12 @@
           "code": "FND_P3_SECC",
           "sortOrder": 3,
           "children": [
-            { "type": "CHAPTER", "name": "Chapter 11: Statistical Representation of Data", "code": "FND_P3_CH11", "sortOrder": 1 },
-            { "type": "CHAPTER", "name": "Chapter 12: Measures of Central Tendency and Dispersion", "code": "FND_P3_CH12", "sortOrder": 2 },
-            { "type": "CHAPTER", "name": "Chapter 13: Probability and Theoretical Distributions", "code": "FND_P3_CH13", "sortOrder": 3 },
-            { "type": "CHAPTER", "name": "Chapter 14: Correlation and Regression", "code": "FND_P3_CH14", "sortOrder": 4 },
-            { "type": "CHAPTER", "name": "Chapter 15: Index Numbers", "code": "FND_P3_CH15", "sortOrder": 5 }
+            { "type": "CHAPTER", "name": "Chapter 13: Statistical Representation of Data", "code": "FND_P3_CH13", "sortOrder": 1 },
+            { "type": "CHAPTER", "name": "Chapter 14: Measures of Central Tendency and Dispersion", "code": "FND_P3_CH14", "sortOrder": 2 },
+            { "type": "CHAPTER", "name": "Chapter 15: Probability", "code": "FND_P3_CH15", "sortOrder": 3 },
+            { "type": "CHAPTER", "name": "Chapter 16: Theoretical Distributions", "code": "FND_P3_CH16", "sortOrder": 4 },
+            { "type": "CHAPTER", "name": "Chapter 17: Correlation and Regression", "code": "FND_P3_CH17", "sortOrder": 5 },
+            { "type": "CHAPTER", "name": "Chapter 18: Index Numbers", "code": "FND_P3_CH18", "sortOrder": 6 }
           ]
         }
       ]
@@ -273,7 +276,7 @@
       "nodes": [
         {
           "type": "CHAPTER",
-          "name": "Chapter 1: Introduction to Business Economics",
+          "name": "Chapter 1: Nature & Scope of Business Economics",
           "code": "FND_P4_CH1",
           "sortOrder": 1,
           "children": [
@@ -313,51 +316,60 @@
         },
         {
           "type": "CHAPTER",
-          "name": "Chapter 5: Determination of National Income",
+          "name": "Chapter 5: Business Cycles",
           "code": "FND_P4_CH5",
           "sortOrder": 5,
           "children": [
-            { "type": "TOPIC", "name": "Concepts of Macroeconomics and National Income Aggregates", "code": "FND_P4_CH5_T1", "sortOrder": 1 },
-            { "type": "TOPIC", "name": "Keynesian Theory of Determination of National Income", "code": "FND_P4_CH5_T2", "sortOrder": 2 }
+            { "type": "TOPIC", "name": "Phases of Business Cycles and Characteristics", "code": "FND_P4_CH5_T1", "sortOrder": 1 }
           ]
         },
         {
           "type": "CHAPTER",
-          "name": "Chapter 6: Public Finance",
+          "name": "Chapter 6: Determination of National Income",
           "code": "FND_P4_CH6",
           "sortOrder": 6,
           "children": [
-            { "type": "TOPIC", "name": "Fiscal Functions and Market Failure", "code": "FND_P4_CH6_T1", "sortOrder": 1 },
-            { "type": "TOPIC", "name": "Fiscal Policy and Public Debt", "code": "FND_P4_CH6_T2", "sortOrder": 2 }
+            { "type": "TOPIC", "name": "Concepts of Macroeconomics and National Income Aggregates", "code": "FND_P4_CH6_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Keynesian Theory of Determination of National Income", "code": "FND_P4_CH6_T2", "sortOrder": 2 }
           ]
         },
         {
           "type": "CHAPTER",
-          "name": "Chapter 7: Money Market",
+          "name": "Chapter 7: Public Finance",
           "code": "FND_P4_CH7",
           "sortOrder": 7,
           "children": [
-            { "type": "TOPIC", "name": "Concept of Money Demand and Supply", "code": "FND_P4_CH7_T1", "sortOrder": 1 },
-            { "type": "TOPIC", "name": "Monetary Policy Instruments", "code": "FND_P4_CH7_T2", "sortOrder": 2 }
+            { "type": "TOPIC", "name": "Fiscal Functions and Market Failure", "code": "FND_P4_CH7_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Fiscal Policy and Public Debt", "code": "FND_P4_CH7_T2", "sortOrder": 2 }
           ]
         },
         {
           "type": "CHAPTER",
-          "name": "Chapter 8: International Trade",
+          "name": "Chapter 8: Money Market",
           "code": "FND_P4_CH8",
           "sortOrder": 8,
           "children": [
-            { "type": "TOPIC", "name": "Theories of International Trade and Trade Policies", "code": "FND_P4_CH8_T1", "sortOrder": 1 },
-            { "type": "TOPIC", "name": "Exchange Rate and Foreign Direct Investment", "code": "FND_P4_CH8_T2", "sortOrder": 2 }
+            { "type": "TOPIC", "name": "Concept of Money Demand and Supply", "code": "FND_P4_CH8_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Monetary Policy Instruments", "code": "FND_P4_CH8_T2", "sortOrder": 2 }
           ]
         },
         {
           "type": "CHAPTER",
-          "name": "Chapter 9: Indian Economy",
+          "name": "Chapter 9: International Trade",
           "code": "FND_P4_CH9",
           "sortOrder": 9,
           "children": [
-            { "type": "TOPIC", "name": "Key Characteristics and Sectoral Trends of the Indian Economy", "code": "FND_P4_CH9_T1", "sortOrder": 1 }
+            { "type": "TOPIC", "name": "Theories of International Trade and Trade Policies", "code": "FND_P4_CH9_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Exchange Rate and Foreign Direct Investment", "code": "FND_P4_CH9_T2", "sortOrder": 2 }
+          ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 10: Indian Economy",
+          "code": "FND_P4_CH10",
+          "sortOrder": 10,
+          "children": [
+            { "type": "TOPIC", "name": "Key Characteristics and Sectoral Trends of the Indian Economy", "code": "FND_P4_CH10_T1", "sortOrder": 1 }
           ]
         }
       ]

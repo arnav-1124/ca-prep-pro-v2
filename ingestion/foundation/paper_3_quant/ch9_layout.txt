@@ -1,0 +1,522 @@
+9 chapter
+
+Number Series, Coding Decoding
+and Odd man out Series
+
+LEARNING OBJECTIVES
+
+w This Section deals with questions on which series or letters in some order, Coding and decoding
+w These terms of the series or letters are follows certain pattern throughout
+
+     9.1 Series
+
+Series Classified into Two Types, Namely
+A. Number Series
+B. Alphabet Series
+A. Number Series
+Case 1: Missing terms of the series
+In these type the questions we have to identify the missing term of the series according to a specific
+pattern of the series rule to form its code. The students are required to detect the missing number of
+the series and answer the questions accordingly.
+Example 1: Find the missing term of the series 2, 7, 16, ______ , 46, 67, 92
+Explanation: Here the terms of the series are +5, +9, +13, +17, +21 , +25...
+Thus, 2 + 5 = 7; and 7 + 9 = 16 ...
+So missing term = 16 + 13 = 29
+Example 2: Find the wrong terms of the series 9, 29, 65, 126, 217, 344
+Explanation: 23+1; 33 + 1; 43 + 1; 53 + 1; 63 + 1; 73 + 1
+Here 29 is wrong term of series
+Example 3: Find the missing term of the series 1,9, 25, 49, 81, 121, .............
+Solution: The given terms of the series consists square of consecutive odd number 12, 32, 52, 72, ....
+So missing value = 132 = 169
+
+           © The Institute of Chartered Accountants of India
+9.2  Logical reasoning
+
+B. Alphabet series
+
+Alphabet series consists of letters of the alphabets placed in a specific pattern. For example, the series
+are in the following order of the numbers.
+
+  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+  A B C D E F GH I J K LMNO P Q R S T U VWX Y Z
+ 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
+
+Example 4: Find the next term of the series BKS, DJT, FIU, HHV?
+
+Explanation: In each term, the first letter is moved two steps forward, the second letter one step
+backward and third letter one step forward to obtain the corresponding letter of the next term. So the
+missing term is JGW.
+
+C. Letter Series:
+
+These type of question usually consist of a series of small letters which follow a certain pattern.
+However some letters are missing from the series. These missing letters are then given in a proper
+sequence as one of the alternatives.
+
+Example 5: aab, ____, aaa, bba, ____
+
+(a) baa (b) abb (c) bab (d) aab
+
+1) The first blank space should be filled in by `b' so that we have two a's by two b's.
+
+2) The second blank place should be `a', so that we have three a's followed by three b's.
+
+3) The last space must be filled in by `a'.
+
+4) Thus we have two possible answers ­ `baa'and `bba'.
+
+5) But only `baa'appears in the alternatives.
+
+So the answer (a) is correct.
+
+     9.2 Coding and Decoding
+
+Before transmitting, the data is encoded and at receiver side encode data is decoded in order to obtain
+original data by determining common key in encoded data.
+The Coding and Decoding is classified into the following types.
+Type 1: Letter Coding
+Type 2: Number Coding
+
+Type 1: Letter Coding
+In these type the real alphabets in a word are replaced by certain other alphabets according to a specific
+rule to form its code. The candidate is required to detect the common rule and answer the questions
+accordingly.
+
+     © The Institute of Chartered Accountants of India
+  Number Series, Coding Decoding and Odd man out Series                                         9.3
+
+Case1: To form the code for another word
+
+Example 6: If in a certain language MYSTIFY is coded as NZTUJGZ, how is MENESIS coded in that
+language?
+
+Explanation: Clearly, each letter in the word MYSTIFY is moved one step forward to obtain the
+corresponding letter of the code.
+
+                                                          MYSTIFY
+
+                                                                +1 
+                                                          NZTUJGZ
+
+So, in MENESIS, N will be coded as O, E as F, M as N and so on. Thus, the code becomes NFOFTJT.
+
+Example 7: If TAP is coded as SZO, then how is FRIEND coded?
+
+Explanation: Clearly each letter in the word TAP is moved one step backward to obtain the
+corresponding letter of the code.
+
+                                                               SZO
+
+                                                                 -1 
+                                                                TAP
+
+Thus, in FRIEND, F will be coded as E, R as Q , I as H, E as D, N as M and D as C. So, the code becomes
+EQHDMC.
+
+Example 8: In a certain code, MENTION is written as LNEITNO. How is PRESENT written in that
+code?
+
+Explanation: Clearly, to obtain the code, the first letter of the word MENTION is moved one step
+backward and the remaining letters are Reversed in order, taking two at a time. So, in PRESENT,
+P will be coded as O, and the sequence of the remaining letter in the code would be ERESTN. Thus
+the code becomes OERESTN. Hence, The answer is OERESTN.
+
+Case 2: To find the word by analysing the given code (DECODING)
+
+Example 9: If in a certain language CARROM is coded as BZQQNL, which word will be coded as
+HORSE?
+
+Explanation: Each letter of the word is one step ahead of the corresponding letter of the code
+
+  BZQQNL    HORSE
+
+  ||| | ||  || |||
+
+  CARROM    I P STF
+
+     So, H is coded as I, O as P, R as S, S as T and E as F. HORSE is coded a IPSTF.
+
+Type 2: Number Coding
+
+In these questions, either numerical code values are assigned to a word or alphabetical code letters
+are assigned to the numbers. The candidate is required to analyse the code as per the directions.
+
+           © The Institute of Chartered Accountants of India
+9.4          Logical reasoning
+
+Case 1: When a numerical code values are assigned to words.
+
+Example 10: If in a certain language A is coded as 1, B is coded as 2, and so on, how is AICCI is coded
+in that code?
+Explanation: As given the letters are coded as
+
+      AB CD E F GH I
+       123456789
+So in AICCI, A is coded as 1, I as 9,and C as 3. Thus, AICCI is coded as 19339.
+Example 11: If PAINT is coded as 74128 and EXCEL is coded as 93596, then how would you encode
+ANCIENT ?
+Explanation: Clearly, in the given code, the alphabets are coded as follows:
+      PA I NT EXCL
+       74 1 2 8 9 3 5 6
+So, in ANCIENT, A is coded as 4, N is coded as 2, C as 5, I is coded as 1, E as 9, and T as 8. Hence, the
+correct code is 4251928.
+
+Case 2: Number to letter coding.
+
+Example 12: In a certain code, 2 is coded as P, 3 as N, 9 as Q, 5 as R, 4 as A and 6 as B. How is 423599
+coded in that code?
+Explanation: Clearly as given, 4 as A, 2 as P, 3 as N and 5 is coded as R, 9 as Q. So, 423599 is coded as
+APNRQQ.
+
+     9.3 odd man out
+
+Classification means `to assort the items' of a given group on the basis of a certain common quality
+they possess and then spot the stranger or `odd one out'.
+
+These questions are based on words, letters and numerals. In these types of problems, we consider
+the defining quality of particular things. In these questions, four or five elements are given, out of
+which one does not belong to the group. You are required to find the 'odd one'.
+
+Example 13: January, May, July, November
+
+(a) January   (b) May                      (c) July     (d) November
+
+Explanation: All the months above are 31 days , whereas , November 30 days
+
+Answer: (d)
+
+Example 14: 10, 14, 16, 18, 23, 24 and 26
+
+(a) 26        (b) 17                       (c) 23       (d) 9
+
+Explanation: Each of the above series are even number, except 23.
+
+Answer: (c)
+
+Example 15: 6, 9, 15, 21, 24, 26, 30
+
+(a) 9         (b) 26                       (c) 24       (d) 30
+
+     © The Institute of Chartered Accountants of India
+                                 Number Series, Coding Decoding and Odd man out Series  9.5
+
+Explanation: All are multiples of 3, except 26, answer (b)
+
+Answer: (b)
+
+Example 16: 1, 5, 14, 30, 51, 55, 91
+
+(a) 5  (b) 55                           (c) 51      (d) 91
+
+Explanation: Each pattern is 12, 12 + 22, 12 + 22 + 32, 12 + 22 + 32 + 42, 12 + 22 + 32 + 42+ 52, 12 + 22 + 32 + 42 +
+52 + 62
+
+But 51, is not of the form.
+
+Answer: (c)
+
+Example 17: 16, 25, 36, 62, 144, 196, 225
+
+(a) 36 (b) 62 (c) 196 (d) 144
+
+Explanation:
+
+Each of the number except 62, is a perfect square.
+
+Answer: (b)
+
+Exercise 9(A)
+
+(Note: Questions are taken from previous exam questions papers of Competitive exams like SSC,
+RRB, MAT, UPSC etc.)
+
+Choose the most appropriate answer (a) or (b) or (c) or (d).
+
+1) 6, 11, 21, 36, 56 ?
+
+(a) 42                         (b) 51              (c) 81     (d) 91
+
+2) 10 , 100, 200, 310 ?
+
+(a) 400                        (b) 410             (c) 420    (d) 430
+
+3) 11, 13, 17, 19, 23, 25, 29 ?
+
+(a) 33                         (b) 27              (c) 31     (d) 49
+
+4) 6, 12, 21, 33 ?
+
+(a) 33                         (b) 38              (c) 40     (d) 48
+
+5) 2, 5, 9, 14, ? , 27
+
+(a) 20                         (b) 16              (c) 18     (d) 24
+
+6) 6, 11, 21, ? , 56, 81
+
+(a) 42                         (b) 36              (c) 91     (d) 51
+
+7) 10, 18, 28, 40, 54, ?, 88
+
+(a) 70                         (b) 86              (c) 87     (d) 98
+
+8) 120, 99, ?, 63, 48, 35
+
+(a) 80                         (b) 36              (c) 45     (d) 40
+
+© The Institute of Chartered Accountants of India
+9.6  Logical reasoning
+
+9) 22, 24, 28, 36, ? , 84
+
+     (a) 44                     (b) 52                  (c) 38    (d) 54
+                                                                  (d) 8887
+10) 4832, 5840, 6848, 7856 ?                                      (d) 590
+                                                                  (d) 42
+     (a) 8864                   (b) 8815                (c) 8846  (d) 30
+                                                                  (d) 197
+11) 10, 100, 200, 310, 430 ?                                      (d) 80
+                                                                  (d) 47
+     (a) 560                    (b) 540                 (c) 550   (d) 164
+                                                                  (d) 110
+12) 28, 33, 31, 36, 34 ?                                          (d) 40
+                                                                  (d) 50
+     (a) 38                     (b) 39                  (c) 40    (d) 69
+                                                                  (d) 54
+13) 120, 80, 40, 45, ?, 15                                        (d) 395
+                                                                  (d) 40
+     (a) 15                     (b) 20                  (c) 25
+
+14) 2, 15, 41, 80, 132 ?
+
+     (a) 184                    (b) 144                 (c) 186
+
+15) 6, 17, 39, ?, 116
+
+     (a) 72                     (b) 75                  (c) 85
+
+16) 1, 4, 10, 22, ?, 94
+
+     (a) 46                     (b) 48                  (c) 49
+
+17) 4, 9, 25, 49, ? , 169, 289, 361
+
+     (a) 120                    (b) 121                 (c) 122
+
+18) 4, 12, 36, ? , 324
+
+     (a) 107                    (b) 109                 (c) 108
+
+19) 1, 1, 4, 8 , 9, ? , 16, 64
+
+     (a) 27                     (b) 28                  (c) 32
+
+20) 5760, 960, 192, ? 16, 8
+
+     (a) 47                     (b) 48                  (c) 52
+
+21) 1, 2, 6, 7, 21, 22, 66, ? , 201
+
+     (a) 69                     (b) 68                  (c) 67
+
+22) 48, 24, 96 , ? 192
+
+     (a) 48                     (b) 47                  (c) 44
+
+23) 165, 195, 255, 285, ?, 375
+
+     (a) 345                    (b) 390                 (c) 335
+
+24) 2, 3, 3, 5, 10, 13, 39, ?, 172, 177
+
+     (a) 42                     (b) 44                  (c) 43
+
+     © The Institute of Chartered Accountants of India
+                                 Number Series, Coding Decoding and Odd man out Series    9.7
+
+25) 7, 26, 63, 124, 215, ?, 511
+
+(a) 342                        (b) 343             (c) 441      (d) 421
+
+26) 3, 7, 15, 31, ? 127
+
+(a) 62                         (b) 63              (c) 64       (d) 65
+
+27) 8, 28, 116, 584, ?
+
+(a) 1752                       (b) 3502            (c) 3504     (d) 3508
+
+28) 6, 13, 28, 59, ?
+
+(a) 122                        (b) 114             (c) 113      (d) 112
+
+29) 2, 7, 27, 107, 427, ?
+
+(a) 1707                       (b) 4027            (c) 4207     (d) 1207
+
+30) 5, 2, 7, 9, 16, 25, 41, ?
+
+(a) 65                         (b) 66              (c) 67       (c) 68
+
+31) In a certain language, MADRAS is coded NBESBT, how DELHI is coded in that code?
+
+(a) EMMJI                      (b) EFMIJ           (c) EMFIJ    (d) JIFEM
+
+32) If RAMAN is written as 12325 and DINESH as 675489 how HAMAM is written?
+
+(a) 92323                      (b) 92233           (c) 93233    (d) 93292
+
+33) If RED is coded as 6720 then GREEN would be coded as
+
+(a) 9207716                    (b) 167129          (c) 1677209  (d) 1672091
+
+34) If A = 1, FAT = 27, FAITH = ?
+
+(a) 44                         (b) 45              (c) 46       (d) 36
+
+35) If BROTHER is coded 2456784, SISTER coded as 919684, what is coded for BORBERS?
+
+(a) 2542849                    (b) 2542898         (c) 2454889  (d) 2524889
+
+36) If DELHI is coded 73541 and CALCUTTA as 82589662, How can CALICUT be coded?
+
+(a) 5279431                    (b) 5978213         (c) 8251896  (d) 8543962
+
+37) If CLOCK is coded 34235 and TIME is 8679, what will be code of MOTEL?
+
+(a) 72894                      (b) 77684           (c) 72964    (d) 27894
+
+38) If PALE is coded as 2134 and EARTH is coded as 41590, how is PEARL is coded ?
+
+(a) 29530                      (b) 24153           (c) 25430    (d) 254313
+
+39) If LOSE is coded as 1357 and GAIN is coded as 2468, what do figure 82146 stands for?
+
+(a) NGLAI                      (b) NGLIA           (c) GNLIA    (d) GNLIA
+
+40) If MEKLF is coded as 91782 and LLLJK as 88867, how can IHJED is coded as?
+
+(a) 97854                      (b) 64512           (c) 54610    (d) 75632
+
+© The Institute of Chartered Accountants of India
+9.8          Logical reasoning
+
+41) If in a certain code language NAME is written as 4258 then what is coded as MEAN ?
+
+     (a) 2458       (b) 5842                            (c) 8524        (d) 5824
+
+42) If GOLD is written as IQNF, how WIND can be written as code?
+
+     (a) YKPF       (b) VHCM                            (c) XJOE        (d) DNIW
+
+43) If ROSE is written as TQUG, how BISCUIT can be written in that code?
+
+     (a) DKUEWKV    (b) CJTDVJU                         (c) DKVEWKV     (d) DKUEWKY
+
+LETTER: C Z N V R S W F D
+
+CODE DIGIT: 8 6 4 7 2 9 3 5 1
+
+(Q. No. 44-46) In each of the following questions find out the correctly coded alternative from amongst
+the given four alternatives (a), (b), (c), (d).
+
+44) ZDRCVF
+
+     (a) 612875     (b) 619875                          (c) 612845      (d) 612835
+
+45) WNCSZV
+
+     (a) 348267     (b) 318267                          (c) 348957      (d) 348967
+
+46) RDNFVS
+
+     (a) 21679      (b) 216549                          (c) 214579      (d) 218579
+
+47) If DELHI is coded as CCIDD, how would you encode BOMBAY?
+
+     (a) AJMTVT     (b) AMJXVS                          (c) MJXVSU      (d) WXYZAX
+
+48)In a certain code, RIPPLE is written as 613382 and LIFE is written as 8192. How is PILLER written
+     in that code?
+
+     (a) 318826     (b) 318286                          (c) 618826      (d) 338816
+
+49) If PALAM could be given the code number 43, what code number can be given to SANTACRUZ?
+
+     (a) 123        (b) 85                              (c) 120         (d) 125
+
+     Directions: The number in each question below is to be codified in the following code:
+
+     Digit       7  2           1                       5         3  9         8    6        4
+
+     Letter      W  L           M                       S         I  N    D         J        B
+
+50) 184632
+
+     (a) MDJBSI     (b) MDJBIL                          (c) MDJBWL      (d) MDBJIL
+
+51)In a certain code `256' means `you are good', `637' means `we are bad' and `358' means `good and
+     bad'. Which of the following represents `and' in that code?
+
+     (a) 2          (b) 5                               (c) 8           (d) 3
+
+     © The Institute of Chartered Accountants of India
+                                  Number Series, Coding Decoding and Odd man out Series         9.9
+
+Directions: Find odd man out of the following (52-61):
+
+52) 3, 5, 7, 15, 17, 19
+
+(a) 15                        (b) 17               (c) 19                     (d) 7
+                                                                              (d) 18
+53) 10, 14, 16, 18, 23, 24, 26                                                (d) 36
+                                                                              (d) 53
+(a) 26                        (b) 23               (c) 24                     (d) 225
+                                                                              (d) 16
+54) 1, 4, 9, 16, 24, 25, 36                                                   (d) 91
+                                                                              (d) 532
+(a) 9                         (b) 24               (c) 25                     (d) 33
+                                                                              (d) 48
+55) 41, 43, 47, 53, 61, 71, 83, 75
+
+(a) 75                        (b) 73               (c) 71
+
+56) 16, 25, 36, 73, 144, 196, 225
+
+(a) 36                        (b) 73               (c) 196
+
+57) 1, 4, 9, 16, 19, 36, 49
+
+(a) 19                        (b) 9                (c) 49
+
+58) 1, 5, 14, 30, 49, 55, 91
+
+(a) 49                        (b) 30               (c) 55
+
+59) 835, 734, 642, 751, 853, 981, 532
+
+(a) 751                       (b) 853              (c) 981
+
+60) 4, 5, 7, 10, 14, 18, 25, 32
+
+(a) 7                         (b) 14               (c) 18
+
+61) 52, 51, 48, 43, 34, 27, 16
+
+(a) 27                        (b) 34               (c) 43
+
+Answers
+
+Exercise-9 A
+
+ 1. (c)  2. (d)           3. (c)     4. (d)        5. (a)   6. (b)   7. (a)   8. (a)   9. (b)   10. (a)
+11. (a)  12. (b)         13. (d)     14. (d)       15. (a)  16. (a)  17. (b)  18. (c)  19. (a)  20. (b)
+21. (c)  22. (a)         23. (a)     24. (c)       25. (a)  26. (b)  27. (d)  28. (a)  29. (a)  30. (b)
+31. (b)  32. (a)         33. (c)     34. (a)       35. (a)  36. (c)  37. (a)  38. (b)  39. (a)  40. (c)
+41. (d)  42. (a)         43. (a)     44. (a)       45. (d)  46. (c)  47. (b)  48. (a)  49. (a)  50. (d)
+51. (c)  52. (a)         53. (b)     54. (b)       55. (a)  56. (b)  57. (a)  58. (a)  59. (a)  60. (c)
+61. (b)
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+

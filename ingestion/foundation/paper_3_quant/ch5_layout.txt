@@ -1,0 +1,2540 @@
+CHAPTER         5
+
+BASIC CONCEPTS OF PERMUTATIONS
+AND COMBINATIONS
+
+After reading this Chapter a student will be able to understand --
+ difference between permutation and combination for the purpose of arranging different
+
+     objects;
+ number of permutations and combinations when r objects are chosen out of n different
+
+     objects.
+ meaning and computational techniques of circular permutation and permutation with
+
+     restrictions.
+
+CHAPTER OVERVIEW
+
+                                          Factorial
+
+Fundamental Principle                              Permutations  Combinations
+
+Multiplication     Addition                                      Properties of
+      Rule           Rule                                        Combinations
+
+                Properties of                        Circular    Permutations with
+                Permutations                       Permuations       restrictions
+
+© The Institute of Chartered Accountants of India
+5.2  BUSINESS MATHEMATICS
+
+In this chapter we will learn problem of arranging and grouping of certain things, taking particular
+number of things at a time. It should be noted that (a, b) and (b, a) are two different arrangements,
+but they represent the same group. In case of arrangements, the sequence or order of things is
+also taken into account.
+
+The manager of a large bank has a difficult task of filling two important positions from a group of
+five equally qualified employees. Since none of them has had actual experience, he decides to
+allow each of them to work for one month in each of the positions before he makes the decision.
+How long can the bank operate before the positions are filled by permanent appointments?
+
+Solution to above - cited situation requires an efficient counting of the possible ways in which the
+desired outcomes can be obtained. A listing of all possible outcomes may be desirable, but is
+likely to be very tedious and subject to errors of duplication or omission. We need to devise
+certain techniques which will help us to cope with such problems. The techniques of permutation
+and combination will help in tackling problems such as above.
+
+FUNDAMENTAL PRINCIPLES OF COUNTING
+
+(a) Multiplication Rule: If certain thing may be done in `m' different ways and when it has
+      been done, a second thing can be done in `n ` different ways then total number of ways of
+      doing both things simultaneously = m × n.
+
+     Eg. if one can going to school by 5 different buses and then come back by 4 different buses then
+     total number of ways of going to and coming back from school = 5 × 4 = 20.
+
+(b) Addition Rule : It there are two alternative jobs which can be done in `m' ways and in `n'
+      ways respectively then either of two jobs can be done in (m + n) ways.
+
+     Eg. if one wants to go school by bus where there are 5 buses or to by auto where there are 4
+     autos, then total number of ways of going school = 5 + 4 = 9.
+
+     Note :- 1)
+
+                           AND  Multiply
+                           OR  Add
+
+     2) The above fundamental principles may be generalised, wherever necessary.
+
+Definition: The factorial n, written as n! or n , represents the product of all integers from 1 to n
+both inclusive. To make the notation meaningful, when n = o, we define o! or 0 = 1.
+Thus, n! = n (n ­ 1) (n ­ 2) ..... ...3.2.1
+Example 1: Find 5!, 4! and 6!
+Solution: 5! = 5 × 4 × 3 × 2 × 1 = 120; 4! = 4 × 3 × 2 × 1 = 24; 6! = 6 × 5 × 4 × 3 × 2 × 1 = 720.
+
+   © The Institute of Chartered Accountants of India
+                      BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS                              5.3
+
+Example 2: Find 9 ! / 6 ! ; 10 ! / 7 !.
+
+Solution:  9 ! = 9  8  7  6 ! = 9  8  7 = 504 ; 10 ! = 10  9  8  7 !  = 10 × 9 ×  8 =720
+           6!     6!                               7!  7!
+
+Example 3: Find x if 1/9 ! + 1/10 ! = x/11 !
+Solution: 1/9! (1 + 1/10) = x/11 × 10 × 9! or, 11/10 = x/11 × 10 i.e., x = 121
+
+Example 4: Find n if n +1= 30 n  1
+
+Solution:       n + 1= 30 n  1  (n + 1).n n  1  30 n  1
+               or, n2 + n = 30 or, n2 + n ­ 30 or, n2 + 6n ­ 5n ­ 30 = 0
+                                                                          or, (n + 6) (n ­ 5) = 0
+               either n = 5 or n = ­6. (Not possible) n = 5.
+
+A group of persons want themselves to be photographed. They approach the photographer and
+request him to take as many different photographs as possible with persons standing in different
+positions amongst themselves. The photographer wants to calculate how many films does he
+need to exhaust all possibilities? How can he calculate the number?
+
+In the situations such as above, we can use permutations to find out the exact number of films.
+
+Definition: The ways of arranging or selecting smaller or equal number of persons or objects
+from a group of persons or collection of objects with due regard being paid to the order of
+arrangement or selection, are called permutations.
+
+Let us explain, how the idea of permutation will help the photographer. Suppose the group
+consists of Mr. Suresh, Mr. Ramesh and Mr. Mahesh. Then how many films does the photographer
+need? He has to arrange three persons amongst three places with due regard to order. Then the
+various possibilities are (Suresh, Mahesh, Ramesh), (Suresh, Ramesh, Mahesh), (Ramesh, Suresh,
+Mahesh), (Ramesh, Mahesh, Suresh), (Mahesh, Ramesh, Suresh) and (Mahesh, Suresh, Ramesh ).
+Thus there are six possibilities. Therefore he needs six films. Each one of these possibilities is
+called a permutation of three persons taken at a time.
+
+This may also be exhibited as follows :
+
+Alternative           Place 1                          Place2                     Place 3
+
+               1      Suresh                           Mahesh                     Ramesh
+
+               2      Suresh                           Ramesh                     Mahesh
+
+               3      Ramesh                           Suresh                     Mahesh
+                                                       Mahesh                     Suresh
+               4      Ramesh
+
+               5      Mahesh                           Ramesh                     Suresh
+
+               6      Mahesh                           Suresh                     Ramesh
+
+with this example as a base, we can introduce a general formula to find the number of
+permutations.
+
+© The Institute of Chartered Accountants of India
+5.4               BUSINESS MATHEMATICS
+
+Number of Permutations when r objects are chosen out of n different objects. (Denoted by nPr
+or nPr or P(n, r) ) :
+Let us consider the problem of finding the number of ways in which the first r rankings are
+secured by n students in a class. As any one of the n students can secure the first rank, the number
+of ways in which the first rank is secured is n.
+
+Now consider the second rank. There are (n ­ 1) students left and the second rank can be secured
+by any one of them. Thus the different possibilities are (n ­ 1) ways. Now, applying fundamental
+principle, we can see that the first two ranks can be secured in n (n ­ 1) ways by these n students.
+
+After calculating for two ranks, we find that the third rank can be secured by any one of the
+remaining (n ­ 2) students. Thus, by applying the generalized fundamental principle, the first
+three ranks can be secured in n (n ­ 1) (n ­ 2) ways .
+
+Continuing in this way we can visualise that the number of ways are reduced by one as the rank
+is increased by one. Therefore, again, by applying the generalised fundamental principle for r
+different rankings, we calculate the number of ways in which the first r ranks are secured by n
+students as
+
+  nPr= n {(n ­ 1)... n  r 1 }
+
+= n (n ­ 1) ... (n ­ r + 1)
+
+Theorem : The number of permutations of n things when r are chosen at a time
+
+                                       nPr =n ( n ­ 1 ) ( n ­ 2 ) ... ( n ­ r + 1 )
+
+where the product has exactly r factors.
+
+1 Number of permutations of n different things taken all n things at a time is given by
+
+     nPn = n (n ­ 1) (n ­ 2) .... (n ­ n + 1)
+
+     =n (n ­ 1) (n ­ 2) ..... 2.1 = n!                  ...(1)
+
+2. nPr using factorial notation.
+      nPr = n. (n ­ 1) (n ­ 2) ..... (n ­ r + 1)
+                                                     (n  r) (n  r  1) 2.1
+      = n (n ­ 1) (n ­ 2) ..... (n ­ r + 1) × 1.2 ...(n  r  1) (n  r)
+
+     = n!/( n ­ r )!                                    ...(2)
+
+Thus
+
+      n  P  r  =        n!
+                        r
+                  (  n      )!
+
+3. Justification for 0! = 1. Now applying r = n in the formula for nPr, we get
+
+     © The Institute of Chartered Accountants of India
+                                       BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS                                   5.5
+
+nPn = n!/ (n ­ n)! = n!/0!
+But from Result 1 we find that nPn = n!. Therefore, by applying this
+we derive, 0! = n! / n! = 1
+
+Example 1: Evaluate each of 5P3, 10P2, 11P5.
+Solution: 5P3 = 5×4× (5­3+1) = 5 × 4 × 3 = 60,
+
+                  10P2 = 10 × .... × (10­2+1) = 10 × 9 = 90,
+                  11P5 = 11! / (11 ­ 5)! = 11 × 10 × 9 × 8 × 7 × 6! / 6! = 11 × 10 × 9 × 8 × 7 = 55440.
+Example 2: How many three letters words can be formed using the letters of the words
+(a) SQUARE and (b) HEXAGON?
+
+(Any arrangement of letters is called a word even though it may or may not have any meaning or pronunciation).
+
+Solution:
+
+(a) Since the word `SQUARE' consists of 6 different letters, the number of permutations of
+      choosing 3 letters out of six equals 6P3 = 6 × 5 × 4 = 120.
+
+(b) Since the word `HEXAGON' contains 7 different letters, the number of permutations is
+      7P3 = 7 × 6 × 5 = 210.
+
+Example 3: In how many different ways can five persons stand in a line for a group
+photograph?
+
+Solution: Here we know that the order is important. Hence, this is the number of permutations
+of five things taken all at a time. Therefore, this equals
+
+      5P5 = 5! = 5 × 4 × 3 × 2 × 1 = 120 ways.
+
+Example 4: First, second and third prizes are to be awarded at an engineering fair in which 13
+exhibits have been entered. In how many different ways can the prizes be awarded?
+
+Solution: Here again, order of selection is important and repetitions are not meaningful as no
+exhibit can receive more than one prize. Hence , the answer is the number of permutations of 13
+things taken three at a time. Therefore, we find 13P3 = 13!/10! = 13×12×11 = 1,716 ways.
+
+Example 5: In how many different ways can 3 students be associated with 4 chartered accountants,
+assuming that each chartered accountant can take at most one student?
+
+Solution: This equals the number of permutations of choosing 3 persons out of 4. Hence , the
+answer is 4P3 = 4×3×2 = 24.
+
+Example 6: If six times the number permutations of n things taken 3 at a time is equal to seven
+times the number of permutations of (n ­ 1) things taken 3 at a time, find n.
+
+Solution:  We  are  given  that  6  ×  nP3  =  7   ×  P n-1     and  we  have  to  solve  this  equality  to  find  the  value
+                                                             3
+
+of n. Therefore,
+
+      6 n  7 n1
+         n-3 n-4
+
+or, 6 n (n ­ 1) (n ­ 2) = 7 (n ­ 1) (n ­ 2) (n ­ 3)
+or, 6 n = 7 (n ­ 3)
+
+© The Institute of Chartered Accountants of India
+5.6         BUSINESS MATHEMATICS
+
+or, 6 n = 7n ­ 21
+or, n = 21
+
+      Therefore, the value of n equals 21.
+
+Example 7: Compute the sum of 4 digit numbers which can be formed with the four digits 1, 3, 5,
+7, if each digit is used only once in each arrangement.
+
+Solution: The number of arrangements of 4 different digits taken 4 at a time is given by
+4P4 = 4! = 24. All the four digits will occur equal number of times at each of the positions, namely
+ones, tens, hundreds, thousands.
+
+Thus, each digit will occur 24 / 4 = 6 times in each of the positions. The sum of digits in one's
+position will be 6 × (1 + 3 + 5 + 7) = 96. Similar is the case in ten's, hundred's and thousand's
+places. Therefore, the sum will be 96 + 96 × 10 + 96 × 100 + 96 × 1000 = 1,06,656.
+
+Example 8: Find n if nP3 = 60.
+
+Solution:   n P3       = n! =60       (given)
+                         (n  3)!
+
+i.e., n (n­1) (n­2) = 60 = 5 × 4 × 3
+
+Therefore, n = 5.
+
+Example 9: If 56P r+6 : 54P r+3 = 30,800 : 1, find r.
+                                      n!
+
+Solution: We know npr = (n  r)! ;
+
+                          56!         56 !
+     56P r+6 = {56  (r + 6)}! = (50  r)!
+
+                                 54!            54 !
+Similarly,  P 54       =                   =
+                  r+3     {54  (r + 3)}! (51  r)!
+
+        Thus,          56 p r+6   =     56! x (51  r)!
+                       54 p r+3      (50  r!) 54!
+
+                                  56  55  54!  (51  r) (50  r)!  56  55  (51  r)
+                                      (50  r)!          54!  1
+
+But we are given the ratio as 30800 : 1 ; therefore
+
+56  55  (51  r)  30, 800
+     1                         1
+
+ or, (51  r) = 30, 800 =10,  r = 41
+                   56  55
+
+Example 10: Prove the following
+                  (n + 1)! ­ n! = n.n!
+
+Solution: By applying the simple properties of factorial, we have
+                  (n +1)! ­ n! = (n+1) n! ­ n! = n!. (n+1­1) = n. n!
+
+     © The Institute of Chartered Accountants of India
+                                           BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS       5.7
+
+Example 11: In how many different ways can a club with 10 members select a President, Secretary
+and Treasurer, if no member can hold two offices and each member is eligible for any office?
+
+Solution: The answer is the number of permutations of 10 persons chosen three at a time. Therefore,
+it is 10p3 = 10×9×8=720.
+
+Example 12: When Jhon arrives in New York, he has eight shops to see, but he has time only to
+visit six of them. In how many different ways can he arrange his schedule in New York?
+
+Solution: He can arrange his schedule in 8P6 = 8× 7 × 6 × 5 × 4 × 3 = 20,160 ways.
+
+Example 13: When Dr. Ram arrives in his dispensary, he finds 12 patients waiting to see him. If
+he can see only one patient at a time, find the number of ways, he can schedule his patients (a) if
+they all want their turn, and (b) if 3 leave in disgust before Dr. Ram gets around to seeing them.
+
+Solution: (a) There are 12 patients and all 12 wait to see the doctor. Therefore the number of
+
+ways  =  P 12      =  12!  =  479,001,600
+               12
+
+(b) There are 12­3 = 9 patients. They can be seen 12P9 = 79,833,600 ways.
+
+Choose the most appropriate option (a) (b) (c) or (d)
+
+1. 4P 3 is evaluated as         b) 34                  c) 24                   d) None of these
+      a) 43                                                                    d) none of these
+
+2. 4P4 is equal to              b) 24              c) 0
+      a) 1
+
+3. 7 is equal to                b) 4050            c) 5050                     d) none of these
+      a) 5040
+
+4. 0 is a symbol equal to
+
+a) 0                            b) 1               c) Infinity                 d) none of these
+
+5. In nPr, n is always          b) a fraction      c) a positive integer d) none of these
+      a) an integer
+
+6. In nPr , the restriction is
+
+a) n > r                        b) n  r            c) n  r                     d) none of these
+
+7. In nPr = n (n­1) (n­2) ..................(n­r+1), the number of factors is
+
+a) n                            b) r­1             c) n­r                      d) r
+
+8. nPr can also written as
+
+         n                      b)            n             r                  d) none of these
+a) n  r                                    r nr    c) nr
+
+9 If nP4 = 12 × nP2, the n is equal to
+
+a) ­1                           b) 6               c) 5                        d) none of these
+
+© The Institute of Chartered Accountants of India
+5.8                 BUSINESS MATHEMATICS
+
+10. If . nP3 : nP2 = 3 : 1, then n is equal to
+
+     a) 7                                   b) 4                c) 5               d) none of these
+
+11.  P m+n       =  56,  P m­n       =  30  then
+              2                   2
+
+     a) m =6, n = 2                         b) m = 7, n= 1      c) m=4,n=4         d) none of these
+
+12. if 5Pr = 60, then the value of r is
+
+     a) 3                                   b) 2                c) 4               d) none of these
+
+13. If n1+n2 P2 = 132, P n1­n2 2 = 30 then,
+
+     a) n1=6,n2=6                           b) n1 = 10, n2 = 2  c) n1 = 9, n2 = 3  d) none of these
+
+14. The number of ways the letters of the word `COMPUTER' can be rearranged is
+
+     a) 40,320                              b) 40,319           c) 40,318          d) none of these
+
+15. The number of arrangements of the letters in the word `FAILURE', so that vowels are always
+
+     coming together is
+
+     a) 576                                 b) 575              c) 570             d) none of these
+
+16. 10 examination papers are arranged in such a way that the best and worst papers never
+      come together. The number of arrangements is
+
+     a) 9 8                                 b) 10               c) 8 9             d) none of these
+
+17. n articles are arranged in such a way that 2 particular articles never come together. The
+      number of such arrangements is
+
+     a) (n­2) n  1                          b) (n­1) n  2       c) n               d) none of these
+
+18. If 12 school teams are participating in a quiz contest, then the number of ways the first,
+
+     second and third positions may be won is
+
+     a) 1,230                               b) 1,320            c) 3,210           d) none of these
+
+19. The sum of all 4 digit number containing the digits 2, 4, 6, 8, without repetitions is
+
+     a) 1,33,330                            b) 1,22,220         c) 2,13,330        d) 1,33,320
+
+20 The number of 4 digit numbers greater than 5,000 can be formed out of the digits 3,4,5,6 and
+
+     7(No. digit is repeated). The number of such is
+
+     a) 72                                  b) 27               c) 70              d) none of these
+
+21. 4 digit numbers to be formed out of the figures 0, 1, 2, 3, 4 (no digit is repeated) then number
+
+     of such numbers is
+
+     (a) 120                                (b) 20              (c) 96.            (d) none of these
+
+22. The number of ways the letters of the word `TRIANGLE' to be arranged so that the word
+
+     'angle' will be always present is
+
+     (a) 20                                 (b) 60              (c) 24             (d) 32
+
+23. If the letters word `DAUGHTER' are to be arranged so that vowels occupy the odd places,
+
+     then number of different words are
+
+     (a) 2,880                              (b) 676             (c) 625            (d) 576
+
+     © The Institute of Chartered Accountants of India
+                                    BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS            5.9
+
+So for we have discussed arrangements of objects or things in a row which may be termed as
+linear permutation. But if we arrange the objects along a closed curve viz., a circle, the permutations
+are known as circular permutations.
+
+The number of circular permutations of n different things chosen at a time is (n­1)!.
+
+Proof : Let any one of the permutations of n different things taken. Then consider the rearrangement
+of this permutation by putting the last thing as the first thing. Even though this is a different
+permutation in the ordinary sense, it will not be different in all n things are arranged in a circle.
+Similarly, we can consider shifting the last two things to the front and so on. Specially, it can be
+better understood, if we consider a,b,c,d. If we place a,b,c,d in order, then we also get abcd, dabc,
+cdab, bcda as four ordinary permutations. These four words in circular case are one and same
+thing. See below circles.
+
+           c                           b                 a                             d
+
+d                b            c                    a  a        d    a                       c
+
+        a                             d                    c             b
+
+      abcd                          dabc                 cdab          bcda
+
+Thus we find in above illustration that four ordinary permutations equals one in circular.
+
+Therefore, n ordinary permutations equal one circular permutation.
+
+Hence there are nPn/ n ways in which all the n things can be arranged in a circle. This equals (n­
+1)!.
+
+Example 1: In how many ways can 4 persons sit at a round table for a group discussions?
+
+Solution: The answer can be get from the formula for circular permutations. The answer is
+(4­1)! = 3! = 6 ways.
+
+NOTE : These arrangements are such that every person has got the same two neighbours. The
+only change is that right side neighbour and vice-versa.
+
+Thus the number of ways of arranging n persons along a round table so that no person has the
+
+same  two  neighbours  is  =  1  n  1
+                              2
+
+Similarly, in forming a necklace or a garland there is no distinction between a clockwise and anti
+
+clockwise direction because we can simply turn it over so that clockwise becomes anti clockwise
+
+and vice versa. Hence, the number of necklaces formed with n beads of different
+
+colours= 1 n -1
+             2
+
+© The Institute of Chartered Accountants of India
+5.10            BUSINESS MATHEMATICS
+
+In many arrangements there may be number of restrictions. in such cases, we are to arrange or
+select the objects or persons as per the restrictions imposed. The total number of arrangements in
+all cases, can be found out by the application of fundamental principle.
+
+Theorem 1. Number of permutations of n distinct objects taken r at a time when a particular
+object is not taken in any arrangement is n­1pr.
+
+Proof : Since a particular object is always to be excluded, we have to place n ­ 1 objects at r places.
+
+Clearly   this  can  be  done     in     p n­1     ways.
+                                                r
+
+Theorem 2. Number of permutations of r objects out of n distinct objects when a particular object
+is always included in any arrangement is r. n1 pr1
+
+Proof : If the particular object is placed at first place, remaining r ­ 1 places can be filled from n ­
+
+1     distinct  objects  in  p n­1       ways.     Similarly,  by  placing  the  particular      object  in    2nd,  3rd,  .....,  rth
+                                    r­1
+place, we find that in each case the number of permutations is n­1pr­1.This the total number of
+                                                                                     p n­1
+arrangements    in   which        a  particular    object  always  occurs   is   r.         r­1
+
+The following examples will enlighten further:
+
+Example 1: How many arrangements can be made out of the letters of the word `DRAUGHT',
+the vowels never beings separated?
+
+Solution: The word `DRAUGHT' consists of 7 letters of which 5 are consonants and two are
+vowels. In the arrangement we are to take all the 7 letters but the restriction is that the two
+vowels should not be separated.
+
+We can view the two vowels as one letter. The two vowels A and U in this one letter can be
+arranged in 2! = 2 ways. (i) AU or (ii) UA. Further, we can arrange the six letters : 5 consonants
+and one letter (compound letter consisting of two vowels). The total number of ways of arranging
+them is 6P6 = 6! = 720 ways.
+
+Hence, by the fundamental principle, the total number of arrangements of the letters of the word
+DRAUGHT, the vowels never being separated = 2 × 720 = 1440 ways.
+
+Example 2: Show that the number of ways in which n books can be arranged on a shelf so that
+two particular books are not together.The number is (n­2).(n­1)!
+
+Solution: We first find the total number of arrangements in which all n books can be arranged on
+the shelf without any restriction. The number is,nPn = n! ..... (1)
+
+Then we find the total number of arrangements in which the two particular books are together.
+
+The books can be together in 2P2 = 2! = 2 ways. Now we consider those two books which are kept
+together as one composite book and with the rest of the (n­2) books from (n­1) books which are
+
+to    be  arranged   on      the  shelf;  the      number      of  arrangements      =  P n­1        =  (n­1)  !.  Hence   by  the
+                                                                                                n­1
+
+Fundamental Principle, the total number of arrangements on which the two particular books are
+
+together equals = 2 × (n­1)! .......(2)
+
+the required number of arrangements of n books on a shelf so that two particular books are not
+together
+
+      © The Institute of Chartered Accountants of India
+                              BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS  5.11
+
+= (1) ­ (2)
+= n! ­ 2 x (n­1)!
+= n.(n ­ 1)! ­ 2 . (n­1)!
+= (n­1)! . (n­2)
+
+Example 3: There are 6 books on Economics, 3 on Mathematics and 2 on Accountancy. In
+how many ways can these be placed on a shelf if the books on the same subject are to be together?
+
+Solution: Consider one such arrangement. 6 Economics books can be arranged among themselves
+in 6! Ways, 3 Mathematics books can be arranged in 3! Ways and the 2 books on Accountancy can
+be arranged in 2! ways. Consider the books on each subject as one unit. Now there are three units.
+These 3 units can be arranged in 3! Ways.
+
+Total number of arrangements  = 3! × 6! × 3! × 2!
+
+                              = 51,840.
+
+Example 4: How many different numbers can be formed by using any three out of five digits 1,
+2, 3, 4, 5, no digit being repeated in any number?
+
+How many of these will (i) begin with a specified digit? (ii) begin with a specified digit and end
+with another specified digit?
+
+Solution: Here we have 5 different digits and we have to find out the number of permutations of
+them 3 at a time. Required number is 5P3 = 5.4.3 = 60.
+
+(i) If the numbers begin with a specified digit, then we have to find
+
+      the number of Permutations of the remaining 4 digits taken 2 at a time. Thus, desired number
+      is 4P2 = 4.3 = 12.
+
+(ii) Here two digits are fixed; first and last; hence, we are left with the choice of finding the
+      number of permutations of 3 things taken one at a time i.e., 3P1 =3.
+
+Example 5: How many four digit numbers can be formed out of the digits 1,2,3,5,7,8,9, if no digit
+is repeated in any number? How many of these will be greater than 3000?
+
+Solution: We are given 7 different digits and a four-digit number is to be formed using any 4 of
+these digits. This is same as the permutations of 7 different things taken 4 at a time.
+
+Hence, the number of four-digit numbers that can be formed = 7P4 = 7 × 6 × 5 × 4 × = 840 ways.
+
+Next, there is the restriction that the four-digit numbers so formed must be greater than 3,000.
+Thus, it will be so if the first digit-that in the thousand's position, is one of the five digits 3, 5, 7, 8,
+9. Hence, the first digit can be chosen in 5 different ways; when this is done, the rest of the 3 digits
+are to be chosen from the rest of the 6 digits without any restriction and this can be done in 6P3
+ways.
+
+Hence, by the Fundamental principle, we have the number of four-digit numbers greater than
+
+3,000 that can be formed by taking 4 digits from the given 7 digits = 5 × 6P3 = 5 × 6 × 5 × 4 = 5 × 120
+= 600.
+
+© The Institute of Chartered Accountants of India
+5.12  BUSINESS MATHEMATICS
+
+Example 6: Find the total number of numbers greater than 2000 that can be formed with the
+digits 1, 2, 3, 4, 5 no digit being repeated in any number.
+
+Solution: All the 5 digit numbers that can be formed with the given 5 digits are greater than 2000.
+This can be done in
+
+                  5P5 = 5! = 120 ways ......................................(1)
+The four digited numbers that can be formed with any four of the given 5 digits are greater than
+2000 if the first digit, i.e.,the digit in the thousand's position is one of the four digits 2, 3, 4, 5. this
+can be done in 4P1 = 4 ways. When this is done, the rest of the 3 digits are to be chosen from the
+rest of 5­1 = 4 digits. This can be done in 4P3 = 4 × 3 × 2 = 24 ways.
+Therefore, by the Fundamental principle, the number of four-digit numbers greater than 2000
+
+                  = 4 × 24 = 96 .... (2)
+
+Adding (1) and (2), we find the total number greater than 2000 to be 120 + 96 = 216.
+
+Example 7: There are 6 students of whom 2 are Indians, 2 Americans, and the remaining 2 are
+Russians. They have to stand in a row for a photograph so that the two Indians are together, the
+two Americans are together and so also the two Russians. Find the number of ways in which
+they can do so.
+
+Solution: The two Indians can stand together in 2P2 = 2! = 2 ways. So is the case with the two
+Americans and the two Russians.
+
+Now these 3 groups of 2 each can stand in a row in 3P3 = 3 x 2 = 6 ways. Hence by the generalized
+fundamental principle, the total number of ways in which they can stand for a photograph under
+given conditions is
+
+                  6 × 2 × 2 × 2 = 48
+
+Example 8: A family of 4 brothers and three sisters is to be arranged for a photograph in one row.
+In how many ways can they be seated if (i) all the sisters sit together, (ii) no two sisters sit together?
+
+Solution:
+
+(i) Consider the sisters as one unit and each brother as one unit. 4 brothers and 3 sisters make 5
+      units which can be arranged in 5! ways. Again 3 sisters may be arranged amongst themselves
+      in 3! Ways
+
+      Therefore, total number of ways in which all the sisters sit together = 5!×3! = 720 ways.
+
+(ii) In this case, each sister must sit on each side of the brothers. There are 5 such positions as
+      indicated below by upward arrows :
+
+                            B1                           B2  B3  B4
+
+4 brothers may be arranged among themselves in 4! ways. For each of these arrangements 3
+sisters can sit in the 5 places in 5P3 ways.
+Thus the total number of ways = 5P3 × 4! = 60 × 24 = 1,440
+Example 9: In how many ways can 8 persons be seated at a round table? In how many cases will
+2 particular persons sit together?
+
+Solution: This is in form of circular permutation. Hence the number of ways in which eight
+persons can be seated at a round table is ( n ­ 1 )! = ( 8 ­ 1 )! = 7! = 5040 ways.
+
+      © The Institute of Chartered Accountants of India
+                        BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS               5.13
+
+Consider the two particular persons as one person. Then the group of 8 persons becomes a group
+of 7 (with the restriction that the two particular persons be together) and seven persons can be
+arranged in a circular in 6! Ways.
+
+Hence, by the fundamental principle, we have, the total number of cases in which 2 particular
+persons sit together in a circular arrangement of 8 persons = 2! × 6! = 2 × 6 × 5 × 4 × 3 ×2×1
+= 1,440.
+
+Example 10: Six boys and five girls are to be seated for a photograph in a row such that no two
+girls sit together and no two boys sit together. Find the number of ways in which this can be
+done.
+
+Solution: Suppose that we have 11 chairs in a row and we want the 6 boys and 5 girls to be seated
+such that no two girls and no two boys are together. If we number the chairs from left to right, the
+arrangement will be possible if and only if boys occupy the odd places and girls occupy the even
+places in the row. The six odd places from 1 to 11 may filled in by 6 boys in 6P6 ways. Similarly,
+the five even places from 2 to 10 may be filled in by 5 girls in 5P5 ways.
+
+Hence, by the fundamental principle, the total number of required arrangements = 6P6 × 5P5 = 6!
+× 5! = 720 × 120 = 86,400.
+
+Choose the most appropriate option (a) (b) (c) or (d)
+
+1 The number of ways in which 7 girls form a ring is
+
+(a) 700                 (b) 710                    (c) 720     (d) none of these
+
+2. The number of ways in which 7 boys sit in a round table so that two particular boys may sit
+
+together is
+
+(a) 240                 (b) 200                    (c) 120     (d) none of these
+
+3. If 50 different jewels can be set to form a necklace then the number of ways is
+
+     1                         1                   (c)         (d) none of these
+(a) 2 50                (b) 2 49
+
+4. 3 ladies and 3 gents can be seated at a round table so that any two and only two of the ladies
+
+sit together. The number of ways is
+
+(a) 70                  (b) 27                     (c) 72      (d) none of these
+
+5. The number of ways in which the letters of the word `DOGMATIC' can be arranged is
+
+(a) 40,319              (b) 40,320                 (c) 40,321  (d) none of these
+
+6. The number of arrangements of 10 different things taken 4 at a time in which one particular
+
+thing always occurs is
+
+(a) 2015                (b) 2016                   (c) 2014    (d) none of these
+
+7. The number of permutations of 10 different things taken 4 at a time in which one particular
+
+thing never occurs is
+
+(a) 3,020               (b) 3,025                  (c) 3,024   (d) none of these
+
+© The Institute of Chartered Accountants of India
+5.14           BUSINESS MATHEMATICS
+
+8. Mr. X and Mr. Y enter into a railway compartment having six vacant seats. The number of
+
+      ways in which they can occupy the seats is
+
+      (a) 25                             (b) 31              (c) 32             (d) 30
+
+9. The number of numbers lying between 100 and 1000 can be formed with the digits 1, 2, 3, 4,
+
+      5, 6, 7 is
+
+      (a) 210                            (b) 200             (c) 110            (d) none of these
+
+10. The number of numbers lying between 10 and 1000 can be formed with the digits 2,3,4,0,8,9
+
+      is
+
+      (a) 124                            (b) 120             (c) 125            (d) none of these
+
+11. In a group of boys the number of arrangement of 4 boys is 12 times the number of
+
+      arrangements of 2 boys. The number of boys in the group is
+
+      (a) 10                             (b) 8               (c) 6              (d) none of these
+
+12.   The value of   10   r.  r  Pr  is
+
+                     
+
+                     r=1
+
+      (a)  P 11                          (b)  P 11       ­1  (c)  P 11      +1  (d) none of these
+                 11                                 11                  11      (d) none of these
+
+13. The total number of 9 digit numbers of different digits is
+
+      (a) 10 9                           (b) 8 9             (c) 9 9
+
+14. The number of ways in which 6 men can be arranged in a row so that the particular 3 men sit
+      together, is
+
+      (a) 4P4                            (b) 4P4 × 3P3       (c) ( 3 )2         (d) none of these
+
+15. There are 5 speakers A, B, C, D and E. The number of ways in which A will speak always
+      before B is
+
+      (a) 24                             (b) 4 × 2           (c) 5              (d) none of these
+
+16. There are 10 trains plying between Calcutta and Delhi. The number of ways in which a
+
+      person can go from Calcutta to Delhi and return by a different train is
+
+      (a) 99                             (b) 90              (c) 80             (d) none of these
+
+17. The number of ways in which 8 sweats of different sizes can be distributed among 8 persons
+      of different ages so that the largest sweat always goes to be younger assuming that each one
+      of then gets a sweat is
+
+      (a) 8                              (b) 5040            (c) 5039           (d) none of these
+
+18. The number of arrangements in which the letters of the word `MONDAY' be arranged so
+
+      that the words thus formed begin with M and do not end with N is
+
+      (a) 720                            (b) 120             (c) 96             (d) none of these
+
+19. The total number of ways in which six `+' and four `­` signs can be arranged in a line such
+      that no two `­' signs occur together is
+
+      (a) 7 / 3                          (b) 6 × 7 / 3       (c) 35             (d) none of these
+
+      © The Institute of Chartered Accountants of India
+                         BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS  5.15
+
+20. The number of ways in which the letters of the word `MOBILE' be arranged so that consonants
+
+always occupy the odd places is
+
+(a) 36                   (b) 63                    (c) 30        (d) none of these.
+
+21. 5 persons are sitting in a round table in such way that Tallest Person is always on the right­
+
+side of the shortest person; the number of such arrangements is
+
+(a) 6                    (b) 8                     (c) 24        (d) none of these
+
+We have studied about permutations in the earlier section. There we have said that while
+arranging, we should pay due regard to order. There are situations in which order is not important.
+For example, consider selection of 5 clerks from 20 applicants. We will not be concerned about
+the order in which they are selected. In this situation, how to find the number of ways of selection?
+The idea of combination applies here.
+
+Definition : The number of ways in which smaller or equal number of things are arranged or
+selected from a collection of things where the order of selection or arrangement is not important,
+are called combinations.
+
+The selection of a poker hand which is a combination of five cards selected from 52 cards is an
+example of combination of 5 things out of 52 things.
+
+Number of combinations of n different things taken r at a time. (denoted by nCr C(n,r), Cn,r)
+
+Let nCr denote the required number of combinations. Consider any one of those combinations. It
+will contain r things. Here we are not paying attention to order of selection. Had we paid attention
+
+to this, we will have permutations or r items taken r at a time. In other words, every combination
+
+of r things will have rPr permutations amongst them. Therefore, nCr combinations will give rise to
+nCr. rPr permutations of r things selected from n things. From the earlier section, we can say that
+nCr. rPr = nPr as nPr denotes the number of permutations of r things chosen out of n things.
+
+Since,  nCr.rPr = nPr ,
+
+        nCr = nPr/rPr = n!/ (n ­ r ) !  r!/(r ­ r )!
+
+                         = n!/(n ­ r )! × 0!/r!
+
+                         = n! / r! ( n ­ r )!
+
+             nCr = n!/r! ( n ­ r )!
+
+Remarks: Using the above formula, we get
+(i) nCo = n! / 0! ( n ­ 0 )! = n!/n! =1. [ As 0! = 1]
+
+      nCn = n! / n! ( n ­ n ) ! = n! / n! 0! = 1 [ Applying the formula for nCr with r = n ]
+Example 1: Find the number of different poker hands in a pack of 52 playing cards.
+Solution: This is the number of combinations of 52 cards taken five at a time. Now applying the
+formula,
+
+© The Institute of Chartered Accountants of India
+5.16          BUSINESS MATHEMATICS
+
+                                                     52 51 50 49 48 47!
+52C5 = 52!/5! (52 ­ 5)! = 52!/5! 47! = 5 4 3 21 47!
+
+      = 2,598,960
+
+Example 2: Let S be the collection of eight points in the plane with no three points on the straight
+line. Find the number of triangles that have points of S as vertices.
+
+Solution: Every choice of three points out of S determines a unique triangle. The order of the
+points selected is unimportant as whatever be the order, we will get the same triangle. Hence,
+the desired number is the number of combinations of eight things taken three at a time. Therefore,
+we get
+
+      8C3 = 8!/3!5! = 8×7×6/3×2×1 = 56 choices.
+Example 3: A committee is to be formed of 3 persons out of 12. Find the number of ways of
+forming such a committee.
+
+Solution: We want to find out the number of combinations of 12 things taken 3 at a time and this
+is given by
+
+12C3 = 12!/3!(12 ­ 3)! [ by the definition of nCr]
+      = 12!/3!9! = 12×11×10×9!/3!9! = 12×11×10/3×2 = 220
+
+Example 4: A committee of 7 members is to be chosen from 6 Chartered Accountants, 4 Economists
+and 5 Cost Accountants. In how many ways can this be done if in the committee, there must be at
+least one member from each group and at least 3 Chartered Accountants?
+
+Solution: The various methods of selecting the persons from the various groups are shown below:
+
+                                       Committee of 7 members
+
+                                  C.A.s                           Economists        Cost Accountants
+
+        Method 1                    3                             2                 2
+
+        Method 2                    4                             2                 1
+
+        Method 3                    4                             1                 2
+
+        Method 4                    5                             1                 1
+
+        Method 5                    3                             3                 1
+
+        Method 6                    3                             1                 3
+
+Number of ways of choosing the committee members by
+
+Method 1 = 6C3×4C2×5C2 =      654        43                   54  =20×6×10=1,200.
+                              321        21                   21
+
+Method 2 = 6C4×4C2×5C1 =      65    43                   5        = 15×6×5 = 450
+                              21    21                   1
+
+Method  3  =  6C4×4C1×5C2  =  65    4    5               4        = 15×4×10 = 600.
+                              21         2               1
+
+      © The Institute of Chartered Accountants of India
+                                  BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS              5.17
+
+Method 4 = 6C5×4C1×5C1 = 6×4×5 = 120.
+
+Method 5 = 6C3×4C3×5C1 =       654   4325                   = 20×4×5 = 400.
+                               321   321
+
+Method 6 = 6C3×4C1×5C3 =       6544 54                      = 20×4×10 = 800.
+                               321 21
+
+Therefore, total number of ways = 1,200 + 450 + 600 + 120 + 400 + 800 = 3,570
+
+Example 5: A person has 12 friends of whom 8 are relatives. In how many ways can he invite 7
+guests such that 5 of them are relatives?
+
+Solution: Of the 12 friends, 8 are relatives and the remaining 4 are not relatives. He has to invite
+5 relatives and 2 friends as his guests. 5 relatives can be chosen out of 8 in 8C5 ways; 2 friends can
+be chosen out of 4 in 4C2 ways.
+
+Hence, by the fundamental principle, the number of ways in which he can invite 7 guests such
+that 5 of them are relatives and 2 are friends.
+
+     = 8C5 × 4C2
+
+     = {8! / 5! (8 ­ 5)!} × {4! / 2! (4 ­ 2 )!} =  (8    7   6 5!)/5! 3!      432!        876
+                                                                                  2! 2!
+
+                                                                                                      = 336.
+
+Example 6: A Company wishes to simultaneously promote two of its 6 department heads to
+assistant managers. In how many ways these promotions can take place?
+
+Solution: This is a problem of combination. Hence, the promotions can be done in
+
+      6C2 = 6×5 / 2 = 15 ways
+
+Example 7: A building contractor needs three helpers and ten men apply. In how many ways can
+these selections take place?
+
+Solution: There is no regard for order in this problem. Hence, the contractor can select in any of
+10C3 ways i.e.,
+
+      (10 × 9 × 8) / (3 × 2 × 1) = 120 ways.
+
+Example 8: In each case, find n:
+
+Solution: (a) 4. nC2 = n+2 C3        (b) n+2 Cn = 45.
+
+(a) We are given that 4. nC2 = n+2 C3. Now applying the formula,
+
+     4  n! = (n + 2)!
+         2!(n  2)! 3!(n + 2  3)!
+
+     4 n.(n 1)(n  2)! (n+2) (n+1) . n . (n  1)!
+or,                            =
+     2!(n  2)!                       3! (n  1)!
+
+     4n(n­1) /2 = (n+2) (n+1)n /3!
+
+© The Institute of Chartered Accountants of India
+5.18      BUSINESS MATHEMATICS
+
+or,       4n(n­1) / 2 = (n+2)(n+1)n /3×2×1
+
+or,       12(n­1)=(n+2) (n+1)
+
+or,       12n­12 = n2 + 3n +2
+
+or,       n2 ­ 9n + 14 = 0.
+
+or,       n2 ­ 2n ­ 7n + 14 = 0.
+
+or,       (n­2) (n­7) = 0
+
+          n=2 or 7.
+
+(b)   We  are  given  that  C n+2      =  45.  Applying  the  formula,
+                                    n
+
+          (n+2)!/{n!(n+2­n)!} = 45
+
+or,       (n+2) (n+1) n! / n! 2! = 45
+
+or,       (n+1) (n+2) = 45×2! = 90
+
+or,       n2+3n­88 = 0
+
+or,       n2+11n­8n­88 = 0
+
+or,       (n+11) (n­8) = 0
+
+Thus, n equals either ­ 11 or 8. But negative value is not possible. Therefore we conclude that
+n=8.
+
+Example 9: A box contains 7 red, 6 white and 4 blue balls. How many selections of three balls can
+be made so that (a) all three are red (b) none is red (c) one is of each colour?
+
+Solution: (a) All three balls will be of red colour if they are taken out of 7 red balls and this can be
+done in
+
+7C3 = 7! / 3!(7­3)!
+= 7! / 3!4! = 7×6×5×4! / (3×2×4!) = 7×6×5 / (3×2) = 35 ways
+
+Hence, 35 selections (groups) will be there such that all three balls are red.
+
+(b) None of the three will be red if these are chosen from (6 white and 4 blue balls) 10 balls and
+      this can be done in
+
+10C3 = 10!/{3!(10­3)!} = 10! / 3!7!
+       = 10×9×8×7! / (3×2×1×7!) = 10×9×8 /(3×2) = 120 ways.
+
+Hence, the selections (or groups) of three such that none is a red ball are 120 in number.
+
+One red ball can be chosen from 7 balls in 7C1 = 7 ways. One white ball can be chosen from 6
+white balls in 6C1 ways. One blue ball can be chosen from 4 blue balls in 4C1 = 4 ways. Hence, by
+generalized fundamental principle, the number of groups of three balls such that one is of each
+colour = 7×6×4 = 168 ways.
+
+Example 10: If 10Pr = 6,04,800 and 10Cr = 120; find the value of r,
+Solution: We know that nCr. rPr = nPr. We will us this equality to find r.
+
+            10Pr = 10Cr .r!
+
+      © The Institute of Chartered Accountants of India
+                                                    BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS                                                  5.19
+
+or,                6,04,800 =120 ×r!
+
+or,                r! = 6,04,800  120 = 5,040
+
+But r! = 5040 = 7×6×4×3×2×1 = 7!
+
+Therefore, r=7.
+
+Properties of nCr :
+
+1.   nCr  =        C n
+                        n­r
+
+     We            have  nCr     =   n!    /  {r!(n­r)!}  and       C n       =  n!  /  [(n­r)!  {n­(n­r)}!]   =   n!    /  {(n­r)!(n­n+r)!}
+                                                                         n­r
+
+     Thus          C n       =   n!  /     {(n­r)!  (n­n+r)!}        =   n!   /  {(n­r)!r!}  =   nCr
+                        n­r
+
+2.   C n+1         =  nCr    +   C n
+             r                        r­1
+
+     By definition,
+
+     C n           +  nCr    =   n!  /  {(r­1)!  (n­r+1)!}          +  n!   /  {r!(n­r)!}
+          r­1
+
+     But r! = r×(r­1)! and (n­r+1)! = (n­r+1) × (n­r)!. Substituting these in above, we get
+
+                                                    1                         +         1        
+                                     (r 1)!(n r +1)(n  r)!                       r(r 1)! (n r)!
+     nC   r­1      +  nCr    =   n!
+
+                   = {n! / (r­1)! (n­r)!} {(1 / n­r+1) + (1/r) }
+
+                   = {n! / (r­1)! (n­r)!} {(r+n­r+1) / r(n­r+1) }
+
+                   = (n+1) n! / {r . (r­1)! (n­r)! . (n­r+1)}
+
+                   =  (n+1)!     /   {r!(n+1­r)!}   =     C n+1
+                                                                  r
+
+3. nCo = n!/{0! (n­0)!} = n! / n! =1.
+
+4. nCn = n!/{n! (n­n)!} = n! / n! . 0! = 1.
+
+Note
+
+(a)  nCr  has         a  meaning           only  when            r  and  n  are  integers    0   r    n  and   C n       has  a  meaning     only  when
+                                                                                                                    n­r
+
+     0  n ­ r  n.
+
+(b)  nCr  and         C n        are    called   complementary                   combinations,        for  if  we  form     a  group  of  r  things  out
+                           n­r
+
+     of n different things, (n­r) remaining things which are not included in this group form another
+
+     group of rejected things. The number of groups of n different things, taken r at a time should
+
+     be equal to the number of groups of n different things taken (n­r) at a time.
+
+Example 11: Find r if 18Cr =                        C 18
+                                                            r+2
+
+Solution: As nCr = nC n­r, we have 18 Cr=18C 18­r
+
+But it is given, 18Cr = 18C r+2
+
+ C 18              =  C 18
+             18­r           r+2
+
+or, 18 ­ r = r+2
+
+    © The Institute of Chartered Accountants of India
+5.20                   BUSINESS MATHEMATICS
+
+          Solving, we get
+
+2r = 18 ­ 2 = 16 i.e., r=8.
+
+Example 12: Prove that
+
+nCr = n­2 C r­2 + 2 n­2 Cr­1 + n­2 Cr
+
+Solution: R.H.S                        =  C n­2        +      C n-2         +  C n­2        +  C n­2
+                                                  r­2                 r­1              r­1             r
+
+                                       =  C n­1        +      C n­1      [  using      Property           2  listed  earlier]
+                                                  r­1                 r
+
+                                       =  C (n­1)+1        [  using         Property           2  again      ]
+                                                        r
+
+                                       = nCr = L.H.S.
+
+                                       Hence, the result
+
+Example             13:  If   28  C2r  :  C 24        =    225   :  11,        find    r.
+                                                2r­4
+
+Solution: We have nCr = n! / {r!(n­r)!} Now, substituting for n and r, we get
+
+C 28      =  28!    /  {(2r)!(28       ­  2r)!},
+      2r
+
+C 24        =  24!  /     [(  2r­4)!      {24  ­      (2r­4)}!]          =     24!  /  {(2r­4)!(28­2r)!}
+      2r­4
+
+We    are      given      that    C 28      :  24C    2r­4    =  225        :  11.  Now        we  calculate,
+                                        2r
+
+       C 28            =               28!             × (2r  4)!(28  2r)!
+               2r
+                              (2r)!(28  2r)!                                24!
+      C 24
+             2r  4
+
+                       =                    28 × 27 × 26 × 25× 24!                                × (2r-4)!(28-2r)!
+
+                              (2r)(2r-1)(2r-2)(2r-3)(2r-4)!(28-2r)!                                             24!
+
+                       =                  28  27  26  25                            = 225
+
+                              (2r)(2r  1)(2r  2)(2r  3) 11
+
+or, (2r) (2r­1) ( 2r­2) (2r­3) =                              11 28  27  26  25
+
+                                                                               225
+
+                                                         = 11×28×3×26
+
+                                                  = 11×7×4×3×13×2
+                                                  = 11×12×13×14
+                                                  = 14×13×12×11
+
+                                           2r= 14 i.e., r = 7
+
+Example 14: Find x if 12C5 +2 12C4 +12C3 = 14Cx
+Solution: L.H.S = 12C5+ 2 12C4 + 12C3
+
+                             = 12C5+ 12C4 + 12C4 + 12C3
+                             = 13C5 + 13C4
+                             = 14 C5
+Also nCr = nCn­r. Therefore 14C5 = 14C 14­5 = 14C9
+
+      © The Institute of Chartered Accountants of India
+                                                       BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS                          5.21
+
+Hence, L.H.S = 14C5 = 14C9 = 14Cx = R.H.S by the given equality
+This implies, either x = 5 or x = 9.
+
+Example 15 : Prove by reasoning that
+
+       (i)   C n+1      =  nCr     +  C n
+                     r                     r­1
+
+       (ii)  nPr  =     P n­1      +rn­1 Pr­1
+                                r
+
+Solution: (i) n+1 Cr stands for the number of combinations of (n+1) things taken r at a time. As a
+specified thing can either be included in any combination or excluded from it, the total number
+
+of combinations which can be combinations or (n+1) things taken r at a time is the sum of :
+
+(a) combinations of (n+1) things taken r at time in which one specified thing is always included
+      and
+
+(b) the number of combinations of (n+1) things taken r at time from which the specified thing is
+      always excluded.
+
+Now, in case (a), when a specified thing is always included , we have to find the number of ways
+
+of  selecting   the     remaining               (r­1)  things  out        of  the  remaining   n  things  which  is  C n
+                                                                                                                          r­1.
+
+Again, in case (b), since that specified thing is always excluded, we have to find the number of
+
+ways of selecting r things out of the remaining n things, which is nCr.
+
+Thus, n+1 Cr = nCr­1+ nCr
+
+(i) We divide nPr i.e., the number of permutations of n things take r at a time into two groups:
+
+       (a) those which contain a specified thing
+
+       (b) those which do not contain a specified thing.
+
+In (a) we fix the particular thing in any one of the r places which can be done in r ways and then
+fill up the remaining (r­1) places out of (n­1) things which give rise to n­1 Pr­1 ways. Thus, the
+number of permutations in case (a) = r × n­1 Pr­1.
+
+In case (b), one thing is to be excluded; therefore, r places are to be filled out of (n­1) things.
+
+Therefore, number of permutations = n­1 Pr
+
+Thus,  total    number             of  permutations    =       P n­1      +   r.  n­1  P
+                                                                       r
+                                                                                          r­1
+
+i.e.,  nPr   =  n­1Pr+r.   P n­1
+                                   r­1
+
+We now proceed to examine some standard results in permutations and combinations. These
+results have special application and hence are dealt with separately.
+
+I. Permutations when some of the things are alike, taken all at a time
+The number of ways p in which n things may be arranged among themselves, taking them all at
+a time, when n1 of the things are exactly alike of one kind , n2 of the things are exactly alike of
+another kind, n3 of the things are exactly alike of the third kind, and the rest all are different is
+given by,
+
+    © The Institute of Chartered Accountants of India
+5.22  BUSINESS MATHEMATICS
+
+      p  n!
+           n1!n 2!n 3!
+
+Proof : Let there be n things. Suppose n1 of them are exactly alike of one kind; n2 of them are exactly
+alike of another kind; n3 of them are exactly alike of a third kind; let the rest (n­n1­n2­n3) be all
+different.
+
+Let p be the required permutations; then if the n things, all exactly alike of one kind were replaced
+by n, different things different from any of the rest in any of the p permutations without altering
+the position of any of the remaining things, we could form n1! new permutations. Hence, we
+should obtain p × n1! permutations.
+
+Similarly if n2 things exactly alike of another kind were replaced by n2 different things different
+form any of the rest, the number of permutations would be p × n1! × n2!
+
+Similarly, if n3 things exactly alike of a third kind were replaced by n3 different things different
+from any of the rest, the number of permutations would be p × n1! × n2! × n3! = n!
+
+But now because of these changes all the n things are different and therefore, the possible number
+of permutations when all of them are taken is n!.
+
+Hence, p×n1! × n2! n3! = n!
+
+                n!
+i.e., p = n1!n 2!n 3!
+which is the required number of permutations. This results may be extended to cases where
+there are different number of groups of alike things.
+
+II. Permutations when each thing may be repeated once, twice,...upto r times in any
+arrangement.
+
+Result: The number of permutations of n things taken r at time when each thing may be repeated
+r times in any arrangement is nr.
+
+Proof: There are n different things and any of these may be chosen as the first thing. Hence, there
+are n ways of choosing the first thing.
+
+When this is done, we are again left with n different things and any of these may be chosen as the
+second (as the same thing can be chosen again.)
+
+Hence, by the fundamental principle, the two things can be chosen in n × n = n2 number of ways.
+
+Proceeding in this manner, and noting that at each stage we are to chose a thing from n different
+things, the total number of ways in which r things can be chosen is obviously equal to n × n ×
+.........to r terms = nr.
+
+III. Combinations of n different things taking some or all of n things at a time
+
+Result : The total number of ways in which it is possible to form groups by taking some or all of
+n things (2n ­1).
+
+      © The Institute of Chartered Accountants of India
+                                   BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS           5.23
+
+In  symbols,  n    n Cr  =  2 n 1
+              
+
+              r=1
+
+Proof : Each of the n different things may be dealt with in two ways; it may either be taken or left.
+Hence, by the generalised fundamental principle, the total number of ways of dealing with n
+things :
+
+2 × 2 × 2×........2, n times i.e., 2n
+
+But this include the case in which all the things are left, and therefore, rejecting this case, the total
+number of ways of forming a group by taking some or all of n different things is 2n ­ 1.
+
+IV. Combinations of n things taken some or all at a time when n1 of the things are alike of one
+kind, n2 of the things are alike of another kind n3 of the things are alike of a third kind. etc.
+
+Result : The total, number of ways in which it is possible to make groups by taking some or all
+out of n (=n1 + n2 + n3 +...) things, where n1 things are alike of one kind and so on, is given by
+
+{ (n1 + 1) ( n2 + 1) ( n3 + 1)...} ­1
+
+Proof : The n1 things all alike of one kind may be dealt with in (n1 + 1) ways. We may take 0, 1,
+2,....n, of them. Similarly n2 things all alike of a second kind may be dealt with in (n2 +1) ways
+and n3 things all alike of a third kind may de dealt with in (n3 +1) ways.
+
+Proceeding in this way and using the generalised fundamental principle, the total number of
+ways of dealing with all n ( = n1 + n2 + n3 +...) things, where n1, things are alike of one kind and
+so on, is given by
+
+(n1 + 1) ( n2 + 1) ( n3 + 1)...
+But this includes the case in which none of the things are taken. Hence, rejecting this case, total
+number of ways is {(n1 + 1) ( n2 + 1) ( n3 + 1)...} ­1}
+
+V. The notion of Independence in Combinations
+
+Many applications of Combinations involve the selection of subsets from two or more independent
+
+sets of objects or things. If the combination of a subset having r1 objects form a set having n1
+objects does not affect the combination of a subset having r2 objects from a different set having n2
+objects, we call the combinations as being independent. Whenever such combinations are
+
+independent, any subset of the first set of objects can be combined with each subset of the second
+
+set of the object to form a bigger combination. The total number of such combinations can be
+
+found by applying the generalised fundamental principle.
+
+Result : The combinations of selecting r1 things from a set having n1 objects and r2 things from a
+set having n2 objects where combination of r1 things, r2 things are independent is given by
+
+                                   C n1            ×  C n2
+                                           r1                 r2
+
+Note : This result can be extended to more than two sets of objects by a similar reasoning.
+
+Example 1: How many different permutations are possible from the letters of the word
+`CALCULUS'?
+
+© The Institute of Chartered Accountants of India
+5.24     BUSINESS MATHEMATICS
+
+Solution: The word `CALCULUS' consists of 8 letters of which 2 are C and 2 are L, 2 are U and
+the rest are A and S. Hence , by result (I), the number of different permutations from the letters of
+the word `CALCULUS' taken all at a time
+
+                    8!
+            = 2!2!2!1!1!
+
+      =  8  7  6 5  4  3  2                              = 7 × 6 × 5 × 4 × 3 × 2 = 5,040
+
+         222
+
+Example 2: In how many ways can 17 billiard balls be arranged , if 7 of them are black, 6 red and
+4 white?
+
+Solution: We have, the required number of different arrangements:
+
+        17! = 40,84,080
+      7! 6! 4!
+
+Example 3: An examination paper with 10 questions consists of 6 questions in Algebra and 4
+questions in Geometry. At least one question from each section is to be attempted. In how many
+ways can this be done?
+
+Solution: A student must answer atleast one question from each section and he may answer all
+questions from each section.
+
+Consider Section I : Algebra. There are 6 questions and he may answer a question or may not
+answer it. These are the two alternatives associated with each of the six questions. Hence, by the
+generalised fundamental principle, he can deal with two questions in 2 × 2 ....6 factors = 26
+number of ways. But this includes the possibility of none of the question from Algebra being
+attempted. This cannot be so, as he must attempt at least one question from this section. Hence,
+excluding this case, the number of ways in which Section I can be dealt with is (26 ­1).
+
+Similarly, the number of ways in which Section II can be dealt with is (24 ­1).
+
+Hence, by the Fundamental Principle, the examination paper can be attempted in (26 ­1) (24 ­1)
+number of ways.
+
+Example 4: A man has 5 friends. In how many ways can he invite one or more of his friends to
+dinner?
+
+Solution: By result, (III) of this section, as he has to select one or more of his 5 friends, he can do
+so in 25 ­ 1 = 31 ways.
+
+Note : This can also be done in the way, outlines below. He can invite his friends one by one, in
+twos, in threes, etc. and hence the number of ways.
+
+      = 5C1+ 5C2 +5C3 +5C4 +5C5
+      = 5 + 10 +10 + 5 + 1= 31 ways.
+
+Example 5: There are 7 men and 3 ladies. Find the number of ways in which a committee of 6 can
+be formed of them if the committee is to include atleast two ladies?
+
+      © The Institute of Chartered Accountants of India
+BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS    5.25
+
+Solution: The committee of six must include at least 2 ladies, i.e., two or more ladies. As there are
+only 3 ladies, the following possibilities arise:
+The committee of 6 consists of (i) 4 men and 2 ladies (ii) 3 men and 3 ladies.
+The number of ways for (i) = 7C4 × 3C2 = 35 × 3 = 105;
+The number of ways for (ii) = 7C3 × 3C3 = 35 × 1 = 35.
+Hence the total number of ways of forming a committee so as to include at least two ladies = 105
++35 = 140.
+Example 6: Find the number of ways of selecting 4 letters from the word `EXAMINATION'.
+Solution: There are 11 letters in the word of which A, I, N are repeated twice.
+Thus we have 11 letters of 8 different kinds (A, A), (I, I), (N, N), E, X, M, T, O.
+The group of four selected letters may take any of the following forms:
+(i) Two alike and other two alike
+
+(ii) Two alike and other two different
+
+(iii) All four different
+
+In case (i), the number of ways = 3C2 = 3.
+In case (ii), the number of ways = 3C1 × 7C2 = 3 × 21 = 63.
+
+                                                      8765
+In case (iii), the number of ways = 8C4 = 1  2  3  4 = 70
+Hence , the required number of ways = 3 + 63 + 70 = 136 ways
+
+ Fundamental principles of counting
+
+      (a) Multiplication Rule: If certain thing may be done in `m' different ways and when it
+            has been done, a second thing can be done in `n ` different ways then total number of
+            ways of doing both things simultaneously = m × n.
+
+      (b) Addition Rule : It there are two alternative jobs which can be done in `m' ways and in
+            `n' ways respectively then either of two jobs can be done in (m + n) ways.
+
+ Factorial: The factorial n, written as n! or n , represents the product of all integers from 1
+
+      to n both inclusive. To make the notation meaningful, when n = o, we define o! or o = 1.
+
+      Thus, n! = n (n ­ 1) (n ­ 2) ..... ...3.2.1
+
+ Permutations: The ways of arranging or selecting smaller or equal number of persons or
+      objects from a group of persons or collection of objects with due regard being paid to the
+      order of arrangement or selection, are called permutations.
+
+© The Institute of Chartered Accountants of India
+5.26           BUSINESS MATHEMATICS
+
+      The number of permutations of n things chosen r at a time is given by
+                                     nPr =n ( n ­ 1 ) ( n ­ 2 ) ... ( n ­ r + 1 )
+
+      where the product has exactly r factors.
+
+ Circular Permutations: (a) n ordinary permutations equal one circular permutation.
+
+      Hence there are nPn/ n ways in which all the n things can be arranged in a circle. This
+      equals (n­1)!.
+
+      (b)   the     number              of  necklaces  formed   with    n  beads  of  different  colours     =    =  1  n  1.
+                                                                                                                     2
+
+ (a) Number of permutations of n distinct objects taken r at a time when a particular
+            object is not taken in any arrangement is n­1pr.
+
+      (b) Number of permutations of r objects out of n distinct objects when a particular object
+           is always included in any arrangement is r. n1 pr1
+
+ Combinations: The number of ways in which smaller or equal number of things are
+      arranged or selected from a collection of things where the order of selection or arrangement
+      is not important, are called combinations.
+
+      nCr = n!/r! ( n ­ r )!
+
+      nCr   =  C n
+                    n­r
+
+      nCo = n!/{0! (n­0)!} = n! / n! =1.
+
+      nCn = n!/{n! (n­n)!} = n! / n! . 0! = 1.
+
+(a)   nCr   has     a     meaning           only  when  r  and  n  are  integers  0   r    n  and  C n       has  a  meaning   only
+                                                                                                        n­r
+
+      when 0  n ­ r  n.
+
+      (i)      C n+1      =  nCr     +  C n
+                       r                     r­1
+
+      (ii)     nPr  =     P n­1      +rn­1  Pr­1
+                                  r
+
+ Permutations when some of the things are alike, taken all at a time
+
+      p  n!
+           n1!n 2!n 3!
+
+ Permutations when each thing may be repeated once, twice,...upto r times in any
+      arrangement = n!.
+
+ The total number of ways in which it is possible to form groups by taking some or all of n
+      things (2n ­1).
+
+ The total, number of ways in which it is possible to make groups by taking some or all out
+      of n (=n1 + n2 + n3 +...) things, where n1 things are alike of one kind and so on, is given by
+      { (n1 + 1) ( n2 + 1) ( n3 + 1)...} ­1
+
+      © The Institute of Chartered Accountants of India
+                                                   BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS  5.27
+
+ The combinations of selecting r1 things from a set having n1 objects and r2 things from a
+      set having n2 objects where combination of r1 things, r2 things are independent is given
+      by
+
+        C n1        ×     C n2
+                r1                r2
+
+Choose the most appropriate option (a, b, c or d )
+
+1. The value of 12C4 + 12C3 is
+
+    (a) 715                                        (b) 710                          (C) 716     (d) none of these
+
+2. If npr = 336 and nCr = 56, then n and r will be
+
+    (a) (3, 2)                                     (b) (8, 3)                       (c) (7, 4)  (d) none of these
+
+3. If 18Cr = 18Cr+2, the value of rC5 is
+
+    (a) 55                                         (b) 50                           (c) 56      (d) none of these
+
+4.  If  C n         = 56, nCr = 28 and             C n       = 8, then r is equal to
+             r­1                                        r+1
+
+    (a) 8                                          (b) 6                            (c) 5       (d) none of these
+
+5. A person has 8 friends. The number of ways in which he may invite one or more of them to
+      a dinner is.
+
+    (a) 250                                        (b) 255                          (c) 200     (d) none of these
+
+6. The number of ways in which a person can chose one or more of the four electrical appliances
+
+    : T.V, Refrigerator, Washing Machine and a cooler is
+
+    (a) 15                                         (b) 25                           (c) 24      (d) none of these
+
+7. If nc10 = nc14, then 25cn is
+
+    (a) 24                                         (b) 25                           (c) 1       (d) none of these
+
+8. Out of 7 gents and 4 ladies a committee of 5 is to be formed. The number of committees such
+
+    that each committee includes at least one lady is
+
+    (a) 400                                        (b) 440                          (c) 441     (d) none of these
+
+9.  If  C 28        : 24  C2r  ­4  =  225  :  11,  then      the  value  of  r  is
+               2r
+
+    (a) 7                                          (b) 5                            (c) 6       (d) none of these
+
+10. The number of diagonals in a decagon is
+
+    (a) 30                                         (b) 35                           (c) 45      (d) none of these
+
+    Hint: The number of diagonals in a polygon of n sides is 1­2n (n­3).
+
+11. There are 12 points in a plane of which 5 are collinear. The number of triangles is
+
+    (a) 200                                        (b) 211                          (c) 210     (d) none of these
+
+12. The number of straight lines obtained by joining 16 points on a plane, no three of them being
+
+    on the same line is
+
+    (a) 120                                        (b) 110                          (c) 210     (d) none of these
+
+    © The Institute of Chartered Accountants of India
+5.28          BUSINESS MATHEMATICS
+
+13. At an election there are 5 candidates and 3 members are to be elected. A voter is entitled to
+      vote for any number of candidates not greater than the number to be elected. The number of
+      ways a voter choose to vote is
+
+      (a) 20                     (b) 22                  (c) 25          (d) none of these
+
+14. Every two persons shakes hands with each other in a party and the total number of hand
+
+      shakes is 66. The number of guests in the party is
+
+      (a) 11                     (b) 12                  (c) 13          (d) 14
+
+15. The number of parallelograms that can be formed from a set of four parallel lines intersecting
+
+      another set of three parallel lines is
+
+      (a) 6                      (b) 18                  (c) 12          (d) 9
+
+16. The number of ways in which 12 students can be equally divided into three groups is
+
+      (a) 5775                   (b) 7575                (c) 7755        (d) none of these
+
+17. The number of ways in which 15 mangoes can be equally divided among 3 students is
+
+      (a) 15 / (5 )4             (b) 15 / (5 )3          (c) 15 / (5 )2  (d) none of these
+
+18. 8 points are marked on the circumference of a circle. The number of chords obtained by
+
+      joining these in pairs is
+
+      (a) 25                     (b) 27                  (c) 28          (d) none of these
+
+19. A committee of 3 ladies and 4 gents is to be formed out of 8 ladies and 7 gents. Mrs. X refuses
+
+      to serve in a committee in which Mr. Y is a member. The number of such committees is
+
+      (a) 1530                   (b) 1500                (c) 1520        (d) 1540
+
+20. If 500C92 = 499C92 + nC 91 then n is
+
+      (a) 501                    (b) 500                 (c) 502         (d) 499
+
+21. The Supreme Court has given a 6 to 3 decision upholding a lower court; the number of ways
+
+      it can give a majority decision reversing the lower court is
+
+      (a) 256                    (b) 276                 (c) 245         (d) 226.
+
+22. Five bulbs of which three are defective are to be tried in two bulb points in a dark room.
+
+      Number of trials the room shall be lighted is
+
+      (a) 6                      (b) 8                   (c) 5           (d) 7.
+
+Choose the appropriate option a,b,c or d
+
+1. The letters of the words `CALCUTTA' and `AMERICA' are arranged in all possible ways.
+      The ratio of the number of their arrangements is
+
+      (a) 1:2                    (b) 2:1                 (c) 2:2         (d) none of these
+
+2. The ways of selecting 4 letters from the word `EXAMINATION' is
+
+      © The Institute of Chartered Accountants of India
+                            BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS                      5.29
+
+    (a) 136                 (b) 130                    (c) 125                (d) none of these
+
+3. The number of different words that can be formed with 12 consonants and 5 vowels by
+      taking 4 consonants and 3 vowels in each word is
+
+    (a) 12c4 × 5c3          (b) 17c7                   (c) 4950 × 7!          (d) none of these
+
+4. Eight guests have to be seated 4 on each side of a long rectangular table.2 particular guests
+      desire to sit on one side of the table and 3 on the other side. The number of ways in which the
+      sitting arrangements can be made is
+
+    (a) 1732                (b) 1728                   (c) 1730               (d) 1278.
+
+5 A question paper contains 6 questions, each having an alternative.
+
+    The number of ways an examine can answer one or more questions is
+
+    (a) 720                 (b) 728                    (c) 729                (d) none of these
+
+6.  c 51     is  equal  to
+         31
+
+    (a)      c 51           (b) 2.50c20                (c) 2.45c15            (d) none of these
+                  20
+
+7. The number of words that can be made by rearranging the letters of the word APURNA so
+
+    that vowels and consonants appear alternate is
+
+    (a) 18                  (b) 35                     (c) 36                 (d) none of these
+
+8. The number of arrangement of the letters of the word `COMMERCE' is
+
+    (a) 8                   (b) 8 / ( 2 2 2) (c) 7 !                          (d) none of these
+
+9. A candidate is required to answer 6 out of 12 questions which are divided into two groups
+      containing 6 questions in each group. He is not permitted to attempt more than four>
+      from any group. The number of choices are.
+
+    (a) 750                 (b) 850                    (c) 800                (d) none of these
+
+10. The results of 8 matches (Win, Loss or Draw) are to be predicted. The number of different
+      forecasts containing exactly 6 correct results is
+
+    (a) 316                 (b) 214                    (c) 112                (d) none of these
+
+11. The number of ways in which 8 different beads be strung on a necklace is
+
+    (a) 2500                (b) 2520                   (c) 2250               (d) none of these
+
+12. The number of different factors the number 75,600 has is
+
+    (a) 120                 (b) 121                    (c) 119                (d) none of these
+
+13. The number of 4 digit numbers formed with the digits 1, 1, 2, 2, 3, 4 is
+
+    (a) 100                 (b) 101                    (c) 201                (d) none of these
+
+14. The number of ways a person can contribute to a fund out of 1 ten-rupee note, 1 five-rupee
+      note, 1 two-rupee and 1 one rupee note is
+
+    (a) 15                  (b) 25                     (c) 10                 (d) none of these
+
+    © The Institute of Chartered Accountants of India
+5.30                  BUSINESS MATHEMATICS
+
+15. The number of ways in which 9 things can be divided into twice groups containing 2,3, and
+      4 things respectively is
+
+      (a) 1250                                          (b) 1260  (c) 1200     (d) none of these
+
+16.   P (n­1)      +  r.(n­1)  P  (r­1)  is  equal  to
+                r
+
+      (a) nCr                                           (b) n /  r nr (c) npr  (d) none of these
+
+17. 2n can be written as
+
+      (a) 2n { 1.3.5....(2n­1)} n (b) 2n n                        (c) {1.3.5.....(2n ­1)} (d) none of these
+
+18. The number of even numbers greater than 300 can be formed with the digits 1, 2, 3, 4, 5
+      without repetion is
+
+      (a) 110                                           (b) 112   (c) 111      (d) none of these
+
+19. 5 letters are written and there are five letter-boxes. The number of ways the letters can be
+      dropped into the boxes, are in each
+
+      (a) 119                                           (b) 120   (c) 121      (d) none of these
+
+20. nC1 + nC2 + nC3 + nC4 + .....+ nCn equals
+
+      (a) 2n ­1                              (b) 2n               (c) 2n +1    (d) none of these
+
+Exercise 5(A)
+1. (c) 2. (b) 3. (a) 4. (b) 5. (c) 6. (b) 7. (d) 8. (a)
+9. (b) 10. (c) 11. (b) 12. (a) 13. (c) 14. (b) 15. (a) 16. (c)
+17. (a) 18. (b) 19. (d) 20. (a) 21 (c) 22 (c) 23 (a)
+
+Exercise 5 (B)
+1. (c) 2. (a) 3. (b) 4. (c) 5. (b) 6. (b) 7. (c) 8. (d)
+9. (a) 10. (c) 11. (c) 12. (b) 13. (c) 14. (b) 15. (a) 16. (b)
+17. (b) 18. (c) 19. (c) 20. (a) 21 (a)
+
+Exercise 5 (C)
+1. (a) 2. (b) 3. (c) 4. (b) 5. (b) 6. (a) 7. (b) 8. (c)
+9. (a) 10. (b) 11. (c) 12. (a) 13. (c) 14. (b) 15. (b) 16. (a)
+17. (b) 18. (c) 19. (d) 20. (d) 21. (a) 22. (d)
+Exercise 5 (D)
+1. (b) 2. (a) 3. (c) 4. (b) 5. (b) 6. (a) 7. (c) 8. (b)&(c)
+9. (b) 10. (c) 11. (b) 12. (c) 13. (d) 14. (a) 15. (b) 16. (c)
+17. (a) 18. (c) 19. (b) 20. (a)
+
+      © The Institute of Chartered Accountants of India
+                    BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS                        5.31
+
+1. There are 6 routes for journey from station A to station B. In how many ways you may
+      go from A to B and return if for returning you make a choice of any of the routes?
+
+(a) 6               (b) 12                         (c) 36    (d) 30
+
+2. As per question No.(1) if you decided to take the same route you may do it in _______
+      number of ways.
+
+(a) 6               (b) 12                         (c) 36    (d) 30
+
+3. As per question No.(1) if you decided not to take the same route you may do it in _______
+      number of ways.
+
+(a) 6               (b) 12                         (c) 36    (d) 30
+
+4. How many telephones connections may be allotted with 8 digits form the numbers 0,1,2
+      .......9?
+
+(a) 108             (b) 10!                        (c) 10C8  (d) 10 P8
+
+5. In how many different ways 3 rings of a lock can not combine when each ring has digits
+      0,1,2......9 leading to unsuccessful events?
+
+(a) 999             (b) 103                        (c) 10!   (d) 997
+
+6. A dealer provides you Maruti Car & Van in 2 body patterns and 5 different colours. How
+      many choices are open to you?
+
+(a) 2               (b) 7                          (c) 20    (d) 10
+
+7. 3 persons go into a railway carriage having 8 seats. In how many ways they may occupy the
+      seats?
+
+(a)      8P3        (b) 8 C 3                      (c) 8 C5  (d) None
+
+8. Find how many five-letter words can be formed out of the word "LOGARITHMS" (the
+      words may not convey any meaning)
+
+(a)      10 P5      (b) 10 C5                      (c) 9 C4  (d) None
+
+9. How many 4 digits numbers greater than 7000 can be formed out of the digits 3,5,7,8,9?
+
+(a) 24              (b) 48                         (c) 72    (d) 50
+
+10. In how many ways 5 Sanskrit 3 English and 3 Hindi books be arranged keeping the books of
+      the same language together?
+
+(a) 5!  3!  3!  3!  (b) 5!  3!  3!                 (c) 5 P3  (d) None
+
+© The Institute of Chartered Accountants of India
+5.32           BUSINESS MATHEMATICS
+
+11. In how many ways can 6 boys and 6 girls be seated around a table so that no 2 boys are
+      adjacent?
+
+      (a) 4!  5!(b) 5!  6!  (c) 6 P6                     (d) 5  6 P6
+
+12. In how many ways can 4 Americans and 4 English men be seated at a round table so that no
+      2 Americans may be together?
+
+      (a) 4!  3!(b) 4 P4    (c) 3  4 P4                  (d) 4 C4
+
+13. The chief ministers of 17 states meet to discuss the hike in oil price at a round table. In how
+      many ways they seat themselves if the Kerala and Bengal chief ministers choose to sit
+      together?
+
+      (a) 15!  2!           (b) 17!  2!                  (c) 16!  2!          (d) None
+
+14. The number of permutation of the word `ACCOUNTANT' is
+
+      (a) 10!  (2!)4        (b) 10!  (2!)3               (c) 10!              (d) None
+
+15. The number of permutation of the word `ENGINEERING' is
+
+      (a) 11! [(3!)2(2!)2]  (b) 11!                      (c) 11!  [(3!)(2!)]  (d) None
+
+16. The number of arrangements that can be made with the word `ASSASSINATION' is
+
+      (a) 13!  [3!  4!  (2!)2] (b) 13!  [3!  4!  2!] (c) 13!                  (d) None
+
+17. How many numbers higher than a million can be formed with the digits 0,4,4,5,5,5,3?
+
+      (a) 420               (b) 360                      (c) 7!               (d) None
+
+18. The number of permutation of the word `ALLAHABAD' is
+
+      (a) 9!  (4!  2!)      (b) 9!  4!                   (c) 9!               (d) None
+
+19. In how many ways the vowels of the word `ALLAHABAD' will occupy the even places?
+
+      (a) 120               (b) 60                       (c) 30               (d) None
+
+20. How many arrangements can be made with the letter of the word `MATHEMATICS'?
+
+      (a) 11!  (2!)3        (b) 11!  (2!)2               (c) 11!              (d) None
+
+21. In how many ways of the word `MATHEMATICS' be arranged so that the vowels occur
+      together?
+
+      (a) 11!  (2!)3        (b) (8!  4!)  (2!)3          (c) 12!  (2!)3       (d) None
+
+22. In how many ways can the letters of the word `ARRANGE' be arranged?
+
+      (a) 1,200             (b) 1,250                    (c) 1,260            (d) 1,300
+
+      © The Institute of Chartered Accountants of India
+                             BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS              5.33
+
+23. In how many ways the word `ARRANGE' be arranged such that the 2 `R's come together?
+
+     (a) 400                 (b) 440               (c) 360       (d) None
+
+24. In how many ways the word `ARRANGE' be arranged such that the 2 `R's do not come
+      together?
+
+     (a) 1,000               (b) 900               (c) 800       (d) None
+
+25. In how many ways the word `ARRANGE' be arranged such that the 2 `R's and 2 `A's come
+      together?
+
+     (a) 120                 (b) 130               (c) 140       (d) None
+
+26. If n P 4 = 12, n P 2 the value of n is
+
+     (a) 12                  (b) 6                 (c) -1        (d) both 6 -1
+
+27. If 4. nP3 = 5.n-1P3 the value of n is
+
+     (a) 12                  (b) 13                (c) 14        (d) 15
+
+28.  n Pr    P n-1       is
+                    r-1
+
+     (a) n                   (b) n!                (c) (n­1)!    (d) n Cn
+
+29. The total number of numbers less than 1000 and divisible by 5 formed with 0,1,2,.....9 such
+      that each digit does not occur more than once in each number is
+
+     (a) 150                 (b) 152               (c) 154       (d) None
+
+30. The number of ways in which 8 examination papers be arranged so that the best and worst
+      papers never come together is
+
+     (a) 8! ­ 2  7!          (b) 8! ­ 7!           (c) 8!        (d) None
+
+31. In how many ways can 4 boys and 3 girls stand in a row so that no two girls are together?
+
+     (a) 5!  4!  3!          (b) 5 P3 × 3          (c) 5 P3 × 2  (d) None
+
+32. In how many ways can 3 boys and 4 girls be arranged in a row so that all the three boys are
+      together?
+
+     (a) 4!  3!(b) 5!  3!    (c) 7!                (d) None
+
+33. How many six digit numbers can be formed out of 4 5 .....9 no digits being repeated?
+
+     (a) 6! ­ 5! (b) 6!      (c) 6! + 5!           (d) None
+
+© The Institute of Chartered Accountants of India
+5.34                 BUSINESS MATHEMATICS
+
+34. In terms of question No.(33) how many of them are not divisible by 5?
+
+      (a) 6! ­ 5! (b) 6!                       (c) 6! + 5!        (d) None
+
+35. In how many ways the word `FAILURE' can be arranged so that the consonants occupy
+      only the odd positions?
+
+      (a) 4!                                   (b) (4!)2          (c) 7!  3!       (d) None
+
+36. In how many ways can the word `STRANGE' be arranged so that the vowels are never
+      separated?
+
+      (a) 6!  2!(b) 7!                         (c) 7!  2!         (d) None
+
+37. In how many ways can the word `STRANGE' be arranged so that the vowels never come
+      together?
+
+      (a) 7! ­ 6!  2!                          (b) 7! ­ 6!        (c) 7 P6         (d) None
+
+38. In how many ways can the word `STRANGE' be arranged so that the vowels ocupy only
+      the odd places?
+
+      (a) 5 P5                                 (b) 5 P5 × 4 P4    (c) 5 P5 × 4 P2  (d) None
+
+39. How many four digits number can be formed by using 1,2, ........7?
+
+      (a)               7 P4                   (b) 7 P3           (c) 7 C4         (d) None
+
+40. How many four digits numbers can be formed by using 1,2, .....7 which are grater than
+      3400?
+
+      (a) 500                                  (b) 550            (c) 560          (d) None
+
+41. In how many ways it is possible to write the word `ZENITH' in a dictionary?
+
+      (a) 6 P6                                 (b) 6 C6           (c) 6 P0         (d) None
+
+42. In terms of question No.(41) what is the rank or order of the word `ZENITH' in the dictionary?
+
+      (a) 613                                  (b) 615            (c) 616          (d) 618
+
+43.   If   P n-1     ÷  P n+1     =  5   the value of n is
+                  3            3     12
+
+      (a) 8                                    (b) 4              (c) 5            (d) 2
+
+44.   If   P n+3        ÷  P n+2         = 14  the value of n is
+                   6               4
+
+      (a) 8                                    (b) 4              (c) 5            (d) 2
+
+      © The Institute of Chartered Accountants of India
+                                  BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS  5.35
+
+45.  If  7 Pn  ÷  P 7       = 60  the value of n is
+                       n-3
+
+     (a) 8                        (b) 4              (c) 5      (d) 2
+
+46. There are 4 routes for going from Dumdum to Sealdah and 5 routes for going from Sealdah
+      to Chandni. In how many different ways can you go from Dumdum to Chandni via Sealdah?
+
+     (a) 9                        (b) 1              (c) 20     (d) None
+
+47. In how many ways can 5 people occupy 8 vacant chairs?
+
+     (a) 5,720                    (b) 6,720          (c) 7,720  (d) None
+
+48. If there are 50 stations on a railway line how many different kinds of single first class tickets
+      may be printed to enable a passenger to travel from one station to other?
+
+     (a) 2,500                    (b) 2,450          (c) 2,400  (d) None
+
+49. How many six digits numbers can be formed with the digits 9, 5, 3, 1, 7, 0?
+
+     (a) 600                      (b) 720            (c) 120    (d) None
+
+50. In terms of question No.(49) how many numbers will have 0's in ten's place?
+
+     (a) 600                      (b) 720            (c) 120    (d) None
+
+51. How many words can be formed with the letters of the word `SUNDAY'?
+
+     (a) 6!                       (b) 5!             (c) 4!     (d) None
+
+52. How many words can be formed beginning with `N' with the letters of the word `SUNDAY'?
+
+     (a) 6!                       (b) 5!             (c) 4!     (d) None
+
+53. How many words can be formed beginning with `N' and ending in `A' with the letters of
+      the word `SUNDAY'?
+
+     (a) 6!                       (b) 5!             (c) 4!     (d) None
+
+54. How many different arrangements can be made with the letters of the word `MONDAY'?
+
+     (a) 6!                       (b) 8!             (c) 4!     (d) None
+
+55. How many different arrangements can be made with the letters of the word `ORIENTAL'?
+
+     (a) 6!                       (b) 8!             (c) 4!     (d) None
+
+56. How many different arrangements can be made beginning with `A' and ending in `N' with
+      the letters of the word `MONDAY'?
+
+     (a) 6!                       (b) 8!             (c) 4!     (d) None
+
+© The Institute of Chartered Accountants of India
+5.36          BUSINESS MATHEMATICS
+
+57. How many different arrangements can be made beginning with `A' and ending with `N'
+      with the letters of the word `ORIENTAL'?
+
+      (a) 6!           (b) 8!                            (c) 4!         (d) None
+
+58. In how many ways can a consonant and a vowel be chosen out of the letters of the word
+      `LOGARITHM'?
+
+      (a) 18           (b) 15                            (c) 3          (d) None
+
+59. In how many ways can a consonant and a vowel be chosen out of the letters of the word
+      `EQUATION'?
+
+      (a) 18           (b) 15                            (c) 3          (d) None
+
+60. How many different words can be formed with the letters of the word `TRIANGLE'?
+
+      (a) 8!           (b) 7!                            (c) 6!         (d) 2!  6!
+
+61. How many different words can be formed beginning with `T' of the word `TRIANGLE'?
+
+      (a) 8!           (b) 7!                            (c) 6!         (d) 2!  6!
+
+62. How many different words can be formed beginning with `E' of the letters of the word
+      `TRIANGLE'?
+
+      (a) 8!           (b) 7!                            (c) 6!         (d) 2!  6!
+
+63. In question No. (60) how many of them will begin with `T' and end with `E'?
+
+      (a) 8!           (b) 7!                            (c) 6!         (d) 2!  6!
+
+64. In question No.(60) how many of them have `T' and `E' in the end places?
+
+      (a) 8!           (b) 7!                            (c) 6!         (d) 2!  6!
+
+65. In question No.(60) how many of them have consonants never together?
+
+      (a) 8! ­ 4!  5!  (b) 6 P3 ×5!                      (c) 2!  5!3!   (d) 4 P3 ×5!
+
+66. In question No.(60) how many of them have arrangements that no two vowels are together?
+
+      (a) 8! ­ 4!  5!  (b) 6 P3 ×5!                      (c) 2!  5! 3!  (d) 4 P3 ×5!
+
+67. In question No.(60) how many of them have arrangements that consonants and vowels are
+      always together?
+
+      (a) 8! ­ 4!  5!  (b) 6 P3 ×5!                      (c) 2!  5! 3!  (d) 4 P3 ×5!
+
+68. In question No.(60) how many of them have arrangements that vowels occupy odd places?
+
+      © The Institute of Chartered Accountants of India
+                 BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS                   5.37
+
+(a) 8! ­ 4!  5!  (b) 6 P3 ×5!                      (c) 2!  5! 3!  (d) 4 P3 ×5!
+
+69. In question No.(60) how many of them have arrangements that the relative positions of the
+      vowels and consonants remain unchanged?
+
+(a) 8! ­ 4!  5!  (b) 6 P3 × 5!                     (c) 2!  5! 3!  (d) 5!  3!
+
+70. In how many ways the letters of the word `FAILURE' can be arranged with the condition
+      that the four vowels are always together?
+
+(a) 4!2          (b) 4!                            (c) 7!         (d) None
+
+71. In how many ways n books can be arranged so that two particular books are not together?
+
+(a) (n ­ 2)  (n ­ 1)! (b) n  n!                    (c) (n ­ 2)  (n ­ 2)! (d) None
+
+72. In how many ways can 3 books on Mathematics and 5 books on English be placed so that
+      books on the same subject always remain together?
+
+(a) 1,440        (b) 240                           (c) 480        (d) 144
+
+73. 6 papers are set in an examination out of which two are mathematical. In how many ways
+      can the papers be arranged so that 2 mathematical papers are together?
+
+(a) 1,440        (b) 240                           (c) 480        (d) 144
+
+74. In question No.(73) will your answer be different if 2 mathematical papers are not
+      consecutive?
+
+(a) 1,440        (b) 240                           (c) 480        (d) 144
+
+75. The number of ways the letters of the word `SIGNAL' can be arranged such that the vowels
+      occupy only odd positions is________.
+
+(a) 1,440        (b) 240                           (c) 480        (d) 144
+
+76. In how many ways can be letters of the word `VIOLENT' be arranged so that the vowels
+      occupy even places only?
+
+(a) 1,440        (b) 240                           (c) 480        (d) 144
+
+77. How many numbers between 1000 and 10000 can be formed with 1, 2, .....9?
+
+(a) 3,024        (b) 60                            (c) 78         (d) None
+
+78. How many numbers between 3000 and 4000 can be formed with 1, 2, .....6?
+
+(a) 3,024        (b) 60                            (c) 78         (d) None
+
+79. How many numbers greater than 23,000 can be formed with 1, 2, .....5?
+
+(a) 3,024        (b) 60                            (c) 78         (d) None
+
+© The Institute of Chartered Accountants of India
+5.38           BUSINESS MATHEMATICS
+
+80. If you have 5 copies of one book, 4 copies of each of two books, 6 copies each of three books
+      and single copy of 8 books you may arrange it in ________number of ways.
+
+                 39!                                     39!                  39!            39!
+                                                                                   (d) 5!×8!×4!×6!
+      (a) 5!×4!2 ×6!3         (b) 5!×8!×4!2 ×6!3 (c) 5!×8!×4!×6!2
+
+81. How many arrangements can be made out of the letters of the word "PERMUTATION"?
+
+      (a)        1  P 11      (b)    P 11                     (c)  C 11            (d) None
+                 2        11               11                             11
+
+82. How many numbers greater than a million can be formed with the digits: One 0 Two 1 One
+      3 and Three 7?
+
+      (a) 360                 (b) 240                         (c) 840              (d) 20
+
+83. How many arrangements can be made out of the letters of the word `INTERFERENCE' so
+      that no two consonant are together?
+
+      (a) 360                 (b) 240                         (c) 840              (d) 20
+
+84. How many different words can be formed with the letter of the word "HARYANA"?
+
+      (a) 360                 (b) 240                         (c) 840              (d) 20
+
+85. In question No.(84) how many arrangements are possible keeping `H' and `N' together?
+
+      (a) 360                 (b) 240                         (c) 840              (d) 20
+
+86. In question No.(84) how many arrangements are possible beginning with `H' and ending
+      with `N'?
+
+      (a) 360                 (b) 240                         (c) 840              (d) 20
+
+87. A computer has 5 terminals and each terminal is capable of four distinct positions including
+      the positions of rest what is the total number of signals that can be made?
+
+      (a) 20                  (b) 1,020                       (c) 1,023            (d) None
+
+88. In how many ways can 9 letters be posted in 4 letter boxes?
+
+      (a) 49                  (b) 45                          (c) 9 P4             (d) 9 C4
+
+89. In how many ways can 8 beads of different colour be strung on a ring?
+
+      (a) 7!  2               (b) 7!                          (c) 8!               (d) 8!  2
+
+90. In how many ways can 8 boys form a ring?
+
+      (a) 7!  2               (b) 7!                          (c) 8!               (d) 8!  2
+
+      © The Institute of Chartered Accountants of India
+                BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS                  5.39
+
+91. In how many ways 6 men can sit at a round table so that all shall not have the same neighbours
+      in any two occasions?
+
+(a) 5!  2       (b) 5!                             (c) (7!)2           (d) 7!
+
+92. In how many ways 6 men and 6 women sit at a round table so that no two men are together?
+
+(a) 5!  2       (b) 5!                             (c) 5! 6!           (d) 7!
+
+93. In how many ways 4 men and 3 women are arranged at a round table if the women never sit
+      together?
+
+(a) 6  6!       (b) 6!                             (c) 7!              (d) None
+
+94. In how many ways 4 men and 3 women are arranged at a round table if the women always
+      sit together?
+
+(a) 6  6!       (b) 6!                             (c) 7!              (d) None
+
+95. A family comprised of an old man, 6 adults and 4 children is to be seated is a row with the
+      condition that the children would occupy both the ends and never occupy either side of the
+      old man. How many sitting arrangements are possible?
+
+(a) 4!  5!  7!  (b) 4!  5!  6!                     (c) 2!  4!  5!  6!  (d) None
+
+96. The total number of sitting arrangements of 7 persons in a row if 3 persons sit together in a
+      particular order is _________.
+
+(a) 5!          (b) 6!                             (c) 2!  5!          (d) None
+
+97. The total number of sitting arrangements of 7 persons in a row if 3 persons sit together in
+      any order is _________.
+
+(a) 5!          (b) 6!                             (c) 2!  5!          (d) None
+
+98. The total number of sitting arrangements of 7 persons in a row if two persons occupy the
+      end seats is _________.
+
+(a) 5!          (b) 6!                             (c) 2!  5!          (d) None
+
+99. The total number of sitting arrangements of 7 persons in a row if one person occupies the
+      middle seat is _________.
+
+(a) 5!          (b) 6!                             (c) 2!  5!          (d) None
+
+100. If all the permutations of the letters of the word `CHALK' are written in a dictionary the
+      rank of this word will be ____________.
+
+(a) 30          (b) 31                             (c) 32              (d) None
+
+© The Institute of Chartered Accountants of India
+5.40           BUSINESS MATHEMATICS
+
+101. In a ration shop queue 2 boys, 2 girls, and 2 men are standing in such a way that the boys the
+      girls and the men are together each. The total number of ways of arranging the queue is
+      ______.
+
+      (a) 42     (b) 48                                  (c) 24         (d) None
+
+102. If you have to make a choice of 7 questions out of 10 questions set, you can do it in _______
+      number of ways.
+
+      (a) 10 C7  (b) 10 P7                               (c) 7!  10 C7  (d) None
+
+103. From 6 boys and 4 girls 5 are to be seated. If there must be exactly 2 girls the number of
+      ways of selection is ______.
+
+      (a) 240    (b) 120                                 (c) 60         (d) None
+
+104. In your office 4 posts have fallen vacant. In how many ways a selection out of 31 candidates
+      can be made if one candidate is always included?
+
+      (a) 30 C3  (b) 30 C4                               (c) 31C3       (d) 31C4
+
+105. In question No.(104) would your answer be different if one candidate is always excluded?
+
+      (a) 30 C3  (b) 30 C4                               (c) 31C3       (d) 31C4
+
+106. Out of 8 different balls taken three at a time without taking the same three together more
+      than once for how many number of times you can select a particular ball?
+
+      (a) 7 C2   (b) 8 C3                                (c) 7 P2       (d) 8 P3
+
+107. In question No.(106) for how many number of times you can select any ball?
+
+      (a) 7 C2   (b) 8 C3                                (c) 7 P2       (d) 8 P3
+
+108. In your college Union Election you have to choose candidates. Out of 5 candidates 3 are to
+      be elected and you are entitled to vote for any number of candidates but not exceeding the
+      number to be elected. You can do it in _________ ways.
+
+      (a) 25     (b) 5                                   (c) 10         (d) None
+
+109. In a paper from 2 groups of 5 questions each you have to answer any 6 questions attempting
+      at least 2 questions from each group. This is possible in ________ number of ways.
+
+      (a) 50     (b) 100                                 (c) 200        (d) None
+
+      © The Institute of Chartered Accountants of India
+                         BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS                    5.41
+
+110. Out of 10 consonants and 4 vowels how many words can be formed each containing 6
+      consonant and 3 vowels?
+
+(a)        10 C6 × 4 C3  (b) 10 C6 × 4 C3 ×9!      (c) 10 C6 × 4 C3×10!  (d) None
+
+111. A boat's crew consist of 8 men, 3 of whom can row only on one side and 2 only on the other.
+      The number of ways in which the crew can be arranged is _________.
+
+(a) 3 C1×4!2             (b) 3 C1×4!               (c) 3 C1              (d) None
+
+112. A party of 6 is to be formed from 10 men and 7 women so as to include 3 men and 3 women.
+      In how many ways the party can be formed if two particular women refuse to join it?
+
+(a) 4,200                (b) 600                   (c) 3,600             (d) None
+
+113. You are selecting a cricket team of first 11 players out of 16 including 4 bowlers and 2
+      wicket-keepers. In how many ways you can do it so that the team contains exactly 3 bowlers
+      and 1 wicket-keeper?
+
+(a) 960                  (b) 840                   (c) 420               (d) 252
+
+114. In question No.(113) would your answer be different if the team contains at least 3 bowlers
+      and at least 1 wicket-keeper?
+
+(a) 2,472                (b) 960                   (c) 840               (d) 420
+
+115. A team of 12 men is to be formed out of n persons. Then the number of times 2 men `A' and
+      `B' are together is ___________.
+
+(a) n C12                (b)  C n-1                (c)     C n-2         (d) None
+                                      11                           10
+
+116. In question No.(115) the number of times 3 men `C' `D' and `E' are together is _____.
+
+(a)        n C12         (b)  C n-1                (c)     C n-2         (d)  C n-3
+                                      11                           10                 10
+
+117. In question No.(115) it is found that `A' and `B' are three times as often together as `C' `D'
+      and `E' are. Then the value of n is ____________.
+
+(a) 32                   (b) 23                    (c) 9                 (d) None
+
+118. The number of combinations that can be made by taking 4 letters of the word
+      `COMBINATION' is _______.
+
+(a) 70                   (b) 63                    (c) 3                 (d) 136
+
+119. If 18 Cn = 18 Cn+2 then the value of n is __________
+
+(a) 0                    (b) ­2                    (c) 8                 (d) None
+
+© The Institute of Chartered Accountants of India
+5.42              BUSINESS MATHEMATICS
+
+120. If    n  C6  ÷  n-2  C3  =  91  then the value of n is __________
+                                 4
+
+      (a) 15                         (b) 14              (c) 13            (d) None
+
+121. In order to pass PE-II examination minimum marks have to be secured in each of 7 subjects.
+      In how many ways can a pupil fail?
+
+      (a) 128                        (b) 64              (c) 127           (d) 63
+
+122. In how many ways you can answer one or more questions out of 6 questions each having an
+      alternative?
+
+      (a) 728                        (b) 729             (c) 128           (d) 129
+
+123. There are 12 points in a plane no 3 of which are collinear except that 6 points which are
+      collinear. The number of different straight lines is _________.
+
+      (a) 50                         (b) 51              (c) 52            (d) None
+
+124. In question No.(123) the number of different triangles formed by joining the straight lines is
+      ________.
+
+      (a) 220                        (b) 20              (c) 200           (d) None
+
+125. A committee is to be formed of 2 teachers and 3 students out of 10 teachers and 20 students.
+      The numbers of ways in which this can be done is ______.
+
+      (a)            10 C2 × 20 C3   (b) 9 C1× 20 C3     (c) 10 C2 ×19 C3  (d) None
+
+126. In question No.(125) if a particular teacher is included the number of ways in which this can
+      be done is _________.
+
+      (a)            10 C2 × 20 C3   (b) 9 C1× 20 C3     (c) 10 C2 ×19 C3  (d) None
+
+127. In question No.(125) if a particular student is excluded the number of ways in which this
+      can be done is _________.
+
+      (a)            10 C2 × 20 C3   (b) 9 C1× 20 C3     (c) 10 C2 ×19 C3  (d) None
+
+128. In how many ways 21 red balls and 19 blue balls can be arranged in a row so that no two
+      blue balls are together?
+
+      (a) 1540                       (b) 1520            (c) 1560          (d) None
+
+129. In forming a committee of 5 out of 5 males and 6 females how many choices you have to
+      make so that there are 3 males and 2 females?
+
+      (a) 150                        (b) 200             (c) 1             (d) 461
+
+      © The Institute of Chartered Accountants of India
+                BASIC CONCEPTS OF PERMUTATIONS AND COMBINATIONS                     5.43
+
+130. In question No.(129) how many choices you have to make if there are 2 males?
+
+(a) 150         (b) 200                            (c) 1        (d) 461
+
+131. In question No.(129) how many choices you have to make if there is no female?
+
+(a) 150         (b) 200                            (c) 1        (d) 461
+
+132. In question No.(129) how many choices you have to make if there is at least one female?
+
+(a) 150         (b) 200                            (c) 1        (d) 461
+
+133. In question No.(129) how many choices you have to make if there are not more than 3
+      males?
+
+(a) 200         (b) 1                              (c) 461      (d) 431
+
+134. From 7 men and 4 women a committee of 5 is to be formed. In how many ways can this be
+      done to include at least one woman?
+
+(a) 441         (b) 440                            (c) 420      (d) None
+
+135. You have to make a choice of 4 balls out of one red one blue and ten white balls. The number
+      of ways this can be done to always include the red ball is ___________.
+
+(a)      11 C3  (b) 10 C3                          (c) 10 C4    (d) None
+
+136. In question No.(135) the number of ways in which this can be done to include the red ball
+      but exclude the blue ball always is _______.
+
+(a)      11 C3  (b) 10 C3                          (c) 10 C4    (d) None
+
+137. In question No.(135) the number of ways in which this can be done to exclude both the red
+      and blues ball is _______.
+
+(a)      11 C3  (b) 10 C3                          (c) 10 C4    (d) None
+
+138. Out of 6 members belonging to party `A' and 4 to party `B' in how many ways a committee
+      of 5 can be selected so that members of party `A' are in a majority?
+
+(a) 180         (b) 186                            (c) 185      (d) 184
+
+139. A question paper divided into 2 groups consisting of 3 and 4 questions respectively carries
+      the note "it is not required to answer all the questions. One question must be answered
+      from each group". In how many ways you can select the questions?
+
+(a) 10          (b) 11                             (c) 12       (d) 13
+
+140. The number of words which can be formed with 2 different consonants and 1 vowel out of
+      7 different consonants and 3 different vowels the vowel to lie between 2 consonants is
+      ______.
+
+(a) 3  7  6     (b) 2  3  7  6                     (c) 2  3  7  (d) None
+
+© The Institute of Chartered Accountants of India
+5.44           BUSINESS MATHEMATICS
+
+141. How many combinations can be formed of 8 counters marked 1 2 ...8 taking 4 at a time
+      there being at least one odd and even numbered counter in each combination?
+
+      (a) 68    (b) 66                                   (c) 64     (d) 62
+
+142. Find the number of ways in which a selection of 4 letters can be made from the word
+      `MATHEMATICS'.
+
+      (a) 130   (b) 132                                  (c) 134    (d) 136
+
+143. Find the number of ways in which an arrangement of 4 letters can be made from the word
+      `MATHEMATICS'.
+
+      (a) 1680  (b) 756                                  (c) 18     (d) 2,454
+
+144. In a cross word puzzle 20 words are to be guessed of which 8 words have each an alternative
+      solution. The number of possible solution is ________.
+
+      (a) 2×82  (b)                  C 20                (c) 20 C8  (d) None
+                                            16
+
+1. (c) 19. (b) 37. (a) 55. (b) 73. (b) 91. (a) 109. (c) 127. (c)
+2. (a) 20. (a) 38. (c) 56. (c) 74. (c) 92. (c) 110. (b) 128. (a)
+3. (d) 21. (b) 39. (a) 57. (a) 75. (d) 93. (d) 111. (a) 129. (a)
+4. (a) 22. (c) 40. (c) 58. (a) 76. (d) 94. (d) 112. (c) 130. (b)
+5. (a) 23. (c) 41. (a) 59. (b) 77. (a) 95. (d) 113. (a) 131. (c)
+6. (c) 24. (b) 42. (c) 60. (a) 78. (b) 96. (a) 114. (a) 132. (d)
+7. (a) 25. (a) 43. (a) 61. (b) 79. (d) 97. (b) 115. (c) 133. (d)
+8. (a) 26. (b) 44. (b) 62. (b) 80. (a) 98. (c) 116. (d) 134. (a)
+9. (c) 27. (d) 45. (c) 63. (c) 81. (a) 99. (b) 117. (a) 135. (a)
+10. (a) 28. (a) 46. (c) 64. (d) 82. (a) 100. (c) 118. (d) 136. (b)
+11. (b) 29. (c) 47. (b) 65. (a) 83. (d) 101. (b) 119. (c) 137. (c)
+12. (a) 30. (a) 48. (b) 66. (b) 84. (c) 102. (a) 120. (d) 138. (b)
+13. (a) 31. (a) 49. (a) 67. (c) 85. (b) 103. (b) 121. (c) 139. (c)
+14. (a) 32. (b) 50. (c) 68. (d) 86. (d) 104. (a) 122. (a) 140. (a)
+15. (a) 33. (b) 51. (a) 69. (d) 87. (c) 105. (b) 123. (c) 141. (a)
+16. (a) 34. (a) 52. (b) 70. (a) 88. (a) 106. (a) 124. (c) 142. (d)
+17. (b) 35. (b) 53. (c) 71. (a) 89. (a) 107. (b) 125. (a) 143. (d)
+18. (a) 36. (a) 54. (a) 72. (a) 90. (b) 108. (a) 126. (b) 144. (a)
+
+      © The Institute of Chartered Accountants of India
+

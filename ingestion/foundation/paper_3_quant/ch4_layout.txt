@@ -1,0 +1,2452 @@
+CHAPTER             4
+
+MATHEMATICS OF FINANCE
+
+After studying this chapter students will be able to understand:
+ The concept of interest, related terms and computation thereof;
+ Difference between simple and compound interest;
+ The concept of annuity;
+ The concept of present value and future value;
+ Use of present value concept in Leasing, Capital expenditure and Valuation of Bond.
+
+CHAPTER OVERVIEW
+
+                                                   Interest
+
+                    Simple         Compound        Effective rate of          Annuity
+                    Interest         Interest           Interest
+
+                    Annuity Types                  Applications of Annuities  Sinking Funds
+
+First Payment or/   First Payment/ Receipt in      Leasing          Capital Expenditure         Valuation
+Receipt at the end   the first (beginning) of                            (Investment             of Bond
+                                                                           decision)
+   of the period             the period
+
+ Future value       Present value                  Future value of            Present value of
+of the annuity        of annuity                    annuity due                 annuity due
+                        regular
+    regular
+
+© The Institute of Chartered Accountants of India
+4.2  BUSINESS MATHEMATICS
+
+People earn money for spending it on housing, food, clothing, education, entertainment etc.
+Sometimes extra expenditures have also to be met with. For example there might be a marriage
+in the family; one may want to buy house, one may want to set up his or her business, one may
+want to buy a car and so on. Some people can manage to put aside some money for such expected
+and unexpected expenditures. But most people have to borrow money for such contingencies.
+From where they can borrow money?
+Money can be borrowed from friends or money lenders or Banks. If you can arrange a loan from
+your friend it might be interest free but if you borrow money from lenders or Banks you will
+have to pay some charge periodically for using money of money lenders or Banks. This charge is
+called interest.
+Let us take another view. People earn money for satisfying their various needs as discussed
+above. After satisfying those needs some people may have some savings. People may invest
+their savings in debentures or lend to other person or simply deposit it into bank. In this way
+they can earn interest on their investment.
+Most of you are very much aware of the term interest. Interest can be defined as the price paid by
+a borrower for the use of a lender's money.
+We will know more about interest and other related terms later.
+
+Now question arises why lenders charge interest for the use of their money. There are a variety of
+reasons. We will now discuss those reasons.
+
+1. Time value of money: Time value of money means that the value of a unity of money is
+      different in different time periods. The sum of money received in future is less valuable than
+      it is today. In other words the present worth of money received after some time will be less
+      than money received today. Since money received today has more value rational investors
+      would prefer current receipts to future receipts. If they postpone their receipts they will
+      certainly charge some money i.e. interest.
+
+2. Opportunity Cost: The lender has a choice between using his money in different investments.
+      If he chooses one he forgoes the return from all others. In other words lending incurs an
+      opportunity cost due to the possible alternative uses of the lent money.
+
+3. Inflation: Most economies generally exhibit inflation. Inflation is a fall in the purchasing
+      power of money. Due to inflation a given amount of money buys fewer goods in the future
+      than it will now. The borrower needs to compensate the lender for this.
+
+4. Liquidity Preference: People prefer to have their resources available in a form that can
+      immediately be converted into cash rather than a form that takes time or money to realize.
+
+5. Risk Factor: There is always a risk that the borrower will go bankrupt or otherwise default
+      on the loan. Risk is a determinable factor in fixing rate of interest.
+
+A lender generally charges more interest rate (risk premium) for taking more risk.
+
+   © The Institute of Chartered Accountants of India
+MATHEMATICS OF FINANCE  4.3
+
+Now we can define interest and some other related terms.
+
+4.3.1 Interest
+Interest is the price paid by a borrower for the use of a lender's money. If you borrow (or lend)
+some money from (or to) a person for a particular period you would pay (or receive) more money
+than your initial borrowing (or lending). This excess money paid (or received) is called interest.
+Suppose you borrow (or lend) ` 50,000 for a year and you pay (or receive) ` 55,000 after one year
+the difference between initial borrowing (or lending) ` 50,000 and end payment (or receipts) `
+55,000 i.e. ` 5,000 is the amount of interest you paid (or earned).
+
+4.3.2 Principal
+Principal is initial value of lending (or borrowing). If you invest your money the value of initial
+investment is also called principal. Suppose you borrow (or lend) ` 50,000 from a person for one
+year. ` 50,000 in this example is the `Principal.' Take another example suppose you deposit `
+20,000 in your bank account for one year. In this example ` 20,000 is the principal.
+
+4.3.3 Rate of Interest
+The rate at which the interest is charged for a defined length of time for use of principal generally
+on a yearly basis is known to be the rate of interest. Rate of interest is usually as expressed as
+percentages. Suppose you invest ` 20,000 in your bank account for one year with the interest rate
+of 5% per annum. It means you would earn ` 5 as interest every ` 100 of principal amount in a
+year.
+Per annum means for a year.
+
+4.3.4 Accumulated amount (or Balance)
+Accumulated amount is the final value of an investment. It is the sum total of principal and
+interest earned. Suppose you deposit ` 50,000 in your bank for one year with an interest rate of
+5% p.a. you would earn interest of ` 2,500 after one year. (method of computing interest will be
+illustrated later). After one year you will get ` 52,500 (principal+ interest), ` 52,500 is accumulated
+amount here.
+Amount is also known as the balance.
+
+Now we can discuss the method of computing interest. Interest accrues as either simple interest
+or compound interest. We will discuss simple interest and compound interest in the following
+paragraphs:
+
+4.4.1 Simple Interest
+Now we would know what is simple interest and the methodology of computing simple interest
+
+   © The Institute of Chartered Accountants of India
+4.4  BUSINESS MATHEMATICS
+
+and accumulated amount for an investment (principal) with a simple rate over a period of time.
+As you already know the money that you borrow is known as principal and the additional money
+that you pay for using somebody else's money is known as interest. The interest paid for keeping
+` 100 for one year is known as the rate percent per annum. Thus if money is borrowed at the rate
+of 8% per annum then the interest paid for keeping ` 100 for one year is ` 8. The sum of principal
+and interest is known as the Amount.
+Clearly the interest you pay is proportionate to the money that you borrow and also to the period
+of time for which you keep the money; the more the money and the time, the more the interest.
+Interest is also proportionate to the rate of interest agreed upon by the lending and the borrowing
+parties. Thus interest varies directly with principal, time and rate.
+Simple interest is the interest computed on the principal for the entire period of borrowing. It is
+calculated on the outstanding principal balance and not on interest previously earned. It means
+no interest is paid on interest earned during the term of loan.
+Simple interest can be computed by applying following formulas:
+
+            I = Pit
+            A=P+I
+
+                  = P + Pit
+                  = P(1 + it)
+            I=A­P
+      Here,
+      A = Accumulated amount (final value of an investment)
+      P = Principal (initial value of an investment)
+      i = Annual interest rate in decimal.
+      I = Amount of Interest
+      t = Time in years
+      Let us consider the following examples in order to see how exactly are these quantities
+      related.
+Example 1: How much interest will be earned on ` 2000 at 6% simple interest for 2 years?
+Solution: Required interest amount is given by
+            I=P×i×t
+
+                           6
+             = 2,000 × 100 × 2
+              = ` 240
+Example 2: Sania deposited ` 50,000 in a bank for two years with the interest rate of 5.5% p.a.
+How much interest would she earn?
+Solution: Required interest amount is given by
+
+   © The Institute of Chartered Accountants of India
+                                                    MATHEMATICS OF FINANCE  4.5
+
+I=P×i×t
+
+                5.5
+= ` 50,000 × 100 × 2
+= ` 5,500
+
+Example 3: In example 2 what will be the final value of investment?
+
+Solution: Final value of investment is given by
+
+A = P(1 + it)
+
+=  `  50,000     1+  5.5  ×2
+                     100
+
+=  `  50,000     1+  11   
+                     100  
+
+=`     50,000 ×111
+
+       100
+
+= ` 55,500
+
+   or
+
+A=P+I
+
+= ` (50,000 + 5,500)
+
+= ` 55,500
+
+Example 4: Sachin deposited ` 1,00,000 in his bank for 2 years at simple interest rate of 6%. How
+much interest would he earn? How much would be the final value of deposit?
+
+Solution: (a) Required interest amount is given by
+
+   I = P × it
+
+                         6
+      = ` 1,00,000 × 100 × 2
+      = ` 12,000
+
+(b) Final value of deposit is given by
+
+   A=P+I
+
+       = ` (1,00,000 + 12,000)
+
+       = ` 1,12,000
+
+Example 5: Find the rate of interest if the amount owed after 6 months is ` 1050, borrowed
+amount being ` 1000.
+
+Solution: We know A = P + Pit
+
+   i.e. 1050 = 1000 + 1000 × i × (6/12)
+
+© The Institute of Chartered Accountants of India
+4.6  BUSINESS MATHEMATICS
+
+      50 = 500 i
+
+      i = 1/10 = 10%
+
+Example 6: Rahul invested ` 70,000 in a bank at the rate of 6.5% p.a. simple interest rate.
+He received ` 85,925 after the end of term. Find out the period for which sum was invested by
+Rahul.
+
+Solution: We know A = P (1+it)
+
+     i.e.  85,925  =  70,000         1+  6.5               ×t
+                                         100
+
+                                  100+6.5 t
+      85,925/70,000 =
+
+                                     100
+
+           85,925×100
+           70,000 ­ 100 = 6.5t
+
+      22.75 = 6.5t
+
+      t = 3.5
+
+      time = 3.5 years
+
+Example 7: Kapil deposited some amount in a bank for 7 ½ years at the rate of 6% p.a. simple
+interest. Kapil received ` 1,01,500 at the end of the term. Compute initial deposit of Kapil.
+
+Solution: We know A = P(1+ it)
+
+     i.e.  1,01,500   =  P    1  +   6                  ×  15  
+                                    100                    2   
+
+           1,01,500   =  P       1+  45                 
+                                     100                
+
+                          145
+      1,01,500 = P  100
+
+                   P=    1,01,500×100
+
+                                    145
+
+                      = ` 70,000
+
+      Initial deposit of Kapil = ` 70,000
+
+Example 8: A sum of ` 46,875 was lent out at simple interest and at the end of 1 year 8 months the
+total amount was ` 50,000. Find the rate of interest percent per annum.
+
+Solution: We know A = P (1 + it)
+
+     © The Institute of Chartered Accountants of India
+                                                            MATHEMATICS OF FINANCE  4.7
+
+i.e. 50,000  =  46,875    1+i×1                    8   
+                                                   12  
+
+                               5
+ 50,000/46,875 = 1 + 3 i
+
+ (1.067 ­ 1) × 3/5 = i
+
+ i = 0.04
+
+ rate = 4%
+
+Example 9: What sum of money will produce ` 28,600 as an interest in 3 years and 3 months at
+2.5% p.a. simple interest?
+
+Solution: We know I = P × it
+
+                     2.5                           3
+i.e. 28,600 = P x 100 × 3 12
+
+                2.5          13
+ 28,600 = 100 P × 4
+
+  28,600 =      32.5 P
+                400
+
+P               28,600×400
+             = 32.5
+             = ` 3,52,000
+
+ ` 3,52,000 will produce 28,600 interest in 3 years and 3 months at 2.5% p.a. simple interest
+
+Example 10: In what time will ` 85,000 amount to ` 1,57,675 at 4.5 % p.a. ?
+Solution: We know
+
+A = P (1 + it)
+
+  1,57,675      =  85,000    1+                    4.5  ×t
+                                                   100
+
+      1,57,675 100 + 4.5 t
+ 85,000 = 100
+
+             1,57,675 
+ 4.5t =  85,000 ×100 ­ 100
+
+                              85.5
+                   t = 4.5 = 19
+
+ In 19 years ` 85,000 will amount to ` 1,57,675 at 4.5% p.a. simple interest rate.
+
+© The Institute of Chartered Accountants of India
+4.8          BUSINESS MATHEMATICS
+
+Choose the most appropriate option (a) (b) (c) or (d).
+
+1. S.I on ` 3,500 for 3 years at 12% p.a. is
+
+     (a) ` 1,200    (b) ` 1,260                         (c) ` 2,260   (d) none of these
+
+2. P = 5,000, R = 15, T = 4 ½ using I = PRT/100, I will be
+
+     (a) ` 3,375    (b) ` 3,300                         (c) ` 3,735   (d) none of these
+
+3. If P = 5,000, T = 1, I = ` 300, R will be
+
+     (a) 5%         (b) 4%                              (c) 6%        (d) none of these
+
+4. If P = ` 4,500, A = ` 7,200, than Simple interest i.e. I will be
+
+     (a) ` 2,000    (b) ` 3,000                         (c) ` 2,500   (d) ` 2,700
+
+5. P = ` 12,000, A = ` 16,500, T = 2 ½ years. Rate percent per annum simple interest
+      will be
+
+     (a) 15%        (b) 12%                             (c) 10%       (d) none of these
+
+6 P = ` 10,000, I = ` 2,500, R = 12 ½% SI. The number of years T will be
+
+     (a) 1 ½ years (b) 2 years                          (c) 3 years   (d) none of these
+
+7. P = ` 8,500, A = ` 10,200, R = 12 ½ % SI, t will be.
+
+     (a) 1 yr. 7 mth. (b) 2 yrs.                        (c) 1 ½ yr.   (d) none of these
+
+8. The sum required to earn a monthly interest of ` 1,200 at 18% per annum SI is
+
+     (a) ` 50,000   (b) ` 60,000                        (c) ` 80,000  (d) none of these
+
+9. A sum of money amount to ` 6,200 in 2 years and ` 7,400 in 3 years. The principal and rate of
+      interest are
+
+     (a) ` 3,800, 31.58% (b) ` 3,000, 20% (c) ` 3,500, 15%            (d) none of these
+
+10. A sum of money doubles itself in 10 years. The number of years it would triple itself is
+
+     (a) 25 years.  (b) 15 years.                       (c) 20 years  (d) none of these
+
+4.4.2 Compound Interest
+
+We have learnt about the simple interest. We know that if the principal remains the same for the
+entire period or time then interest is called as simple interest. However in practice the method
+according to which banks, insurance corporations and other money lending and deposit taking
+companies calculate interest is different. To understand this method we consider an example :
+
+Suppose you deposit ` 50,000 in ICICI bank for 2 years at 7% p.a. compounded annually. Interest
+will be calculated in the following way:
+
+     © The Institute of Chartered Accountants of India
+                                                              MATHEMATICS OF FINANCE  4.9
+
+INTEREST FOR FIRST YEAR
+
+I = Pit
+                   7
+
+  = ` 50,000 × 100 × 1 = ` 3,500
+
+INTEREST FOR SECOND YEAR
+
+For calculating interest for second year principal would not be the initial deposit. Principal for
+calculating interest for second year will be the initial deposit plus interest for the first year.
+Therefore principal for calculating interest for second year would be
+
+=          ` 50,000 + ` 3,500
+
+=          ` 53,500
+
+                                                   7
+Interest for the second year = ` 53,500 × 100 × 1
+
+                                                   = ` 3,745
+
+Total interest = Interest for first year + Interest for second year
+
+= ` (3,500 + 3,745)
+
+= ` 7,245
+
+This interest is ` 245 more than the simple interest on ` 50,000 for two years at 7% p.a. As you
+must have noticed this excess in interest is due to the fact that the principal for the second year
+was more than the principal for first year. The interest calculated in this manner is called compound
+interest.
+
+Thus we can define the compound interest as the interest that accrues when earnings for each
+specified period of time added to the principal thus increasing the principal base on which
+subsequent interest is computed.
+
+Example 11: Saina deposited ` 1,00,000 in a nationalized bank for three years. If the rate of
+interest is 7% p.a., calculate the interest that bank has to pay to Saina after three years if interest
+is compounded annually. Also calculate the amount at the end of third year.
+
+Solution: Principal for first year ` 1,00,000
+
+Interest for first year = Pit
+
+                            7
+           = 1,00,000 × 100 × 1
+
+           = ` 7,000
+
+Principal for the second year = Principal for first year + Interest for first year
+
+                               = ` 1,00,000 + ` 7,000
+
+                               = ` 1,07,000
+
+© The Institute of Chartered Accountants of India
+4.10  BUSINESS MATHEMATICS
+
+                                                     7
+      Interest for second year = 1,07,000 × 100 × 1
+
+      = ` 7,490
+
+      Principal for the third year = Principal for second year + Interest for second year
+
+                                   = 1,07,000 + 7,490
+
+                                   = 1,14,490
+
+      Interest for the third year                     7
+                                   = ` 1,14,490 × 100 × 1
+                                   = ` 8,014.30
+
+      Compound interest at the end of third year
+
+                                   = ` (7,000 + 7,490 + 8,014.30)
+
+                                   = ` 22,504.30
+
+      Amount at the end of third year
+
+                                   = Principal (initial deposit) + compound interest
+
+                                   = ` (1,00,000 + 22,504.30)
+
+                                   = ` 1,22,504.30
+
+Difference between simple interest and compound interest
+
+Now we can summarize the main difference between simple interest and compound interest.
+The main difference between simple interest and compound interest is that in simple interest the
+principal remains constant throughout whereas in the case of compound interest principal goes
+on changing at the end of specified period. For a given principal, rate and time the compound
+interest is generally more than the simple interest.
+
+4.4.3 Conversion period
+
+In the example discussed above the interest was calculated on yearly basis i.e. the interest was
+compounded annually. However in practice it is not necessary that the interest be compounded
+annually. For example in banks the interest is often compounded twice a year (half yearly or
+semi annually) i.e. interest is calculated and added to the principal after every six months. In
+some financial institutions interest is compounded quarterly i.e. four times a year. The period at
+the end of which the interest is compounded is called conversion period. When the interest is
+calculated and added to the principal every six months the conversion period is six months. In
+this case number of conversion periods per year would be two. If the loan or deposit was for five
+years then the number of conversion period would be ten.
+
+      © The Institute of Chartered Accountants of India
+                                                   MATHEMATICS OF FINANCE  4.11
+
+Typical conversion periods are given below:
+
+Conversion period  Description                     Number of conversion
+                                                       period in a year
+1 day              Compounded daily
+1 month            Compounded monthly                          365
+3 months           Compounded quarterly                         12
+6 months           Compounded semi annually                      4
+12 months          Compounded annually                           2
+                                                                 1
+
+4.4.4 Formula for compound interest
+
+Taking the principal as P, the rate of interest per conversion period as i (in decimal), the number
+of conversion period as n, the accrued amount after n payment periods as An we have accrued
+amount at the end of first payment period
+
+            A1 = P + P i = P ( 1 + i ) ;
+            at the end of second payment period
+            A2 = A1 + A1 i = A1 ( 1 + i )
+            =P(1+i)(1+i)
+            = P ( 1 + i)2 ;
+            at the end of third payment period
+            A3 = A2 + A2 i
+
+                = A2 (1 + i)
+                = P(1 + i)2 (1 + i)
+                = P(1 + i)3
+            An = An-1 + An-1 i
+                = An-1 (1 + i)
+                = P (1 + i) n-1 ( 1 + i)
+                = P(1+ i)n
+
+            Thus the accrued amount An on a principal P after n conversion periods at i ( in decimal)
+            rate of interest per conversion period is given by
+
+            An = P ( 1 + i)n
+                                      Annual rate of interest
+
+            where, i = Number of conversion periods per year
+
+            Interest = An ­ P = P ( 1 + i )n ­ P
+                        = P (1+i)n - 1
+
+            n is total conversions i.e. t x no. of conversions per year
+
+© The Institute of Chartered Accountants of India
+4.12  BUSINESS MATHEMATICS
+
+Note : Computation of a shall be quite simple with a calculator. However compound interest
+table and tables for at various rates per annum with (a) annual compounding ; (b) monthly
+compounding and (c) daily compounding are available.
+Example 12: ` 2,000 is invested at annual rate of interest of 10%. What is the amount after two
+years if compounding is done (a) Annually (b) Semi-annually (c) Quarterly (d) monthly.
+Solution: (a) Compounding is done annually
+Here principal P = ` 2,000; since the interest is compounded yearly the number of conversion
+periods n in 2 years are 2. Also the rate of interest per conversion period (1 year) i is 0.10
+
+            An = P ( 1 + i )n
+            A2 = ` 2,000 (1 + 0.1)2
+
+                  = ` 2,000 × (1.1)2
+
+                  = ` 2,000 × 1.21
+
+                  = ` 2,420
+
+            (b) For semiannual compounding
+
+                  n=2×2 =4
+
+                       0.1
+                 i = 2 = 0.05
+            A4 = 2,000 (1+0.05)4
+                  = 2,000 × 1.2155
+                  = ` 2,431
+
+            (c) For quarterly compounding
+
+                  n=4×2 =8
+
+                       0.1
+                 i = 4 = 0.025
+            A8 = 2,000 (1+ 0.025)8
+                  = 2,000 × 1.2184
+                  = ` 2,436.80
+            (d) For monthly compounding
+
+                     n = 12 × 2 = 24, i = 0.1/12 = 0.00833
+                  A24 = 2,000 (1 + 0.00833)24
+
+                         = 2,000 × 1.22029
+                         = ` 2,440.58
+
+Example 13: Determine the compound amount and compound interest on ` 1000 at 6%
+compounded semi-annually for 6 years. Given that (1 + i)n = 1.42576 for i = 3% and n = 12.
+
+      © The Institute of Chartered Accountants of India
+                                                                      MATHEMATICS OF FINANCE  4.13
+
+Solution:      0.06
+           i = 2 = 0.03; n = 6 × 2 = 12
+
+           P = 1,000
+
+           Compound Amount (A12) = P ( 1 + i )n
+                                               = ` 1,000(1 + 0.03)12
+
+                                                   = 1,000 × 1.42576
+
+                                                   = ` 1,425.76
+
+           Compound Interest                       = ` (1,425.76 ­ 1,000)
+
+                                                   = ` 425.76
+
+Example 14: Compute the compound interest on ` 4,000 for 1½ years at 10% per annum
+compounded half- yearly.
+
+Solution: Here principal P = ` 4,000. Since the interest is compounded half-yearly the number of
+conversion periods in 1½ years are 3. Also the rate of interest per conversion period (6 months) is
+10% x 1/2 = 5% (0.05 in decimal).
+
+Thus the amount An (in `) is given by
+                               An = P (1 + i )n
+                               A3 = 4,000(1 + 0.05)3
+                                   = 4,630.50
+
+The compound interest is therefore ` (4,630.50 - 4,000)
+
+                                 = ` 630.50
+
+To find the Principal/Time/Rate
+
+The Formula An = P( 1 + i )n connects four variables An, P, i and n.
+
+Similarly, C.I.(Compound Interest) = P 1 in ­ 1 connects C.I., P, i and n. Whenever three out
+
+of these four variables are given the fourth can be found out by simple calculations.
+
+Examples 15: On what sum will the compound interest at 5% per annum for two years
+compounded annually be ` 1,640?
+
+Solution: Here the interest is compounded annually the number of conversion periods in two
+years are 2. Also the rate of interest per conversion period (1 year) is 5%.
+
+n = 2 i = 0.05
+
+We know
+
+           C.I.       = P 1in ­ 1
+
+© The Institute of Chartered Accountants of India
+4.14  BUSINESS MATHEMATICS
+
+ 1,640 = P (1+0.05)2 -1
+ 1,640 = P (1.1025 ­ 1)
+
+            1,640
+ P = 0.1025 = 16,000
+
+      Hence the required sum is ` 16,000.
+Example 16: What annual rate of interest compounded annually doubles an investment in 7
+
+                                          1
+
+years? Given that 27  1.104090
+
+Solution: If the principal be P then An = 2P.
+Since An = P(1+ i)n
+ 2P = P (1 + i )7
+
+ 2 1/7 = ( 1 + i )
+
+ 1.104090 = 1 + i
+
+ i = 0.10409
+
+ Required rate of interest = 10.41% per annum
+
+Example 17: In what time will ` 8,000 amount to ` 8,820 at 10% per annum interest compounded
+half-yearly?
+
+Solution: Here interest rate per conversion period             10
+Principal (P) = ` 8,000                                  (i) = 2 %
+
+                                                            = 5% (= 0.05 in decimal)
+
+Amount (An) = ` 8,820
+We know
+
+An = P ( I + i )n
+ 8,820 = 8,000 (1 + 0.05)n
+
+      8,820
+ 8,000 = (1.05)n
+
+ 1.1025 = (1.05)n
+ (1.05)2 = (1.05)n
+ n=2
+Hence number of conversion period is 2 and the required time = n/2 = 2/2 = 1 year
+Example 18: Find the rate percent per annum if ` 2,00,000 amount to ` 2,31,525 in 1½ year interest
+being compounded half-yearly.
+
+      © The Institute of Chartered Accountants of India
+                                                         MATHEMATICS OF FINANCE     4.15
+
+Solution:  Here P = ` 2,00,000
+           Number of conversion period (n) = 1½ × 2 = 3
+           Amount (A3) = ` 2,31,525
+           We know that
+
+                         A3 = P (1 + i)3
+            2,31,525 = 2,00,000 (1 + i) 3
+
+                 2,31,525
+            2,00,000 = (1 + i)3
+
+            1.157625 = (1 + i) 3
+
+            (1.05)3 = (1 + i)3
+
+            i = 0.05
+
+           i is the Interest rate per conversion period (six months) = 0.05 = 5% &
+
+           Interest rate per annum = 5% × 2 = 10%
+
+Example 19: A certain sum invested at 4% per annum compounded semi-annually amounts to
+`78,030 at the end of one year. Find the sum.
+
+Solution:  Here An = 78,030
+                   n = 2×1=2
+
+              i = 4 × 1/2 % = 2% = 0.02
+
+           P(in `) = ?
+
+           We have
+
+                 An = P(1 + i)n
+            A2 = P(1 + 0.02)2
+            78,030 = P (1.02)2
+
+           P     78,030
+              = (1.02)2
+
+                                 = 75,000
+            Thus the sum invested is ` 75,000 at the begining of 1 year.
+Example 20: ` 16,000 invested at 10% p.a. compounded semi-annually amounts to ` 18,522.
+Find the time period of investment.
+Solution: Here P = ` 16,000
+
+                        An = ` 18,522
+                        i = 10 × 1/2 % = 5% = 0.05
+
+© The Institute of Chartered Accountants of India
+4.16  BUSINESS MATHEMATICS
+
+      n =?
+
+      We have A n = P(1 + i)n
+       18,522 = 16,000(1+0.05)n
+
+            18,522  = (1.05)n
+       16,000
+
+       (1.157625) = (1.05)n
+
+       (1.05)3      = (1.05)n
+
+       n= 3
+
+Therefore time period of investment is three half years i.e.         1  1  years.
+                                                                        2
+
+Example 21: A person opened an account on April, 2011 with a deposit of ` 800. The account
+paid 6% interest compounded quarterly. On October 1 2011 he closed the account and added
+enough additional money to invest in a 6 month time-deposit for ` 1,000, earning 6% compounded
+monthly.
+
+(a) How much additional amount did the person invest on October 1?
+
+(b) What was the maturity value of his time deposit on April 1 2012?
+
+(c) How much total interest was earned?
+
+      Given that (1 + i)n is 1.03022500 for i=1½ % n = 2 and (1+ i)n is 1.03037751 for i = ½ % and n =
+      6.
+
+Solution: (a) The initial investment earned interest for April-June and July- September quarter
+
+i.e. for two quarters. In this case i = 6/4 = 1½ % = 0.015, n        n  =  6     4   =2
+                                                                           12
+
+      and the compounded amount = 800(1 + 0.015)2
+                                                = 800 × 1.03022500
+                                                = ` 824.18
+
+      The additional amount invested = ` (1,000 - 824.18)
+
+                                                         = ` 175.82
+
+(b) In this case the time-deposit earned interest compounded monthly for six months.
+
+                  6                                      n = 6 and             P = ` 1,000
+      Here i = 12 = 1/2 % = (0.005)                      = 6 × 12
+
+                                                            12
+
+      Maturity value = 1,000(1+0.005)6
+
+      © The Institute of Chartered Accountants of India
+                                                        MATHEMATICS OF FINANCE  4.17
+
+= 1,000×1.03037751
+
+= ` 1,030.38
+
+(c) Total interest earned = ` (24.18+30.38)  = ` 54.56
+
+If interest is compounded more than once a year the effective interest rate for a year exceeds the
+per annum interest rate. Suppose you invest ` 10,000 for a year at the rate of 6% per annum
+compounded semi annually. Effective interest rate for a year will be more than 6% per annum
+since interest is being compounded more than once in a year. For computing effective rate of
+interest first we have to compute the interest. Let us compute the interest.
+
+      Interest for first six months = ` 10,000 × 6/100 × 6/12
+                                            = ` 300
+
+      Principal for calculation of interest for next six months
+                                            = Principal for first period one + Interest for first period
+                                            = ` (10,000 + 300)
+                                            = ` 10,300
+
+      Interest for next six months = ` 10,300 × 6/100 × 6/12 = ` 309
+      Total interest earned during the current year
+
+                                            = Interest for first six months + Interest for next six months
+                                            = ` (300 + 309) = ` 609
+      Interest of ` 609 can also be computed directly from the formula of compound interest.
+      We can compute effective rate of interest by following formula
+                  I = PEt
+      Where I = Amount of interest
+                  E = Effective rate of interest in decimal
+                  t = Time period
+                  P = Principal amount
+      Putting the values we have
+            609 = 10,000 × E × 1
+                      609
+          E = 10,000
+
+                  = 0.0609 or
+                  = 6.09%
+
+   © The Institute of Chartered Accountants of India
+4.18  BUSINESS MATHEMATICS
+
+Thus if we compound the interest more than once a year effective interest rate for the year will be
+more than actual interest rate per annum. But if interest is compounded annually effective interest
+rate for the year will be equal to actual interest rate per annum.
+So effective interest rate can be defined as the equivalent annual rate of interest compounded
+annually if interest is compounded more than once in a year.
+
+The effective interest rate can be computed directly by following formula:
+                                                       E = (1 + i)n ­ 1
+
+                                       Where E is the effective interest rate
+                                            i = actual interest rate in decimal
+                                            n = number of conversion period
+
+Example 22: ` 5,000 is invested in a Term Deposit Scheme that fetches interest 6% per
+annum compounded quarterly. What will be the interest after one year? What is effective rate of
+interest?
+Solution: We know that
+
+                            I = P (1i)n1
+                   Here P = ` 5,000
+
+                            i = 6% p.a. = 0.06 p.a. or 0.015 per quarter
+                           n =4
+                      and I = amount of compound interest
+                  putting the values we have
+                            I = ` 5,000 (10.015)41
+
+                               = ` 5,000 × 0.06136355
+                               = ` 306.82
+      For effective rate of interest using I = PEt we find
+                  306.82 = 5,000 × E × 1.
+
+                                306.82
+                  E = 5000
+
+                               = 0.0613 or 6.13%
+      Note: We may arrive at the same result by using
+
+                        E = (1+i)n ­ 1
+                   E = (1 + 0.015)4 ­ 1
+
+                            = 1.0613 ­ 1
+                            = .0613 or 6.13%
+We may also note that effective rate of interest is not related to the amount of principal. It is
+related to the interest rate and frequency of compounding the interest.
+
+   © The Institute of Chartered Accountants of India
+                                                   MATHEMATICS OF FINANCE  4.19
+
+Example 23: Find the amount of compound interest and effective rate of interest if an amount of
+` 20,000 is deposited in a bank for one year at the rate of 8% per annum compounded semi
+annually.
+
+Solution:  We know that
+                 I = P (1i)n1
+
+           here P = ` 20,000
+
+           i = 8% p.a. = 8/2 % semi annually = 0.04
+
+           n =2
+           I = ` 20,000 (10.04)21
+
+              = ` 20,000 × 0.0816
+
+              = ` 1,632
+
+Effective rate of interest:
+
+We know that
+
+           I = PEt
+
+ 1,632 = 20,000 × E × 1
+
+              1632
+           E = 20000 = 0.0816
+
+              = 8.16%
+
+Effective rate of interest can also be computed by following formula
+
+           E = (1 + i)n -1
+
+              = (1 + 0.04)2 -1
+
+              = 0.0816               or 8.16%
+
+Example 24: Which is a better investment 3% per year compounded monthly or 3.2% per year
+simple interest? Given that (1+0.0025)12 =1.0304.
+
+Solution: i = 3/12 = 0.25% = 0.0025
+
+           n = 12
+
+           E = (1 + i)n - 1
+
+           = (1 + 0.0025)12 - 1
+
+           = 1.0304 ­ 1 = 0.0304
+
+           = 3.04%
+
+Effective rate of interest (E) being less than 3.2%, the simple interest 3.2% per year is the better
+investment.
+
+© The Institute of Chartered Accountants of India
+4.20          BUSINESS MATHEMATICS
+
+Choose the most appropriate option (a) (b) (c) or (d).
+
+1. If P = ` 1,000, R = 5% p.a, n = 4; What is Amount and C.I. is
+
+      (a) ` 1,215.50, ` 215.50                           (b) ` 1,125, ` 125
+
+      (c) ` 2,115, ` 115                                 (d) none of these
+
+2. ` 100 will become after 20 years at 5% p.a compound interest of
+
+      (a) ` 250            (b) ` 205                     (c) ` 165.33           (d) none of these
+
+3. The effective rate of interest corresponding to a nominal rate 3% p.a payable half yearly is
+
+      (a) 3.2% p.a         (b) 3.25% p.a                 (c) 3.0225% p.a        (d) none of these
+
+4. A machine is depreciated at the rate of 20% on reducing balance. The original cost of the
+      machine was ` 1,00,000 and its ultimate scrap value was ` 30,000. The effective life of the
+      machine is
+
+      (a) 4.5 years (appx.)                              (b) 5.4 years (appx.)
+
+      (c) 5 years (appx.)                                (d) none of these
+
+5. If A = ` 1,000, n = 2 years, R = 6% p.a compound interest payable half-yearly, then
+      principal (P) is
+
+      (a) ` 888.50         (b) ` 885                     (c) 800                (d) none of these
+
+6. The population of a town increases every year by 2% of the population at the beginning of
+      that year. The number of years by which the total increase of population be 40% is
+
+      (a) 7 years          (b) 10 years                  (c) 17 years (app) (d) none of these
+
+7. The difference between C.I and S.I on a certain sum of money invested for 3 years at 6% p.a
+      is ` 110.16. The principle is
+
+      (a) ` 3,000          (b) ` 3,700                   (c) ` 12,000           (d) ` 10,000
+
+8. The useful life of a machine is estimated to be 10 years and cost ` 10,000. Rate of depreciation
+      is 10% p.a. The scrap value at the end of its life is
+
+      (a) ` 3,486.78 (b) ` 4,383                         (c) ` 3,400            (d) none of these
+
+9. The effective rate of interest corresponding a nominal rate of 7% p.a convertible quarterly is
+
+      (a) 7%               (b) 7.5%                      (c) 5%                 (d) 7.18%
+
+10. The C.I on ` 16000 for 1 ½ years at 10% p.a payable half -yearly is
+
+      (a) ` 2,222          (b) ` 2,522                   (c) ` 2,500            (d) none of these
+
+11. The C.I on ` 40000 at 10% p.a for 1 year when the interest is payable quarterly is
+
+      (a) ` 4,000          (b) ` 4,100                   (c) ` 4,152.51         (d) none of these
+
+      © The Institute of Chartered Accountants of India
+                                                                 MATHEMATICS OF FINANCE     4.21
+
+12. The difference between the S.I and the C.I on ` 2,400 for 2 years at 5% p.a is
+
+(a) ` 5        (b) ` 10                            (c) ` 16          (d) ` 6
+
+13. The annual birth and death rates per 1,000 are 39.4 and 19.4 respectively. The number of
+      years in which the population will be doubled assuming there is no immigration or emigration
+      is
+
+(a) 35 years.  (b) 30 years.                       (c) 25 years      (d) none of these
+
+14. The C.I on ` 4,000 for 6 months at 12% p.a payable quarterly is
+
+(a) ` 243.60   (b) ` 240                           (c) ` 243         (d) none of these
+
+In many cases you must have noted that your parents have to pay an equal amount of money
+regularly like every month or every year. For example payment of life insurance premium, rent
+of your house (if you stay in a rented house), payment of housing loan, vehicle loan etc. In all
+these cases they pay a constant amount of money regularly. Time period between two consecutive
+payments may be one month, one quarter or one year.
+
+Sometimes some people received a fixed amount of money regularly like pension, rent of house
+etc. In all these cases annuity comes into the picture. When we pay (or receive) a fixed amount of
+money periodically over a specified time period we create an annuity.
+
+Thus annuity can be defined as a sequence of periodic payments (or receipts) regularly over a
+specified period of time.
+
+There is a special kind of annuity also, that is called Perpetuity. It is one where the receipt or
+payment takes place forever. Since the payment is forever we cannot compute a future value of
+perpetuity. However we can compute the present value of the perpetuity. We will discuss later
+about future value and present value of annuity.
+
+To be called annuity a series of payments (or receipts) must have following features:
+
+(1) Amount paid (or received) must be constant over the period of annuity and
+
+(2) Time interval between two consecutive payments (or receipts) must be the same.
+
+Consider following tables. Can payments/receipts shown in the table for five years be called
+annuity?
+
+         Table - 4.1                                             Table - 4.2
+
+Year end       Payments/Receipts (`)               Year end          Payments/Receipts (`)
+
+I                     5,000                                  I                5,000
+
+II                    6,000                                  II               5,000
+
+III                   4,000                        III                        ­
+
+IV                    5,000                        IV                         5,000
+
+V                     7,000                                  V                5,000
+
+© The Institute of Chartered Accountants of India
+4.22  BUSINESS MATHEMATICS
+
+                                                         Table - 4.3
+
+                       Year end                          Payments/Receipts (`)
+
+                                I                                     5,000
+
+                                II                                    5,000
+
+                                III                                   5,000
+
+                                IV                                    5,000
+
+                                V                                     5,000
+
+Payments/Receipts shown in table 4.1 cannot be called annuity. Payments/Receipts though have
+been made at regular intervals but amount paid are not constant over the period of five years.
+
+Payments/receipts shown in table 4.2 cannot also be called annuity. Though amounts paid/
+received are same in every year but time interval between different payments/receipts is not
+equal. You may note that time interval between second and third payment/receipt is two year
+and time interval between other consecutive payments/receipts (first and second third and fourth
+and fourth and fifth) is only one year. You may also note that for first two years the payments/
+receipts can be called annuity.
+
+Now consider table 4.3. You may note that all payments/receipts over the period of 5 years are
+constant and time interval between two consecutive payments/receipts is also same i.e. one
+year. Therefore payments/receipts as shown in table-4.3 can be called annuity.
+
+4.6.1 Annuity regular and Annuity due/immediate
+                                               Annuity
+
+      Annuity regular                                                 Annuity due or annuity immediate
+
+      First payment/receipt at                                        First payment/receipt in
+       the end of the period                                                the first period
+
+Annuity may be of two types:
+
+(1) Annuity regular: In annuity regular first payment/receipt takes place at the end of first
+      period. Consider following table:
+
+      © The Institute of Chartered Accountants of India
+                                                                       MATHEMATICS OF FINANCE  4.23
+
+                                                   Table - 4.4
+
+Year end                                           Payments/Receipts (`)
+
+I                                                               5,000
+
+II                                                              5,000
+
+III                                                             5,000
+
+IV                                                              5,000
+
+V                                                               5,000
+
+We can see that first payment/receipts takes place at the end of first year therefore it is an
+annuity regular.
+
+(2) Annuity Due or Annuity Immediate: When the first receipt or payment is made today
+      (at the beginning of the annuity) it is called annuity due or annuity immediate. Consider
+      following table:
+
+                                                   Table - 4.5
+
+In the beginning of                                Payment/Receipt (`)
+
+I year                                                          5,000
+
+II year                                                         5,000
+
+III year                                                        5,000
+
+IV year                                                         5,000
+
+V year                                                          5,000
+
+We can see that first receipt or payment is made in the beginning of the first year. This type
+of annuity is called annuity due or annuity immediate.
+
+Future value is the cash value of an investment at some time in the future. It is tomorrow's value
+of today's money compounded at the rate of interest. Suppose you invest ` 1,000 in a fixed deposit
+that pays you 7% per annum as interest. At the end of first year you will have
+` 1,070. This consist of the original principal of ` 1,000 and the interest earned of ` 70. ` 1,070 is
+the future value of ` 1,000 invested for one year at 7%. We can say that ` 1000 today is worth `
+1070 in one year's time if the interest rate is 7%.
+
+Now suppose you invested ` 1,000 for two years. How much would you have at the end of the
+second year. You had ` 1,070 at the end of the first year. If you reinvest it you end up having `
+1,070(1+0.07)= ` 1144.90 at the end of the second year. Thus ` 1,144.90 is the future value of `
+1,000 invested for two years at 7%. We can compute the future value of a single cash flow by
+applying the formula of compound interest.
+
+© The Institute of Chartered Accountants of India
+4.24  BUSINESS MATHEMATICS
+
+We know that
+                        An = P(1+i)n
+
+                Where A = Accumulated amount
+                          n = number of conversion period
+                           i = rate of interest per conversion period in decimal
+                          P = principal
+
+Future value of a single cash flow can be computed by above formula. Replace A by future value
+(F) and P by single cash flow (C.F.) therefore
+
+                          F = C.F. (1 + i)n
+
+Example 25: You invest ` 3000 in a two year investment that pays you 12% per annum. Calculate
+the future value of the investment.
+Solution: We know
+
+                                              F = C.F. (1 + i)n
+                                   where F = Future value
+
+                                         C.F. = Cash flow = ` 3,000
+                                             i = rate of interest = 0.12
+                                             n = time period = 2
+                                             F = ` 3,000(1+0.12)2
+                                                 = ` 3,000×1.2544
+                                                 = ` 3,763.20
+
+4.7.1 Future value of an annuity regular
+Now we can discuss how do we calculate future value of an annuity.
+Suppose a constant sum of ` 1 is deposited in a savings account at the end of each year for four
+years at 6% interest. This implies that ` 1 deposited at the end of the first year will grow for three
+years, ` 1 at the end of second year for 2 years, ` 1 at the end of the third year for one year and `
+1 at the end of the fourth year will not yield any interest. Using the concept of compound interest
+we can compute the future value of annuity. The compound value (compound amount) of ` 1
+deposited in the first year will be
+
+      A3 = ` 1 (1 + 0.06)3
+          = ` 1.191
+
+The compound value of ` 1 deposited in the second year will be
+      A2 = ` 1 (1 + 0.06)2
+          = ` 1.124
+
+      © The Institute of Chartered Accountants of India
+                                                                  MATHEMATICS OF FINANCE        4.25
+
+The compound value of ` 1 deposited in the third year will be
+      A1 = ` 1 (1 + 0.06)1
+          = ` 1.06
+
+and the compound value of ` 1 deposited at the end of fourth year will remain ` 1.
+The aggregate compound value of ` 1 deposited at the end of each year for four years would be:
+
+      ` (1.191 + 1.124 + 1.060 + 1.00) = ` 4.375
+This is the compound value of an annuity of ` 1 for four years at 6% rate of interest.
+The above computation is summarized in the following table:
+
+End of year                                Table 4.6               Future value at the end of
+                           Amount Deposit (`)                              fourth year (`)
+      0
+      1                                ­                          ­
+      2                                1                          1 (1 + 0.06)3 = 1.191
+      3                                1                          1 (1 + 0.06)2 = 1.124
+      4                                1                          1 (1 + 0.06)1 = 1.060
+                                       1                          1 (1 + 0.06)0 = 1
+
+                                             Future Value                             4.375
+
+The computation shown in the table can be expressed as follows:
+
+      A (4, i) = A (1 + i)0 + A (1 + i) + A(1 + i)2 + A( 1 + i)3
+i.e. A (4, i) = A 1+(1+i) +(1+i)2 +(1 + i)3 
+
+In above equation A is annuity, A (4, i) is future value at the end of year four, i is the rate of
+interest shown in decimal.
+
+We can extend above equation for n periods and rewrite as follows:
+
+A (n, i) = A (1 + i)0 + A (1 + i)1 + .......................... +A (1 + i)n-2 + A (1 + i)n-1
+
+Here A = Re.1
+
+Therefore
+
+A (n, i) = 1 (1 + i)0 + 1 (1 + i)1 + .......................... +1 (1 + i)n-2 + 1 (1 + i)n-1
+
+= 1 + (1 + i)1 + .......................... + (1 + i)n-2 + (1 + i)n-1
+
+[a geometric series with first term 1 and common ratio (1+ i)]
+
+=            1. 1-(1+i)n 
+               1-(1+i)
+
+© The Institute of Chartered Accountants of India
+4.26           BUSINESS MATHEMATICS
+
+                 1-(1+i)n
+               = -i
+
+                 (1+i)n -1
+               =i
+
+      If A be the periodic payments, the future value A(n, i) of the annuity is given by
+
+      A(n, i)  =  A       (1     i)n    1
+                                 i       
+                        
+
+Example 26: Find the future value of an annuity of ` 500 made annually for 7 years at interest
+rate of 14% compounded annually. Given that (1.14)7 = 2.5023.
+
+Solution: Here annual payment                                  A = ` 500
+
+                                   n= 7
+
+                                   i = 14% = 0.14
+
+               Future value of the annuity
+
+                                                 (1+     0.14)7  -1
+                                               
+                  A(7, 0.14)           = 500    (0.14) 
+
+                                       =  500×(2.5023-1)
+
+                                                 0.14
+
+                                       = ` 5,365.35
+
+Example 27: ` 200 is invested at the end of each month in an account paying interest 6% per year
+compounded monthly. What is the future value of this annuity after 10th payment? Given that
+(1.005)10 = 1.0511
+
+Solution: Here A = ` 200
+
+                          n = 10
+
+                          i = 6% per annum = 6/12% per month = 0.005
+
+               Future value of annuity after 10 months is given by
+
+               A(n, i)    =   A    (1     i)n    1
+                                          i       
+                                 
+
+      A(10, 0.005)        =   200     (1+0.005)10        -1  
+                                          0.005              
+                                                             
+
+                          =   200     1.0511-1
+                                        0.005 
+                                   
+
+      © The Institute of Chartered Accountants of India
+                                                                MATHEMATICS OF FINANCE  4.27
+
+= 200  10.22
+= ` 2,044
+
+4.7.2 Future value of Annuity due or Annuity Immediate
+
+As we know that in Annuity due or Annuity immediate first receipt or payment is made today.
+Annuity regular assumes that the first receipt or the first payment is made at the end of first
+period. The relationship between the value of an annuity due and an ordinary annuity in case of
+future value is:
+
+Future value of an Annuity due/Annuity immediate = Future value of annuity regular x (1+i)
+where i is the interest rate in decimal.
+
+      Calculating the future value of the annuity due involves two steps.
+
+      Step-1 Calculate the future value as though it is an ordinary annuity.
+
+      Step-2 Multiply the result by (1+ i)
+
+Example 28: Z invests ` 10,000 every year starting from today for next 10 years. Suppose interest
+rate is 8% per annum compounded annually. Calculate future value of the annuity. Given that (1
++ 0.08)10 = 2.15892500.
+
+Solution: Step-1: Calculate future value as though it is an ordinary annuity.
+
+Future value of the annuity as if it is an ordinary annuity
+
+                (1+                                0.08)10  -1
+                                                   0.08       
+=  `  10,000  
+
+            = ` 10,000 × 14.4865625
+            = ` 1,44,865.625
+Step-2: Multiply the result by (1 + i)
+            = ` 1,44,865.625 × (1+0.08)
+            = ` 1,56,454.875
+
+We have read that future value is tomorrow's value of today's money compounded at some
+interest rate. We can say present value is today's value of tomorrow's money discounted at the
+interest rate. Future value and present value are related to each other in fact they are the reciprocal
+of each other. Let's go back to our fixed deposit example. You invested ` 1000 at 7% and get
+` 1,070 at the end of the year. If ` 1,070 is the future value of today's ` 1000 at 7% then ` 1,000 is
+present value of tomorrow's ` 1,070 at 7%. We have also seen that if we invest ` 1,000 for two
+years at 7% per annum we will get ` 1,144.90 after two years. It means ` 1,144.90 is the future
+value of today's ` 1,000 at 7% and ` 1,000 is the present value of ` 1,144.90 where time period is
+two years and rate of interest is 7% per annum. We can get the present value of a cash flow
+(inflow or outflow) by applying compound interest formula.
+
+© The Institute of Chartered Accountants of India
+4.28        BUSINESS MATHEMATICS
+
+The present value P of the amount An due at the end of n period at the rate of i per interest period
+may be obtained by solving for P the below given equation
+
+      An = P(1 + i)n
+
+i.e.  P  =    An
+            (1+i)n
+
+· Computation of P may be simple if we make use of either the calculator or the present value
+                                 1
+
+table showing values of (1+i)n for various time periods/per annum interest rates.
+
+                                     1
+· For positive i the factor (1+i)n is always less than 1 indicating thereby future amount has
+
+smaller present value.
+
+Example 29: What is the present value of ` 1 to be received after two years compounded annually
+at 10% interest rate?
+
+Solution: Here          An = `1
+                          i = 10% = 0.1
+
+                        n= 2
+
+            Required present value                       =    An
+                                                            (1+i)n
+
+                                                                1
+                                                         = (1+0.1)2
+
+                                                             1
+                                                         = 1.21 = 0.8264
+
+                                                         = ` 0.83
+
+Thus ` 0.83 shall grow to ` 1 after 2 years at 10% interest rate compounded annually.
+
+Example 30: Find the present value of ` 10,000 to be required after 5 years if the interest rate be
+9%. Given that (1.09)5=1.5386.
+
+Solution: Here          i = 0.09 = 9%
+
+                        n =5
+
+                        An = 10,000
+
+      © The Institute of Chartered Accountants of India
+                                                                    MATHEMATICS OF FINANCE          4.29
+
+     Required present value                        =    An
+                                                      (1 i)n
+
+                                                       10,000
+                                                   = (1+0.09)5
+
+                                                     10,000
+                                                   = 1.5386 = ` 6,499.42
+
+4.8.1 Present value of an Annuity regular: We have seen how compound interest technique
+can be used for computing the future value of an Annuity. We will now see how we compute
+present value of an annuity. We take an example, Suppose your mom promise you to give you `
+1,000 on every 31st December for the next five years. Suppose today is 1st January. How much
+money will you have after five years from now if you invest this gift of the next five years at 10%?
+For getting answer we will have to compute future value of this annuity.
+
+But you don't want ` 1,000 to be given to you each year. You instead want a lump sum figure
+today. Will you get ` 5,000. The answer is no. The amount that she will give you today will be less
+than ` 5,000. For getting the answer we will have to compute the present value of this annuity.
+For getting present value of this annuity we will compute the present value of these amounts and
+then aggregate them. Consider following table:
+
+                                                      Table 4.7
+
+Year End     Gift Amount (`)                                        Present Value [An / (1 + i)n ]
+I                   1,000                                           1,000/(1 + 0.1) = 909.091
+
+II              1,000                                               1,000/(1 + 0.1)2 = 826.446
+
+III             1,000                                               1,000/(1 + 0.1)3 = 751.315
+
+IV              1,000                                               1,000/(1 + 0.1)4 = 683.013
+
+V               1,000                                               1,000/(1 + 0.1)5 = 620.921
+
+                             Present Value                                     = 3790.786
+
+Thus the present value of annuity of ` 1,000 for 5 years at 10% is ` 3,790.79
+
+It means if you want lump sum payment today instead of ` 1,000 every year you will get
+` 3,790.79.
+
+The above computation can be written in formula form as below.
+
+The present value (V) of an annuity (A) is the sum of the present values of the payments.
+
+          A  A               A                        A          A
+ V = (1 i)1 + (1 i)2 + (1 i)3 + (1 i)4 + (1 i)5
+
+We can extend above equation for n periods and rewrite as follows:
+
+          A  A                                        A          A
+     V = (1 i)1 + (1 i)2 +..........+ (1 i)n1 + (1 i)n ............(1)
+
+© The Institute of Chartered Accountants of India
+4.30      BUSINESS MATHEMATICS
+
+                                        1
+multiplying throughout by (1  i) we get
+
+          V       A           A                                  A           A
+          (1  i) = (1  i)2 + (1 i)3 +...........+ (1 i)n + (1 i)n1 ...........(2)
+
+subtracting (2) from (1) we get
+
+                V          A                             A
+              V ­ (1 i) = (1  i)1 ­ (1 i)n1
+
+      Or                            A
+              V (1+ i) ­ V = A ­ (1 i)n
+
+      Or             Vi =     A        (1                 1    
+      Where,                     1                        i)n  
+                                                               
+
+                     V  =  A     (1    i)n               1    =  A.P(n,  i)
+                                  i(1   i)n                 
+                                                            
+
+                           (1+i)n -1
+                P(n, i) = i(1 + i)n
+
+                                  V
+      Consequently A = P(n, i) which is useful in problems of amortization.
+
+A loan with fixed rate of interest is said to be amortized if entire principal and interest are paid
+over equal periods of time by way of sequence of equal payment.
+
+         V
+A = P(n,i) can be used to compute the amount of annuity if we have present value (V), n the
+number of time period and/the rate of interest in decimal.
+
+Suppose your dad purchases a car for ` 5,50,000. He gets a loan of ` 5,00,000 at 15% p.a. from a Bank
+and balance 50,000 he pays at the time of purchase. Your dad has to pay whole amount of loan in 12
+equal monthly instalments with interest starting from the end of first month.
+
+Now we have to calculate how much money has to be paid at the end of every month. We can
+compute equal instalment by following formula
+
+                                  V
+                        A = P(n,i)
+
+          Here  V = ` 5,00,000
+                n = 12
+
+      © The Institute of Chartered Accountants of India
+                                                             MATHEMATICS OF FINANCE    4.31
+
+                 0.15
+             i = 12 = 0.0125
+
+                         (1 i)n -1
+             P (n, i)= i(1i)n
+
+                           (1+0.0125)12 -1
+P (12, 0.0125) = 0.0125(1+0.0125)12
+
+                            1.16075452 - 1
+                     = 0.0125 × 1.16075452
+
+                     =  0.16075452                 = 11.079
+                        0.01450943
+
+           A               5, 00, 000
+                     = 11.079 = ` 45130.43
+
+           Therefore your dad will have to pay 12 monthly instalments of ` 45,130.43.
+
+Example 31: S borrows ` 5,00,000 to buy a house. If he pays equal instalments for 20 years and
+10% interest on outstanding balance what will be the equal annual instalment?
+
+Solution: We know
+
+                      V
+             A = P(n, i)
+
+Here V = ` 5,00,000
+
+             n = 20
+
+             i = 10% p.a.= 0.10
+
+             A = V = ` 5,00,000
+                  P(n, i) P(20, 0.10)
+
+                        5,00,000
+                   = ` 8.51356 [P(20, 0.10) = 8.51356 from table 2(a)]
+
+                   = ` 58,729.84
+
+Example 32: ` 5,000 is paid every year for ten years to pay off a loan. What is the loan amount if
+interest rate be 14% per annum compounded annually?
+
+Solution:    V = A × P(n, i)
+
+Here A = ` 5,000
+
+             n = 10
+
+© The Institute of Chartered Accountants of India
+4.32  BUSINESS MATHEMATICS
+
+              i = 0.14
+
+              V = 5000 × P(10, 0.14)
+
+              = 5000 × 5.21611                           = ` 26,080.55
+
+Therefore the loan amount is ` 26,080.55
+
+Note: Value of P(10, 0.14) can be seen from table 2(a) or it can be computed by formula derived in
+preceding paragraph.
+
+Example 33: Y bought a TV costing ` 13,000 by making a down payment of ` 3000 and agreeing
+to make equal annual payment for four years. How much would be each payment if the interest
+on unpaid amount be 14% compounded annually?
+
+Solution: In the present case we have present value of the annuity i.e. ` 10,000
+(13,000-3,000) and we have to calculate equal annual payment over the period of four years.
+
+We know that
+
+              V = A.P (n, i)
+
+      Here n = 4 and i = 0.14
+
+                        V
+              A = P(n, i)
+
+                             10,000
+                        = P(4, 0.14)
+
+                            10,000
+                        = 2.91371 [from table 2(a)]
+
+                                  = ` 3,432.05
+Therefore each payment would be ` 3,432.05
+
+4.8.2 Present value of annuity due or annuity immediate
+
+Present value of annuity due/immediate for n years is the same as an annuity regular for (n-1)
+years plus an initial receipt or payment in beginning of the period. Calculating the present value
+of annuity due involves two steps.
+
+Step 1: Compute the present value of annuity as if it were a annuity regular for one period
+            short.
+
+Step 2: Add initial cash payment/receipt to the step 1 value.
+
+Example 34: Suppose your mom decides to gift you ` 10,000 every year starting from today for
+the next five years. You deposit this amount in a bank as and when you receive and get 10% per
+annum interest rate compounded annually. What is the present value of this annuity?
+
+Solution: It is an annuity immediate. For calculating value of the annuity immediate following
+steps will be followed:
+
+      © The Institute of Chartered Accountants of India
+                                                       MATHEMATICS OF FINANCE         4.33
+
+Step 1: Present value of the annuity as if it were a regular annuity for one year less i.e. for four
+years
+
+            = ` 10,000 × P (4, 0.10)
+            = ` 10,000 × 3.16987
+            = ` 31,698.70
+Step 2: Add initial cash deposit to the step 1 value
+         ` (31,698.70+10,000) = ` 41,698.70
+
+It is the fund credited for a specified purpose by way of sequence of periodic payments over a
+time period at a specified interest rate. Interest is compounded at the end of every period. Size of
+the sinking fund deposit is computed from A = P.A(n, i) where A is the amount to be saved, P the
+periodic payment, n the payment period.
+
+Example 35: How much amount is required to be invested every year so as to accumulate
+` 300000 at the end of 10 years if interest is compounded annually at 10%?
+
+Solution: Here A = 3,00,000
+
+n = 10
+
+i = 0.1
+
+Since A = P × A (n, i)
+
+300000 = P.A.(10, 0.1)
+
+        = P × 15.9374248
+
+              3,00,000
+
+ P = 15.9374248 = ` 18,823.62
+
+This value can also be calculated by the formula of future value of annuity regular.
+We know that
+
+              (1+i)n -1
+A(n i) = A                                         
+                i                                  
+
+              (1  0.1)10  1
+                                                     
+300000  =  A                 0.1                     
+
+300000 = A×15.9374248
+
+         3,00,000
+A = 15.9374248
+
+        = ` 18,823.62
+
+© The Institute of Chartered Accountants of India
+4.34  BUSINESS MATHEMATICS
+
+4.10.1 Leasing
+
+Leasing is a financial arrangement under which the owner of the asset (lessor) allows the user of
+the asset (lessee) to use the asset for a defined period of time(lease period) for a consideration
+(lease rental) payable over a given period of time. This is a kind of taking an asset on rent. How
+can we decide whether a lease agreement is favourable to lessor or lessee, it can be seen by
+following example.
+
+Example 36: ABC Ltd. wants to lease out an asset costing ` 3,60,000 for a five year period. It has
+fixed a rental of ` 1,05,000 per annum payable annually starting from the end of first year. Suppose
+rate of interest is 14% per annum compounded annually on which money can be invested by the
+company. Is this agreement favourable to the company?
+
+Solution: First we have to compute the present value of the annuity of ` 1,05,000 for five years at
+the interest rate of 14% p.a. compounded annually.
+
+                  The present value V of the annuity is given by
+
+                  V = A.P (n, i)
+
+                      = 1,05,000 × P(5, 0.14)
+
+                      = 1,05,000 × 3.43308 = ` 3,60,473.40
+
+which is greater than the initial cost of the asset and consequently leasing is favourable to the
+lessor.
+
+Example 37: A company is considering proposal of purchasing a machine either by making full
+payment of ` 4,000 or by leasing it for four years at an annual rate of ` 1,250. Which course of
+action is preferable if the company can borrow money at 14% compounded annually?
+
+Solution: The present value V of annuity is given by
+
+                  V = A.P (n, i)
+
+                        = 1,250 × P (4, 0.14)
+
+                        = 1,250 × 2.91371 = ` 3,642.11
+
+which is less than the purchase price and consequently leasing is preferable.
+
+4.10.2 Capital Expenditure (investment decision)
+
+Capital expenditure means purchasing an asset (which results in outflows of money) today in
+anticipation of benefits (cash inflow) which would flow across the life of the investment. For
+taking investment decision we compare the present value of cash outflow and present value of
+cash inflows. If present value of cash inflows is greater than present value of cash outflows decision
+should be in the favour of investment. Let us see how do we take capital expenditure (investment)
+decision.
+
+Example 38: A machine can be purchased for ` 50000. Machine will contribute ` 12000 per year
+for the next five years. Assume borrowing cost is 10% per annum compounded annually.
+Determine whether machine should be purchased or not.
+
+   © The Institute of Chartered Accountants of India
+                                                        MATHEMATICS OF FINANCE                4.35
+
+Solution: The present value of annual contribution
+
+V = A.P(n, i)
+
+= 12,000 × P(5, 0.10)
+= 12,000 × 3.79079
+= ` 45,489.48
+
+which is less than the initial cost of the machine. Therefore machine must not be purchased.
+
+Example 39: A machine with useful life of seven years costs ` 10,000 while another machine
+with useful life of five years costs ` 8,000. The first machine saves labour expenses of ` 1,900
+annually and the second one saves labour expenses of ` 2,200 annually. Determine the preferred
+course of action. Assume cost of borrowing as 10% compounded per annum.
+
+Solution: The present value of annual cost savings for the first machine
+
+= ` 1,900 × P (7, 0.10)
+= ` 1,900 × 4.86842
+= ` 9,249.99
+
+= ` 9,250
+
+Cost of machine being ` 10,000 it costs more by ` 750 than it saves in terms of labour cost.
+
+The present value of annual cost savings of the second machine
+
+= ` 2,200 × P(5, 0.10)
+= ` 2,200 × 3.79079
+
+= ` 8,339.74
+
+Cost of the second machine being ` 8,000 effective savings in labour cost is ` 339.74. Hence the
+second machine is preferable.
+
+4.10.3 Valuation of Bond
+
+A bond is a debt security in which the issuer owes the holder a debt and is obliged to repay the
+principal and interest. Bonds are generally issued for a fixed term longer than one year.
+
+The bond issuer enters into contract with bondholder to pay interest.
+
+Example 40: An investor intends purchasing a three year ` 1,000 par value bond having nominal
+interest rate of 10%. At what price the bond may be purchased now if it matures at par and the
+investor requires a rate of return of 14%?
+
+Solution: Present value of the bond
+
+100                       100                      100  1,000
+= (1+0.14)1 + (1  0.14)2 + (1  0.14)3 + (1+0.14)3
+
+            = 100 × 0.87719 + 100 × 0.769467 + 100 × 0.674 972 + 1,000 × 0.674972
+            = 87.719+ 76.947+ 67.497+ 674.972
+            = 907.125
+Thus the purchase value of the bond is ` 907.125
+
+© The Institute of Chartered Accountants of India
+4.36  BUSINESS MATHEMATICS
+
+Perpetuity is an annuity in which the periodic payments or receipts begin on a fixed date and
+continue indefinitely or perpetually. Fixed coupon payments on permanently invested
+(irredeemable) sums of money are prime examples of perpetuities.
+
+The formula for evaluating perpetuity is relatively straight forward. Two points which are
+important to understand in this regard are:.
+
+(a) The value of the perpetuity is finite because receipts that are anticipated far in the future
+      have extremely low present value (today's value of the future cash flows).
+
+(b) Additionally, because the principal is never repaid, there is no present value for the principal.
+
+Therefore, the price of perpetuity is simply the coupon amount over the appropriate discount
+rate or yield.
+
+4.11.1 Calculation of multi period perpetuity:
+The formula for determining the present value of multi-period perpetuity is as follows:
+
+           R                     R                            R                 R              R        R
+                                                                              (1+i)     n=1  (1+i)n     i
+          1+i 1                1+i 2                        1+i 3
+      = PVA                 +                            +                           =               =
+                                                                   +.......+
+
+Where:
+R = the payment or receipt each period
+i = the interest rate per payment or receipt period
+Example 41: Ramesh wants to retire and receive ` 3,000 a month. He wants to pass this monthly
+payment to future generations after his death. He can earn an interest of 8% compounded
+annually. How much will he need to set aside to achieve his perpetuity goal?
+Solution:
+R = ` 3,000
+i = 0.08/12 or 0.00667
+Substituting these values in the above formula, we get
+
+PVA  ` 3,000
+         0.00667
+
+        = ` 4,49,775
+
+If he wanted the payments to start today, he must increase the size of the funds to handle the
+first payment. This is achieved by depositing ` 4,52,775 (PV of normal perpetuity + perpetuity
+received in the beginning = 4,49,775 + 3,000) which provides the immediate payment of
+
+      © The Institute of Chartered Accountants of India
+                                                               MATHEMATICS OF FINANCE  4.37
+
+` 3,000 and leaves ` 4,49,775 in the fund to provide the future ` 3,000 payments.
+4.11.2 Calculation of Growing Perpetuity:
+A stream of cash flows that grows at a constant rate forever is known as growing perpetuity.
+The formula for determining the present value of growing perpetuity is as follows:
+
+PVA          R       R (1  g  )    R (1 g)2   .....   R (1 g)
+             i
+          1     1    1 i   2        1 i3               1 i
+
+     R  (1   g)n1       R
+        (1   i)n        g
+n 1                  i
+
+Example 42: Assuming that the discount rate is 7% per annum, how much would you pay to
+receive ` 50, growing at 5%, annually, forever?
+
+Solution:
+
+PVA = R         =       50         = 2,500
+         i-g       0.07 ­ 0.05
+
+Where
+
+R = Cash flow stream, i = interest rate or discount rate, g = growth rate in interest
+
+Calculating Rate of Return:
+
+1) Calculating the rate of return provides important information that can be used for future
+      investments. For example, if you invested in a stock that showed a substantial gain after
+      several months of performance, you may decide to purchase more of that stock. If the stock
+      showed a continual loss, it may be wise to conduct research to find a better-performing
+      stock.
+
+2) Calculating the rate of return is that it allows you to gauge your investment and decision-
+      making skills. Investments that create a gain or profit are great. However, if you continually
+      make investments at a loss, then you may want to change your investment strategies. A
+      great attribute of successful business people is knowing how and when to make investments,
+      as is knowing when to change strategies. With a firm grasp of calculating the rate of return,
+      you can manage and monitor your investments at various stages to determine the outcome
+      of your investments. This leads to a higher level of confidence and the skills necessary to be
+      a savvy investor.
+
+Net Present Value Technique (NPV): The net present value technique is a discounted cash flow
+method that considers the time value of money in evaluating capital investments. An investment
+has cash flows throughout its life, and it is assumed that a rupee of cash flow in the early years
+of an investment is worth more than a rupee of cash flow in a later year.
+
+© The Institute of Chartered Accountants of India
+4.38  BUSINESS MATHEMATICS
+
+The net present value method uses a specified discount rate to bring all subsequent net cash
+inflows after the initial investment to their present values (the time of the initial investment is
+year 0).
+
+Determining Discount Rate
+
+Theoretically, the discount rate or desired rate of return on an investment is the rate of return the
+firm would have earned by investing the same funds in the best available alternative investment
+that has the same risk. Determining the best alternative opportunity available is difficult in
+practical terms so rather than using the true opportunity cost, organizations often use an alternative
+measure for the desired rate of return. An organization may establish a minimum rate of return
+that all capital projects must meet; this minimum could be based on an industry average or the
+cost of other investment opportunities. Many organizations choose to use the overall cost of
+capital or Weighted Average Cost of Capital (WACC) that an organization has incurred in raising
+funds or expects to incur in raising the funds needed for an investment.
+
+The net present value of a project is the amount, in current value of rupees, the investment earns
+after paying cost of capital in each period.
+
+Net present value = Present value of net cash inflow ­ Total net initial investment
+
+Since it might be possible that some additional investment may also be required during the life
+time of the project then appropriate formula shall be:
+
+Net present value = Present value of cash inflow ­ Present value of cash outflow
+
+The steps to calculate net present value are:-
+
+1. Determine the net cash inflow in each year of the investment.
+
+2. Select the desired rate of return or discounting rate or Weighted Average Cost of Capital.
+
+3. Find the discount factor for each year based on the desired rate of return selected.
+
+4. Determine the present values of the net cash flows by multiplying the cash flows by respective
+      the discount factors of respective period called Present Value (PV) of Cash flows
+
+5. Total the amounts of all PVs of Cash Flows
+
+Decision Rule:
+
+If NPV > 0 Accept the Proposal
+
+If NPV < 0 Reject the Proposal
+
+Example 43: Compute the net present value for a project with a net investment of
+` 1,00,000 and net cash flows for year one is ` 55,000; for year two is ` 80,000 and for year
+three is ` 15,000. Further, the company's cost of capital is 10%?
+
+[PVIF @ 10% for three years are 0.909, 0.826 and 0.751]
+
+      © The Institute of Chartered Accountants of India
+                                                                 MATHEMATICS OF FINANCE          4.39
+
+Solution:
+
+  Year               Net Cash Flows                  PVIF @ 10%  Discounted Cash Flows
+
+  0                  (1,00,000)                      1.000       (1,00,000)
+
+  1                  55,000                          0.909                               49,995
+
+  2                  80,000                          0.826                               66,080
+
+  3                  15,000                          0.751                               11,265
+
+  Net Present Value                                                                      27,340
+
+Recommendation: Since the net present value of the project is positive, the company should accept
+the project.
+
+The nominal rate is the stated interest rate. If a bank pays 5% annually on a savings account, then
+5% is the nominal interest rate. So if you deposit ` 100 for 1 year, you will receive ` 5 in interest.
+However, that Rs. 5 will probably be worth less at the end of the year than it would have been at
+the beginning. This is because inflation lowers the value of money. As goods, services, and
+assets, such as real estate, rise in price.
+
+The nominal interest rate is conceptually the simplest type of interest rate. It is quite simply the
+stated interest rate of a given bond or loan. It is also defined as a stated interest rate. This interest
+works according to the simple interest and does not take into account the compounding periods.
+Real Rate of Return: The real interest rate is so named because it states the "real" rate that the
+lender or investor receives after inflation is factored in; that is, the interest rate that exceeds the
+inflation rate.
+
+A comparison of real and nominal interest rates can therefore be summed up in this equation:
+
+Nominal Rate of Return ­ Inflation = Real Rate of Return
+
+Nominal Interest Rate = Real Interest Rate + Inflation
+
+Effective Rate:
+
+It is the actual equivalent annual rate of interest at which an investment grows in value when
+interest is credited more often than once a year. If interest is paid m times in a year it can be
+found by calculating:
+
+  1  +  i m  ­1
+        m 
+
+The chief advantage to knowing the difference between nominal, real and effective rates is that
+it allows consumers to make better decisions about their loans and investments. A loan with
+frequent compounding periods will be more expensive than one that compounds annually. A
+
+  © The Institute of Chartered Accountants of India
+4.40              BUSINESS MATHEMATICS
+
+bond that only pays a 1% real interest rate may not be worth investors' time if they seek to grow
+their assets over time. These rates effectively reveal the true return that will be posted by a fixed-
+income investment and the true cost of borrowing for an individual or business.
+
+Effective and nominal interest rates allow banks to use the number that looks most advantageous to
+the consumer. When banks are charging interest, they advertise the nominal rate, which is lower and
+does not reflect how much interest the consumer would owe on the balance after a full year of
+compounding. On the other hand, with deposit accounts where banks are paying interest, they
+generally advertise the effective rate because it is higher than the nominal rate.
+
+Compound Annual Growth Rate (CAGR) is a business and investing specific term for the smoothed
+annualized gain of an investment over a given time periodit is not an accounting term, but remains
+widely used, particularly in growth industries or to compare the growth rates of two investments
+because CAGR dampens the effect of volatility of periodic returns that can render arithmetic means
+irrelevant. CAGR is often used to describe the growth over a period of time of some element of
+
+the business, for example revenue, units delivered, registered users, etc.
+
+                                             1
+
+                            V    tn      tn  t0
+                            V    t0    
+CAGR        (t0,  tn)  =                         1
+
+Where V(t0 ) = Beginning Period ; V( tn ) = End Period
+Example: Suppose the revenues of a company for four years, V(t) in the above formula, have
+been
+
+      Year                  2013                    2014          2015  2016
+
+      Revenues              100                     120           160   210
+
+Calculate Compound annual Growth Rate.
+Solution:
+
+tn -t0 = 2016 - 2013 = 3
+The CAGR revenues over the three-year period from the end of 2013 to the end of 20016 is
+
+                                 1
+
+CAGR        (0,   3)  =    210 3       1  1.2774 1       27.74 %
+                           100 
+
+Applications: These are some of the common CAGR applications:
+ Calculating average returns of investment funds.
+ Demonstrating and comparing the performance of investment advisors.
+ Comparing the historical returns of stocks with bonds or with a savings account.
+ Forecasting future values based on the CAGR of a data series.
+ Analyzing and communicating the behavior, over a series of years, of different business
+
+      measures such as sales, market share, costs, customer satisfaction, and performance.
+
+      © The Institute of Chartered Accountants of India
+                                                                     MATHEMATICS OF FINANCE    4.41
+
+Choose the most appropriate option (a) (b) (c) or (d).
+
+1. The present value of an annuity of ` 3000 for 15 years at 4.5% p.a CI is
+
+(a) ` 23,809.41 (b) ` 32,218.76                      (c) ` 32,908.41        (d) none of these
+
+2. The amount of an annuity certain of ` 150 for 12 years at 3.5% p.a C.I is
+
+(a) ` 2,190.28 (b) ` 1,290.28                        (c) ` 2,180.28         (d) none of these
+
+3. A loan of ` 10,000 is to be paid back in 30 equal instalments. The amount of each installment
+      to cover the principal and at 4% p.a CI is
+
+(a) ` 587.87  (b) ` 587                              (c) ` 578.30           (d) none of these
+
+4. A = ` 1,200 n = 12 years i = 0.08, V = ?
+
+Using  the   formula  V=  A  1  -     1              value  of  v  will be
+                          i        (1 + i)n        
+
+(a) ` 3,039   (b) ` 3,990                            (c) ` 9,930            (d) 9,043.30
+
+5. a = ` 100 n = 10, i = 5% find the FV of annuity
+
+Using the formula FV = a / {1 + i) n ­ 1}, FV is equal to
+
+(a) ` 1,258   (b) ` 2,581                            (c) ` 1,528            (d) none of these
+
+6. If the amount of an annuity after 25 years at 5% p.a C.I is ` 50,000 the annuity will be
+
+(a) ` 1,406.90 (b) ` 1,047.62                        (c) ` 1,146.90         (d) none of these
+
+7. Given annuity of ` 100 amounts to ` 3137.12 at 4.5% p.a C. I. The number of years
+      will be
+
+(a) 25 years (appx.) (b) 20 years (appx.) (c) 22 years                      (d) none of these
+
+8. A company borrows ` 10,000 on condition to repay it with compound interest at 5% p.a
+       by annual installments of ` 1000 each. The number of years by which the debt will be
+      clear is
+
+(a) 14.2 years (b) 10 years                          (c) 12 years           (d) none of these
+
+9. Mr. X borrowed ` 5,120 at 12 ½ % p.a C.I. At the end of 3 yrs, the money was repaid along
+
+with the interest accrued. The amount of interest paid by him is
+
+(a) ` 2,100   (b) ` 2,170                            (c) ` 2,000            (d) none of these
+
+10. Mr. Paul borrows ` 20,000 on condition to repay it with C.I. at 5% p.a in annual installments
+      of ` 2000 each. The number of years for the debt to be paid off is
+
+(a) 10 years  (b) 12 years                           (c) 11 years           (d) 14.2 years
+
+11. A person invests ` 500 at the end of each year with a bank which pays interest at 10%
+      p. a C.I. annually. The amount standing to his credit one year after he has made his yearly
+      investment for the 12th time is.
+
+© The Institute of Chartered Accountants of India
+4.42  BUSINESS MATHEMATICS
+
+      (a) ` 11,761.36 (b) ` 10,000                       (c) ` 12,000  (d) none of these
+
+12. The present value of annuity of ` 5,000 per annum for 12 years at 4% p.a C.I. annually is
+
+      (a) ` 46,000  (b) ` 46,850                         (c) ` 15,000  (d) ` 46,925.40
+
+13. A person desires to create a fund to be invested at 10% CI per annum to provide for a prize
+      of ` 300 every year. Using V = a/I find V and V will be
+
+      (a) ` 2,000   (b) ` 2,500                          (c) ` 3,000   (d) none of these
+
+ Time value of money: Time value of money means that the value of a unity of money is
+      different in different time periods. The sum of money received in future is less valuable
+      than it is today. In other words the present worth of money received after some time will
+      be less than money received today.
+
+ Interest: Interest is the price paid by a borrower for the use of lender's money. If you
+      borrow (or lend) some money from (or to) a person for a particular period you would pay
+      (or receive) more money than your initial borrowing (or lending).
+
+ Simple interest: is the interest computed on the principal for the entire period of borrowing.
+                      I = Pit
+                     A=P+I
+                      I=A­P
+
+      Here, A = Accumulated amount (final value of an investment)
+                 P = Principal (initial value of an investment)
+                  i = Annual interest rate in decimal.
+                  I = Amount of Interest
+                  t = Time in years
+
+ Compound interest in the interest that accrues when earnings for each specified period of
+      time added to the principal thus increasing the principal base on which subsequent interest
+      is computed.
+
+      Formula for compound interest:
+
+               An = P ( 1 + i)n
+      where, i = Annual rate of interest
+
+                 n = Number of conversion periods per year
+
+         Interest = An ­ P = P ( 1 + i )n ­ P
+      n is total conversions i.e. t x no. of conversions per year
+ Effective Rate of Interest: The effective interest rate can be computed directly by following
+      formula:
+
+                 E = (1 + i)n­ 1
+
+      © The Institute of Chartered Accountants of India
+                                                   MATHEMATICS OF FINANCE  4.43
+
+      Where E is the effective interest rate
+
+                  i = actual interest rate in decimal
+
+                 n = number of conversion period
+
+ Future value of a single cash flow can be computed by above formula. Replace A by future
+      value (F) and P by single cash flow (C.F.) therefore
+                                                    F = C.F. (1 + i)n
+
+ Annuity can be defined as a sequence of periodic payments (or receipts) regularly over a
+      specified period of time.
+
+      Annuity may be of two types:
+
+       (i) Annuity regular: In annuity regular first payment/receipt takes place at the end of
+            first period.
+
+       (ii) Annuity Due or Annuity Immediate: When the first receipt or payment is made today
+            (at the beginning of the annuity) it is called annuity due or annuity immediate.
+
+ If A be the periodic payments, the future value A(n, i) of the annuity is given by
+
+      A(n,  i)  =  A    (1    i)n    1
+                              i       
+                      
+
+ Future value of an Annuity due/Annuity immediate = Future value of annuity regular x
+      (1+i) where i is the interest rate in decimal.
+
+ The present value P of the amount An due at the end of n period at the rate of i per interest
+      period may be obtained by solving for P the below given equation
+
+      An = P(1 + i)n
+
+i.e.  P=    An
+          (1+i)n
+
+ Present value of annuity due or annuity immediate: Present value of annuity due/
+      immediate for n years is the same as an annuity regular for (n-1) years plus an initial
+      receipt or payment in beginning of the period. Calculating the present value of annuity
+      due involves two steps.
+
+Step 1: Compute the present value of annuity as if it were a annuity regular for one period
+short.
+
+Step 2: Add initial cash payment/receipt to the step 1 value.
+
+ Sinking Fund: It is the fund credited for a specified purpose by way of sequence of periodic
+      payments over a time period at a specified interest rate. Interest is compounded at the end
+      of every period. Sizeof the sinking fund deposit is computed from A = P×A(n, i) where A is
+      the amount to be saved P the periodic payment, n the payment period.
+
+© The Institute of Chartered Accountants of India
+4.44  BUSINESS MATHEMATICS
+
+ Annuity applications:
+
+      (a) Leasing: Leasing is a financial arrangement under which the owner of the asset (lessor)
+           allows the user of the asset (lessee) to use the asset for a defined period of time (lease
+           period) for a consideration (lease rental) payable over a given period of time. This is a
+           kind of taking an asset on rent.
+
+      (b) Capital Expenditure (investment decision): Capital expenditure means purchasing
+           an asset (which results in outflows of money) today in anticipation of benefits (cash
+           inflow) which would flow across the life of the investment.
+
+      (c) Valuation of Bond: A bond is a debt security in which the issuer owes the holder a
+           debt and is obliged to repay the principal and interest. Bonds are generally issued for
+           a fixed term longer than one year.
+
+Choose the most appropriate option (a), (b), (c) or (d).
+
+1. A = ` 5,200, R = 5% p.a., T = 6 years, P will be
+
+      (a) ` 2,000   (b) ` 3,880                          (c) ` 3,000      (d) none of these
+
+2 If P = 1,000, n = 4 years., R = 5% p.a then C. I will be
+
+      (a) ` 215.50  (b) ` 210                            (c) ` 220        (d) none of these
+
+3 The time in which a sum of money will be double at 5% p.a C.I is
+
+      (a) ` 10 years (b) 12 years                        (c) 14.2 years   (d) none of these
+
+4. If A = ` 10,000, n = 18yrs., R = 4% p.a C.I, P will be
+
+      (a) ` 4,000   (b) ` 4,900                          (c) ` 4,500      (d) 4,936.30
+
+5. The time by which a sum of money would treble it self at 8% p. a C. I is
+
+      (a) 14.28 years (b) 14 years                       (c) 12 years     (d) none of these
+
+6. The present value of an annuity of ` 80 a years for 20 years at 5% p.a is
+
+      (a) ` 997 (appx.) (b) ` 900                        (c) ` 1,000      (d) none of these
+
+7. A person bought a house paying ` 20,000 cash down and ` 4,000 at the end of each year for
+      25 yrs. at 5% p.a. C.I. The cash down price is
+
+      (a) ` 75,000  (b) ` 76,000                         (c) ` 76,375.50  (d) none of these.
+
+8. A man purchased a house valued at ` 3,00,000. He paid ` 2,00,000 at the time of purchase
+      and agreed to pay the balance with interest at 12% per annum compounded half yearly in 20
+      equal half yearly instalments. If the first instalment is paid after six months from the date of
+      purchase then the amount of each instalment is
+
+      [Given log 10.6 = 1.0253 and log 31.19 = 1.494]
+
+      (a) ` 8,718.45 (b) ` 8,769.21                      (c) ` 7,893.13   (d) none of these.
+
+      © The Institute of Chartered Accountants of India
+                                                              MATHEMATICS OF FINANCE  4.45
+
+Exercise 4(a)
+
+1. (b) 2.      (a) 3.          (c) 4.              (d) 5.     (a) 6.    (b)
+
+7. (a) 8.      (c) 9.          (a) 10. (c)
+
+Exercise 4(b)
+
+1. (a) 2.      (c) 3.          (c) 4.              (b) 5.     (a) 6.    (c)
+
+7. (d) 8.      (a) 9.          (d) 10. (b) 11. (c) 12. (d)
+
+13. (a) 14. (a)
+
+Exercise 4(c)
+
+1. (b) 2.      (a) 3.          (c) 4.              (d) 5.     (a) 6.    (b)
+
+7. (b) 8.      (a) 9.          (b) 10. (d) 11. (a) 12. (d)
+
+13. (c)
+
+Exercise 4(d)
+
+1. (b) 2.      (a) 3.          (c) 4.              (d) 5.     (a) 6.    (a)
+
+7. (c) 8.      (a)
+
+1. The difference between compound and simple interest at 5% per annum for 4 years on
+      ` 20,000 is ` ________
+
+(a) 250             (b) 277                        (c) 300    (d) 310
+
+2. The compound interest on half-yearly rests on ` 10,000 the rate for the first and second years
+      being 6% and for the third year 9% p.a. is `.____________.
+
+(a) 2,200           (b) 2,287                      (c) 2,285  (d) None
+
+3. The present value of ` 10,000 due in 2 years at 5% p.a. compound interest when the interest
+      is paid on yearly basis is ` ________.
+
+(a) 9,070           (b) 9,000                      (c) 9,061  (d) None
+
+4. The present value of ` 10,000 due in 2 years at 5% p.a. compound interest when the interest
+      is paid on half-yearly basis is ` ________.
+
+(a) 9,070           (b) 9,069                      (c) 9,061  (d) None
+
+5. Johnson left ` 1,00,000 with the direction that it should be divided in such a way that his
+      minor sons Tom, Dick and Harry aged 9, 12 and 15 years should each receive equally after
+      attaining the age 25 years. The rate of interest being 3.5%, how much each son receive after
+      getting 25 years old?
+
+© The Institute of Chartered Accountants of India
+4.46  BUSINESS MATHEMATICS
+
+      (a) 50,000            (b) 51,994                   (c) 52,000             (d) None
+
+6. In how many years will a sum of money double at 5% p.a. compound interest?
+
+      (a) 15 years 3 months                              (b) 14 years 2 months
+      (c) 14 years 3 months                              (d) 15 years 2 months
+
+7. In how many years a sum of money trebles at 5% p.a. compound interest payable on half-
+      yearly basis?
+
+      (a) 18 years 7 months                              (b) 18 years 6 months
+      (c) 18 years 8 months                              (d) 22 years 3 months
+
+8. A machine depreciates at 10% of its value at the beginning of a year. The cost and scrap
+      value realized at the time of sale being ` 23,240 and ` 9,000 respectively. For how many
+      years the machine was put to use?
+
+      (a) 7 years           (b) 8 years                  (c) 9 years            (d) 10 years
+
+9. A machine worth ` 4,90,740 is depreciated at 15% on its opening value each year. When its
+      value would reduce to ` 2,00,000?
+
+      (a) 4 years 6 months                               (b) 4 years 7 months
+      (c) 4 years 5 months                               (d) 5 years 7 months approximately
+
+10. A machine worth ` 4,90,740 is depreciated at 15% of its opening value each year. When its
+      value would reduce by 90%?
+
+      (a) 11 years 6 months                              (b) 11 years 7 months
+      (c) 11 years 8 months                              (d) 14 years 2 months approximately
+
+11. Alibaba borrows ` 6 lakhs Housing Loan at 6% repayable in 20 annual installments
+      commencing at the end of the first year. How much annual payment is necessary.
+
+      (a) ` 52,420          (b) ` 52,419                 (c) ` 52,310           (d) ` 52,320
+
+12. A sinking fund is created for redeming debentures worth ` 5 lakhs at the end of 25 years.
+      How much provision needs to be made out of profits each year provided sinking fund
+      investments can earn interest at 4% p.a.?
+
+      (a) ` 12,006          (b) ` 12,040                 (c) ` 12,039           (d) ` 12,035
+
+13. A machine costs ` 5,20,000 with an estimated life of 25 years. A sinking fund is created to
+      replace it by a new model at 25% higher cost after 25 years with a scrap value realization of
+      ` 25000. what amount should be set aside every year if the sinking fund investments
+      accumulate at 3.5% compound interest p.a.?
+
+      (a) ` 16,000          (b) ` 16,500                 (c) ` 16,050           (d) ` 16,005
+
+14. Raja aged 40 wishes his wife Rani to have ` 40 lakhs at his death. If his expectation of life is
+      another 30 years and he starts making equal annual investments commencing now at 3%
+      compound interest p.a. how much should he invest annually?
+
+      © The Institute of Chartered Accountants of India
+                                                                 MATHEMATICS OF FINANCE  4.47
+
+(a) 84,448    (b) 84,450                           (c) 84,449        (d) 84,080
+
+15. Appu retires at 60 years receiving a pension of 14,400 a year paid in half-yearly installments
+      for rest of his life after reckoning his life expectation to be 13 years and that interest at 4%
+      p.a. is payable half-yearly. What single sum is equivalent to his pension?
+
+(a) 1,45,000  (b) 1,44,900                         (c) 1,44,800      (d) 1,44,700
+
+1. (d) 2. (d) 3.                                   (a) 4. (c)    5.  (d) 6. (b)
+
+7. (d) 8. (c)  9.                                  (d) 10. (d) 11. (c)  12. (a)
+
+13. (c) 14. (d) 15. (b)
+
+Note : In most cases Loan payment dues are made at the end of the period only, i.e Annuity
+Regular . Questions based on Annuity applications can be solved using the Annuity Regular
+method . For knowledge purpose students may try another method viz., Annuity Due.
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+

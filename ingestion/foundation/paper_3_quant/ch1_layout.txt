@@ -1,0 +1,2524 @@
+CHAPTER         1
+
+RATIO AND PROPORTION,
+INDICES, LOGARITHMS
+
+After reading this unit a student will learn ­
+ How to compute and compare two ratios;
+ Effect of increase or decrease of a quantity on the ratio;
+ The concept and application of different types of ratios.
+
+                   Overview of Ratios
+
+         Ratio                                                           Type of Ratios
+
+                                                   Inverse Ratio         Compound Ratio
+
+                                                   Duplicate Ratio        Triplicate Ratio
+                                                    Sub-duplicate Ratio   Sub-triplicate Ratio
+
+We use ratio in many ways in practical fields. For example, it is given that a certain sum of
+money is divided into three parts in the also given ratio. If first part is given then we can find out
+total amount and the other two parts.
+
+In the case when ratio of boys and girls in a school is given and the total number of student the
+number of boys in the school is given, we can find out the number of girls of that school by using
+ratios.
+
+© The Institute of Chartered Accountants of India
+1.2  BUSINESS MATHEMATICS
+
+A ratio is a comparison of the sizes of two or more quantities of the same kind by division.
+
+If a and b are two quantities of the same kind (in same units), then the fraction a/b is called the
+ratio of a to b. It is written as a : b. Thus, the ratio of a to b = a/b or a : b. The quantities a and b are
+called the terms of the ratio, a is called the first term or antecedent and b is called the second
+term or consequent.
+
+For example, in the ratio 5 : 6, 5 & 6 are called terms of the ratio. 5 is called the first term and 6 is
+called second term.
+
+1.1.2 Remarks
+
+ Both terms of a ratio can be multiplied or divided by the same (non­zero) number.
+ Usually a ratio is expressed in lowest terms (or simplest form).
+
+Illustration I:
+
+12 : 16 = 12/16 = (3 × 4)/(4 × 4) = 3/4 = 3 : 4
+
+ The order of the terms in a ratio is important.
+
+Illustration II:
+
+3 : 4 is not same as 4 : 3.
+
+ Ratio exists only between quantities of the same kind.
+
+Illustration III:
+
+(i) There is no ratio between number of students in a class and the salary of a teacher.
+
+(ii) There is no ratio between the weight of one child and the age of another child.
+
+ Quantities to be compared (by division) must be in the same units.
+
+Illustration IV:
+
+(i) Ratio between 150 gm and 2 kg                       = Ratio between 150 gm and 2000 gm
+
+                                                        = 150/2000 = 3/40 = 3 : 40
+
+(ii) Ratio between 25 minutes and 45 seconds = Ratio between (25 × 60) sec. and 45 sec.
+
+                                                        = 1500/45 = 100/3 = 100 : 3
+
+Illustration V:
+
+(i) Ratio between 3 kg & 5 kg = 3/5
+
+ To compare two ratios, convert them into equivalent like fractions.
+
+Illustration VI: To find which ratio is greater _____________
+
+                   2 1 : 3 1 ; 3.6 : 4.8
+                   3         3
+
+     © The Institute of Chartered Accountants of India
+                                                   RATIO AND PROPORTION, INDICES, LOGARITHMS  1.3
+
+Solution: 2 1 : 3 1 = 7/3 : 10/3 = 7 : 10 = 7/10
+3  3
+
+3.6 : 4.8 = 3.6/4.8 = 36/48 = 3/4
+
+L.C.M of 10 and 4 is 20.
+
+So, 7/10 = (7 × 2)/(10 × 2) = 14/20
+
+And 3/4 = (3 × 5)/(4 × 5) = 15/20
+
+As 15 > 14 so, 15/20 > 14/20 i. e. 3/4 > 7/10
+
+Hence, 3.6 : 4.8 is greater ratio.
+
+ If a quantity increases or decreases in the ratio a : b then new quantity = b/a of the original
+      quantity/a
+
+The fraction by which the original quantity is multiplied to get a new quantity is called the
+factor multiplying ratio.
+
+Illustration VII: Rounaq weighs 56.7 kg. If he reduces his weight in the ratio 7 : 6, find his new
+weight.
+
+Solution: Original weight of Rounaq = 56.7 kg
+
+               He reduces his weight in the ratio 7 : 6
+               His new weight = 6 × 56.7 = 6 × 8.1 = 48.6 kg
+
+                                        7
+Applications:
+
+Example 1: Simplify the ratio 1/3 : 1/8 : 1/6
+
+Solution: L.C.M. of 3, 8 and 6 is 24.
+
+1/3 : 1/8 : 1/6 = 1 × 24/3 : 1 × 24/8 : 1 × 24/6
+
+      =8:3:4
+
+Example 2: The ratio of the number of boys to the number of girls in a school of 720 students is 3
+: 5. If 18 new girls are admitted in the school, find how many new boys may be admitted so that
+the ratio of the number of boys to the number of girls may change to 2 : 3.
+
+Solution: The ratio of the number of boys to the number of girls = 3 : 5
+
+Sum of the ratios                                  = 3+5                  =  8
+
+So, the number of boys in the school               = (3 × 720)/8 =           270
+
+And the number of girls in the school              = (5 × 720)/8 =           450
+
+Let the number of new boys admitted be x, then the number of boys become (270 + x).
+
+After admitting 18 new girls, the number of girls become 450 + 18 = 468
+
+According to given description of the problem, (270 + x)/468 = 2/3
+
+                          or, 3 (270 + x) = 2 x 468
+                          or, 810 + 3x = 936 or, 3x = 126 or, x = 42.
+
+Hence the number of new boys admitted = 42.
+
+© The Institute of Chartered Accountants of India
+1.4  BUSINESS MATHEMATICS
+
+1.1.3 Inverse Ratio
+
+One ratio is the inverse of another if their product is 1. Thus a : b is the inverse of b : a and vice-
+versa.
+Some Properties of Ratios:
+1. A ratio a : b is said to be of greater inequality if a>b and of lesser inequality if a<b.
+2. The ratio compounded of the two ratios a : b and c : d is ac : bd.
+
+      For example compound ratio of 3 : 4 and 5 : 7 is 15 : 28.
+      Compound ratio of 2 : 3, 5 : 7 and 4 : 9 is 40 : 189.
+3. A ratio compounded of itself is called its duplicate ratio.
+      Thus a2 : b2 is the duplicate ratio of a : b. Similarly, the triplicate ratio of a : b is a3 : b3.
+      For example, duplicate ratio of 2 : 3 is 4 : 9. Triplicate ratio of 2 : 3 is 8 : 27.
+4. The sub-duplicate ratio of a : b is a : b and the sub-triplicate ratio of a : b is 3 a : 3 b .
+
+      For example sub-duplicate ratio of 4 : 9 is 4 : 9 = 2 : 3
+
+      And sub-triplicate ratio of 8 : 27 is 3 8 : 3 27 = 2 : 3.
+
+5. If the ratio of two similar quantities can be expressed as a rational numbers, the quantities
+      are said to be commensurable; otherwise, they are said to be incommensurable. 3 : 2
+
+      cannot be expressed as the ratio of two integers and therefore, 3 and 2 are
+      incommensurable quantities.
+
+6. Continued Ratio is the relation (or comparison) between the magnitudes of three or more
+      quantities of the same kind. The continued ratio of three similar quantities a, b, c is written
+      as a : b : c.
+
+Applications:
+Illustration I: The continued ratio of ` 200, ` 400 and ` 600 is ` 200 : ` 400 :
+` 600 = 1 : 2 : 3.
+
+Example 1: The monthly incomes of two persons are in the ratio 4 : 5 and their monthly
+expenditures are in the ratio 7 : 9. If each saves ` 50 per month, find their monthly incomes.
+
+Solution: Let the monthly incomes of two persons be ` 4x and ` 5x so that the ratio is
+` 4x : ` 5x = 4 : 5. If each saves ` 50 per month, then the expenditures of two persons are `
+(4x ­ 50) and ` (5x ­ 50).
+
+        4x  50 7
+                  = or 36x  450 = 35x  350
+
+        5x  50 9
+
+       or, 36x ­ 35x = 450 ­ 350, or, x = 100
+
+       Hence, the monthly incomes of the two persons are ` 4 × 100 and ` 5 × 100
+       i.e. ` 400 and ` 500.
+
+     © The Institute of Chartered Accountants of India
+                                                      RATIO AND PROPORTION, INDICES, LOGARITHMS           1.5
+
+Example 2 : The ratio of the prices of two houses was 16 : 23. Two years later when the price of
+the first has increased by 10% and that of the second by ` 477, the ratio of the prices becomes 11
+: 20. Find the original prices of the two houses.
+
+Solution: Let the original prices of two houses be ` 16x and ` 23x respectively. Then by the given
+conditions,
+
+       16x +10% of 16x 11
+                            =
+
+           23x + 477 20
+
+       or, 16x +1.6x = 11 , or, 320x + 32x = 253x + 5247
+               23x + 477 20
+
+       or, 352x ­ 253x = 5247, or, 99x = 5247;  x = 53
+
+       Hence, the original prices of two houses are ` 16 × 53 and ` 23 × 53 i.e. ` 848 and
+       ` 1,219.
+
+Example 3: Find in what ratio will the total wages of the workers of a factory be increased or
+decreased if there be a reduction in the number of workers in the ratio 15 : 11 and an increment in
+their wages in the ratio 22 : 25.
+
+Solution: Let x be the original number of workers and ` y the (average) wages per workers. Then
+the total wages before changes = ` xy.
+
+       After reduction, the number of workers = (11x)/15
+
+       After increment, the (average) wages per workers = ` (25y)/22
+
+  The   total  wages  after  changes               =   11  x)    (`  25        `  5xy
+                                                      (                  y) =
+                                                      15             22             6
+
+Thus, the total wages of workers get decreased from ` xy to ` 5xy/6
+
+                                                                                          5xy
+Hence, the required ratio in which the total wages decrease is xy : = 6 : 5 .
+
+                                                                                           6
+
+Choose the most appropriate option (a) (b) (c) or (d).
+
+1. The inverse ratio of 11 : 15 is
+
+(a) 15 : 11           (b) 11 : 15                                    (c) 121 : 225     (d) none of these
+
+2. The ratio of two quantities is 3 : 4. If the antecedent is 15, the consequent is
+
+(a) 16                (b) 60                                         (c) 22            (d) 20
+
+3. The ratio of the quantities is 5 : 7. If the consequent of its inverse ratio is 5, the antecedent is
+
+(a) 5                 (b) 5                                          (c) 7             (d) none of these
+
+© The Institute of Chartered Accountants of India
+1.6            BUSINESS MATHEMATICS
+
+4. The ratio compounded of 2 : 3, 9 : 4, 5 : 6 and 8 : 10 is
+
+     (a) 1 : 1         (b) 1 : 5                           (c) 3 : 8         (d) none of these
+
+5. The duplicate ratio of 3 : 4 is
+
+     (a) 3 : 2         (b) 4 : 3                           (c) 9 : 16        (d) none of these
+
+6. The sub-duplicate ratio of 25 : 36 is
+
+     (a) 6 : 5         (b) 36 : 25                         (c) 50 : 72       (d) 5 : 6
+
+7. The triplicate ratio of 2 : 3 is
+
+     (a) 8 : 27        (b) 6 : 9                           (c) 3 : 2         (d) none of these
+
+8. The sub-triplicate ratio of 8 : 27 is
+
+     (a) 27 : 8        (b) 24 : 81                         (c) 2 : 3         (d) none of these
+
+9. The ratio compounded of 4 : 9 and the duplicate ratio of 3 : 4 is
+
+     (a) 1 : 4         (b) 1 : 3                           (c) 3 : 1         (d) none of these
+
+10. The ratio compounded of 4 : 9, the duplicate ratio of 3 : 4, the triplicate ratio of 2 : 3 and 9 : 7 is
+
+     (a) 2 : 7         (b) 7 : 2                           (c) 2 : 21        (d) none of these
+
+11. The ratio compounded of 4 : 5, 9 : 7, the triplicate ratio of 3 : 4, and the triplicate ratio of
+
+     2 : 3 is
+
+     (a) 4 : 512       (b) 3 : 32                          (c) 1 : 12        (d) none of these
+
+12. If a : b = 3 : 4, the value of (2a+3b) : (3a+4b) is
+
+     (a) 54 : 25       (b) 8 : 25                          (c) 17 : 24       (d) 18 : 25
+
+13. Two numbers are in the ratio 2 : 3. If 4 be subtracted from each, they are in the ratio 3 : 5. The
+
+     numbers are
+
+     (a) (16, 24)      (b) (4, 6)                          (c) (2, 3)        (d) none of these
+
+14. The angles of a triangle are in ratio 2 : 7 : 11. The angles are
+
+     (a) (20, 70, 90)  (b) (30, 70, 80)                    (c) (18, 63, 99)  (d) none of these
+
+15. Division of ` 324 between X and Y is in the ratio 11 : 7. X & Y would get Rupees
+
+     (a) (204, 120)    (b) (200, 124)                      (c) (180, 144)    (d) none of these
+
+16. Anand earns ` 80 in 7 hours and Promode ` 90 in 12 hours. The ratio of their earnings is
+
+     (a) 32 : 21       (b) 23 : 12                         (c) 8 : 9         (d) none of these
+
+17. The ratio of two numbers is 7 : 10 and their difference is 105. The numbers are
+
+     (a) (200, 305)    (b) (185, 290)                      (c) (245, 350)    (d) none of these
+
+18. P, Q and R are three cities. The ratio of average temperature between P and Q is 11 : 12 and
+
+     that between P and R is 9 : 8. The ratio between the average temperature of Q and R is
+
+     (a) 22 : 27       (b) 27 : 22                         (c) 32 : 33       (d) none of these
+
+19. If x : y = 3 : 4, the value of x2y + xy2 : x3 + y3 is
+
+     (a) 13 : 12       (b) 12 : 13                         (c) 21 : 31       (d) none of these
+
+     © The Institute of Chartered Accountants of India
+                                                   RATIO AND PROPORTION, INDICES, LOGARITHMS  1.7
+
+20. If p : q is the sub-duplicate ratio of p­x2 : q­x2 then x2 is
+
+        p            q                                    pq                         (d) none of these
+(a)           (b)                                  (c)
+
+      p+q          p+q                                  p+q
+
+21. If 2s : 3t is the duplicate ratio of 2s ­ p : 3t ­ p then
+
+(a) p2 = 6st  (b) p = 6st                          (c) 2p = 3st    (d) none of these
+
+22. If p : q = 2 : 3 and x : y = 4 : 5, then the value of 5px + 3qy : 10px + 4qy is
+
+(a) 71 : 82   (b) 27 : 28                          (c) 17 : 28     (d) none of these
+
+23. The number which when subtracted from each of the terms of the ratio 19 : 31 reducing it to
+
+1 : 4 is
+
+(a) 15        (b) 5                                (c) 1           (d) none of these
+
+24. Daily earnings of two persons are in the ratio 4:5 and their daily expenses are in the ratio
+
+7 : 9. If each saves ` 50 per day, their daily earnings in ` are
+
+(a) (40, 50)  (b) (50, 40)                         (c) (400, 500)  (d) none of these
+
+25. The ratio between the speeds of two trains is 7 : 8. If the second train runs 400 kms. in 5
+
+hours, the speed of the first train is
+
+(a) 10 Km/hr  (b) 50 Km/hr                         (c) 70 Km/hr    (d) none of these
+
+ A ratio is a comparison of the sizes of two or more quantities of the same kind by division.
+
+ If a and b are two quantities of the same kind (in same units), then the fraction a/b is
+      called the ratio of a to b. It is written as a : b. Thus, the ratio of a to b = a/b or a : b.
+
+ The quantities a and b are called the terms of the ratio, a is called the first term or antecedent
+      and b is called the second term or consequent.
+
+ The ratio compounded of the two ratios a : b and c : d is ac : bd.
+
+ A ratio compounded of itself is called its duplicate ratio. a2 : b2 is the duplicate ratio of a : b.
+      Similarly, the triplicate ratio of a : b is a3 : b3.
+
+ For any ratio a : b, the inverse ratio is b : a
+
+ The sub-duplicate ratio of a : b is a½ : b½ and the sub-triplicate ratio of a : b is a1/3: b1/3.
+
+ Continued Ratio is the relation (or comparsion) between the magnitudes of three or more
+      Quantities of the same kind. The continued ratio of three similar quantities a, b, c is written
+      as a : b : c.
+
+© The Institute of Chartered Accountants of India
+1.8  BUSINESS MATHEMATICS
+
+     After reading this unit a student will learn ­
+      What is proportion?
+      Properties of proportion and how to use them.
+
+     Overview of Proportions
+
+           Proportions                                  Properties of Proportions
+
+      Cross Product Rule                                 Cross product rule
+      Continued Propritons                               Invertendo
+      Mean Proportonal                                   Alternendo
+                                                         Componendo
+                                                         Dividendo
+                                                         Componendo and Dividendo
+                                                         Addendo
+
+If the income of a man is increased in the given ratio and if the increase in his income is given
+then to find out his new income, in a Proportion problem is used.
+Again if the ages of two men are in the given ratio and if the age of one man is given, we can find
+out the age of the another man by Proportion.
+An equality of two ratios is called a proportion. Four quantities a, b, c, d are said to be in proportion
+if a : b = c : d (also written as a : b :: c : d) i.e. if a/b = c/d i.e. if ad = bc.
+The quantities a, b, c, d are called terms of the proportion; a, b, c and d are called its first, second,
+third and fourth terms respectively. First and fourth terms are called extremes (or extreme terms).
+Second and third terms are called means (or middle terms).
+
+ If a : b = c : d then d is called fourth proportional.
+
+ If a : b = c : d are in proportion then a/b = c/d i.e. ad = bc
+
+ i.e. product of extremes = product of means.
+
+     © The Institute of Chartered Accountants of India
+                                                   RATIO AND PROPORTION, INDICES, LOGARITHMS  1.9
+
+This is called cross product rule.
+
+Three quantities a, b, c of the same kind (in same units) are said to be in continuous proportion
+if a : b = b : c i.e. a/b = b/c i.e. b2 = ac
+
+If a, b, c are in continuous proportion, then the middle term b is called the mean proportional
+between a and c, a is the first proportional and c is the third proportional.
+
+Thus, if b is mean proportional between a and c, then b2 = ac i.e. b = ac .
+
+When three or more numbers are so related that the ratio of the first to the second, the ratio of the
+second to the third, third to the fourth etc. are all equal, the numbers are sai d to be in continued
+proportion. We write it as
+
+      x/y = y/z = z/w = w/p = p/q = ................................................. when
+
+x, y, z, w, p and q are in continued proportion. If a ratio is equal to the reciprocal of the other, then
+either of them is in inverse (or reciprocal) proportion of the other. For example 5/4 is in inverse
+proportion of 4/5 and vice-versa.
+
+Note: In a ratio a : b, both quantities must be of the same kind while in a proportion
+a : b = c : d, all the four quantities need not be of the same type. The first two quantities should be
+of the same kind and last two quantities should be of the same kind.
+
+Applications :
+
+Illustration I:
+
+` 6 : ` 8 = 12 toffees : 16 toffees are in a proportion.
+
+Here 1st two quantities are of same kind and last two are of same kind.
+
+Example 1: The numbers 2.4, 3.2, 1.5, 2 are in proportion because these numbers satisfy the property
+the product of extremes = product of means.
+
+Here 2.4 × 2 = 4.8  and 3.2 × 1.5 = 4.8
+
+Example 2: Find the value of x if 10/3 : x : : 5/2 : 5/4.
+
+Solution: 10/3 : x = 5/2 : 5/4
+
+Using cross product rule, x × 5/2 = (10/3) × 5/4
+
+Or, x = (10/3) × (5/4) × (2/5) = 5/3
+
+Example 3: Find the fourth proportional to 2/3, 3/7, 4.
+
+Solution: If the fourth proportional be x, then 2/3, 3/7, 4, x are in proportion.
+
+Using cross product rule, (2/3) × x = (3 × 4)/7
+
+                                                   or, x = (3 × 4 × 3)/(7 × 2) = 18/7.
+
+Example 4: Find the third proportion to 2.4 kg, 9.6 kg.
+
+Solution: Let the third proportion to 2.4 kg, 9.6 kg be x kg.
+
+Then 2.4 kg, 9.6 kg and x kg are in continued proportion since b2 = ac
+
+So, 2.4/9.6 = 9.6/x or, x = (9.6 × 9.6)/2.4 = 38.4
+
+© The Institute of Chartered Accountants of India
+1.10          BUSINESS MATHEMATICS
+
+Hence the third proportional is 38.4 kg.
+Example 5: Find the mean proportion between 1.25 and 1.8.
+Solution: Mean proportion between 1.25 and 1.8 is 1.25×1.8 = 2.25 = 1.5.
+
+1.2.1 Properties of Proportion
+
+1. If a : b = c : d, then ad = bc
+
+      Proof. a = c ; ad = bc (By cross - multiplication)
+                 bd
+
+2. If a : b = c : d, then b : a = d : c (Invertendo)
+
+      Proof. a = c or 1 a =1 c , or, b = d
+              bd             bd                          ac
+
+      Hence, b : a = d : c.
+
+3. If a : b = c : d, then a : c = b : d (Alternendo)
+
+      Proof. a = c or, ad = bc
+                 bd
+
+      Dividing both sides by cd, we get
+
+      ad = bc , or a = b , i.e. a : c = b : d.
+      cd cd c d
+
+4. If a : b = c : d, then a + b : b = c + d : d (Componendo)
+
+      Proof. a = c , or, a +1= c +1
+                 bd          bd
+
+      or, a + b = c + d , i.e. a + b : b = c + d : d.
+            bd
+
+5. If a : b = c : d, then a ­ b : b = c ­ d : d (Dividendo)
+
+      Proof. a = c ,  a 1= c  1
+                 bd b d
+
+      a  b = c  d , i.e. a  b : b = c  d : d.
+        bd
+
+6. If a : b = c : d, then a + b : a ­ b = c + d : c ­ d (Componendo and Dividendo)
+
+      Proof.  a = c , or a  1= c +1, or a + b = c + d        ......................................1
+              bd b d                                     bd
+
+      Again a  1 , = c  1, or a  b = c  d                    ...................................................2
+              b   d                bd
+
+      © The Institute of Chartered Accountants of India
+                                                      RATIO AND PROPORTION, INDICES, LOGARITHMS            1.11
+
+   Dividing (1) by (2) we get
+
+   a + b = c + d , i.e. a + b: a  b = c + d : c  d
+   ab cd
+
+7. If a : b = c : d = e : f = ........................., then each of these ratios (Addendo) is equal
+      (a + c + e + ........) : (b + d + f + .......)
+
+   Proof.    ac    =  e = ............(say) k,
+               =
+             bd f
+
+   a = bk, c = dk, e = fk, .............
+
+   Now a + c + e....... = k (b + d + f)............ or        a + c + e.....  =k
+
+                                                              b + d + f.....
+
+   Hence, (a + c + e + ........) : (b + d + f + .......) is equal to each ratio
+
+8. Subtrahendo : If a : b = c : d = e : f = ........................., then each of these ratios is equal
+      (a ­ c ­ e ­ ........) : (b ­ d ­ f ­ .......)
+
+Example 1: If a : b = c : d = 2.5 : 1.5, what are the values of ad : bc and a + c : b + d?
+
+Solution: We have  ac   , = 2.5 ...........................(1)
+                     =
+                   b d 1.5
+
+   From (1)  ad = bc, or,   ad  =  1  ,  i.e.      ad  :  bc  =  1  :  1
+                            bc
+
+   Again from (1)     a = c = a+c                             (By addendo property)
+                      b d b+d
+
+    a + c = 2.5 = 25 = 5 ,  i.e. a + c : b + d = 5 : 3
+      b + d 1.5 15 3
+
+   Hence, the values of ad : bc and a + c : b + d are 1 : 1 and 5 : 3 respectively.
+
+             ab c                                      a +b+c          =2
+Example 2: If = = , then prove that
+             347                                          c
+
+                   a b c a+b+c a+b+c                                              (By addendo property)
+Solution: We have    ==        =                      =
+                   347            3+4+7                       14
+
+    a + b + c = c or a + b + c = 14 = 2
+   14 7                     c                      7
+
+Example 3: A dealer mixes tea costing ` 6.92 per kg. with tea costing ` 7.77 per kg and sells the
+
+mixture at ` 8.80 per kg and earns a profit of 17 1 % on his sale price. In what proportion does he
+                                                              2
+
+mix them?
+Solution: Let us first find the cost price (C.P.) of the mixture. If S.P. is ` 100, profit is
+
+17 1 Therefore C.P. = ` (100 - 17 1 ) = ` 82 1 = ` 165
+2                                         2                   2            2
+
+© The Institute of Chartered Accountants of India
+1.12          BUSINESS MATHEMATICS
+
+If S.P. is ` 8.80, C.P. is (165 × 8.80)/(2 × 100) = ` 7.26
+ C.P. of the mixture per kg = ` 7.26
+
+      2nd difference = Profit by selling 1 kg. of 2nd kind @ ` 7.26
+
+                         = ` 7.77 ­ ` 7.26 = 51 Paise
+      1st difference = ` 7.26 ­ ` 6.92 = 34 Paise
+      We have to mix the two kinds in such a ratio that the amount of profit in the first case must
+      balance the amount of loss in the second case.
+      Hence, the required ratio = (2nd diff) : (1st diff.) = 51 : 34 = 3 : 2.
+
+Choose the most appropriate option (a) (b) (c) or (d).
+
+1. The fourth proportional to 4, 6, 8 is
+
+      (a) 12         (b) 32                              (c) 48         (d) none of these
+                                                                        (d) none of these
+2. The third proportional to 12, 18 is                                  (d) none of these
+                                                                        (d) none of these
+      (a) 24         (b) 27                              (c) 36         (d) none of these
+                                                                        (d) none of these
+3. The mean proportional between 25, 81 is                              (d) none of these
+
+      (a) 40         (b) 50                              (c) 45         (d) none of these
+                                                                        (d) none of these
+4. The number which has the same ratio to 26 that 6 has to 13 is        (d) none of these
+                                                                        (d) none of these
+      (a) 11         (b) 10                              (c) 21         (d) none of these
+
+5. The fourth proportional to 2a, a2, c is
+
+      (a) ac/2       (b) ac                              (c) 2/ac
+
+6. If four numbers 1/2, 1/3, 1/5, 1/x are proportional then x is
+
+      (a) 6/5        (b) 5/6                             (c) 15/2
+
+7. The mean proportional between 12x2 and 27y2 is
+
+      (a) 18xy       (b) 81xy                            (c) 8xy
+
+      (Hint: Let z be the mean proportional and z = (12x2 x 27y2 )
+
+8. If A = B/2 = C/5, then A : B : C is
+
+      (a) 3 : 5 : 2  (b) 2 : 5 : 3                       (c) 1 : 2 : 5
+
+9. If a/3 = b/4 = c/7, then a + b + c/c is
+
+      (a) 1          (b) 3                               (c) 2
+
+10. If p/q = r/s = 2.5/1.5, the value of ps : qr is
+
+      (a) 3/5        (b) 1:1                             (c) 5/3
+
+11. If x : y = z : w = 2.5 : 1.5, the value of (x + z)/(y + w) is
+
+      (a) 1          (b) 3/5                             (c) 5/3
+
+12. If (5x ­ 3y)/(5y ­ 3x) = 3/4, the value of x : y is
+
+      (a) 2 : 9      (b) 7 : 2                           (c) 7 : 9
+
+      © The Institute of Chartered Accountants of India
+                                                   RATIO AND PROPORTION, INDICES, LOGARITHMS       1.13
+
+13. If A : B = 3 : 2 and B : C = 3 : 5, then A : B : C is
+
+     (a) 9 : 6 : 10                (b) 6 : 9 : 10          (c) 10 : 9 : 6       (d) none of these
+
+14. If x/2 = y/3 = z/7, then the value of (2x ­ 5y + 4z)/2y is
+
+     (a) 6/23                      (b) 23/6                (c) 3/2              (d) 17/6
+
+15. If x : y = 2 : 3, y : z = 4 : 3 then x : y : z is
+
+     (a) 2 : 3 : 4                 (b) 4 : 3 : 2           (c) 3 : 2 : 4        (d) 8 : 12 : 9
+
+16. Division of ` 750 into 3 parts in the ratio 4 : 5 : 6 is
+
+     (a) (200, 250, 300)           (b) (250, 250, 250)     (c) (350, 250, 150)  (d) none of these
+
+17. The sum of the ages of 3 persons is 150 years. 10 years ago their ages were in the ratio
+
+     7 : 8 : 9. Their present ages are
+
+     (a) (45, 50, 55)              (b) (40, 60, 50)        (c) (35, 45, 70)     (d) none of these
+
+18. The numbers 14, 16, 35, 42 are not in proportion. The fourth term for which they will be in
+
+     proportion is
+
+     (a) 45                        (b) 40                  (c) 32               (d) none of these
+
+19. If x/y = z/w, implies y/x = w/z, then the process is called
+
+     (a) Dividendo                 (b) Componendo          (c) Alternendo       (d) none of these
+
+20. If p/q = r/s = p ­ r/q ­ s, the process is called
+
+     (a) Subtrahendo               (b) Addendo             (c) Invertendo       (d) none of these
+
+21. If a/b = c/d, implies (a + b)/(a ­ b) = (c + d)/(c ­ d), the process is called
+
+     (a) Componendo                (b) Dividendo           (c) Componendo (d) none of these
+
+                                                              and Dividendo
+
+22. If u/v = w/p, then (u ­ v)/(u + v) = (w ­ p)/(w + p). The process is called
+
+     (a) Invertendo                (b) Alternendo          (c) Addendo          (d) none of these
+
+23. 12, 16, *, 20 are in proportion. Then * is
+
+     (a) 25                        (b) 14                  (c) 15               (d) none of these
+
+24. 4, *, 9, 13½ are in proportion. Then * is
+
+     (a) 6                         (b) 8                   (c) 9                (d) none of these
+
+25. The mean proportional between 1.4 gms and 5.6 gms is
+
+     (a) 28 gms                    (b) 2.8 gms             (c) 3.2 gms          (d) none of these
+
+26.  If  a = b = c then a + b + c  is
+         45 9             c
+
+     (a) 4                         (b) 2                   (c) 7                (d) none of these.
+
+27. Two numbers are in the ratio 3 : 4; if 6 be added to each number of the ratio, then the new ratio
+      will be 4 : 5, then the numbers are
+
+     (a) 14, 20                    (b) 17, 19              (c) 18 and 24        (d) none of these
+
+© The Institute of Chartered Accountants of India
+1.14            BUSINESS MATHEMATICS
+
+28.   If  a  =  b  then
+          4     5
+
+      (a)    a+4 = b-5   (b)             a+4 = b+5  (c)    a-4 = b+5  (d) none of these
+             a-4 b+5                     a-4 b-5           a+4 b-5    (d) none of these
+                                                                      (d) none of these
+29. If a : b = 4 : 1 the n a + b is
+                                    ba
+
+      (a) 5/2            (b) 4                      (c) 5
+
+30.   If x = y = z then
+        b+ca c+ab a+bc
+
+      (b ­ c)x + (c ­ a)y + (a ­ b)z is
+
+      (a) 1              (b) 0                      (c) 5
+
+ p : q = r : s => q : p = s : r (Invertendo)
+      (p/q = r/s) => (q/p = s/r)
+
+ a : b = c : d => a : c = b : d (Alternendo)
+      (a/b = c/d) => (a/c = b/d)
+
+ a : b = c : d => a + b : b = c + d : d (Componendo)
+      (a/b = c/d) => (a + b)/b = (c + d)/d
+
+ a : b = c : d => a ­ b : b = c ­ d : d (Dividendo)
+      (a/b = c/d) => (a ­ b)/b = (c ­ d)/d
+
+ a : b = c : d => a + b : a ­ b = c + d : c ­ d (Componendo & Dividendo)
+      (a + b)/(a ­ b) = (c + d)/(c ­ d)
+
+ a : b = c : d = a + c : b + d (Addendo)
+      (a/b = c/d = a + c/b + d)
+
+ a : b = c : d = a ­ c : b ­ d (Subtrahendo)
+      (a/b = c/d = a ­ c/b ­ d)
+
+ If a : b = c : d = e : f = ............ then each of these ratios = (a ­ c ­ e ­ .......) : (b ­ d ­ f ­ .....)
+                                                                                (Subtrahendo)
+
+ The quantities a, b, c, d are called terms of the proportion; a, b, c and d are called its first,
+      second, third and fourth terms respectively. First and fourth terms are called extremes
+      (or extreme terms). Second and third terms are called means (or middle terms).
+
+ © The Institute of Chartered Accountants of India
+                           RATIO AND PROPORTION, INDICES, LOGARITHMS  1.15
+
+ If a : b = c : d are in proportion then a/b = c/d i.e. ad = bc i.e. product of extremes =
+      product of means. This is called cross product rule.
+
+ Three quantities a, b, c of the same kind (in same units) are said to be in continuous
+      proportion if a : b = b : c i.e. a/b = b/c i.e. b2 = ac
+
+ If a, b, c are in continuous proportion, then the middle term b is called the mean proportional
+      between a and c, a is the first proportional and c is the third proportional.
+
+ Thus, if b is mean proportional between a and c, then b2 = ac i.e. b = ac.
+
+After reading this unit a student will learn ­
+ A meaning of indices and their applications.
+ Laws of indices which facilitates their easy applications.
+
+       Overview of Indices
+
+       Meaning of Indices         Laws of Indices
+
+Law 1  Law 2               Law 3  Law                        Law      Law
+
+We are aware of certain operations of addition and multiplication and now we take up certain
+higher order operations with powers and roots under the respective heads of indices.
+We know that the result of a repeated addition can be held by multiplication e.g.
+
+                             4 + 4 + 4 + 4 + 4 = 5(4) = 20
+                             a + a + a + a + a = 5(a) = 5a
+                   Now, 4 × 4 × 4 × 4 × 4 = 45;
+                             a × a × a × a × a = a5.
+
+   © The Institute of Chartered Accountants of India
+1.16                  BUSINESS MATHEMATICS
+
+It may be noticed that in the first case 4 is multiplied 5 times and in the second case `a' is multiplied
+5 times. In all such cases a factor which multiplies is called the "base" and the number of times it is
+multiplied is called the "power" or the "index". Therefore, "4" and "a" are the bases and "5" is the
+index for both. Any base raised to the power zero is defined to be 1; i.e. a 0. We also define
+
+r               1  .
+
+      a =a r
+
+If n is a positive integer, and `a' is a real number, i.e. n  N and a  R (where N is the set of
+positive integers and R is the set of real numbers), `a' is used to denote the continued product of
+n factors each equal to `a' as shown below:
+
+      an = a × a × a .............. to n factors.
+
+Here an is a power of "a" whose base is "a" and the index or power is "n".
+
+For example, in 3 × 3 × 3 × 3 = 34 , 3 is base and 4 is index or power.
+
+Law 1
+      am × an = am+n, when m and n are positive integers; by the above definition,
+      am = a × a .............. to m factors and an = a × a .............. to n factors.
+       am × an = (a × a .............. to m factors) × (a × a ........... to n factors)
+      = a × a .............. to (m + n) factors
+      = am+n
+
+Now, we extend this logic to negative integers and fractions. First let us consider this for negative
+integer, that is m will be replaced by ­n. By the definition of am × an = am+n,
+
+      we get a­n × an = a­n+n = a0 = 1
+For example 34 × 3 5 = (3 × 3 × 3 × 3) × (3 × 3 × 3 × 3 × 3) = 3 4 + 5 = 39
+Again, 3­5 = 1/35 = 1/(3 × 3 × 3 × 3 × 3) = 1/243
+
+Example 1:            Simplify 2x 1/2 3x-1 if x = 4
+Solution:             We have 2x 1/2 3x -1
+
+                      = 6x 1/2 x -1 = 6x1/2-1
+
+                      = 6x 1/2
+
+                         66            =  66
+                      =        = 41/2                = =3
+                         x1/2             (2 2 )1/2    2
+
+Example 2:            Simplify 6ab2c3 × 4b­2c­3d.
+Solution:             6ab2c3 × 4b­2c­3d
+                      = 24 × a × b2 × b­2 × c3 × c­3 × d
+                      = 24 × a × b2+(­2) × c3+(­3) × d
+
+      © The Institute of Chartered Accountants of India
+                                                      RATIO AND PROPORTION, INDICES, LOGARITHMS  1.17
+
+                   = 24 × a × b2 ­ 2 × c3 ­ 3 × d
+                   = 24a b0 × c0 × d
+                   = 24ad
+
+Law 2
+      am/an = am­n, when m and n are positive integers and m > n.
+      By definition, am = a × a .............. to m factors
+
+Therefore,         am       ÷an   =  am  =    a a .................to m factors
+                                     an       a a ................... to n factors
+
+      = a × a ......... to (m­n) factors
+      = am­n
+Now we take a numerical value for a and check the validity of this Law
+
+27  ÷      24  =  27  =     2  2 .............to 7 factors
+                  24        2  2 ................ to 4 factors
+
+= 2 × 2 × 2 ........... to (7­4) factors.
+= 2 × 2 × 2 ........... to 3 factors
+= 23 = 8
+
+or  27     ÷   24  =  2  7  =  2  2 2  2 2  2      2
+                      2  4           2 2  2 2
+
+      = 2 × 2 × 2 = 21+1+1 = 23
+      =8
+Example 3: Find the value of 4 x -1
+
+                                        x -1/3
+
+Solution:            4 x 1
+                     x 1/ 3
+
+                   = 4x-1 - (-1/3)
+
+                   = 4x-1 + 1/3
+
+                   =     4x -2/3  or  x  4
+
+                                         2/3
+
+© The Institute of Chartered Accountants of India
+1.18           BUSINESS MATHEMATICS
+
+                                           12                        7
+
+                                      2a 2  a 3  6a 3
+                                              - 5 3 if a = 4
+Example 4:          Simplify
+
+                                           9a 3  a 2
+
+                        12                 7
+
+                        2a 2  a 3  6a 3
+                             - 5 3 if a = 4
+Solution:
+
+                        9a 3  a 2
+
+                       127                         (3 + 4 - 14) / 6
+
+         2.2.3.a 2 3 3              4a
+                                = 3 a (-10 + 9) / 6
+      =          -53
+
+            3.3a 3 2
+
+         4     a- 7/6        4     7    1
+         3      a -1/6             6    6
+      =     .           =       a
+                             3
+
+      =  4 a -1  =      4.1     =  4.1 1
+         3              3a         34 3
+
+Law 3
+
+      (am)n = amn. where m and n are positive integers
+      By definition (am)n = am × am × am ........ to n factors
+
+                               = (a × a ........ to m factors) a × a ×........ to m factors........to n times
+                               = a × a ........ to mn factors
+                               = amn
+      Following above, (am)n = (am)p/q
+      (We will keep m as it is and replace n by p/q, where p and q are positive integers)
+
+        (am)p/q is (am )p/q q = (am)(p/q)x q
+
+      = (am)(p/q)x q
+      = amp
+      If we take the qth root of the above we obtain
+
+        amp 1/q = q amp
+
+      Now with the help of a numerical value for a let us verify this law.
+      (24)3 = 24 × 24 × 24
+      = 24+4+4
+      = 212 = 4096
+
+      © The Institute of Chartered Accountants of India
+                                                                RATIO AND PROPORTION, INDICES, LOGARITHMS  1.19
+
+Law 4
+      (ab)n = an.bn when n can take all of the values.
+      For example 63 = (2 × 3) 3 = 2 × 2 × 2 × 3 × 3 × 3 = 23 × 33
+      First, we look at n when it is a positive integer. Then by the definition, we have
+      (ab)n = ab × ab ................ to n factors
+               = (a × a ............... to n factors) × (b × b ............. n factors)
+               = an × bn
+      When n is a positive fraction, we will replace n by p/q.
+      Then we will have (ab)n = (ab)p/q
+      The qth power of (ab)p/q = {(ab)(p/q)}q = (ab)p
+
+Example 5: Simplify (xa.y­b)3 . (x3 y2)­a
+Solution: (xa.y­b)3 . (x3 y2)­a
+
+         = (xa)3 . (y­b)3 . (x3)­a . (y2)­a
+         = x3a­3a . y­3b­2a.
+         = x0. y­3b­2a.
+
+                1
+         = y 3b+2a
+
+Example 6: 6 a4b x6 .(a2/3x-1 )-b
+Solution: 6 a4b x6 .(a2/3x-1 )-b
+
+                    12
+
+= (a4b x 6 ) 6 .(a 3 )-b .(x -1) -b
+
+               1              1          2
+                                         3
+=  (a 4b ) 6 .(x 6 ) 6 .a                   b  .  x  (-1) (-b)
+
+=  a  2  b  .  x  .      2b   .  x  b
+      3                  3
+                     a
+
+=  a  2  b     2  b  .  x1+b
+      3        3
+
+= a0 . x1+b = x1+b
+
+Example 7: Find x, if x x = (x x ) x
+
+Solution: x (x) 1/2  xx .xx/2
+
+© The Institute of Chartered Accountants of India
+1.20        BUSINESS MATHEMATICS
+
+      or, x1 1/2  xx  x/2
+      or, x3/2  x3x/2
+      [If base is equal, then power is also equal]
+
+      i.e.  3  3x  or, x  3  2  1
+            22               23
+
+       x=1
+
+Example 8: Find the value of k from ( 9 )­7  ( 3 )­5 = 3k
+
+Solution: ( 9 )­7 × ( 3 )­5 = 3k
+      or, (32 × 1/2) ­7 × (3½) ­5 = 3k
+      or, 375/2 = 3k
+      or, 3 ­19/2 = 3k or, k = ­19/2
+
+ am × an = am + n (base must be same)
+      Ex. 23 × 22 = 23 + 2 = 25
+
+ am / an = am­n
+      Ex. 25 / 23 = 25 ­ 3 = 22
+
+ (am)n = amn
+      Ex. (25)2 = 25 × 2 = 210
+
+ ao = 1 (a 1)
+      Ex. 20 = 1, 30 = 1
+
+ a­m = 1/am and 1/a­m = am
+      Ex. 2­3 = 1/23 and 1/2­5 = 25
+
+ If ax = ay, then x=y (a y, 0,1)
+ If xa = ya, then x=y (x,y -1,0,1)
+
+ m a = a1/m , x = x½ , 4 = 2
+
+      Ex. 3 8 = 81/3 = (23)1/3 = 23×1/3 = 2
+
+      © The Institute of Chartered Accountants of India
+                                                       RATIO AND PROPORTION, INDICES, LOGARITHMS  1.21
+
+Choose the most appropriate option (a) (b) (c) or (d).
+
+1. 4x­1/4 is expressed as
+
+     (a) ­4x1/4                (b) x­1                    (c) 4/x1/4       (d) none of these
+                                                          (c) 2            (d) none of these
+2. The value of 81/3 is                                   (c) 4            (d) none of these
+                                                          (c) 4            (d) none of these
+     (a) 32                    (b) 4                      (c) 2/9          (d) none of these
+
+3. The value of 2 × (32) 1/5 is
+
+     (a) 2                     (b) 10
+
+4. The value of 4/(32)1/5 is
+
+     (a) 8                     (b) 2
+
+5. The value of (8/27)1/3 is
+
+     (a) 2/3                   (b) 3/2
+
+6. The value of 2(256)­1/8 is
+
+      (a) 1                    (b) 2                      (c) 1/2          (d) none of these
+7. 2½ . 4¾ is equal to
+
+     (a) a fraction            (b) a positive integer (c) a negative integer (d) none of these
+
+                 1
+
+8.    81x4 4        has simplified value equal to
+               
+       y -8    
+
+     (a) xy2                   (b) x2y                    (c) 9xy2         (d) none of these
+
+9. xa­b × xb­c × xc­a is equal to
+
+     (a) x                     (b) 1                      (c) 0            (d) none of these
+                                                                           (d) none of these
+                      2p2q3 0
+10.  The value of              where p, q, x, y  0 is equal to
+                       3xy  
+
+     (a) 0                     (b) 2/3                    (c) 1
+
+11. {(33)2 × (42)3 × (53)2} / {(32)3 × (43)2 × (52)3} is
+
+     (a) 3/4                   (b) 4/5                    (c) 4/7          (d) 1
+
+12. Which is True ?
+
+     (a) 20 > (1/2)0           (b) 20 < (1/2)0            (c) 20 = (1/2)0  (d) none of these
+
+13. If x1/p = y1/q = z1/r and xyz = 1, then the value of p + q + r is
+
+     (a) 1                     (b) 0                      (c) 1/2          (d) none of these
+                                                          (c) 1            (d) 1/ya+b
+14. The value of ya­b × yb­c × yc­a × y­a­b is
+
+     (a) ya+b                  (b) y
+
+    © The Institute of Chartered Accountants of India
+1.22              BUSINESS MATHEMATICS
+
+15. The True option is
+
+      (a) x2/3 = 3x2                     (b) x2/3 = x3             (c) x2/3 > 3x2   (d) x2/3 < 3x2
+                                                                                    (d) none of these
+16. The simplified value of 16x­3y2 × 8­1x3y­2 is                                   (d) none of these
+
+      (a) 2xy                            (b) xy/2                  (c) 2            (d) none of these
+                                                                                    (d) none of these
+17. The value of (8/27)­1/3 × (32/243)­1/5 is                                       (d) none of these
+                                                                                    (d) none of these
+      (a) 9/4                            (b) 4/9                   (c) 2/3
+                                                                   (c) x + y        (d) none of these
+                             (x + y)2/3 × (x - y)3/2 6
+18. The value of                                           is
+                             x + y × (x - y)3 
+
+      (a) (x + y)2                       (b) (x ­ y)
+
+19. Simplified value of (125)2/3 × 25 × 353 × 51/2 is
+
+      (a) 5                              (b) 1/5                   (c) 1
+
+20. [{(2)1/2 . (4)3/4 . (8)5/6 . (16)7/8 . (32)9/10}4]3/25 is
+
+      (a) A fraction                     (b) an integer            (c) 1
+
+21. [1­{1­(1­x2)­1}­1]­1/2 is equal to
+
+      (a) x                              (b) 1/x                   (c) 1
+
+                    1
+
+  22.     xn    n - 1  n+1  is equal to
+                  n
+                  
+
+      (a) xn                             (b) xn+1                  (c) xn­1
+
+23. If a3­b3 = (a­b) (a2 + ab + b2), then the simplified form of
+
+                                 m m 2 +mn+n 2      n l 2 +ln+n 2
+       x   x   x  l l 2 +lm+m 2
+                                                          
+          x  m                x  n                  x  l  
+
+      (a) 0                              (b) 1                     (c) x            (d) none of these
+
+24. Using (a­b)3 = a3­b3­3ab(a­b) tick the correct of these when x = p1/3 ­ p­1/3
+
+      (a) x3+3x = p + 1/p                (b) x3 + 3x = p ­ 1/p (c) x3 + 3x = p + 1  (d) none of these
+
+25. On simplification, 1/(1+am­n+am­p) + 1/(1+an­m+an­p) + 1/(1+ap­m+ap­n) is equal to
+
+      (a) 0                              (b) a                     (c) 1            (d) 1/a
+
+26.   The value of           xa a+b  xb b+c  xc c+a
+                                                                 
+                              xb         xc                  xa  
+
+      (a) 1                              (b) 0                     (c) 2            (d) none of these
+                                                                   (c) 12           (d) none of these
+27.   If  x=         1 -1   , then 3x 3 -9x is
+
+                  3 3 +3 3
+
+      (a) 15                             (b) 10
+
+      © The Institute of Chartered Accountants of India
+                                                   RATIO AND PROPORTION, INDICES, LOGARITHMS        1.23
+
+28. If ax = b, by = c, cz = a, then xyz is
+
+     (a) 1                     (b) 2                              (c) 3     (d) none of these
+                                                                            (d) none of these
+                                      x b (b2 +bc+c2 )      c (c2 +ca+a2 )  (d) none of these
+                            x  xa (a2+ab+b2 )
+29.  The    value  of                                           
+                         xb           xc                    xa  
+
+     (a) 1                     (b) 0                              (c) ­1
+
+                         111
+     If 2x = 3y = 6-z,     ++  is
+30.                      xyz
+
+     (a) 1                     (b) 0                              (c) 2
+
+After reading this unit a student will learn ­
+ After reading this unit, a student will get fundamental knowledge of logarithm and its
+
+      application for solving business problems.
+
+                                          Overview of Logarithms
+
+     Definition of                                                                       Fundamental Laws
+     Logarithms                                                                             of Logarithms
+
+              Anti             Logarithms of       Quotient of two           Product of  Change of
+          Logarithms           the numbers         numbers same             two numbers     base
+
+                                 same base              as base
+
+     1.4 LOGARITHM:
+
+The logarithm of a number to a given base is the index or the power to which the base must be
+raised to produce the number, i.e. to make it equal to the given number. If there are three quantities
+indicated by say a, x and n, they are related as follows:
+
+      If ax = n, where n > 0, a > 0 and a  1
+then x is said to be the logarithm of the number n to the base `a' symbolically it can be expressed
+as follows:
+
+© The Institute of Chartered Accountants of India
+1.24            BUSINESS MATHEMATICS
+
+       logan = x , where n > 0, a > 0 and a = 1
+       i.e. the logarithm of n to the base `a' is x. We give some illustrations below:
+
+(i) 24 = 16  log 216 = 4
+      i.e. the logarithm of 16 to the base 2 is equal to 4
+
+(ii) 103 = 1000  log101000 = 3
+      i.e. the logarithm of 1000 to the base 10 is 3
+
+(iii)  5-3 = 1      log5            1      =  -3
+              125                    125 
+
+                                   1
+      i.e. the logarithm of 125 to the base 5 is ­3
+(iv) 23 = 8  log28 = 3
+
+      i.e. the logarithm of 8 to the base 2 is 3
+
+Remarks:
+
+1. The two equations ax = n and x = logan are only transformations of each other and should be
+      remembered to change one form of the relation into the other.
+
+2. The logarithm of 1 to any base is zero. This is because any number raised to the power zero
+      is one.
+
+      Since a0 = 1 , loga1 = 0
+3. The logarithm of any quantity to the same base is unity. This is because any quantity raised
+
+      to the power 1 is that quantity only.
+
+       Since a1 = a , logaa = 1
+
+       ILLUSTRATIONS:
+
+1.     If loga  2  =  1  , find     the  value  of  a.
+                      6
+
+       We have a1/6 = 2  a = ( 2 ) 6 = 23 = 8
+
+2. Find the logarithm of 5832 to the base 3 2.
+
+       Let us take    log        2  5832 = x
+                              3
+
+      We may write, (3 2 )x = 5832 = 8  729 = 2 3 36 =( 2 )6 (3)6 =(3 2 ) 6
+
+      Hence, x = 6
+Logarithms of numbers to the base 10 are known as common logarithm.
+
+1.4.1 Fundamental Laws of Logarithm
+
+1. Logarithm of the product of two numbers is equal to the sum of the logarithms of the numbers
+      to the same base, i.e.
+      logamn = logam + logan
+
+      © The Institute of Chartered Accountants of India
+                                                      RATIO AND PROPORTION, INDICES, LOGARITHMS  1.25
+
+Proof:
+
+Let logam = x so that ax = m ­ (I)
+
+Logan = y so that ay = n                      ­ (II)
+
+Multiplying (I) and (II), we get
+
+m × n = ax × ay = ax+y
+
+logamn = x + y (by definition)
+ logamn = logam + logan
+
+2. The logarithm of the quotient of two numbers is equal to the difference of their logarithms to
+      the same base, i.e.
+
+     m
+loga n = logam ­ logan
+
+Proof:
+
+Let logam = x so that ax = m --------(I)
+logan = y so that ay = n --------------(II)
+Dividing (I) by (II) we get
+
+m       =  ax  = ax-y
+n          ay
+
+Then by the definition of logarithm, we get
+     m
+
+loga n = x ­ y = logam ­ logan
+
+Similarly,     log a   1  = loga1 -  log a n  =0   -  log a n  =  ­  logan [  loga1 =  0]
+                       n
+
+Illustration I: log ½ = log 1 ­ log 2 = ­log 2
+
+3. Logarithm of the number raised to the power is equal to the index of the power multiplied
+      by the logarithm of the number to the same base i.e.
+      logamn = n logam
+
+Proof:
+
+Let logam = x so that ax = m
+Raising the power n on both sides we get
+
+(ax)n = (m)n
+
+axn = mn (by definition)
+
+      logamn = nx
+i.e. logamn = n logam
+
+© The Institute of Chartered Accountants of India
+1.26                 BUSINESS MATHEMATICS
+
+Illustration II: 1(a) Find the logarithm of 1728 to the base 23.
+Solution: We have 1728 = 26 × 33 = 26 × (3)6 = (23)6; and so, we may write
+
+            log 23 1728 = 6
+
+1(b) Solve          1
+                    2 log 10 25 - 2log 10 3 + log 1018
+
+Solution: The given expression
+
+                                              1                2
+
+                            =  log  10  25 2     -  log 10  3     + log1018
+
+                            = log 10 5 - log10 9 + log 1018
+
+                                     5x18
+                            = log10 9 = log1010 = 1
+
+1.4.2 Change of Base
+
+If the logarithm of a number to any base is given, then the logarithm of the same number to any
+other base can be determined from the following relation.
+
+      log  a  m  =  log  b  m    log    a  b        log     b  m  =  log a m
+                                                                     loga b
+
+Proof:
+
+      Let logam = x, logbm = y and logab = z
+      Then by definition,
+
+      ax = m, by = m and az = b
+
+      Also ax = by = (az)y = ayz
+
+      Therefore, x = yz
+
+       logam = logbm  logab
+
+      log        bm  =   log a m
+                         loga b
+
+      Putting m = a, we have
+
+      logaa = logba  logab
+       logba  logab = 1, since logaa = 1.
+Example 1: Change the base of log531 into the common logarithmic base.
+
+Solution:           Since loga      x=     log b x
+                                           log ba
+
+      © The Institute of Chartered Accountants of India
+                                                          RATIO AND PROPORTION, INDICES, LOGARITHMS        1.27
+
+                   log  5  31  =  log 10 31
+                                  log10 5
+
+Example 2:  Prove that     log    log 3 8       10  =  3  log  10  2
+                                  916 log
+                                             4
+
+Solution: Change all the logarithms on L.H.S. to the base 10 by using the formula.
+
+                 log  bx=  log a x  ,  we    may       write
+                           logab
+
+                 log 38        log 10 8      log 10 23         3log 10 2
+                               log10 3       log10 3           log10 3
+
+                 log  916      log 1016         log 10 24       4log 10 2
+                               log10 9          log10 32          2log10 3
+
+                               log 10 10            1          1
+                               log10 4          log10 22          2 log10 2
+                   log 410                   
+                                                                             log10 10 = 1
+
+                                  3 log 10 2  2 log 10 3                2 log 10 2
+                                  log10 3 4 log10 2
+                                                                            1
+                   L.H.S.=                                            
+                                                                                    log10 10  =1
+
+                 = 3 log102 = R.H.S.
+
+Logarithm Tables:
+
+The logarithm of a number consists of two parts, the whole part or the integral part is called the
+characteristic and the decimal part is called the mantissa where the former can be known by
+mere inspection, the latter has to be obtained from the logarithm tables.
+
+Characteristic:
+
+The characteristic of the logarithm of any number greater than 1 is positive and is one less than
+the number of digits to the left of the decimal point in the given number. The characteristic of the
+logarithm of any number less than one (1) is negative and numerically one more than the number
+of zeros to the right of the decimal point. If there is no zero then obviously it will
+be ­1. The following table will illustrate it.
+
+            Number                                             Characteristic
+            37
+            4623                             1            [ ] One less than the number of digits to
+            6.21                             3             the left of the decimal point
+            Number
+            .8                               0
+            .07
+                                                               Characteristic
+
+                                         ­1               [ ] One more than the number of zeros on
+                                         ­2                the right immediately after the decimal point.
+
+© The Institute of Chartered Accountants of India
+1.28   BUSINESS MATHEMATICS
+
+       .00507                                            ­3
+
+       .000670                                           ­4
+
+Zero on positive characteristic when the number under consideration is greater than unity:
+
+Since  100 = 1                                           ,   log 1 = 0
+       101 = 10
+       102 = 100                                         ,   log 10 = 1
+       103 = 1000
+                                                         ,   log 100 = 2
+
+                                                         ,   log 1000 = 3
+
+All numbers lying between 1 and 10 i.e. numbers with 1 digit in the integral part have their
+logarithms lying between 0 and 1. Therefore, their integral parts are zero only.
+
+All numbers lying between 10 and 100 have two digits in their integral parts. Their logarithms lie
+between 1 and 2. Therefore, numbers with two digits have integral parts with 1 as characteristic.
+
+In general, the logarithm of a number containing n digits only in its integral parts is (n ­ 1) + a
+decimal. For example, the characteristics of log 75, log 79326, log 1.76 are 1, 4 and 0 respectively.
+
+Negative characteristics
+
+Since 10-1 = 1 = 0.1  log 0.1= - 1
+               10
+
+       10-2 = 1 = 0.01  log 0.01= - 2
+              100
+
+All numbers lying between 1 and 0.1 have logarithms lying between 0 and ­1, i.e. greater than
+­ 1 and less than 0. Since the decimal part is always written positive, the characteristic is ­1.
+
+All numbers lying between 0.1 and 0.01 have their logarithms lying between ­1 and ­2 as
+characteristic of their logarithms.
+
+In general, the logarithm of a number having n zeros just after the decimal point is
+
+   ­ (n + 1) + a decimal.
+
+Hence, we deduce that the characteristic of the logarithm of a number less than unity is one more
+than the number of zeros just after the decimal point and is negative.
+
+Mantissa
+The mantissa is the fractional part of the logarithm of a given number.
+
+        Number                                                Mantissa       Logarithm
+       Log 4594                                          = (......... 6623)  = 3.6623
+       Log 459.4                                         = (......... 6623)  = 2.6623
+       Log 45.94                                         = (......... 6623)  = 1.6623
+       Log 4.594                                         = (......... 6623)  = 0.6623
+       Log .4594                                         = (......... 6623)  = 1 .6623
+
+      © The Institute of Chartered Accountants of India
+                                                   RATIO AND PROPORTION, INDICES, LOGARITHMS                       1.29
+
+Thus with the same figures there will be difference in the characteristic only. It should be
+
+remembered, that the     mantissa   i­3s.6a6lw23a.ys  a  positive  quantity.  The  other  way  to  indicate  this  is
+      Log .004594 = ­ 3  + .6623 =
+
+Negative mantissa must be converted into a positive mantissa before reference to a logarithm
+table. For example
+
+      ­ 3.6872 = ­ 4 + (1 ­ 3.6872) = 4 + 0.3128 = 4.3128
+It may be noted that 4 .3128 is different from ­ 4.3128 as ­ 4.3128 is a negative number whereas,
+in 4 .3128, 4 is negative while .3128 is positive.
+
+Illustration I: Add 4.74628 and 3.42367
+                   ­ 4 + .74628
+                    3 + .42367
+                   ­1 + 1.16995 = 0.16995
+
+Antilogarithms
+If x is the logarithm of a given number n with a given base then n is called the antilogarithm
+(antilog) of x to that base.
+This can be expressed as follows:
+If logan = x then n = antilog x
+For example, if log 61720 = 4.7904 then 61720 = antilog 4.7904
+
+Number                                                                        Logarithm
+206
+20.6                                                                             2.3139
+2.06
+.206                                                                             1.3139
+.0206
+                                                                                 0.3139
+                                                                                 ­
+                                                                                 1.3139
+                                                                                 ­2.3139
+
+Example 1: Find the value of log 5 if log 2 is equal to .3010.
+
+                           10
+Solution: log5 = log = log 10 - log 2
+
+                            2
+             = 1 ­ .3010
+
+             = .6990
+
+Example 2: Find the number whose logarithm is 2.4678.
+
+Solution: From the antilog table, for mantissa .467, the number = 2931
+            for mean difference 8, the number = 5
+             for mantissa .4678, the number = 2936
+
+© The Institute of Chartered Accountants of India
+1.30      BUSINESS MATHEMATICS
+
+      The characteristic is 2, therefore, the number must have 3 digits in the integral part.
+      Hence, Antilog 2.4678 = 293.6
+Example 3: Find the number whose logarithm is ­2.4678.
+
+Solution: -2.4678 = - 3 + 3 - 2.4678 = - 3 + .5322 = 3.5322
+
+                   For mantissa .532, the number = 3404
+
+                   For mean difference 2, the number = 2
+
+                   for mantissa .5322, the number = 3406
+      The characteristic is ­3, therefore, the number is less than one and there must be two zeros
+      just after the decimal point.
+      Thus, Antilog (­2.4678) = 0.003406
+
+Relation between Indices and Logarithm
+
+Let x = logam and y = logan
+      ax = m and ay = n
+
+so ax. ay = mn
+
+      or  ax+y = mn
+
+      or  x1+y1 = logamn
+
+      or  logam + logan = logamn                         [ logaa = 1]
+
+      or  logamn = logam + logan
+
+Also, (m/n) = ax/ay
+
+      or  (m/n) = ax­y
+
+      or  loga (m/n) = (x­y)
+      or  loga (m/n) = logam ­ logan [ logaa = 1]
+Again mn  = m.m.m. ---------------- to n times
+
+so logamn = loga(m.m.m -------------- to n times)
+
+      or logamn = logam + logam + logam + ------------ + logam
+
+      or  logamn = n logam
+
+          Now a0 = 1  0 = loga1
+
+Let logba = x and logab = y
+
+       a = bx and b=ay
+
+       so a = (ay)x
+
+      or axy = a
+
+      or xy = 1
+
+      © The Institute of Chartered Accountants of India
+                                                      RATIO AND PROPORTION, INDICES, LOGARITHMS  1.31
+
+or          logba × logab = 1
+
+let logbc = x & logcb = y
+
+ c = bx & b = cy
+
+so c = cxy or xy = l
+
+            logbc × logcb = l
+
+Example 1:  Find the logarithm of 64 to the base 2 2
+Solution:
+Example 2:  log2264=log 22 82 =2 log228 =2log22(22)2= 4 log2222 = 4x1= 4
+
+Solution:   If logabc = x, logbca = y, logcab = z, prove that
+
+Therefore   1         11
+                 1
+Example 3:  x+1 y+1 z+1
+Solution:
+            x+1 = logabc + logaa = logaabc
+            y+1 = logbca + logbb = logbabc
+            z+1 = logcab + logcc = logcabc
+
+            1         1        1                   1    1      1
+
+            x + 1 y + 1 z + 1 log a abc log b abc log c abc
+
+                                      = logabca +logabcb + logabcc
+                                      = log abcabc = 1 (proved)
+            If a=log2412, b=log3624, and c=log4836 then prove that
+            1+abc = 2bc
+
+            1+abc = 1+ log2412 × log3624 × log4836
+            = 1+ log3612 × log4836
+            = 1 + log4812
+            = log4848 + log4812
+            = log4848×12
+            = log48 (2×12)2
+            = 2 log4824
+            = 2 log3624 x log4836
+            = 2bc
+
+© The Institute of Chartered Accountants of India
+1.32           BUSINESS MATHEMATICS
+
+      SUMMARY
+
+ logamn = logam + logan
+      Ex. log (2 × 3) = log 2 + log 3
+
+ loga(m/n) = logam ­ logan
+
+      Ex. log (3/2) =          log3 ­ log2
+
+ logamn = n logam
+      Ex. log 23 = 3 log 2
+
+ logaa = 1, a = 1                                        (Since a1 = a)
+
+      Ex. log1010 = 1, log22 = 1, log33 = 1 etc.
+
+ loga1 = 0                                               (Since a0 = 1)
+      Ex. log21 = 0, log101 = 0 etc.
+
+ logba × logab                 =          1
+
+      Ex. log32 × log23=       1
+
+ logba × logcb                 =          logca
+      Ex. log32 × log53=
+                               log52
+
+ logba = log a/log b (Base changing formula)
+      Ex. log32 = log2/log3
+
+ logba = 1/logab
+
+      alog x   =  x  (Inverse  logarithm  Property)
+            a
+
+ The two equations ax = n and x = logan are only transformations of each other and should
+      be remembered to change one form of the relation into the other.
+
+      Since a1 = a, logaa = 1
+Notes:
+
+(A) If base is understood, base is taken as 10
+
+(B) Thus log 10 = 1, log 1 = 0
+
+(C) Logarithm using base 10 is called Common logarithm and logarithm using base e is called
+      Natural logarithm {e = 2.33 (approx.) called exponential number}.
+
+Choose the most appropriate option. (a) (b) (c) or (d).
+
+1. log 6 + log 5 is expressed as
+
+      (a) log 11                          (b) log 30     (c) log 5/6     (d) none of these
+
+      © The Institute of Chartered Accountants of India
+                                                   RATIO AND PROPORTION, INDICES, LOGARITHMS       1.33
+
+2. log28 is equal to
+
+     (a) 2                          (b) 8          (c) 3                        (d) none of these
+
+3. log (32/4) is equal to           (b) log 32 ­ log 4 (c) 23                   (d) none of these
+      (a) log 32/log 4
+
+4. log (1 × 2 × 3) is equal to                     (c) log 2                    (d) none of these
+      (a) log 1 + log 2 + log 3 (b) log 3
+
+5. The value of log 0.0001 to the base 0.1 is
+
+     (a) ­4                         (b) 4          (c) 1/4                      (d) none of these
+
+6. If 2 log x = 4 log 3, the x is equal to
+
+     (a) 3                          (b) 9          (c) 2                        (d) none of these
+
+7. log 2 64 is equal to
+
+     (a) 12                         (b) 6          (c) 1                        (d) none of these
+
+8. log 23 1728 is equal to
+
+     (a) 23                         (b) 2          (c) 6                        (d) none of these
+
+9. log (1/81) to the base 9 is equal to
+
+     (a) 2                          (b) ½          (c) ­2                       (d) none of these
+
+10. log 0.0625 to the base 2 is equal to
+
+     (a) 4                          (b) 5          (c) 1                        (d) none of these
+
+11. Given log2 = 0.3010 and log3 = 0.4771 the value of log 6 is
+
+     (a) 0.9030                     (b) 0.9542     (c) 0.7781                   (d) none of these
+
+12. The value of log2 log2 log2 16
+
+     (a) 0                          (b) 2          (c) 1                        (d) none of these
+
+13.  The value of    l og  1  to the base 9 is
+                           3
+
+     (a) ­ ½                        (b) ½          (c) 1                        (d) none of these
+
+14. If log x + log y = log (x+y), y can be expressed as
+
+     (a) x­1                        (b) x          (c) x/(x­1)                  (d) none of these
+
+15. The value of log2 [log2 {log3 (log3273)}] is equal to
+
+     (a) 1                          (b) 2          (c) 0                        (d) none of these
+
+16. If log2x + log4x + log16x = 21/4, these x is equal to
+
+     (a) 8                          (b) 4          (c) 16                       (d) none of these
+
+17. Given that log102 = x and log103 = y, the value of log1060 is expressed as
+
+     (a) x ­ y + 1                  (b) x + y + 1  (c) x ­ y ­ 1                (d) none of these
+
+18. Given that log102 = x, log103 = y, then log101.2 is expressed in terms of x and y as
+
+     (a) x + 2y ­ 1                 (b) x + y ­ 1  (c) 2x + y ­ 1               (d) none of these
+
+19. Given that log x = m + n and log y = m ­ n, the value of log (10x/y2) is expressed in terms of m
+
+     and n as
+
+     (a) 1 ­ m + 3n                 (b) m ­ 1 + 3n (c) m + 3n + 1               (d) none of these
+
+© The Institute of Chartered Accountants of India
+1.34         BUSINESS MATHEMATICS
+
+20. The simplified value of 2 log105 + log108 ­ ½ log104 is
+
+      (a) 1/2                            (b) 4                             (c) 2        (d) none of these
+                                                                                        (d) none of these
+21. log [1 ­ {1 ­ (1 ­ x2)­1}­1]­1/2 can be written as
+                                                                                        (d) none of these
+      (a) log x2                         (b) log x                         (c) log 1/x  (d) none of these
+                                                                                        (d) none of these
+22.   The    simplified  value  of  log    4  729        3  9-1.27 -4/3    is           (d) none of these
+                                                                         
+
+      (a) log 3                          (b) log 2                         (c) log ½
+
+23. The value of (logba × logcb × logac)3 is equal to
+
+      (a) 3                         (b) 0                                  (c) 1
+
+24. The logarithm of 64 to the base 22 is
+
+      (a) 2                         (b) 2                                  (c) ½
+
+25. The value of log825 given log10 2 = 0.3010 is
+
+      (a) 1                         (b) 2                                  (c) 1.5482
+
+Exercise 1(A)
+1. (a) 2. (d) 3. (c) 4. (a) 5. (c) 6. (d) 7. (a) 8. (c)
+9. (a) 10. (c) 11. (d) 12. (d) 13. (a) 14. (c) 15. (d) 16. (a)
+17. (c) 18. (b) 19. (b) 20. (c) 21. (a) 22. (c) 23. (a) 24. (c)
+25. (c)
+Exercise 1(B)
+1. (a) 2. (b) 3. (c) 4. (d) 5. (a) 6. (c) 7. (a) 8. (c)
+9. (c) 10. (b) 11. (c) 12. (d) 13. (a) 14. (d) 15. (d) 16. (a)
+17. (a) 18. (b) 19. (d) 20. (a) 21. (c) 22. (d) 23. (c) 24. (a)
+25. (b) 26. (b) 27. (c) 28. (b) 29. (a) 30. (b)
+
+Exercise 1(C)
+1. (c) 2. (c) 3. (c) 4. (b) 5. (a) 6. (a) 7. (b) 8. (d)
+9. (b) 10. (c) 11. (d) 12. (c) 13. (b) 14. (d) 15. (a) 16. (c)
+17. (a) 18. (c) 19. (d) 20. (b) 21. (a) 22. (c) 23. (b) 24. (b)
+25. (c) 26. (a) 27. (b) 28. (a) 29. (a) 30. (b)
+
+Exercise 1(D)
+1. (b) 2. (c) 3. (b) 4. (a) 5. (b) 6. (b) 7. (a) 8. (c)
+9. (c) 10. (d) 11. (c) 12. (c) 13. (a) 14. (c) 15. (c) 16. (a)
+17. (b) 18. (c) 19. (a) 20. (c) 21. (b) 22. (a) 23. (c) 24. (d)
+25. (c)
+
+      © The Institute of Chartered Accountants of India
+                                                            RATIO AND PROPORTION, INDICES, LOGARITHMS  1.35
+
+                    6-172           7  2       6-2 73   -5
+                                               63 7-5
+1.  The value of       62  7   -4         ×            2    is
+                                                       
+                                                       
+
+    (a) 0                                      (b) 252                        (c) 250  (d) 248
+                                                                                       (d) None
+2.  The value of       x2/7    ×   x2/5   ×    x -9/7  ×  z 5/6   is                   (d) 10
+                       z -1/2      z 2/3       z 2/3      x ­3/5                       (d) None
+                                                                                       (d) 0
+    (a) 1                                      (b) ­1                         (c) 0    (d) 0
+                                                                                       (d) 1
+3. On simplification              2x+3 × 32x- y × 5x+y+3 × 6y+1       reduces to       (d) None
+                                                                                       (d) None
+                                          6x+1× 10y+3 × 15x
+
+    (a) ­1                                     (b) 0                          (c) 1
+
+    ( ) If         -1
+4.  9 y.32.  3- y       27 y           1 then x ­ y is given by
+                     -
+                                       27
+             33 x.2 3              =
+
+    (a) ­1                                     (b) 1                          (c) 0
+
+                               1               1                  1
+
+                       1 a-c              1 b-a             1 c-b
+
+5. Show that xa-b × x b-c × xc-a is given by
+
+    (a) 1                                      (b) ­1                         (c) 3
+
+6.  Show that  16 32x  23x2.4x1                        5  5 x1    is given by
+                 15 2x1 16x
+                                                          52x
+
+    (a) 1                                      (b) ­1                         (c) 4
+
+7.  Show that      xa   a+b        xb        b+c       xc   c+a
+                   xb              xc                  xa
+                           ×                    ×              is given by
+
+    (a) 0                                      (b) ­1                         (c) 3
+
+8.  Show that  a+b     xa2        × b+c   xb2  ×c+a        xc2    reduces to
+                       xb2                xc2              xa2
+
+    (a) 1                                      (b) 0                          (c) ­1
+
+                               1               1                  1
+
+                   b+c a-b                c+a b-c           a+b c-a
+
+9. Show that x c-a × x a-b × x b-c reduces to
+
+    (a) 1                                      (b) 3                          (c) ­1
+
+    © The Institute of Chartered Accountants of India
+1.36                  BUSINESS MATHEMATICS
+
+10. Show that                  xb        a        xc        b    xa     c
+                               xc                 xa             xb
+                                          ×                  ×           reduces to
+
+      (a) 1                                                     (b) 3                       (c) 0                 (d) 2
+                                                                                                                  (d) None
+11.   Show        that         xb    1bc              xc    1ca         xa   1 ab  reduces  to
+                               xc                     xa                xb  
+                                                                            
+
+      (a) ­1                                                    (b) 0                       (c) 1
+
+12. Show that                  xa        a2 +ab+b2              xb    b2 +bc+c2    xc   c2 +ca+a2
+                               xb                               xc                 xa
+                                                 ×                            ×                  is given by
+
+      (a) 1                                                     (b) ­1                      (c) 0                 (d) 3
+
+13. Show that 2x+y = 4 × 8 × 16, then (x + y)2 is equal to
+
+      (a) 16                                                    (b) 81                      (c) 32                (d) 64
+
+14. Show that                  xb        b+c-a          xc      c+a-b   xa     a+b-c
+      (a) 1                    xc                       xa              xb
+                                             ×                      ×              is given by
+15. Show that
+                                                                (b) 0                       (c) ­1                (d) None
+
+                               xa        a2 -ab+b2          xb      b2 -bc+c2      xc   c2 -ca+a2
+                               x-b                          x-c                    x-a
+                                                ×                          ×                   is reduces to
+
+      (a) 1                                                       (b) x -2 a2 +b 2 +c2        (c) x 2 a3 +b3 +c3    (d) x -2 a3 +b3 +c3
+
+      x .x .x a 2 b-1c-1                       c 2a -1 b-1
+16.                         b 2 c-1a -1                     ­x³ would reduce to zero if            abc  is given by
+
+      (a) 1                                                     (b) ­1                      (c) 0                 (d) None
+
+17. The value of z is given by the following if
+
+      (a) 2                                                         3                       (c) - 3                    9
+                                                                (b) 2
+                                                                                                   2              (d)
+
+                                                                                                                        4
+
+18.   x  b  +  1  -c  +  1  +  x  c  +   1     +  1  +       1          would reduce to one if        abc         is given by
+               x                         x -a           xa +x-b +1
+
+      (a) 1                                                     (b) 0                       (c) ­1                (d) None
+
+                                                        1                   1                   1
+19. On simplification 1+za-b+za-c + 1+zb-c+zb-a + 1+zc-a+zc-b would reduces to
+
+      © The Institute of Chartered Accountants of India
+                                                   RATIO AND PROPORTION, INDICES, LOGARITHMS                        1.37
+
+     (a) 1                              (b)        1                 (c) 1                    (d) 0
+         z 2a+b+c                               za+b+c                                        (d) None
+                                                                                              (d) 17
+20. If 5.678x = 0.5678y =10z then                                                             (d) 30
+                                                                                              (d) ­3abc
+     (a)  1 - 1 + 1 =1                  (b)     1 - 1 - 1 =0         (c)     1-1+  1 =-1      (d) None
+          xy z                                  xyz                          xy    z          (d) None
+
+21. If x=413 +4-13 prove that 4x3 -12x is given by                                            (d) x   2 a3 +b3 +c3
+
+     (a) 12                             (b) 13                       (c) 15                   (d) x   2 a3 +b3 +c3
+
+22. If x=513 +5-13 prove that 5x3 -15x is given by
+
+     (a) 25                             (b) 26                       (c) 27
+
+            2      1                               a3x2 +b3x+c3
+23.  If  ax 3 +bx 3 +c=0  then the value of                                  is given by
+
+     (a) 3abcx                          (b) ­3abcx                   (c) 3abc
+
+24. If ap =b , bq =c , cr =a the value of pqr is given by
+
+     (a) 0                              (b) 1                        (c) ­1
+
+25. If ap =bq =cr and b2 =ac the value of q (p  r)/ pr is given by
+
+     (a) 1                              (b) ­1                       (c) 2
+
+                          a                 b a+b
+                           xa-b       x b-a
+26.  On   simplification  a      ÷                 reduces to
+                                          b  
+
+                           xa+b xb+a 
+
+     (a) 1 (b) ­1                       (c) 0                        (d) None
+
+                           xab        a+b  ×    xb2 +c2  b+c  ×     xca     c+a
+27.  On   simplification                         xbc               xc2 +a2       reduces  to
+                            xa2  +b2                     
+
+     (a) x -2a 3                        (b) x2a3                     (c) x   -2 a3 +b3 +c3
+
+                           xab          ab         xbc      bc        xca    ca
+                           xa2 b2                 xb2 c2             xc2 a2   reduces to
+28.  On simplification                                          
+
+     (a) x -2a 3                        (b) x2a3                     (c) x   -2 a3 +b3 +c3
+
+  29.                         mx      x+y  ×  my   y+z               x-z m
+     On simplification        my              mz          ÷3  mxmz               reduces to
+                                                   
+
+© The Institute of Chartered Accountants of India
+1.38           BUSINESS MATHEMATICS
+
+      (a) 3                             (b) ­3                         (c)    -  1                       1
+                                                                                 3                  (d) 3
+                                                                                                    (d) None
+30.   The value of       1     +     1  x-y  is given         by
+                      1+a y-x     1+a
+
+      (a) ­1                            (b) 0                          (c) 1
+
+31.   If  xyz  1  then  the  value  of  1        1       y 1    1   1  z 1    1      1  x 1  is
+                                                x                  y                z
+
+      (a) 1                             (b) 0                          (c) 2                        (d) None
+
+32.   If 2a   3b   12c , then     112              reduces to
+                                  cba
+
+      (a) 1                             (b) 0                          (c) 2                        (d) None
+
+33.   If 2a =3b =6-c  then the value of         1+1+1             reduce to
+                                                abc
+
+      (a) 0                             (b) 2                          (c) 3                        (d) 1
+                                                                                                    (d) 5
+34. If 3a =5b = 75c , then the value of ab-c 2a+b reduces to                                        (d) 3
+
+      (a) 1                             (b) 0                          (c) 3
+
+35. If 2a =3b = 12c , then the value of ab-c a+2b reduces to
+
+      (a) 0                             (b) 1                          (c) 2
+
+36.   If  2a =4b =8c  and abc=288       then the value             111              is given by
+                                                                   2a 4b 8c
+
+          1                             (b)     -  1                       11                       (d)  -  11
+      (a) 8                                        8                   (c) 96                               96
+
+37.   If  ap =bq =cr =ds  and ab = cd then the value of                1     1 11       reduces to
+                                                                       p     qrs
+
+      (a) 1a                            (b) 1 b                        (c) 0                        (d) 1
+                                                                                                    (d) None
+      If ab =ba , then the value of          a     a         a -1
+                                             b     b
+                                                         -a b reduces
+38.                                                                    to
+
+      (a) a                             (b) b                          (c) 0
+
+( ) 39. If m=bx, n=by and mynx =b2 the value of xy is given by
+
+      (a) ­1                            (b) 0                          (c) 1                        (d) None
+
+      © The Institute of Chartered Accountants of India
+                                                      RATIO AND PROPORTION, INDICES, LOGARITHMS   1.39
+
+40. If a=xy m-1, b=xyn-1 , c=xyp-1 then the value of anp  bpm  cmn reduces to
+
+     (a) 1                             (b) ­1                       (c) 0           (d) None
+
+41. If a=xn+pym , b=xp+myn , c = xm+nyp then the value of an-p×bp-m ×cm-n reduces to
+
+     (a) 0                             (b) 1                        (c) ­1          (d) None
+
+42. If a= 3 2 +1-3 2 -1 then the value of a 3 +3a-2 is
+
+     (a) 3                             (b) 0                        (c) 2                  (d) 1
+
+43.  If  a  =  x  1   +x- 13  then  a3 -3a is
+                   3
+
+     (a) x + x -1                      (b) x - x -1                 (c) 2x          (d) 0
+
+( ) 44. If a = 314 + 3-14 and b = 314 - 3-14 then the value of 3 a2 +b2 2 is
+
+     (a) 67                            (b) 65                       (c) 64          (d) 62
+
+45. If x =        3+      1   and y =  3  1 then x²  y² is
+                          3                  3
+
+                                       (b) 3                               1
+     (a) 5                                                          (c) 3           (d) 4
+
+46. If a =        46                                a+2  2  +  a+2  3
+      (a) 1       2+ 3        then the value of a-2      2     a-2  3 is given by
+
+                                       (b) ­1                       (c) 2           (d) ­2
+                                                                                    (d) -2/11
+47. If P + 3 Q + 5 R + 1 5 S =                     1     then the value of P is     (d) -2 2
+                                                                                    (d) -2 2
+                                               1+ 3 + 5                             (d) ­1
+
+     (a) 7/11                          (b) 3/11                     (c) -1/11
+
+48. If a = 3 + 2 2 then the value of a12 + a-12 is
+
+     (a) 2                             (b) - 2                      (c) 2 2
+
+49. If a = 3+2 2 then the value of a 12 - a-12 is
+
+     (a) 2 2                           (b) 2                        (c) 2 2
+
+( ) 50.Ifa=    1      5-  21  then the value of a3 + a-3 - 5a2 - 5a-2 + a + a-1 is
+               2
+
+     (a) 0                             (b) 1                        (c) 5
+
+  51. If a = 7+4 3 then the value of aa-14 2 is
+                 7-4 3
+
+     (a) 14                            (b) 7                        (c) 2           (d) 1
+                                                                                    (d) 15
+52. If a = 3- 5 then the value of a4 ­ a3 ­ 20a2 ­ 16a + 24 is
+
+     (a) 10                            (b) 14                       (c) 0
+
+© The Institute of Chartered Accountants of India
+1.40            BUSINESS MATHEMATICS
+
+53. If a =        3+  2   then the value of 2a4 - 21a3 + 12a2 -a + 1 is
+      (a) 21      3-  2
+
+                                     (b) 1                      (c) 12                        (d) None
+                                                                                              (d) None
+54. The square root of 3  5 is                                                                (d) 0
+                                                                                              (d) 99
+      (a)    5    +   12               (b) ­ 5 2 + 12 (c) Both the above                      (d) 99
+              2
+
+55. If x = 2- 2- 2 ... the value of x is given by
+
+      (a) ­2                         (b) 1                      (c) 2
+
+56. If a =        3+  2   b=  3- 2
+      (a) 10      3-  2,      3 + 2 then the value of a + b is
+
+57. If a =                           (b) 100                    (c) 98
+      (a) 10
+                  3+  2   b=  3- 2
+                  3-  2,      3 + 2 then the value of a2 + b2 is
+
+                                     (b) 100                    (c) 98
+
+58. If a =        3+  2   b=  3-  2    then the value of        1        +  1   is
+      (a) 10      3-  2,      3+  2                             a2          b2
+
+                                     (b) 100                    (c) 98                        (d) 99
+
+59. The square root of x + x2 -y2 is given by
+
+      (a)    1    x+y +   x­  y   (b)  1                 x+y -  x -y(c)     x+y +   x-y  (d)    x+y -   x -y
+             2                         2                                                      
+
+60. The square root of 11  120 is given by
+
+      (a) 6  5                       (b) 6  5                   (c) 2 3  3 2                  (d) 2 3  3 2
+
+61. log (1 + 2 + 3) is exactly equal to
+
+      (a) log 1 + log 2 + log 3 (b) log 1×2×3                   (c) Both the above (d) None
+
+62. The logarithm of 21952 to the base of 2 7 and 19683 to the base of 3 3 are
+
+      (a) Equal (b) Not equal               (c) Have a difference of 2269                     (d) None
+
+63. The value of is 4 log 8  3log 16  log 5 is
+                              25          125
+
+      (a) 0                          (b) 1                      (c) 2                         (d) ­1
+                                                                (c) ­1                        (d) None
+64. alogb-logc × blogc-loga × cloga-logb has a value of
+
+      (a) 1                          (b) 0
+
+      © The Institute of Chartered Accountants of India
+                                                                   RATIO AND PROPORTION, INDICES, LOGARITHMS  1.41
+
+65.        1                 +        1          +        1             is equal to
+
+     logab (abc)                logbc (abc)         logca (abc)
+
+     (a) 0                                       (b) 1                          (c) 2    (d) ­1
+                                                                                         (d) ­1
+66.        1                 +           1       +             1   (ab )   is  equal to
+                                                         1+log c                         (d) ­1
+     1+loga (bc)                   1+logb (ca)                                           (d) None
+                                                                                         (d) None
+     (a) 0                                       (b) 1                          (c) 3    (d) None
+                                                                                         (d) None
+67.      1     (x)        +      1    (x)  +         1       (x )  is equal to           (d) None
+     log a                   log b               log c                                   (d) None
+            b                      c                     a                               (d) None
+
+     (a) 0                                       (b) 1                          (c) 3    (d) None
+
+68. logb (a).logc (b).loga (c) is equal to
+
+     (a) 0                                       (b) 1                          (c) ­1
+
+69.  log b     a  1    .  log   c  (b3 ) . loga      2   is  equal  to
+                  2  
+                                                 (c 3 )
+            
+
+     (a) 0                                       (b) 1                          (c) ­1
+                                                                                (c) ­1
+70. The value of is alogb c .blog ca .clog a b
+
+     (a) 0                                       (b) 1
+
+( ) ( ) ( ) 71. The value of bc logbc . ca log ca . ab loga b is
+
+     (a) 0                                       (b) 1                          (c) ­1
+
+72.  The  value        of    log   an  +   log   bn      +   log   cn  is
+                                   bn            cn                an
+
+     (a) 0                                       (b) 1                          (c) ­1
+
+73.  The value of            log a2    + log b2          +   log   c2  is
+                                 bc           ca                   ab
+
+     (a) 0                                       (b) 1                          (c) ­1
+
+74. log (a9 )  log a  10 if the value of a is given by
+
+     (a) 0                                       (b) 10                         (c) ­1
+
+75. If loga = logb = logc the value of abc is
+         y-z z-x x-y
+
+     (a) 0                                       (b) 1                          (c) ­1
+
+© The Institute of Chartered Accountants of India
+1.42            BUSINESS MATHEMATICS
+
+76.   If   loga    =   logb     =     logc        the value of    ay+z .bz+x .cx+y       is given by
+           y-z         z-x            x-y
+
+      (a) 0                                       (b) 1                          (c) ­1                   (d) None
+                                                                                                          (d) None
+77.   If   loga =      1 logb =       1 logc       the value of       a4 b3c-2   is                       (d) None
+                       2              5                                                                   (d) None
+                                                                                                          (d) None
+      (a) 0                                       (b) 1                          (c) ­1
+
+78.   If   1  loga =      1 logb =       1     logc the value of          a4 - bc    is
+           2              3              5
+
+      (a) 0                                       (b) 1                          (c) ­1
+
+79.   If   1  log  2a  =  1  log   2  b  =  -  1   log  2c  the value of        a3b2c is
+           4              6                    24
+
+      (a) 0                                       (b) 1                          (c) ­1
+                                  1                    1                         (c) ­1
+80.   The value of                             +                  is
+                             loga ab              logb ab
+
+      (a) 0                                       (b) 1
+
+81.   If     1     +     1      +       1         =    1      then the value if z is given by
+           logat       log b t        logct          log z t
+
+      (a) abc                                     (b) a + b + c                  (c) a(b + c)             (d) (a + b)c
+
+82.   If l    = 1+log a bc, m = 1 + logbca, , n  1  logc ab then the value of                         1   +  1  +  1  -  1  is
+                                                                                                       l     m     n
+
+      (a) 0                                       (b) 1                          (c) ­1                   (d) 3
+
+83. If a = b2 = c3 = d4 then the value of loga abcd is
+                1         1     1                             1       1      1
+      (a)   1+  2  +      3  +  4                 (b)  1+     2!  +   3!  +  4!  (c) 1+2+3+4              (d) None
+
+84. The sum of the series logab + loga2 b2 + loga3 b3 +.......logan bn is given by
+
+      (a) logabn                                  (b) lo g an b                  (c) logan bn             (d) None
+
+             1
+
+85. logb a has a value of
+     a
+
+      (a) a                                        (b) b                         (c) (a + b)              (d) None
+
+86. The value of the following expression alogab.logbc.logcd.logdt is given by
+
+      (a) t                                       (b) abcdt                      (c) (a + b +c + d + t) (d) None
+
+87. For any three consecutive integers x y z the equation log 1+xz - 2logy = 0 is
+
+      (a) True                                    (b) False                      (c) Sometimes true
+
+      (d) cannot be determined in the cases of variables with cyclic order.
+
+      © The Institute of Chartered Accountants of India
+                                                   RATIO AND PROPORTION, INDICES, LOGARITHMS              1.43
+
+( ) 88.        a+b  =   1                                          a+b
+     If  log    3       2  loga+logb  then the value of            ba     is
+
+     (a) 2                           (b) 5                         (c) 7             (d) 3
+                                                                                     (d) 7
+89.  If  a2  + b2  = 7ab   then the value of       is  loga  b  -  log a  -   log b
+                                                             3       2          2
+
+     (a) 0                           (b) 1                         (c) ­1
+
+                                                        - 1 loga + logb + log3
+                                                          2
+( ) ( ) 90.
+     If a3 + b3 = 0 then the value of log a+b                                        is equal to
+
+     (a) 0                           (b) 1                         (c) ­1            (d) 3
+
+91. If x = logabc ; y = logbca ; z = logcab then the value of xyz ­ x ­ y ­ z is
+
+     (a) 0                           (b) 1                         (c) ­1            (d) 2
+
+92. On solving the equation logt + log t-3 = 1 we get the value of t as
+
+     (a) 5                           (b) 2                         (c) 3             (d) 0
+
+93. On solving the equation log3 log2 log3t  =1 we get the value of t as
+
+     (a) 8                           (b) 18                        (c) 81            (d) 6561
+
+94. On solving the equation log12 logt log4 32 = 2 we get the value of t as
+
+          5                               25                           625           (d) None
+     (a) 2                           (b) 4                         (c) 16
+
+( ) ( ) 95.    x=          y =1,000                     1-1
+     If   4.8       0.48             then the value of  xy         is
+
+     (a) 3                           (b) ­3                            1             (d)  -1
+                                                                   (c) 3                   3
+
+96. If x2a-3y2a = x6-ay5a then the value of alog x is
+                                                            y
+
+     (a) 3log x                      (b) log x                     (c) 6 log x       (d) 5log x
+
+97.  If   x    en   en  then the value of   n is
+               en   en
+
+     (a)  1  loge  1+x               (b)  loge     1+x             (c)  loge  1-x    (d)  1  log  e  1-x
+          2        1-x                             1-x                        1+x         2          1+x
+
+© The Institute of Chartered Accountants of India
+144           BUSINESS MATHEMATICS
+
+98. P and Q started a business investing Rs.85,000 and Rs. 1,15,000 respectively. In what ratio the
+      profit earned after 2 years be divided between P and Q respectively?
+
+     (a) 3:4       (b) 3:5                         (c) 15:23      (d) 17:23
+
+99. A nand and Deepak started a business investing Rs. 22,500 and Rs. 35,000 respectively. Out
+      of a total profit of Rs. 13,800, Deepak's share is
+
+     (a) Rs. 5,400 (b) Rs. 7,200                   (c) Rs. 8,400 (d) Rs. 9,600
+
+100. A , B, C enter into a partnership investing Rs. 35,000, Rs. 45,000 and Rs. 55,000 respectively.
+      The respective shares of A,B,C in an annual profit of Rs. 40,500 are:
+
+     (a) Rs. 10,500 Rs. 13,500, Rs. 16,500
+
+     (b) Rs. 11,500 Rs. 13,000 Rs. 16,000
+
+     (c) Rs. 11,500 Rs. 14,000 Rs. 15,500
+
+     (d) Rs. 11,500 Rs. 12,500 Rs. 16,500
+
+101. R eena and Shaloo are partner in a business. Reena invests Rs. 35,000 for 8 months and Shaloo
+      invests Rs. 42,000 for 10 months. Out of a profit of Rs. 31,570, Reena's share is:
+
+     (a)Rs. 9471   (b) Rs. 12628                   (c) Rs. 18040  (d) Rs. 18942
+
+102. K anchan started a business investing Rs. 9000. After five months, Sameer joined with a capital
+      of Rs. 8000. If at the end of the year, they earn a profit of Rs. 6970, then what will be the share
+      of Sameer in the profit?
+
+(a) Rs. 1883.78    (b) Rs. 2380                    (c) Rs. 3690   (d) Rs. 3864
+
+103. S imran Started a software business by investing Rs.50, 000 . After six months , Nanda joined
+      her with capital of Rs. 80,000. After three years , they earned a profit of Rs.24,500. What was
+      Simran's share in the profit ?
+
+     (a) Rs.9423   (b) Rs.10500                    (c) Rs.12,500  (d) Rs.14,000
+
+104. A and B started a business in partnership by investing Rs.20, 000 and Rs.15,000 respectively.
+      After six months , C joined them with Rs.20000. What will be B;s share in the total profit of
+      Rs.25,000 earned at the end of 2 years from the starting of the business ?
+
+     (a) Rs. 7500  (b) Rs.9000                     (c) Rs.9500    (d) Rs. 10,000
+
+105. A man started a business investing Rs. 70000 . Rakhi joined him after six months with an
+      amount of Rs. 1,05,000 and Sagar joined them with Rs.1.4 lakhs after another six months
+      . The amount of profit earned should be distributed in what ratio among six months. The
+      amount profit earned should be distributed in what ratio among Aman, Rakhi, and Sagar
+      respectively, 3 years after Aman started the business ?
+
+     (a) 7:6:10    (b) 12:15: 16                   (c) 42:45:56   (d) None of these
+
+106. A began a business with Rs.85,000 and is joined afterwards by B with Rs.42,500. For how
+      much period does B join , if profits at the end of the year are divided in the ratio of 3:1 ?
+
+(a) 4 months       (b) 5 months                    (c) 6 months   (d) 8 months
+
+© The Institute of Chartered Accountants of India
+                                                   RATIO AND PROPORTION, INDICES, LOGARITHMS    1.45
+
+107. A, B and C enter into partnership by investing in the ratio of 3:2:4 . After one year , B invests
+     another Rs.2,70, 000 and C , at the end of 2 years, also invests Rs.2,70, 000. At the end of three
+     years , profits are shared in the ratio of 3:4: 5 . Find the initial investment of each .
+
+(a) 2,70,000 : 1,80,000; 3, 60,000                 (b) 2,70,000 : 1,50,000; 3, 60,000
+
+(c) 2,50,000 : 1,80,000; 3, 60,000                 (d) 2,70,000 : 1,80,000; 3, 00,000
+
+108. A , B and C enter into partnership . A invests 3 times as much as B invests and B invests 2/3rd
+     of what C invests . At the end of the year , the profit earned is Rs.6600. What is the share of B ?
+
+(a) Rs.1200        (b) Rs.1500                     (c) Rs.1800       (d) Rs.2000
+
+109. A and B can do a work in 8 days , B and C can do the same work in 12 days . A, B and C
+      together can finish it in 6 days . A and C together will do it in :
+
+(a) 4 days         (b) 6 days                      (c) 8 days        (d) 12 days
+
+ANSWERS            35. (a)                         52. (c)  69. (b)  86. (a)           103 (b)
+                   36. (c)                         53. (b)  70. (b)  87. (a)           104 (a)
+  1. (b) 18. (b)   37. (c)                         54. (a)  71. (b)  88. (c)           105 (b)
+  2. (a) 19. (c)   38. (c)                         55. (b)  72. (a)  89. (a)           106 (d)
+  3. (c) 20. (b)   39. (c)                         56. (a)  73. (a)  90. (a)           107 (a)
+  4. (b) 21. (d)   40. (a)                         57. (c)  74. (b)  91. (d)           108 (a)
+  5. (a) 22. (b)   41. (b)                         58. (c)  75. (b)  92. (a)           109 (c)
+  6. (a) 23. (a)   42. (b)                         59. (a)  76. (b)  93. (d)
+  7. (d) 24. (b)   43. (a)                         60. (b)  77. (b)  94. (c)
+  8. (a) 25. (c)   44. (c)                         61. (c)  78. (a)  95. (c)
+  9. (a) 26. (d)   45. (d)                         62. (a)  79. (b)  96. (a)
+  10. (a) 27. (a)  46. (c)                         63. (a)  80. (b)  97. (a)
+  11. (c) 28. (c)  47. (a)                         64. (a)  81. (a)  98 (d)
+  12. (a) 29. (d)  48. (c)                         65. (c)  82. (a)  99 (c)
+  13. (b) 30. (c)  49. (b)                         66. (b)  83. (a)  100 (a)
+  14. (a) 31. (a)  50. (a)                         67. (a)  84. (a)  101 (b)
+  15. (c) 32. (b)  51. (d)                         68. (b)  85. (b)  102 (b)
+  16. (c) 33. (a)
+  17. (d) 34. (b)
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+

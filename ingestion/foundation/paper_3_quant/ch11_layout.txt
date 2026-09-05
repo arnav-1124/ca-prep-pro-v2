@@ -1,0 +1,660 @@
+11 chapter
+
+Seating
+arrangements
+
+LEARNING OBJECTIVES
+
+w To understand the Logical statements involved in the Seating Arrangements.
+w To understand the types of Seating Arrangements.
+
+     The process of making a group of people to sit as per a prefixed manner is called Seating
+     Arrangement. In these of questions, some conditions are given on the basis of which students
+     are required to arrange objects, either in a row or in a circular order.
+
+     Introduction
+
+     11.1 Based on various pattern of Sitting arrangements
+are Classified into
+
+1) Linear Arrangements
+2) Circular Arrangements
+3) Polygon Arrangements
+Here we are limited to our topic linear and circular arrangements only. While making arrangements,
+it should be noted that all the conditions given are complied with. These type of questions generally
+involve five to eight individuals arranged in a certain manner or pre-conditions. They may have to
+be arranged in a circle or in a row accordingly.
+Sometimes these questions are made more difficult by allowing an individual to a particular position
+with some conditions.
+General instructions to Solve Seating Arrangement Questions are as follows.
+1) First of all take a review on the given information. After performing this step, you would get an
+
+     idea of the situation of people or objects.
+2) Next, determine the usefulness of each information's and classify them accordingly into `definite
+
+     information', `comparative information' and `negative information'.
+3) When the place of any objects or persons is definitely mentioned then we say that it is a definite
+
+     information, X is sitting on the right end of the bench.
+4) When the place of any object or person is not mentioned definitely but mentioned only in the
+
+     comparison of another person or object, then we say that it is a comparative information.
+     Example 1: A is sitting second to the right of E. This type of information can be helpful when we
+     can get the definite information about E.
+
+           © The Institute of Chartered Accountants of India
+11.2  Logical reasoning
+
+5) A part of definite information may consist of negative information. A negative information does
+     not tell us anything definitely but it gives an idea to eliminate a possibility.
+
+     Example 2: C is not sitting on the immediate left of A.
+
+     11.2 Type-1 Linear Arrangement
+
+In this type of arrangement, we arrange objects or persons in a line or row. The arrangement is done
+only on one `axis' and hence, the position of persons or objects assumes importance in terms of order
+like positions. In this type of arrangement, we take directions according to our left and right.
+Steps to Solve the Linear Arrangements:
+
+(a) Identify the number of objects and their names.
+(b) Use pictorial method to represent the people or objects and their positions.
+(c) Arrange the information with relevant facts and their positions and try to find out the solution.
+(d) Answer the questions based on the arrangement having made.
+There are few words which must be paid adequate attention, i.e., `between' means sandwiched,
+`immediate left' is different from `to the left'. To understand it let us see some pictorial representation.
+When direction of face is not clear, then we take One Row Sequence
+(A) When direction of face is not clear, then we take based on diagram will be as follows:
+
+                                                                                    N
+
+            P            Q                R  S                         T
+
+      Left                                                                Right  W             E
+                                                                                    S
+                         
+                                                                                      N
+From the above diagram, it is clear that
+
+(i) Q, R, S, T are right of P but only Q is the immediate right of P.
+
+(ii) S, R, Q, P are left of T but only S is the immediate left of T.
+
+(iii) R, S, T are right of Q only R is the immediate right of Q.
+
+(iv) R, Q, P are left of S but only R is the immediate left of S.
+
+(v) S and T are right of R but only S is the immediate right of R.
+
+(vi) Q and P are left of R but only Q is the immediate left of R.
+
+(vii) P is the immediate left of Q while T is the immediate right of S.
+
+(B) When direction of face is towards you, then the diagram will be as follows:
+
+      RightLeft
+
+                                                                                 W                                 E
+
+            P            Q                R  S                         T
+
+                                                                                                                S
+
+      © The Institute of Chartered Accountants of India
+                                                              Seating arrangements                  11.3
+
+From the above diagram, it is clear that
+
+(i) Left of P = Q, R, S and T
+
+(ii) Right of T = S, R, Q and P
+
+(iii) Q is immediate left of P; R is immediate left of Q; S is immediate left of R and T is immediate left
+     of S.
+
+(iv) S is immediate right of T; R is immediate right of S; Q is immediate right of R; and P is immediate
+     right of Q.
+
+Two Rows Sequence
+
+Let us see 6 persons seating in two rows.
+
+Right A                            B       C Left
+
+Left D                             E       F Right
+
+From the above diagram, it is clear that
+
+(i) A is sitting opposite D
+
+(ii) B is sitting opposite E
+
+(iii) C is sitting opposite F
+
+(iv) D and C are sitting at diagonally opposite positions
+
+(iv) A and F are sitting at diagonally opposite positions.
+
+Example 3: Four Children's are sitting in arrow. A is occupying seat next to B but not next to C. If C is
+not sitting next to D ? Who is occupying seat adjacent to D.
+
+(a) B             (b) B and A              (c) Impossible to tell        (d) A
+
+Solution: (d) The arrangements as per given information is possible only if C is sitting next to B and
+D is sitting next to A.
+
+Therefore, two possible arrangements are C, B, A, D, or D, A, B, C
+
+Clearly, only A is sitting adjacent to D:
+
+Example 4: P, Q, R, S, T, U, V and W are sitting in a row facing North.
+
+(i) P is fourth to the right of T
+
+(ii) W is fourth to the left of S
+
+(iii) R and U, which are not at the ends, are neighbours of Q and T respectively.
+
+(iv) W is next to the left of P and P is the neighbour of Q. Who are sitting at the extreme ends ?
+
+Solution:
+
+From information
+
+(i) We get that there are three persons between P and TXXXP.
+
+In the information (iv), it is given that W is next to the left of P and Q is the neighbour of P. Using the
+
+information with (i), we get TXXWPQ.
+
+           © The Institute of Chartered Accountants of India
+11.4      Logical reasoning
+
+By the information (ii), TXXWPQXS
+By the information (iii),
+
+          T  U                       V        W                                   P            Q        R      S
+
+So, T and S are sitting at the extreme ends.
+
+Example 5: There are Five houses P, Q , R, S, T . P is immediate right of Q and T is immediate left of
+R and immediate right of P . Q is right of S. Which house in the middle.
+
+(a) P        (b) Q                                                             (c) R                        (d) T
+
+Solution: According to the question the houses can be arranged as follows. Assuming all houses are
+facing towards North.
+
+                               S        Q                                   P            T        R
+
+Therefore, house P is middle.
+
+Example 6: Five friends are sitting on a bench. A is to the immediate left of B but on the immediate
+right of C, D is to the immediate right of B but on the immediate left of E. Who are at the extremes?
+
+(a) A, B     (b) A, D                                                          (c) C, E                     (d) B, D
+
+Solution: Arrangements according to the question as follows. Assuming all students are facing
+towards North.
+
+             Left                                                                                    Right
+
+                               C        A                                   B            D        E
+
+Clearly C and E are the extremes.
+
+Example 7: In a college party, 5 girls are sitting in a row. P is to the immediate left of M and to the
+immediate right of O. R is sitting to the immediate right of N but to the left of O. Who is sitting in the
+middle?
+
+(a) O        (b) R                                                             (c) P                        (d) M
+
+Solution: (a) arrangements of the question as follows.
+
+             Left                                                                                    Right
+
+                    N                   R                                   O            P        M
+
+Therefore, O is sitting in the middle.
+
+Example 8: Five boys A, B, C, D and E are standing in a row. D is on the immediate right of E, B is
+on the immediate left of E but on the immediate right of A. D is one the immediate left of C, who is
+standing on the extreme right. Who is standing in the middle?
+
+(a) B        (b) C                                                             (c) D                        (d) E
+
+Solution: The sequence of Boys as follows. Assuming all boys are sitting towards North.
+
+             Left End                                                                                   Right
+
+                                  A        B                                   E            D        C
+
+There E is©stTahnedInisntigtutienoftChheamrteriedddAlcec.ountants of India
+                                                                 Seating arrangements          11.5
+
+Circular Arrangement:
+In this arrangement, some persons are sitting around a circle and they are facing the centre.
+
+                                     Right                Left
+
+                               Left                              Right
+                              Right                              Left
+
+                                         Left             Right
+
+1. Left movement is called clockwise rotation.
+
+2. Right movement is called anti­clockwise rotation.
+
+     (i) The above presentation is for 4 persons but for any number of persons, the direction is taken
+          in the same manner.
+
+     (ii) For rectangular and sequence arrangement, directions are taken as discussed in two rows
+          sequence.
+
+Example 9: (Q Nos. 1 to 3) Study the following Question carefully and answer the given questions.
+
+Four ladies A, B, C and D and Four Gentlemen E, F, G and H are sitting in a circle around a table
+facing each other .
+
+I. No two ladies or gentlemen are sitting side by side.
+
+II. C, who is sitting between G and E, is facing D.
+
+III. F is between D and A and facing G.
+IV. H is to the right of B.
+(1) Who is sitting left of A?
+
+(a) E                  (b) F                       (c) G                (d) H
+                                                   (c) G                (d) H
+(2) E is facing whom?
+
+(a) F                  (b) B
+
+(3) Who is immediate neighbour of B?
+
+(a) G and H            (b) E and F                 (c) E and H          (d) F and H
+
+Solution: On the basis of given information in the question, the seating arrangements of the persons
+are as follows.
+
+© The Institute of Chartered Accountants of India
+11.6  Logical reasoning
+
+                                                         A
+
+                         E                                     F
+
+      Right  C                                                       D          Left
+
+                         G                                  H
+
+                                                         B
+
+1) (b) Clearly , F is sitting left of A.
+
+2) (d) Clearly E is facing H.
+
+3) (a) G and H are neighbours of B.
+
+Example 10: Eight persons A, B, C, D, E, F, G and H are sitting around the circle as given in the figure.
+They are facing the direction opposite to centre. If they move upto three places anti-clockwise, then.
+
+                                                                       North
+                                                                         A
+
+                            H                                     B
+
+             West G                                                     C East
+
+                            F                                     D
+
+                                                                         E
+                                                                       South
+(a) B will face West
+(b) E will face East
+(c) H will face North-West
+(d) A will face South
+Solution: Following Seating arrangement is formed from the given in formation.
+
+      © The Institute of Chartered Accountants of India
+                                                              Seating arrangements     11.7
+
+              North                                           North
+                A                                               D
+
+           H                     B                         C                E
+
+West G                              CEast          West B                      F East
+
+           F                     D                         A                G
+
+                        E                                            H
+                     South                                         South
+              Original position                               New Position
+
+Clearly B will Face west
+Example 11: Five People A, B, C, D and E are seated around a round table. Every chair is spaced
+equidistant from adjacent chairs. (UPSC (CSAT) 2013)
+
+     I. C is seated next to A .
+     II. A is seated two seats from D.
+     III. B is not seated next to A.
+     Which of the following must be true?
+     I. D is seated next to B.
+     II. E is seated next to A.
+     Select the correct from the options given below:
+     (a) Only I
+     (b) Only II
+     (c) Both I and II
+     (d) Neither I nor II
+Solution:
+According to the given information there are possible Seating arrangements.
+
+              C                                               A
+
+        D                        A                 E                           C
+
+        B                        E                 D                           B
+
+© The Institute of Chartered Accountants of India
+11.8    Logical reasoning
+
+                   A                                                          A
+
+        E                        C                                   C                 E
+
+        D                        B                                   B                 D
+
+From the above arrangements. It is clear that D is seated next to B . Also E is next to A.
+Clearly both statements I and II are true.
+
+Example 12: Study the following Question carefully and answer the given questions.
+
+Eight friends A, B, C, D,E, F, G and H are sitting in a circle facing the centre, not necessarily in the
+same order. D sits third to the left of A. E sits to the immediate right of A. B is third to left of D. G is
+second to the right of B. C is neighbour of B. C is third to left of H. (GIC 2012)
+
+1) Who amongst the following is sitting exactly between F and D?
+
+(a) C      (b) E                    (c) H                                        (d) A
+
+2)Three of the following four are alike in a certain way based on the information given above and
+     so form a group. Which is does not belong to that group.
+
+(a) DC     (b) AH                   (c) EF                                       (d) CB
+
+3) Who amongst the following second to the left of H?
+
+(a) E      (b) B                    (c) A                                        (d) None of these
+
+4) Who amongst the following are immediate neighbours of G?
+
+(a) CA     (b) AF                   (c) DC                                       (d) DF
+
+5) Who amongst the following is sitting third to the right of A?
+
+(a) F      (b) B                    (c) H                                        (d) C
+
+Solution: Arrangements according to the question is as follows.
+                                                                        F
+
+                              A                                   H
+
+           Right           E                                               D     Left
+
+                              B                                   B
+
+                                                               C
+
+       © The Institute of Chartered Accountants of India
+                                                                  Seating arrangements  11.9
+
+1) (c), Clearly H is sitting exactly F and D
+
+2) (d) DGC AFH             EAF                        C none B
+
+       Skipped Skipped                              
+                           Skipped No member is skipped in between
+
+So, CB does not belong to the group.
+
+3) (d) Clearly, G is sitting second to the left of H
+
+4) (c) Clearly D and C immediate neighbours of G
+
+5) (d) Clearly, C is sitting third to the right of A
+
+Exercise 11.A
+
+(Note: Questions are taken from previous exam questions papers of Competitive exams like SSC,
+RRB, MAT, UPSC etc.)
+
+Choose the appropriate answer (a) or (b) or (c) or (d)
+
+1. Five boys A, B, C, D and E are sitting in a row A is to the right of B and E is to the left of B but to
+     the right of C. A is to the left of D. Who is second from the left end? (U.P.B.Ed 2013)
+
+(a) D          (b) A                                 (c) E        (d) B
+
+2. There are five different houses, A to E, in a row. A is to the right of B and E is to the left of C and
+     right of A, B is to the right of D. Which of the houses is in the middle? IB CA (IO) 2013)
+
+(a) A          (b) B                                 (c) C        (d) D
+
+3. Five friends P, Q, R, S and T are sitting in a row facing North. Here, S is between T and Q and Q is
+     to the immediate left of R. P is to the immediate left of T. Who is in the middle? (SSC (Multi Task)
+     2014)
+
+(a) S          (b) T                                 (c) Q        (d) R
+
+4. Six children A, B, C, D, E and F are standing in a row. B is between F and D. E is between A and
+     C. A does not stand next to F or D. C does not stand next to D. F is between which of the
+     following pairs of children? (SSC (FCI) 2012)
+
+(a) B and E    (b) B and C                           (c) B and D  (d) B and A
+
+5. There are eight books kept one over the other. Two books are on Organisation Behaviour, two
+     books on TQM, three books on Industrial Relations and one book is on Economics. Counting from
+     the top, the second, fifth and sixth books are on Industrial Relations. Two books on Industrial
+     Relations are between two books on TQM. One book of Industrial Relations is between two
+     books on Organizational Behaviour while the book above the book of Economics is a book of
+     TQM. Which book is the last book from the top? (MAT 2011)
+
+(a) Economics                                        (b) TQM
+
+(c) Industrial Relations                             (d) Organizational Behaviour
+
+  © The Institute of Chartered Accountants of India
+11.10   Logical reasoning
+
+6. Five boys are standing in a row facing East . Pavan is to the left of Tavan , Vipin and Chavan.
+     Tavan , Vipin and Chavan are to the left of Nakul. Chavan is between Tavan and Vipin. If Vipin
+     is fourth from the left , then how far is Tavan from the right ?
+
+(a) First       (b) Second                                (c) Third       (d) Fourth
+
+7. Six persons M, N, O, P, Q and R are sitting in two rows with three persons in each row. Both the
+     row are in front of each other. Q is not at the end of any row. P is second the left of R. O is the
+     neighbour of Q and diagonally opposite to P. N is the neighbour of R. Who is in fronts N? (UPSC
+     (CSAT) 2011)
+
+(a) R           (b) Q                                     (c) P           (d) M
+
+8. Six persons A, B, C, D, E and F are sitting in two rows, three in each row. (MAT 2011)
+
+(I) E is not at the end of any row
+
+(II) D is second to the left of F
+
+(III) C, the neighbor of E, is sitting diagonally opposite to D
+
+(IV) B is the neighbor of F.
+
+Which of the following are in one of the two rows?
+
+(a) D, B and F  (b) C, E and B                            (c) A, E and F  (d) F, B and C
+
+Direction (Q.No.9): Read the following information carefully and answer the question that
+follows.
+
+Five boys A1, A2, A3, A4 and A5 are sitting in a stair in the following way. (RRB (TC/CC) 2010)
+     I. A5 is above A1
+     II. A4 is under A2
+     III. A2 is under A1
+     IV. A4 is between A2 and A3.
+
+9. Who is at the lowest position of the stair?
+
+(a) A1          (b) A3                                    (c) A5          (d) A2
+
+10. Five children are sitting in a row. S is sitting next to P but not T. K is sitting next to R, who is sitting
+
+on the extreme left and T is not sitting next to K. Who is/are adjacent to S? (NIFT (UG) 2014)
+
+(a) K and P     (b) R and P                               (c) Only P      (d) P and T
+
+11. Five senior citizens are living in a multi-storeyed building. Mr. Muan lives in a flat above Mr.
+     Ashokan, Mr. Lokesh in a flat below Mr. Gaurav, Mr. Ashokan lives in a flat above Mr. Gaurav
+     and Mr. Rakesh lives in a flat below Mr. Lokesh. Who lives in the topmost flat? (MAT 2013).
+
+(a) Mr. Lokesh  (b) Mr. Gaurav (c) Mr. Muan                               (d) Mr. Rakesh
+
+12. In a gathering seven members are sitting in a row. `C' is sitting left to `B' but on the right to `D'. `A'
+     is sitting right to `B', `F; is sitting right to `E' but left to `D'. `H' is sitting left to `E'. Find the person
+     sitting in the middle. (SSC (10+2) 2013)
+
+(a) C           (b) D                                     (c) E           (d) F
+
+       © The Institute of Chartered Accountants of India
+                                                                Seating arrangements          11.11
+
+Directions (No: 13-17): Study the following information carefully to answer the given questions.
+
+A to H are seated in straight line facing North. C sits fourth left of G. D sits second to right of G.
+Only two people sit between D and A. B and F are immediate neighbours of each other. B is not an
+immediate neighbour of A. H is not neighbour of D. (GIC 2012)
+
+13. Who amongst the following sits exactly in the middle of the persons who sit fifth from the left
+     and the person who sit sixth from the right?
+
+(a) C        (b) H                                 (c) E               (d) F
+
+14. Who amongst the following sits third to the right of C?
+
+(a) B        (b) F                                 (c) A               (d) E
+
+15. Which of the following represents persons seated at the two extreme ends of the line?
+
+(a) C, D     (b) A, B                              (c) B, G            (d) D, H
+
+16. What is the position of H with respect to F?
+
+(a) Third to the left (b) Immediate right(c) Second to right (d) Fourth to left
+
+17. How many persons are seated between A and E?
+
+(a) One      (b) Two                               (c) Three           (d) Four
+
+Directions (Q. No. 18-22) (MAT 2012)
+
+Study the following information carefully to answer the given questions.
+
+Ten students are A to J are sitting in a row facing west.
+
+I. B and F are not sitting on either of the edges.
+
+II. G is sitting left of D and H is sitting to the right of J.
+
+III. There are four persons between E and A.
+
+IV. I is the north of B and F is the south of D.
+
+V. J is between A and D and G is in between E and F.
+
+VI. There are two persons between H and C.
+
+18. Who is sitting at the seventh place counting from left?
+
+(a) H        (b) C                                 (c) J               (d) Either H or C
+
+19. Who among the following is definitely sitting at one of the ends?
+
+(a) C        (b) H                                 (c) E               (d) Cannot be determined
+
+20. Who are immediate neighbours of I?
+
+(a) BC       (b) BH                                (c) AH              (d) Cannot determined
+
+21. Who is sitting second left of D?
+
+(a) G        (b) F                                 (c) E               (d) J
+
+22. If G and A interchange their positions, then who become the immediate neighbours of E?
+
+(a) G and F  (b) Only F                            (c) Only A          (d) J and H
+
+© The Institute of Chartered Accountants of India
+11.12    Logical reasoning
+
+Directions (Q. Nos. 23-24) Read the following information carefully and then answer the questions
+that follow.
+
+A group of seven singers, facing the audience, are standing in line on the stage as follows.
+
+I. D is to the immediate right to C
+
+II. F is standing beside G.
+
+III. B is to the immediate left of F
+
+IV. E is to the immediate left of A
+
+V. C and B have one person between them
+
+VI. A and D have oneperson between them
+
+23. Who is on the Second extreme right?
+
+(a) D             (b) F                                     (c) G               (d) E
+
+24. If we start counting from the left, on which number is B ?
+
+(a) 1st           (b) 2nd                                   (c) 3rd             (d) 5th
+
+Directions (Q. No. 25- 27): Study the following information carefully to answer the given questions.
+
+Eight persons P to W are sitting in front of one another in two rows. Each row has four persons. P is
+between U and V and facing North. Q, who is to the immediate left of M is facing W. R is between T
+and M and W is to the immediate right of V.
+
+(UCO Bank 2011)
+
+25. Who is sitting in front of R?
+
+(a) U             (b) Q                                     (c) V               (d) P
+
+26. Who is to the immediate right of R?
+
+(a) M             (b) U                                     (c) M or T          (d) None of these
+
+27. In which of the following pairs, persons are sitting in front of each other?
+
+(a) MV            (b) RV                                    (c) TV              (d) UR
+
+28. Four girls A, B, C, D are sitting around a circle facing the centre. B and C infront of each other,
+     which of the following is definitely true ? (MAT 2009)
+
+(a) A and D infront of each other                           (b) A is not between B and C
+
+(c) D is left of C                                          (d) A is left of C
+
+Answers
+
+1. (c)   2. (a)   3. (a)                 4. (b)                      5. (a)     6. (d)    7. (b)
+8. (a)   9. (b)   10. (d)                11. (c)                     12. (b)    13. (d)   14. (c)
+15. (d)  16. (a)  17. (a)                18. (d)                     19. (c)    20. (d)   21. (a)
+22. (c)  23. (b)  24. (d)                25. (d)                     26. (d)    27. (a)   28. (a)
+
+         © The Institute of Chartered Accountants of India
+

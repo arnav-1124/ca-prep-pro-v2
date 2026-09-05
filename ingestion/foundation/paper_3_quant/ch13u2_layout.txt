@@ -1,0 +1,826 @@
+SAMPLING  13.43
+
+UNIT 2 SAMPLING
+
+  LEARNING OBJECTIVES
+
+After reading this unit a student will learn -
+ Different procedure of sampling which will be the best representative of the population;
+
+     13.2.1 INTRODUCTION
+
+There are situations when we would like to know about a vast, infinite universe or population.
+But some important factors like time, cost, efficiency, vastness of the population make it almost
+impossible to go for a complete enumeration of all the units constituting the population. Instead,
+we take recourse to selecting a representative part of the population and infer about the unknown
+universe on the basis of our knowledge from the known sample. A somewhat clear picture would
+emerge out if we consider the following cases.
+
+In the first example let us share the problem faced by Mr. Basu. Mr. Basu would like to put a big
+order for electrical lamps produced by Mr. Ahuja's company "General Electricals". But before
+putting the order, he must know whether the claim made by Mr. Ahuja that the lamps of General
+Electricals last for at least 1500 hours is justified.
+
+Miss Manju Bedi is a well-known social activist. Of late, she has noticed that the incidence of a
+particular disease in her area is on the rise. She claims that twenty per cent of the people in her
+town have been suffering from the disease.
+
+In both the situations, we are faced with three different types of problems. The first problem is
+how to draw a representative sample from the population of electrical lamps in the first case and
+from the population of human beings in her town in the second case. The second problem is to
+estimate the population parameters i.e., the average life of all the bulbs produced by General
+Electricals and the proportion of people suffering form the disease in the first and second examples
+respectively on the basis of sample observations. The third problem relates to decision making
+i.e., is there enough evidence, once again on the basis of sample observations, to suggest that the
+claims made by Mr. Ahuja or Miss Bedi are justifiable so that Mr. Basu can take a decision about
+buying the lamps from General Electricals in the first case and some effective steps can be taken
+in the second example with a view to reducing the outbreak of the disease. We consider tests of
+significance or tests of hypothesis before decision making.
+
+    13.2.2 BASIC PRINCIPLES OF SAMPLE SURVEY
+
+Sample Survey is the study of the unknown population on the basis of a proper representative
+sample drawn from it. How can a part of the universe reveal the characteristics of the unknown
+universe? The answer to this question lies in the basic principles of sample survey comprising
+the following components:
+
+(a) Law of Statistical regularity
+
+  © The Institute of Chartered Accountants of India
+13.44  STATISTICS
+
+(b) Principle of Inertia
+
+(c) Principle of Optimization
+
+(d) Principle of Validity
+
+(a) According to the law of statistical regularity, if a sample of fairly large size is drawn from
+      the population under discussion at random, then on an average the sample would posses
+      the characteristics of that population.
+
+      Thus the sample, to be taken from the population, should be moderately large. In fact larger
+      the sample size, the better in revealing the identity of the population. The reliability of a
+      statistic in estimating a population characteristics varies as the square root of the sample
+      size. However, it is not always possible to increase the sample size as it would put an extra
+      burden on the available resource. We make a compromise on the sample size in accordance
+      with some factors like cost, time, efficiency etc.
+
+      Apart from the sample size, the sample should be drawn at random from the population which
+      means that each and every unit of the population should have a pre-assigned probability to
+      belong to the sample.
+
+(b) The results derived from a sample, according to the principle of inertia of large numbers, are
+      likely to be more reliable, accurate and precise as the sample size increases, provided other
+      factors are kept constant. This is a direct consequence of the first principle.
+
+(c) The principle of optimization ensures that an optimum level of efficiency at a minimum cost
+      or the maximum efficiency at a given level of cost can be achieved with the selection of an
+      appropriate sampling design.
+
+(d) The principle of validity states that a sampling design is valid only if it is possible to obtain
+      valid estimates and valid tests about population parameters. Only a probability sampling
+      ensures this validity.
+
+     13.2.3 COMPARISON BETWEEN SAMPLE SURVEY AND COMPLETE
+     ENUMERATION
+
+When complete information is collected for all the units belonging to a population, it is defined as
+complete enumeration or census. In most cases, we prefer sample survey to complete enumeration
+due to the following factors:
+
+(a) Speed: As compared to census, a sample survey could be conducted, usually, much more
+      quickly simply because in sample survey, only a part of the vast population is enumerated.
+
+(b) Cost: The cost of collection of data on each unit in case of sample survey is likely to be more
+      as compared to census because better trained personnel are employed for conducting a
+      sample survey. But when it comes to total cost, sample survey is likely to be less expensive
+      as only some selected units are considered in a sample survey.
+
+(c) Reliability: The data collected in a sample survey are likely to be more reliable than that in
+      a complete enumeration because of trained enumerators better supervision and application
+      of modern technique.
+
+  © The Institute of Chartered Accountants of India
+                                                   SAMPLING  13.45
+
+(d) Accuracy: Every sampling is subjected to what is known as sampling fluctuation which is
+      termed as sampling error. It is obvious that complete enumeration is totally free from this
+      sampling error. However, errors due to recording observations, biases on the part of the
+      enumerators, wrong and faulty interpretation of data etc. are prevalent in both sampling
+      and census and this type of error is termed as non-sampling errors. It may be noted that in
+      sample survey, the sampling error can be reduced to a great extent by taking several steps
+      like increasing the sample size, adhering to a probability sampling design strictly and so on.
+      The non-sampling errors also can be contained to a desirable degree by a proper planning
+      which is not possible or feasible in case of complete enumeration.
+
+(e) Necessity: Sometimes, sampling becomes necessity. When it comes to destructive
+      sampling where the items get exhausted like testing the length of life of electrical bulbs
+      or sampling from a hypothetical population like coin tossing, there is no alternative to
+      sample survey.
+
+      However, when it is necessary to get detailed information about each and every item
+      constituting the population, we go for complete enumeration. If the population size is not
+      large, there is hardly any merit to take recourse to sampling. If the occurrence of just one
+      defect may lead to a complete destruction of the process as in an aircraft, we must go for
+      complete enumeration.
+
+    13.2.4 ERRORS IN SAMPLE SURVEY
+
+Errors or biases in a survey may be defined as the deviation between the value of population
+parameter as obtained from a sample and its observed value. Errors are of two types.
+
+I. Sampling Errors
+
+II. Non-Sampling Errors
+
+Sampling Errors : Since only a part of the population is investigated in a sampling, every sampling
+design is subjected to this type of errors. The factors contributing to sampling errors are listed
+below:
+
+(a) Errors arising out due to defective sampling design: Selection of a proper sampling design
+      plays a crucial role in sampling. If a non- probabilistic sampling design is followed, the bias
+      or prejudice of the sampler affects the sampling technique thereby resulting some kind of
+      error.
+
+(b) Errors arising out due to substitution: A very common practice among the enumerators
+      is to replace a sampling unit by a suitable unit in accordance with their convenience when
+      difficulty arises in getting information from the originally selected unit. Since the sampling
+      design is not strictly adhered to, this results in some type of bias.
+
+(c) Errors owing to faulty demarcation of units: It has its origin in faulty demarcation of sampling
+      units. In case of an agricultural survey, the sampler has, usually, a tendency to underestimate
+      or overestimate the character under consideration.
+
+(d) Errors owing to wrong choice of statistic: One must be careful in selecting the proper statistic
+      while estimating a population characteristic.
+
+© The Institute of Chartered Accountants of India
+13.46  STATISTICS
+
+(e) Variability in the population: Errors may occur due to variability among population units
+      beyond a degree. This could be reduced by following somewhat complicated sampling design
+      like stratified sampling, Multistage sampling etc.
+
+Non-sampling Errors
+
+As discussed earlier, this type of errors happen both in sampling and complete enumeration.
+Some factors responsible for this particular kind of biases are lapse of memory, preference for
+certain digits, ignorance, psychological factors like vanity, non- responses on the part of the
+interviewees wrong measurements of the sampling units, communication gap between the
+interviewers and the interviewees, incomplete coverage etc. on the part of the enumerators also
+lead to non-sampling errors.
+
+     13.2.5 SOME IMPORTANT TERMS ASSOCIATED WITH SAMPLING
+
+Population or Universe
+
+It may be defined as the aggregate of all the units under consideration. All the lamps produced by
+"General Electricals" in our first example in the past, present and future constitute the population.
+In the second example, all the people living in the town of Miss Manju form the population. The
+number of units belonging to a population is known as population size. If there are one lakh
+people in her town then the population size, to be denoted by N, is 1 lakh.
+
+A population may be finite or infinite. If a population comprises only a finite number of units,
+then it is known as a finite population. The population in the second example is obviously, finite.
+If the population contains an infinite or uncountable number of units, then it is known as an
+infinite population. The population of electrical lamps of General Electricals is infinite. Similarly,
+the population of stars, the population of mosquitoes in Kolkata, the population of flowers in
+Mumbai, the population of insects in Delhi etc. are infinite population.
+
+Population may also be regarded as existent or hypothetical. A population consisting of real objects
+is known as an existent population. The population of the lamps produced by General Electricals
+and the population of Miss Manju's town are example of existent populations. A population that
+exists just hypothetically like the population of heads when a coin is tossed infinitely is known
+as a hypothetical or an imaginary population.
+
+Sample
+
+A sample may be defined as a part of a population so selected with a view to representing
+the population in all its characteristics selection of a proper representative sample is pretty
+important because statistical inferences about the population are drawn only on the basis of
+the sample observations. If a sample contains n units, then n is known as sample size. If a
+sample of 500 electrical lamps is taken from the production process of General Electricals, then
+n = 500. The units forming the sample are known as "Sampling Units". In the first example,
+the sampling unit is electrical lamp and in the second example, it is a human. A detailed
+and complete list of all the sampling units is known as a "Sampling Frame". Before drawing
+sample, it is a must to have a updated sampling frame complete in all respects before the
+samples are actually drawn.
+
+© The Institute of Chartered Accountants of India
+                                                                       SAMPLING  13.47
+
+Parameter
+
+A parameter may be defined as a characteristic of a population based on all the units of the
+population. Statistical inferences are drawn about population parameters based on the sample
+observations drawn from that population. In the first example, we are interested about the
+parameter "Population Mean". If x a denotes the a th member of the population, then population
+mean m, which represents the average length of life of all the lamps produced by General Electricals
+is given by
+
+                                     n                       (13.2.1)
+
+                               xa
+
+                            µ = a=1
+                                   N
+
+Where N denotes the population size i.e. the total number of lamps produced by the company. In
+the second example, we are concerned about the population proportion P, representing the ratio
+of the people suffering from the disease to the total number of people in the town. Thus if there
+are X people possessing this attribute i.e. suffering from the disease, then we have
+
+P= X                                                         (13.2.2)
+     N
+
+Another important parameter namely the population variance, to be denoted by s2 is given by
+
+                             2 = (Xa - µ)2                   (13.2.3)
+                                        N
+
+ Also we have SD =  =         (Xa - µ)2                      (13.2.4)
+
+                              N
+
+Statistics
+
+A statistic may be defined as a statistical measure of sample observation and as such it is a function
+of sample observations. If the sample observations are denoted by x1, x2, x3, ........... xn, then a
+statistic T may be expressed as T = f(x1, x2, x3, ........... xn)
+
+A statistic is used to estimate a particular population parameter. The estimates of population
+mean, variance and population proportion are given by
+
+ -          xi                                     (13.2.5)
+
+x =µ =
+n
+
+              xi   -  -  2
+                         
+S2 =2 =               x
+
+                n                                  (13.2.6)
+
+and p = p=         x                               (13.2.7)
+                   n 
+            P=
+
+© The Institute of Chartered Accountants of India
+13.48  STATISTICS
+
+Where x, in the last case, denotes the number of units in the sample in possession of the
+attribute under discussion.
+
+Sampling Distribution and Standard Error of a Statistic
+
+Starting with a population of N units, we can draw many a sample of a fixed size n. In case
+of sampling with replacement, the total number of samples that can be drawn is and when it
+comes to sampling without replacement of the sampling units, the total number of samples
+that can be drawn is Ncn.
+
+If we compute the value of a statistic, say mean, it is quite natural that the value of the sample
+mean may vary from sample to sample as the sampling units of one sample may be different
+from that of another sample. The variation in the values of a statistic is termed as "Sampling
+Fluctuations".
+
+If it is possible to obtain the values of a statistic (T) from all the possible samples of a fixed
+sample size along with the corresponding probabilities, then we can arrange the values of the
+statistic, which is to be treated as a random variable, in the form of a probability distribution.
+Such a probability distribution is known as the sampling distribution of the statistic. The
+sampling distribution, just like a theoretical probability distribution possesses different
+characteristics. The mean of the statistic, as obtained from its sampling distribution, is known
+as "Expectation" and the standard deviation of the statistic T is known as the "Standard Error
+(SE)" of T. SE can be regarded as a measure of precision achieved by sampling. SE is inversely
+proportional to the square root of sample size. It can be shown that
+
+SE (x) =  for SRS WR
+
+               n
+
+=  . N - n         for SRS WOR                     (13.2.8)
+     n N-1
+
+Standard Error for Proporation
+
+SE (p) = Pq        for SRS WR
+               n
+
+Pq N - n           for SRS WOR                     (13.2.9)
+n N-1
+
+SRSWR and SRSWOR stand for simple random sampling with replacement and simple random
+sampling without replacement.
+
+The factor N - n is known as finite population correction (fpc) or finite population multiplier
+                 N-1
+
+and may be ignored as it tends to 1 if the sample size (n) is very large or the population under
+consideration is infinite when the parameters are unknown, they may be replaced by the
+corresponding statistic.
+
+© The Institute of Chartered Accountants of India
+                                                                               SAMPLING           13.49
+
+Illustrations
+
+Example 13.2.1: A population comprises the following units: a, b, c, d, e. Draw all possible samples
+of size three without replacement.
+
+Solution: Since in this case, sample size (n) = 3 and population size (N) = 5. the total number of
+possible samples without replacement = 5c3 = 10
+These are abc, abd, abe, acd, ace, ade, bcd, bce,bde,cde.
+
+Example 13.2.2: A population comprises 3 member 1, 5, 3. Draw all possible samples of size two
+
+(i) with replacement
+
+(ii) without replacement
+
+Find the sampling distribution of sample mean in both cases.
+
+Solution: (i) With replacement :- Since n = 2 and N = 3, the total number of possible samples of
+size 2 with replacement = 32 = 9.
+
+These are exhibited along with the corresponding sample mean in table 15.1. Table 15.2 shows
+the sampling distribution of sample mean i.e., the probability distribution of x .
+
+                                                       Table 13.2.1
+All possible samples of size 2 from a population comprising 3 units under WR scheme
+
+Serial No.                     Sample of size 2 with replacement               Sample mean ( x )
+                    1                               1, 1                                  1
+                    2                               1, 5                                  3
+                    3                               1, 3                                  2
+                    4                               5, 1                                  3
+                    5                               5, 5                                  5
+                    6                               5, 3                                  4
+                    7                               3, 1                                  2
+                    8                               3, 5                                  4
+                    9                               3, 3                                  3
+
+                                                       Table 13.2.2
+Sampling distribution of sample mean
+
+x                      1  2                        3                 4    5    Total
+
+P  1/9                    2/9                      3/9               2/9  1/9  1
+
+(ii) without replacement: As N = 3 and n = 2, the total number of possible samples without
+      replacement = NC2 = 3C2 = 3.
+
+© The Institute of Chartered Accountants of India
+13.50           STATISTICS
+
+                                                       Table 13.2.3
+Possible samples of size 2 from a population of 3 units under WOR scheme
+
+       Serial No     Sample of size 2 without replacement         Sample mean ( x )
+            1                              1,3                               2
+
+           2                             1,5                        3
+
+           3                             3,5                        4
+
+                                                  Table 13.2.4
+                                     Sampling distribution of mean
+
+                            :            2         3         4      Total
+
+                            P:       1/3           1/3       1/3    1
+
+Example 13.2.3: Compute the standard deviation of sample mean for the last problem. Obtain
+the SE of sample mean applying 15.8 and show that they are equal.
+
+Solution: We consider the following cases:
+
+(i) with replacement :
+
+       Let U = x The sampling distribution of U is given by
+
+       U:         1             2           3      4         5
+
+       P:         1/9           2/9         3/9    2/9       1/9
+
+       E (U) = Pi Ui
+
+       E (U 2)    = 1/9×1 + 2/9×2 + 3/9×3 + 2/9×4 + 1/9×5 = 3
+                  =PiUi2
+
+                  = 1/9×12 + 2/9×22 + 3/9×32 + 2/9×42 + 1/9×52
+
+                  = 31/3
+
+       v( x ) = v(U) = E (U2) ­ [E (U)]2
+
+                            = 31/3 ­ 32
+
+                            = 4/3
+
+       Hence SE= 2                                                                             (1)
+                     3
+
+Since the population comprises 3 units, namely 1, 5, and 3 we may take X1 = 1, X2 = 5, X3 = 3
+
+© The Institute of Chartered Accountants of India
+                                                                        SAMPLING  13.51
+
+The population mean (m) is given by
+
+     µ = Xa
+              N
+
+   1+ 5 + 3
+= 3 =3
+
+ and the population variance 2 = (Xa - µ)2
+                                                   N
+
+                             (1 - 3)2 + (5 - 3)2 + (3 - 3)2      = 8/3
+
+                                                   3
+
+Applying 15.8 we have, SEx =   =                   8×   1=    2                   (2)
+                               n                   3    2     3
+
+Thus comparing (1) and (2), we are able to verify the validity of the formula.
+
+(ii) without replacement :
+
+In this case, the sampling distribution of V = is given by
+
+V:       2                3           4
+
+P:       1/3              1/3         1/3
+
+E ( x ) = E (V) = 1/3 × 2 +1/3 × 3 + 1/3 × 4
+
+ = 3
+
+V ( x ) = Var (V) = E (v2) ­ [E(v)]2
+
+ = 1/3 × 22 +1/3 × 32 +1/3 × 42 ­ 32
+
+ = 29/3 ­ 9
+
+ = 2/3
+
+ SEx =   2
+         3
+
+Applying 13.2.8, we have
+
+SEx =           N-n
+            .   N-1
+
+         n
+
+      =  8      1×           8×1×                  3-2  =  2
+             ×  2            32                    3-1     3
+
+         3
+
+and thereby, we make the same conclusion as in the previous case.
+
+© The Institute of Chartered Accountants of India
+13.52  STATISTICS
+
+     13.2.6 TYPES OF SAMPLING
+
+There are three different types of sampling which are
+
+I. Probability Sampling
+
+II. Non ­ Probability Sampling
+
+III. Mixed Sampling
+
+In the first type of sampling there is always a fixed, pre assigned probability for each member of
+the population to be a part of the sample taken from that population . When each member of the
+population has an equal chance to belong to the sample, the sampling scheme is known as Simple
+Random Sampling. Some important probability sampling other than simple random sampling are
+stratified sampling, Multi Stage sampling, Multi Phase Sampling, Cluster Sampling and so on. In
+non- probability sampling , no probability attached to the member of the population and as such
+it is based entirely on the judgement of the sampler. Non-probability sampling is also known as
+Purposive or Judgement Sampling. Mixed sampling is based partly on some probabilistic law and
+partly on some pre decided rule. Systematic sampling belongs to this category. Some important
+and commonly used sampling process are described now.
+
+Simple Random Sampling (SRS)
+
+When the units are selected independent of each other in such a way that each unit belonging
+to the population has an equal chance of being a part of the sample, the sampling is known as
+Simple random sampling or just random sampling. If the units are drawn one by one and each
+unit after selection is returned to the population before the next unit is being drawn so that the
+composition of the original population remains unchanged at any stage of the sampling then the
+sampling procedure is known as Simple Random Sampling with replacement. If, however, once
+the units selected from the population one by one are never returned to the population before the
+next drawing is made, then the sampling is known as sampling without replacement. The two
+sampling methods become almost identical if the population is infinite i.e. vary large or a very
+large sample is taken from the population. The best method of drawing simple random sample
+is to use random sampling numbers.
+
+Simple random sampling is a very simple and effective method of drawing samples provided
+(i) the population is not very large (ii) the sample size is not very small and (iii) the population
+under consideration is not heterogeneous i.e. there is not much variability among the members
+forming the population. Simple random sampling is completely free from Sampler's biases. All
+the tests of significance are based on the concept of simple random sampling.
+
+Stratified Sampling
+
+If the population is large and heterogeneous, then we consider a somewhat, complicated sampling
+design known as stratified sampling which comprises dividing the population into a number
+of strata or sub-populations in such a way that there should be very little variations among the
+units comprising a stratum and maximum variation should occur among the different strata.
+The stratified sample consists of a number of sub samples, one from each stratum. Different
+sampling scheme may be applied to different strata and , in particular, if simple random sampling
+
+  © The Institute of Chartered Accountants of India
+SAMPLING  13.53
+
+is applied for drawing units from all the strata, the sampling procedure is known as stratified
+random sampling. The purpose of stratified sampling are (i) to make representation of all the
+sub populations (ii) to provide an estimate of parameter not only for all the strata but also and
+overall estimate (iii) reduction of variability and thereby an increase in precision.
+
+There are two types of allocation of sample size. When there is prior information that there
+is not much variation between the strata variances. We consider "Proportional allocation" or
+"Bowely's allocation where the sample sizes for different strata are taken as proportional to
+the population sizes. When the strata-variances differ significantly among themselves, we take
+recourse to "Neyman's allocation" where sample size vary jointly with population size and
+population standard deviation i.e. ni µ NiSi. Here ni denotes the sample size for the ith stratum,
+Ni and Si being the corresponding population size and population standard deviation. In case
+of Bowley's allocation, we have ni µ Ni .
+
+Stratified sampling is not advisable if (i) the population is not large (ii) some prior information is
+not available and (iii) there is not much heterogeneity among the units of population.
+
+Multi Stage Sampling
+
+In this type of complicated sampling, the population is supposed to compose of first stage sampling
+units, each of which in its turn is supposed to compose of second stage sampling units, each of
+which again in its turn is supposed to compose of third stage sampling units and so on till we
+reach the ultimate sampling unit.
+
+Sampling also, in this type of sampling design, is carried out through stages. Firstly, only a number
+of first stage units is selected. For each of the selected first stage sampling units, a number of second
+stage sampling units is selected. The process is carried out until we select the ultimate sampling
+units. As an example of multi stage sampling, in order to find the extent of unemployment in
+India, we may take state, district, police station and household as the first stage, second stage,
+third stage and ultimate sampling units respectively.
+
+The coverage in case of multistage sampling is quite large. It also saves computational labour and
+is cost-effective. It adds flexibility into the sampling process which is lacking in other sampling
+schemes. However, compared to stratified sampling, multistage sampling is likely to be less
+accurate.
+
+Systematic Sampling
+
+It refers to a sampling scheme where the units constituting the sample are selected at regular
+interval after selecting the very first unit at random i.e., with equal probability. Systematic sampling
+is partly probability sampling in the sense that the first unit of the systematic sample is selected
+probabilistically and partly non- probability sampling in the sense that the remaining units of the
+sample are selected according to a fixed rule which is non-probabilistic in nature.
+
+If the population size N is a multiple of the sample size n i.e. N = nk, for a positive integer k which
+must be less than n, then the systematic sampling comprises selecting one of the first k units at
+random, usually by using random sampling number and thereby selecting every kth unit till the
+complete, adequate and updated sampling frame comprising all the members of the population
+is exhausted. This type of systematic sampling is known as "linear systematic sampling ". K is
+known as "sample interval".
+
+  © The Institute of Chartered Accountants of India
+13.54  STATISTICS
+
+However, if N is not a multiple of n, then we may write N = nk + p, p < k and as before, we select
+the first unit from 1 to k by using random sampling number and thereafter selecting every kth
+unit in a cyclic order till we get the sample of the required size n. This type of systematic sampling
+is known as "circular systematic sampling."
+
+Systematic sampling is a very convenient method of sampling when a complete and updated
+sampling frame is available. It is less time consuming, less expensive and simple as compared to
+the other methods of sampling. However, systematic sampling has a severe drawback. If there
+is an unknown and undetected periodicity in the sampling frame and the sampling interval is
+a multiple of that period, then we are going to get a most biased sample, which, by no stretch
+of imagination, can represent the population under investigation. Furthermore, since it is not a
+probability sampling, no statistical inference can be drawn about population parameter.
+
+Purposive or Judgement sampling
+
+This type of sampling is dependent solely on the discretion of the sampler and he applies his
+own judgement based on his belief, prejudice, whims and interest to select the sample. Since this
+type of sampling is non-probabilistic, it is purely subjective and, as such, varies from person to
+person. No statistical hypothesis can be tested on the basis of a purposive sampling.
+
+       UNIT II EXERCISE
+
+Set A
+
+Answer the following questions. Each question carries one mark.
+
+1. Sampling can be described as a statistical procedure
+
+       (a) To infer about the unknown universe from a knowledge of any sample
+
+       (b) To infer about the known universe from a knowledge of a sample drawn from it
+
+       (c)To infer about the unknown universe from a knowledge of a random sample drawn from it
+
+       (d) Both (a) and (b).
+
+2. The Law of Statistical Regularity says that
+
+       (a)Sample drawn from the population under discussion possesses the characteristics of the
+            population
+
+       (b)A large sample drawn at random from the population would posses the characteristics
+            of the population
+
+       (c)A large sample drawn at random from the population would possess the characteristics
+            of the population on an average
+
+       (d) An optimum level of efficiency can be attained at a minimum cost.
+
+3. A sample survey is prone to
+
+       (a) Sampling errors                         (b) Non-sampling errors
+
+       (c) Either (a) or (b)                       (d) Both (a) and (b)
+
+© The Institute of Chartered Accountants of India
+                                                                                 SAMPLING  13.55
+
+4. The population of roses in Salt Lake City is an example of
+
+(a) A finite population                            (b) An infinite population
+
+(c) A hypothetical population                      (d) An imaginary population.
+
+5. Statistical decision about an unknown universe is taken on the basis of
+
+(a) Sample observations                            (b) A sampling frame
+
+(c) Sample survey                                  (d) Complete enumeration
+
+6. Random sampling implies
+
+(a) Haphazard sampling                             (b) Probability sampling
+
+(c) Systematic sampling                            (d) Sampling with the same probability for each unit.
+
+7. A parameter is a characteristic of
+
+(a) Population(b) Sample
+
+(c) Both (a) and (b)                               (d) (a) or (b)
+
+8. A statistic is
+
+(a) A function of sample observations (b) A function of population units
+
+(c) A characteristic of a population (d) A part of a population.
+
+9. Sampling Fluctuations may be described as
+
+(a) The variation in the values of a statistic
+
+(b) The variation in the values of a sample
+
+(c) The differences in the values of a parameter
+
+(d) The variation in the values of observations.
+
+10. The sampling distribution is
+
+(a) The distribution of sample observations
+
+(b) The distribution of random samples
+
+(c) The distribution of a parameter
+
+(d) The probability distribution of a statistic.
+
+11. Standard error can be described as
+
+(a) The error committed in sampling
+
+(b) The error committed in sample survey
+
+(c) The error committed in estimating a parameter
+
+(d) Standard deviation of a statistic.
+
+© The Institute of Chartered Accountants of India
+13.56  STATISTICS
+
+12. A measure of precision obtained by sampling is given by
+
+       (a) Standard error                          (b) Sampling fluctuation
+
+       (c) Sampling distribution                   (d) Expectation.
+
+13. As the sample size increases, standard error
+
+       (a) Increases(b) Decreases
+
+       (c) Remains constant                        (d) Decreases proportionately.
+
+14.If from a population with 25 members, a random sample without replacement of 2 members
+      is taken, the number of all such samples is
+
+       (a) 300(b) 625
+
+       (c) 50(d) 600
+
+15.A population comprises 5 members. The number of all possible samples of size 2 that can
+      be drawn from it with replacement is
+
+       (a) 100(b) 15
+
+       (c) 125(d) 25
+
+16. Simple random sampling is very effective if
+
+       (a) The population is not very large
+
+       (b) The population is not much heterogeneous
+
+       (c) The population is partitioned into several sections.
+
+       (d) Both (a) and (b)
+
+17. Simple random sampling is
+
+       (a) A probabilistic sampling                (b) A non- probabilistic sampling
+
+       (c) A mixed sampling                        (d) Both (b) and (c).
+
+18. According to Neyman's allocation, in stratified sampling
+
+       (a) Sample size is proportional to the population size
+
+       (b) Sample size is proportional to the sample SD
+
+       (c) Sample size is proportional to the sample variance
+
+       (d) Population size is proportional to the sample variance.
+
+19.Which sampling provides separate estimates for population means for different segments
+      and also an over all estimate?
+
+       (a) Multistage sampling                     (b) Stratified sampling
+
+       (c) Simple random sampling                  (d) Systematic sampling
+
+© The Institute of Chartered Accountants of India
+                                                                               SAMPLING               13.57
+
+20. Which sampling adds flexibility to the sampling process?
+
+(a) Simple random sampling                         (b) Multistage sampling
+
+(c) Stratified sampling                            (d) Systematic sampling
+
+21. Which sampling is affected most if the sampling frame contains an undetected periodicity?
+
+(a) Simple random sampling                         (b) Stratified sampling
+
+(c) Multistage sampling                            (d) Systematic sampling
+
+22. Which sampling is subjected to the discretion of the sampler?
+
+(a) Systematic sampling                            (b) Simple random sampling
+
+(c) Purposive sampling                             (d) Quota sampling.
+
+23. If a random sample of size 2 with replacement is taken from the population containing the
+     units 3,6 and 1, then the samples would be
+
+(a) (3,6),(3,1),(6,1)
+
+(b) (3,3),(6,6),(1,1)
+
+(c) (3,3),(3,6),(3,1),(6,6),(6,3),(6,1),(1,1),(1,3),(1,6)
+
+(d) (1,1),(1,3),(1,6),(6,1),(6,2),(6,3),(6,6),(1,6),(1,1)
+
+24. If a random sample of size two is taken without replacement from a population containing
+the units a,b,c and d then the possible samples are
+
+(a) (a, b),(a, c),(a, d)                           (b) (a, b),(b, c), (c, d)
+
+(c) (a, b), (b, a), (a, c),(c,a), (a, d), (d, a)   (d) (a, b), (a, c), (a, d), (b, c), (b, d), (c,d)
+
+ANSWERS
+
+Set A
+
+1. (c)   2. (c)           3. (d)                   4. (b)     5. (a)           6. (d)
+7. (a)   8. (a)           9. (a)                   10. (d)    11. (d)          12. (a)
+13. (b)  14. (a)          15. (d)                  16. (b)    17. (a)          18. (a)
+19. (b)  20. (b)          21. (d)                  22. (c)    23. (c)          24. (d)
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+

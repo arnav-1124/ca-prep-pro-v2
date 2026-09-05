@@ -1,0 +1,1578 @@
+CHAPTER  a  6
+
+DETERMINATION OF
+NATIONAL INCOME
+
+     UNIT - 1: NATIONAL INCOME
+                ACCOUNTING
+
+                                         LEARNING OUTCOMES
+
+After studying this Chapter, you will be able to understand:
+ Define national income
+ Explain the usefulness and significance of national income estimates
+ Differentiate among the various concepts of national income
+ Describe the different methods of calculation of national income
+ Outline measurement of national income in India
+ Describe the system of regional accounts in India
+
+ Identify the challenges involved in national income computation.
+
+© The Institute of Chartered Accountants of India
+  a  6.2                 BUSINESS ECONOMICS
+
+  CHAPTER OVERVIEW
+
+                         Determination of National
+                                      Income
+
+                                                     National Income
+                                                        Accounting
+
+  Different concepts of       Measurement of                               Limitations and
+     National Income     National Income in India                     Challenges of National
+                                                                       Income Computation
+
+    1.1 NATIONAL INCOME ACCOUNTING
+
+National Income Accounting, pioneered by the Nobel prize-winning economists Simon
+Kuznets and Richard Stone, is the system of macro-economic accounts from the stage of
+production of goods and services to the stage of their final disposal. Like any other accounting
+system , the national income accounts first define concepts and then construct measures
+corresponding to these concepts . National Accounts help us to understand how the various
+transactions from the stage of production of goods and services to the stage of their final
+disposal are interrelated and give us an idea of the working of an economy. It helps to meet
+the needs of Government, private analysts, policy makers and decision takers.
+
+The Central Statistical Organisation (CSO) in the Ministry of Statistics and Programme
+Implementation (MoSP&I) is responsible for the compilation of National accounts statistics.
+At the State level, State Directorates of Economics and Statistics (DESs) have the responsibility
+of compiling their State Domestic Product and other aggregates.
+
+  1.2 USEFULNESS AND SIGNIFICANCE OF NATIONAL
+           INCOME ESTIMATES
+
+National income accounts are fundamental aggregate statistics in macroeconomic analysis
+and are extremely useful, especially for the emerging and transition economies.
+
+  businesses to forecast the future demand for their products.
+
+  © The Institute of Chartered Accountants of India
+  DETERMINATION OF NATIONAL INCOME                        6.3               a
+
+  The estimates of national income show the composition and structure of national
+
+  income in terms of different sectors of the economy, the periodical variations in them
+
+  and the broad sectoral shifts in an economy over time.
+
+  Sectoral contribution to National Income information is used by the government to
+
+  decide various sector-specific development policies to increase growth rates.
+
+  National income statistics also provide a quantitative basis for macroeconomic
+
+  modelling and analysis, for assessing and choosing economic policies and for objective
+
+  statements as well as evaluation of governments' economic policies.
+
+  National income estimates throw light on income distribution and the possible
+
+  inequality in the distribution among different income categories . It facilitates the
+
+  process of comparisons of structural statistics, such as ratios of investment to growth
+
+  , taxes proceeds and fiscal deficit , or government expenditures to GDP.
+
+  International comparisons in respect of incomes and living standards assist in
+
+  determining eligibility for loans, and/or other funds or conditions under which such
+
+  loans, and/ or funds are made available.
+
+  Combined with financial and monetary data, national income data provides a guide to
+
+  make policies for growth and inflation.
+
+    1.3 DIFFERENT CONCEPTS OF NATIONAL INCOME
+
+         We begin our discussion with the basic measure of output -Gross Domestic Product,
+         or GDP. The production side of the economy transforms inputs, such as labour and
+         capital, into output, GDP. Inputs such as labour and capital are called factors of
+         production, and the payments made to factors, such as wages and interest payments,
+         are called factor payments.
+
+1.3.1 Gross Domestic Product
+
+Nominal GDP or GDPMP
+
+Gross domestic product (GDP) is the value of all final goods and services produced in the
+country within a given period. It includes the value of goods produced, such as houses and
+mobiles, and the value of services, such as telecom, health, insurance. The output of each of
+these is valued at its market price, and the values are added together to get GDPMP
+
+Nominal GDP or GDP at Current Prices in Q1 2022-23 is estimated at  64.95 lakh crore, as
+against  51.27 lakh crore in Q1 2021-22, showing a growth of 26.7 percent as compared to
+32.4 percent in Q1 2021-22
+
+  © The Institute of Chartered Accountants of India
+a  6.4  BUSINESS ECONOMICS
+
+Real GDP
+Nominal GDP increases over time for two reasons:
+1. The production of most of goods increases over time
+2. The prices of most goods also increase over time.
+If our goal is to measure production and its change over time, we need to eliminate the effect
+of increasing prices on our measure of GDP. That's why real GDP is constructed as the sum of
+the quantities of final goods times constant (rather than current prices)
+Real GDP or Gross Domestic Product (GDP) at Constant (2011-12) Prices in Q1 2022-23
+is estimated to attain a level of  36.85 lakh crore, as against  32.46 lakh crore in Q1
+2021-22, showing a growth of 13.5 percent as compared to 20.1 percent in Q1 2021-22
+
+                             REAL GDP GROWTH RATE AND INFLATION RATE
+
+      Source IMF Data Mapper Oct 2022 https://www.imf.org/en/Countries/IND
+GDP Deflator
+The calculation of real GDP gives us a useful measure of inflation known as GDP deflator. The
+GDP deflator is the ratio of nominal GDP in a given year to real GDP of that year.
+
+                                            GDP Deflator = Nominal GDP x 100
+                                                                    Real GDP
+
+  © The Institute of Chartered Accountants of India
+          DETERMINATION OF NATIONAL INCOME                         6.5  a
+
+The GDP deflator, as the name implies, can be used to `deflate' or take inflation out of GDP.
+In other words, the GDP deflator is a price index used to convert nominal GDP to real GDP
+
+                                               Real GDP = Nominal GDP x 100
+                                                               GDP Deflator
+
+The deflator measures the current level of prices relative to the level of prices in the base year.
+Since nominal GDP and real GDP must be the same in the base year, the deflator for the base
+year is always 100.
+
+As you know, inflation is a closely monitored aspect of macroeconomic performance and a
+significant variable guiding macroeconomic policy. Using the GDP deflator, the inflation rate
+between two consecutive years can be compute using the following procedure:
+
+Inflation rate in year 2 = GDP deflator in year 2 -GDP deflator in year 1 x 100
+                                                   GDP deflator in year 1
+
+GDP Deflator in India is expected to reach 154.87 points by the end of 2022, according to
+Trading Economics global macro models and analysts expectations. In the long-term, the India
+GDP Deflator is projected to trend around 167.94 points in 2023 and 175.67 points in 2024,
+according to econometric models.
+
+Inflation Rate in 2023 = (167.94 - 154.87) / 154.87 * 100
+
+Inflation Rate in 2023 as compared to 2022 will be 8.439 percent.
+Numerical Illustrations
+ILLUSTRATION 1
+Find out GDP Deflator? Interpret It
+
+Years     Nominal GDP                              Real GDP          (In Billion Rs.)
+2014             500                                   500         GDP Deflator
+2015             800                                   650
+2016            1150                                   800                100
+2017            1300                                   950              123.08
+2018            1550                                  1190              143.75
+2019            1700                                  1240              136.84
+                                                                        130.25
+                                                                        137.10
+
+SOLUTION
+
+A deflator above 100 is an indication of price levels being higher as compared to the base
+year. From years 2015 through 2019, we find that price levels are higher than that of the base
+year, the highest being in the year 2016.If the GDP deflator is greater than 100, then nominal
+
+© The Institute of Chartered Accountants of India
+a               6.6             BUSINESS ECONOMICS
+
+GDP is greater than real GDP. If the GDP deflator next year is less than the GDP deflator this
+year, then the price level has fallen; if it is greater, price levels have increased.
+
+ILLUSTRATION 2
+
+The nominal and real GDP respectively of a country in a particular year are ` 3000 Crores and
+` 4700 Crores respectively. Calculate GDP deflator and comment on the level of prices of the
+year in comparison with the base year.
+
+SOLUTION
+
+Nominal GDP =           ` 3000 Crores
+
+Real GDP = ` 4700 Crores
+
+GDP Deflator =  Nominal GDP     x 100
+                  Real GDP
+
+               3000  x  100  =  63.83
+               4700
+
+The price level has fallen since GDP deflator is less than 100 at 63.83.
+
+ILLUSTRATION 3
+
+Find nominal GDP if real GDP = 450 and price index = 120
+
+SOLUTION
+
+Nominal GDP =   Real GDP x      Price Index
+                                    100
+
+Nominal GDP = 450 x 120 = 540
+                             100
+
+ILLUSTRATION 4
+
+Suppose nominal GNP of a country in 2010 is given at ` 600 Crores and price index is given as
+base year 2010 is 100. Now let the nominal GDP increases to ` 1200 Crores in 2018 and the
+price index rises to 110, find out real GDP?
+
+SOLUTION
+
+Real GDP = Nominal GDP x 100
+                                      Price Index
+
+=1200 100 = 1090.9 Crores
+           110
+
+Net Domestic Product
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                   6.7  a
+
+As you know capital wears out, or depreciates, while it is being used to produce output, Net
+Domestic Product (NDP) is equal to GDP minus depreciation. NDP thus comes closer to
+measuring the net amount of goods and services produced in the country in a given period
+of time. It is the total value of production minus the value of capital used up in producing that
+output. Other considerations such as asset obsolescence and complete destruction are also
+taken into account by the NDP.
+
+                                 NDP MP = GDP MP ­ Depreciation
+
+As you are aware, the basis of distinction between `gross' and `net' is depreciation or
+consumption of fixed capital.
+
+              Gross = Net + Depreciation or Net = Gross ­ Depreciation
+
+1.3.2 Gross National Product (GNP)
+
+Gross National Product (GNP) is a measure of the market value of all final economic goods and
+services, produced within the domestic territory of a country by normal residents during an
+accounting year including net factor incomes from abroad. It is the total income earned by a
+nation's permanent residents (called nationals). It differs from GDP by including income that our
+citizens earn abroad and excluding income that foreigners earn here. Profits earned by Apple from
+its Indian manufacturing operations is part of India's GDP but these profits are part of USA's GNP.
+Gross National Product (GNP) is evaluated at market prices and therefore it is in fact Gross
+National Product at market prices (GNP MP).
+GNP MP = GDP MP +Factor income earned by the domestic factors of production employed in the
+rest of the world - Factor income earned by the factors of production of the rest of the world
+employed in the domestic territory.
+
+                         GNP MP = GDP MP + Net Factor Income from Abroad
+
+                    GDP MP = GNP MP ­ Net Factor Income from Abroad (NFIA)
+
+NFIA is the difference between the aggregate amount that a country's citizens and companies
+earn abroad, and the aggregate amount that foreign citizens and overseas companies earn in that
+country.
+
+          NFIA =Net compensation of employees + Net income from property and
+                                entrepreneurship + Net retained earnings
+
+If Net Factor Income from Abroad is positive, then GNPMP would be greater than GDPMP.
+
+© The Institute of Chartered Accountants of India
+a  6.8  BUSINESS ECONOMICS
+
+You might have noticed that the distinction between `national' and `domestic' is net factor
+income from abroad.
+
+                      National = Domestic + Net Factor Income from Abroad
+
+1.3.5 Net National Product at Market Prices (NNPMP)
+
+Net National Product at Market Prices (NNPMP) is a measure of the market value of all final
+economic goods and services, produced by normal residents within the domestic territory of
+a country including Net Factor Income from Abroad during an accounting year excluding
+depreciation.
+NNP MP = GNP MP ­ Depreciation
+NNP MP = NDP MP + Net Factor Income from Abroad
+NNP MP = GDP MP + Net Factor Income from Abroad ­ Depreciation
+
+1.3.6 Gross Domestic Product at Factor Cost (GDPFC)
+
+Gross domestic product (GDP) at factor cost is GDP at market prices minus net indirect
+taxes. The money value of output produced within a country's domestic limits in a year, as
+received by the factors of production, is measured by GDP at factor cost.
+Thus, we find that the basis of distinction between market price and factor cost is net indirect
+taxes (i.e., Indirect taxes - Subsidies).
+
+                            Market Price = Factor Cost + Net Indirect Taxes
+                                                  = Factor Cost + Indirect Taxes ­ Subsidies
+
+                            Factor Cost = Market Price - Net Indirect Taxes
+                                                = Market Price - Indirect Taxes + Subsidies
+
+Gross Domestic Product at Factor Cost (GDPFC)
+                                       = GDP MP ­ Indirect Taxes + Subsidies
+                                       = Compensation of employees
+                                       + Operating Surplus (rent + interest+ profit)
+                                       + Mixed Income of Self- employed
+                                       + Depreciation
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                                           6.9           a
+
+                                                   GDP at Factor Cost
+
+Industry                                                      ` in crore)                 Percentage
+                                                   Gross Domestic Product                change over
+1. agriculture, forestry and fishing                                                     previous year
+2. mining and quarrying                            Previous Year       Present Year
+3. manufacturing                                                  Q2                 Q2                  Q2
+4. electricity, gas and water supply                                                                     3.2
+5. construction                                             131,550           135,789                   -2.9
+6. trade, hotels, transport and                              25,509             24,774                   2.7
+                                                                                                         9.8
+     communication                                          187,763           192,849                    4.3
+7. financing, ins., real est. and                            22,894             25,137                   9.9
+                                                             91,556             95,489
+     business services                                                                                  10.5
+8. community, social and personal                           311,166           342,080
+                                                                                                         6.6
+     services                                      208,644             230,627
+GDP at factor cost                                                                                       6.9
+                                                   169,390             180,511
+
+                                                   1,148,472           1,227,254
+
+Factor Cost vs Basic Price vs Market Price
+
+At this stage, we need to clearly understand the difference between the concepts: `market
+price' and `factor cost and Basic Price
+
+GDP at Basic Price excludes any taxes on products the producer receives from the purchaser
+and passes on to the government (Eg: GST or Sales Tax or Services Tax) but includes any
+subsidies the producer receives from the government and uses to lower the prices charged to
+purchasers. In simple terms, the basic price is the subsidised price without tax.
+
+Basic price = factor cost + Production taxes ­ Production subsidy
+
+Relationship between Factor Cost and Basic Price:
+
+Factor cost + production tax ­ production subsidies = Basic prices.
+
+Relationship between Basic Price and Market Price:
+
+Basic Price + Product tax ­ Product Subsidy = Market Price.
+
+Note: Thus, market price includes both product tax as well as production tax while
+excluding both product and production subsidies.
+
+© The Institute of Chartered Accountants of India
+a  6.10  BUSINESS ECONOMICS
+
+1.3.7 Net Domestic Product at Factor Cost (NDPFC)
+
+Net Domestic Product at Factor Cost (NDPFC)is defined as the total factor incomes earned by
+the factors of production. In other words, it is sum of domestic factor incomes or domestic
+income net of depreciation.
+
+As mentioned above, market price includes indirect taxes imposed by government. We have
+to deduct indirect taxes and add the subsidies in order to calculate that part of domestic
+product which actually accrues to the factors of production. The measure that we obtain so is
+called Net Domestic Product at factor cost.
+
+NDPFC = NDP MP ­ Net Indirect Taxes
+                          = Compensation of employees
+                          + Operating Surplus (rent + interest+ profit)
+                          + Mixed Income of Self- employed
+
+1.3.8 Net National Product at Factor Cost (NNPFC)or National
+        Income
+
+National Income is defined as the factor income accruing to the normal residents of the
+country during a year. It is the sum of domestic factor income and net factor income from
+abroad. In other words, national income is the value of factor income generated within the
+country plus factor income from abroad in an accounting year.
+NNPFC = National Income = FID (factor income earned in domestic territory) + NFIA.
+If NFIA is positive, then national income will be greater than domestic factor incomes.
+
+1.3.9 Per Capita Income
+
+The GDP per capita is a measure of a country's economic output per person. It is obtained by
+dividing the country's gross domestic product, adjusted by inflation, by the total population.
+It serves as an indicator of the standard of living of a country.
+
+1.3.10 Personal Income
+
+While national income is income earned by factors of production, Personal Income is the
+income received by the household sector including Non-Profit Institutions Serving
+Households. Thus, national income is a measure of income earned and personal income is a
+measure of actual current income receipts of persons from all sources which may or may not
+be earned from productive activities during a given period of time. Examples of this include
+transfer payments such as social security benefits, unemployment compensation, welfare
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                   6.11  a
+
+payments etc. Individuals also contribute income which they do not actually receive; for
+example, undistributed corporate profits and the contribution of employers to social security.
+Personal income excludes retained earnings, indirect business taxes, corporate income taxes
+and contributions towards social security. Households receive interest payments from the
+firms and governments; they also make interest payments to firms and governments. As such,
+the net interest paid by households to firms and government is also deducted from national
+income. Personal income forms the basis for consumption expenditures and is derived from
+national income as follows:
+
+ PI = NI + income received but not earned ­ income earned but not received.
+ PI = NI - Undistributed profits ­ Net interest payments made by households ­
+
+           Corporate Tax +Transfer Payments to the households from firms and
+           government.
+
+An important point to remember is that national income is not the sum of personal incomes
+because personal income includes transfer payments (eg. pension) which are excluded from
+national income. Further, not all national income accrues to individuals as their personal
+income.
+
+1.3.11 Disposable Personal Income (DI)
+
+Disposable personal income is a measure of the amount of the money in the hands of the
+individuals that is available for their consumption or savings. Disposable personal income is
+derived from personal income by subtracting the direct taxes paid by individuals and other
+compulsory payments made to the government.
+
+                  DI = PI - Personal Income Taxes ­ Non tax payments
+
+Apart from the above aggregates, a few other aggregates are reported in India. These reflect
+the amount of goods and services the domestic economy has at its disposal. Two more
+concepts need to be understood, namely:
+
+1. Net National Disposable Income
+
+         Net National Disposable Income (NNDI) = Net National Income + other net current
+         transfers from the rest of the world (Receipts less payments)
+
+         Net National Disposable Income (NNDI) = NNI + net taxes on income and wealth
+         receivable from abroad + net social contributions and benefits receivable from abroad.
+
+2. Gross National Disposable Income (GNDI) = NNDI + CFC = GNI + other net current
+         transfers from the rest of the world (Receipts less payments)
+
+         (Other Current Transfers refer to current transfers other than the primary incomes)
+
+© The Institute of Chartered Accountants of India
+        a         6.12         BUSINESS ECONOMICS
+
+         (For a detailed explanation of concepts please refer `Glossary of Main Terms' Apr 1, 2020 -
+         National Accounts Statistics-Sources & Methods, 2007, MOSPI)
+
+Domestic Income may be categorized into:
+
+1. Income from domestic product accruing to the public sector which includes income from
+         property and entrepreneurship accruing to government administrative departments and
+         savings of non-departmental enterprises.
+
+2. Income from domestic product accruing to private sector = NDPFC - Income from property
+         and entrepreneurship accruing to government administrative departments - Savings of
+         non-departmental enterprises.
+
+1.3.12 Private Income
+
+Private income is a measure of the income (both factor income and transfer income) which
+accrues to private sector from all sources within and outside the country.
+
+Private Income = Factor income from net domestic product accruing to the private sector +
+Net factor income from abroad + National debt interest + Current transfers from government
++ Other net transfers from the rest of the world.
+
+Numerical Illustrations
+
+ILLUSTRATION 5
+
+From the following data, calculate NNPFC, NNPMP, GNPMP and GDPMP.
+
+Items                                              ` in Crores
+
+Operating surplus                                  2000
+
+Mixed income of self-employed                      1100
+
+Rent                                               550
+
+Profit                                             800
+
+Net indirect tax                                   450
+
+Consumption of fixed capital                       400
+
+Net factor income from abroad                      -50
+
+Compensation of employees                          1000
+
+SOLUTION
+
+GDPMP = Compensation of employees + mixed income of self-employed +
+            operating surplus + depreciation + net indirect taxes
+
+© The Institute of Chartered Accountants of India
+                DETERMINATION OF NATIONAL INCOME                        6.13  a
+
+(Note: operating surplus = rent+ profit + interest)
+
+       =1000 + 1100 + 2000 + 400 + 450 =4950
+
+GNPMP = GDPMP + NFIA = 4950 + (-50) = 4900
+
+NNPMP = GNPMP P consumption of fixed capital = 4900 ­ 400 = 4500
+
+NNPFC or NI = NNPMP ­ NIT =4500 ­ 450 = = 4050 Crores
+
+ILLUSTRATION 6
+
+From the following data, estimate National Income and Personal Income.
+
+Items                                                    ` . in Crores
+
+Net national product at market price                     1,891
+
+Income from property and entrepreneurship accruing
+
+to government administrative departments                 45
+
+Indirect taxes                                           175
+
+Subsidies                                                30
+
+Saving of non-departmental enterprises                   10
+
+Interest on National debt                                15
+
+Current transfers from government                        35
+
+Current transfers from rest of the world                 20
+
+Saving of private corporate sector                       25
+
+Corporate profit tax                                     25
+
+SOLUTION
+
+National Income = Net national product at market price ­ Indirect taxes + Subsidies
+
+                = 1,891 ­ 175 + 30 = 1746crores
+
+Personal Income =     National income ­ Income from property and entrepreneurship accruing to
+                      government administrative departments ­ Saving of non-departmental
+                      enterprises + National debt interest + Current transfers from government
+                      + Current transfers from rest of the world ­ Saving of private corporate
+                      sector ­ Corporate profit tax
+
+                = 1746 ­ 45 ­10+ 15 + 35 + 20 ­ 25 ­ 25
+
+                = 1711 Crores
+
+© The Institute of Chartered Accountants of India
+       a        6.14           BUSINESS ECONOMICS
+
+ILLUSTRATION 7
+
+Calculate the aggregate value of depreciation when the GDP at market price of a country in a
+particular year was ` 1,100 Crores. Net Factor Income from Abroad was ` 100 Crores. The value
+of Indirect taxes ­ Subsidies was ` 150 Crores and National Income was ` 850 Crores.
+
+SOLUTION
+
+Given
+
+GDPMP = 1100 Crores, NFIA = 100 Crores, NIT =150 Crores, NNPFC = 850 Crores
+
+ GDPFC = GDPMP- NIT = 1100 ­ 150 = 950
+
+GNPFC = GDPFC+ NFIA = 950 + 100 = 1050
+
+NNPFC = GNPFC- Depreciation
+
+850 = 1050- Depreciation
+
+Depreciation = 1050 ­ 850 = 200 Crores.
+
+ILLUSTRATION 8
+
+On basis of following information, calculate NNP at market price and Disposable personal income
+
+Items                                                ` in Crores
+
+NDP at factor cost                                   14900
+
+Income from domestic product accruing to government  150
+
+Interest on National debt                            170
+
+Transfer payment by government                       60
+
+Net private donation from abroad                     30
+
+Net factor income from abroad                        80
+
+Indirect taxes                                       335
+
+Direct taxes                                         100
+
+Subsidies                                            262
+
+Taxes on corporate profits                           222
+
+Undistributed profits of corporations                105
+
+SOLUTION
+
+NNP at Market price         = NNP at factor cost +indirect tax-subsidies
+
+Where NNP at factor cost = NDPFC + NFIA
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                           6.15     a
+
+                   = 14900 + 80=14980
+
+Therefore, NNP MP  = Therefore, NNP MP = 14980 + 335 ­ 262 = 15053
+
+Disposable personal income (DI) = PI- Personal income tax
+
+PI = NI + income received but not earned ­ income earned but not received
+    = 14980+ 170+60 +30 -150 -222- 105 = 14763
+
+Therefore, DI= 14763- 100 = 14663 Crores
+
+    1.4 MEASUREMENT OF NATIONAL INCOME IN INDIA
+
+1.4.1 The Circular Flow of Income
+
+Circular flow of income refers to the continuous circulation of production, income generation
+and expenditure involving different sectors of the economy. There are three different
+interlinked phases in a circular flow of income, namely: production, distribution and
+disposition as can be seen from the following figure.
+
+                                                       Figure 1.1.1
+                                               Circular Flow of Income
+
+                                                    Production of goods and
+                                                                services
+
+                    Disposition            Distribution as factor
+                                          incomes (Rent, Wages,
+                   Consumption /
+                    Investment                 Interest, Profit)
+
+(i) In the production phase, firms produce goods and services with the help of factor
+         services.
+
+(ii) In the income or distribution phase, the flow of factor incomes in the form of rent,
+         wages, interest and profits from firms to the households occurs
+
+(iii) In the expenditure or disposition phase, the income received by different factors of
+         production is spent on consumption goods and services and investment goods. This
+         expenditure leads to further production of goods and services and sustains the circular
+         flow.
+
+  © The Institute of Chartered Accountants of India
+a        6.16          BUSINESS ECONOMICS
+
+These processes of production, distribution and disposition keep going on simultaneously and
+enable us to look at national income from three different angles namely: as a flow of
+production or value added, as a flow of income and as a flow of expenditure. Each of these
+different ways of looking at national income suggests a different method of calculation and
+requires a different set of data. The details in respect of what is measured and what data are
+required for all three methods mentioned above are given in the following table.
+
+                                                        Table 1.1.1
+
+  Data requirements and Outcomes of Different Methods of National Income Calculation
+
+        Method                                     Data required  What is measured
+
+Phase of Output: Value The sum of net values added by all Contribution of production
+
+added method (Product the producing enterprises of the units
+
+Method)                country
+
+Phase of income: Income Total factor incomes generated in Relative contribution of
+
+Method                 the production of goods and factor owners
+
+                       services
+
+Phase of disposition:  Sum of expenditures of the three           Flow of consumption and
+Expenditure method     spending units in the economy,             investment expenditures
+                       namely, government, consumer
+                       households, and producing
+                       enterprises
+
+Corresponding to the three phases, there are three methods of measuring national income.
+They are: Value Added Method (alternatively known as Product Method); Income Method; and
+Expenditure Method.
+
+1.4.2 Value Added Method or Product Method
+
+National income by value added method is the sum total of net value added at factor cost
+across all producing units of the economy. The value added method measures the
+contribution of each producing enterprise in the domestic territory of the country in an
+accounting year and entails consolidation of production of each industry less intermediate
+purchases from all other industries. This method of measurement shows the unduplicated
+contribution by each industry to the total output. This method involves the following steps:
+
+Step1. Identifying the producing enterprises and classifying them into different sectors
+according to the nature of their activities
+
+All the producing enterprises are broadly classified into three main sectors namely:
+
+(i) Primary sector,
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                   6.17  a
+
+(ii) Secondary sector, and
+(iii) Tertiary sector or service sector
+These sectors are further divided into sub-sectors and each sub-sector is further divided into
+commodity group or service-group.
+Step 2. Estimating the gross value added (GVAMP) by each producing enterprise (This is the
+same as GDPMP)
+
+Gross value added (GVA MP) = Value of output ­ Intermediate consumption
+                                       = (Sales + change in stock) ­ Intermediate consumption
+
+(Note that imports are included in the value of intermediate consumption if total purchases
+are given. If domestic purchases are specifically mentioned, then imports will also be added.
+Also, sales include exports, if domestic sales are separately mentioned, exports need to be
+added)
+Step 3. Estimation of National income
+For each individual unit, Net value added is found out.
+
+                   (GVA MP) ­ Depreciation = Net value added (NVA MP)
+
+By adding net value-added or net products of all the sub-sectors of a sector, we get the value-
+added or net product of that sector. For the economy as a whole, we add the net products
+contributed by each sector to get Net Domestic Product. We subtract net indirect taxes and
+add net factor income from abroad to get national income.
+
+Net value added (NVA MP) ­ Net Indirect taxes = Net Domestic Product (NVA FC)
+
+        Net Domestic Product (NVA FC) + (NFIA) = National Income (NNP FC)
+
+The values of the following items are also included:
+(i) Own account production of fixed assets by government, enterprises and households.
+(ii) Imputed value of production of goods for self- consumption, and
+(iii) Imputed rent of owner occupied houses.
+(iv) Change in stock(inventory)
+
+© The Institute of Chartered Accountants of India
+a  6.18  BUSINESS ECONOMICS
+
+1.4.3 Income Method
+
+Production is carried out by the combined effort of all factors of production. The factors are
+paid factor incomes for the services rendered. In other words, whatever is produced by a
+producing unit is distributed among the factors of production for their services.
+
+Under Factor Income Method, also called Factor Payment Method or Distributed Share
+Method, national income is calculated by summation of factor incomes paid out by all
+production units within the domestic territory of a country as wages and salaries, rent, interest,
+and profit. By definition, it includes factor payments to both residents and non- residents.
+
+Thus,
+
+         NDPFC = Sum of factor incomes paid out by all production units within the
+                        domestic territory of a country
+
+NNP FC or National Income= Compensation of employees
+                                       + Operating Surplus (rent + interest+ profit)
+                                       + Mixed Income of Self- employed
+                                       + Net Factor Income from Abroad
+
+Only incomes earned by owners of primary factors of production are included in national
+income. Thus, while wages of labourers will be included, pensions of retired workers will be
+excluded from national income. Compensation of employees includes, apart from wages and
+salaries, bonus, dearness allowance, commission, employers' contribution to provident fund
+and imputed value of compensation in kind. Non-labour income includes rent (actual and
+imputed), royalty, interest on loans availed for productive services, dividends, undistributed
+profits of corporations before taxes, and profits of unincorporated enterprises and of
+government enterprises.
+
+(Note: Interest paid by the government on public debt, interest on consumption loans and
+interest paid by one firm to another are excluded.
+
+                           Profit =Corporate taxes+ dividend retained+ earnings)
+
+While using income method, capital gains, windfall profits, transfer incomes and income from
+sale of second-hand goods and financial assets and payments out of past savings are not
+included. However, commissions, brokerages and imputed value of services provided by
+owners of production units will be included as these add to the current flow of goods and
+services.
+
+Usually it is difficult to separate labour income from capital income because in many instances
+people provide both labour and capital services. Such is the case with self-employed people
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                   6.19  a
+
+like lawyers, engineers, traders, proprietors etc. In economies where subsistence production
+and small commodity production is dominant, most of the incomes of people would be of
+mixed type. In sectors such as agriculture, trade, transport etc. in underdeveloped countries
+(including India), it is difficult to differentiate between the labour element and the capital
+element of incomes of the people. In order to overcome this difficulty a new category of
+incomes, called `mixed income' is introduced which includes all those incomes which are
+difficult to separate.
+
+1.4.4 Expenditure Method
+
+In the expenditure approach, also called Income Disposal Approach, national income is the
+aggregate final expenditure in an economy during an accounting year.
+
+                                       GDPMP =  Final Expenditure
+
+In this approach to measuring GDP which considers the demand side of the products, we add
+up the value of the goods and services purchased by each type of final user mentioned below.
+
+1. Final Consumption Expenditure
+
+         (a) Private Final Consumption Expenditure (PFCE)
+
+                   To measure this, the volume of final sales of goods and services to consumer
+                   households and non-profit institutions serving households acquired for
+                   consumption (not for use in production) are multiplied by market prices and
+                   then summation is done. It also includes the value of primary products which
+                   are produced for own consumption by the households, payments for domestic
+                   services which one household renders to another, the net expenditure on
+                   foreign financial assets or net foreign investment. Land and residential
+                   buildings purchased or constructed by households are not part of PFCE. They
+                   are included in gross capital formation. Thus, only expenditure on final goods
+                   and services produced in the period for which national income is to be
+                   measured and net foreign investment are included in the expenditure method
+                   of calculating national income.
+
+         (b) Government Final Consumption Expenditure
+
+                   Since the collective services provided by the governments such as defence,
+                   education, healthcare etc. are not sold in the market, the only way they can be
+                   valued in money terms is by adding up the money spent by the government in
+                   the production of these services. This total expenditure is treated as
+                   consumption expenditure of the government. Government expenditure on
+                   pensions, scholarships, unemployment allowance etc. should be excluded
+                   because these are transfer payments.
+
+© The Institute of Chartered Accountants of India
+a  6.20  BUSINESS ECONOMICS
+
+2. Gross Domestic Capital formation
+
+         Gross domestic fixed capital formation (Gross Investment) is that part of country's total
+         expenditure which is not consumed but added to the nation's fixed tangible assets and
+         stocks. It consists of the acquisition of fixed assets and the accumulation of stocks. The
+         stock accumulation is in the form of changes in stock of raw materials, fuels, finished
+         goods and semi-finished goods awaiting completion. Thus, gross investment includes
+         final expenditure on machinery and equipment and own account production of
+         machinery and equipment, expenditure on construction, expenditure on changes in
+         inventories, and expenditure on the acquisition of valuables such as, jewellery and
+         works of art.
+
+3. Net Exports
+
+         Net exports are the difference between exports and imports of a country during the
+         accounting year. It can be positive or negative.
+
+How do we arrive at national income or NNPFC using the expenditure method?
+
+GDPMP = C+ GDFC + NX
+
+GNPMP =GDPMP + NFIA
+
+GNPFC =GNPMP -NIT
+
+NNPFC = GNPFC ­ Depreciation
+
+Ideally, all the three methods of national income computation should arrive at the same figure.
+When the national income of a country is measured separately using these methods, we get a
+three dimensional view of the economy. Each method of measuring GDP is subject to
+measurement errors and each method provides a check on the accuracy of the other methods.
+By calculating total output in several different ways and then trying to resolve the differences, we
+will be able to arrive at a more accurate measure than would be possible with one method alone.
+Moreover, different ways of measuring total output give us different insights into the structure of
+our economy.
+
+Income method may be most suitable for developed economies where people properly file their
+income tax returns. With the growing facility in the use of the commodity flow method of
+estimating expenditures, an increasing proportion of the national income is being estimated by
+expenditure method. As a matter of fact, countries like India are unable to estimate their national
+income wholly by one method. Thus, in the agricultural sector, net value added is estimated by
+the production method, in the small scale sector net value added is estimated by the income
+method and in the construction sector net value added is estimated by the expenditure method.
+
+© The Institute of Chartered Accountants of India
+                 DETERMINATION OF NATIONAL INCOME                  6.21  a
+
+Numerical Illustrations
+
+ILLUSTRATION 9
+
+Calculate National Income by Value Added Method with the help of following data-
+
+Particulars                                        ` (in Crores)
+
+Sales                                                    700
+
+Opening stock                                            500
+
+Intermediate Consumption                                 350
+
+Closing Stock                                            400
+
+Net Factor Income from Abroad                            30
+
+Depreciation                                             150
+
+Excise Tax                                               110
+
+Subsidies                                                50
+
+SOLUTION
+
+NVA(FC)          = GDP (MP) ­Depreciation +NFIA- Net Indirect Tax
+
+Where GVA(MP)    = Value of output- intermediate consumption
+
+Value of Output  = Sales+ change in stock
+
+                 = 700+ (400-500)=600
+
+GVA(MP)          = 600 ­ 350= 250
+
+Therefore NI     = 250-150 +30-(110-50)
+
+                 = 70 Crores
+
+ILLUSTRATION 10
+
+Calculate the Operating Surplus with the help of following data-
+
+Particulars                                        ` in Crores
+
+Sales                                              4000
+
+Compensation of employees                          800
+
+Intermediate consumption                           600
+
+Rent                                               400
+
+Interest                                           300
+
+© The Institute of Chartered Accountants of India
+        a         6.22        BUSINESS ECONOMICS
+
+Net indirect tax                                   500
+
+Consumption of Fixed Capital                       200
+
+Mixed Income                                       400
+
+SOLUTION
+
+GVAMP         = Gross Value OutputMP ­ Intermediate consumption
+              = (Sales + change in stock) ­ Intermediate consumption
+
+              = 4000-600 = 3400
+
+GDPMP         = GVAMP = 3400 Crores
+NDPMP         = GDPMP ­ consumption of fixed capital
+              = 3400 ­ 200
+
+              = 3200 Crores
+
+NDP FC        = NDPMP ­ NIT
+              = 3200 ­ 500 = 2700 Crores
+
+NDPFC         = Compensation of employees + Operating surplus + Mixed income
+2700          = 800 + Operating Surplus + 400
+
+Operating surplus = 1500 Crores
+ILLUSTRATION 11
+
+Calculate national income by value added method.
+
+Particulars                                                           (` in crores)
+Value of output in primary sector                                               2000
+Intermediate consumption of primary sector                                       200
+Value of output of secondary sector                                             2800
+Intermediate consumption of secondary sector                                     800
+Value of output of tertiary sector                                              1600
+Intermediate consumption of tertiary sector                                      600
+Net factor income from abroad                                                     -30
+Net indirect taxes                                                               300
+Depreciation                                                                     470
+
+© The Institute of Chartered Accountants of India
+               DETERMINATION OF NATIONAL INCOME                     6.23          a
+
+SOLUTION
+
+GDPMP          = (Value of output in primary sector - intermediate consumption of primary
+                        sector) + (value of output in secondary sector - intermediate consumption
+                        of secondary sector) + (value of output in tertiary sector - intermediate
+                        consumption of tertiary sector)
+
+       Value of output in primary sector                           = 2000
+
+       - Intermediate consumption of primary sector                = 200
+
+       + Value of output in secondary sector                       = 2800
+
+       - Intermediate consumption in secondary sector              = 800
+
+       + Value of output in tertiary sector                        = 1600
+
+       - Intermediate consumption of tertiary sector               = 600
+
+       GDP MP =                                                    ` 4800 Crores
+
+NNPFC = GDPMP + NFIA -NIT-Depreciation
+
+NNPFC =National income= 4800+(-30)-300-470                         = 4000 Crores
+ILLUSTRATION 12
+
+Calculate Net Value Added by Factor Cost from the following data
+
+Items                                                 ` in Crores
+
+Purchase of materials                                  85
+
+Sales                                                  450
+
+Depreciation                                           30
+
+Opening stock                                          40
+
+Closing stock                                          30
+
+Excise tax                                             45
+
+Intermediate consumption                               200
+
+Subsidies                                              15
+
+SOLUTION
+
+GVA MP         = Sales+ change in stock - Intermediate consumption
+
+               = 450+ (30-40) -200
+
+               = 240Crores
+
+© The Institute of Chartered Accountants of India
+          a  6.24               BUSINESS ECONOMICS
+
+NVAMP        = GVAMP ­ Depreciation
+
+NVAMP        = 240-30 = 210 Crores
+
+NVAFC        = NVAMP ­ (indirect tax - subsidies)
+
+             = 210 ­ (45 -15) = 180Crores
+
+ILLUSTRATION 13
+
+Calculate NI with the help of Expenditure method and income method with the help of following
+data:
+
+Items                                              ` in Crores
+
+Compensation of employees                          1,200
+
+Net factor income from Abroad                      20
+
+Net indirect taxes                                 120
+
+Profit                                             800
+
+Private final consumption expenditure              2,000
+
+Net domestic capital formation                     770
+
+Consumption of fixed capital                       130
+
+Rent                                               400
+
+Interest                                           620
+
+Mixed income of self-employed                      700
+
+Net export                                         30
+
+Govt. final consumption expenditure                1100
+
+Operating surplus                                  1820
+
+Employer's contribution to social security scheme  300
+
+SOLUTION
+
+By Expenditure method
+
+GDPMP        = Private final consumption expenditure + Government final consumption
+                 expenditure + Gross domestic capital formation (Net domestic capital
+                 formation+ depreciation) + Net export
+
+             = 2000 + 1100 + (770+ 130) + 30= 4030Crores
+
+© The Institute of Chartered Accountants of India
+             DETERMINATION OF NATIONAL INCOME                             6.25  a
+
+NNPFC or NI = GDPMP- depreciation + NFIA ­ NIT
+
+             = 4030 ­ 130 + 20 ­ 120= 3800 Crores
+
+By Income method
+
+NNPFC or NI = compensation of employees+ operating surplus+ Mixed income of self-
+                       employed + NFIA
+
+                   = 1200+ 1820+ 700+ 20= 3740Crores
+ILLUSTRATION 14
+
+From the following data calculate (a) Gross Domestic Product at Factor Cost, and (b) Gross
+Domestic Product at Market price
+
+Items                                                 ` in Crores
+
+Gross national product at factor cost                 61,500
+
+Net exports                                           (-) 50
+
+Compensation of employees                             3000
+
+Rent                                                                800
+
+Interest                                                            900
+
+Profit                                                1,300
+Net indirect taxes                                      300
+Net domestic capital formation                          800
+
+Gross domestic capital formation                                    900
+
+Factor income to abroad                                             80
+
+SOLUTION
+
+(a) GDP at factor cost =               NDP at factor cost + Depreciation
+
+                           =           Compensation of employees+ Rent+ Interest + Profit
+
+                                       + Mixed income+ (Gross domestic capital formation - Net
+
+                                       domestic capital formation)
+
+                           =           ` 3,000 + ` 800 + ` 900 + ` 1,300 + (` 900 - ` 800)
+
+                           =           ` 6100 Crores
+
+© The Institute of Chartered Accountants of India
+         a       6.26         BUSINESS ECONOMICS
+
+(b) Gross Domestic Product at Market Price
+
+       = GDP at factor cost + Net Indirect taxes =` 6100 + ` 300
+
+       = 6400 Crores
+
+ILLUSTRATION 15
+
+Calculate NNPFC. By expenditure method with the help of following information-
+
+Items                                                  ` in Crores
+
+Private final consumption expenditure                  10
+
+Net Import                                             20
+
+Public final consumption expenditure                   05
+
+Gross domestic fixed capital formation                 350
+
+Depreciation                                           30
+
+Subsidy                                                100
+
+Income paid to abroad                                  20
+
+Change in stock                                        30
+
+Net acquisition of valuables                           10
+
+SOLUTION
+
+Calculation of national income by expenditure method:
+
+GDPMP = Government final consumption expenditure (Public final consumption expenditure) +
+             Private final consumption expenditure + Gross domestic capital formation (Gross
+             domestic fixed capital formation + change stock + Net acquisition of valuables) + Net
+             export (Note: As net import is20, hence, net export is -20)
+
+       = 5 +10 + [350 + 30 +10 ]+(- 20) = 5+10+390-20 = 385 Crores
+
+NNPFC = GDPMP ­ Depreciation + Net factor income from abroad (Income from abroad ­ Income
+             paid to abroad) ­ Net Indirect tax (Indirect tax ­ subsidies)
+
+       = 385 ­ 30 + [0 ­ 20] ­ [0-100] = 385 ­ 30 ­ 20 + 100 = 435 Crores.
+
+     1.5 THE SYSTEM OF REGIONAL ACCOUNTS IN INDIA
+
+Regional accounts provide an integrated database on the innumerable transactions taking
+place in the regional economy and help decision making at the regional level. At present,
+practically all the states and union territories of India compute state income estimates and
+
+© The Institute of Chartered Accountants of India
+DETERMINATION OF NATIONAL INCOME                   6.27  a
+
+district level estimates. State Income or Net State Domestic Product (NSDP) is a measure in
+monetary terms of the volume of all goods and services produced in the state within a given
+period of time (generally a year) accounted without duplication. Per Capita State Income is
+obtained by dividing the NSDP (State Income) by the midyear projected population of the
+state.
+
+The state level estimates are prepared by the State Income Units of the respective State
+Directorates of Economics and Statistics (DESs). The Central Statistical Organisation assists the
+States in the preparation of these estimates by rendering advice on conceptual and
+methodological problems. In the preparation of state income estimates, certain activities such
+as railways, communications, banking and insurance and central government administration,
+that cut across state boundaries, and thus their economic contribution cannot be assigned to
+any one state directly are known as the `Supra-regional sectors' of the economy. The estimates
+for these supra regional activities are compiled for the economy as a whole and allocated to
+the states on the basis of relevant indicators.
+
+    1.6 GDP AND WELFARE
+
+Can the GDP of a country be taken as an index of the welfare of people in that country? There
+are many reasons to dispute the validity of GDP as a perfect measure of well-being. In fact,
+GDP measures our ability to obtain many requirements to make our life better; yet leave out
+many important aspects which ensure good quality of life for all. GDP measures exclude the
+following which are critical for the overall wellbeing of citizens.
+
+(a) Income distributions and, therefore, GDP per capita is a completely inadequate
+         measure of welfare. Countries may have significantly different income distributions
+         and, consequently, different levels of overall well-being for the same level of per capita
+         income.
+
+(b) Quality improvements in systems and processes due to technological as well as
+         managerial innovations which reflect true growth in output from year to year.
+
+(c) Productions hidden from government authorities, either because those engaged in it
+         are evading taxes or because it is illegal (drugs, gambling etc.).
+
+(d) Nonmarket production (with a few exceptions) and Non-economic contributors to
+         well-being for example: health of a country's citizens, education levels, political
+         participation, or other social and political factors that may significantly affect well-
+         being levels.
+
+(e) The disutility of loss of leisure time. We know that, other things remaining the same, a
+         country's GDP rises if the total hours of work increase.
+
+© The Institute of Chartered Accountants of India
+a  6.28  BUSINESS ECONOMICS
+
+(f) Economic 'bads' for example: crime, pollution, traffic congestion etc which make us
+         worse off.
+
+(g) The volunteer work and services rendered without remuneration undertaken in the
+         economy, even though such work can contribute to social well-being as much as paid
+         work.
+
+(h) Many things that contribute to our economic welfare such as, leisure time, fairness,
+         gender equality, security of community feeling etc.,
+
+(i) Both positive and negative externalities which are external effects that do not form
+         part of market transactions
+
+(j) The distinction between production that makes us better off and production that only
+         prevents us from becoming worse off, for e.g. defence expenditures such as on police
+         protection. Increased expenditure on police due to increase in crimes may increase
+         GDP but these expenses only prevent us from becoming worse off. However, no
+         reflection is made in national income of the negative impacts of higher crime rates. As
+         another example, automobile accidents result in production of repairs, output of
+         medical services, insurance, and legal services all of which are production included in
+         GDP just as any other production.
+
+    1.7 LIMITATIONS AND CHALLENGES OF NATIONAL
+             INCOME COMPUTATION
+
+There are innumerable limitations and challenges in the computation of national income. The
+task is more complex in underdeveloped and developing countries. Following are the general
+dilemmas in measurement of national income.
+There are many conceptual difficulties related to measurement which are difficult to resolve,
+such as:
+(a) lack of an agreed definition of national income,
+(b) accurate distinction between final goods and intermediate goods,
+(c) issue of transfer payments,
+(d) services of durable goods,
+(e) difficulty of incorporating distribution of income,
+(f) valuation of a new good at constant prices, and
+(g) valuation of government services
+
+© The Institute of Chartered Accountants of India
+  DETERMINATION OF NATIONAL INCOME                                    6.29  a
+
+Other challenges relate to:
+(a) Inadequacy of data and lack of reliability of available data,
+(b) presence of non-monetised sector,
+(c) production for self-consumption,
+(d) absence of recording of incomes due to illiteracy and ignorance,
+(e) lack of proper occupational classification, and
+(f) accurate estimation of consumption of fixed capital
+
+SUMMARY
+
+  National income accounts are extremely useful for analyzing and evaluating the
+
+  performance of an economy, knowing the composition and structure of the national
+
+  income, income distribution, economic forecasting and for choosing economic policies
+
+  and evaluating them.
+
+  Gross domestic product (GDP MP) is a measure of the market value of all final economic
+
+  goods and services, gross of depreciation, produced within the domestic territory of a
+
+  country during a given time period gross of depreciation.
+
+  Capital goods (business plant and equipment purchases) and inventory investment--
+
+  the net change in inventories of final goods awaiting sale or of materials used in the
+
+  production are counted in GDP
+
+  To eliminate the effect of prices, in addition to computing GDP in terms of current
+
+  market prices, termed `nominal GDP' or GDP at current prices,the national income
+
+  accountants also calculate `real GDP 'or GDP at constant prices which is the value of
+
+  domestic product in terms of constant prices of a chosen base year.
+
+  GNP MP = GDP MP + Net Factor Income from Abroad
+
+  NDP MP = GDP MP - Depreciation
+
+  NDP MP =NNP MP - Net Factor Income from Abroad
+
+  NNP MP = GNP MP - Depreciation
+
+  Market Price = Factor Cost + Net Indirect Taxes= Factor Cost + Indirect Taxes ­
+
+  Subsidies
+
+  Gross Domestic Product at Factor Cost (GDPFC) = GDP MP ­ Indirect Taxes + Subsidies
+
+  Net Domestic Product at Factor Cost (NDPFC)is defined asthe total factor incomes
+
+  earned by the factors of production.
+
+  © The Institute of Chartered Accountants of India
+  a   6.30  BUSINESS ECONOMICS
+
+  Net National Product at Factor Cost (NNPFC)or National Income
+
+  NNPFC = National Income = FID (factor income earned in domestic territory) + NFIA.
+
+  Personal income is a measure of the actual current income receipt of persons from all
+
+  sources. Disposable Personal Income (DI) that is available for their consumption or
+
+  savings DI = PI - Personal Income Taxes
+
+  Circular flow of income refers to the continuous interlinked phases in circulation of
+
+  production, income generation and expenditure involving different sectors of the
+
+  economy.
+
+  Product Method or Value Added Method is also called Industrial Origin Method or Net
+
+  Output Method and entails the consolidation of the production of each industry less
+
+  intermediate purchases from all other industries.
+
+  Under income method, national income is calculated by summation of factor incomes
+
+  paid out by all production units within the domestic territory of a country as wages
+
+  and salaries, rent, interest, and profit. Transfer incomes are excluded.
+
+  Under the expenditure approach, also called Income Disposal Approach, national
+
+  income is the aggregate final expenditure in an economy during an accounting year
+
+  composed of final consumption expenditure (private& government), gross domestic
+
+  capital formation and net exports.
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Type Questions
+
+1. The concept of `resident unit' involved in the definition of GDP denotes
+
+  (a) A business enterprise which belongs to a citizen of India with production units solely
+           situated in India
+
+  (b) The unit having predominant economic interest in the economic territory of the
+           country for one year or more irrespective of the nationality or legal status
+
+  (c) A citizen household which had been living in India during the accounting year and
+           one whose economic interests are solely in India
+
+  (d) Households and business enterprises composed of citizens of India alone living in
+           India during the accounting year
+
+2. Read the following statements and answer the following question.
+
+  I.  Intermediate consumption consists of the value of the goods and services consumed
+
+      as inputs by a process of production,
+
+  © The Institute of Chartered Accountants of India
+    DETERMINATION OF NATIONAL INCOME                       6.31  a
+
+II. Intermediate consumption excludes fixed assets whose consumption is recorded as
+         consumption of fixed capital.
+
+(a) Only I is true
+
+(b) Both I and II are true
+
+(c) Only II is true
+
+(d) Neither I nor II is true
+
+3. Gross Domestic Product (GDP) of any nation
+
+(a) excludes capital consumption and intermediate consumption
+
+(b) is inclusive of capital consumption or depreciation
+
+(c) is inclusive of indirect taxes but excludes subsidies
+
+(d) None of the above
+
+4. Read the following statements
+
+I.  `Value added' refers to the difference between value of output and purchase of
+
+    intermediate goods.
+
+II. `Value added' represents the contribution of labour and capital to the production
+         process.
+
+(a) Statements I and II are incorrect
+
+(b) Statements I and II are correct
+
+(c) Statement I is correct and II is incorrect
+
+(d) Statement II is correct and I is incorrect
+
+5. Non-economic activities are
+
+(a) those activities whose value is excluded from national income calculation as it
+         will involve double counting
+
+(b) those which produce goods and services, but since these are not exchanged in a
+         market transaction they do not command any market value
+
+(c) those which do not involve production of goods and services as they are meant
+         to provide hobbies and leisure time activities
+
+(d) those which result in production for self consumption and therefore not included
+         in national income calculation
+
+6. Which of the following does not enter into the calculation of national income?
+
+(a) Exchange of previously produced goods
+
+© The Institute of Chartered Accountants of India
+a  6.32  BUSINESS ECONOMICS
+
+         (b) Exchange of second hand goods
+         (c) Exchange of stocks and bonds
+         (d) All the above
+7. Which of the following enters into the calculation of national income?
+         (a) The value of the services that accompany the sale
+         (b) Additions to inventory stocks of final goods and materials
+         (c) Stocks and bonds sold during eth current year
+         (d) (a) and (b) above
+8. Gross National Product at market prices GNP MP is
+         (a) GDP MP + Net Factor Income from Abroad
+         (b) GDP MP - Net Factor Income from Abroad
+         (c) GDP MP - Depreciation
+         (d) GDP MP + Net Indirect Taxes
+9. Choose the correct statement
+         (a) GNP includes earnings of Indian corporations overseas and Indian residents
+
+                   working overseas; but GDP does not include these
+         (b) NNPFC = National Income = FID (factor income earned in domestic
+
+                   territory) ­ NFIA.
+         (c) Capital goods and inventory investment are excluded from computation of GDP
+         (d) NDPMP = GDPMP + Depreciation
+10. The basis of distinction between market price and factor cost is
+         (a) net factor income from abroad
+         (b) net indirect taxes (i.e., Indirect taxes - Subsidies)
+         (c) net indirect taxes (i.e., Indirect taxes + Subsidies)
+         (d) depreciation ( consumption of fixed capital)
+11. If net factor income from abroad is positive, then
+         (a) national income will be greater than domestic factor incomes.
+         (b) national income will be less than domestic factor incomes.
+         (c) net exports will be negative
+
+© The Institute of Chartered Accountants of India
+     DETERMINATION OF NATIONAL INCOME                               6.33  a
+
+         (d) domestic factor incomes will be greater than national income
+12. The GDP per capita is
+
+         (a) a measure of a country's economic output per person
+         (b) actual current income receipts of persons
+         (c) national income divided by population
+         (d) (a)and (c) above
+13. Which of the following is an example of transfer payment?
+         (a) Old age pensions and family pensions
+         (b) Scholarships given to deserving diligent students.
+         (c) Compensation given for loss of property due to floods
+         (d) All the above
+14. Mixed income of the self -employed means
+         (a) net profits received by self -employed people
+         (b) outside wages received by self- employed people
+         (c) combined factor payments which are not distinguishable,
+         (d) wages due to non- economic activities
+15. Which of the following is added to national income while calculating personal income?
+         (a) Transfer payments to individuals
+         (b) Undistributed profits of corporate
+         (c) Transfer payments made to foreigners
+         (d) Mixed income of self employed
+
+ANSWERS
+
+1.   (b) 2.   (b) 3.                               (b) 4.   (b) 5.        (b)
+
+6.   (d) 7.   (d) 8.                               (a) 9.   (a) 10.       (b)
+
+11.  (a) 12.  (d) 13.                              (d) 14.  (c) 15.       (a)
+
+© The Institute of Chartered Accountants of India
+

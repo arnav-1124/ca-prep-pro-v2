@@ -1,0 +1,1558 @@
+14 CHAPTER
+
+MEASURES OF CENTRAL
+TENDENCY AND DISPERSION
+
+After reading this chapter, students will be able to understand:
+ To understand different measures of central tendency, i.e. Arithmetic Mean, Median, Mode,
+
+      Geometric Mean and Harmonic Mean, and computational techniques of these measures.
+ To learn comparative advantages and disadvantages of these measures and therefore, which
+
+      measures to use in which circumstance.
+
+   © The Institute of Chartered Accountants of India
+14.2  STATISTICS
+
+In many a case, like the distributions of height, weight, marks, profit, wage and so on, it has been
+noted that starting with rather low frequency, the class frequency gradually increases till it reaches
+its maximum somewhere near the central part of the distribution and after which the class frequency
+steadily falls to its minimum value towards the end. Thus, central tendency may be defined as the
+tendency of a given set of observations to cluster around a single central or middle value and the
+single value that represents the given set of observations is described as a measure of central
+tendency or, location, or average. Hence, it is possible to condense a vast mass of data by a single
+representative value. The computation of a measure of central tendency plays a very important
+part in many a sphere. A company is recognized by its high average profit, an educational
+institution is judged on the basis of average marks obtained by its students and so on. Furthermore,
+the central tendency also facilitates us in providing a basis for comparison between different
+distribution. Following are the different measures of central tendency:
+
+(i) Mean
+
+        Arithmetic Mean (AM)
+
+        Geometric Mean (GM)
+        Harmonic Mean (HM)
+
+(ii) Median (Me)
+(iii) Mode (Mo)
+
+Following are the criteria for an ideal measure of central tendency:
+(i) It should be properly and unambiguously defined.
+(ii) It should be easy to comprehend.
+(iii) It should be simple to compute.
+(iv) It should be based on all the observations.
+(v) It should have certain desirable mathematical properties.
+(vi) It should be least affected by the presence of extreme observations.
+
+For a given set of observations, the AM may be defined as the sum of all the observations divided
+by the number of observations. Thus, if a variable x assumes n values x1, x2, x3,...........xn, then the
+AM of x, to be denoted by X , is given by,
+
+      X             x1     x2    x3   ................   xn
+                                      n
+
+                    n
+
+                   =   xi
+
+                    i1
+
+                        n
+
+© The Institute of Chartered Accountants of India
+                                             MEASURES OF CENTRAL TENDENCY AND DISPERSION                       14.3
+
+                         X =      xi                                       ..........................(14.1.1)
+                                 n
+
+In case of a simple frequency distribution relating to an attribute, we have
+
+                        x      f1x1   f2x2    f3x3   .................     fnxn
+                                     f1  f2   f3    .................  fn
+
+                                fixi
+                            =
+                                     fi
+
+                         X =      fixi                                     ..........................(14.1.2)
+                                 N
+
+assuming the observation xi occurs fi times, i=1,2,3,........n and N=fi.
+
+In case of grouped frequency distribution also we may use formula (14.1.2) with xi as the mid
+value of the i-th class interval, on the assumption that all the values belonging to the i-th
+
+class interval are equal to xi.
+However, in most cases, if the classification is uniform, we consider the following formula
+
+for the computation of AM from grouped frequency distribution:
+
+         x  A            fidi    C                  ................................(14.1.3)
+                        N
+
+Where,  di       xi  A
+                     C
+
+        A = Assumed Mean
+
+        C = Class Length
+
+ILLUSTRATIONS:
+
+Example 14.1.1: Following are the daily wages in Rupees of a sample of 9 workers: 58, 62, 48, 53,
+70, 52, 60, 84, 75. Compute the mean wage.
+
+Solution: Let x denote the daily wage in rupees.
+
+Then as given, x1=58, x2=62, x3= 48, x4=53, x5=70, x6=52, x7=60, x8=84 and x9=75.
+Applying (14.1.1) the mean wage is given by,
+
+           9
+
+        xi
+x = i=1
+              9
+              (58  62   48  53  70           52  60  84  75)
+=       `                           9
+
+=`            562
+               9
+
+= ` 62.44.
+
+© The Institute of Chartered Accountants of India
+14.4       STATISTICS
+
+Example 14.1.2: Compute the mean weight of a group of BBA students of St. Xavier's College
+from the following data:
+
+Weight in kgs.             44 ­ 48                 49 ­ 53 54 ­ 58 59 ­ 63 64 ­ 68 69 ­ 73
+
+No. of Students            3                       4             5      7   9                8
+
+Solution: Computation of mean weight of 36 BBA students
+
+                                                   Table 14.1.1
+
+         Weight in kgs.          No. of                Mid-Value (xi)             fixi
+                (1)           Student (fi)                    (3)           (4) = (2) x (3)
+
+                                   (2)                                         138
+                                                                               204
+         44 ­ 48                    3                               46         280
+         49 ­ 53                                                               427
+         54 ­ 58                    4                               51         594
+         59 ­ 63                                                               568
+         64 ­ 68                    5                               56
+         69 ­ 73                                                                 2211
+         Total                      7                               61
+
+                                    9                               66
+
+                                    8                               71
+
+                                    36                              ­
+
+Applying (14.1.2), we get the average weight as
+
+       x  fixi
+         N
+
+      =  2211    kgs.
+          36
+
+      = 61.42 kgs.
+
+Example 14.1.3: Find the AM for the following distribution:
+
+Class Interval 350 ­ 369 370 ­ 389 390 ­ 409 410 ­ 429 430 ­ 449 450 ­ 469 470 ­ 489
+
+      Frequency        23     38                   58            82     65  31               11
+
+Solution: We apply formula (14.1.3) since the amount of computation involved in finding the
+AM is much more compared to Example 14.1.2. Any mid value can be taken as A. However,
+usually A is taken as the middle most mid-value for an odd number of class intervals and any
+one of the two middle most mid-values for an even number of class intervals. The class length is
+taken as C.
+
+© The Institute of Chartered Accountants of India
+                                 MEASURES OF CENTRAL TENDENCY AND DISPERSION                              14.5
+
+                             Table 14.1.2 Computation of AM
+
+Class Interval    Frequency(fi) Mid-Value(xi)                     di      xi      A              fidi
+                                                                               c
+       (1)                                                                                 (5) = (2)X(4)
+   350 ­ 369                                                   =  xi      419.50                ­ 69
+   370 ­ 389                                                              20                    ­ 76
+   390 ­ 409                                                                                    ­ 58
+   410 ­ 429            (2)                        (3)                    (4)                       0
+   430 ­ 449                                                                                      65
+   450 ­ 469            23                         359.50                 ­3                      62
+   470 ­ 489                                                                                      33
+                        38                         379.50                 ­2                    ­ 43
+     Total
+                        58                         399.50                 ­1
+
+                        82                         419.50 (A)             0
+
+                        65                         439.50                 1
+
+                        31                         459.50                 2
+
+                        11                         479.50                 3
+
+                        308                            ­                  ­
+
+The required AM is given by
+
+ x  A  fidi         C
+      N
+
+= 419.50 +        ­ 43  ×20
+
+                   308
+
+= 419.50 ­ 2.79
+
+= 416.71
+
+Example 14.1.4: Given that the mean height of a group of students is 67.45 inches. Find the
+missing frequencies for the following incomplete distribution of height of 100 students.
+
+Height in inches        60 ­ 62                    63 ­ 65     66 ­ 68            69 ­ 71  72 ­ 74
+
+No. of Students         5                          18          ­                     ­     8
+
+Solution: Let x denote the height and f3 and f4 as the two missing frequencies.
+
+© The Institute of Chartered Accountants of India
+14.6      STATISTICS
+
+                                                   Table 14.1.3
+
+                                      Estimation of missing frequencies
+
+      CI                 Frequency                 Mid - Value (xi)  di    xi ­A    fidi
+                                                                            c
+
+                                (fi)                                 xi ­67
+                                                                       3
+
+      (1)                       (2)                (3)                   (4)        (5) = (2) x (4)
+
+      60-62                     5                  61                    -2         -10
+
+      63 ­ 65                   18                 64                    ­1         ­ 18
+
+      66 ­ 68                   f3                 67 (A)                  0        0
+
+      69 ­ 71                   f4                 70                      1        f4
+
+      72 ­ 74                   8                  73                      2        16
+
+      Total                31+ f 3+ f 4            ­                       ­        ­ 12+f4
+
+As given, we have
+
+               31  f3  f4  100
+
+                    f3  f4  69           ......................................(1)
+
+and                        x  67.45
+
+       A        fidi     C      67.45
+               N
+
+      67    (12     f4)    3    67.45
+               100
+
+            ­12  f4 3  67.45 ­ 67100
+
+                  ­12  f4  15
+
+                         f4  27
+
+On substituting 27 for f4 in (1), we get
+
+f3  27  69 ,  f3  42
+
+Thus, the missing frequencies would be 42 and 27.
+
+Properties of AM
+
+(i) If all the observations assumed by a variable are constants, say k, then the AM is also
+         k. For example, if the height of every student in a group of 10 students is 170 cm, then the
+         mean height is, of course, 170 cm.
+
+© The Institute of Chartered Accountants of India
+                                    MEASURES OF CENTRAL TENDENCY AND DISPERSION         14.7
+
+(ii) the algebraic sum of deviations of a set of observations from their AM is zero
+
+ i.e. for unclassified data , (xi  x)  0                             .........(14.1.4)
+
+ } and for grouped frequency distribution,
+                                                       fi(xi  x)  0
+
+For example, if a variable x assumes five observations, say 58, 63, 37, 45, 29, then x =46.4.
+
+Hence, the deviations of the observations from the AM i.e. (xi  x) are 11.60, 16.60, ­9.40,
+
+­1.40 and ­17.40, then  (xi  x)  11.60 + 16.60 + (­9.40) + (­1.40) + (­17.40) = 0 .
+
+(iii) AM is affected due to a change of origin and/or scale which implies that if the original
+         variable x is changed to another variable y by effecting a change of origin, say a, and
+
+scale say b, of x i.e. y=a+bx, then the AM of y is given by y  a  bx .
+
+For example, if it is known that two variables x and y are related by 2x+3y+7=0 and
+
+x   15 ,  then  the  AM  of  y  is  given  by  y    7     2x
+                                                       3
+
+=  7   2  15         37   12.33 .
+        3             3
+
+(iv) If there are two groups containing n1 and n2 observations and x 1 and x 2 as the respective
+         arithmetic means, then the combined AM is given by
+
+x    n1x1    n2x2    ....................................(14.1.5)
+       n1    n2
+
+This property could be extended to k>2 groups and we may write
+
+ x  nixi          .....................................(14.1.6) i = 1, 2,........n.
+   ni
+
+Example 14.1.5: The mean salary for a group of 40 female workers is ` 5,200 per month and that for a
+group of 60 male workers is ` 6800 per month. What is the combined mean salary?
+
+Solution: As given n1 = 40, n2 = 60, x 1 = ` 5,200 and x 2 = ` 6,800 hence, the combined mean
+salary per month is
+
+x    n1x1   n2x2
+       n1   n2
+
+=    40 × `  5, 200 + 60 × ` 6, 800            = ` 6,160.
+                 40 + 60
+
+As compared to AM, median is a positional average which means that the value of the median is
+dependent upon the position of the given set of observations for which the median is wanted.
+Median, for a given set of observations, may be defined as the middle-most value when the
+observations are arranged either in an ascending order or a descending order of magnitude.
+
+   © The Institute of Chartered Accountants of India
+14.8  STATISTICS
+
+As for example, if the marks of the 7 students are 72, 85, 56, 80, 65, 52 and 68, then in order to find
+the median mark, we arrange these observations in the following ascending order of magnitude:
+52, 56, 65, 68, 72, 80, 85.
+
+Since the 4th term i.e. 68 in this new arrangement is the middle most value, the median mark is 68
+i.e. Median (Me) = 68.
+
+As a second example, if the wages of 8 workers, expressed in rupees are
+
+56, 82, 96, 120, 110, 82, 106, 100 then arranging the wages as before, in an ascending order of
+magnitude, we get `56, ` 82, ` 82, ` 96, ` 100, ` 106, ` 110, ` 120. Since there are two middle-most
+values, namely, ` 96, and ` 100 any value between ` 96 and ` 100 may be, theoretically, regarded
+as median wage. However, to bring uniqueness, we take the arithmetic mean of the two middle-
+most values, whenever the number of the observations is an even number. Thus, the median
+wage in this example, would be
+
+M  ` 96  ` 100     = ` 98
+            2
+
+In case of a grouped frequency distribution, we find median from the cumulative frequency
+distribution of the variable under consideration. We may consider the following formula, which
+can be derived from the basic definition of median.
+
+      Ml1   N  Nl    C...................................................(14.1.7)
+            2
+            Nu  Nl
+
+Where,
+l1 = lower class boundary of the median class i.e. the class containing median.
+N = total frequency.
+Nl = less than cumulative frequency corresponding to l1. (Pre median class)
+Nu = less than cumulative frequency corresponding to l2. (Post median class)
+l2 being the upper class boundary of the median class.
+C = l2 ­ l1 = length of the median class.
+
+Example 14.1.6: Compute the median for the distribution as given in Example 14.1.3.
+
+Solution: First, we find the cumulative frequency distribution which is exhibited in
+Table 14.1.4.
+
+© The Institute of Chartered Accountants of India
+                                          MEASURES OF CENTRAL TENDENCY AND DISPERSION  14.9
+
+                                                   Table 14.1.4
+
+                                        Computation of Median
+
+                               Class boundary                     Less than
+                                                                 cumulative
+                                                                 frequency
+
+                                     349.50                        0
+                                     369.50                        23
+                                     389.50                       61
+                                     409.50 (l1)                 119 (Nl)
+                                     429.50 (l2)                 201(Nu)
+                                     449.50                      266
+                                     469.50                      297
+                                     489.50                      308
+
+We find, from the Table 14.1.4,      N    308      = 154 lies between the two cumulative frequencies 119
+                                     2     2
+
+and 201 i.e. 119 < 154 < 201 . Thus, we have Nl = 119, Nu = 201 l1 = 409.50 and l2 = 429.50. Hence
+C = 429.50 ­ 409.50 =20.
+
+Substituting these values in (14.1.7), we get,
+
+M     =  409.50   154  ­  119    20
+                  201  ­  119
+
+      = 409.50+8.54
+
+      = 418.04.
+
+Example 14.1.7: Find the missing frequency from the following data, given that the median mark
+is 23.
+
+Mark             : 0 ­ 10               10 ­ 20    20 ­ 30       30 ­ 40     40 ­ 50
+                                            8         ?              6          3
+No. of students : 5
+
+Solution: Let us denote the missing frequency by f3. Table 14.1.5 shows the relevant
+computation.
+
+© The Institute of Chartered Accountants of India
+14.10  STATISTICS
+
+                                                 Table 14.1.5
+                                  (Estimation of missing frequency)
+
+                                Mark                       Less than
+                                                   cumulative frequency
+                                  0
+                                  10                        0
+                                  20(l1)
+                                  30(l2)                    5
+                                  40                        13(Nl)
+                                  50                        13+f3(Nu)
+                                                            19+f3
+                                                            22+f3
+
+Going through the mark column, we find that 20<23<30. Hence l1=20, l2 =30 and accordingly
+Nl=13, Nu=13+f3. Also the total frequency i.e. N is 22+f3. Thus,
+
+          Ml1            N  Nl       C
+                         2
+                         Nu  Nl
+
+                      22  f3  ­ 13
+       23  20   2  10
+
+
+                     (13  f3 ) ­ 13
+
+       3    22       f3  ­  26    5
+                     f3
+
+       3f3  5f3 ­ 20
+
+       2f3  20
+
+       f3  10
+
+So, the missing frequency is 10.
+
+Properties of median
+
+We cannot treat median mathematically, the way we can do with arithmetic mean. We consider
+below two important features of median.
+
+(i) If x and y are two variables, to be related by y=a+bx for any two constants a and b,
+         then the median of y is given by
+         yme = a + bxme
+
+         For example, if the relationship between x and y is given by 2x ­ 5y = 10 and if xme i.e.
+         the median of x is known to be 16.
+         Then 2x ­ 5y = 10
+
+© The Institute of Chartered Accountants of India
+                             MEASURES OF CENTRAL TENDENCY AND DISPERSION         14.11
+
+        y = ­2 + 0.40x
+
+        yme = ­2 + 0.40 xme
+
+        yme = ­2 + 0.40×16
+
+        yme = 4.40.
+
+(ii) For a set of observations, the sum of absolute deviations is minimum when the deviations
+
+         are taken from the median. This property states that |xi­A| is minimum if we choose
+         A as the median.
+
+PARTITION VALUES OR QUARTILES OR FRACTILES
+
+These may be defined as values dividing a given set of observations into a number of equal
+parts. When we want to divide the given set of observations into two equal parts, we consider
+median. Similarly, quartiles are values dividing a given set of observations into four equal parts.
+So there are three quartiles ­ first quartile or lower quartile denoted by Q1, second quartile or
+median to be denoted by Q2 or Me and third quartile or upper quartile denoted by Q3. First
+quartile is the value for which one fourth of the observations are less than or equal to Q1 and the
+remaining three ­ fourths observations are more than or equal to Q1. In a similar manner, we
+may define Q2 and Q3.
+
+Deciles are the values dividing a given set of observation into ten equal parts. Thus, there are
+nine deciles to be denoted by D1, D2, D3,.....D9. D1 is the value for which one-tenth of the given
+observations are less than or equal to D1 and the remaining nine-tenth observations are greater
+than or equal to D1 when the observations are arranged in an ascending order of magnitude.
+
+Lastly, we talk about the percentiles or centiles that divide a given set of observations into 100
+equal parts. The points of sub-divisions being P1, P2,...........P99. P1 is the value for which one
+hundredth of the observations are less than or equal to P1 and the remaining ninety-nine
+hundredths observations are greater than or equal to P1 once the observations are arranged in an
+ascending order of magnitude.
+
+For unclassified data, the pth quartile is given by the (n+1)pth value, where n denotes the total
+number of observations. p = 1/4, 2/4, 3/4 for Q1, Q2 and Q3 respectively. p=1/10,
+2/10,.............9/10. For D1, D2,......,D9 respectively and lastly p=1/100, 2/100,....,99/100 for P1,
+P2, P3....P99 respectively.
+
+In case of a grouped frequency distribution, we consider the following formula for the computation
+of quartiles.
+
+Q  l1   Np  Nl   C ................................................... (14.1.8)
+        Nu  Nl
+
+The symbols, except p, have their usual interpretation which we have already discussed while
+computing median and just like the unclassified data, we assign different values to p depending
+on the quartile.
+
+© The Institute of Chartered Accountants of India
+14.12       STATISTICS
+
+Another way to find quartiles for a grouped frequency distribution is to draw the ogive (less than
+type) for the given distribution. In order to find a particular quartile, we draw a line parallel to
+the horizontal axis through the point Np. We draw perpendicular from the point of intersection
+of this parallel line and the ogive. The x-value of this perpendicular line gives us the value of the
+quartile under discussion.
+
+Example 14.1.8: Following are the wages of the labourers: ` 82, ` 56, ` 90, ` 50, ` 120, ` 75,
+` 75, ` 80, ` 130, ` 65. Find Q1, D6 and P82.
+
+Solution: Arranging the wages in an ascending order, we get ` 50, ` 56, ` 65, ` 75, ` 75, ` 80, ` 82,
+` 90, ` 120, ` 130.
+Hence, we have
+
+       Q1      (n     1)  th  value
+                   4
+
+            =  10     1   th  value
+
+                  4
+
+            = 2.75th value
+
+            = 2nd value + 0.75 × difference between the third and the 2nd values.
+
+            = ` [56 + 0.75 × (65 ­ 56)]
+
+            = ` 62.75
+
+       D6 = (15 + 1) ×        6   th value
+                              10
+
+            = 6.60th value
+
+            = 6th value + 0.60 × difference between the 7th and the 6th values.
+
+            = ` (80 + 0.60 × 2)
+
+            = ` 81.20
+
+       P82     (10    1)   82     th  value
+                           100
+
+            = 9.02th value
+
+            = 9th value + 0.02 × difference between the 10th and the 9th values
+
+            = ` (120 + 0.02 ×10)
+
+           = ` 120.20
+       Next, let us consider one problem relating to the grouped frequency distribution.
+
+© The Institute of Chartered Accountants of India
+                                                MEASURES OF CENTRAL TENDENCY AND DISPERSION        14.13
+
+Example 14.1.9: Following distribution relates to the distribution of monthly wages of 100
+workers.
+
+Wages in (`) : less than                                                                more than
+                            500
+                                       500­699       700­899 900­1099   1100­1499 1500
+No. of workers : 5                        23
+                                                     29           27              10         6
+
+Compute Q3 , D7 and P23 .
+
+Solution: This is a typical example of an open end unequal classification as we find the lower
+class limit of the first class interval and the upper class limit of the last class interval are not
+stated, and theoretically, they can assume any value between 0 and 500 and 1500 to any number
+respectively. The ideal measure of the central tendency in such a situation is median as the median
+or second quartile is based on the fifty percent central values. Denoting the first LCB and the last
+UCB by the L and U respectively, we construct the following cumulative frequency distribution:
+
+                                                       Table 14.1.7
+                                              Computation of quartiles
+
+                               Wages in rupees                       No. of workers
+                                       (CB)                      (less than cumulative
+
+                                          L                             frequency)
+                                       499.50
+                                       699.50                               0
+                                       899.50                               5
+                                     1099.50                                28
+                                     1499.50                                57
+                                                                            84
+                                          U                                 94
+                                                                            100
+
+For Q3,  3N      3  100   75
+          4         4
+
+since, 57<75 <84, we take Nl = 57, Nu=84, l1=899.50, l2=1099.50, c = l2­l1 = 200
+in the formula (11.8) for computing Q3.
+
+  Therefore, Q3 = `                75     57         = ` 1032.83
+                      899.50       84     57    200
+
+Similarly, for D7,  7N      7   100    =  70  which also lies between 57 and 84.
+                    10         10
+
+Thus,  D7 = `    899.50     +  70  ­  57  ×   200    = ` 995.80
+                               84  ­  57           
+
+Lastly for P23,  23N     23    × 100 = 23 and as 5 < 23 < 28, we have
+                 100     100
+
+P23 = ` [499.50 +   23 ­ 5  × 200]
+                    28 ­ 5
+
+= ` 656.02
+
+© The Institute of Chartered Accountants of India
+14.14   STATISTICS
+
+For a given set of observations, mode may be defined as the value that occurs the maximum
+number of times. Thus, mode is that value which has the maximum concentration of the
+observations around it. This can also be described as the most common value with which, even,
+a layman may be familiar with.
+
+Thus, if the observations are 5, 3, 8, 9, 5 and 6, then Mode (Mo) = 5 as it occurs twice and all the
+other observations occur just once. The definition for mode also leaves scope for more than one
+mode. Thus sometimes we may come across a distribution having more than one mode. Such a
+distribution is known as a multi-modal distribution. Bi-modal distribution is one having two
+modes.
+
+Furthermore, it also appears from the definition that mode is not always defined. As an example,
+if the marks of 5 students are 50, 60, 35, 40, 56, there is no modal mark as all the observations
+occur once i.e. the same number of times.
+
+We may consider the following formula for computing mode from a grouped frequency
+distribution:
+
+        Mode  =l1  +       f0  f1  f1    c         ............................(14.1.9)
+                        2f0  f1 
+
+where,
+
+l1 = LCB of the modal class.
+
+           i.e. the class containing mode.
+
+f0 = frequency of the modal class
+f­1 = frequency of the pre-modal class
+f1 = frequency of the post modal class
+C = class length of the modal class
+
+Example 14.1.10: Compute mode for the distribution as described in Example. 14.1.3
+Solution: The frequency distribution is shown below:
+
+                                                   Table 14.1.8
+                                            Computation of mode
+
+                        Class Interval             Frequency
+
+                          350 - 369                 23
+                          370 - 389                 38
+                          390 - 409                 58 (f­1)
+                          410 - 429                 82 (f0)
+                          430 - 449                 65 (f1)
+                          450 - 469                 31
+                          470 - 489                 11
+
+Going through the frequency column, we note that the highest frequency i.e. f0 is 82. Hence,
+f­1 = 58 and f1 = 65. Also the modal class i.e. the class against the highest frequency is 410 ­ 429.
+
+© The Institute of Chartered Accountants of India
+                                       MEASURES OF CENTRAL TENDENCY AND DISPERSION                             14.15
+
+Thus l1 = LCB=409.50 and c=429.50 ­ 409.50 = 20
+Hence, applying formulas (11.9), we get
+
+Mo    409.5    2    82  58   65    20
+                    82  58 
+
+    = 421.21 which belongs to the modal class. (410 ­ 429)
+
+When it is difficult to compute mode from a grouped frequency distribution, we may consider
+the following empirical relationship between mean, median and mode:
+
+                   Mean ­ Mode = 3(Mean ­ Median) .........................(14.1.9A)
+
+or Mode = 3 Median ­ 2 Mean
+
+(14.1.9A) holds for a moderately skewed distribution. We also note that if y = a+bx, then
+ymo=a+bxmo ...........................................(14.1.10)
+
+Example 14.11: For a moderately skewed distribution of marks in statistics for a group of 200
+students, the mean mark and median mark were found to be 55.60 and 52.40. What is the modal
+mark?
+
+Solution: Since in this case, mean = 55.60 and median = 52.40, applying (11.9A), we get the
+modal mark as
+
+         Mode = 3 × Median ­ 2 × Mean
+                   = 3 × 52.40 ­ 2 × 55.60
+                   = 46.
+
+Example 14.1.12: If y = 2 + 1.50x and mode of x is 15, what is the mode of y?
+
+Solution:
+By virtue of (11.10), we have
+
+         ymo = 2 + 1.50 × 15
+               = 24.50.
+
+For a given set of n positive observations, the geometric mean is defined as the n-th root of the
+
+product of the observations. Thus if a variable x assumes n values x1, x2, x3,..........., xn, all the
+values being positive, then the GM of x is given by
+
+G= (x1 × x2 × x3 ........... × xn)1/n                 ............................................. (14.1.11)
+
+For a grouped frequency distribution, the GM is given by
+
+G= (x1f1 × x2f2 × x3f3 ................. × xnfn )1/N  ............................................. (14.1.12)
+
+Where N = fi
+
+In connection with GM, we may note the following properties :
+
+© The Institute of Chartered Accountants of India
+14.16               STATISTICS
+
+(i) Logarithm of G for a set of observations is the AM of the logarithm of the observations; i.e.
+
+       log  G       1           log       x                  ..................(14.1.13)
+                    n
+
+(ii) if all the observations assumed by a variable are constants, say K > 0, then the GM of the
+      observations is also K.
+
+(iii) GM of the product of two variables is the product of their GM`s i.e. if z = xy, then
+
+       GM of z = (GM of x) × (GM of y)                       ..................(14.1.14)
+
+(iv) GM of the ratio of two variables is the ratio of the GM's of the two variables i.e. if z = x/y
+      then
+
+GM of z           GM       of       x                        ..................(14.1.15)
+                  GM       of       y
+
+Example 14.1.13: Find the GM of 3, 6 and 12.
+Solution: As given x1=3, x2=6, x3=12 and n=3.
+Applying (14.1.11), we have G= (3×6×12) 1/3 = (63)1/3=6.
+
+Example 14.1.14: Find the GM for the following distribution:
+
+                                x:                  2  4  8   16
+
+                                    f:              2  3  3   2
+
+Solution: According to (14.1.12), the GM is given by
+
+G      =  (x  f1    x  f2    x  f3     x  f4  )1/N
+              1        2        3         4
+
+       = (22 × 43 × 83 × 162 ) 1/10
+
+       = (2)2.50
+
+       =4 2
+
+       = 5.66
+
+Harmonic Mean
+
+For a given set of non-zero observations, harmonic mean is defined as the reciprocal of the AM of
+
+the reciprocals of the observation. So, if a variable x assumes n non-zero values x1, x2,
+x3,...............,xn, then the HM of x is given by
+
+   H= n                                                   ..................(14.1.16)
+        (1/xi )
+
+   © The Institute of Chartered Accountants of India
+                                            MEASURES OF CENTRAL TENDENCY AND DISPERSION  14.17
+
+For a grouped frequency distribution, we have
+
+H= N     
+     fi  
+     xi                                               ..................(14.1.17)
+   
+
+Properties of HM
+
+(i) If all the observations taken by a variable are constants, say k, then the HM of the observations
+      is also k.
+
+(ii) If there are two groups with n1 and n2 observations and H1 and H2 as respective HM's than
+      the combined HM is given by
+
+      n1  n2                                          ..................(14.1.18)
+
+     n1         n2
+     H1         H2
+
+Example 14.15: Find the HM for 4, 6 and 10.
+
+Solution: Applying (14.1.16), we have
+
+H            3
+
+     1       1    1
+     4       6    10
+
+     0.25        3      0.10
+                0.17
+
+    5.77
+
+Example 14.1.16: Find the HM for the following data:
+
+         x:             2               4          8  16
+
+         f:             2               3          3  2
+
+Solution: Using (14.1.17), we get
+
+                  H              10
+
+                        2     3    3    2
+                        2     4    8    16
+
+                      = 4.44
+
+Relation between AM, GM, and HM
+
+For any set of positive observations, we have the following inequality:
+
+© The Institute of Chartered Accountants of India
+14.18      STATISTICS
+
+       AM  GM  HM                                                .............. (14.1.19)
+
+The equality sign occurs, as we have already seen, when all the observations are equal.
+
+Example 14.1.17: compute AM, GM, and HM for the numbers 6, 8, 12, 36.
+Solution: In accordance with the definition, we have
+
+       AM    6     8   12    36      15.5  0
+                       4
+
+       GM = (6 × 8 × 12 × 36)1/4
+            = (28 × 34)1/4 =12
+
+       HM              4               9.93
+
+              1     1    1      1
+              6     8    12     36
+
+The computed values of AM, GM, and HM establish (14.1.19).
+
+Weighted average
+
+When the observations under consideration have a hierarchical order of importance, we take
+recourse to computing weighted average, which could be either weighted AM or weighted GM
+or weighted HM.
+
+                               wixi                                    .............. (14.1.20)
+       Weighted AM =  wi
+
+       Weighted  GM    =  Anti   log          wi  logx  i              .............. (14.1.21)
+                                                  wi       
+                                                           
+
+                              wi
+
+       Weighted HM =            wi                                     .............. (14.1.22)
+                                xi   
+                                     
+
+Example 14.1.18: Find the weighted AM and weighted HM of first n natural numbers, the weights
+being equal to the squares of the corresponding numbers.
+
+Solution: As given,
+
+           x                 1                2              3   ....  n
+
+           w                 12               22             32  ....  n2
+
+Weighted AM      =     wixi
+                        wi
+
+© The Institute of Chartered Accountants of India
+                                          MEASURES OF CENTRAL TENDENCY AND DISPERSION  14.19
+
+   1    12  2           22   3  32  ......................n      n  2
+         12            22   32  .........................  n2
+=
+
+=   13  23  33  ...........  n3
+   12  22  32  ...............  n2
+
+         n(n +1) 2
+
+       2                          3n(n  1)
+= n(n + 1)(2n + 1)             = 2(2n  1)
+
+                   6
+
+Weighted HM =  wi
+          wi       
+          xi       
+                   
+     
+
+   12  22  32  ...............n2
+
+=     12           22    32    .........  n2
+      1            2     3                n
+
+=  12    22  32  .............  n2
+        1  2  3  ...........  n
+
+   nn  12n  1
+
+            6
+= n(n  1)
+
+            2
+
+=  2n  1
+     3
+
+A General review of the different measures of central tendency
+
+After discussing the different measures of central tendency, now we are in a position to have a
+review of these measures of central tendency so far as the relative merits and demerits are
+concerned on the basis of the requisites of an ideal measure of central tendency which we have
+already mentioned in section 14.1.2. The best measure of central tendency, usually, is the AM. It
+is rigidly defined, based on all the observations, easy to comprehend, simple to calculate and
+amenable to mathematical properties. Mean is the stable and highly reliable average. However,
+AM has one drawback in the sense that it is very much affected hy sampling fluctuations.
+In case of frequency distribution, mean cannot be advocated for open-end classification.
+
+Like AM, median is also rigidly defined and easy to comprehend and compute. But median is
+not based on all the observation and does not allow itself to mathematical treatment. However,
+median is not much affected by sampling fluctuation and it is the most appropriate measure of
+central tendency for an open-end classification.
+
+The strongest drawback of arthmetic mean is that it is very much affected by extreme observations.
+By sampling fluctuations, we mean, variation in statistic. It is well known fact, "Mean is least
+affected by fluctuations of sampling . In fact, Median is more affected by sampling fluctuations
+
+as compare to AM.
+
+    © The Institute of Chartered Accountants of India
+14.20       STATISTICS
+
+Although mode is the most popular measure of central tendency, there are cases when mode
+remains undefined. Unlike mean, it has no mathematical property. Mode is also affected by
+sampling fluctuations.
+
+GM and HM, like AM, possess some mathematical properties. They are rigidly defined and
+based on all the observations. But they are difficult to comprehend and compute and, as such,
+have limited applications for the computation of average rates and ratios and such like things.
+
+Example 14.1.19: Given two positive numbers a and b, prove that AH=G2. Does the result hold
+for any set of observations?
+
+Solution: For two positive numbers a and b, we have,
+
+       A    a     b
+               2
+
+       G  ab
+
+And    H    1  2  1
+            a     b
+
+            2ab
+            ab
+
+Thus   AH   a     b     2ab
+               2        ab
+
+          = ab = G2
+
+This result holds for only two positive observations and not for any set of observations.
+
+Example 14.1.20: The AM and GM for two observations are 5 and 4 respectively. Find the two
+observations.
+
+Solution: If a and b are two positive observations then as given
+
+                  a     b    5
+                     2
+
+                  a+b = 10 .........................................(1)
+
+          and ab  4
+
+                     ab = 16 .........................................(2)
+
+          (a ­ b)2  (a  b)2  4ab
+
+                           = 102  4  16
+                           = 36
+
+© The Institute of Chartered Accountants of India
+                                 MEASURES OF CENTRAL TENDENCY AND DISPERSION          14.21
+
+         a ­ b = 6 (ignoring the negative sign)............................(3)
+
+Adding (1) and (3) We get,
+
+         2a = 16
+
+                   a= 8
+
+From (1), we get b = 10 ­ a = 2
+
+Thus, the two observations are 8 and 2.
+
+Example 14.1.21: Find the mean and median from the following data:
+
+Marks    : less than 10                            less than 20  less than 30
+
+No. of Students :           5                      13               23
+
+Marks    : less than 40                            less than 50
+
+No. of Students :           27                     30
+
+Also compute the mode using the approximate relationship between mean, median and mode.
+
+Solution: What we are given in this problem is less than cumulative frequency distribution. We
+need to convert this cumulative frequency distribution to the corresponding frequency
+distribution and thereby compute the mean and median.
+
+                                                      Table 14.1.19
+
+                                Computation of Mean Marks for 30 students
+
+             Marks              No. of Students        Mid - Value           fixi
+         Class Interval                 (fi)                (xi)
+                                        (2)                  (3)        (4)= (2)×(3)
+                (1)                            5               5             25
+              0 ­ 10                                          15
+             10 ­ 20             13 ­ 5 = 8                   25           120
+             20 ­ 30             23 ­ 13 = 10                 35           250
+             30 ­ 40             27 ­ 23 = 4                  45           140
+             40 ­ 50             30 ­ 27 = 3                   ­           135
+              Total                                                        670
+                                              30
+
+© The Institute of Chartered Accountants of India
+14.22       STATISTICS
+
+Hence the mean mark is given by
+
+       x =  fixi
+             N
+
+       =  670
+          30
+
+       = 22.33
+
+                                                Table 14.1.10
+                                    Computation of Median Marks
+
+                             Marks                             No.of Students
+                      (Class Boundary)             (Less than cumulative Frequency)
+
+                                 0                 0
+
+                             10                    5
+
+                             20                    13
+
+                             30                    23
+
+                             40                    27
+
+                             50                    30
+
+Since  N    30     15  lies between 13 and 23,
+       2    2
+
+we have l1 = 20, Nl = 13, Nu= 23
+
+and C = l 2 ­ l 1 = 30 ­ 20 = 10
+
+Thus,
+
+Median      20    15   13    10
+                  23   13
+
+        = 22
+
+Since Mode = 3 Median ­ 2 Mean (approximately), we find that
+
+       Mode = 3x22 ­ 2x22.33
+
+                 21.34
+
+Example 14.1.22: Following are the salaries of 20 workers of a firm expressed in thousand rupees:
+5, 17, 12, 23, 7, 15, 4, 18, 10, 6, 15, 9, 8, 13, 12, 2, 12, 3, 15, 14. The firm gave bonus amounting to
+` 2,000, ` 3,000, ` 4,000, ` 5,000 and ` 6,000 to the workers belonging to the salary groups
+1,000 ­ 5,000, 6,000 ­ 10,000 and so on and lastly 21,000 ­ 25,000. Find the average bonus paid per
+employee.
+
+© The Institute of Chartered Accountants of India
+                            MEASURES OF CENTRAL TENDENCY AND DISPERSION           14.23
+
+Solution: We first construct frequency distribution of salaries paid to the 20 employees. The
+
+average bonus paid per employee is given by         fixi   Where x i represents the amount of bonus
+                                                    N
+
+paid to the ith salary group and fi, the number of employees belonging to that group which would
+be obtained on the basis of frequency distribution of salaries.
+
+                                  Table 14.1.11
+                      Computation of Average bonus
+
+                                                   No of workers Bonus in Rupees
+
+Salary in thousand `  Tally Mark                   (f i )  xi                           fixi
+   (Class Interval)
+           (1)        (2)                          (3)      (4)                   (5) = (3) × (4)
+           1-5                                             2000                         8000
+          6-10        ||||                         4       3000                       15000
+          11-15                                            4000                       32000
+          16-20       ||||                         5       5000                       10000
+          21-25                                            6000                         6000
+        TOTAL         |||| |||                     8                                  71000
+                                                             ­
+                      ||                           2
+
+                      |                            1
+
+                      ­                            20
+
+Hence, the average bonus paid per employee
+
+ (`) 71000
+        20
+
+= (`) 3550
+
+ The best measure of central tendency, usually, is the AM. It is rigidly defined, based on
+      all the observations, easy to comprehend, simple to calculate and amenable to mathematical
+      properties. However, AM has one drawback in the sense that it is very much affected by
+      sampling fluctuations. In case of frequency distribution, mean cannot be advocated for
+      open-end classification.
+
+ Median is also rigidly defined and easy to comprehend and compute. But median is not
+      based on all the observation and does not allow itself to mathematical treatment. However,
+      median is not much affected by sampling fluctuation and it is the most appropriate measure
+      of central tendency for an open-end classification.
+
+ Mode is the most popular measure of central tendency, there are cases when mode remains
+      undefined. Unlike mean, it has no mathematical property. Mode is also affected by sampling
+      fluctuations.
+
+ Relationship between Mean, Median and Mode
+
+      Mean ­ Mode = 3(Mean ­ Median)
+
+      Mode = 3 Median ­ 2 Mean
+
+© The Institute of Chartered Accountants of India
+14.24  STATISTICS
+
+ Relation between AM, GM, and HM
+
+      AM  GM  HM
+
+ GM and HM, like AM, possess some mathematical properties. They are rigidly defined
+      and based on all the observations. But they are difficult to comprehend and compute and,
+      as such, have limited applications for the computation of average rates and ratios and
+      such like things.
+
+Set A
+
+Write down the correct answers. Each question carries 1 mark.
+
+1. Measures of central tendency for a given set of observations measures
+
+       (a) The scatterness of the observations (b) The central location of the observations
+
+       (c) Both (a) and (b)                        (d) None of these.
+
+2. While computing the AM from a grouped frequency distribution, we assume that
+
+       (a) The classes are of equal length
+
+       (b) The classes have equal frequency
+
+       (c) All the values of a class are equal to the mid-value of that class
+
+       (d) None of these.
+
+3. Which of the following statements is wrong?
+
+       (a) Mean is rigidly defined
+
+       (b) Mean is not affected due to sampling fluctuations
+
+       (c) Mean has some mathematical properties
+
+       (d) All these
+
+4. Which of the following statements is true?
+
+       (a) Usually mean is the best measure of central tendency
+
+       (b) Usually median is the best measure of central tendency
+
+       (c) Usually mode is the best measure of central tendency
+
+       (d) Normally GM is the best measure of central tendency
+
+5. For open-end classification, which of the following is the best measure of central tendency?
+
+       (a) AM                (b) GM                (c) Median          (d) Mode
+
+6. The presence of extreme observations does not affect
+
+       (a) AM                (b) Median            (c) Mode            (d) Any of these.
+
+7. In case of an even number of observations which of the following is median?
+
+       (a) Any of the two middle-most value
+
+© The Institute of Chartered Accountants of India
+                                 MEASURES OF CENTRAL TENDENCY AND DISPERSION                  14.25
+
+(b) The simple average of these two middle values
+
+(c) The weighted average of these two middle values
+
+(d) Any of these
+
+8. The most commonly used measure of central tendency is
+
+(a) AM                 (b) Median                  (c) Mode             (d) Both GM and HM.
+
+9. Which one of the following is not uniquely defined?
+
+(a) Mean               (b) Median                  (c) Mode             (d) All of these measures
+
+10. Which of the following measure of the central tendency is difficult to compute?
+
+(a) Mean               (b) Median                  (c) Mode             (d) GM
+
+11. Which measure(s) of central tendency is(are) considered for finding the average rates?
+
+(a) AM                 (b) GM                      (c) HM               (d) Both (b) and (c)
+
+12. For a moderately skewed distribution, which of he following relationship holds?
+
+(a) Mean ­ Mode = 3 (Mean ­ Median) (b) Median ­ Mode = 3 (Mean ­ Median)
+
+(c) Mean ­ Median = 3 (Mean ­ Mode) (d) Mean ­ Median = 3 (Median ­ Mode)
+
+13. Weighted averages are considered when
+
+(a) The data are not classified
+
+(b) The data are put in the form of grouped frequency distribution
+
+(c) All the observations are not of equal importance
+
+(d) Both (a) and (c).
+
+14. Which of the following results hold for a set of distinct positive observations?
+
+(a) AM  GM  HM                                     (b) HM  GM  AM
+
+(c) AM > GM > HM                                   (d) GM > AM > HM
+
+15. When a firm registers both profits and losses, which of the following measure of central
+      tendency cannot be considered?
+
+(a) AM                 (b) GM                      (c) Median           (d) Mode
+
+16. Quartiles are the values dividing a given set of observations into
+
+(a) Two equal parts (b) Four equal parts (c) Five equal parts (d) None of these
+
+17. Quartiles can be determined graphically using
+
+(a) Histogram          (b) Frequency Polygon (c) Ogive                  (d) Pie chart.
+
+18. Which of the following measure(s) possesses (possess) mathematical properties?
+
+(a) AM                 (b) GM                      (c) HM               (d) All of these
+
+© The Institute of Chartered Accountants of India
+14.26          STATISTICS
+
+19. Which of the following measure(s) satisfies (satisfy) a linear relationship between two
+      variables?
+
+       (a) Mean            (b) Median              (c) Mode             (d) All of these
+
+20. Which of he following measures of central tendency is based on only fifty percent of the
+      central values?
+
+       (a) Mean            (b) Median              (c) Mode             (d) Both (a) and (b)
+
+Set B
+
+Write down the correct answers. Each question carries 2 marks.
+
+1. If there are 3 observations 15, 20, 25 then the sum of deviation of the observations from their AM
+      is
+
+       (a) 0               (b) 5                   (c) ­5               (d) None of these.
+
+2. What is the median for the following observations?
+
+       5, 8, 6, 9, 11, 4.
+
+       (a) 6               (b) 7                   (c) 8                (d) None of these
+
+3. What is the modal value for the numbers 5, 8, 6, 4, 10, 15, 18, 10?
+
+       (a) 18              (b) 10                  (c) 14               (d) None of these
+
+4. What is the GM for the numbers 8, 24 and 40?
+
+       (a) 24              (b) 12                  (c) 8 3 15           (d) 10
+
+5. The harmonic mean for the numbers 2, 3, 5 is
+
+       (a) 2.00            (b) 3.33                (c) 2.90             (d)  3 30 .
+
+6. If the AM and GM for two numbers are 6.50 and 6 respectively then the two numbers are
+
+       (a) 6 and 7         (b) 9 and 4             (c) 10 and 3         (d) 8 and 5.
+
+7. If the AM and HM for two numbers are 5 and 3.2 respectively then the GM will be
+
+       (a) 16.00           (b) 4.10                (c) 4.05             (d) 4.00.
+
+8. What is the value of the first quartile for observations 15, 18, 10, 20, 23, 28, 12, 16?
+
+       (a) 17              (b) 16                  (c) 12.75            (d) 12
+
+9. The third decile for the numbers 15, 10, 20, 25, 18, 11, 9, 12 is
+
+       (a) 13              (b) 10.70               (c) 11               (d) 11.50
+
+10. If there are two groups containing 30 and 20 observations and having 50 and 60 as arithmetic
+      means, then the combined arithmetic mean is
+
+       (a) 55              (b) 56                  (c) 54               (d) 52.
+
+© The Institute of Chartered Accountants of India
+                                  MEASURES OF CENTRAL TENDENCY AND DISPERSION                   14.27
+
+11. The average salary of a group of unskilled workers is ` 10,000 and that of a group of skilled
+      workers is ` 15,000. If the combined salary is ` 12,000, then what is the percentage of skilled
+      workers?
+
+(a) 40%                  (b) 50%                   (c) 60%                  (d) none of these
+
+12. If there are two groups with 75 and 65 as harmonic means and containing 15 and 13
+      observation then the combined HM is given by
+
+(a) 65                   (b) 70.36                 (c) 70                   (d) 71.
+
+13. What is the HM of 1,1/2, 1/3,................1/n?
+
+(a) n                    (b) 2n                            2                     n(n + 1)
+                                                   (c) (n +1)               (d) 2
+
+14. An aeroplane flies from A to B at the rate of 500 km/hour and comes back from B to A at the
+      rate of 700 km/hour. The average speed of the aeroplane is
+
+(a) 600 km. per hour                               (b) 583.33 km. per hour
+
+(c) 100 35 km. per hour                            (d) 620 km. per hour.
+
+15. If a variable assumes the values 1, 2, 3...5 with frequencies as 1, 2, 3...5, then what is the
+      AM?
+
+      11                 (b) 5                     (c) 4                    (d) 4.50
+(a) 3
+
+16. Two variables x and y are given by y= 2x ­ 3. If the median of x is 20, what is the median of
+      y?
+
+(a) 20                   (b) 40                    (c) 37                   (d) 35
+
+17. If the relationship between two variables u and v are given by 2u + v + 7 = 0 and if the AM
+      of u is 10, then the AM of v is
+
+(a) 17                   (b) ­17                   (c) ­27                  (d) 27.
+
+18. If x and y are related by x­y­10 = 0 and mode of x is known to be 23, then the mode of y is
+
+(a) 20                   (b) 13                    (c) 3                    (d) 23.
+
+19. If GM of x is 10 and GM of y is 15, then the GM of xy is
+
+(a) 150               (b) log 10 × log 15 (c) log 150                       (d) None of these.
+
+20. If the AM and GM for 10 observations are both 15, then the value of HM is
+
+(a) Less than 15                                   (b) More than 15
+(c) 15                                             (d) Can not be determined.
+
+© The Institute of Chartered Accountants of India
+14.28          STATISTICS
+
+Set C
+
+Write down the correct answers. Each question carries 5 marks.
+
+1. What is the value of mean and median for the following data:
+
+       Marks:               5­14                   15­24  25­34      35­44                  45­54   55­64
+       No. of Students:      10                      18     32         26                     14      10
+
+       (a) 30 and 28               (b) 29 and 30 (c) 33.68 and 32.94 (d) 34.21 and 33.18
+
+2. The mean and mode for the following frequency distribution
+
+       Class interval: 350­369 370­389 390­409 410­429 430­449 450­469
+
+       Frequency:           15                     27     31                    19            13    6
+
+       are
+
+       (a) 400 and 390              (b) 400.58 and 390 (c) 400.58 and 394.50 (d) 400 and 394.
+
+3. The median and modal profits for the following data
+
+       Profit in `000 `: below 5 below 10 below 15 below 20 below 25 below 30
+
+       No. of firms:            10                 25     45                    55            62    65
+
+       are
+
+       (a) 11.60 and 11.50                                (b) ` 11556 and ` 11267
+
+       (c) ` 11875 and ` 11667                            (d) 11.50 and 11.67.
+
+4. Following is an incomplete distribution having modal mark as 44
+
+       Marks:               0­20                   20­40  40­60      60­80                  80­100
+
+       No. of Students:         5                  18     ?                     12            5
+
+       What would be the mean marks?
+
+       (a) 45                      (b) 46                 (c) 47                    (d) 48
+
+5. The data relating to the daily wage of 20 workers are shown below:
+
+       ` 50, ` 55, ` 60, ` 58, ` 59, ` 72, ` 65, ` 68, ` 53, ` 50, ` 67, ` 58,
+       ` 63, ` 69, ` 74, ` 63, ` 61, ` 57, ` 62, ` 64.
+
+       The employer pays bonus amounting to ` 100, ` 200, ` 300, ` 400 and ` 500 to the wage
+       earners in the wage groups 50-55, 55-60 and so on, and lastly 70-75, during the festive month
+       of October.
+
+       What is the average bonus paid per wage earner?
+
+       (a) ` 200                   (b) ` 250              (c) ` 285                 (d) `270
+
+© The Institute of Chartered Accountants of India
+                                 MEASURES OF CENTRAL TENDENCY AND DISPERSION                             14.29
+
+6. The third quartile and 65th percentile for the following data are
+
+Profits in `000 `: les than 10 10­19 20­29 30­39 40­49 50­59
+
+No. of firms:            5                            18  38           20             9      2
+
+(a) ` 33,500 and ` 29,184                                 (b) ` 33,000 and ` 28,680
+
+(c) ` 33,600 and ` 29,000                                 (d) ` 33,250 and ` 29,250.
+
+7. For the following incomplete distribution of marks of 100 pupils, median mark is known to
+      be 32.
+
+Marks:                0­10                         10­20  20­30        30­40          40­50  50­60
+
+No. of Students:      10                           ­      25           30                ­           10
+
+What is the mean mark?
+
+(a) 32                   (b) 31                           (c) 31.30    (d) 31.50
+
+8. The mode of the following distribution is ` 66. What would be the median wage?
+
+Daily wages (`): 30­40 40­50                              50­60        60­70          70­80  80­90
+
+No of workers:        8                            16     22           28                ­           12
+
+(a) ` 64.00              (b) ` 64.56                      (c) ` 63.21  (d) ` 64.25
+
+Set A        2. (c)         3. (b)                        4. (a)       5. (c)               6. (b)
+1. (b)       8. (a)         9. (c)                        10. (d)      11. (d)              12. (a)
+7. (b)       14. (c)        15. (b)                       16. (b)      17. (c)              18. (d)
+13. (b)      20. (b)
+19. (d)                     3. (b)                        4. (c)       5. (c)               6. (b)
+Set B        2. (b)         9. (b)                        10. (c)      11. (a)              12. (c)
+1. (a)       8. (c)         15. (a)                       16. (c)      17. (c)              18. (b)
+7. (d)       14. (b)
+13. (c)      20. (c)        3. (c)                        4. (d)       5. (c)               6. (a)
+19. (a)
+Set C        2. (c)
+1. (c)       8. (c)
+7. (c)
+
+© The Institute of Chartered Accountants of India
+

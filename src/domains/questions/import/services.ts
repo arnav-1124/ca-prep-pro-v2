@@ -116,6 +116,8 @@ export async function createImportBatch(input: CreateImportBatchInput) {
     .returning();
 
   let duplicateCount = 0;
+  let mappedCount = 0;
+  const rowsToInsert: (typeof importedQuestions.$inferInsert)[] = [];
 
   // 6. Process and Insert Staging Questions
   for (let i = 0; i < validationResult.questionResults.length; i++) {
@@ -157,13 +159,17 @@ export async function createImportBatch(input: CreateImportBatchInput) {
       }
     }
 
+    if (mappingResult.status !== "UNMAPPED") {
+      mappedCount++;
+    }
+
     const questionPreview = rawQuestion.questionText
       ? rawQuestion.questionText.slice(0, 300)
       : `Question #${i + 1} (Empty)`;
 
     const initialStatus = qResult.isValid ? "PENDING_REVIEW" : "VALIDATION_FAILED";
 
-    await db.insert(importedQuestions).values({
+    rowsToInsert.push({
       batchId: createdBatch.id,
       questionIndex: i + 1,
       rawPayload: rawQuestion,
@@ -185,6 +191,13 @@ export async function createImportBatch(input: CreateImportBatchInput) {
       duplicateSimilarityScore: duplicateResult.similarityScore || null,
       duplicateMatchReason: duplicateResult.matchReason,
     });
+  }
+
+  // 6. Bulk Insert Staged Questions in Chunks of 50
+  const CHUNK_SIZE = 50;
+  for (let c = 0; c < rowsToInsert.length; c += CHUNK_SIZE) {
+    const chunk = rowsToInsert.slice(c, c + CHUNK_SIZE);
+    await db.insert(importedQuestions).values(chunk);
   }
 
   // 7. Update batch statistics with duplicate count
@@ -216,7 +229,10 @@ export async function createImportBatch(input: CreateImportBatchInput) {
     batchName,
     totalQuestions: validationResult.totalQuestions,
     validCount: validationResult.validCount,
+    validQuestions: validationResult.validCount,
     invalidCount: validationResult.invalidCount,
+    invalidQuestions: validationResult.invalidCount,
+    mappedQuestions: mappedCount,
     duplicateCandidatesCount: duplicateCount,
   };
 }

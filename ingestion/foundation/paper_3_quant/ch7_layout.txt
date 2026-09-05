@@ -1,0 +1,2266 @@
+CHAPTER  7
+
+SETS, RELATIONS AND
+FUNCTIONS
+
+After reading this chapter, students will be able to understand:
+ Understand the concept of set theory.
+ Appreciate the basics of functions and relations.
+ Understand the types of functions and relations.
+ Solve problems relating to sets, functions and relations.
+
+CHAPTER OVERVIEW
+
+                          The Concept of Set Theory
+
+                              Subset               Types of Sets
+
+         Relations                                              Functions
+
+         Types of                                   Types of
+         Relations                                 Functions
+
+In our mathematical language, everything in this universe, whether living or non-living, is
+called an object.
+
+If we consider a collection of objects given in such a way that it is possible to tell beyond doubt
+whether a given object is in the collection under consideration or not, then such a collection of
+objects is called a well-defined collection of objects.
+
+© The Institute of Chartered Accountants of India
+7.2  BUSINESS MATHEMATICS
+
+A set is defined to be a collection of well-defined distinct objects. This collection may be listed
+or described. Each object is called an element of the set. We usually denote sets by capital
+letters and their elements by small letters.
+Example: A = {a, e, i, o, u}
+
+              B = {2, 4, 6, 8, 10}
+              C = {pqr, prq, qrp, rqp, qpr, rpq}
+              D = {1, 3, 5, 7, 9}
+              E = {1,2}
+              etc.
+This form is called Roster or Braces form. In this form we make a list of the elements of the set
+and put it within braces { }.
+Instead of listing we could describe them as follows :
+A = the set of vowels in the alphabet
+B = The set of even numbers between 2 and 10 both inclusive.
+C = The set of all possible arrangements of the letters p, q and r
+D = The set of odd digits between 1 and 9 both inclusive.
+E = The set of roots of the equation x2 ­ 3x + 2 = 0
+Set B, D and E can also be described respectively as
+B = {x : x = 2m and m being an integer lying in the interval 0 < m < 6}
+D = {2x ­ 1 : 0 < x < 5 and x is an integer}
+E = {x : x2 ­ 3x + 2 = 0}
+This form is called set-Builder or Algebraic form or Rule Method. This method of writing the
+set is called Property method. The symbol : or/reads 'such that'. In this method, we list the
+property or properties satisfied by the elements of the set.
+We write, {x:x satisfies properties P}. This means, "the set of all those x such that x satisfies the
+properties P".
+A set may contain either a finite or an infinite number of members or elements. When the
+number of members is very large or infinite it is obviously impractical or impossible to list them
+all. In such case.
+we may write as :
+N = The set of natural numbers = {1, 2, 3.....}
+W = The set of whole numbers = {0, 1, 2, 3,...)
+etc.
+
+   © The Institute of Chartered Accountants of India
+                                                   SETS, RELATIONS AND FUNCTIONS  7.3
+
+I. The members of a set are usually called elements. In A = {a, e, i, o, u}, a is an element and
+      we write a  A i.e. a belongs to A. But 3 is not an element of B = {2, 4, 6, 8, 10} and we write
+      3B. i.e. 3 does not belong to B.
+
+II. If every element of a set P is also an element of set Q we say that P is a subset of Q. We write
+      P  Q . Q is said to be a superset of P. For example {a, b}  {a, b, c}, {2, 4, 6, 8, 10}  N. If
+      there exists even a single element in A, which is not in B then A is not a subset of B.
+
+III. If P is a subset of Q but P is not equal to Q then P is called a proper subset of Q.
+
+IV.  has no proper subset.
+Illustration: {3} is a proper subset of {2, 3, 5}. But {1, 2} is not a subset of {2, 3, 5}.
+
+Thus if P = {1, 2} and Q = {1, 2 ,3} then P is a subset of Q but P is not equal to Q. So, P is a proper
+subset of Q.
+
+To give completeness to the idea of a subset, we include the set itself and the empty set. The
+empty set is one which contains no element. The empty set is also known as null or void set
+usually denoted by { } or Greek letter  , to be read as phi. For example the set of prime numbers
+between 32 and 36 is a null set. The subsets of {1, 2, 3} include {1, 2, 3}, {1, 2}, {1, 3}, {2, 3}, {1},
+{2}, {3} and { }.
+A set containing n elements has 2n subsets. Thus a set containing 3 elements has 23 (=8) subsets.
+A set containing n elements has 2n ­1 proper subsets. Thus a set containing 3 elements has
+23 ­1 =7 subsets. The proper subsets of { 1,2,3} include {1, 2}, {1, 3}, {2, 3}, {1}, {2}, {3], { } .
+
+Suppose we have two sets A and B. The intersection of these sets, written as A  B contains
+those elements which are in A and are also in B.
+
+For example A = {2, 3, 6, 10, 15}, B = {3, 6, 15, 18, 21, 24} and C = { 2, 5, 7}, we have A  B =
+
+{ 3, 6, 15}, A  C = {2}, B  C =  , where the intersection of B and C is empty set. So, we say B
+and C are disjoint sets since they have no common element. Otherwise sets are called overlapping
+or intersecting sets. The union of two sets, A and B, written as A  B contain all these elements
+which are in either A or B or both.
+
+So A  B = {2, 3, 6, 10, 15, 18, 21, 24}
+
+A  C = {2, 3, 5, 6, 7, 10, 15}
+
+A set which has at least one element is called non-empty set . Thus the set { 0 } is non-empty set.
+It has one element say 0.
+
+Singleton Set: A set containing one element is called Singleton Set.
+
+For example {1} is a singleton set, whose only element is 1.
+
+Equal Set: Two sets A & B are said to be equal, written as A = B if every element of A is in B
+and every element of B is in A.
+
+Illustration: If A = {2, 4, 6} and B = {2, 4, 6} then A = B.
+
+Remarks : (I) The elements of the two sets may be listed in any order.
+
+© The Institute of Chartered Accountants of India
+7.4  BUSINESS MATHEMATICS
+
+Thus, {1, 2, 3} = {2, 1, 3} = {3, 2, 1} etc.
+(II) The repetition of elements in a set is meaningless.
+Example: {x : x is a letter in the word "follow"} = {f, o, l, w}
+Example: Show that  , {0} and 0 are all different.
+Solution:  is a set containing no element at all; {0} is a set containing one element, namely 0.
+And 0 is a number, not a set.
+Hence  ,{0} and 0 are all different.
+The set which contains all the elements under consideration in a particular problem is called
+the universal set denoted by S. Suppose that P is a subset of S. Then the complement of P,
+written as Pc (or P') contains all the elements in S but not in P. This can also be written as S ­ P
+or S ~ P. S ­ P = {x : x  S, x  P}.
+For example let S = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+P = {0, 2, 4, 6, 8}
+Q = {1, 2, 3, 4, 5)
+Then P' = {1, 3 ,5 ,7, 9} and Q'= {0 , 6 , 7, 8, 9}
+
+Also P  Q = {0, 1, 2, 3, 4, 5, 6, 8}, (P  Q)' = {7, 9}
+
+P  Q = {2, 4}
+
+P  Q' = {0, 2, 4, 6, 7, 8, 9}, (P  Q)' = {0, 1, 3, 5, 6, 7, 8, 9}
+
+P'  Q' = {0, 1, 3, 5, 6, 7, 8, 9}
+
+P'  Q' = {7, 9}
+
+So it can be noted that (P  Q)' = P'  Q' and (P  Q)' = P'  Q'. These are known as De Morgan's
+laws.
+
+We may represent the above operations on sets by means of Euler - Venn diagrams.
+
+                                                        S          P
+
+     P                                                                     Q
+
+        (a)                                                Fig. 1     (b)
+
+     © The Institute of Chartered Accountants of India
+   SETS, RELATIONS AND FUNCTIONS                                                  7.5
+
+Thus Fig. 1(a) shows a universal set S represented by a rectangular region and one of its subsets
+P represented by a circular shaded region.
+
+The un-shaded region inside the rectangle represents P'.
+
+Figure 1(b) shows two sets P and Q represented by two intersecting circular regions. The total
+shaded area represents PUQ, the cross-hatched "intersection" represents P  Q.
+
+The number of distinct elements contained in a finite set A is called its cardinal number. It is
+denoted by n(A). For example, the number of elements in the set R = {2, 3, 5, 7} is denoted by
+n(R). This number is called the cardinal number of the set R.
+
+Thus n(AUB) = n(A) + n(B) ­ n(A  B)
+If A and B are disjoint sets, then n(AUB) = n(A) + n(B) as n (A  B) = 0
+
+A  B
+
+For three sets P, Q and R
+n(PUQUR) = n(P) + n(Q) + n(R) ­ n(P  Q) ­ n(Q  R) ­ n(P  R) + n(P  Q  R)
+When P, Q and R are disjoint sets
+
+                         = n(P) + n(Q) + n(R)
+Illustration: If A = {2, 3, 5, 7} , then n(A) = 4
+Equivalent Set: Two finite sets A & B are said to be equivalent if n (A) = n(B).
+Clearly, equal sets are equivalent but equivalent sets need not be equal.
+
+   © The Institute of Chartered Accountants of India
+7.6           BUSINESS MATHEMATICS
+
+Illustration: The sets A = {1, 3, 5} and B = {2, 4, 6} are equivalent but not equal.
+Here n (A) = 3 = n (B) so they are equivalent sets. But the elements of A are not in B. Hence they
+are not equal though they are equivalent.
+Power Set : The collection of all possible subsets of a given set A is called the power set of A, to
+be denoted by P(A).
+Illustration: (i) If A = {1, 2, 3} then
+
+P(A) = { {1, 2, 3}, {1, 2}, {1, 3}, {2, 3}, {1}, {2}, {3},  }
+(ii) If A = {1, {2}}, we may write A = {1, B} when B = {2} then
+
+P(A) = {  , {1}, {B }, {1, B}} = {  , {1}, {{2}}, {1,{2}}}
+
+Choose the most appropriate option or options (a) (b) (c) or (d).
+
+1. The number of subsets of the set {2, 3, 5} is
+
+     (a) 3     (b) 8                                    (c) 6                 (d) none of these
+
+2. The number of subsets of a set containing n elements is
+
+     (a) 2n    (b) 2­n                                  (c) n                 (d) none of these
+                                                                              (d) none of these
+3. The null set is represented by
+
+     (a){  }   (b) { 0 }                                (c) 
+
+4. A = {2, 3, 5, 7} , B = { 4, 6, 8, 10} then A  B can be written as
+
+     (a) { }   (b) {  }                                 (c) (AUB)'            (d) None of these
+
+5. The set {x|0<x<5} represents the set when x may take integral values only
+
+     (a) {0, 1, 2, 3, 4, 5} (b) {1, 2, 3, 4}            (c) {1, 2, 3, 4, 5 }  (d) none of these
+
+6. The set {0, 2, 4, 6, 8, 10} can be written as
+
+     (a) {2x | 0<x <5} (b) {x : 0<x<5}                  (c) {2x : 0<x<5}      (d) none of these
+
+From Q.7 to Q.10 The data to be used If P = {1, 2, 3, 5, 7}, Q = {1, 3, 6, 10, 15},
+
+Universal Set S = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}
+
+7. The cardinal number of P  Q is
+
+     (a) 3     (b) 2                                    (c) 0                 (d) none of these
+
+8. The cardinal number of P  Q is
+
+     (a) 10    (b) 9                                    (c) 8                 (d) none of these
+
+9. n (P' ) is
+
+     (a) 10    (b) 5                                    (c) 6                 (d) none of these
+
+10. n(Q' ) is
+
+     (a) 4     (b) 10                                   (c) 4                 (d) none of these
+
+11. The set of cubes of the natural number is
+
+     (a) a finite set (b) an infinite set               (c) a null set        (d) none of these
+
+     © The Institute of Chartered Accountants of India
+                                                          SETS, RELATIONS AND FUNCTIONS            7.7
+
+12. The set {2x|x is any positive rational number} is
+
+(a) an infinite set (b) a null set                 (c) a finite set     (d) none of these
+
+13. {1­ (­1)x} for all integer x is the set
+
+(a) {0}                  (b) {2}                   (c) {0, 2}           (d) none of these
+
+14. E is a set of positive even numbers and O is a set of positive odd numbers, then E  O is a
+
+(a) set of whole numbers             (b) N         (c) a set of rational number (d) none of these
+
+15. If R is the set of positive rational numbers and E is the set of real numbers then
+
+(a) R E                  (b) R  E                  (c) E  R             (d) none of these
+
+16. If N is the set of natural numbers and I is the set of positive integers, then
+
+(a) N = I                (b) N  I                  (c) N I              (d) none of these
+
+17. If I is the set of isosceles triangles and E is the set of equilateral triangles, then
+
+(a) I  E                 (b) E  I                  (c) E = I            (d) none of these
+
+18. If R is the set of isosceles right angled triangles and I is set of isosceles triangles, then
+
+(a) R = I                (b) R I                   (c) R  I             (d) none of these
+                                                   (c) is an empty set  (d) none of these
+19. {n(n+1)/2 : n is a positive integer} is        (c) n(A)= n(B)       (d) n(A)<n(B)
+
+(a) a finite set (b) an infinite set
+
+20. If A = {1, 2, 3, 5, 7}, and B = {x2 : x A}
+
+(a) n(b) = n(A) (b) n(B) > n(A)
+
+21. A  A is equal to
+
+(a) A                    (b) E                     (c)                  (d) none of these
+
+22. A  A is equal to
+
+(a)                      (b) A                     (c) E                (d) none of these
+
+23. (A  B)' is equal to
+
+(a) (A  B)'              (b) A  B'                 (c) A'  B'           (d) none of these
+                                                   (c) A'  B'           (d) none of these
+24. (A  B)' is equal to
+
+(a) (A'  B)'             (b) A'  B'
+
+25. A  E is equal to (E is a superset of A)
+
+(a) A                    (b) E                     (c)                  (d) none of these
+
+26. A  E is equal to (E is a superset of A)
+
+(a) A                    (b) E                     (c)                  (d) none of these
+
+© The Institute of Chartered Accountants of India
+7.8         BUSINESS MATHEMATICS
+
+27. E  E is equal to E is a superset of A
+
+     (a) E  (b)                             (c) 2E         (d) none of these
+                                            (c) A          (d) none of these
+28. A  E' is equal to E is a superset of A
+
+     (a) E  (b) 
+
+29. A   is equal to E is a superset of A
+
+     (a) A  (b) E                           (c)            (d) none of these
+
+30. AUA' is equal to E is a superset of A
+
+     (a) E  (b)                             (c) A          (d) none of these
+
+31. If E = {1, 2, 3, 4, 5, 6, 7, 8, 9}, the subset of E satisfying 5 + x > 10 is
+
+     (a) {5, 6, 7, 8, 9} (b) {6, 7, 8, 9}   (c) {7, 8, 9}  (d) none of these
+
+32. If A B = (A­B)  (B­A) and A = {1, 2, 3, 4}, B = {3,5,7} than AB is
+
+     (a) {1, 2, 4, 5, 7} (b) {3}            (c) {1, 2, 3, 4, 5, 7} (d) none of these
+
+[Hint : If A and B are any two sets, then
+
+A - B = { x : x  A, x  B}.
+
+[i.e. A - B Contains all elements of A but not in B] .
+
+Ordered Pair : Two elements a and b, listed in a specific order, form an ordered pair, denoted
+by (a, b).
+Cartesian Product of sets : If A and B are two non-empty sets, then the set of all ordered pairs
+(a, b) such that a belongs to A and b belongs to B , is called the Cartesian product of A and B,
+to be denoted by A × B.
+Thus, A × B = {(a, b) : a  A and b  B}
+If A =  or B =  , we define A × B = 
+Illustration: Let A = {1, 2, 3}, B = {4, 5}
+Then A × B = { (1, 4), (1, 5), (2, 4) (2, 5), (3, 4), (3, 5) }
+Example: If A × B = { ( 3, 2 ) , (3, 4) , (5, 2), (5, 4) } , find A and B.
+Solution: Clearly A is the set of all first co-ordinates of A × B, while B is the set of all second
+co-ordinates of elements of A × B.
+Therefore A = {3, 5} and B = {2 , 4}
+Example: Let P = {1, 3, 6} and Q {3, 5}
+The product set P × Q = {(1, 3), (1, 5), (3, 3), (3, 5), (6, 3), (6, 5)} .
+
+   © The Institute of Chartered Accountants of India
+                                                      SETS, RELATIONS AND FUNCTIONS  7.9
+
+Notice that n(P×Q) = n(P) × n(Q) and ordered pairs (3, 5) and (5, 3) are not equal.
+and Q × P = {(3, 1), (3, 3), (3, 6), (5, 1), (5, 3), (5, 6)}
+
+So P × Q Q × P; but n (P × Q) = n (Q × P).
+
+Illustration: Here n(P) = 3 and n(Q ) = 2, n (P × Q) = 6. Hence n(P×Q) = n(P) × n(Q). and
+
+n(P × Q ) = n(Q × P) = 6.
+
+We can represent the product set of                 Y                  (6, 5)
+ordered pairs by plotting points in the XY plane.       (1, 5) (3, 5)  (6, 3)
+
+                                                   5
+                                                   4
+                                                   3
+                                                   2 (1, 3) (3, 3)
+
+                                                   1
+
+                                                                       X
+
+                                                      12 3 4 56
+
+If X=Y= the set of all natural numbers, the product set XY represents an infinite equal lattice of
+points in the first quadrant of the XY plane.
+
+Any subset of the product set X.Y is said to define a relation from X to Y and any relation from
+X to Y in which no two different ordered pairs have the same first element is called a function.
+
+Let A and B be two non-empty sets. Then, a rule or a correspondence f which associates to
+each element x of A, a unique element, denoted by f(x) of B , is called a function or mapping
+
+from A to B and we write f : AB
+
+The element f(x) of B is called the image of x, while x is called the pre-image of f (x).
+
+Let f : AB, then A is called the domain of f, while B is called the co-domain of f.
+
+The set f(A) = {f (x) : x  A} is called the range of f.
+Illustration: Let A = {1, 2, 3, 4} and B ={1, 4, 9, 16, 25}
+We consider the rule f(x) = x2 . Then f(1) = 1 ; f(2) =4 ; f (3) = 9 & f (4) = 16.
+Then clearly each element in A has a unique image in B.
+
+So, f : A  B : f (x) = x2 is a function from A to B.
+
+Here domain of f = {1, 2, 3, 4} and range of f = {1, 4, 9, 16}
+
+© The Institute of Chartered Accountants of India
+7.10  BUSINESS MATHEMATICS
+
+Example: Let N be the set of all natural numbers. Then, the rule
+
+         N                                         f  N
+
+      3                                                  6
+
+      2                                                  4
+
+      1                                                  2
+
+f : N  N : f(x) = 2x, for all x  N
+
+is a function from N to N, since twice a natural number is unique.
+Now, f (1) = 2; f (2) = 4; f(3) = 6 and so on.
+Here domain of f = N = {1, 2 ,3, 4 ,...........} ; range of f = { 2, 4, 6,...........}
+This may be represented by the mapping diagram or arrow graph.
+
+One-One Function : Let f : AB. If different elements in A have different images in B, then f
+
+is said to be a one-one or an injective function or mapping.
+
+Illustration: (i) Let A = {1, 2, 3} and B = {2, 4, 6}
+
+Let us consider f : AB : f(x) = 2x.
+
+Then f(1) = 2; f(2) =4 ; f (3) = 6
+
+Clearly, f is a function from A to B such that different elements in A have different images in B.
+Hence f is one-one.
+
+Remark : Let f : AB and let x1 , x2  A.
+
+Then x1 = x2 implies f(x1) = f(x2) is always true.
+But f(x1) = f(x2) implies x1 = x2 is true only when f is one-one.
+(ii) let x={1, 2, 3, 4} and y={1, 2, 3}, then the subset {(1, 2), (1, 3), (2, 3)} defines a relation on X.Y.
+
+         1X                                           1Y
+      2                                               2
+                                                      3
+
+Notice that this particular subset contains all the ordered pair in X.Y for which the X element (x)
+is less than the Y element (y). So in this subset we have X<Y and the relation between the set, is
+"less than". This relation is not a function as it includes two different ordered pairs (1, 2), (1, 3)
+have same first element.
+
+                                              X.Y={(1, 1), (1, 2), (1, 3), (2, 1), (2, 2), (2, 3)
+
+                                              (3, 1), (3, 2), (3, 3),(4, 1), (4, 2), (4, 3)}
+
+© The Institute of Chartered Accountants of India
+                                                   SETS, RELATIONS AND FUNCTIONS  7.11
+
+The subset {(1, 1), (2, 2), (3, 3)} defines the function y= x as different ordered pairs of this subset
+have different first element.
+
+Onto or Surjective Functions : Let f : AB. If every element in B has at least one pre-image in
+
+A, then f is said to be an onto function.
+
+If f is onto, then corresponding to each y  B, we must be able to find at least one element
+x  A such that y = f (x)
+
+Clearly, f is onto if and only if range of f = B
+
+Illustration: Let N be the set of all natural numbers and E be the set of all even natural numbers.
+Then, the function
+
+f : N  E : f (x) = 2x , for all x  N
+
+is onto, since each element of E is of the form 2x, where x  N and the same is the
+f-image of x  N.
+
+1                                                     2
+
+2                                                     4
+
+3                                                     6
+
+N                                                  E
+
+Represented on a mapping diagram it is a on to mapping of X onto Y.
+
+Bijection Function : A one-one and onto function is said to be bijective.
+A bijective function is also known as a one-to-one correspondence.
+Identity Function : Let A be a non-empty set. Then, the function I defined by
+
+I : A  A : I (x) = x for all x  A is called an identity function on A.
+
+It is a one-to-one and onto function with domain A and range A.
+
+Into Functions: Let f : A  B. There exists even a single element in B having no pre-image in A,
+
+then f is said to be an into function.
+
+Illustration: Let A = {2, 3, 5, 7} and B = {0, 1, 3, 5, 7} . Let us consider f : A  B;
+
+f (x) = x ­ 2. Then f(2) = 0; f(3) = 1 ; f (5) =3 & f(7) = 5.
+It is clear that f is a function from A to B .
+Here there exists an element 7 in B, having no pre-mage in A.
+So, f is an into function.
+
+Constant Function: Let f : A  B, defined in such a way that all the elements in A have the
+
+same image in B, then f is said to be a constant function.
+
+© The Institute of Chartered Accountants of India
+7.12  BUSINESS MATHEMATICS
+
+Illustration: Let A = {1, 2, 3} and B = {5, 5, 5} or B={5}. Let f : A  B : f (x) = 5 for all x  A.
+
+Then, all the elements in A have the same image namely 5 in B.
+So, f is a constant function.
+
+Remark: The range set of a constant function is a singleton set.
+Example: Another subset of X.Y is {(1, 3), (2, 3), (3, 3), (4, 3)}
+
+      412  X                                          1Y
+                                                      2
+      3                                               3
+
+This relation is a function (a constant function). It is represented on a mapping diagram and is
+a many-one mapping of X into Y.
+
+Let us take another subset {(4, 1), (4, 2), (4, 3)} of X.Y. This is a relation but not a function. Here
+different ordered pairs have same first element so it is not a function.
+
+                 1                                       1
+      X2
+                                                   >     2Y
+             3
+                                                         43
+             x
+                                                      y
+            1
+            2                                                      5
+            3                                                     4
+                                                   mapping
+                   Many-one
+
+There are two example of many-one mapping.
+
+Equal Functions: Two functions f and g are said to be equal, written as f = g if they have the
+same domain and they satisfy the condition f(x) = g(x), for all x.
+
+A function may simply pair people and the corresponding seat numbers in a theatre. It may
+simply associate weights of parcels with portal delivery charge or it may be the operation of
+squaring, adding to doubling, taking the log of etc.
+
+© The Institute of Chartered Accountants of India
+                                 SETS, RELATIONS AND FUNCTIONS  7.13
+
+                    x         f           x
+
+                 A                           101
+
+                 B                           236
+
+                 C                           300
+
+The function f here assigning a locker number to each of the persons A, B and C. Names are
+associated with or mapped onto, locker numbers under the function f.
+
+We can write     f : X  Y or f(x) = y or          f(B) = 236
+
+              x  n     y         g                 z
+
+              1        0                             3
+
+24                     12                         54
+  8                        3                         6
+
+            This diagram shows the effect of two functions n and g on the sets X, Y and Z
+
+n : XY and g : YZ
+
+If x, y, z are corresponding elements of X, Y and Z, we write n(x) = y and g(y) = z
+Thus g n(1) = 0 and g (0) = 3, so that g (n(1)) = g(0) = 3 we can write it as
+g (n(1)) or g o n (1) = 3 But g(1) = 4 and n(g(1) )= n(4) = 2
+So g(n)  n(g) [(or, g (o n)  n (o g))]
+The function g(n) or n(g) is called a composite function. As n(8) = 3, we say that 3 is the image of
+8 under the mapping (or function) n.
+
+Inverse Function: Let f be a one-one onto function from A to B. Let y be an arbitrary element
+of B. Then f being onto, there exists an element x in A such that f (x) = y.
+As f is one-one this x is unique.
+Thus for each y  B, there exists a unique element x  A such that f (x) = y.
+So, we may define a function, denoted by f ­1 as:
+
+f­1 : BA : f­1 (y ) = x if and only if f (x) = y.
+
+The above function f­1 is called the inverse of f.
+A function is invertible if and only if f is one-one onto.
+
+Remarks: If f is one-one onto then f­1 is also one-one onto.
+
+Example: net A = {1, 3, 5, 7} and B = {3, 4, 9} So, f; AB given by {(1, 2), (3, 3), (5, 4) (7, 9)} and
+
+it is one-one on to mapping. Now if then is there of f.
+
+If f : AB then f ­1 : BA.
+
+    © The Institute of Chartered Accountants of India
+7.14         BUSINESS MATHEMATICS
+
+Choose the most appropriate option/options (a) (b) (c) or (d).
+
+1. If A = {x, y, z}, B = {p, q, r, s} which of the relations on A to B are functions.
+
+      (a) {(x, p), (x, q), (y, r), (z, s)}, (b) {( x, s), (y, s), (z, s)}
+
+      (c) {(y, p), (y, q), (y, r),(z, s), (d) {(x, p), (y, r), (z, s)}
+
+2. {(x, y)|x+y = 5} where x, y  R is a
+
+      (a) not a function (b) a composite function (c) one-one mapping (d) none of these
+
+3. {( x, y)|x = 4} where x, y  R is a
+
+      (a) not a function (b) function                (c) one-one mapping (d) none of these
+
+4. {(x, y), y=x2} where x, y  R is
+
+      (a) not a function (b) a function              (c) inverse mapping (d) none of these
+
+5. {(x, y)|x<y} where x, y  R is
+
+      (a) not a function (b) a function              (c) one-one mapping (d) none of these
+
+6. The domain of {(1, 7), (2, 6)} is
+
+      (a) {1, 6}          (b) {7, 6}                 (c) {1, 2}                (d) {6, 7}
+
+7. The range of {(3, 0), (2, 0), (1, 0), (0, 0)} is
+
+      (a) {0, 0}          (b) {0}                    (c) {0, 0, 0, 0}          (d) none of these
+
+8. The domain and range of {(x,y) : y = x2} where x, y  R is
+
+      (a) (reals, natural numbers)                   (b) (reals, non-negative reals)
+
+      (c) (reals, reals)                             (d) none of these
+
+9. Let the domain of x be the set {1}. Which of the following functions gives values equal to 1
+
+      (a) f(x) = x2, g(x) = x                        (b) f(x) = x, g(x) = 1­x
+
+      (c) f(x) = x2 + x + 2, g(x) = (x+ 1)2          (d) none of these
+
+10. If f(x) = 1/1­x, f(­1) is
+
+      (a) 0               (b) ½                      (c) 0                     (d) none of these
+
+11. If g(x) = (x­1)/x, g(­½) is
+
+      (a) 1               (b) 2                      (c) 3/2                   (d) 3
+
+12. If f(x) = 1/1­x and g(x) = (x­1)/x, then fog(x) is
+
+      (a) x               (b) 1/x                    (c) ­x                    (d) none of these
+
+13. If f(x) = 1/1­x and g(x) = (x­1)/x, then gof(x) is
+
+      (a) x­1             (b) x                      (c) 1/x                   (d) none of these
+
+© The Institute of Chartered Accountants of India
+                                                            SETS, RELATIONS AND FUNCTIONS  7.15
+
+14. The function f(x) = 2x is                      (b) one-many
+      (a) one-one mapping                          (d) none of these
+      (c) many-one
+
+15. The range of the function f(x) = log10(1 + x) for the domain of real values of x when 0  x
+       9 is
+
+(a) [0, 1]         (b) [0, 1, 2]                   (c) {0, 1}           (d) none of these
+
+16. The Inverse function f­1 of f(x) = 2x is
+
+(a) 1/2x           (b)  x                          (c) 1/x              (d) none of these
+                        2
+
+17. If f(x) = x+3, g(x) = x2, then fog(x) is
+
+(a) x2 + 3         (b) x2 + x + 3                  (c) (x + 3)2         (d) none of these
+
+18. If f(x) = x+3, g(x) = x2, then f(x).g(x) is
+
+(a) (x + 3)2       (b) x2 + 3                      (c) x3 + 3x2         (d) none of these
+
+19. The Inverse h­1 when h(x) = log10x is
+
+(a) log10x         (b) 10x                         (c) log10(1/x)       (d) none of these
+
+20. For the function h(x) = 101+x the domain of real values of x where 0 < x < 9, the range is
+
+(a) 10 < h(x) < 1010                               (b) 0 < h(x) < 1010  (c) 0 < h(x) < 10
+
+(d) none of these
+
+Different types of relations
+
+Let S = {a, b, c, ....} be any set then the relation R is a subset of the product set S×S
+      i) If R contains all ordered pairs of the form (a, a) in S×S, then R is called reflexive. In a
+            reflexive relation 'a' is related to itself .
+
+For example, 'Is equal to' is a reflexive relation for a = a is true.
+      ii) If (a, b)  R  (b, a)  R for every a, b  S then R is called symmetric
+
+For example ab  b = a. Hence the relation 'is equal to' is a symmetric relation.
+      iii) If (a, b)  R and (b, c)  R  (a, c)  R for every a, b, c,  S then R is called transistive.
+
+For example a =b, b=c  a=c. Hence the relation 'is equal to' is a transitive relation.
+A relation which is reflexive, symmetric and transitive is called an equivalence relation or simply
+an equivalence. 'is equal to' is an equivalence relation.
+Similarly, the relation " is parallel to " on the set S of all straight lines in a plane is an equivalence
+relation.
+
+Illustration: The relation "is parallel to" on the set S is
+(1) reflexive, since a || a for a  S
+
+© The Institute of Chartered Accountants of India
+7.16  BUSINESS MATHEMATICS
+
+(2) symmetric, since a || b  b || a
+(3) transitive, since a || b , b || c  a || c
+Hence it is an equivalence relation.
+Domain & Range of a relation : If R is a relation from A to B, then the set of all first co-
+ordinates of elements of R is called the domain of R, while the set of all second co-ordinates of
+elements of R is called the range of R.
+So, Dom (R) = { a : (a, b)  R } & Range ( R) = { b : (a, b)  R}
+
+Illustration: Let A = {1, 2, 3} and B = {2, 4, 6}
+Then A × B = {(1, 2), (1, 4), (1, 6), (2, 2), (2, 4), (2, 6), (3, 2), (3, 4), (3, 6)}
+By definition every subset of A × B is a relation from A to B.
+Thus, if we consider the relation
+R = { (1, 2), (1, 4), (3, 2), (3, 4)} then Dom (R) = {1, 3} and Range (R)= {2, 4}
+From the product set X. Y = {(1, 3), (2, 3), (3, 3), (4, 3), (2, 2), (3, 2), (4, 2), (1, 1), (2, 1), (3, 1),
+(4, 1)}, the subset {(1, 1), (2, 2), (3, 3)} defines the relation 'Is equal to' , the subset {(1, 3), (2, 3),
+(1, 2)} defines 'Is less than', the subset {(4, 3), (3, 2), (4, 2), (2, 1), (3, 1), (4, 1)} defines 'Is greater
+than' and the subset {(4, 3), (3, 2), (4, 2), (2, 1), (3, 1), (4, 1), (1, 1), (2, 2) (3, 3)} defines to greater
+'In greater than or equal'.
+Illustration: Let A = {1, 2, 3} and b = {2, 4, 6}
+Then A × B = {(1, 2), (1, 4), (1, 6), (2, 2), (2, 4), (2, 6), (3, 2), (3, 4), (3, 6)}
+If we consider the relation = {(1, 2), (1, 4), (3, 4)} then Dom (R) = {1, 3} and
+Range = {2, 4}. Here the relation "Is less than".
+Identity Relation: The relation I = {(a, a) : a  A} is called the identity relation on A.
+Illustration: Let A = {1, 2, 3} then I = {(1, 1), (2, 2), (3, 3)}
+Inverse Relation: If R be a relation on A, then the relation R­1 on A, defined by
+R­1 = {(b, a) : (a, b)  R} is called an inverse relation on A.
+Clearly , Dom (R­1) = Range (R) & Range (R­1) = Dom (R).
+Illustration: Let A = {1, 2, 3} and R = {(1, 2), (2, 2), (3, 1), (3, 2)}
+Then R being a subset of a × a, it is a relation on A. Dom (R) = {1, 2, 3} and Range (R) = {2, 1}
+Now, R­1 = {(2, 1), (2, 2), (1, 3), (2, 3)}. Here, Dom (R­1) = {2, 1} = Range (R) and
+Range (R­1 ) = {1, 2, 3} = Dom (R).
+Illustration: Let A = {1, 2, 3}, then
+(i) R1 = {(1, 1), (2, 2), (3, 3), (1, 2)}
+Is reflexive and transitive but not symmetric, since (1, 2)  R1 but (2, 1) does not belongs to R1.
+
+© The Institute of Chartered Accountants of India
+                                                      SETS, RELATIONS AND FUNCTIONS  7.17
+
+(ii) R2 = {(1, 1), (2, 2), (1, 2), (2, 1)}
+is symmetric and transitive but not reflexive, since (3, 3) does not belong to R2.
+(iii) R3 = {(1, 1), (2, 2), (3, 3), (1, 2), (2, 1), (2, 3), (3, 2)}
+is reflexive and symmetric but not transitive , since (1, 2)  R3 & (2, 3)  R3 but
+(1, 3) does not belong to R3.
+
+Problems and solution using Venn Diagram
+1. Out of a group of 20 teachers in a school, 10 teach Mathematics, 9 teach Physics and 7
+
+      teach Chemistry. 4 teach Mathematics and Physics but none teach both Mathematics and
+      Chemistry. How many teach Chemistry and Physics? How many teach only Physics ?
+
+                P                                                   C
+                                                   x
+                  9-4-x
+                       4                                   7-x
+
+                10-4=6                             M
+
+Let x be the no. of teachers who teach both Physics & Chemistry.
+
+9 ­ 4 ­ x + 6 + 7 ­ x + 4 + x = 20
+
+or 22 ­ x = 20
+
+or x = 2
+
+Hence, 2 teachers teach both Physics and Chemistry and 9 ­ 4 ­ 2 = 3 teachers teach only
+Physics.
+
+2. A survey shows that 74% of the Indians like grapes, whereas 68% like bananas.
+
+What percentage of the Indians like both grapes and bananas?
+
+Solution: Let P & Q denote the sets of Indians who like grapes and bananas respectively.
+Then n(P ) = 74, n(Q) = 68 and n(P  Q) = 100.
+
+We know that n( P  Q) = n(P) + n(Q) ­ n( P  Q ) = 74 + 68 ­ 100 = 42.
+
+Hence, 42% of the Indians like both grapes and bananas.
+
+3. In a class of 60 students, 40 students like Maths, 36 like Science, and 24 like both the
+      subjects. Find the number of students who like
+
+(i) Maths only  (ii) Science only                     (iii) either Maths or Science
+
+(iv) neither Maths nor Science
+
+© The Institute of Chartered Accountants of India
+7.18  BUSINESS MATHEMATICS
+
+      Solution: Let M = students who like Maths and S = students who like Science
+      Then n( M) = 40, n(S) = 36 and n (M  S ) = 24
+      Hence,
+      (i) n(M) ­ n(M  S) = 40 ­ 24 = 16 = number of students like Maths only.
+      (ii) n( S ) ­ n(M  S) = 36 ­ 24 = 12 = number of students like Science only.
+
+      (iii) n(M  S) = n(M) + n(S) ­ n(M  S) = 40 + 36 ­ 24 = 52 = number of students who like
+              either Maths or Science.
+
+      (iv) n(M  S)c = 60 ­ n(M  S ) = 60 ­ 52 = 8 = number of students who like neither Maths
+              nor Science.
+
+ A set is defined to be a collection of well-defined distinct objects. This collection may be
+      listed or described. Each object is called an element of the set. We usually denote sets by
+      capital letters and their elements by small letters.
+
+ Singleton Set: A set containing one element is called Singleton.
+ Equal Set: Two sets A & B are said to be equal, written as A = B if every element of A is in
+
+      B and every element of B is in A.
+ Universal Set: The set which contains all the elements under consideration in a particular
+
+      problem is called the universal set denoted by S. Suppose that P is a subset of S. Then the
+      complement of P, written as Pc (or P') contains all the elements in S but not in P. This can also
+      be written as S ­ P or S ~ P. S ­ P = {x : x  S, x  P}.
+ If A and B are two sets then
+
+      n(AUB) = n(A) + n(B) ­ n(A  B)
+
+ If A and B are disjoint sets, then n(AUB) = n(A) + n(B) as n (A  B) = 0
+
+ For three sets P, Q and R
+
+      n(PUQUR) = n(P) + n(Q) + n(R) ­ n(P  Q) ­ n(Q  R) ­ n(P  R) + n(P  Q  R)
+
+      When P, Q and R are disjoint sets
+                     = n(P) + n(Q) + n(R)
+
+ Equivalent Set: Two finite sets A & B are said to be equivalent if n (A) = n(B).
+ Power Set: The collection of all possible subsets of a given set A is called the power set of
+
+      A, to be denoted by P(A).
+      1. A set containing n elements has 2n subsets.
+      2. A set containing n elements has 2n-1 proper subsets
+
+© The Institute of Chartered Accountants of India
+                                                   SETS, RELATIONS AND FUNCTIONS  7.19
+
+ Ordered Pair: Two elements a and b, listed in a specific order, form an ordered pair,
+      denoted by (a, b).
+
+ Cartesian Product of sets: If A and B are two non-empty sets, then the set of all ordered
+      pairs (a, b) such that a belongs to A and b belongs to B , is called the Cartesian product of A
+      and B, to be denoted by A × B.
+
+      Thus, A × B = {(a, b) : a  A and b  B}
+
+      If A =  or B =  , we define A × B = 
+ Relation and Function: Any subset of the product set X.Y is said to define a relation from
+
+      X to Y and any relation from X to Y in which no two different ordered pairs have the same
+      first element is called a function.
+      Let A and B be two non-empty sets. Then, a rule or a correspondence f which associates to
+      each element x of A, a unique element, denoted by f(x) of B , is called a function or mapping
+
+     from A to B and we write f : AB
+
+      The element f(x) of B is called the image of x, while x is called the pre-image of f (x).
+
+     Let f : AB, then A is called the domain of f, while B is called the co-domain of f.
+
+      The set f(A) = { f (x) : x  A } is called the range of f.
+
+ One-one Function: Let f : AB. If different elements in A have different images in B, then
+
+      f is said to be a one-one or an injective function or mapping.
+
+ Onto or Surjective Functions: Let f : AB. If every element in B has at least one pre-
+
+      image in A, then f is said to be an onto function.
+
+      If f is onto, then corresponding to each y  B, we must be able to find at least one element
+      x  A such that y = f (x)
+
+      Clearly, f is onto if and only if range of f = B
+
+ Bijection Function: A one-one and onto function is said to be bijective.
+      A bijective function is also known as a one-to-one correspondence.
+
+ Identity Function: Let A be a non-empty set . Then, the function I defined by
+
+     I : A  A : I (x) = x for all x  A is called an identity function on A.
+
+ It is a one-to-one onto function with domain A and range A.
+
+     Into Functions: Let f : A  B. There exists even a single element in B having no pre-image
+
+      in A, then f is said to be an into function.
+
+ Constant Function: Let f : A  B, defined in such a way that all the elements in A have
+
+      the same image in B, then f is said to be a constant function.
+
+ Equal Functions: Two functions f and g are said to be equal, written as f = g if they have
+      the same domain and they satisfy the condition f(x) = g(x), for all x.
+
+ Inverse Function: Let f be a one-one onto function from A to B. Let y be an arbitrary
+      element of B. Then f being onto, there exists an element x in A such that f (x) = y.
+
+© The Institute of Chartered Accountants of India
+7.20           BUSINESS MATHEMATICS
+
+      A function is invertible if and only if f is one-one onto.
+
+ Different types of relations:
+
+      Let S = {a, b, c, ....} be any set then the relation R is a subset of the product set S×S
+      i) If R contains all ordered pairs of the form (a, a) in S×S, then R is called reflexive. In a
+
+             reflexive relation 'a' is related to itself.
+             For example, 'Is equal to' is a reflexive relation for a = a is true.
+      ii) If (a, b)  R  (b, a)  R for every a, b  S then R is called symmetric
+             For Example a  b  b = a. Hence the relation 'is equal to' is a symmetric relation.
+      iii) If (a, b)  R and (b, c)  R  (a, c)  R for every a, b, c,  S then R is called transistive.
+
+         For Example a = b, b = c  a = c. Hence the relation 'is equal to' is a transitive relation.
+      A relation which is reflexive, symmetric and transitive is called an equivalence relation or
+      simply an equivalence. 'is equal to' is an equivalence relation.
+      Similarly, the relation "is parallel to" on the set S of all straight lines in a plane is an
+      equivalence relation.
+ Domain & Range of a relation: If R is a relation from A to B, then the set of all first co-
+      ordinates of elements of R is called the domain of R, while the set of all second co-ordinates
+      of elements of R is called the range of R.
+      So, Dom (R) = {a : (a, b)  R} & Range (R) = {b : (a, b)  R}
+
+Choose the most appropriate option/options (a) (b) (c) or (d).
+
+1. "Is smaller than" over the set of eggs in a box is
+
+      (a) Transitive (T) (b) Symmetric (S)         (c) Reflexive (R)  (d) Equivalence (E)
+
+2. "Is equal to" over the set of all rational numbers is
+
+      (a) (T)  (b) (S)                             (c) (R)            (d) E
+
+      [By using using R = Reflexive; T = Transitive, S = Symmetric and E = Equivalence from
+      Q.No. 2 to 8]
+
+3. "has the same father as" ...... over the set of children
+
+      (a) R    (b) S                               (c) T              (d) E
+
+4. "is perpendicular to" over the set of straight lines in a given plane is
+
+      (a) R    (b) S                               (c) T              (d) E
+
+5. "is the reciprocal of" ........ over the set of non-zero real numbers is
+
+      (a) S    (b) R                               (c) T              (d) none of these
+
+6. { (x, y)/x , y  y, y  x } is
+
+© The Institute of Chartered Accountants of India
+                                                           SETS, RELATIONS AND FUNCTIONS    7.21
+
+(a) R         (b) S                                (c) T                 (d) E
+
+7. {(x,y) / x + y = 2x where x and y are positive integers}, is
+
+(a) R         (b) S                                (c) T                 (d) E
+
+8. "Is the square of" over n set of real numbers is
+
+(a) R         (b) S                                (c) T                 (d) none of these
+
+9. If A has 32 elements, B has 42 elements and A  B has 62 elements, the number of elements
+      in A  B is
+
+(a) 12        (b) 74                               (c) 10                (d) none of these
+
+10. In a group of 20 children, 8 drink tea but not coffee and 13 like tea. The number of children
+      drinking coffee but not tea is
+
+(a) 6         (b) 7                                (c) 1                 (d) none of these
+
+11. The number of subsets of the sets {6, 8, 11} is
+
+(a) 9         (b) 6                                (c) 8                 (d) none of these
+
+12. The sets V = {x / x+2=0}, R={x / x2+2x=0} and S = {x : x2 + x ­ 2 = 0} are equal to one
+      another if x is equal to
+
+(a) ­2        (b) 2                                (c) ½                 (d) none of these
+
+13. If the universal set E = {x |x is a positive integer <25}, A = {2, 6, 8, 14, 22}, B = {4, 8, 10, 14}
+      then
+
+(a) (A  B)'=A'  B' (b) (A  B)'= A'  B' (c) (A'  B)'=  (d) none of these
+
+14. If the set P has 3 elements, Q four and R two then the set P × Q × R contains
+
+(a) 9 elements (b) 20 elements                     (c) 24 elements       (d) none of these
+
+15. Given A = {2, 3}, B = {4, 5}, C = {5, 6} then A × (B  C) is
+
+(a) {(2, 5), (3, 5)} (b) {(5, 2), (5, 3)}          (c) {(2, 3), (5, 5)}  (d) none of these
+
+16. A town has a total population of 50,000. Out of it 28,000 read the newspaper X and
+      23,000 read Y while 4,000 read both the papers. The number of persons not reading X and
+      Y both is
+
+(a) 2,000     (b) 3,000                            (c) 2,500             (d) none of these
+
+17. If A = { 1, 2, 3, 5, 7} and B = {1, 3, 6, 10, 15}. Cardinal number of A-B is
+
+(a) 3         (b) 4                                (c) 6                 (d) none of these
+
+18. Which of the diagram is graph of a function
+
+Y                     Y                                    Y                      Y
+
+(a)           (b)                                     (c)                   (d)
+
+           x                                       x                     x                  x
+
+© The Institute of Chartered Accountants of India
+7.22           BUSINESS MATHEMATICS
+
+19. At a certain conference of 100 people there are 29 Indian women and 23 Indian men. Out
+      of these Indian people 4 are doctors and 24 are either men or doctors. There are no foreign
+      doctors. The number of women doctors attending the conference is
+
+      (a) 2         (b) 4                          (c) 1            (d) none of these
+
+20. Let A = {a, b}. Set of subsets of A is called power set of A denoted by P(A). Now n(P(A) is
+
+      (a) 2         (b) 4                          (c) 3            (d) none of these
+
+21. Out of 2000 employees in an office 48% preferred Coffee (c), 54% liked (T), 64% used to
+      smoke (S). Out of the total 28% used C and T, 32% used T and S and 30% preferred C and S,
+      only 6% did none of these. The number having all the three is
+
+      (a) 360       (b) 300                        (c) 380          (d) none of these
+
+22. Referred to the data of Q. 21 the number of employees having T and S but not C is
+
+      (a) 200       (b) 280                        (c) 300          (d) none of these
+
+23. Referred to the data of Q. 21 the number of employees preferring only coffee is
+
+      (a) 100       (b) 260                        (c) 160          (d) none of these
+
+24. If f(x) = x + 3, g(x) = x2, then g of (x) is
+
+      (a) (x + 3)2  (b) x2 + 3                     (c) x2 (x + 3),  (d) none of these
+
+25. If f(x) = 1/1­x, then f-1(x) is
+
+      (a) 1­x       (b) (x­1)/x                    (c) x/(x­1)      (d) none of these
+
+Exercise 7(A)       3. c             4. a          5. b     6. c    7. b   8. c
+1. b 2. a           11. b            12. a         13. c    14. b   15. b  16. a
+9. a 10. b          19. b            20. c         21. a    22. b   23. c  24. b
+17. b 18. c         27. a            28. b         29. c    30. a   31. b  32. a
+25. b 26. a
+Exercise 7(B)       3. a             4. b          5. a     6. c    7. b   8. b
+1. b, d 2. c        11. d            12. a         13. b    14. a   15. a  16. b
+9. a 10. b          19. b            20. a
+17. a 18. c
+Exercise 7(C)       3. d             4. b          5. a     6. d    7. d   8. d
+1. a 2. d           11. c            12. a         13. a    14. c   15. a  16. b
+9. a 10. b          19. c            20. b         21. a    22. b   23. c  24. a
+17. a 18. b
+25. b
+
+© The Institute of Chartered Accountants of India
+                                                                      SETS, RELATIONS AND FUNCTIONS               7.23
+
+      7.7 CONCEPT OF LIMIT
+
+I) We consider a function f(x) = 2 x. If x is a number approaching to the number 2 then f(x) is a
+number approaching to the value 2x2= 4
+
+The following table shows f(x) for different values of x approaching 2
+
+                           x                                  f(x)
+
+                           1.90                               3.8
+
+                           1.99                               3.98
+
+                           1.999                              3.998
+
+                           1.9999                             3.9998
+
+                           2                                  4
+
+Here x approaches 2 from values of x<2 and for x being very close to 2 f(x) is very close 4. This
+
+situation is defined as left-hand limit of f(x) as x approaches 2 and is written as lim f(x) = 4, x  2-
+
+                           x                                  f(x)
+
+                           2.0001                             4.0002
+
+                           2.001                              4.002
+
+                           2.01                               1.02
+
+                           2.0                                4
+
+Here x approaches 2 from values of x greater than 2 and for x being very close 2f(x) is
+very close to 4. This situation is defined as right-hand limit of f(x) as x approaches 2 and
+is written as lim f(x)= 4 as x  2+
+
+So we write
+
+= lim f(x) l= im f(x) 4
+x2-         x2-+
+
+Thus   lim  f  (x)  is  said   to  exist  when  both  left-hand  and  right-hand  limits  exists  and  they  are  equal.
+
+       xa
+
+We write as
+
+= lim f (x) l= im f (x) lim f (x)
+xa-            xa-+               xa
+
+Thus lim f (x) is said to exist when both left-hand and right-hand limits exists and they are equal.
+            xa
+
+We write as
+
+l= im f (x) l= im f (x) lim f (x)
+xa          xa+                xa
+
+Thus,  if  lim f (  a   +  h)  =  lim f (  a  - h),  (h > o)
+
+           ho                     ho
+
+© The Institute of Chartered Accountants of India
+7.24           BUSINESS MATHEMATICS
+
+then lim f ( x) exists
+           xa
+
+We now consider a function defined by
+
+      2x-2 for x < 0
+fx = 1 for x = 0
+
+      2x+2 for x > 0
+
+We calculate limit of f(x) as x tend to zero. At x =0 , f(x) =1 (given). If x tends to zero from left-
+
+hand side for the value of x<0, f(x) is approaching (2x0) ­2 + ­2 which is defined as left-hand limit
+
+of f(x) as x  0. We can write this as
+
+lim = -2
+
+x0-
+
+Similarly if x approaches zero from right-hand side for values of x>0, f(x) is approaching 2 x 0 +
+
+2   =  2.  We  can   write   this   as  lim f(x) =  -2.
+
+                                        x0+
+
+In this case both left-hand and right-hand exist, but they are not equal. So we may conclude that
+
+lim f(x) does not exist.
+
+x 0
+
+           7.8. USEFUL RULES (THEOREMS) ON LIMITS
+
+Let    lim f  (x) =  l  and    lim g (x)   =m
+
+       xa                      xa
+
+where l and m are finite quantities
+
+i)     lim f { f (x) + g(x)} = lim f(x) +lim g (x) = l + m
+       xa                           xa              xa
+
+       That is limit of the sum of the difference of two functions is equal to the sum of their limits
+
+ii)    lim{f (x) - g(x)} = lim f(x)- lim g(x) = l - m
+       xa                           xa        xa
+
+       That is limit of the difference of two functions is equal to difference of their limits.
+
+iii)   lim{f (x) .g(x)} = lim f(x) .lim g(x) = lm
+       xa                      xa             xa
+
+       That is limit of the product of two functions is equal to the product of their limits
+
+{ } { } iv)
+       lim{f(x) / g(x)} = lim f(x) / = lim g(x) l / m if m  0
+       xa                           xa              xa
+
+       That is limit of the quotient of two functions is equal to the quotient of their limits.
+
+v)     lim c   = c where c is constant
+
+       xa
+
+       That is limit of a constant is the constant
+
+vi) lim cf(x) = c lim f(x)
+       xa                  xa
+
+vii)   lim    F{f (x)}  =  F{ lim   F(x)}  =  F(l)
+                                 x
+       xa
+
+   © The Institute of Chartered Accountants of India
+                                                               SETS, RELATIONS AND FUNCTIONS  7.25
+
+viii) lim 1 = lim 1  + (h>0)
+      x0+ x h0 h
+
+       lim 1 = lim 1  - (h>0)
+       x0+ x h0 -h
+        is a very-every large number called infinity
+
+       Thus lim 1 does not exist.
+               x0+ x
+
+Example 1:       Evaluate (i)  lim(3x + 9);        (ii) lim 1               (iii) lim 1
+                                                        x5 x - 1                  xa x - a
+                               x2
+
+Solution:
+
+(i) lim (3x + 9) = 3.2 + 9 = (6 + 9) = 15
+           x2
+
+(ii) lim 1 = 1 = 1
+       x5 x - 1 5 - 1 4
+
+(iii)  lim 1     does not exist, since  lim 1       + and lim 1              -
+       xa x - a                         xa+ x - a                xa- x - a
+
+Example-2 Evaluate lim x2 - 5x + 6
+                            x2 x - 2
+
+Solution: At x = 2 the function becomes undefined as 2-2 =0 and division by zero is not
+mathematically defined.
+
+{ } So lim x2 - 5x + 6 /(x -= 2)  lim{(x - 3)/(x -= 2)}        lim= (x-  3) (x - 2  0)
+       x2
+                                  x2                           x2
+
+= 2-3 = -1
+Example-2 Evaluate lim x2 + 2x - 1
+
+                            x2 x2 + 2
+
+= lim x2 + 2x - 1  lim(x2 + 2x - 1)  lim(x2 + lim 2x - 1)
+x2 x2 + 2          x= 2              x2            x2
+
+                     lim x2 + 2                    lim x2 + 2
+
+                       x2                          x2
+
+(2)2 + 2x 2 - 1 = 7
+       (2)2 + 2    6
+
+© The Institute of Chartered Accountants of India
+                      BUSINESS MATHEMATICS
+
+: · ,,--..., SOME IMPORTANT LIMITS
+
+We now state some important limits
+
+a) lim (ex -1)=1
+          X---+0 X
+
+b)    lim- ax --1=log           e    a(a > 0)
+
+      X---+0 X
+
+c) lim log(l+ x) = 1
+      x---+0
+                         X
+
+d)                        x                               (l+x)    x
+
+      lXi--m-+X(l+_X!) =e or                   lXi-m--+0        X     =e
+
+e)    1Xr.---m+0  Xn  -an   =nan-1
+
+                       X-a
+
+f) lXi-m--+0- (l+xXr-1=n
+
+(A) The number e called exponential number is given bye = 2.71828182_ 8 _ _ _ _ =2.7183.
+This number e is one of the useful constants in mathematics.
+
+(B) In calculus all logarithms are taken with respect to base 'that is log x = loge x.
+
+ILLUSTRATIVE EXAMPLES
+
+Example 1:               Evaluate :  h.m x2-6x+9 ,                    where   f(x)  x2-6x+9 . Aso find f (3)
+                                     x---+3 x-3                                        x-3
+
+Solution: At x = 3 the function is undefined as division byzero is meaningless. While taking
+the limit as x  3, x cannot be exactlyequal to 3 i.e. x-3 -:/:- 0 and consequentlydivision byx-3 is
+permissible.
+
+      1X1.--m-+3  x   2  -6x+9  =1X1·--f-f+3i  (x-3)2     =1X1·-m3
+                          X-3                    X-3
+N ow                                                                  (x-3)=  3-3=0  f(3)=Q0 is undefined
+
+The reader maycompute the left-hand and the right-hand limits as an exercise.
+Example 2: A function is defined as follows:
+
+       -3x when x < 0
+fx = {2x when x > 0
+
+Test the existence of lxi-m--+0 f(x).
+
+© The Institute of Chartered Accountants of India
+                                                                             SETS, RELATIONS AND FUNCTIONS                     7.27
+
+Solution: For x approaching 0 from the left x < 0.
+
+Left-hand      limit   =   lim f(x)  = lim   (-3x)    =  0
+                                        x0-
+                           x0-
+
+When x approaches 0 from the right x > 0
+
+Right-hand        limit   =  lim= f (x)    l= im 2x   0
+
+                             x0+           x0+
+
+Since L.H. limit = R.H. Limit, the limit exists. Thus, lim f(x) = 0.
+                                                                                                               x0
+
+Example     3:    lim  x2  + 4x + 3 .
+                       x2  + 6x + 9
+                  x3
+
+Solution:= xx22 ++ 64xx ++ 93  x2 = +(x3x+ +3)x2 + 3     x(x +(= x3)++31)(2x + 3)  (= x (+x3+)(3x)+2 1)            x+1
+                                                                                                                   x+3
+
+lim     x2  +  4x  +  3  = lim x + 1 = 4 = 2 .
+    x3  x2  +  6x  +  9    x3 x + 3 6 3
+
+Example 4: Find the following limits:
+
+(i) lim x - 3                              (ii) lim x + h - x if h > 0.
+       x9 x - 9                              h0             h
+
+Solution:
+
+                      = x - 3
+                        x+3 x-3
+( )( ) = (i) xx--93                           1       3  .          lim x - 3 = lim 1 = 1 .
+                                             x+                        x9 x - 9 x9 x + 3 6
+
+(ii)    ( ) x + h - x =x + h - x = 1h                               lim x + h - x = lim 1
+                             h x+h+ x                 x+h + x h0                   h                               h0 x+h + x
+
+=                     1 = = 1 1
+        lim x+h + lim x x + x 2 x.
+        h0                 h0
+
+                             3x+ x      .
+Example     5:    Find    lim
+                          x0 7x-5    x
+
+Solution: Right-h= and limit                     3x+ x      li= m 3x + x           lim  2=2
+                                           l= im
+                                           x0 + 7x-5 x x0 + 7x - 5x x0 +
+
+Left-hand l= imit               3x+ x      lim  7 x3-x5-(= (x-)x )  l= im 1  1.
+                          lim =                                     x0 - 6   6
+                          x0 - 7x-5 x      x0
+
+Since Right-hand limit  Left-hand limit the limit does not exist.
+
+© The Institute of Chartered Accountants of India
+7.28                 BUSINESS MATHEMATICS
+
+Example 6: Evaluate = lim ex - e-x
+                               x0 x
+
+Solution: =lim ex - e-x ==lim (ex -1)- (e-x - 1) =lim ex - 1 - =lim ex - 1 =1 - 1 =0
+                        x0 x                      x0                  x                 x0 x        x0 x
+
+Example 7: Find                 lim      1+    9  x   .  (Form 1)
+                                               x  
+                                xá
+
+Solution: It may be noted that x approaches  as x approaches  . i.e. lim x  
+                                                            9                                                        x 9
+
+                                                  x/9 9
+                 x9= x                             
+lim        1  +            lim           1  +  1  
+                                               x  
+x                          x/9     
+
+                                    9  
+
+Substitution            x  /  9  =    z  the      above        expression        takes   the  form  lim    1  +  1 z 9
+                                                                                                                 z   
+                                                                                                    z                
+
+                                                                                                    =  lim    1  +  1 z 9  = e 9 .
+                                                                                                       z            z   
+                                                                                                                        
+                                                  2x  +1                            Form       
+Example          8:  Evaluate:           lim      x3  +1    .                                  
+
+                                         z
+
+Solution: As x approaches , 2x + 1 and x3 + 1 both approach  and therefore the given function
+
+takes the form  which is determinate. Therefore, instead of evaluating directly let us try for
+                     
+
+suitable algebraic transformation so that the indeterminate for is avoided.
+
+                               2+ 1                         2+           1
+           2+ 1         lim     x  2  x 3 =
+                                                  lim x 2 lim x 3
+lim x 2       x  3      x                         x              x 1=            0 + 0=  0=
+                                                                                 1+0     1
+x                1=            1                                                              0
+
+         1+ x3          lim    1   +  x  3        lim1 + lim x 3
+
+                        x                         x x
+
+Example 9:           Find        lim     12    +  22  +  32    + ..............  +  x2
+                                                               x3
+                                 x
+
+         [x(x+)(2x + 1)]              1                  +  1            1  
+lim              6x3 =                6  lim          1     x      2  +  x  
+
+x                                        x
+
+= 1 x1 x2 = 1.
+      6                 3
+
+© The Institute of Chartered Accountants of India
+                                                                     SETS, RELATIONS AND FUNCTIONS  7.29
+
+      7.9 CONTINUITY:
+
+By the term continuous we mean some thing which goes on without interruption and without
+abrupt changes. Here in mathematics the term continuous carries the same meaning. Thus, we
+define continuity of a function in the following way.
+
+A function f(x) is said to be continuous at x= a if and only if
+
+(i) f(x) is defined x= a
+
+(ii)  lim f (x) = lim f (x)
+      xa-                xa+
+
+(iii) lim f (x) = f (a)
+           xa
+
+In the second condition both left-hand and right-hand limits are equal. In the third condition
+limiting value of the function must be equal to its function value at x= a
+
+Useful Information:
+
+(i) The sum, difference and product of two continuous functions is a continuous function. This
+      property holds good for any finite number of functions.
+
+(ii) The quotient of two continuous functions is continuous function provided the denominator
+      is not equal to zero.
+
+Example:1 f(x) = [
+
+         3-x             when 1 <x<1
+      =2                         2
+
+      1 when x= 1
+      =2                         2
+
+Discuss the continuity of f(x) at x= 1
+                                              2
+
+           lim        f  (x)  =  lim    1  -  x    =  1  -  1  =  0
+                1                       2             2     2
+           x    2  -             x1+
+                                 2
+
+           lim        f  (x)  =  lim    3  -  x    =  3  -  1  =  1
+                1                       2             2     2
+           x    2  +             x1+
+                                 2
+
+Solution: Since LHL  RHL
+
+           lim f (x) does not exist
+                1
+           x    2
+
+           Moreover f(1/2)
+
+           Hence f(x) is not continuous at x=1/2 , ie f(x) is discontinuous at x= 1/2
+
+© The Institute of Chartered Accountants of India
+7.30       BUSINESS MATHEMATICS
+
+Example 2: Find points of discontinuity of the function f(x) = x2 + 2x + 5
+                                                                                                             x2 - 3x + 2
+                  x2  + 2x + 5
+Solution: f(x) =  x2  - 3x + 2
+
+For x=1 and x=2 the denominator becomes zero and the function f(x) is undefined at x=1 and x=
+2. Hence the points of discontinuity are at x=1 and x= 2
+
+Example 3: A function g(x) is defined as follows
+
+g(x) = x when 0<x<1
+
+      =2-x when x1
+
+is g(x) is continuous at x= 1
+
+Solution:
+
+lim g(x) = lim g(x)
+x 1-       x 1+
+
+lim g(x) = lim (2 - x) = 2 - 1 = 1
+x 1+       x 1+
+
+ lim g(x) = lim g(x) = 1
+x 1-       x 1-
+
+Also g(1) =2-1=1
+
+and lim g= (x) g= (1) 1
+          x1
+
+Hence f(x) is coninuous at x=1
+
+Example 4: The function f(x) =      x2 - 9         is undefined at x=3 . What value must be assigned to f (3),
+
+                                      x -3
+
+if f(x) is to be continuous at x=3
+
+Solution: When x approaches 3, x3 ie x-30
+
+lim f (x) = lim  (x - 3)(x + 3)
+
+x3         x3     (x - 3)
+
+         = lim(x + 3) = 3 + 3 = 6
+                   x3
+
+Therefore if f(x) is to be continuous at x=3 =f(3) = lim f (x) = 6
+                                                                                                         x3
+
+Example 5: Is the function f(x) = x continuous at x= 0
+
+Solution: We know that x =x when x>0
+
+                      = 0 when x= 0
+
+                      = -x when x<0
+
+lim f (x=) lim (-x=) 0 and lim f (x=) lim x= 0
+x0-        x0-                   x0+               x0+
+
+Hence lim f (x)= 0= f (0)
+      x0
+
+So f(x) is continuous at x = 0
+
+© The Institute of Chartered Accountants of India
+                                                   SETS, RELATIONS AND FUNCTIONS                    7.31
+
+1. Following set notations represent: A  B; x  A; A  B; {0}; A  B
+
+      (a) A is a proper subset of B; x is not an element of A; A contains B; singleton with an
+            only element zero; A is not contained in B.
+
+      (b) A is a proper subset of B; x is an element of A; A contains B; singleton with an only
+            element zero; A is contained in B.
+
+      (c) A is a proper subset of B; x is not an element of A; A does not contains B; contains
+            elements other than zero; A is not contained in B.
+
+      (d) None
+
+2. Represent the following sets in set notation: ­ Set of all alphabets in English language, set
+      of all odd integers less than 25, set of all odd integers, set of positive integers x satisfying
+     the equation x2 +5x+7=0 :
+      (a) A = {x:x is an alphabet in English}, I = {x:x is an odd integer>25}, I = {2, 4, 6, 8 ....}
+           I = {x: x2 +5x+7=0 }
+
+      (b) A={x:x is an alphabet in English}, I = {x:x is an odd integer<25}, I = {1, 3, 5, 7 ....}
+           I = {x: x2 +5x+7=0 }
+
+      (c) A = {x:x is an alphabet in English}, I = {x:x is an odd integer £ 25}, I = {1, 3, 5, 7 ....}
+           I = {x: x2 +5x+7=0 }
+
+      (d) None
+
+3. Rewrite the following sets in a set builder form: - A={a, e, i, o, u} B={1, 2, 3, 4 ....} C is a set
+      of integers between ­15 and 15.
+
+      (a) A={x:x is a consonant}, B={x:x is an irrational number}, C={x:­15<x<15 x is a fraction}
+
+      (b) A={x:x is a vowel}, B={x:x is a natural number}, C={x: ­15³x³15 x is a whole number}
+
+      (c) A={x:x is a vowel}, B={x:x is a natural number}, C={x: ­15 <x<15 x is a whole number}
+
+      (d) None
+
+4. If V={0, 1, 2, ...9}, X={0, 2, 4, 6, 8}, Y={3, 5, 7} and Z={3 7} then
+      Y  Z, (V  Y)  X, (X  Z)  V are respectively: ­
+
+(a) {3, 5, 7}, {0, 2, 4, 6, 8}, {0, 1, 2, ...9}    (b) {2, 4, 6}, {0, 2, 4, 6, 8}, {0, 1, 2, ...9}
+(c) {2, 4, 6}, {0, 1, 2, ...9}, {0, 2, 4, 6, 8}    (d) None
+
+5. In question No. (4) (X  Y)  Z and (  V)   are respectively: ­
+
+(a) {0, 2, 4, 6, 8},  (b) {3, 7},                  (c) {3, 5, 7},   (d) None
+
+© The Institute of Chartered Accountants of India
+7.32         BUSINESS MATHEMATICS
+
+6. If V={x:x + 2 = 0} R={x:x²+x­2=0, x <0} and S={x:x²+4x+4=0} then V, R, S are equal for the
+      value of x equal to ______.
+
+      (a) 0                         (b) ­1         (c) ­2                      (d) None
+
+7. What is the relationship between the following sets? A={x:x is a letter in the word flower}
+      B={x:x is a letter in the word flow} C={x:x is a letter in the word wolf} D={x:x is a letter in the
+      word follow}
+
+      (a) B=C=D and all these are subsets of the set A
+
+      (b) B=CD                      (c) BCD        (d) None
+
+8. Comment on the correctness or otherwise of the following statements: ­ (i) {a, b, c}={c, b, a}
+      (ii) {a, c, a, d, c, d}  {a, c, d} (iii) {b}  {{b}} (iv) {b}  {{b}} and   {{b}}.
+
+      (a) Only (iv) is incorrect                   (b) (i) (ii) are incorrect
+
+      (c) (ii) (iii) are incorrect                 (d) All are incorrect
+
+9. If A={a, b, c}, B={a, b}, C = {a, b, d}, D={c, d} and E={d} state which of the following statements
+      are correct: ­ (i) B  A (ii) D  C (iii) C  E (iv) D  E (v) D  B (vi) D = A (vii) B  C (viii) E
+       A (ix) E  B (x) a  A (xi) a  A (xii) {a}  A (xiii) {a}  A
+
+      (a) (i) (ii) (iii) (ix) (x) (xiii) only are correct (b) (ii) (iii) (iv) (x) (xii) (xiii) only are correct
+
+      (c) (i) (ii) (iv) (ix) (xi) (xiii) only are correct(d) None
+
+10. Let A = {0}, B = {0 1}, C =  D = {}, E = {x|x is a human being 300 years old}, F = {x|x  A and
+      x  B} state which of the following statements are true: ­ (i) A  B (ii) B = F (iii) C  D (iv) C
+      = E (v) A = F (vi) F = 1 and (vii) E = C = D
+
+      (a) (i) (iii) (iv) and (v) only are true     (b) (i) (ii) (iii) and (iv) are true
+
+      (c) (i) (ii) (iii) and (vi) only are true    (d) None
+
+11. If A = {0, 1} state which of the following statements are true: ­ (i) {1}  A (ii) {1}  A (iii)  
+      A (iv) 0  A (v) 1  A (vi) {0}  A (vii)   A
+
+      (a) (i) (iv) and (vii) only are true         (b) (i) (iv) and (vi) only are true
+
+      (c) (ii) (iii) and (vi) only are true        (d) None
+
+12. State whether the following sets are finite, infinite or empty: ­ (i) X = {1, 2, 3, .....500} (ii) Y =
+     {y: y  a2 ; a is an integer} (iii) A = {x:x is a positive integer multiple of 2} (iv) B = {x:x is an
+
+      integer which is a perfect root of 26<x<35}
+
+      (a) finite infinite infinite empty           (b) infinite infinite finite empty
+
+      (c) infinite finite infinite empty           (d) None
+
+13. If A = {1, 2, 3, 4} B = {2, 3, 7, 9} and C = {1, 4, 7, 9} then
+      (a) A  B   B  C   A  C   but A  B  C = 
+      (b) A  B =  B  C =  A  C =  A  B  C = 
+      (c) A  B   B  C   A  C   A  B  C  
+      (d) None
+
+© The Institute of Chartered Accountants of India
+                                                   SETS, RELATIONS AND FUNCTIONS          7.33
+
+14. If the universal set is X = {x:x  N, 1 x  12} and A = {1, 9, 10}, B = {3, 4, 6, 11, 12} and C
+      = {2, 5, 6} are subsets of X then set A  (B  C) is _______.
+
+(a) {3, 4, 6, 12}  (b) {1, 6, 9, 10}               (c) {2, 5, 6, 11}       (d) None
+
+15. As per question No.(14) the set (A B)  (A  C) is _________.
+
+(a) {3, 4, 6, 12}  (b) {1, 6, 9, 10}               (c) {2, 5, 6, 11}       (d) None
+
+16. A sample of income group of 1172 families was surveyed and noticed that for income
+      groups < `6000/-, 6000/- to `10999/-, `11000/-, to `15999/-, `16000 and above No. TV
+      set is available to 70, 50, 20, 50 families one set is available to 152, 308, 114, 46 families and
+      two or more sets are available to 10, 174, 84, 94 families.
+
+If A = {x|x is a family owning two or more sets}, B = {x|x is a family with one set,
+}C = {x|x is a family with income less than ` 6000/-}, D = {x|x| is a family with income
+` 6000/- to ` 10999/-}, E = {x|x is a family with income ` 11000/- to ` 15999/-}, find the
+number of families in each of the following sets (i) C  B
+
+(ii) A  E
+
+(a) 152, 580       (b) 152, 20                     (c) 152, 50             (d) 152, 496
+
+17. As per question No.(16) find the number of families in each of the following sets: ­
+
+(i) (A  B)  E (ii) (C  D  E)  (A  B)
+
+(a) 20, 50         (b) 152, 20                     (c) 152, 50             (d) 20, 140
+
+18. As per question No.(16) express the following sets in set notation: ­
+
+(i) {x|x is a family with one set and income of less than ` 11000/-}
+
+(ii) {x|x is a family with no set and income over ` 16000/-}
+
+(a) (C  D)  B                                      (b) (A  B)  (C  D  E)
+
+(c) Both                                           (d) None
+
+19. As per question No.(16) express the following sets in set notation: ­
+
+(i) {x|x is a family with two or more sets or income of ` 11000/- to ` 15999/-}
+
+(ii) {x|x is a family with no set}
+
+(a) (A  E)         (b) (A  B)                      (c) Both                (d) None
+
+20. If A = {a, b, c, d} list the element of power set P (a)
+
+(a) { {a} {b}({c} {d} {a, b} {a, c} {a, d} {b, c} {b, d} {c, d}
+
+(b) {a, b, c} {a, b, d} {a, c, d} {b, c, d}
+
+(c) {a, b, c, d}
+
+(d) All the above elements are in P (a)
+
+© The Institute of Chartered Accountants of India
+7.34        BUSINESS MATHEMATICS
+
+21. If four members a, b, c, d of a decision making body are in a meeting to pass a resolution
+      where rule of majority prevails list the wining coalitions. Given that a, b, c, d own 50%,
+      20%, 15%, 15% shares each.
+
+      (a) {a, b} {a, c} {a, d} {a, b, c} {a, b, d} {a, b, c, d}  (b) {b, c, d}
+
+      (c) {b, c} {b, d} {c, d} {a, c, d} {b, c, d} {a} {b} {c} {d}  (d) None
+
+22. As per question No.(21) with same order of options (a) (b) (c) and (d) list the blocking
+      conditions.
+
+23. As per question No.(21) with same order of options (a) (b) (c) and (d) list the losing
+      conditions.
+
+24. If A ={a, b, c, d, e, f} B = {a, e, i, o, u} and C = {m, n, o, p, q, r, s, t, u} then A  B is
+
+      (a) {a, b, c, d, e, f, i, o, u}              (b) {a, b, c, i, o, u}
+
+      (c) {d, e, f, i, o, u}                       (d) None
+
+25. As per question No.(24) A  C is
+
+      (a) {a, b, c, d, e, f, m, n, o, p, q, r, s, t, u} (b) {a, b, c, s, t, u}
+
+      (c) {d, e, f, p, q, r}                       (d) None
+
+26. As per question No.(24) B  C is
+
+      (a) {a, e, i, o, u, m, n, p, q, r, s, t}     (b) {a, e, i, r, s, t}
+
+      (c) {i, o, u, p, q, r}                       (d) None
+
+27. As per question No.(24) A ­ B is
+
+      (a) {b, c, d, f}           (b) {a, e, i, o}  (c) {m, n, p, q}                (d) None
+
+28. As per question No.(24) A  B is
+
+      (a) {a, e}                 (b) {i, o}        (c) {o, u}                      (d) None
+
+29. As per question No.(24) B  C is
+
+      (a) {a, e}                 (b) {i, o}        (c) {o, u}                      (d) None
+
+30. As per question No.(24) A  (B ­ C) is
+
+      (a) {a, b, c, d, e, f, i} (b) {a, b, c, d, e, f, o} (c) {a, b, c, d, e, f, u} (d) None
+
+31. As per question No.(24) A  B  C is
+
+      (a) {a, b, c, d, e, f, i, o, u, m, n, p, q, r, s, t} (b) {a, b, c, r, s, t}
+
+      (c) { d, e, f, n, p, q}                      (d) None
+
+32. As per question No.(24) A  B  C is
+
+      (a)                        (b) {a, e}        (c) { m, n}                     (d) None
+
+33. If A = {3, 4, 5, 6} B = {3, 7, 9, 5} and C = {6, 8, 10, 12, 7} then A is (given that the universal
+      set U = {3, 4, ....., 11, 12, 13}
+
+      (a) {7, 8, ....12, 13}                       (b) {4, 6, 8, 10, ....13}
+
+      (c) { 3, 4, 5, 9, 11, 13}                    (d) None
+
+© The Institute of Chartered Accountants of India
+                                                   SETS, RELATIONS AND FUNCTIONS             7.35
+
+34. As per question No.(33) with the same order of options (a), (b), (c) and (d) the set B is
+
+35. As per question No.(33) with the same order of options (a), (b), (c) and (d) the set C is
+
+36. As per question No.(33) the set (A) is
+
+(a) {3, 4, 5, 6}  (b) {3, 7, 9, 5}                 (c) {8, 10, 11, 12, 13} (d) None
+
+37. As per question No.(33) the set (B) is
+
+(a) {3, 4, 5, 6}  (b) {3, 7, 9, 5}                 (c) {8, 10, 11, 12, 13} (d) None
+
+38. As per question No.(33) the set (A  B) is
+
+(a) {3, 4, 5, 6}  (b) {3, 7, 9, 5}                 (c) {8, 10, 11, 12, 13} (d) None
+
+39. As per question No.(33) the set (A  B) is
+
+(a) {8, 10, 11, 12, 13} (b) {4, 6, 7, ....13} (c) {3, 4, 5, 7, 8,....13} (d) None
+
+40. As per question No.(33) the set A  C is
+
+(a) {8, 10, 11, 12, 13} (b) {4, 6, 7, ....13} (c) {3, 4, 5, 7, 8,....13} (d) None
+
+41. If A = {1, 2, ...9}, B = {2, 4, 6, 8} C = {1, 3, 5, 7, 9}, D = {3, 4, 5} and E = {3, 5} what is set S
+      if it is also given that S D and S  B
+
+(a) {3, 5}        (b) {2, 4}                       (c) {7, 9}               (d) None
+
+42 As per question No.(41) what is set S if it is also given that S  B and S  C
+
+(a) {3, 5}        (b) {2, 4}                       (c) {7, 9}               (d) None
+
+43. If U = {1, 2, ...9} be the universal set A = {1, 2, 3, 4} and B = {2, 4, 6, 8} then the set A  B is
+
+(a) {1, 2, 3, 4, 6, 8} (b) {2, 4}                  (c) {5, 6, 7, 8, 9}      (d) {5, 7, 9}
+
+44. As per question No.(43) with the same order of options (a) (b) (c) and (d) the set A  B is
+
+45. As per question No.(43) with the same order of options (a) (b) (c) and (d) the set A is
+
+46. As per question No.(43) with the same order of options (a) (b) (c) and (d) the set (A  B) is
+
+47. As per question No.(43) the set (A  B) is
+
+(a) {1, 2, 3, 4, 6, 8} (b) {2, 4}                  (c) {5, 6, 7, 8, 9}      (d) {1, 3, 5, 6, 7, 8, 9}
+
+48. Let P = (1, 2, x), Q = (a x y), R = (x, y, z) then P  Q is
+
+(a) {(1, a) (1, x) (1, y); (2, a) (2, x) (2, y); (x, a) (x, x) (x, y)}
+
+(b) {(1, x); (1, y); (1, z); (2, x); (2, y); (2, z); (x, x) (x, y) (x, z)}
+
+(c) {(a, x) (a, y) (a, z); (x, x) (x, y) (x, z); (y, x) (y, y) (y, z)}
+
+(d) {(1, x) (1, y) (2, x) (2, y) (x, x) (x, y)}
+
+49. As per question No.(48) with the same order of options (a) (b) (c) and (d) then the set
+      P  R is
+
+50. As per question No.(48) with the same order of options (a) (b) (c) and (d) then the set
+      Q  R is
+
+© The Institute of Chartered Accountants of India
+7.36           BUSINESS MATHEMATICS
+
+51. As per question No.(48) with the same order of options (a) (b) (c) and (d) then the set
+      (P  Q)  (P  R) is
+
+52. As per question No.(48) the set (R  Q)  (R  P) is
+
+      (a) {(a, x), (a, y), (a, z), (x, x), (x, y), (x, z), (y, x), (y, y), (y, z)}
+
+      (b) {(1, x), (1, y), (2, x), (2, y), (x, x), (x, y)}
+
+      (c) {(x, x), (y, x), (z, x)}
+
+      (d) {(1, a), (1, x), (1, y), (2, a), (2, x), (2, y), (x, a), (x, x), (x, y), (x, 1), (x, 2), (y, 1), (y, 2),
+            (y, x), (z, 1), (z, 2), (z, x)}
+
+53. As per question No. (48) with the same order of options (a) (b) (c) and (d) as in question
+      No.(52) the set (P  Q)  (R  P) is
+
+54. If P has three elements Q four and R two how many elements does the Cartesian product set
+      P  Q  R will have
+
+      (a) 24                (b) 9                           (c) 29                  (d) None
+
+55. Identify the elements of P if set Q = {1, 2, 3} and P  Q = {(4, 1), (4, 2), (4, 3), (5, 1), (5, 2),
+      (5, 3), (6, 1), (6, 2), (6, 3)}
+
+      (a) {3, 4, 5}         (b) {4, 5, 6}                   (c) {5, 6, 7}           (d) None
+
+56. If A = {2, 3}, B = {4, 5}, C = {5, 6} then A  (B  C) is
+
+      (a) {(2, 4), (2, 5), (2, 6), (3, 4), (3, 5), (3, 6)}
+
+      (b) {(2, 5), (3, 5)}
+
+      (c) {(2, 4), (2, 5), (3, 4), (3, 5), (4, 5), (4, 6), (5, 5), (5, 6)}
+
+      (d) None
+
+57. As per question No.(56) with the same order of options (a) (b) (c) and (d) the set
+      A  ( B  C ) is
+
+58. As per question No.(56) with the same order of options (a) (b) (c) and (d) the set (A  B) 
+      (B  C) is
+
+59. If A has 32 elements B has 42 elements and A  B has 62 elements find the number of
+      elements in A  B
+
+      (a) 74                (b) 62                          (c) 12                  (d) None
+
+60. Out of a total population of 50,000 only 28,000 read Telegraph and 23,000 read Times of
+      India while 4,000 read the both. How many do not read any paper?
+
+      (a) 3,000             (b) 2,000                       (c) 4,000               (d) None
+
+61. Out 2000 staff 48% preferred coffee 54% tea and 64% cocoa. Of the total 28% used coffee and
+      tea 32% tea and cocoa and 30% coffee and cocoa. Only 6% did none of these. Find the number
+      having all the three.
+
+      (a) 360               (b) 280                         (c) 160                 (d) None
+
+© The Institute of Chartered Accountants of India
+                                                        SETS, RELATIONS AND FUNCTIONS  7.37
+
+62. As per question No.(61) with the same order of options (a), (b), (c) and (d) find the number
+      having tea and cocoa but not coffee.
+
+63. As per question No.(61) with the same order of options (a), (b), (c) and (d) find the number
+      having only coffee.
+
+64. Complaints about works canteen had been about Mess (M) Food (F) and Service (S). Total
+      complaints 173 were received as follows: ­
+
+n(M) = 110, n(F) = 55, n(S) = 67, n(M  F  S) = 20, n(M  S  F) = 11
+
+and n(F  S  M) = 16. Determine the complaints about all the three.
+
+(a) 6 (b) 53         (c) 35                        (d) None
+
+65. As per question No. (64) with the same order of options (a), (b), (c) and (d) determine the
+      complaints about two or more than two.
+
+66. Out of total 150 students 45 passed in Accounts 50 in Maths. 30 in Costing 30 in both Accounts
+      and Maths. 32 in both Maths and Costing 35 in both Accounts and Costing. 25 students
+      passed in all the three subjects. Find the number who passed at least in any one of the subjects.
+
+(a) 63               (b) 53                        (c) 73           (d) None
+
+67. After qualifying out of 400 professionals, 112 joined industry, 120 started practice and 160
+      joined as paid assistants. There were 32, who were in both practice and service 40 in both
+      practice and assistantship and 20 in both industry and assistantship. There were 12 who did
+      all the three. Find how many could not get any of these.
+
+(a) 88               (b) 244                       (c) 122          (d) None
+
+68. As per question No. (67) with the same order of options (a) (b) (c) and (d) find how many
+      of them did only one of these.
+
+69. A marketing research team interviews 50 people about their drinking habits of tea coffee
+      or milk or A B C respectively. Following data is obtained but the Manager is not sure
+      whether these are consistent.
+
+Category        No.  Category                      No.
+
+ABC             3    A                             42
+
+AB              7    B                             17
+
+BC              13   C                             27
+
+AC              18
+
+(a) Inconsistent since 42 + 17 + 27 ­ 7 ­ 13 ­ 18 + 3  50
+
+(b) Consistent
+
+(c) Cannot determine due to data insufficiency
+
+(d) None
+
+© The Institute of Chartered Accountants of India
+7.38          BUSINESS MATHEMATICS
+
+70. On a survey of 100 boys it was found that 50 used white shirt 40 red and 30 blue. 20 were
+      habituated in using both white and red shirts 15 both red and blue shirts and 10 blue and
+      white shirts. Find the number of boys using all the colours.
+
+      (a) 20                 (b) 25                     (c) 30              (d) None
+
+71. As per question No.(70) if 10 boys did not use any of the white red or blue colours and 20
+      boys used all the colours offer your comments.
+
+      (a) Inconsistent since no. of boys used all the three colours can't more then no. of boys
+          used two colours
+
+      (b) Consistent
+
+      (c) Cannot determine due to data insufficiency
+
+      (d) None
+
+72. Out of 60 students 25 failed in paper (1), 24 in paper (2), 32 in paper (3), 9 in paper (1)
+      alone, 6 in paper (2) alone, 5 in papers (2) and (3) only and 3 in papers (1) and (2) only.
+      Find how many failed in all the three papers.
+
+      (a) 10                 (b) 60                     (c) 50              (d) None
+
+73. As per question No. (72) how many passed in all the three papers?
+
+      (a) 10                 (b) 60                     (c) 50              (d) None
+
+74. Asked if you will cast your vote for a party the following feedback is obtained: ­
+
+                                                   Yes          No      Don't know
+
+      Adult Male                                   10           20      5
+
+      Adult Female                                 20           15      5
+
+      Youth over 18 years                          10           5       10
+
+      If A = set of Adult C = Common set of Women and Youth Y = set of positive opinion N =
+      set of negative opinion then n(A) is
+
+      (a) 25                 (b) 40                     (c) 20              (d) None
+
+75. As per question No. (74) with the same order of options (a), (b), (c) and (d) the set n(A  C) is
+
+76. As per question No. (74) with the same order of options (a), (b), (c) and (d) the set
+      n(Y  N) is
+
+77. As per question No. (74) with the same order of options (a), (b), (c) and (d) the set
+      n[A  (Y  N)] is
+
+78. In a market survey you have obtained the following data which you like to examine regarding
+      its correctness:
+
+      Did not use the brand         April May June April & May & April & April May
+                                                                 May June June June
+
+      Percentage answering `Yes' 59                62 62 35         33      31  22
+
+© The Institute of Chartered Accountants of India
+                                                           SETS, RELATIONS AND FUNCTIONS          7.39
+
+(a) Inconsistent since 59 + 62 + 62 ­ 35 ­ 33 ­ 31 + 22  100
+
+(b) Consistent
+
+(c) cannot determine due to data insufficiency
+
+(d) None
+
+79. In his report an Inspector of an assembly line showed in respect of 100 units the following
+      which you are require to examine.
+
+Defect      Strength (S) Flexibility (F) Radius (R) S and F S and R F and R S F R
+
+No. of pieces 35            40                     18              7       11      12          3
+
+(a) No. of pieces with radius defect alone was ­2 which was impossible
+
+(b) Report may be accepted
+
+(c) Cannot be determined due to data insufficiency (d) None
+
+80. A survey of 1000 customers revealed the following in respect of their buying habits of
+      different grades:
+
+A grade         A and C     C grade A grade but A grade C and B None
+only            grades
+                                                   not B grade                 grades
+
+180             80          480                    230                360      80          140
+
+How many buy B grade?
+
+(a) 280                  (b) 400                           (c) 50              (d) None
+
+81. As per question No. (80) with the same order of options (a) (b) (c) and (d) how many buy
+      C grade if and only if they do not buy B grade?
+
+82. As per question No. (80) with the same order of options (a) (b) (c) and (d) how many buy
+      C and B grades but not the A grade?
+
+83. Consider the following data: ­
+
+                    Skilled & Direct Unskilled & Direct Skilled & Indirect Unskilled & Indirect
+
+                    Worker                         Worker             Worker           Worker
+
+Short Term               6                         8                  10               20
+
+Medium Term              7                         10                 16               9
+
+Long Term                3                         2                  8                0
+
+If S M L T I denote short medium long terms skilled and indirect workers respectively find
+the number of workers in set M.
+
+(a) 42                   (b) 8                             (c) 10              (d) 43
+
+84. Consider the problem No. (83) and find the number of workers in set L  I.
+
+(a) 42                   (b) 8                             (c) 10              (d) 43
+
+© The Institute of Chartered Accountants of India
+7.40          BUSINESS MATHEMATICS
+
+85. Consider the problem No. (83) and find the number of workers in set S  T  I.
+
+      (a) 42           (b) 8                       (c) 10                     (d) 43
+
+86. Consider the problem No. (83) and find the number of workers in set
+
+      (M  L)  (T  I).
+
+      (a) 42           (b) 8                       (c) 10                     (d) 43
+
+87. Consider the problem No. (83) and find the number of workers in set
+
+      S  (S  I).
+
+      (a) 42           (b) 44                      (c) 43                     (d) 99
+
+88. Consider the problem No. (83). Find out which set of the pair has more workers as its
+      members. Pair is (S  M) or L: ­
+
+      (a) (S  M) > L   (b) (S  M) < L (c) (S  M) = L                          (d) None
+
+89. Consider the problem No. (88). Find out which set of the pair has more workers as its
+      members. Pair is (I  T) or S ­ (I  S): ­
+
+      (a) (I  T) > [S ­ (I  S)]                    (b) (I  T) < [S ­ (I  S)]
+
+      (c) (I  T) = [S ­ (I  S)]                    (d) None
+
+90. Out of 1000 students 658 failed in the aggregate, 166 in the aggregate and in group-I 434
+      in aggregate and in group-II, 372 in group-I, 590 in group-II and 126 in both the groups.
+      Find out how many failed in all the three.
+
+      (a) 106          (b) 224                     (c) 206                    (d) 464
+
+91. As per question No.(90) how many failed in the aggregate but not in group-II?
+
+      (a) 106          (b) 224                     (c) 206                    (d) 464
+
+92. As per question No.(90) how many failed in group-I but not in the aggregate?
+
+      (a) 106          (b) 224                     (c) 206                    (d) 464
+
+93. As per question No.(90) how many failed in group-II but not in group-I?
+
+      (a) 106          (b) 224                     (c) 206                    (d) 464
+
+94. As per question No.(90) how many failed in aggregate or group-II but not in group-I?
+
+      (a) 206          (b) 464                     (c) 628                    (d) 164
+
+95. As per question No.(90) how many failed in aggregate but not in group-I and group-II?
+
+      (a) 206          (b) 464                     (c) 628                    (d) 164
+
+© The Institute of Chartered Accountants of India
+                                                   SETS, RELATIONS AND FUNCTIONS  7.41
+
+1. (a) 2. (b) 3. (c) 4. (a) 5.                     (b) 6. (c)
+
+7. (a) 8. (a) 9. (a) 10. (a) 11. (a) 12. (a)
+
+13. (a) 14. (b) 15. (b) 16. (d) 17. (d) 18. (c)
+
+19. (c) 20. (d) 21. (a) 22. (b) 23. (c) 24. (a)
+
+25. (a) 26. (a) 27. (a) 28. (a) 29. (c) 30. (a)
+
+31. (a) 32. (a) 33. (a) 34. (b) 35. (c) 36. (a)
+
+37. (b) 38. (c) 39. (b) 40. (c) 41. (a) 42. (b)
+
+43. (a) 44. (b) 45. (c) 46. (d) 47. (d) 48. (a)
+
+49. (b) 50. (c) 51. (d) 52. (c) 53. (d) 54. (a)
+
+55. (b) 56. (a) 57. (b) 58. (c) 59. (c) 60. (a)
+
+61. (a) 62. (b) 63. (c) 64. (a) 65. (b) 66. (b)
+
+67. (a) 68. (b) 69. (a) 70. (b) 71. (a) 72. (a)
+
+73. (a) 74. (a) 75. (b) 76. (c) 77. (c) 78. (a)
+
+79. (a) 80. (a) 81. (b) 82. (c) 83. (a) 84. (b)
+
+85. (c) 86. (d) 87. (d) 88. (c) 89. (a) 90. (a)
+
+91. (b) 92. (c) 93. (d) 94. (c) 95. (d)
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+
