@@ -1898,7 +1898,7 @@
         },
         {
           "letter": "D",
-          "text": "AFC = ATC � AVC"
+          "text": "AFC = ATC - AVC"
         }
       ],
       "correctAnswer": "D",
@@ -2077,7 +2077,7 @@
       }
     },
     {
-      "questionText": "Given TC = 2000 + 15Q � 6Q2 + Q3. How much is TFC at Q = 2000?",
+      "questionText": "Given TC = 2000 + 15Q - 6Q2 + Q3. How much is TFC at Q = 2000?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
@@ -4057,7 +4057,7 @@
       }
     },
     {
-      "questionText": "If the required reserve ratio is 20 percent, currency in circulation is ` 800 billion, demand deposits are ` 2000 billion, and excess reserves total ` 2 billion, find the value of money multiplier:",
+      "questionText": "If the required reserve ratio is 20 percent, currency in circulation is ₹800 billion, demand deposits are ₹2000 billion, and excess reserves total ₹2 billion, find the value of money multiplier:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH6",
       "difficulty": "MEDIUM",
@@ -5190,15 +5190,15 @@
         },
         {
           "letter": "B",
-          "text": "Market price � depreciation of fixed assets"
+          "text": "Market price - depreciation of fixed assets"
         },
         {
           "letter": "C",
-          "text": "Market price � Net factor income abroad"
+          "text": "Market price - Net factor income abroad"
         },
         {
           "letter": "D",
-          "text": "Market price � Transfer payments"
+          "text": "Market price - Transfer payments"
         }
       ],
       "correctAnswer": "A",
@@ -5245,22 +5245,22 @@
       }
     },
     {
-      "questionText": "It is planned to increase national income by ` 1000 cr. How much increase in investment is required? Assume MPC is 0.6:",
+      "questionText": "It is planned to increase national income by ₹1000 cr. How much increase in investment is required? Assume MPC is 0.6:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH6",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 100 cr."
+          "text": "₹100 cr."
         },
         {
           "letter": "B",
-          "text": "` 400 cr."
+          "text": "₹400 cr."
         },
         {
           "letter": "C",
-          "text": "` 500 cr."
+          "text": "₹500 cr."
         },
         {
           "letter": "D",
@@ -6011,7 +6011,7 @@
         },
         {
           "letter": "B",
-          "text": "principal�agent problem."
+          "text": "principal-agent problem."
         },
         {
           "letter": "C",
@@ -8277,7 +8277,7 @@
       }
     },
     {
-      "questionText": "E � NAM is �",
+      "questionText": "E - NAM is -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
@@ -9828,7 +9828,7 @@
       }
     },
     {
-      "questionText": "The condition for pure competition to be fulfilled are �",
+      "questionText": "The condition for pure competition to be fulfilled are -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
@@ -9894,22 +9894,22 @@
       }
     },
     {
-      "questionText": "The Relationship between AR, MR and Price Elasticity �",
+      "questionText": "The Relationship between AR, MR and Price Elasticity -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH2",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "MR = AR X e-1 � e"
+          "text": "MR = AR X e-1 - e"
         },
         {
           "letter": "B",
-          "text": "AR = MR X e-1 �e"
+          "text": "AR = MR X e-1 -e"
         },
         {
           "letter": "C",
-          "text": "A R � MR = e-1 �e"
+          "text": "A R - MR = e-1 -e"
         },
         {
           "letter": "D",
@@ -11656,7 +11656,7 @@
       }
     },
     {
-      "questionText": "\"If the price of oranges falls due to good crop from ` 20 per dozen to ` 10 per dozen, the household that was purchasing 3 dozen oranges may now afford to purchase 6 dozen oranges by spending the same amount of money.\" The above statement is depicting -",
+      "questionText": "\"If the price of oranges falls due to good crop from ₹20 per dozen to ₹10 per dozen, the household that was purchasing 3 dozen oranges may now afford to purchase 6 dozen oranges by spending the same amount of money.\" The above statement is depicting -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
@@ -11788,7 +11788,7 @@
       }
     },
     {
-      "questionText": "If a farmer sells wheat to miller for ` 600 and miller sells flour to baker for ` 800. The baker sells bread to consumer for ` 1300, then the total value added in the process is:",
+      "questionText": "If a farmer sells wheat to miller for ₹600 and miller sells flour to baker for ₹800. The baker sells bread to consumer for ₹1300, then the total value added in the process is:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
@@ -11807,7 +11807,7 @@
         },
         {
           "letter": "D",
-          "text": "` 1200"
+          "text": "₹1200"
         }
       ],
       "correctAnswer": "C",
@@ -12151,7 +12151,7 @@
       }
     },
     {
-      "questionText": "The per capita income in country Y increased from ` 50,000 to ` 65,000 while the per capita consumption increased from ` 37,500 to ` 48,750. Calculate the spending multiplier for this economy.",
+      "questionText": "The per capita income in country Y increased from ₹50,000 to ₹65,000 while the per capita consumption increased from ₹37,500 to ₹48,750. Calculate the spending multiplier for this economy.",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH6",
       "difficulty": "MEDIUM",
@@ -12847,7 +12847,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "TC = AC � Q"
+          "text": "TC = AC - Q"
         },
         {
           "letter": "B",
@@ -13005,7 +13005,7 @@
       }
     },
     {
-      "questionText": "In an economy C = 300+ 0.5Y and I = ` 600(where C is consumption, Y is income or investment). The Equilibrium level of income will be:",
+      "questionText": "In an economy C = 300+ 0.5Y and I = ₹600(where C is consumption, Y is income or investment). The Equilibrium level of income will be:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
@@ -13038,7 +13038,7 @@
       }
     },
     {
-      "questionText": "When Investment in an economy increases from ` 10000 crores to ` 14000 crores and as a result of this national income rises ` 80000 to ` 92000 crores, Investment Multiplier will be:",
+      "questionText": "When Investment in an economy increases from ₹10000 crores to ₹14000 crores and as a result of this national income rises ₹80000 to ₹92000 crores, Investment Multiplier will be:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH6",
       "difficulty": "MEDIUM",

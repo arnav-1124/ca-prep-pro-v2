@@ -214,6 +214,7 @@ export async function updateAdminQuestion(input: UpdateQuestionInput): Promise<U
           questionVersionId: newVer.id,
           optionLetter: opt.letter.toUpperCase(),
           optionText: opt.text,
+          isCorrect: opt.letter.trim().toUpperCase() === input.correctAnswer.trim().toUpperCase(),
         }))
       );
     }
@@ -236,6 +237,7 @@ export async function updateAdminQuestion(input: UpdateQuestionInput): Promise<U
           questionVersionId: activeVersion.id,
           optionLetter: opt.letter.toUpperCase(),
           optionText: opt.text,
+          isCorrect: opt.letter.trim().toUpperCase() === input.correctAnswer.trim().toUpperCase(),
         }))
       );
     }

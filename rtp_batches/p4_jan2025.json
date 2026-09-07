@@ -134,7 +134,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "Price Discrimination �"
+          "text": "Price Discrimination -"
         },
         {
           "letter": "B",
@@ -150,7 +150,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q4): Option (A) Price Discrimination �.",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q4): Option (A) Price Discrimination -.",
       "curriculum": {
         "subjectCode": "PAPER_4",
         "nodeCode": "FND_P4_CH2"
@@ -338,7 +338,7 @@
         },
         {
           "letter": "B",
-          "text": "It is a function of price �"
+          "text": "It is a function of price -"
         },
         {
           "letter": "C",
@@ -490,7 +490,7 @@
       "externalId": "RTP_2025_JAN2025_P4_Q13",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "When Investment in an economy increases from ` 10000 crores to ` 14000 crores and as a result of this national income rises ` 80000 to ` 92000 crores, compute Investment Multiplier.",
+      "questionText": "When Investment in an economy increases from ₹10000 crores to ₹14000 crores and as a result of this national income rises ₹80000 to ₹92000 crores, compute Investment Multiplier.",
       "options": [
         {
           "letter": "A",
@@ -534,7 +534,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "Externalities �"
+          "text": "Externalities -"
         },
         {
           "letter": "B",
@@ -550,7 +550,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q14): Option (A) Externalities �.",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q14): Option (A) Externalities -.",
       "curriculum": {
         "subjectCode": "PAPER_4",
         "nodeCode": "FND_P4_CH7"
@@ -858,7 +858,7 @@
         },
         {
           "letter": "B",
-          "text": "Bonds �"
+          "text": "Bonds -"
         },
         {
           "letter": "C",

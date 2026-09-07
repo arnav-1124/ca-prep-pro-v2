@@ -705,7 +705,7 @@
         },
         {
           "letter": "C",
-          "text": "The minimum wage should be raised to ` 200/- per day"
+          "text": "The minimum wage should be raised to ₹200/- per day"
         },
         {
           "letter": "D",
@@ -1773,7 +1773,7 @@
         "nodeCode": "FND_P4_CH1",
         "_chapterTitle": "Chapter 1: Nature & Scope of Business Economics"
       },
-      "questionText": "There is need of economic study, because �",
+      "questionText": "There is need of economic study, because -",
       "options": [
         {
           "letter": "A",
@@ -1818,7 +1818,7 @@
         "nodeCode": "FND_P4_CH1",
         "_chapterTitle": "Chapter 1: Nature & Scope of Business Economics"
       },
-      "questionText": "The benefit of economic study is �",
+      "questionText": "The benefit of economic study is -",
       "options": [
         {
           "letter": "A",
@@ -1863,7 +1863,7 @@
         "nodeCode": "FND_P4_CH1",
         "_chapterTitle": "Chapter 1: Nature & Scope of Business Economics"
       },
-      "questionText": "The managerial economics �",
+      "questionText": "The managerial economics -",
       "options": [
         {
           "letter": "A",
@@ -3123,7 +3123,7 @@
         "nodeCode": "FND_P4_CH2",
         "_chapterTitle": "Chapter 2: Theory of Demand and Supply"
       },
-      "questionText": "Suppose the price of movies seen at a theatre rises from ` 120 per person to ` 200 per person. The theatre manager observes that the rise in price causes attendance at a given movie to fall from 300 persons to 200 persons. What is the price elasticity of demand for movies? (Use Arc Elasticity Method)",
+      "questionText": "Suppose the price of movies seen at a theatre rises from ₹120 per person to ₹200 per person. The theatre manager observes that the rise in price causes attendance at a given movie to fall from 300 persons to 200 persons. What is the price elasticity of demand for movies? (Use Arc Elasticity Method)",
       "options": [
         {
           "letter": "A",
@@ -3168,7 +3168,7 @@
         "nodeCode": "FND_P4_CH2",
         "_chapterTitle": "Chapter 2: Theory of Demand and Supply"
       },
-      "questionText": "Suppose a department store has a sale on its silverware. If the price of a plate-setting is reduced from ` 300 to ` 200 and the quantity demanded increases from 3,000 plate- settings to 5,000 plate-settings, what is the price elasticity of demand for silverware? (Use Arc Elasticity Method)",
+      "questionText": "Suppose a department store has a sale on its silverware. If the price of a plate-setting is reduced from ₹300 to ₹200 and the quantity demanded increases from 3,000 plate- settings to 5,000 plate-settings, what is the price elasticity of demand for silverware? (Use Arc Elasticity Method)",
       "options": [
         {
           "letter": "A",
@@ -3258,7 +3258,7 @@
         "nodeCode": "FND_P4_CH2",
         "_chapterTitle": "Chapter 2: Theory of Demand and Supply"
       },
-      "questionText": "If the local pizzeria raises the price of a medium pizza from ` 60 to ` 100 and quantity demanded falls from 700 pizzas a night to 100 pizzas a night, the price elasticity of demand for pizzas is :(Use Arc Elasticity Method)",
+      "questionText": "If the local pizzeria raises the price of a medium pizza from ₹60 to ₹100 and quantity demanded falls from 700 pizzas a night to 100 pizzas a night, the price elasticity of demand for pizzas is :(Use Arc Elasticity Method)",
       "options": [
         {
           "letter": "A",
@@ -3405,7 +3405,7 @@
         },
         {
           "letter": "C",
-          "text": "An auto producer is interested in determining the response of consumers to the price of cars being lowered by ` 100."
+          "text": "An auto producer is interested in determining the response of consumers to the price of cars being lowered by ₹100."
         },
         {
           "letter": "D",
@@ -3618,7 +3618,7 @@
         "nodeCode": "FND_P4_CH2",
         "_chapterTitle": "Chapter 2: Theory of Demand and Supply"
       },
-      "questionText": "Suppose a consumer's income increases from ` 30,000 to ` 36,000. As a result, the consumer increases her purchases of compact discs (CDs) from 25 CDs to 30 CDs. What is the consumer's income elasticity of demand for CDs? (Use Arc Elasticity Method)",
+      "questionText": "Suppose a consumer's income increases from ₹30,000 to ₹36,000. As a result, the consumer increases her purchases of compact discs (CDs) from 25 CDs to 30 CDs. What is the consumer's income elasticity of demand for CDs? (Use Arc Elasticity Method)",
       "options": [
         {
           "letter": "A",
@@ -6093,7 +6093,7 @@
         "nodeCode": "FND_P4_CH2",
         "_chapterTitle": "Chapter 2: Theory of Demand and Supply"
       },
-      "questionText": "The price of a commodity decreases from ` 6 to ` 4 and the quantity demanded of the good increases from 10 units to 15 units. Find the coefficient of price elasticity.",
+      "questionText": "The price of a commodity decreases from ₹6 to ₹4 and the quantity demanded of the good increases from 10 units to 15 units. Find the coefficient of price elasticity.",
       "options": [
         {
           "letter": "A",
@@ -6138,7 +6138,7 @@
         "nodeCode": "FND_P4_CH2",
         "_chapterTitle": "Chapter 2: Theory of Demand and Supply"
       },
-      "questionText": "The supply function is given as Q= -100 + 10P. Find the elasticity using point method, when price is ` 15.",
+      "questionText": "The supply function is given as Q= -100 + 10P. Find the elasticity using point method, when price is ₹15.",
       "options": [
         {
           "letter": "A",
@@ -6183,19 +6183,19 @@
         "nodeCode": "FND_P4_CH2",
         "_chapterTitle": "Chapter 2: Theory of Demand and Supply"
       },
-      "questionText": "The figure below shows the budget constraint of a consumer with an income of ` 900/- to spend on two commodities, namely ice cream and chocolates. The prices of these two commodities respectively are:",
+      "questionText": "The figure below shows the budget constraint of a consumer with an income of ₹900/- to spend on two commodities, namely ice cream and chocolates. The prices of these two commodities respectively are:",
       "options": [
         {
           "letter": "A",
-          "text": "` 10 and ` 20"
+          "text": "₹10 and ₹20"
         },
         {
           "letter": "B",
-          "text": "` 20 and ` 10"
+          "text": "₹20 and ₹10"
         },
         {
           "letter": "C",
-          "text": "` 10 and ` 5"
+          "text": "₹10 and ₹5"
         },
         {
           "letter": "D",
@@ -6318,7 +6318,7 @@
         "nodeCode": "FND_P4_CH2",
         "_chapterTitle": "Chapter 2: Theory of Demand and Supply"
       },
-      "questionText": "At higher prices people demand more of certain goods not for their worth but for their prestige value � This is called",
+      "questionText": "At higher prices people demand more of certain goods not for their worth but for their prestige value - This is called",
       "options": [
         {
           "letter": "A",
@@ -6363,7 +6363,7 @@
         "nodeCode": "FND_P4_CH2",
         "_chapterTitle": "Chapter 2: Theory of Demand and Supply"
       },
-      "questionText": "If the price of air-conditioner increases from ` 30,000 to ` 30,010 and resultant change in demand is negligible, we use the measure of __________ to measure elasticity.",
+      "questionText": "If the price of air-conditioner increases from ₹30,000 to ₹30,010 and resultant change in demand is negligible, we use the measure of __________ to measure elasticity.",
       "options": [
         {
           "letter": "A",
@@ -8134,7 +8134,7 @@
         },
         {
           "letter": "D",
-          "text": "when the quantity of the fixed input is increased and returns to the variable input falls. Use the following information to answer questions 14-16. Hours of Labour Total Output Marginal Product 0 � � 1 100 100 2 � 80 3 240 �"
+          "text": "when the quantity of the fixed input is increased and returns to the variable input falls. Use the following information to answer questions 14-16. Hours of Labour Total Output Marginal Product 0 - - 1 100 100 2 - 80 3 240 -"
         }
       ],
       "correctAnswer": "B",
@@ -8719,7 +8719,7 @@
         },
         {
           "letter": "D",
-          "text": "The payment of wages by the firm. Use the following data to answer questions 27-29. Output (O) 0 1 2 3 4 5 6 Total Cost (TC) ` 240 ` 330 ` 410 ` 480 ` 540 ` 610 ` 690"
+          "text": "The payment of wages by the firm. Use the following data to answer questions 27-29. Output (O) 0 1 2 3 4 5 6 Total Cost (TC) ₹240 ₹330 ₹410 ₹480 ₹540 ₹610 ₹690"
         }
       ],
       "correctAnswer": "A",
@@ -8752,19 +8752,19 @@
       "options": [
         {
           "letter": "A",
-          "text": "` 80"
+          "text": "₹80"
         },
         {
           "letter": "B",
-          "text": "` 85"
+          "text": "₹85"
         },
         {
           "letter": "C",
-          "text": "` 120"
+          "text": "₹120"
         },
         {
           "letter": "D",
-          "text": "` 205"
+          "text": "₹205"
         }
       ],
       "correctAnswer": "C",
@@ -8797,19 +8797,19 @@
       "options": [
         {
           "letter": "A",
-          "text": "` 133"
+          "text": "₹133"
         },
         {
           "letter": "B",
-          "text": "` 75"
+          "text": "₹75"
         },
         {
           "letter": "C",
-          "text": "` 80"
+          "text": "₹80"
         },
         {
           "letter": "D",
-          "text": "` 450"
+          "text": "₹450"
         }
       ],
       "correctAnswer": "C",
@@ -8977,7 +8977,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "ATC = AFC � AVC. v"
+          "text": "ATC = AFC - AVC. v"
         },
         {
           "letter": "B",
@@ -8989,7 +8989,7 @@
         },
         {
           "letter": "D",
-          "text": "AFC = ATC � AVC."
+          "text": "AFC = ATC - AVC."
         }
       ],
       "correctAnswer": "D",
@@ -9067,19 +9067,19 @@
       "options": [
         {
           "letter": "A",
-          "text": "TC = TFC � TVC."
+          "text": "TC = TFC - TVC."
         },
         {
           "letter": "B",
-          "text": "TVC = TFC � TC."
+          "text": "TVC = TFC - TC."
         },
         {
           "letter": "C",
-          "text": "TFC = TC � TVC."
+          "text": "TFC = TC - TVC."
         },
         {
           "letter": "D",
-          "text": "TC = TVC � TFC."
+          "text": "TC = TVC - TFC."
         }
       ],
       "correctAnswer": "C",
@@ -9165,7 +9165,7 @@
         },
         {
           "letter": "C",
-          "text": "The short-run cost curve at the minimum point of the long-run average cost curve represents the least�cost plant size for all levels of output."
+          "text": "The short-run cost curve at the minimum point of the long-run average cost curve represents the least-cost plant size for all levels of output."
         },
         {
           "letter": "D",
@@ -9288,23 +9288,23 @@
         "nodeCode": "FND_P4_CH3",
         "_chapterTitle": "Chapter 3: Theory of Production and Cost"
       },
-      "questionText": "A firm's average total cost is ` 300 at 5 units of output and ` 320 at 6 units of output. The marginal cost of producing the 6th unit is:",
+      "questionText": "A firm's average total cost is ₹300 at 5 units of output and ₹320 at 6 units of output. The marginal cost of producing the 6th unit is:",
       "options": [
         {
           "letter": "A",
-          "text": "` 20"
+          "text": "₹20"
         },
         {
           "letter": "B",
-          "text": "` 120"
+          "text": "₹120"
         },
         {
           "letter": "C",
-          "text": "` 320"
+          "text": "₹320"
         },
         {
           "letter": "D",
-          "text": "` 420"
+          "text": "₹420"
         }
       ],
       "correctAnswer": "D",
@@ -9333,23 +9333,23 @@
         "nodeCode": "FND_P4_CH3",
         "_chapterTitle": "Chapter 3: Theory of Production and Cost"
       },
-      "questionText": "A firm producing 7 units of output has an average total cost of ` 150 and has to pay ` 350 to its fixed factors of production whether it produces or not. How much of the average total cost is made up of variable costs?",
+      "questionText": "A firm producing 7 units of output has an average total cost of ₹150 and has to pay ₹350 to its fixed factors of production whether it produces or not. How much of the average total cost is made up of variable costs?",
       "options": [
         {
           "letter": "A",
-          "text": "` 200"
+          "text": "₹200"
         },
         {
           "letter": "B",
-          "text": "` 50"
+          "text": "₹50"
         },
         {
           "letter": "C",
-          "text": "` 300"
+          "text": "₹300"
         },
         {
           "letter": "D",
-          "text": "` 100"
+          "text": "₹100"
         }
       ],
       "correctAnswer": "D",
@@ -9378,23 +9378,23 @@
         "nodeCode": "FND_P4_CH3",
         "_chapterTitle": "Chapter 3: Theory of Production and Cost"
       },
-      "questionText": "A firm has a variable cost of ` 1000 at 5 units of output. If fixed costs are ` 400, what will be the average total cost at 5 units of output?",
+      "questionText": "A firm has a variable cost of ₹1000 at 5 units of output. If fixed costs are ₹400, what will be the average total cost at 5 units of output?",
       "options": [
         {
           "letter": "A",
-          "text": "` 280"
+          "text": "₹280"
         },
         {
           "letter": "B",
-          "text": "` 60"
+          "text": "₹60"
         },
         {
           "letter": "C",
-          "text": "` 120"
+          "text": "₹120"
         },
         {
           "letter": "D",
-          "text": "` 1400 v"
+          "text": "₹1400 v"
         }
       ],
       "correctAnswer": "A",
@@ -9423,23 +9423,23 @@
         "nodeCode": "FND_P4_CH3",
         "_chapterTitle": "Chapter 3: Theory of Production and Cost"
       },
-      "questionText": "A firm's average fixed cost is ` 20 at 6 units of output. What will it be at 4 units of output?",
+      "questionText": "A firm's average fixed cost is ₹20 at 6 units of output. What will it be at 4 units of output?",
       "options": [
         {
           "letter": "A",
-          "text": "` 60"
+          "text": "₹60"
         },
         {
           "letter": "B",
-          "text": "` 30"
+          "text": "₹30"
         },
         {
           "letter": "C",
-          "text": "` 40"
+          "text": "₹40"
         },
         {
           "letter": "D",
-          "text": "` 20"
+          "text": "₹20"
         }
       ],
       "correctAnswer": "B",
@@ -10863,7 +10863,7 @@
         "nodeCode": "FND_P4_CH3",
         "_chapterTitle": "Chapter 3: Theory of Production and Cost"
       },
-      "questionText": "The marginal cost for a firm of producing the 9th unit of output is ` 20. Average cost at the same level of output is ` 15. Which of the following must be true?",
+      "questionText": "The marginal cost for a firm of producing the 9th unit of output is ₹20. Average cost at the same level of output is ₹15. Which of the following must be true?",
       "options": [
         {
           "letter": "A",
@@ -11186,7 +11186,7 @@
         },
         {
           "letter": "B",
-          "text": "Total revenue = price per unit � number of units sold."
+          "text": "Total revenue = price per unit - number of units sold."
         },
         {
           "letter": "C",
@@ -11362,19 +11362,19 @@
       "options": [
         {
           "letter": "A",
-          "text": "` 2"
+          "text": "₹2"
         },
         {
           "letter": "B",
-          "text": "` 3"
+          "text": "₹3"
         },
         {
           "letter": "C",
-          "text": "` 4"
+          "text": "₹4"
         },
         {
           "letter": "D",
-          "text": "` 5"
+          "text": "₹5"
         }
       ],
       "correctAnswer": "C",
@@ -11403,23 +11403,23 @@
         "nodeCode": "FND_P4_CH4",
         "_chapterTitle": "Chapter 4: Price Determination in Different Markets"
       },
-      "questionText": "Assume that when price is ` 20, the quantity demanded is 9 units, and when price is ` 19, the quantity demanded is 10 units. Based on this information, what is the marginal revenue resulting from an increase in output from 9 units to 10 units.",
+      "questionText": "Assume that when price is ₹20, the quantity demanded is 9 units, and when price is ₹19, the quantity demanded is 10 units. Based on this information, what is the marginal revenue resulting from an increase in output from 9 units to 10 units.",
       "options": [
         {
           "letter": "A",
-          "text": "` 20"
+          "text": "₹20"
         },
         {
           "letter": "B",
-          "text": "` 19"
+          "text": "₹19"
         },
         {
           "letter": "C",
-          "text": "` 10"
+          "text": "₹10"
         },
         {
           "letter": "D",
-          "text": "` 1"
+          "text": "₹1"
         }
       ],
       "correctAnswer": "C",
@@ -11448,23 +11448,23 @@
         "nodeCode": "FND_P4_CH4",
         "_chapterTitle": "Chapter 4: Price Determination in Different Markets"
       },
-      "questionText": "Assume that when price is ` 20, the quantity demanded is 15 units, and when price is ` 18, the quantity demanded is 16 units. Based on this information, what is the marginal revenue resulting from an increase in output from 15 units to 16 units?",
+      "questionText": "Assume that when price is ₹20, the quantity demanded is 15 units, and when price is ₹18, the quantity demanded is 16 units. Based on this information, what is the marginal revenue resulting from an increase in output from 15 units to 16 units?",
       "options": [
         {
           "letter": "A",
-          "text": "` 18"
+          "text": "₹18"
         },
         {
           "letter": "B",
-          "text": "` 16"
+          "text": "₹16"
         },
         {
           "letter": "C",
-          "text": "-` 12"
+          "text": "-₹12"
         },
         {
           "letter": "D",
-          "text": "` 28"
+          "text": "₹28"
         }
       ],
       "correctAnswer": "C",
@@ -11583,7 +11583,7 @@
         "nodeCode": "FND_P4_CH4",
         "_chapterTitle": "Chapter 4: Price Determination in Different Markets"
       },
-      "questionText": "Suppose that a sole proprietorship is earning total revenues of ` 1,00,000 and is incurring explicit costs of ` 75,000. If the owner could work for another company for ` 30,000 a year, we would conclude that :",
+      "questionText": "Suppose that a sole proprietorship is earning total revenues of ₹1,00,000 and is incurring explicit costs of ₹75,000. If the owner could work for another company for ₹30,000 a year, we would conclude that :",
       "options": [
         {
           "letter": "A",
@@ -11591,15 +11591,15 @@
         },
         {
           "letter": "B",
-          "text": "Implicit costs are ` 25,000."
+          "text": "Implicit costs are ₹25,000."
         },
         {
           "letter": "C",
-          "text": "The total economic costs are ` 1,00,000."
+          "text": "The total economic costs are ₹1,00,000."
         },
         {
           "letter": "D",
-          "text": "The individual is earning an economic profit of ` 25,000."
+          "text": "The individual is earning an economic profit of ₹25,000."
         }
       ],
       "correctAnswer": "A",
@@ -11775,7 +11775,7 @@
         },
         {
           "letter": "C",
-          "text": "Negatively � sloped demand curve"
+          "text": "Negatively - sloped demand curve"
         },
         {
           "letter": "D",
@@ -12360,7 +12360,7 @@
         },
         {
           "letter": "C",
-          "text": "The individual firm has assets of less than ` 20 lakhs."
+          "text": "The individual firm has assets of less than ₹20 lakhs."
         },
         {
           "letter": "D",
@@ -14062,15 +14062,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "price � quantity"
+          "text": "price - quantity"
         },
         {
           "letter": "B",
-          "text": "price � income"
+          "text": "price - income"
         },
         {
           "letter": "C",
-          "text": "income � quantity"
+          "text": "income - quantity"
         },
         {
           "letter": "D",
@@ -14156,7 +14156,7 @@
         },
         {
           "letter": "B",
-          "text": "Price � quantity"
+          "text": "Price - quantity"
         },
         {
           "letter": "C",
@@ -15408,7 +15408,7 @@
         "nodeCode": "FND_P4_CH4",
         "_chapterTitle": "Chapter 4: Price Determination in Different Markets"
       },
-      "questionText": "For market the essential condition is �",
+      "questionText": "For market the essential condition is -",
       "options": [
         {
           "letter": "A",
@@ -15453,23 +15453,23 @@
         "nodeCode": "FND_P4_CH4",
         "_chapterTitle": "Chapter 4: Price Determination in Different Markets"
       },
-      "questionText": "Assume that when Price is ` 10, the quantity demanded is 5 units and when Price is ` 12 the quantity demanded is 4 units. Based on this information, what is the Marginal Revenue resulting from increase in output from 4 units to 5 units.",
+      "questionText": "Assume that when Price is ₹10, the quantity demanded is 5 units and when Price is ₹12 the quantity demanded is 4 units. Based on this information, what is the Marginal Revenue resulting from increase in output from 4 units to 5 units.",
       "options": [
         {
           "letter": "A",
-          "text": "` 5"
+          "text": "₹5"
         },
         {
           "letter": "B",
-          "text": "` 4"
+          "text": "₹4"
         },
         {
           "letter": "C",
-          "text": "` 2"
+          "text": "₹2"
         },
         {
           "letter": "D",
-          "text": "` 3"
+          "text": "₹3"
         }
       ],
       "correctAnswer": "C",
@@ -16713,7 +16713,7 @@
         "nodeCode": "FND_P4_CH5",
         "_chapterTitle": "Chapter 5: Business Cycles"
       },
-      "questionText": "Economic indicators are �",
+      "questionText": "Economic indicators are -",
       "options": [
         {
           "letter": "A",
@@ -17486,7 +17486,7 @@
         },
         {
           "letter": "B",
-          "text": "NNPFC = National Income = FID (factor income earned in domestic territory) � NFIA."
+          "text": "NNPFC = National Income = FID (factor income earned in domestic territory) - NFIA."
         },
         {
           "letter": "C",
@@ -18063,7 +18063,7 @@
         "nodeCode": "FND_P4_CH6",
         "_chapterTitle": "Chapter 6: Determination of National Income"
       },
-      "questionText": "If the consumption function is C = 20 + 0.5Yd, then an increase in disposable income by ` 100 will result in an increase in consumer expenditure by `-----------",
+      "questionText": "If the consumption function is C = 20 + 0.5Yd, then an increase in disposable income by ₹100 will result in an increase in consumer expenditure by `-----------",
       "options": [
         {
           "letter": "A",
@@ -18108,7 +18108,7 @@
         "nodeCode": "FND_P4_CH6",
         "_chapterTitle": "Chapter 6: Determination of National Income"
       },
-      "questionText": "If the autonomous consumption equals ` 2,000 and the marginal propensity to consume equals 0.8. If disposable income equals ` 10,000, then total consumption will be ` _____",
+      "questionText": "If the autonomous consumption equals ₹2,000 and the marginal propensity to consume equals 0.8. If disposable income equals ₹10,000, then total consumption will be ` _____",
       "options": [
         {
           "letter": "A",
@@ -20853,7 +20853,7 @@
         "nodeCode": "FND_P4_CH7",
         "_chapterTitle": "Chapter 7: Public Finance"
       },
-      "questionText": "The non�debt capital receipts of this country is",
+      "questionText": "The non-debt capital receipts of this country is",
       "options": [
         {
           "letter": "A",
@@ -21843,7 +21843,7 @@
         "nodeCode": "FND_P4_CH7",
         "_chapterTitle": "Chapter 7: Public Finance"
       },
-      "questionText": "Which statement (s) is (are) correct about crowding out? I. A decline in private spending may be partially or completely offset by the expansion of demand resulting from an increase in government expenditure. II. Crowding out effect is the negative effect fiscal policy may generate when money from the private sector is `crowded out' to the public sector. III When spending by government in an economy increases government spending would be crowded out. IV. Private investments, especially the ones which are interest �sensitive, will be reduced if interest rates rise due to increased spending by government",
+      "questionText": "Which statement (s) is (are) correct about crowding out? I. A decline in private spending may be partially or completely offset by the expansion of demand resulting from an increase in government expenditure. II. Crowding out effect is the negative effect fiscal policy may generate when money from the private sector is `crowded out' to the public sector. III When spending by government in an economy increases government spending would be crowded out. IV. Private investments, especially the ones which are interest -sensitive, will be reduced if interest rates rise due to increased spending by government",
       "options": [
         {
           "letter": "A",
@@ -22972,15 +22972,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "the opportunity costs of money holdings � i.e. bonds and stock returns, rB and rE , respectively- decline and vice versa"
+          "text": "the opportunity costs of money holdings - i.e. bonds and stock returns, rB and rE , respectively- decline and vice versa"
         },
         {
           "letter": "B",
-          "text": "the opportunity costs of money holdings � i.e. bonds and stock returns, rB and rE , respectively- rises and vice versa"
+          "text": "the opportunity costs of money holdings - i.e. bonds and stock returns, rB and rE , respectively- rises and vice versa"
         },
         {
           "letter": "C",
-          "text": "the opportunity costs of money holdings � i.e. bonds and stock returns, rB and rE , respectively remain constant"
+          "text": "the opportunity costs of money holdings - i.e. bonds and stock returns, rB and rE , respectively remain constant"
         },
         {
           "letter": "D",
@@ -23209,7 +23209,7 @@
         },
         {
           "letter": "D",
-          "text": "empowered to issue currency to any extent by keeping a reserve of gold and foreign securities to the extent of ` 350 crores"
+          "text": "empowered to issue currency to any extent by keeping a reserve of gold and foreign securities to the extent of ₹350 crores"
         }
       ],
       "correctAnswer": "B",

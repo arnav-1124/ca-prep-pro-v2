@@ -15,6 +15,7 @@ export interface GradeAnswerInput {
   };
   selectedAnswer: string;
   validOptions: string[]; // e.g. ['A', 'B', 'C', 'D']
+  optionEntities?: { letter: string; isCorrect: boolean }[];
 }
 
 export interface GradeAnswerResult {
@@ -27,9 +28,10 @@ export interface GradeAnswerResult {
 
 /**
  * Deterministically evaluates a student's selected answer against the authoritative question version.
+ * If optionEntities with isCorrect is available, uses the entity-joined correctness directly.
  */
 export function gradeAnswer(input: GradeAnswerInput): GradeAnswerResult {
-  const { questionVersion, selectedAnswer, validOptions } = input;
+  const { questionVersion, selectedAnswer, validOptions, optionEntities } = input;
 
   const normalizedSelected = selectedAnswer.trim().toUpperCase();
   const normalizedCorrect = questionVersion.correctAnswer.trim().toUpperCase();
@@ -42,8 +44,24 @@ export function gradeAnswer(input: GradeAnswerInput): GradeAnswerResult {
     );
   }
 
-  // 2. Deterministic correctness evaluation
-  const isCorrect = normalizedSelected === normalizedCorrect;
+  // 2. Deterministic correctness evaluation:
+  // If optionEntities with explicit isCorrect is provided, check the entity flag directly.
+  let isCorrect: boolean;
+  let authoritativeCorrectLetter = normalizedCorrect;
+
+  if (optionEntities && optionEntities.length > 0) {
+    const chosen = optionEntities.find(
+      (o) => o.letter.trim().toUpperCase() === normalizedSelected
+    );
+    isCorrect = chosen ? chosen.isCorrect : false;
+
+    const correctEntity = optionEntities.find((o) => o.isCorrect);
+    if (correctEntity) {
+      authoritativeCorrectLetter = correctEntity.letter.trim().toUpperCase();
+    }
+  } else {
+    isCorrect = normalizedSelected === normalizedCorrect;
+  }
 
   // 3. Marks calculation (Standard: 1 mark for correct, 0 for incorrect)
   const marksAwarded = isCorrect ? 1 : 0;
@@ -52,7 +70,7 @@ export function gradeAnswer(input: GradeAnswerInput): GradeAnswerResult {
     isCorrect,
     marksAwarded,
     normalizedSelectedAnswer: normalizedSelected,
-    correctAnswer: normalizedCorrect,
+    correctAnswer: authoritativeCorrectLetter,
     explanation: questionVersion.explanation || null,
   };
 }

@@ -1780,7 +1780,7 @@
       }
     },
     {
-      "questionText": "Average revenue curve is also known as �",
+      "questionText": "Average revenue curve is also known as -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
@@ -1879,7 +1879,7 @@
       }
     },
     {
-      "questionText": "The Cobweb theory was propounded by �",
+      "questionText": "The Cobweb theory was propounded by -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
@@ -1912,7 +1912,7 @@
       }
     },
     {
-      "questionText": "The nominal and real GDP respectively of a country in a particular year are ` 3000 cr. and ` 4500 cr respectively. The GDP deflator will be:",
+      "questionText": "The nominal and real GDP respectively of a country in a particular year are ₹3000 cr. and ₹4500 cr respectively. The GDP deflator will be:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH6",
       "difficulty": "MEDIUM",
@@ -1945,7 +1945,7 @@
       }
     },
     {
-      "questionText": "An increase in investment by 600 cr leads to increase in national income by 1800 cr. The MPC will be �",
+      "questionText": "An increase in investment by 600 cr leads to increase in national income by 1800 cr. The MPC will be -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH6",
       "difficulty": "MEDIUM",
@@ -2766,7 +2766,7 @@
       }
     },
     {
-      "questionText": "Suppose in a country investment increases by ` 100 crores and consumption is given by C= 10 +0.6Y. How much increase will there take place in income?",
+      "questionText": "Suppose in a country investment increases by ₹100 crores and consumption is given by C= 10 +0.6Y. How much increase will there take place in income?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
@@ -2865,7 +2865,7 @@
       }
     },
     {
-      "questionText": "Suppose the price of a commodity X increases from ` 2000 per unit to ` 2100 per unit and consequently the quantity supplied rises from ` 2500 to ` 3000 units. Calculate the elasticity of supply.",
+      "questionText": "Suppose the price of a commodity X increases from ₹2000 per unit to ₹2100 per unit and consequently the quantity supplied rises from ₹2500 to ₹3000 units. Calculate the elasticity of supply.",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH2",
       "difficulty": "MEDIUM",
@@ -5427,7 +5427,7 @@
       }
     },
     {
-      "questionText": "If the required reserve ratio is 20 percent, currency in circulation is ` 800 billion, demand deposits are ` 2000 billion, and excess reserves total ` 2 billion, find the value of money multiplier",
+      "questionText": "If the required reserve ratio is 20 percent, currency in circulation is ₹800 billion, demand deposits are ₹2000 billion, and excess reserves total ₹2 billion, find the value of money multiplier",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH6",
       "difficulty": "MEDIUM",
@@ -9152,7 +9152,7 @@
       }
     },
     {
-      "questionText": "The price of 1 kg. of tea is price of coffee rises from ` 50. At this price, 10 kg. of tea is demanded. If the` 30 to` 40 per kg., the quantity demanded of tea rises from 10 kg. to 15 kg. What will be the cross price elasticity of tea ?",
+      "questionText": "The price of 1 kg. of tea is price of coffee rises from ₹50. At this price, 10 kg. of tea is demanded. If the₹30 to₹40 per kg., the quantity demanded of tea rises from 10 kg. to 15 kg. What will be the cross price elasticity of tea ?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH2",
       "difficulty": "MEDIUM",
@@ -9489,19 +9489,19 @@
       "options": [
         {
           "letter": "A",
-          "text": "` 1,150 crores"
+          "text": "₹1,150 crores"
         },
         {
           "letter": "B",
-          "text": "` 155 crores"
+          "text": "₹155 crores"
         },
         {
           "letter": "C",
-          "text": "` 159 crores"
+          "text": "₹159 crores"
         },
         {
           "letter": "D",
-          "text": "` 164 crores"
+          "text": "₹164 crores"
         }
       ],
       "correctAnswer": "A",
@@ -10010,26 +10010,26 @@
       }
     },
     {
-      "questionText": "If GDP at market price is ` 6,700 crore and depreciation is ` 530 crore, then what will be the NDP at market price?",
+      "questionText": "If GDP at market price is ₹6,700 crore and depreciation is ₹530 crore, then what will be the NDP at market price?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH6",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 6,200 crore"
+          "text": "₹6,200 crore"
         },
         {
           "letter": "B",
-          "text": "` 6,170 crore"
+          "text": "₹6,170 crore"
         },
         {
           "letter": "C",
-          "text": "` 7,230 crore"
+          "text": "₹7,230 crore"
         },
         {
           "letter": "D",
-          "text": "` 6,690 crore"
+          "text": "₹6,690 crore"
         }
       ],
       "correctAnswer": "C",
@@ -10340,26 +10340,26 @@
       }
     },
     {
-      "questionText": "What will be the Total Income if the value of Average Propensity to Consume (APC) is 0.45 and Total Consumption = ` 900 crores ?",
+      "questionText": "What will be the Total Income if the value of Average Propensity to Consume (APC) is 0.45 and Total Consumption = ₹900 crores ?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 2,500 crores"
+          "text": "₹2,500 crores"
         },
         {
           "letter": "B",
-          "text": "` 2,000 crores"
+          "text": "₹2,000 crores"
         },
         {
           "letter": "C",
-          "text": "` 2,050 crores"
+          "text": "₹2,050 crores"
         },
         {
           "letter": "D",
-          "text": "` 2,100 crores"
+          "text": "₹2,100 crores"
         }
       ],
       "correctAnswer": "A",
@@ -10380,19 +10380,19 @@
       "options": [
         {
           "letter": "A",
-          "text": "` 1,000 crores"
+          "text": "₹1,000 crores"
         },
         {
           "letter": "B",
-          "text": "` 1,050 crores"
+          "text": "₹1,050 crores"
         },
         {
           "letter": "C",
-          "text": "` 900 crores"
+          "text": "₹900 crores"
         },
         {
           "letter": "D",
-          "text": "` 1,300 crores"
+          "text": "₹1,300 crores"
         }
       ],
       "correctAnswer": "B",
@@ -10809,19 +10809,19 @@
       "options": [
         {
           "letter": "A",
-          "text": "` 8,000 crores"
+          "text": "₹8,000 crores"
         },
         {
           "letter": "B",
-          "text": "` 22,000 crores"
+          "text": "₹22,000 crores"
         },
         {
           "letter": "C",
-          "text": "` 18,000 crores"
+          "text": "₹18,000 crores"
         },
         {
           "letter": "D",
-          "text": "` 21,000 crores"
+          "text": "₹21,000 crores"
         }
       ],
       "correctAnswer": "B",
@@ -10868,26 +10868,26 @@
       }
     },
     {
-      "questionText": "In an economy, the money supply (M) is ` 500 crores, the velocity of money (V) is 5 and the total number of transactions (T) is 10,000. Calculate the average price level (P) in the economy.",
+      "questionText": "In an economy, the money supply (M) is ₹500 crores, the velocity of money (V) is 5 and the total number of transactions (T) is 10,000. Calculate the average price level (P) in the economy.",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH8",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 25 thousand"
+          "text": "₹25 thousand"
         },
         {
           "letter": "B",
-          "text": "` 25 lakhs"
+          "text": "₹25 lakhs"
         },
         {
           "letter": "C",
-          "text": "` 50 lakhs"
+          "text": "₹50 lakhs"
         },
         {
           "letter": "D",
-          "text": "` 50 thousand"
+          "text": "₹50 thousand"
         }
       ],
       "correctAnswer": "C",
@@ -10912,7 +10912,7 @@
         },
         {
           "letter": "B",
-          "text": "` 1,000"
+          "text": "₹1,000"
         },
         {
           "letter": "C",
@@ -10920,7 +10920,7 @@
         },
         {
           "letter": "D",
-          "text": "` 10"
+          "text": "₹10"
         }
       ],
       "correctAnswer": "C",
@@ -12122,7 +12122,7 @@
       }
     },
     {
-      "questionText": "A rise in Price will �",
+      "questionText": "A rise in Price will -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
@@ -12155,7 +12155,7 @@
       }
     },
     {
-      "questionText": "Marginal Product is the slope of �",
+      "questionText": "Marginal Product is the slope of -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH3",
       "difficulty": "MEDIUM",
@@ -12236,7 +12236,7 @@
         },
         {
           "letter": "C",
-          "text": "TC = TFC � TVC"
+          "text": "TC = TFC - TVC"
         },
         {
           "letter": "D",
@@ -12287,7 +12287,7 @@
       }
     },
     {
-      "questionText": "The Condition for pure competition to be fulfilled are �",
+      "questionText": "The Condition for pure competition to be fulfilled are -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
@@ -12320,7 +12320,7 @@
       }
     },
     {
-      "questionText": "When the firm is in the long run equilibrium in perfect competition which of the following is true �",
+      "questionText": "When the firm is in the long run equilibrium in perfect competition which of the following is true -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH4",
       "difficulty": "MEDIUM",
@@ -12386,7 +12386,7 @@
       }
     },
     {
-      "questionText": "Demand Curve in the monopolistic competition is �",
+      "questionText": "Demand Curve in the monopolistic competition is -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH4",
       "difficulty": "MEDIUM",
@@ -12485,7 +12485,7 @@
       }
     },
     {
-      "questionText": "Foreign Exchange market is an example of �",
+      "questionText": "Foreign Exchange market is an example of -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
@@ -12518,7 +12518,7 @@
       }
     },
     {
-      "questionText": "Under which market form price discrimination cannot persist �",
+      "questionText": "Under which market form price discrimination cannot persist -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH4",
       "difficulty": "MEDIUM",
@@ -13211,7 +13211,7 @@
       }
     },
     {
-      "questionText": "When the Output increases from 20 to 30 units and TR increases from Rs 400 to Rs 500 then MR is",
+      "questionText": "When the Output increases from 20 to 30 units and TR increases from ₹400 to ₹500 then MR is",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH1",
       "difficulty": "MEDIUM",
@@ -13442,7 +13442,7 @@
       }
     },
     {
-      "questionText": "The Producer reduces supply from 100 units to 50 units. When the Price falls from Rs 20 to Rs 10, the Price elasticity of supply will be :",
+      "questionText": "The Producer reduces supply from 100 units to 50 units. When the Price falls from ₹20 to ₹10, the Price elasticity of supply will be :",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P4_CH2",
       "difficulty": "MEDIUM",

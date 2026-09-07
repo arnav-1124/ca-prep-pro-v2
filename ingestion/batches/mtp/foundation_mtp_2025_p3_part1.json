@@ -43,7 +43,7 @@
       }
     },
     {
-      "questionText": "A bag contains coins of denominations 1 rupee , 2 rupee and 5 rupees . Their numbers are in the ratio 4:3:2 .If bag has total of Rs. 1800 then find the number of 2 rupee coins ?",
+      "questionText": "A bag contains coins of denominations 1 rupee , 2 rupee and 5 rupees . Their numbers are in the ratio 4:3:2 .If bag has total of ₹1800 then find the number of 2 rupee coins ?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
@@ -76,7 +76,7 @@
       }
     },
     {
-      "questionText": "4 tables and 3 chairs together cost ` 2,250 and 3 tables and 4 chairs cost ` 1950. Find the cost of 2 chairs and I table.",
+      "questionText": "4 tables and 3 chairs together cost ₹2,250 and 3 tables and 4 chairs cost ₹1950. Find the cost of 2 chairs and I table.",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
@@ -87,7 +87,7 @@
         },
         {
           "letter": "B",
-          "text": "` 1005"
+          "text": "₹1005"
         },
         {
           "letter": "C",
@@ -109,7 +109,7 @@
       }
     },
     {
-      "questionText": "One root of the equation: x2 � 2(5 + m) + 3(7 + m) = 0 is reciprocal of the other. Find the value of m.",
+      "questionText": "One root of the equation: x2 - 2(5 + m) + 3(7 + m) = 0 is reciprocal of the other. Find the value of m.",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH2",
       "difficulty": "MEDIUM",
@@ -446,19 +446,19 @@
       "options": [
         {
           "letter": "A",
-          "text": "` 37,467"
+          "text": "₹37,467"
         },
         {
           "letter": "B",
-          "text": "` 37,476"
+          "text": "₹37,476"
         },
         {
           "letter": "C",
-          "text": "` 37,647"
+          "text": "₹37,647"
         },
         {
           "letter": "D",
-          "text": "` 37,674"
+          "text": "₹37,674"
         }
       ],
       "correctAnswer": "C",
@@ -479,15 +479,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "` 215891.13"
+          "text": "₹215891.13"
         },
         {
           "letter": "B",
-          "text": "` 205891.13"
+          "text": "₹205891.13"
         },
         {
           "letter": "C",
-          "text": "` 225891.13"
+          "text": "₹225891.13"
         },
         {
           "letter": "D",
@@ -538,22 +538,22 @@
       }
     },
     {
-      "questionText": "If the difference between the compound interest compounded annually and simple interest on a certain amount at 10% per annum for two years is ` 372, then the principal amount is.",
+      "questionText": "If the difference between the compound interest compounded annually and simple interest on a certain amount at 10% per annum for two years is ₹372, then the principal amount is.",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 37,000"
+          "text": "₹37,000"
         },
         {
           "letter": "B",
-          "text": "` 37,200"
+          "text": "₹37,200"
         },
         {
           "letter": "C",
-          "text": "` 37,500"
+          "text": "₹37,500"
         },
         {
           "letter": "D",
@@ -571,7 +571,7 @@
       }
     },
     {
-      "questionText": "The future value of an annuity of ` 1500 made annually for 5 years at an interest rate of 10% compounded annually is[Given that (1.1 )5 = 1.61051]",
+      "questionText": "The future value of an annuity of ₹1500 made annually for 5 years at an interest rate of 10% compounded annually is[Given that (1.1 )5 = 1.61051]",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
@@ -604,22 +604,22 @@
       }
     },
     {
-      "questionText": "Find the present value of an annuity of ` 1,000 payable at the end of each year for 10 years. If rate of interest is 6% compounding per annum. (given (1.06)-10 = 0.5584):",
+      "questionText": "Find the present value of an annuity of ₹1,000 payable at the end of each year for 10 years. If rate of interest is 6% compounding per annum. (given (1.06)-10 = 0.5584):",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 7,360"
+          "text": "₹7,360"
         },
         {
           "letter": "B",
-          "text": "` 8,360"
+          "text": "₹8,360"
         },
         {
           "letter": "C",
-          "text": "` 12,000"
+          "text": "₹12,000"
         },
         {
           "letter": "D",
@@ -644,15 +644,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "` 58239.84"
+          "text": "₹58239.84"
         },
         {
           "letter": "B",
-          "text": "` 58729.84"
+          "text": "₹58729.84"
         },
         {
           "letter": "C",
-          "text": "` 68729.84"
+          "text": "₹68729.84"
         },
         {
           "letter": "D",
@@ -670,26 +670,26 @@
       }
     },
     {
-      "questionText": "Suppose your mom decides to gift you ` 10,000 every year starting from today for the next sixteen years. You deposit this amount in a bank as and when you receive and get 8.5% per annum interest rate compounded annually. What is the present value of this money: [Given that P (15, 0.085) = 8.304236]",
+      "questionText": "Suppose your mom decides to gift you ₹10,000 every year starting from today for the next sixteen years. You deposit this amount in a bank as and when you receive and get 8.5% per annum interest rate compounded annually. What is the present value of this money: [Given that P (15, 0.085) = 8.304236]",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 83,042"
+          "text": "₹83,042"
         },
         {
           "letter": "B",
-          "text": "` 90,100"
+          "text": "₹90,100"
         },
         {
           "letter": "C",
-          "text": "` 93,042"
+          "text": "₹93,042"
         },
         {
           "letter": "D",
-          "text": "` 10,100"
+          "text": "₹10,100"
         }
       ],
       "correctAnswer": "B",
@@ -736,26 +736,26 @@
       }
     },
     {
-      "questionText": "The value of furniture depreciates by 10% a year, if the present value of the furniture in an office is ` 21870, calculate the value of furniture 3 years ago:",
+      "questionText": "The value of furniture depreciates by 10% a year, if the present value of the furniture in an office is ₹21870, calculate the value of furniture 3 years ago:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 30,000"
+          "text": "₹30,000"
         },
         {
           "letter": "B",
-          "text": "` 40,000"
+          "text": "₹40,000"
         },
         {
           "letter": "C",
-          "text": "` 35,000"
+          "text": "₹35,000"
         },
         {
           "letter": "D",
-          "text": "` 50,000"
+          "text": "₹50,000"
         }
       ],
       "correctAnswer": "C",
@@ -868,14 +868,14 @@
       }
     },
     {
-      "questionText": "The equation of the tangent to the curve, x3 � 2x + 3, at the point (2, 7) is:",
+      "questionText": "The equation of the tangent to the curve, x3 - 2x + 3, at the point (2, 7) is:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH2",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "y = 2x � 13"
+          "text": "y = 2x - 13"
         },
         {
           "letter": "B",
@@ -883,7 +883,7 @@
         },
         {
           "letter": "C",
-          "text": "y = 10x �"
+          "text": "y = 10x -"
         }
       ],
       "correctAnswer": "C",
@@ -1135,11 +1135,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "4n � 2"
+          "text": "4n - 2"
         },
         {
           "letter": "B",
-          "text": "3n � 4"
+          "text": "3n - 4"
         },
         {
           "letter": "C",
@@ -1180,7 +1180,7 @@
         },
         {
           "letter": "D",
-          "text": "�"
+          "text": "-"
         }
       ],
       "correctAnswer": "C",
@@ -1260,7 +1260,7 @@
       }
     },
     {
-      "questionText": "If A = (1, 2, 3, 4, 5), B = (2, 4) and C = (1, 3, 5) then (A � C) � B is:",
+      "questionText": "If A = (1, 2, 3, 4, 5), B = (2, 4) and C = (1, 3, 5) then (A - C) - B is:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH9",
       "difficulty": "MEDIUM",
@@ -1326,7 +1326,7 @@
       }
     },
     {
-      "questionText": "Let R is the set of real numbers, such that the function f: R R and g : R R are defined by f(x) = x2 + 3x + 1 and g(x) = 2x � 3. Find (fog) :",
+      "questionText": "Let R is the set of real numbers, such that the function f: R R and g : R R are defined by f(x) = x2 + 3x + 1 and g(x) = 2x - 3. Find (fog) :",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH7",
       "difficulty": "MEDIUM",
@@ -1341,11 +1341,11 @@
         },
         {
           "letter": "C",
-          "text": "4x2 � 6x +1"
+          "text": "4x2 - 6x +1"
         },
         {
           "letter": "D",
-          "text": "x2 � 6x + 1"
+          "text": "x2 - 6x + 1"
         }
       ],
       "correctAnswer": "B",
@@ -1392,7 +1392,7 @@
       }
     },
     {
-      "questionText": "A box contains ` 56 in the form of coins of one rupee, 50 paise and 25 paise. The number of 50 paise coin is double the number of 25 paise coins and four times the numbers of one rupee coins. The numbers of 50 paise coins in the box is",
+      "questionText": "A box contains ₹56 in the form of coins of one rupee, 50 paise and 25 paise. The number of 50 paise coin is double the number of 25 paise coins and four times the numbers of one rupee coins. The numbers of 50 paise coins in the box is",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH9",
       "difficulty": "MEDIUM",
@@ -1425,22 +1425,22 @@
       }
     },
     {
-      "questionText": "A man starts his job with a certain monthly salary and earns a fixed increment every year. If his salary was ` 1,500 after 4 years of service and ` 1,800 after 10 years of service, what was his starting salary and what is the annual increment in rupees?",
+      "questionText": "A man starts his job with a certain monthly salary and earns a fixed increment every year. If his salary was ₹1,500 after 4 years of service and ₹1,800 after 10 years of service, what was his starting salary and what is the annual increment in rupees?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH5",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 1,300, ` 50"
+          "text": "₹1,300, ₹50"
         },
         {
           "letter": "B",
-          "text": "` 1,100, ` 50"
+          "text": "₹1,100, ₹50"
         },
         {
           "letter": "C",
-          "text": "` 1,500, `"
+          "text": "₹1,500, `"
         }
       ],
       "correctAnswer": "A",
@@ -1454,7 +1454,7 @@
       }
     },
     {
-      "questionText": "Find the positive value of k for which the equations: x2 + kx + 64 = 0 and x2 � 8x + k = 0 will have real roots:",
+      "questionText": "Find the positive value of k for which the equations: x2 + kx + 64 = 0 and x2 - 8x + k = 0 will have real roots:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH2",
       "difficulty": "MEDIUM",
@@ -1487,7 +1487,7 @@
       }
     },
     {
-      "questionText": "Praveen is facing west. He turns 45� in the clockwise direction and then again another turns with 180� in the same direction i.e. clockwise direction, after that he turns 270� in the anti-clockwise direction. Which direction is he facing now ?",
+      "questionText": "Praveen is facing west. He turns 45- in the clockwise direction and then again another turns with 180- in the same direction i.e. clockwise direction, after that he turns 270- in the anti-clockwise direction. Which direction is he facing now ?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH10",
       "difficulty": "MEDIUM",
@@ -1520,7 +1520,7 @@
       }
     },
     {
-      "questionText": "Shweta moved a distance of 75 metres towards the north. She then turned to the left and walking for about 25 metres, turned left again and walked 80 metres. Finally, she turned to the right at an angle of 45�. In which direction was she moving finally?",
+      "questionText": "Shweta moved a distance of 75 metres towards the north. She then turned to the left and walking for about 25 metres, turned left again and walked 80 metres. Finally, she turned to the right at an angle of 45-. In which direction was she moving finally?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH10",
       "difficulty": "MEDIUM",
@@ -1652,7 +1652,7 @@
       }
     },
     {
-      "questionText": "If log4(x2 + x) � log4(x + 1) = 2 then the value of x is",
+      "questionText": "If log4(x2 + x) - log4(x + 1) = 2 then the value of x is",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
@@ -1978,7 +1978,7 @@
       }
     },
     {
-      "questionText": "Monthly salary of an employee was ` 10,000 in the year 2010 and it was increased to ` 20,000 in the year 2023 while the consumer price index number is 240 in year 2023 with the base year 2010, what should be his salary in comparison of consumer price index in the year 2023 ?",
+      "questionText": "Monthly salary of an employee was ₹10,000 in the year 2010 and it was increased to ₹20,000 in the year 2023 while the consumer price index number is 240 in year 2023 with the base year 2010, what should be his salary in comparison of consumer price index in the year 2023 ?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH12",
       "difficulty": "MEDIUM",
@@ -2183,7 +2183,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "r = �1"
+          "text": "r = -1"
         },
         {
           "letter": "B",
@@ -2191,7 +2191,7 @@
         },
         {
           "letter": "C",
-          "text": "r = �"
+          "text": "r = -"
         },
         {
           "letter": "D",
@@ -2473,7 +2473,7 @@
       }
     },
     {
-      "questionText": "If X and Y are related as 3X � 4Y = 20 and the quartile deviation of X is 12, then the quartile deviation of Y is :",
+      "questionText": "If X and Y are related as 3X - 4Y = 20 and the quartile deviation of X is 12, then the quartile deviation of Y is :",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH14",
       "difficulty": "MEDIUM",
@@ -2572,7 +2572,7 @@
       }
     },
     {
-      "questionText": "If variance of x is 5, then find the variance of (2 � 3x)",
+      "questionText": "If variance of x is 5, then find the variance of (2 - 3x)",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH14",
       "difficulty": "MEDIUM",
@@ -2645,7 +2645,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "Mean � Median = 3 (Median � Mode)"
+          "text": "Mean - Median = 3 (Median - Mode)"
         },
         {
           "letter": "B",
@@ -2653,11 +2653,11 @@
         },
         {
           "letter": "C",
-          "text": "Mean � Mode = 3 (Mean � Median)"
+          "text": "Mean - Mode = 3 (Mean - Median)"
         },
         {
           "letter": "D",
-          "text": "Mean � Median 3 (Mean � Mode)"
+          "text": "Mean - Median 3 (Mean - Mode)"
         }
       ],
       "correctAnswer": "A",
@@ -2671,26 +2671,26 @@
       }
     },
     {
-      "questionText": "The mean salary for a group of 40 female workers is ` 5200 per month and that for a group of 60 male workers is ` 6800 per month. What is the combined salary ?",
+      "questionText": "The mean salary for a group of 40 female workers is ₹5200 per month and that for a group of 60 male workers is ₹6800 per month. What is the combined salary ?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH14",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 6160"
+          "text": "₹6160"
         },
         {
           "letter": "B",
-          "text": "` 6280"
+          "text": "₹6280"
         },
         {
           "letter": "C",
-          "text": "` 6890"
+          "text": "₹6890"
         },
         {
           "letter": "D",
-          "text": "` 6920"
+          "text": "₹6920"
         }
       ],
       "correctAnswer": "C",
@@ -2935,7 +2935,7 @@
       }
     },
     {
-      "questionText": "A bag conatind 25 paise, 10 paise and 5 paise are in the ratio 3:2:1. The total value of ` 40, the number of 5 paise coins is",
+      "questionText": "A bag conatind 25 paise, 10 paise and 5 paise are in the ratio 3:2:1. The total value of ₹40, the number of 5 paise coins is",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
@@ -3001,7 +3001,7 @@
       }
     },
     {
-      "questionText": "If 2X �3y�5z =720 then the value of x, y, z ?",
+      "questionText": "If 2X -3y-5z =720 then the value of x, y, z ?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
@@ -3133,26 +3133,26 @@
       }
     },
     {
-      "questionText": "Find future value of annuity of ` 1000 made annualy for seven yeras at interest rate 16% compounded annaualy. [Given that (1.16)7= 2.8262]",
+      "questionText": "Find future value of annuity of ₹1000 made annualy for seven yeras at interest rate 16% compounded annaualy. [Given that (1.16)7= 2.8262]",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 11413.75"
+          "text": "₹11413.75"
         },
         {
           "letter": "B",
-          "text": "` 11000.35"
+          "text": "₹11000.35"
         },
         {
           "letter": "C",
-          "text": "` 8756"
+          "text": "₹8756"
         },
         {
           "letter": "D",
-          "text": "` 9892.34"
+          "text": "₹9892.34"
         }
       ],
       "correctAnswer": "C",
@@ -3166,26 +3166,26 @@
       }
     },
     {
-      "questionText": "Assuming that the discount rate is 7% is p.a. How much would you pay to receive ` 500. Growing at 5% annually forever?",
+      "questionText": "Assuming that the discount rate is 7% is p.a. How much would you pay to receive ₹500. Growing at 5% annually forever?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 2,500"
+          "text": "₹2,500"
         },
         {
           "letter": "B",
-          "text": "` 5,000"
+          "text": "₹5,000"
         },
         {
           "letter": "C",
-          "text": "` 7,500"
+          "text": "₹7,500"
         },
         {
           "letter": "D",
-          "text": "` 25,000"
+          "text": "₹25,000"
         }
       ],
       "correctAnswer": "A",
@@ -3232,26 +3232,26 @@
       }
     },
     {
-      "questionText": "` 5000 is paid every year for 10 years to pay off a loan. What is the loan amount of interest rate be 14% p.a compounded annualy?",
+      "questionText": "₹5000 is paid every year for 10 years to pay off a loan. What is the loan amount of interest rate be 14% p.a compounded annualy?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 26,000.90"
+          "text": "₹26,000.90"
         },
         {
           "letter": "B",
-          "text": "` 26080.55"
+          "text": "₹26080.55"
         },
         {
           "letter": "C",
-          "text": "` 15000.21"
+          "text": "₹15000.21"
         },
         {
           "letter": "D",
-          "text": "` 16,345.11"
+          "text": "₹16,345.11"
         }
       ],
       "correctAnswer": "C",
@@ -3265,26 +3265,26 @@
       }
     },
     {
-      "questionText": "` 800 is invested at the end of each month in account paying interest 6% per year compounded monthly. What is the future value of annuity after 10th payment ? [Given that (1.005)10 = 1.0511]",
+      "questionText": "₹800 is invested at the end of each month in account paying interest 6% per year compounded monthly. What is the future value of annuity after 10th payment ? [Given that (1.005)10 = 1.0511]",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 4444"
+          "text": "₹4444"
         },
         {
           "letter": "B",
-          "text": "` 8766"
+          "text": "₹8766"
         },
         {
           "letter": "C",
-          "text": "` 3491"
+          "text": "₹3491"
         },
         {
           "letter": "D",
-          "text": "` 8176"
+          "text": "₹8176"
         }
       ],
       "correctAnswer": "B",
@@ -3298,7 +3298,7 @@
       }
     },
     {
-      "questionText": "Certain sum of money borrowed at simple interest to ` 2688 in three years and to ` 2784 in four years at the rate per annum equal to",
+      "questionText": "Certain sum of money borrowed at simple interest to ₹2688 in three years and to ₹2784 in four years at the rate per annum equal to",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
@@ -3331,7 +3331,7 @@
       }
     },
     {
-      "questionText": "Ravi made of an investment of ` 15,000 in a scheme and at the time of maturity the time of maturity the amount was ` 25,000. If Compound Annual Growth Rate (CAGR) for this investment is 8.88%. Calculate the approximate number of years for which he has invested the amount. 150",
+      "questionText": "Ravi made of an investment of ₹15,000 in a scheme and at the time of maturity the time of maturity the amount was ₹25,000. If Compound Annual Growth Rate (CAGR) for this investment is 8.88%. Calculate the approximate number of years for which he has invested the amount. 150",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
@@ -3364,22 +3364,22 @@
       }
     },
     {
-      "questionText": "The present value of an annuity which pays `200 at the end of each 3 months for 10 years, assuming money to be worth 5% converted quarterly",
+      "questionText": "The present value of an annuity which pays ₹200 at the end of each 3 months for 10 years, assuming money to be worth 5% converted quarterly",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 3473.86"
+          "text": "₹3473.86"
         },
         {
           "letter": "B",
-          "text": "` 3108.60"
+          "text": "₹3108.60"
         },
         {
           "letter": "C",
-          "text": "`114180.44"
+          "text": "₹114180.44"
         },
         {
           "letter": "D",
@@ -3397,26 +3397,26 @@
       }
     },
     {
-      "questionText": "Rajesh invests ` 20,000 per year in a stock index fund, with earns 9% per year, for the next ten years.What would be closest value of accumulated investment upon payment of the last installment? [Given: (1.09)10 = 2.36736]",
+      "questionText": "Rajesh invests ₹20,000 per year in a stock index fund, with earns 9% per year, for the next ten years.What would be closest value of accumulated investment upon payment of the last installment? [Given: (1.09)10 = 2.36736]",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 3,88,764.968"
+          "text": "₹3,88,764.968"
         },
         {
           "letter": "B",
-          "text": "` 3,03,858.564"
+          "text": "₹3,03,858.564"
         },
         {
           "letter": "C",
-          "text": "` 2,68,728.484"
+          "text": "₹2,68,728.484"
         },
         {
           "letter": "D",
-          "text": "` 4,08,718.364"
+          "text": "₹4,08,718.364"
         }
       ],
       "correctAnswer": "C",
@@ -3430,26 +3430,26 @@
       }
     },
     {
-      "questionText": "An investment is earning compounded interest ` 100 invested in the year 2 accumulated to ` 105 by year 4. If ` 500 invested in the year 5, will become ` _____by year 10.",
+      "questionText": "An investment is earning compounded interest ₹100 invested in the year 2 accumulated to ₹105 by year 4. If ₹500 invested in the year 5, will become ` _____by year 10.",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 364.80"
+          "text": "₹364.80"
         },
         {
           "letter": "B",
-          "text": "` 564.80"
+          "text": "₹564.80"
         },
         {
           "letter": "C",
-          "text": "` 464.80"
+          "text": "₹464.80"
         },
         {
           "letter": "D",
-          "text": "` 664.80"
+          "text": "₹664.80"
         }
       ],
       "correctAnswer": "B",
@@ -3463,26 +3463,26 @@
       }
     },
     {
-      "questionText": "An investor is saving to pay off an obligation of ` 15,250 which will due in seven years, if the investor is earning 7.5% simple interest rate per annum, he must deposit ` _____ to meet the obligation.",
+      "questionText": "An investor is saving to pay off an obligation of ₹15,250 which will due in seven years, if the investor is earning 7.5% simple interest rate per annum, he must deposit ` _____ to meet the obligation.",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 8,000"
+          "text": "₹8,000"
         },
         {
           "letter": "B",
-          "text": "` 9,000"
+          "text": "₹9,000"
         },
         {
           "letter": "C",
-          "text": "` 10,000"
+          "text": "₹10,000"
         },
         {
           "letter": "D",
-          "text": "` 11,000"
+          "text": "₹11,000"
         }
       ],
       "correctAnswer": "B",
@@ -3496,26 +3496,26 @@
       }
     },
     {
-      "questionText": "The value of scooter is ` 1,00,000 find its depreciation is 10% p.a. Calculte total depreciation value at the end of seven years.",
+      "questionText": "The value of scooter is ₹1,00,000 find its depreciation is 10% p.a. Calculte total depreciation value at the end of seven years.",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 47829.70"
+          "text": "₹47829.70"
         },
         {
           "letter": "B",
-          "text": "` 47000.90"
+          "text": "₹47000.90"
         },
         {
           "letter": "C",
-          "text": "` 42709"
+          "text": "₹42709"
         },
         {
           "letter": "D",
-          "text": "` 42,000"
+          "text": "₹42,000"
         }
       ],
       "correctAnswer": "C",
@@ -4053,7 +4053,7 @@
       }
     },
     {
-      "questionText": "In a certain code language, '253' means 'books are old'; '546' means 'man is old' and `378' means 'buy good books'. What stands for 'are' in that code?",
+      "questionText": "In a certain code language, '253' means 'books are old'; '546' means 'man is old' and ₹378' means 'buy good books'. What stands for 'are' in that code?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH9",
       "difficulty": "MEDIUM",
@@ -4482,14 +4482,14 @@
       }
     },
     {
-      "questionText": "If X+Y maens X is the mother of Y; X-Y means X is the brother of Y; X%Y means X is the father of Y and X�Y means X is the sister of Y, Which of the following shows that A is the materanal uncle of B?",
+      "questionText": "If X+Y maens X is the mother of Y; X-Y means X is the brother of Y; X%Y means X is the father of Y and X-Y means X is the sister of Y, Which of the following shows that A is the materanal uncle of B?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH12",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "B+D�C-A"
+          "text": "B+D-C-A"
         },
         {
           "letter": "B",
@@ -4497,11 +4497,11 @@
         },
         {
           "letter": "C",
-          "text": "A-C+D�B"
+          "text": "A-C+D-B"
         },
         {
           "letter": "D",
-          "text": "A+C�D-B Directions(Questions 58-60) Read the following information and answer the questions given below. Anita is the niece of Prateek's mother. Anita's mother is Prateek's aunt. Rohan is Anita's mother's brother. Rohan's mother is Anita's grandmother. From this information. deduce the relationship between."
+          "text": "A+C-D-B Directions(Questions 58-60) Read the following information and answer the questions given below. Anita is the niece of Prateek's mother. Anita's mother is Prateek's aunt. Rohan is Anita's mother's brother. Rohan's mother is Anita's grandmother. From this information. deduce the relationship between."
         }
       ],
       "correctAnswer": "C",
@@ -5124,7 +5124,7 @@
         },
         {
           "letter": "D",
-          "text": "�"
+          "text": "-"
         }
       ],
       "correctAnswer": "C",
@@ -5607,19 +5607,19 @@
       "options": [
         {
           "letter": "A",
-          "text": "P01 � P12 � P20 = 1"
+          "text": "P01 - P12 - P20 = 1"
         },
         {
           "letter": "B",
-          "text": "P12 � P01 � P20 = 1"
+          "text": "P12 - P01 - P20 = 1"
         },
         {
           "letter": "C",
-          "text": "P20 � P12 � P01 = 1"
+          "text": "P20 - P12 - P01 = 1"
         },
         {
           "letter": "D",
-          "text": "P02 � P21 � P12 = 1"
+          "text": "P02 - P21 - P12 = 1"
         }
       ],
       "correctAnswer": "C",
@@ -5666,7 +5666,7 @@
       }
     },
     {
-      "questionText": "Laspyres �ndex number is aweighted aggregate method by taking _________ as weights.",
+      "questionText": "Laspyres -ndex number is aweighted aggregate method by taking _________ as weights.",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH14",
       "difficulty": "MEDIUM",
@@ -5842,11 +5842,11 @@
         },
         {
           "letter": "B",
-          "text": "6 � a + b"
+          "text": "6 - a + b"
         },
         {
           "letter": "C",
-          "text": "4 + a � b"
+          "text": "4 + a - b"
         },
         {
           "letter": "D",
@@ -6194,7 +6194,7 @@
       }
     },
     {
-      "questionText": "The sum of the first eight terms of a G.P. is five times the sum of the first four terms; then the common ratio is �",
+      "questionText": "The sum of the first eight terms of a G.P. is five times the sum of the first four terms; then the common ratio is -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH6",
       "difficulty": "MEDIUM",
@@ -6205,11 +6205,11 @@
         },
         {
           "letter": "B",
-          "text": "� 2"
+          "text": "- 2"
         },
         {
           "letter": "C",
-          "text": "� 2"
+          "text": "- 2"
         },
         {
           "letter": "D",
@@ -6227,7 +6227,7 @@
       }
     },
     {
-      "questionText": "The Arithmetic Mean between two numbers is 15 and their G.M. is 9; then the numbers are �",
+      "questionText": "The Arithmetic Mean between two numbers is 15 and their G.M. is 9; then the numbers are -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH14",
       "difficulty": "MEDIUM",
@@ -6586,22 +6586,22 @@
       }
     },
     {
-      "questionText": "The consumer price index in 1990 increases by 80- per cent as compared to the base 1980. A person in 1980 getting ` 60,000 per annum should now get",
+      "questionText": "The consumer price index in 1990 increases by 80- per cent as compared to the base 1980. A person in 1980 getting ₹60,000 per annum should now get",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH12",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 1,08,000 per annum"
+          "text": "₹1,08,000 per annum"
         },
         {
           "letter": "B",
-          "text": "` 82,000 per annum"
+          "text": "₹82,000 per annum"
         },
         {
           "letter": "C",
-          "text": "` 64,000 per annum"
+          "text": "₹64,000 per annum"
         },
         {
           "letter": "D",
@@ -6652,7 +6652,7 @@
       }
     },
     {
-      "questionText": "If in a certain code `493' means `Friendship difficult challenge', `961', means, `Struggle difficult Exam., and `178' means `Exam believable subject', then which digit is used for `believable'?",
+      "questionText": "If in a certain code ₹493' means `Friendship difficult challenge', ₹961', means, `Struggle difficult Exam., and ₹178' means `Exam believable subject', then which digit is used for `believable'?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH9",
       "difficulty": "MEDIUM",
@@ -7275,7 +7275,7 @@
       }
     },
     {
-      "questionText": "If the relationship between x and y is given by 4x� 6y =13 and if the median of x is 16. Find median of y.",
+      "questionText": "If the relationship between x and y is given by 4x- 6y =13 and if the median of x is 16. Find median of y.",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH14",
       "difficulty": "MEDIUM",
@@ -7360,7 +7360,7 @@
         },
         {
           "letter": "D",
-          "text": "6.25 68. ________ is the entire upper part of the table which includes columns and sub�column numbers, unit(s) measurement."
+          "text": "6.25 68. ________ is the entire upper part of the table which includes columns and sub-column numbers, unit(s) measurement."
         }
       ],
       "correctAnswer": "D",
@@ -7407,22 +7407,22 @@
       }
     },
     {
-      "questionText": "Arslan invested ` 10,000 at 8% per annum compound quarterly, then the value of the investment after 2 years is [given (1.02)8 = 1.171659]",
+      "questionText": "Arslan invested ₹10,000 at 8% per annum compound quarterly, then the value of the investment after 2 years is [given (1.02)8 = 1.171659]",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH14",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 11,716.59"
+          "text": "₹11,716.59"
         },
         {
           "letter": "B",
-          "text": "` 10,716.59"
+          "text": "₹10,716.59"
         },
         {
           "letter": "C",
-          "text": "` 117.1659"
+          "text": "₹117.1659"
         },
         {
           "letter": "D",
@@ -7440,26 +7440,26 @@
       }
     },
     {
-      "questionText": "The future value of an annuity of ` 1,000 made annually for 5 years at the interest of 14% compounded annually is:",
+      "questionText": "The future value of an annuity of ₹1,000 made annually for 5 years at the interest of 14% compounded annually is:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 5,610"
+          "text": "₹5,610"
         },
         {
           "letter": "B",
-          "text": "` 6,610"
+          "text": "₹6,610"
         },
         {
           "letter": "C",
-          "text": "` 6,160"
+          "text": "₹6,160"
         },
         {
           "letter": "D",
-          "text": "` 5,160"
+          "text": "₹5,160"
         }
       ],
       "correctAnswer": "A",
@@ -7473,7 +7473,7 @@
       }
     },
     {
-      "questionText": "A man invests an amount of ` 15,860 in the names of his three sons A, B and C in such a way that they get the same interest after 2,3 and 4 years respectively. If the rate of interest is 5%, then the ratio of amount invested in the name of A, B and C is.",
+      "questionText": "A man invests an amount of ₹15,860 in the names of his three sons A, B and C in such a way that they get the same interest after 2,3 and 4 years respectively. If the rate of interest is 5%, then the ratio of amount invested in the name of A, B and C is.",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH12",
       "difficulty": "MEDIUM",
@@ -7506,7 +7506,7 @@
       }
     },
     {
-      "questionText": "What annual payment will discharge a debt of ` 770 due in years, the rate of interest being 5% per annum?",
+      "questionText": "What annual payment will discharge a debt of ₹770 due in years, the rate of interest being 5% per annum?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
@@ -7572,7 +7572,7 @@
       }
     },
     {
-      "questionText": "Present value of a scooter is ` 7,290 if its value decreases every year by 10% then its value before 3 years is equal to:",
+      "questionText": "Present value of a scooter is ₹7,290 if its value decreases every year by 10% then its value before 3 years is equal to:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
@@ -7605,26 +7605,26 @@
       }
     },
     {
-      "questionText": "How much amount is required to be invested every year so as to accumulate ` 3,00,000 at the end of 10 years, if interest is compounded annually at 10%?",
+      "questionText": "How much amount is required to be invested every year so as to accumulate ₹3,00,000 at the end of 10 years, if interest is compounded annually at 10%?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH14",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 18,823.65"
+          "text": "₹18,823.65"
         },
         {
           "letter": "B",
-          "text": "` 18,000"
+          "text": "₹18,000"
         },
         {
           "letter": "C",
-          "text": "` 18,728.65"
+          "text": "₹18,728.65"
         },
         {
           "letter": "D",
-          "text": "` 18,882.65"
+          "text": "₹18,882.65"
         }
       ],
       "correctAnswer": "A",
@@ -7638,7 +7638,7 @@
       }
     },
     {
-      "questionText": "A company may obtain a machine either by leasing it for 5 years (useful life) at an annual rent of Rs. 2,000 or by purchasing the machine for Rs. 8,100. If the company can borrow money at 18% per annum, which alternative is preferable?",
+      "questionText": "A company may obtain a machine either by leasing it for 5 years (useful life) at an annual rent of ₹2,000 or by purchasing the machine for ₹8,100. If the company can borrow money at 18% per annum, which alternative is preferable?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH14",
       "difficulty": "MEDIUM",
@@ -7737,7 +7737,7 @@
       }
     },
     {
-      "questionText": "If two variables x and y are related by 2x and 3y � 7 = 0 and the mean and mean deviation about mean of x are 1 and 0.3 respectively, then the co- efficient of mean deviation of y about mean is:",
+      "questionText": "If two variables x and y are related by 2x and 3y - 7 = 0 and the mean and mean deviation about mean of x are 1 and 0.3 respectively, then the co- efficient of mean deviation of y about mean is:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH14",
       "difficulty": "MEDIUM",
@@ -7847,7 +7847,7 @@
         },
         {
           "letter": "B",
-          "text": "v(x) + v(y) � 2 v (x,y)"
+          "text": "v(x) + v(y) - 2 v (x,y)"
         },
         {
           "letter": "C",
@@ -7855,7 +7855,7 @@
         },
         {
           "letter": "D",
-          "text": "v (x) � v (y)"
+          "text": "v (x) - v (y)"
         }
       ],
       "correctAnswer": "A",
@@ -7921,7 +7921,7 @@
         },
         {
           "letter": "D",
-          "text": "�"
+          "text": "-"
         }
       ],
       "correctAnswer": "B",
@@ -8866,11 +8866,11 @@
         },
         {
           "letter": "B",
-          "text": "�"
+          "text": "-"
         },
         {
           "letter": "C",
-          "text": "�"
+          "text": "-"
         },
         {
           "letter": "D",
@@ -8936,7 +8936,7 @@
         },
         {
           "letter": "C",
-          "text": "� 2"
+          "text": "- 2"
         },
         {
           "letter": "D",
@@ -8965,7 +8965,7 @@
         },
         {
           "letter": "B",
-          "text": "y = 2x�1"
+          "text": "y = 2x-1"
         },
         {
           "letter": "C",
@@ -8987,7 +8987,7 @@
       }
     },
     {
-      "questionText": "The difference between compound and simple interest at 5% per annum for 4 years on ` 20,000 is -",
+      "questionText": "The difference between compound and simple interest at 5% per annum for 4 years on ₹20,000 is -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
@@ -9053,7 +9053,7 @@
       }
     },
     {
-      "questionText": "A machine worth ` 4,90,740 is depreciated at 15% of its opening value each year. When would its value reduce by 90%?",
+      "questionText": "A machine worth ₹4,90,740 is depreciated at 15% of its opening value each year. When would its value reduce by 90%?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
@@ -9086,7 +9086,7 @@
       }
     },
     {
-      "questionText": "Assuming, that discount rate is 7% per annum, how much would you pay to receive ` 50, growing at 5%, annually, forever.",
+      "questionText": "Assuming, that discount rate is 7% per annum, how much would you pay to receive ₹50, growing at 5%, annually, forever.",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
@@ -9177,7 +9177,7 @@
       }
     },
     {
-      "questionText": "A machine worth of ` 4,90,740 is depreciated at 15% on its opening value each year. When its value reduces to ` 2,00,000",
+      "questionText": "A machine worth of ₹4,90,740 is depreciated at 15% on its opening value each year. When its value reduces to ₹2,00,000",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
@@ -9210,7 +9210,7 @@
       }
     },
     {
-      "questionText": "A sinking fund is created redeeming debentures worth ` 5,00,000 at the end of 25 years. How much provision need to be made out of profits each year provided sinking fund investments can earn at 4 % per annum",
+      "questionText": "A sinking fund is created redeeming debentures worth ₹5,00,000 at the end of 25 years. How much provision need to be made out of profits each year provided sinking fund investments can earn at 4 % per annum",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
@@ -9250,7 +9250,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "Real Rate of Return � Inflation"
+          "text": "Real Rate of Return - Inflation"
         },
         {
           "letter": "B",
@@ -9262,7 +9262,7 @@
         },
         {
           "letter": "D",
-          "text": "Real Rate of Return � Inflation"
+          "text": "Real Rate of Return - Inflation"
         }
       ],
       "correctAnswer": "A",
@@ -10027,7 +10027,7 @@
       }
     },
     {
-      "questionText": "The ______ is satisfied when Pab � Pbc � Pca = 1",
+      "questionText": "The ______ is satisfied when Pab - Pbc - Pca = 1",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH14",
       "difficulty": "MEDIUM",
@@ -10178,7 +10178,7 @@
         },
         {
           "letter": "D",
-          "text": "�"
+          "text": "-"
         }
       ],
       "correctAnswer": "C",
@@ -10203,7 +10203,7 @@
         },
         {
           "letter": "B",
-          "text": "� 4/7 and �11/7"
+          "text": "- 4/7 and -11/7"
         },
         {
           "letter": "C",
@@ -10382,7 +10382,7 @@
       }
     },
     {
-      "questionText": "If the range of x is 2, what would be the range of � 3x + 50?",
+      "questionText": "If the range of x is 2, what would be the range of - 3x + 50?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH7",
       "difficulty": "MEDIUM",
@@ -11247,15 +11247,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "1, �"
+          "text": "1, -"
         },
         {
           "letter": "B",
-          "text": "�, 1"
+          "text": "-, 1"
         },
         {
           "letter": "C",
-          "text": "�, �"
+          "text": "-, -"
         },
         {
           "letter": "D",
@@ -11339,7 +11339,7 @@
       }
     },
     {
-      "questionText": "The roots of the equation x2 � 7x + 10 = 0 are:",
+      "questionText": "The roots of the equation x2 - 7x + 10 = 0 are:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH2",
       "difficulty": "MEDIUM",
@@ -11379,7 +11379,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "2x � y + 1"
+          "text": "2x - y + 1"
         },
         {
           "letter": "B",
@@ -11387,7 +11387,7 @@
         },
         {
           "letter": "C",
-          "text": "2x � y �"
+          "text": "2x - y -"
         }
       ],
       "correctAnswer": "B",
@@ -11566,22 +11566,22 @@
       }
     },
     {
-      "questionText": "The sum required to earn a monthly interest of ` 1200 at 18% p.a. Simple Interest is �",
+      "questionText": "The sum required to earn a monthly interest of ₹1200 at 18% p.a. Simple Interest is -",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 50,000"
+          "text": "₹50,000"
         },
         {
           "letter": "B",
-          "text": "` 60,000"
+          "text": "₹60,000"
         },
         {
           "letter": "C",
-          "text": "` 80,000"
+          "text": "₹80,000"
         },
         {
           "letter": "D",
@@ -11599,26 +11599,26 @@
       }
     },
     {
-      "questionText": "Sachin deposited ` 1,00,000 in his bank for 2 years at simple interest of 6%. How much interest would be he earns? How much final value of deposit",
+      "questionText": "Sachin deposited ₹1,00,000 in his bank for 2 years at simple interest of 6%. How much interest would be he earns? How much final value of deposit",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 6,000, ` 1,06,000"
+          "text": "₹6,000, ₹1,06,000"
         },
         {
           "letter": "B",
-          "text": "` 15,000, ` 1,15,000"
+          "text": "₹15,000, ₹1,15,000"
         },
         {
           "letter": "C",
-          "text": "` 11,600, ` 1,11,600"
+          "text": "₹11,600, ₹1,11,600"
         },
         {
           "letter": "D",
-          "text": "` 12,000, ` 1,12,000"
+          "text": "₹12,000, ₹1,12,000"
         }
       ],
       "correctAnswer": "C",
@@ -11665,14 +11665,14 @@
       }
     },
     {
-      "questionText": "The Compounded interest `8000 for 6 months at 12% p.a payable quarterly is:",
+      "questionText": "The Compounded interest ₹8000 for 6 months at 12% p.a payable quarterly is:",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH1",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 487.20"
+          "text": "₹487.20"
         },
         {
           "letter": "B",
@@ -11822,7 +11822,7 @@
       }
     },
     {
-      "questionText": "A stock pays annually an amount of ` 10 from 6th year onwards. What is the present value of perpetuity, if the rate of return is 20%",
+      "questionText": "A stock pays annually an amount of ₹10 from 6th year onwards. What is the present value of perpetuity, if the rate of return is 20%",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH4",
       "difficulty": "MEDIUM",
@@ -11994,19 +11994,19 @@
       "options": [
         {
           "letter": "A",
-          "text": "26 � 25 � 24 � 23 � 22 � 5 � 21"
+          "text": "26 - 25 - 24 - 23 - 22 - 5 - 21"
         },
         {
           "letter": "B",
-          "text": "26 � 25 � 24 �23 � 22 � 2 � 21"
+          "text": "26 - 25 - 24 -23 - 22 - 2 - 21"
         },
         {
           "letter": "C",
-          "text": "26 � 5 � 25 � 24 � 23 � 2 � 22 � 21"
+          "text": "26 - 5 - 25 - 24 - 23 - 2 - 22 - 21"
         },
         {
           "letter": "D",
-          "text": "6 � 26 � 25 � 24 � 23 � 22 � 21"
+          "text": "6 - 26 - 25 - 24 - 23 - 22 - 21"
         }
       ],
       "correctAnswer": "C",
@@ -12610,7 +12610,7 @@
       }
     },
     {
-      "questionText": "Maya starts at point T, walks straight to point U which is 4 ft. away. She turns left, at 90 and walks to W which is 4 ft. away. turns 90 right and goes 3 ft. to P. turns 90� right and walks 1 ft. to Q, turns left at 90 and goes to V, which is 1 ft. away and once again turns 90� right and goes to R. 3 ft. away. What is the distance between T and R?",
+      "questionText": "Maya starts at point T, walks straight to point U which is 4 ft. away. She turns left, at 90 and walks to W which is 4 ft. away. turns 90 right and goes 3 ft. to P. turns 90- right and walks 1 ft. to Q, turns left at 90 and goes to V, which is 1 ft. away and once again turns 90- right and goes to R. 3 ft. away. What is the distance between T and R?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH10",
       "difficulty": "MEDIUM",
@@ -12808,7 +12808,7 @@
       }
     },
     {
-      "questionText": "If A+B means B is the brother of A; A�B means B is the husband of A; A-B means A is the mother of B and A% B means A is the father of B, which of the following relations shows that Q is the grandmother of T?",
+      "questionText": "If A+B means B is the brother of A; A-B means B is the husband of A; A-B means A is the mother of B and A% B means A is the father of B, which of the following relations shows that Q is the grandmother of T?",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH12",
       "difficulty": "MEDIUM",
@@ -12819,11 +12819,11 @@
         },
         {
           "letter": "B",
-          "text": "P�Q % R-T"
+          "text": "P-Q % R-T"
         },
         {
           "letter": "C",
-          "text": "P�Q % R+T"
+          "text": "P-Q % R+T"
         },
         {
           "letter": "D",
@@ -13138,22 +13138,22 @@
       }
     },
     {
-      "questionText": "The mean salary of a group of 50 persons is ` 5850. Later on it is discovered that the salary of one has been wrongly taken as `8000 instead of RS. 7800. The corrected mean salary is",
+      "questionText": "The mean salary of a group of 50 persons is ₹5850. Later on it is discovered that the salary of one has been wrongly taken as ₹8000 instead of RS. 7800. The corrected mean salary is",
       "type": "SINGLE_CHOICE",
       "curriculumNodeCode": "FND_P3_CH12",
       "difficulty": "MEDIUM",
       "options": [
         {
           "letter": "A",
-          "text": "` 5854"
+          "text": "₹5854"
         },
         {
           "letter": "B",
-          "text": "` 5846"
+          "text": "₹5846"
         },
         {
           "letter": "C",
-          "text": "` 5640"
+          "text": "₹5640"
         },
         {
           "letter": "D",

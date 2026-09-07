@@ -14,7 +14,7 @@
       "canonicalNodeCode": "FND_P3_CH5",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "Justification for 0! = 1. Now applying r = n in the formula for nPr, we get nPn = n!/ (n � n)! = n!/0! But from Result 1 we find that nPn = n!. Therefore, by applying this we derive, 0! = n! / n! = 1 Example 1: Evaluate each of 5P3, 10P2, 11P5. Solution: 5P3 = 5�4� (5�3+1) = 5 � 4 � 3 = 60, 10P2 = 10 � .... � (10�2+1) = 10 � 9 = 90, 11P5 = 11! / (11 � 5)! = 11 � 10 � 9 � 8 � 7 � 6! / 6! = 11 � 10 � 9 � 8 � 7 = 55440. Example 2: How many three letters words can be formed using the letters of the words",
+      "questionText": "Justification for 0! = 1. Now applying r = n in the formula for nPr, we get nPn = n!/ (n - n)! = n!/0! But from Result 1 we find that nPn = n!. Therefore, by applying this we derive, 0! = n! / n! = 1 Example 1: Evaluate each of 5P3, 10P2, 11P5. Solution: 5P3 = 5-4- (5-3+1) = 5 - 4 - 3 = 60, 10P2 = 10 - .... - (10-2+1) = 10 - 9 = 90, 11P5 = 11! / (11 - 5)! = 11 - 10 - 9 - 8 - 7 - 6! / 6! = 11 - 10 - 9 - 8 - 7 = 55440. Example 2: How many three letters words can be formed using the letters of the words",
       "options": [
         {
           "letter": "A",
@@ -22,15 +22,15 @@
         },
         {
           "letter": "B",
-          "text": "Since the word `SQUARE' consists of 6 different letters, the number of permutations of choosing 3 letters out of six equals 6P3 = 6 � 5 � 4 = 120."
+          "text": "Since the word `SQUARE' consists of 6 different letters, the number of permutations of choosing 3 letters out of six equals 6P3 = 6 - 5 - 4 = 120."
         },
         {
           "letter": "C",
-          "text": "Since the word `HEXAGON' contains 7 different letters, the number of permutations is 7P3 = 7 � 6 � 5 = 210. Example 3: In how many different ways can five persons stand in a line for a group photograph? Solution: Here we know that the order is important. Hence, this is the number of permutations of five things taken all at a time. Therefore, this equals 5P5 = 5! = 5 � 4 � 3 � 2 � 1 = 120 ways. Example 4: First, second and third prizes are to be awarded at an engineering fair in which 13 exhibits have been entered. In how many different ways can the prizes be awarded? Solution: Here again, order of selection is important and repetitions are not meaningful as no exhibit can receive more than one prize. Hence , the answer is the number of permutations of 13 things taken three at a time. Therefore, we find 13P3 = 13!/10! = 13�12�11 = 1,716 ways. Example 5: In how many different ways can 3 students be associated with 4 chartered accountants, assuming that each chartered accountant can take at most one student? Solution: This equals the number of permutations of choosing 3 persons out of 4. Hence , the answer is 4P3 = 4�3�2 = 24. Example 6: If six times the number permutations of n things taken 3 at a time is equal to seven times the number of permutations of (n � 1) things taken 3 at a time, find n. Solution: We are given that 6 � nP3 = 7 � P n-1 and we have to solve this equality to find the value 3 of n. Therefore, 6 n 7 n1 n-3 n-4 or, 6 n (n � 1) (n � 2) = 7 (n � 1) (n � 2) (n � 3) or, 6 n = 7 (n � 3) or, 6 n = 7n � 21 or, n = 21 Therefore, the value of n equals 21. Example 7: Compute the sum of 4 digit numbers which can be formed with the four digits 1, 3, 5, 7, if each digit is used only once in each arrangement. Solution: The number of arrangements of 4 different digits taken 4 at a time is given by 4P4 = 4! = 24. All the four digits will occur equal number of times at each of the positions, namely ones, tens, hundreds, thousands. Thus, each digit will occur 24 / 4 = 6 times in each of the positions. The sum of digits in one's position will be 6 � (1 + 3 + 5 + 7) = 96. Similar is the case in ten's, hundred's and thousand's places. Therefore, the sum will be 96 + 96 � 10 + 96 � 100 + 96 � 1000 = 1,06,656. Example 8: Find n if nP3 = 60. Solution: n P3 = n! =60 (given) (n 3)! i.e., n (n�1) (n�2) = 60 = 5 � 4 � 3 Therefore, n = 5. Example 9: If 56P r+6 : 54P r+3 = 30,800 : 1, find r. n! Solution: We know npr = (n r)! ; 56! 56 ! 56P r+6 = {56 (r + 6)}! = (50 r)! 54! 54 ! Similarly, P 54 = = r+3 {54 (r + 3)}! (51 r)! Thus, 56 p r+6 = 56! x (51 r)! 54 p r+3 (50 r!) 54! 56 55 54! (51 r) (50 r)! 56 55 (51 r) (50 r)! 54! 1 But we are given the ratio as 30800 : 1 ; therefore 56 55 (51 r) 30, 800 1 1 or, (51 r) = 30, 800 =10, r = 41 56 55 Example 10: Prove the following (n + 1)! � n! = n.n! Solution: By applying the simple properties of factorial, we have (n +1)! � n! = (n+1) n! � n! = n!. (n+1�1) = n. n! Example 11: In how many different ways can a club with 10 members select a President, Secretary and Treasurer, if no member can hold two offices and each member is eligible for any office? Solution: The answer is the number of permutations of 10 persons chosen three at a time. Therefore, it is 10p3 = 10�9�8=720. Example 12: When Jhon arrives in New York, he has eight shops to see, but he has time only to visit six of them. In how many different ways can he arrange his schedule in New York? Solution: He can arrange his schedule in 8P6 = 8� 7 � 6 � 5 � 4 � 3 = 20,160 ways. Example 13: When Dr. Ram arrives in his dispensary, he finds 12 patients waiting to see him. If he can see only one patient at a time, find the number of ways, he can schedule his patients (a) if they all want their turn, and (b) if 3 leave in disgust before Dr. Ram gets around to seeing them. Solution: (a) There are 12 patients and all 12 wait to see the doctor. Therefore the number of ways = P 12 = 12! = 479,001,600 12"
+          "text": "Since the word `HEXAGON' contains 7 different letters, the number of permutations is 7P3 = 7 - 6 - 5 = 210. Example 3: In how many different ways can five persons stand in a line for a group photograph? Solution: Here we know that the order is important. Hence, this is the number of permutations of five things taken all at a time. Therefore, this equals 5P5 = 5! = 5 - 4 - 3 - 2 - 1 = 120 ways. Example 4: First, second and third prizes are to be awarded at an engineering fair in which 13 exhibits have been entered. In how many different ways can the prizes be awarded? Solution: Here again, order of selection is important and repetitions are not meaningful as no exhibit can receive more than one prize. Hence , the answer is the number of permutations of 13 things taken three at a time. Therefore, we find 13P3 = 13!/10! = 13-12-11 = 1,716 ways. Example 5: In how many different ways can 3 students be associated with 4 chartered accountants, assuming that each chartered accountant can take at most one student? Solution: This equals the number of permutations of choosing 3 persons out of 4. Hence , the answer is 4P3 = 4-3-2 = 24. Example 6: If six times the number permutations of n things taken 3 at a time is equal to seven times the number of permutations of (n - 1) things taken 3 at a time, find n. Solution: We are given that 6 - nP3 = 7 - P n-1 and we have to solve this equality to find the value 3 of n. Therefore, 6 n 7 n1 n-3 n-4 or, 6 n (n - 1) (n - 2) = 7 (n - 1) (n - 2) (n - 3) or, 6 n = 7 (n - 3) or, 6 n = 7n - 21 or, n = 21 Therefore, the value of n equals 21. Example 7: Compute the sum of 4 digit numbers which can be formed with the four digits 1, 3, 5, 7, if each digit is used only once in each arrangement. Solution: The number of arrangements of 4 different digits taken 4 at a time is given by 4P4 = 4! = 24. All the four digits will occur equal number of times at each of the positions, namely ones, tens, hundreds, thousands. Thus, each digit will occur 24 / 4 = 6 times in each of the positions. The sum of digits in one's position will be 6 - (1 + 3 + 5 + 7) = 96. Similar is the case in ten's, hundred's and thousand's places. Therefore, the sum will be 96 + 96 - 10 + 96 - 100 + 96 - 1000 = 1,06,656. Example 8: Find n if nP3 = 60. Solution: n P3 = n! =60 (given) (n 3)! i.e., n (n-1) (n-2) = 60 = 5 - 4 - 3 Therefore, n = 5. Example 9: If 56P r+6 : 54P r+3 = 30,800 : 1, find r. n! Solution: We know npr = (n r)! ; 56! 56 ! 56P r+6 = {56 (r + 6)}! = (50 r)! 54! 54 ! Similarly, P 54 = = r+3 {54 (r + 3)}! (51 r)! Thus, 56 p r+6 = 56! x (51 r)! 54 p r+3 (50 r!) 54! 56 55 54! (51 r) (50 r)! 56 55 (51 r) (50 r)! 54! 1 But we are given the ratio as 30800 : 1 ; therefore 56 55 (51 r) 30, 800 1 1 or, (51 r) = 30, 800 =10, r = 41 56 55 Example 10: Prove the following (n + 1)! - n! = n.n! Solution: By applying the simple properties of factorial, we have (n +1)! - n! = (n+1) n! - n! = n!. (n+1-1) = n. n! Example 11: In how many different ways can a club with 10 members select a President, Secretary and Treasurer, if no member can hold two offices and each member is eligible for any office? Solution: The answer is the number of permutations of 10 persons chosen three at a time. Therefore, it is 10p3 = 10-9-8=720. Example 12: When Jhon arrives in New York, he has eight shops to see, but he has time only to visit six of them. In how many different ways can he arrange his schedule in New York? Solution: He can arrange his schedule in 8P6 = 8- 7 - 6 - 5 - 4 - 3 = 20,160 ways. Example 13: When Dr. Ram arrives in his dispensary, he finds 12 patients waiting to see him. If he can see only one patient at a time, find the number of ways, he can schedule his patients (a) if they all want their turn, and (b) if 3 leave in disgust before Dr. Ram gets around to seeing them. Solution: (a) There are 12 patients and all 12 wait to see the doctor. Therefore the number of ways = P 12 = 12! = 479,001,600 12"
         },
         {
           "letter": "D",
-          "text": "There are 12�3 = 9 patients. They can be seen 12P9 = 79,833,600 ways. Choose the most appropriate option (a) (b) (c) or (d)"
+          "text": "There are 12-3 = 9 patients. They can be seen 12P9 = 79,833,600 ways. Choose the most appropriate option (a) (b) (c) or (d)"
         }
       ],
       "correctAnswer": "A",
@@ -114,7 +114,7 @@
         },
         {
           "letter": "D",
-          "text": "576 So for we have discussed arrangements of objects or things in a row which may be termed as linear permutation. But if we arrange the objects along a closed curve viz., a circle, the permutations are known as circular permutations. The number of circular permutations of n different things chosen at a time is (n�1)!. Proof : Let any one of the permutations of n different things taken. Then consider the rearrangement of this permutation by putting the last thing as the first thing. Even though this is a different permutation in the ordinary sense, it will not be different in all n things are arranged in a circle. Similarly, we can consider shifting the last two things to the front and so on. Specially, it can be better understood, if we consider a,b,c,d. If we place a,b,c,d in order, then we also get abcd, dabc, cdab, bcda as four ordinary permutations. These four words in circular case are one and same thing. See below circles. c b a d d b c a a d a c a d c b abcd dabc cdab bcda Thus we find in above illustration that four ordinary permutations equals one in circular. Therefore, n ordinary permutations equal one circular permutation. Hence there are nPn/ n ways in which all the n things can be arranged in a circle. This equals (n� 1)!. Example 1: In how many ways can 4 persons sit at a round table for a group discussions? Solution: The answer can be get from the formula for circular permutations. The answer is (4�1)! = 3! = 6 ways. NOTE : These arrangements are such that every person has got the same two neighbours. The only change is that right side neighbour and vice-versa. Thus the number of ways of arranging n persons along a round table so that no person has the same two neighbours is = 1 n 1 2 Similarly, in forming a necklace or a garland there is no distinction between a clockwise and anti clockwise direction because we can simply turn it over so that clockwise becomes anti clockwise and vice versa. Hence, the number of necklaces formed with n beads of different colours= 1 n -1 2 In many arrangements there may be number of restrictions. in such cases, we are to arrange or select the objects or persons as per the restrictions imposed. The total number of arrangements in all cases, can be found out by the application of fundamental principle. Theorem 1. Number of permutations of n distinct objects taken r at a time when a particular object is not taken in any arrangement is n�1pr. Proof : Since a particular object is always to be excluded, we have to place n � 1 objects at r places. Clearly this can be done in p n�1 ways. r Theorem 2. Number of permutations of r objects out of n distinct objects when a particular object is always included in any arrangement is r. n1 pr1 Proof : If the particular object is placed at first place, remaining r � 1 places can be filled from n � 1 distinct objects in p n�1 ways. Similarly, by placing the particular object in 2nd, 3rd, ....., rth r�1 place, we find that in each case the number of permutations is n�1pr�1.This the total number of p n�1 arrangements in which a particular object always occurs is r. r�1 The following examples will enlighten further: Example 1: How many arrangements can be made out of the letters of the word `DRAUGHT', the vowels never beings separated? Solution: The word `DRAUGHT' consists of 7 letters of which 5 are consonants and two are vowels. In the arrangement we are to take all the 7 letters but the restriction is that the two vowels should not be separated. We can view the two vowels as one letter. The two vowels A and U in this one letter can be arranged in 2! = 2 ways. (i) AU or (ii) UA. Further, we can arrange the six letters : 5 consonants and one letter (compound letter consisting of two vowels). The total number of ways of arranging them is 6P6 = 6! = 720 ways. Hence, by the fundamental principle, the total number of arrangements of the letters of the word DRAUGHT, the vowels never being separated = 2 � 720 = 1440 ways. Example 2: Show that the number of ways in which n books can be arranged on a shelf so that two particular books are not together.The number is (n�2).(n�1)! Solution: We first find the total number of arrangements in which all n books can be arranged on the shelf without any restriction. The number is,nPn = n! ..... (1) Then we find the total number of arrangements in which the two particular books are together. The books can be together in 2P2 = 2! = 2 ways. Now we consider those two books which are kept together as one composite book and with the rest of the (n�2) books from (n�1) books which are to be arranged on the shelf; the number of arrangements = P n�1 = (n�1) !. Hence by the n�1 Fundamental Principle, the total number of arrangements on which the two particular books are together equals = 2 � (n�1)! .......(2) the required number of arrangements of n books on a shelf so that two particular books are not together = (1) � (2) = n! � 2 x (n�1)! = n.(n � 1)! � 2 . (n�1)! = (n�1)! . (n�2) Example 3: There are 6 books on Economics, 3 on Mathematics and 2 on Accountancy. In how many ways can these be placed on a shelf if the books on the same subject are to be together? Solution: Consider one such arrangement. 6 Economics books can be arranged among themselves in 6! Ways, 3 Mathematics books can be arranged in 3! Ways and the 2 books on Accountancy can be arranged in 2! ways. Consider the books on each subject as one unit. Now there are three units. These 3 units can be arranged in 3! Ways. Total number of arrangements = 3! � 6! � 3! � 2! = 51,840. Example 4: How many different numbers can be formed by using any three out of five digits 1, 2, 3, 4, 5, no digit being repeated in any number? How many of these will (i) begin with a specified digit? (ii) begin with a specified digit and end with another specified digit? Solution: Here we have 5 different digits and we have to find out the number of permutations of them 3 at a time. Required number is 5P3 = 5.4.3 = 60. (i) If the numbers begin with a specified digit, then we have to find the number of Permutations of the remaining 4 digits taken 2 at a time. Thus, desired number is 4P2 = 4.3 = 12. (ii) Here two digits are fixed; first and last; hence, we are left with the choice of finding the number of permutations of 3 things taken one at a time i.e., 3P1 =3. Example 5: How many four digit numbers can be formed out of the digits 1,2,3,5,7,8,9, if no digit is repeated in any number? How many of these will be greater than 3000? Solution: We are given 7 different digits and a four-digit number is to be formed using any 4 of these digits. This is same as the permutations of 7 different things taken 4 at a time. Hence, the number of four-digit numbers that can be formed = 7P4 = 7 � 6 � 5 � 4 � = 840 ways. Next, there is the restriction that the four-digit numbers so formed must be greater than 3,000. Thus, it will be so if the first digit-that in the thousand's position, is one of the five digits 3, 5, 7, 8,"
+          "text": "576 So for we have discussed arrangements of objects or things in a row which may be termed as linear permutation. But if we arrange the objects along a closed curve viz., a circle, the permutations are known as circular permutations. The number of circular permutations of n different things chosen at a time is (n-1)!. Proof : Let any one of the permutations of n different things taken. Then consider the rearrangement of this permutation by putting the last thing as the first thing. Even though this is a different permutation in the ordinary sense, it will not be different in all n things are arranged in a circle. Similarly, we can consider shifting the last two things to the front and so on. Specially, it can be better understood, if we consider a,b,c,d. If we place a,b,c,d in order, then we also get abcd, dabc, cdab, bcda as four ordinary permutations. These four words in circular case are one and same thing. See below circles. c b a d d b c a a d a c a d c b abcd dabc cdab bcda Thus we find in above illustration that four ordinary permutations equals one in circular. Therefore, n ordinary permutations equal one circular permutation. Hence there are nPn/ n ways in which all the n things can be arranged in a circle. This equals (n- 1)!. Example 1: In how many ways can 4 persons sit at a round table for a group discussions? Solution: The answer can be get from the formula for circular permutations. The answer is (4-1)! = 3! = 6 ways. NOTE : These arrangements are such that every person has got the same two neighbours. The only change is that right side neighbour and vice-versa. Thus the number of ways of arranging n persons along a round table so that no person has the same two neighbours is = 1 n 1 2 Similarly, in forming a necklace or a garland there is no distinction between a clockwise and anti clockwise direction because we can simply turn it over so that clockwise becomes anti clockwise and vice versa. Hence, the number of necklaces formed with n beads of different colours= 1 n -1 2 In many arrangements there may be number of restrictions. in such cases, we are to arrange or select the objects or persons as per the restrictions imposed. The total number of arrangements in all cases, can be found out by the application of fundamental principle. Theorem 1. Number of permutations of n distinct objects taken r at a time when a particular object is not taken in any arrangement is n-1pr. Proof : Since a particular object is always to be excluded, we have to place n - 1 objects at r places. Clearly this can be done in p n-1 ways. r Theorem 2. Number of permutations of r objects out of n distinct objects when a particular object is always included in any arrangement is r. n1 pr1 Proof : If the particular object is placed at first place, remaining r - 1 places can be filled from n - 1 distinct objects in p n-1 ways. Similarly, by placing the particular object in 2nd, 3rd, ....., rth r-1 place, we find that in each case the number of permutations is n-1pr-1.This the total number of p n-1 arrangements in which a particular object always occurs is r. r-1 The following examples will enlighten further: Example 1: How many arrangements can be made out of the letters of the word `DRAUGHT', the vowels never beings separated? Solution: The word `DRAUGHT' consists of 7 letters of which 5 are consonants and two are vowels. In the arrangement we are to take all the 7 letters but the restriction is that the two vowels should not be separated. We can view the two vowels as one letter. The two vowels A and U in this one letter can be arranged in 2! = 2 ways. (i) AU or (ii) UA. Further, we can arrange the six letters : 5 consonants and one letter (compound letter consisting of two vowels). The total number of ways of arranging them is 6P6 = 6! = 720 ways. Hence, by the fundamental principle, the total number of arrangements of the letters of the word DRAUGHT, the vowels never being separated = 2 - 720 = 1440 ways. Example 2: Show that the number of ways in which n books can be arranged on a shelf so that two particular books are not together.The number is (n-2).(n-1)! Solution: We first find the total number of arrangements in which all n books can be arranged on the shelf without any restriction. The number is,nPn = n! ..... (1) Then we find the total number of arrangements in which the two particular books are together. The books can be together in 2P2 = 2! = 2 ways. Now we consider those two books which are kept together as one composite book and with the rest of the (n-2) books from (n-1) books which are to be arranged on the shelf; the number of arrangements = P n-1 = (n-1) !. Hence by the n-1 Fundamental Principle, the total number of arrangements on which the two particular books are together equals = 2 - (n-1)! .......(2) the required number of arrangements of n books on a shelf so that two particular books are not together = (1) - (2) = n! - 2 x (n-1)! = n.(n - 1)! - 2 . (n-1)! = (n-1)! . (n-2) Example 3: There are 6 books on Economics, 3 on Mathematics and 2 on Accountancy. In how many ways can these be placed on a shelf if the books on the same subject are to be together? Solution: Consider one such arrangement. 6 Economics books can be arranged among themselves in 6! Ways, 3 Mathematics books can be arranged in 3! Ways and the 2 books on Accountancy can be arranged in 2! ways. Consider the books on each subject as one unit. Now there are three units. These 3 units can be arranged in 3! Ways. Total number of arrangements = 3! - 6! - 3! - 2! = 51,840. Example 4: How many different numbers can be formed by using any three out of five digits 1, 2, 3, 4, 5, no digit being repeated in any number? How many of these will (i) begin with a specified digit? (ii) begin with a specified digit and end with another specified digit? Solution: Here we have 5 different digits and we have to find out the number of permutations of them 3 at a time. Required number is 5P3 = 5.4.3 = 60. (i) If the numbers begin with a specified digit, then we have to find the number of Permutations of the remaining 4 digits taken 2 at a time. Thus, desired number is 4P2 = 4.3 = 12. (ii) Here two digits are fixed; first and last; hence, we are left with the choice of finding the number of permutations of 3 things taken one at a time i.e., 3P1 =3. Example 5: How many four digit numbers can be formed out of the digits 1,2,3,5,7,8,9, if no digit is repeated in any number? How many of these will be greater than 3000? Solution: We are given 7 different digits and a four-digit number is to be formed using any 4 of these digits. This is same as the permutations of 7 different things taken 4 at a time. Hence, the number of four-digit numbers that can be formed = 7P4 = 7 - 6 - 5 - 4 - = 840 ways. Next, there is the restriction that the four-digit numbers so formed must be greater than 3,000. Thus, it will be so if the first digit-that in the thousand's position, is one of the five digits 3, 5, 7, 8,"
         }
       ],
       "correctAnswer": "A",
@@ -126,7 +126,7 @@
       "canonicalNodeCode": "FND_P3_CH5",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "Hence, the first digit can be chosen in 5 different ways; when this is done, the rest of the 3 digits are to be chosen from the rest of the 6 digits without any restriction and this can be done in 6P3 ways. Hence, by the Fundamental principle, we have the number of four-digit numbers greater than 3,000 that can be formed by taking 4 digits from the given 7 digits = 5 � 6P3 = 5 � 6 � 5 � 4 = 5 � 120 = 600. Example 6: Find the total number of numbers greater than 2000 that can be formed with the digits 1, 2, 3, 4, 5 no digit being repeated in any number. Solution: All the 5 digit numbers that can be formed with the given 5 digits are greater than 2000. This can be done in 5P5 = 5! = 120 ways ......................................(1) The four digited numbers that can be formed with any four of the given 5 digits are greater than 2000 if the first digit, i.e.,the digit in the thousand's position is one of the four digits 2, 3, 4, 5. this can be done in 4P1 = 4 ways. When this is done, the rest of the 3 digits are to be chosen from the rest of 5�1 = 4 digits. This can be done in 4P3 = 4 � 3 � 2 = 24 ways. Therefore, by the Fundamental principle, the number of four-digit numbers greater than 2000 = 4 � 24 = 96 .... (2) Adding (1) and (2), we find the total number greater than 2000 to be 120 + 96 = 216. Example 7: There are 6 students of whom 2 are Indians, 2 Americans, and the remaining 2 are Russians. They have to stand in a row for a photograph so that the two Indians are together, the two Americans are together and so also the two Russians. Find the number of ways in which they can do so. Solution: The two Indians can stand together in 2P2 = 2! = 2 ways. So is the case with the two Americans and the two Russians. Now these 3 groups of 2 each can stand in a row in 3P3 = 3 x 2 = 6 ways. Hence by the generalized fundamental principle, the total number of ways in which they can stand for a photograph under given conditions is 6 � 2 � 2 � 2 = 48 Example 8: A family of 4 brothers and three sisters is to be arranged for a photograph in one row. In how many ways can they be seated if (i) all the sisters sit together, (ii) no two sisters sit together? Solution: (i) Consider the sisters as one unit and each brother as one unit. 4 brothers and 3 sisters make 5 units which can be arranged in 5! ways. Again 3 sisters may be arranged amongst themselves in 3! Ways Therefore, total number of ways in which all the sisters sit together = 5!�3! = 720 ways. (ii) In this case, each sister must sit on each side of the brothers. There are 5 such positions as indicated below by upward arrows : B1 B2 B3 B4 4 brothers may be arranged among themselves in 4! ways. For each of these arrangements 3 sisters can sit in the 5 places in 5P3 ways. Thus the total number of ways = 5P3 � 4! = 60 � 24 = 1,440 Example 9: In how many ways can 8 persons be seated at a round table? In how many cases will 2 particular persons sit together? Solution: This is in form of circular permutation. Hence the number of ways in which eight persons can be seated at a round table is ( n � 1 )! = ( 8 � 1 )! = 7! = 5040 ways. Consider the two particular persons as one person. Then the group of 8 persons becomes a group of 7 (with the restriction that the two particular persons be together) and seven persons can be arranged in a circular in 6! Ways. Hence, by the fundamental principle, we have, the total number of cases in which 2 particular persons sit together in a circular arrangement of 8 persons = 2! � 6! = 2 � 6 � 5 � 4 � 3 �2�1 = 1,440. Example 10: Six boys and five girls are to be seated for a photograph in a row such that no two girls sit together and no two boys sit together. Find the number of ways in which this can be done. Solution: Suppose that we have 11 chairs in a row and we want the 6 boys and 5 girls to be seated such that no two girls and no two boys are together. If we number the chairs from left to right, the arrangement will be possible if and only if boys occupy the odd places and girls occupy the even places in the row. The six odd places from 1 to 11 may filled in by 6 boys in 6P6 ways. Similarly, the five even places from 2 to 10 may be filled in by 5 girls in 5P5 ways. Hence, by the fundamental principle, the total number of required arrangements = 6P6 � 5P5 = 6! � 5! = 720 � 120 = 86,400. Choose the most appropriate option (a) (b) (c) or (d) 1 The number of ways in which 7 girls form a ring is",
+      "questionText": "Hence, the first digit can be chosen in 5 different ways; when this is done, the rest of the 3 digits are to be chosen from the rest of the 6 digits without any restriction and this can be done in 6P3 ways. Hence, by the Fundamental principle, we have the number of four-digit numbers greater than 3,000 that can be formed by taking 4 digits from the given 7 digits = 5 - 6P3 = 5 - 6 - 5 - 4 = 5 - 120 = 600. Example 6: Find the total number of numbers greater than 2000 that can be formed with the digits 1, 2, 3, 4, 5 no digit being repeated in any number. Solution: All the 5 digit numbers that can be formed with the given 5 digits are greater than 2000. This can be done in 5P5 = 5! = 120 ways ......................................(1) The four digited numbers that can be formed with any four of the given 5 digits are greater than 2000 if the first digit, i.e.,the digit in the thousand's position is one of the four digits 2, 3, 4, 5. this can be done in 4P1 = 4 ways. When this is done, the rest of the 3 digits are to be chosen from the rest of 5-1 = 4 digits. This can be done in 4P3 = 4 - 3 - 2 = 24 ways. Therefore, by the Fundamental principle, the number of four-digit numbers greater than 2000 = 4 - 24 = 96 .... (2) Adding (1) and (2), we find the total number greater than 2000 to be 120 + 96 = 216. Example 7: There are 6 students of whom 2 are Indians, 2 Americans, and the remaining 2 are Russians. They have to stand in a row for a photograph so that the two Indians are together, the two Americans are together and so also the two Russians. Find the number of ways in which they can do so. Solution: The two Indians can stand together in 2P2 = 2! = 2 ways. So is the case with the two Americans and the two Russians. Now these 3 groups of 2 each can stand in a row in 3P3 = 3 x 2 = 6 ways. Hence by the generalized fundamental principle, the total number of ways in which they can stand for a photograph under given conditions is 6 - 2 - 2 - 2 = 48 Example 8: A family of 4 brothers and three sisters is to be arranged for a photograph in one row. In how many ways can they be seated if (i) all the sisters sit together, (ii) no two sisters sit together? Solution: (i) Consider the sisters as one unit and each brother as one unit. 4 brothers and 3 sisters make 5 units which can be arranged in 5! ways. Again 3 sisters may be arranged amongst themselves in 3! Ways Therefore, total number of ways in which all the sisters sit together = 5!-3! = 720 ways. (ii) In this case, each sister must sit on each side of the brothers. There are 5 such positions as indicated below by upward arrows : B1 B2 B3 B4 4 brothers may be arranged among themselves in 4! ways. For each of these arrangements 3 sisters can sit in the 5 places in 5P3 ways. Thus the total number of ways = 5P3 - 4! = 60 - 24 = 1,440 Example 9: In how many ways can 8 persons be seated at a round table? In how many cases will 2 particular persons sit together? Solution: This is in form of circular permutation. Hence the number of ways in which eight persons can be seated at a round table is ( n - 1 )! = ( 8 - 1 )! = 7! = 5040 ways. Consider the two particular persons as one person. Then the group of 8 persons becomes a group of 7 (with the restriction that the two particular persons be together) and seven persons can be arranged in a circular in 6! Ways. Hence, by the fundamental principle, we have, the total number of cases in which 2 particular persons sit together in a circular arrangement of 8 persons = 2! - 6! = 2 - 6 - 5 - 4 - 3 -2-1 = 1,440. Example 10: Six boys and five girls are to be seated for a photograph in a row such that no two girls sit together and no two boys sit together. Find the number of ways in which this can be done. Solution: Suppose that we have 11 chairs in a row and we want the 6 boys and 5 girls to be seated such that no two girls and no two boys are together. If we number the chairs from left to right, the arrangement will be possible if and only if boys occupy the odd places and girls occupy the even places in the row. The six odd places from 1 to 11 may filled in by 6 boys in 6P6 ways. Similarly, the five even places from 2 to 10 may be filled in by 5 girls in 5P5 ways. Hence, by the fundamental principle, the total number of required arrangements = 6P6 - 5P5 = 6! - 5! = 720 - 120 = 86,400. Choose the most appropriate option (a) (b) (c) or (d) 1 The number of ways in which 7 girls form a ring is",
       "options": [
         {
           "letter": "A",
@@ -442,7 +442,7 @@
         },
         {
           "letter": "B",
-          "text": "P 11 �1"
+          "text": "P 11 -1"
         },
         {
           "letter": "C",
@@ -498,7 +498,7 @@
         },
         {
           "letter": "B",
-          "text": "4P4 � 3P3"
+          "text": "4P4 - 3P3"
         },
         {
           "letter": "C",
@@ -526,7 +526,7 @@
         },
         {
           "letter": "B",
-          "text": "4 � 2"
+          "text": "4 - 2"
         },
         {
           "letter": "C",
@@ -630,7 +630,7 @@
       "canonicalNodeCode": "FND_P3_CH5",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The total number of ways in which six `+' and four `�` signs can be arranged in a line such that no two `�' signs occur together is",
+      "questionText": "The total number of ways in which six `+' and four `-` signs can be arranged in a line such that no two `-' signs occur together is",
       "options": [
         {
           "letter": "A",
@@ -638,7 +638,7 @@
         },
         {
           "letter": "B",
-          "text": "6 � 7 / 3"
+          "text": "6 - 7 / 3"
         },
         {
           "letter": "C",
@@ -686,7 +686,7 @@
       "canonicalNodeCode": "FND_P3_CH5",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "5 persons are sitting in a round table in such way that Tallest Person is always on the right� side of the shortest person; the number of such arrangements is",
+      "questionText": "5 persons are sitting in a round table in such way that Tallest Person is always on the right- side of the shortest person; the number of such arrangements is",
       "options": [
         {
           "letter": "A",
@@ -702,7 +702,7 @@
         },
         {
           "letter": "D",
-          "text": "none of these We have studied about permutations in the earlier section. There we have said that while arranging, we should pay due regard to order. There are situations in which order is not important. For example, consider selection of 5 clerks from 20 applicants. We will not be concerned about the order in which they are selected. In this situation, how to find the number of ways of selection? The idea of combination applies here. Definition : The number of ways in which smaller or equal number of things are arranged or selected from a collection of things where the order of selection or arrangement is not important, are called combinations. The selection of a poker hand which is a combination of five cards selected from 52 cards is an example of combination of 5 things out of 52 things. Number of combinations of n different things taken r at a time. (denoted by nCr C(n,r), Cn,r) Let nCr denote the required number of combinations. Consider any one of those combinations. It will contain r things. Here we are not paying attention to order of selection. Had we paid attention to this, we will have permutations or r items taken r at a time. In other words, every combination of r things will have rPr permutations amongst them. Therefore, nCr combinations will give rise to nCr. rPr permutations of r things selected from n things. From the earlier section, we can say that nCr. rPr = nPr as nPr denotes the number of permutations of r things chosen out of n things. Since, nCr.rPr = nPr , nCr = nPr/rPr = n!/ (n � r ) ! r!/(r � r )! = n!/(n � r )! � 0!/r! = n! / r! ( n � r )! nCr = n!/r! ( n � r )! Remarks: Using the above formula, we get (i) nCo = n! / 0! ( n � 0 )! = n!/n! =1. [ As 0! = 1] nCn = n! / n! ( n � n ) ! = n! / n! 0! = 1 [ Applying the formula for nCr with r = n ] Example 1: Find the number of different poker hands in a pack of 52 playing cards. Solution: This is the number of combinations of 52 cards taken five at a time. Now applying the formula, 52 51 50 49 48 47! 52C5 = 52!/5! (52 � 5)! = 52!/5! 47! = 5 4 3 21 47! = 2,598,960 Example 2: Let S be the collection of eight points in the plane with no three points on the straight line. Find the number of triangles that have points of S as vertices. Solution: Every choice of three points out of S determines a unique triangle. The order of the points selected is unimportant as whatever be the order, we will get the same triangle. Hence, the desired number is the number of combinations of eight things taken three at a time. Therefore, we get 8C3 = 8!/3!5! = 8�7�6/3�2�1 = 56 choices. Example 3: A committee is to be formed of 3 persons out of 12. Find the number of ways of forming such a committee. Solution: We want to find out the number of combinations of 12 things taken 3 at a time and this is given by 12C3 = 12!/3!(12 � 3)! [ by the definition of nCr] = 12!/3!9! = 12�11�10�9!/3!9! = 12�11�10/3�2 = 220 Example 4: A committee of 7 members is to be chosen from 6 Chartered Accountants, 4 Economists and 5 Cost Accountants. In how many ways can this be done if in the committee, there must be at least one member from each group and at least 3 Chartered Accountants? Solution: The various methods of selecting the persons from the various groups are shown below: Committee of 7 members C.A.s Economists Cost Accountants Method 1 3 2 2 Method 2 4 2 1 Method 3 4 1 2 Method 4 5 1 1 Method 5 3 3 1 Method 6 3 1 3 Number of ways of choosing the committee members by Method 1 = 6C3�4C2�5C2 = 654 43 54 =20�6�10=1,200. 321 21 21 Method 2 = 6C4�4C2�5C1 = 65 43 5 = 15�6�5 = 450 21 21 1 Method 3 = 6C4�4C1�5C2 = 65 4 5 4 = 15�4�10 = 600. 21 2 1 Method 4 = 6C5�4C1�5C1 = 6�4�5 = 120. Method 5 = 6C3�4C3�5C1 = 654 4325 = 20�4�5 = 400. 321 321 Method 6 = 6C3�4C1�5C3 = 6544 54 = 20�4�10 = 800. 321 21 Therefore, total number of ways = 1,200 + 450 + 600 + 120 + 400 + 800 = 3,570 Example 5: A person has 12 friends of whom 8 are relatives. In how many ways can he invite 7 guests such that 5 of them are relatives? Solution: Of the 12 friends, 8 are relatives and the remaining 4 are not relatives. He has to invite 5 relatives and 2 friends as his guests. 5 relatives can be chosen out of 8 in 8C5 ways; 2 friends can be chosen out of 4 in 4C2 ways. Hence, by the fundamental principle, the number of ways in which he can invite 7 guests such that 5 of them are relatives and 2 are friends. = 8C5 � 4C2 = {8! / 5! (8 � 5)!} � {4! / 2! (4 � 2 )!} = (8 7 6 5!)/5! 3! 432! 876 2! 2! = 336. Example 6: A Company wishes to simultaneously promote two of its 6 department heads to assistant managers. In how many ways these promotions can take place? Solution: This is a problem of combination. Hence, the promotions can be done in 6C2 = 6�5 / 2 = 15 ways Example 7: A building contractor needs three helpers and ten men apply. In how many ways can these selections take place? Solution: There is no regard for order in this problem. Hence, the contractor can select in any of 10C3 ways i.e., (10 � 9 � 8) / (3 � 2 � 1) = 120 ways. Example 8: In each case, find n: Solution: (a) 4. nC2 = n+2 C3 (b) n+2 Cn = 45. (a) We are given that 4. nC2 = n+2 C3. Now applying the formula, 4 n! = (n + 2)! 2!(n 2)! 3!(n + 2 3)! 4 n.(n 1)(n 2)! (n+2) (n+1) . n . (n 1)! or, = 2!(n 2)! 3! (n 1)! 4n(n�1) /2 = (n+2) (n+1)n /3! or, 4n(n�1) / 2 = (n+2)(n+1)n /3�2�1 or, 12(n�1)=(n+2) (n+1) or, 12n�12 = n2 + 3n +2 or, n2 � 9n + 14 = 0. or, n2 � 2n � 7n + 14 = 0. or, (n�2) (n�7) = 0 n=2 or 7. (b) We are given that C n+2 = 45. Applying the formula, n (n+2)!/{n!(n+2�n)!} = 45 or, (n+2) (n+1) n! / n! 2! = 45 or, (n+1) (n+2) = 45�2! = 90 or, n2+3n�88 = 0 or, n2+11n�8n�88 = 0 or, (n+11) (n�8) = 0 Thus, n equals either � 11 or 8. But negative value is not possible. Therefore we conclude that n=8. Example 9: A box contains 7 red, 6 white and 4 blue balls. How many selections of three balls can be made so that (a) all three are red (b) none is red (c) one is of each colour? Solution: (a) All three balls will be of red colour if they are taken out of 7 red balls and this can be done in 7C3 = 7! / 3!(7�3)! = 7! / 3!4! = 7�6�5�4! / (3�2�4!) = 7�6�5 / (3�2) = 35 ways Hence, 35 selections (groups) will be there such that all three balls are red. (b) None of the three will be red if these are chosen from (6 white and 4 blue balls) 10 balls and this can be done in 10C3 = 10!/{3!(10�3)!} = 10! / 3!7! = 10�9�8�7! / (3�2�1�7!) = 10�9�8 /(3�2) = 120 ways. Hence, the selections (or groups) of three such that none is a red ball are 120 in number. One red ball can be chosen from 7 balls in 7C1 = 7 ways. One white ball can be chosen from 6 white balls in 6C1 ways. One blue ball can be chosen from 4 blue balls in 4C1 = 4 ways. Hence, by generalized fundamental principle, the number of groups of three balls such that one is of each colour = 7�6�4 = 168 ways. Example 10: If 10Pr = 6,04,800 and 10Cr = 120; find the value of r, Solution: We know that nCr. rPr = nPr. We will us this equality to find r. 10Pr = 10Cr .r! or, 6,04,800 =120 �r! or, r! = 6,04,800 120 = 5,040 But r! = 5040 = 7�6�4�3�2�1 = 7! Therefore, r=7. Properties of nCr :"
+          "text": "none of these We have studied about permutations in the earlier section. There we have said that while arranging, we should pay due regard to order. There are situations in which order is not important. For example, consider selection of 5 clerks from 20 applicants. We will not be concerned about the order in which they are selected. In this situation, how to find the number of ways of selection? The idea of combination applies here. Definition : The number of ways in which smaller or equal number of things are arranged or selected from a collection of things where the order of selection or arrangement is not important, are called combinations. The selection of a poker hand which is a combination of five cards selected from 52 cards is an example of combination of 5 things out of 52 things. Number of combinations of n different things taken r at a time. (denoted by nCr C(n,r), Cn,r) Let nCr denote the required number of combinations. Consider any one of those combinations. It will contain r things. Here we are not paying attention to order of selection. Had we paid attention to this, we will have permutations or r items taken r at a time. In other words, every combination of r things will have rPr permutations amongst them. Therefore, nCr combinations will give rise to nCr. rPr permutations of r things selected from n things. From the earlier section, we can say that nCr. rPr = nPr as nPr denotes the number of permutations of r things chosen out of n things. Since, nCr.rPr = nPr , nCr = nPr/rPr = n!/ (n - r ) ! r!/(r - r )! = n!/(n - r )! - 0!/r! = n! / r! ( n - r )! nCr = n!/r! ( n - r )! Remarks: Using the above formula, we get (i) nCo = n! / 0! ( n - 0 )! = n!/n! =1. [ As 0! = 1] nCn = n! / n! ( n - n ) ! = n! / n! 0! = 1 [ Applying the formula for nCr with r = n ] Example 1: Find the number of different poker hands in a pack of 52 playing cards. Solution: This is the number of combinations of 52 cards taken five at a time. Now applying the formula, 52 51 50 49 48 47! 52C5 = 52!/5! (52 - 5)! = 52!/5! 47! = 5 4 3 21 47! = 2,598,960 Example 2: Let S be the collection of eight points in the plane with no three points on the straight line. Find the number of triangles that have points of S as vertices. Solution: Every choice of three points out of S determines a unique triangle. The order of the points selected is unimportant as whatever be the order, we will get the same triangle. Hence, the desired number is the number of combinations of eight things taken three at a time. Therefore, we get 8C3 = 8!/3!5! = 8-7-6/3-2-1 = 56 choices. Example 3: A committee is to be formed of 3 persons out of 12. Find the number of ways of forming such a committee. Solution: We want to find out the number of combinations of 12 things taken 3 at a time and this is given by 12C3 = 12!/3!(12 - 3)! [ by the definition of nCr] = 12!/3!9! = 12-11-10-9!/3!9! = 12-11-10/3-2 = 220 Example 4: A committee of 7 members is to be chosen from 6 Chartered Accountants, 4 Economists and 5 Cost Accountants. In how many ways can this be done if in the committee, there must be at least one member from each group and at least 3 Chartered Accountants? Solution: The various methods of selecting the persons from the various groups are shown below: Committee of 7 members C.A.s Economists Cost Accountants Method 1 3 2 2 Method 2 4 2 1 Method 3 4 1 2 Method 4 5 1 1 Method 5 3 3 1 Method 6 3 1 3 Number of ways of choosing the committee members by Method 1 = 6C3-4C2-5C2 = 654 43 54 =20-6-10=1,200. 321 21 21 Method 2 = 6C4-4C2-5C1 = 65 43 5 = 15-6-5 = 450 21 21 1 Method 3 = 6C4-4C1-5C2 = 65 4 5 4 = 15-4-10 = 600. 21 2 1 Method 4 = 6C5-4C1-5C1 = 6-4-5 = 120. Method 5 = 6C3-4C3-5C1 = 654 4325 = 20-4-5 = 400. 321 321 Method 6 = 6C3-4C1-5C3 = 6544 54 = 20-4-10 = 800. 321 21 Therefore, total number of ways = 1,200 + 450 + 600 + 120 + 400 + 800 = 3,570 Example 5: A person has 12 friends of whom 8 are relatives. In how many ways can he invite 7 guests such that 5 of them are relatives? Solution: Of the 12 friends, 8 are relatives and the remaining 4 are not relatives. He has to invite 5 relatives and 2 friends as his guests. 5 relatives can be chosen out of 8 in 8C5 ways; 2 friends can be chosen out of 4 in 4C2 ways. Hence, by the fundamental principle, the number of ways in which he can invite 7 guests such that 5 of them are relatives and 2 are friends. = 8C5 - 4C2 = {8! / 5! (8 - 5)!} - {4! / 2! (4 - 2 )!} = (8 7 6 5!)/5! 3! 432! 876 2! 2! = 336. Example 6: A Company wishes to simultaneously promote two of its 6 department heads to assistant managers. In how many ways these promotions can take place? Solution: This is a problem of combination. Hence, the promotions can be done in 6C2 = 6-5 / 2 = 15 ways Example 7: A building contractor needs three helpers and ten men apply. In how many ways can these selections take place? Solution: There is no regard for order in this problem. Hence, the contractor can select in any of 10C3 ways i.e., (10 - 9 - 8) / (3 - 2 - 1) = 120 ways. Example 8: In each case, find n: Solution: (a) 4. nC2 = n+2 C3 (b) n+2 Cn = 45. (a) We are given that 4. nC2 = n+2 C3. Now applying the formula, 4 n! = (n + 2)! 2!(n 2)! 3!(n + 2 3)! 4 n.(n 1)(n 2)! (n+2) (n+1) . n . (n 1)! or, = 2!(n 2)! 3! (n 1)! 4n(n-1) /2 = (n+2) (n+1)n /3! or, 4n(n-1) / 2 = (n+2)(n+1)n /3-2-1 or, 12(n-1)=(n+2) (n+1) or, 12n-12 = n2 + 3n +2 or, n2 - 9n + 14 = 0. or, n2 - 2n - 7n + 14 = 0. or, (n-2) (n-7) = 0 n=2 or 7. (b) We are given that C n+2 = 45. Applying the formula, n (n+2)!/{n!(n+2-n)!} = 45 or, (n+2) (n+1) n! / n! 2! = 45 or, (n+1) (n+2) = 45-2! = 90 or, n2+3n-88 = 0 or, n2+11n-8n-88 = 0 or, (n+11) (n-8) = 0 Thus, n equals either - 11 or 8. But negative value is not possible. Therefore we conclude that n=8. Example 9: A box contains 7 red, 6 white and 4 blue balls. How many selections of three balls can be made so that (a) all three are red (b) none is red (c) one is of each colour? Solution: (a) All three balls will be of red colour if they are taken out of 7 red balls and this can be done in 7C3 = 7! / 3!(7-3)! = 7! / 3!4! = 7-6-5-4! / (3-2-4!) = 7-6-5 / (3-2) = 35 ways Hence, 35 selections (groups) will be there such that all three balls are red. (b) None of the three will be red if these are chosen from (6 white and 4 blue balls) 10 balls and this can be done in 10C3 = 10!/{3!(10-3)!} = 10! / 3!7! = 10-9-8-7! / (3-2-1-7!) = 10-9-8 /(3-2) = 120 ways. Hence, the selections (or groups) of three such that none is a red ball are 120 in number. One red ball can be chosen from 7 balls in 7C1 = 7 ways. One white ball can be chosen from 6 white balls in 6C1 ways. One blue ball can be chosen from 4 blue balls in 4C1 = 4 ways. Hence, by generalized fundamental principle, the number of groups of three balls such that one is of each colour = 7-6-4 = 168 ways. Example 10: If 10Pr = 6,04,800 and 10Cr = 120; find the value of r, Solution: We know that nCr. rPr = nPr. We will us this equality to find r. 10Pr = 10Cr .r! or, 6,04,800 =120 -r! or, r! = 6,04,800 120 = 5,040 But r! = 5040 = 7-6-4-3-2-1 = 7! Therefore, r=7. Properties of nCr :"
         }
       ],
       "correctAnswer": "C",
@@ -714,15 +714,15 @@
       "canonicalNodeCode": "FND_P3_CH5",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "nCn = n!/{n! (n�n)!} = n! / n! . 0! = 1. Note",
+      "questionText": "nCn = n!/{n! (n-n)!} = n! / n! . 0! = 1. Note",
       "options": [
         {
           "letter": "A",
-          "text": "nCr has a meaning only when r and n are integers 0 r n and C n has a meaning only when n�r 0 n � r n."
+          "text": "nCr has a meaning only when r and n are integers 0 r n and C n has a meaning only when n-r 0 n - r n."
         },
         {
           "letter": "B",
-          "text": "nCr and C n are called complementary combinations, for if we form a group of r things out n�r of n different things, (n�r) remaining things which are not included in this group form another group of rejected things. The number of groups of n different things, taken r at a time should be equal to the number of groups of n different things taken (n�r) at a time. Example 11: Find r if 18Cr = C 18 r+2 Solution: As nCr = nC n�r, we have 18 Cr=18C 18�r But it is given, 18Cr = 18C r+2 C 18 = C 18 18�r r+2 or, 18 � r = r+2 Solving, we get 2r = 18 � 2 = 16 i.e., r=8. Example 12: Prove that nCr = n�2 C r�2 + 2 n�2 Cr�1 + n�2 Cr Solution: R.H.S = C n�2 + C n-2 + C n�2 + C n�2 r�2 r�1 r�1 r = C n�1 + C n�1 [ using Property 2 listed earlier] r�1 r = C (n�1)+1 [ using Property 2 again ] r = nCr = L.H.S. Hence, the result Example 13: If 28 C2r : C 24 = 225 : 11, find r. 2r�4 Solution: We have nCr = n! / {r!(n�r)!} Now, substituting for n and r, we get C 28 = 28! / {(2r)!(28 � 2r)!}, 2r C 24 = 24! / [( 2r�4)! {24 � (2r�4)}!] = 24! / {(2r�4)!(28�2r)!} 2r�4 We are given that C 28 : 24C 2r�4 = 225 : 11. Now we calculate, 2r C 28 = 28! � (2r 4)!(28 2r)! 2r (2r)!(28 2r)! 24! C 24 2r 4 = 28 � 27 � 26 � 25� 24! � (2r-4)!(28-2r)! (2r)(2r-1)(2r-2)(2r-3)(2r-4)!(28-2r)! 24! = 28 27 26 25 = 225 (2r)(2r 1)(2r 2)(2r 3) 11 or, (2r) (2r�1) ( 2r�2) (2r�3) = 11 28 27 26 25 225 = 11�28�3�26 = 11�7�4�3�13�2 = 11�12�13�14 = 14�13�12�11 2r= 14 i.e., r = 7 Example 14: Find x if 12C5 +2 12C4 +12C3 = 14Cx Solution: L.H.S = 12C5+ 2 12C4 + 12C3 = 12C5+ 12C4 + 12C4 + 12C3 = 13C5 + 13C4 = 14 C5 Also nCr = nCn�r. Therefore 14C5 = 14C 14�5 = 14C9 Hence, L.H.S = 14C5 = 14C9 = 14Cx = R.H.S by the given equality This implies, either x = 5 or x = 9. Example 15 : Prove by reasoning that (i) C n+1 = nCr + C n r r�1 (ii) nPr = P n�1 +rn�1 Pr�1 r Solution: (i) n+1 Cr stands for the number of combinations of (n+1) things taken r at a time. As a specified thing can either be included in any combination or excluded from it, the total number of combinations which can be combinations or (n+1) things taken r at a time is the sum of :"
+          "text": "nCr and C n are called complementary combinations, for if we form a group of r things out n-r of n different things, (n-r) remaining things which are not included in this group form another group of rejected things. The number of groups of n different things, taken r at a time should be equal to the number of groups of n different things taken (n-r) at a time. Example 11: Find r if 18Cr = C 18 r+2 Solution: As nCr = nC n-r, we have 18 Cr=18C 18-r But it is given, 18Cr = 18C r+2 C 18 = C 18 18-r r+2 or, 18 - r = r+2 Solving, we get 2r = 18 - 2 = 16 i.e., r=8. Example 12: Prove that nCr = n-2 C r-2 + 2 n-2 Cr-1 + n-2 Cr Solution: R.H.S = C n-2 + C n-2 + C n-2 + C n-2 r-2 r-1 r-1 r = C n-1 + C n-1 [ using Property 2 listed earlier] r-1 r = C (n-1)+1 [ using Property 2 again ] r = nCr = L.H.S. Hence, the result Example 13: If 28 C2r : C 24 = 225 : 11, find r. 2r-4 Solution: We have nCr = n! / {r!(n-r)!} Now, substituting for n and r, we get C 28 = 28! / {(2r)!(28 - 2r)!}, 2r C 24 = 24! / [( 2r-4)! {24 - (2r-4)}!] = 24! / {(2r-4)!(28-2r)!} 2r-4 We are given that C 28 : 24C 2r-4 = 225 : 11. Now we calculate, 2r C 28 = 28! - (2r 4)!(28 2r)! 2r (2r)!(28 2r)! 24! C 24 2r 4 = 28 - 27 - 26 - 25- 24! - (2r-4)!(28-2r)! (2r)(2r-1)(2r-2)(2r-3)(2r-4)!(28-2r)! 24! = 28 27 26 25 = 225 (2r)(2r 1)(2r 2)(2r 3) 11 or, (2r) (2r-1) ( 2r-2) (2r-3) = 11 28 27 26 25 225 = 11-28-3-26 = 11-7-4-3-13-2 = 11-12-13-14 = 14-13-12-11 2r= 14 i.e., r = 7 Example 14: Find x if 12C5 +2 12C4 +12C3 = 14Cx Solution: L.H.S = 12C5+ 2 12C4 + 12C3 = 12C5+ 12C4 + 12C4 + 12C3 = 13C5 + 13C4 = 14 C5 Also nCr = nCn-r. Therefore 14C5 = 14C 14-5 = 14C9 Hence, L.H.S = 14C5 = 14C9 = 14Cx = R.H.S by the given equality This implies, either x = 5 or x = 9. Example 15 : Prove by reasoning that (i) C n+1 = nCr + C n r r-1 (ii) nPr = P n-1 +rn-1 Pr-1 r Solution: (i) n+1 Cr stands for the number of combinations of (n+1) things taken r at a time. As a specified thing can either be included in any combination or excluded from it, the total number of combinations which can be combinations or (n+1) things taken r at a time is the sum of :"
         },
         {
           "letter": "C",
@@ -730,7 +730,7 @@
         },
         {
           "letter": "D",
-          "text": "the number of combinations of (n+1) things taken r at time from which the specified thing is always excluded. Now, in case (a), when a specified thing is always included , we have to find the number of ways of selecting the remaining (r�1) things out of the remaining n things which is C n r�1. Again, in case (b), since that specified thing is always excluded, we have to find the number of ways of selecting r things out of the remaining n things, which is nCr. Thus, n+1 Cr = nCr�1+ nCr (i) We divide nPr i.e., the number of permutations of n things take r at a time into two groups: (a) those which contain a specified thing (b) those which do not contain a specified thing. In (a) we fix the particular thing in any one of the r places which can be done in r ways and then fill up the remaining (r�1) places out of (n�1) things which give rise to n�1 Pr�1 ways. Thus, the number of permutations in case (a) = r � n�1 Pr�1. In case (b), one thing is to be excluded; therefore, r places are to be filled out of (n�1) things. Therefore, number of permutations = n�1 Pr Thus, total number of permutations = P n�1 + r. n�1 P r r�1 i.e., nPr = n�1Pr+r. P n�1 r�1 We now proceed to examine some standard results in permutations and combinations. These results have special application and hence are dealt with separately. I. Permutations when some of the things are alike, taken all at a time The number of ways p in which n things may be arranged among themselves, taking them all at a time, when n1 of the things are exactly alike of one kind , n2 of the things are exactly alike of another kind, n3 of the things are exactly alike of the third kind, and the rest all are different is given by, p n! n1!n 2!n 3! Proof : Let there be n things. Suppose n1 of them are exactly alike of one kind; n2 of them are exactly alike of another kind; n3 of them are exactly alike of a third kind; let the rest (n�n1�n2�n3) be all different. Let p be the required permutations; then if the n things, all exactly alike of one kind were replaced by n, different things different from any of the rest in any of the p permutations without altering the position of any of the remaining things, we could form n1! new permutations. Hence, we should obtain p � n1! permutations. Similarly if n2 things exactly alike of another kind were replaced by n2 different things different form any of the rest, the number of permutations would be p � n1! � n2! Similarly, if n3 things exactly alike of a third kind were replaced by n3 different things different from any of the rest, the number of permutations would be p � n1! � n2! � n3! = n! But now because of these changes all the n things are different and therefore, the possible number of permutations when all of them are taken is n!. Hence, p�n1! � n2! n3! = n! n! i.e., p = n1!n 2!n 3! which is the required number of permutations. This results may be extended to cases where there are different number of groups of alike things. II. Permutations when each thing may be repeated once, twice,...upto r times in any arrangement. Result: The number of permutations of n things taken r at time when each thing may be repeated r times in any arrangement is nr. Proof: There are n different things and any of these may be chosen as the first thing. Hence, there are n ways of choosing the first thing. When this is done, we are again left with n different things and any of these may be chosen as the second (as the same thing can be chosen again.) Hence, by the fundamental principle, the two things can be chosen in n � n = n2 number of ways. Proceeding in this manner, and noting that at each stage we are to chose a thing from n different things, the total number of ways in which r things can be chosen is obviously equal to n � n � .........to r terms = nr. III. Combinations of n different things taking some or all of n things at a time Result : The total number of ways in which it is possible to form groups by taking some or all of n things (2n �1). In symbols, n n Cr = 2 n 1 r=1 Proof : Each of the n different things may be dealt with in two ways; it may either be taken or left. Hence, by the generalised fundamental principle, the total number of ways of dealing with n things : 2 � 2 � 2�........2, n times i.e., 2n But this include the case in which all the things are left, and therefore, rejecting this case, the total number of ways of forming a group by taking some or all of n different things is 2n � 1. IV. Combinations of n things taken some or all at a time when n1 of the things are alike of one kind, n2 of the things are alike of another kind n3 of the things are alike of a third kind. etc. Result : The total, number of ways in which it is possible to make groups by taking some or all out of n (=n1 + n2 + n3 +...) things, where n1 things are alike of one kind and so on, is given by { (n1 + 1) ( n2 + 1) ( n3 + 1)...} �1 Proof : The n1 things all alike of one kind may be dealt with in (n1 + 1) ways. We may take 0, 1, 2,....n, of them. Similarly n2 things all alike of a second kind may be dealt with in (n2 +1) ways and n3 things all alike of a third kind may de dealt with in (n3 +1) ways. Proceeding in this way and using the generalised fundamental principle, the total number of ways of dealing with all n ( = n1 + n2 + n3 +...) things, where n1, things are alike of one kind and so on, is given by (n1 + 1) ( n2 + 1) ( n3 + 1)... But this includes the case in which none of the things are taken. Hence, rejecting this case, total number of ways is {(n1 + 1) ( n2 + 1) ( n3 + 1)...} �1} V. The notion of Independence in Combinations Many applications of Combinations involve the selection of subsets from two or more independent sets of objects or things. If the combination of a subset having r1 objects form a set having n1 objects does not affect the combination of a subset having r2 objects from a different set having n2 objects, we call the combinations as being independent. Whenever such combinations are independent, any subset of the first set of objects can be combined with each subset of the second set of the object to form a bigger combination. The total number of such combinations can be found by applying the generalised fundamental principle. Result : The combinations of selecting r1 things from a set having n1 objects and r2 things from a set having n2 objects where combination of r1 things, r2 things are independent is given by C n1 � C n2 r1 r2 Note : This result can be extended to more than two sets of objects by a similar reasoning. Example 1: How many different permutations are possible from the letters of the word `CALCULUS'? Solution: The word `CALCULUS' consists of 8 letters of which 2 are C and 2 are L, 2 are U and the rest are A and S. Hence , by result (I), the number of different permutations from the letters of the word `CALCULUS' taken all at a time 8! = 2!2!2!1!1! = 8 7 6 5 4 3 2 = 7 � 6 � 5 � 4 � 3 � 2 = 5,040 222 Example 2: In how many ways can 17 billiard balls be arranged , if 7 of them are black, 6 red and 4 white? Solution: We have, the required number of different arrangements: 17! = 40,84,080 7! 6! 4! Example 3: An examination paper with 10 questions consists of 6 questions in Algebra and 4 questions in Geometry. At least one question from each section is to be attempted. In how many ways can this be done? Solution: A student must answer atleast one question from each section and he may answer all questions from each section. Consider Section I : Algebra. There are 6 questions and he may answer a question or may not answer it. These are the two alternatives associated with each of the six questions. Hence, by the generalised fundamental principle, he can deal with two questions in 2 � 2 ....6 factors = 26 number of ways. But this includes the possibility of none of the question from Algebra being attempted. This cannot be so, as he must attempt at least one question from this section. Hence, excluding this case, the number of ways in which Section I can be dealt with is (26 �1). Similarly, the number of ways in which Section II can be dealt with is (24 �1). Hence, by the Fundamental Principle, the examination paper can be attempted in (26 �1) (24 �1) number of ways. Example 4: A man has 5 friends. In how many ways can he invite one or more of his friends to dinner? Solution: By result, (III) of this section, as he has to select one or more of his 5 friends, he can do so in 25 � 1 = 31 ways. Note : This can also be done in the way, outlines below. He can invite his friends one by one, in twos, in threes, etc. and hence the number of ways. = 5C1+ 5C2 +5C3 +5C4 +5C5 = 5 + 10 +10 + 5 + 1= 31 ways. Example 5: There are 7 men and 3 ladies. Find the number of ways in which a committee of 6 can be formed of them if the committee is to include atleast two ladies? Solution: The committee of six must include at least 2 ladies, i.e., two or more ladies. As there are only 3 ladies, the following possibilities arise: The committee of 6 consists of (i) 4 men and 2 ladies (ii) 3 men and 3 ladies. The number of ways for (i) = 7C4 � 3C2 = 35 � 3 = 105; The number of ways for (ii) = 7C3 � 3C3 = 35 � 1 = 35. Hence the total number of ways of forming a committee so as to include at least two ladies = 105 +35 = 140. Example 6: Find the number of ways of selecting 4 letters from the word `EXAMINATION'. Solution: There are 11 letters in the word of which A, I, N are repeated twice. Thus we have 11 letters of 8 different kinds (A, A), (I, I), (N, N), E, X, M, T, O. The group of four selected letters may take any of the following forms: (i) Two alike and other two alike (ii) Two alike and other two different (iii) All four different In case (i), the number of ways = 3C2 = 3. In case (ii), the number of ways = 3C1 � 7C2 = 3 � 21 = 63. 8765 In case (iii), the number of ways = 8C4 = 1 2 3 4 = 70 Hence , the required number of ways = 3 + 63 + 70 = 136 ways Fundamental principles of counting (a) Multiplication Rule: If certain thing may be done in `m' different ways and when it has been done, a second thing can be done in `n ` different ways then total number of ways of doing both things simultaneously = m � n. (b) Addition Rule : It there are two alternative jobs which can be done in `m' ways and in `n' ways respectively then either of two jobs can be done in (m + n) ways. Factorial: The factorial n, written as n! or n , represents the product of all integers from 1 to n both inclusive. To make the notation meaningful, when n = o, we define o! or o = 1. Thus, n! = n (n � 1) (n � 2) ..... ...3.2.1 Permutations: The ways of arranging or selecting smaller or equal number of persons or objects from a group of persons or collection of objects with due regard being paid to the order of arrangement or selection, are called permutations. The number of permutations of n things chosen r at a time is given by nPr =n ( n � 1 ) ( n � 2 ) ... ( n � r + 1 ) where the product has exactly r factors. Circular Permutations: (a) n ordinary permutations equal one circular permutation. Hence there are nPn/ n ways in which all the n things can be arranged in a circle. This equals (n�1)!. (b) the number of necklaces formed with n beads of different colours = = 1 n 1. 2 (a) Number of permutations of n distinct objects taken r at a time when a particular object is not taken in any arrangement is n�1pr. (b) Number of permutations of r objects out of n distinct objects when a particular object is always included in any arrangement is r. n1 pr1 Combinations: The number of ways in which smaller or equal number of things are arranged or selected from a collection of things where the order of selection or arrangement is not important, are called combinations. nCr = n!/r! ( n � r )! nCr = C n n�r nCo = n!/{0! (n�0)!} = n! / n! =1. nCn = n!/{n! (n�n)!} = n! / n! . 0! = 1. (a) nCr has a meaning only when r and n are integers 0 r n and C n has a meaning only n�r when 0 n � r n. (i) C n+1 = nCr + C n r r�1 (ii) nPr = P n�1 +rn�1 Pr�1 r Permutations when some of the things are alike, taken all at a time p n! n1!n 2!n 3! Permutations when each thing may be repeated once, twice,...upto r times in any arrangement = n!. The total number of ways in which it is possible to form groups by taking some or all of n things (2n �1). The total, number of ways in which it is possible to make groups by taking some or all out of n (=n1 + n2 + n3 +...) things, where n1 things are alike of one kind and so on, is given by { (n1 + 1) ( n2 + 1) ( n3 + 1)...} �1 The combinations of selecting r1 things from a set having n1 objects and r2 things from a set having n2 objects where combination of r1 things, r2 things are independent is given by C n1 � C n2 r1 r2 Choose the most appropriate option (a, b, c or d )"
+          "text": "the number of combinations of (n+1) things taken r at time from which the specified thing is always excluded. Now, in case (a), when a specified thing is always included , we have to find the number of ways of selecting the remaining (r-1) things out of the remaining n things which is C n r-1. Again, in case (b), since that specified thing is always excluded, we have to find the number of ways of selecting r things out of the remaining n things, which is nCr. Thus, n+1 Cr = nCr-1+ nCr (i) We divide nPr i.e., the number of permutations of n things take r at a time into two groups: (a) those which contain a specified thing (b) those which do not contain a specified thing. In (a) we fix the particular thing in any one of the r places which can be done in r ways and then fill up the remaining (r-1) places out of (n-1) things which give rise to n-1 Pr-1 ways. Thus, the number of permutations in case (a) = r - n-1 Pr-1. In case (b), one thing is to be excluded; therefore, r places are to be filled out of (n-1) things. Therefore, number of permutations = n-1 Pr Thus, total number of permutations = P n-1 + r. n-1 P r r-1 i.e., nPr = n-1Pr+r. P n-1 r-1 We now proceed to examine some standard results in permutations and combinations. These results have special application and hence are dealt with separately. I. Permutations when some of the things are alike, taken all at a time The number of ways p in which n things may be arranged among themselves, taking them all at a time, when n1 of the things are exactly alike of one kind , n2 of the things are exactly alike of another kind, n3 of the things are exactly alike of the third kind, and the rest all are different is given by, p n! n1!n 2!n 3! Proof : Let there be n things. Suppose n1 of them are exactly alike of one kind; n2 of them are exactly alike of another kind; n3 of them are exactly alike of a third kind; let the rest (n-n1-n2-n3) be all different. Let p be the required permutations; then if the n things, all exactly alike of one kind were replaced by n, different things different from any of the rest in any of the p permutations without altering the position of any of the remaining things, we could form n1! new permutations. Hence, we should obtain p - n1! permutations. Similarly if n2 things exactly alike of another kind were replaced by n2 different things different form any of the rest, the number of permutations would be p - n1! - n2! Similarly, if n3 things exactly alike of a third kind were replaced by n3 different things different from any of the rest, the number of permutations would be p - n1! - n2! - n3! = n! But now because of these changes all the n things are different and therefore, the possible number of permutations when all of them are taken is n!. Hence, p-n1! - n2! n3! = n! n! i.e., p = n1!n 2!n 3! which is the required number of permutations. This results may be extended to cases where there are different number of groups of alike things. II. Permutations when each thing may be repeated once, twice,...upto r times in any arrangement. Result: The number of permutations of n things taken r at time when each thing may be repeated r times in any arrangement is nr. Proof: There are n different things and any of these may be chosen as the first thing. Hence, there are n ways of choosing the first thing. When this is done, we are again left with n different things and any of these may be chosen as the second (as the same thing can be chosen again.) Hence, by the fundamental principle, the two things can be chosen in n - n = n2 number of ways. Proceeding in this manner, and noting that at each stage we are to chose a thing from n different things, the total number of ways in which r things can be chosen is obviously equal to n - n - .........to r terms = nr. III. Combinations of n different things taking some or all of n things at a time Result : The total number of ways in which it is possible to form groups by taking some or all of n things (2n -1). In symbols, n n Cr = 2 n 1 r=1 Proof : Each of the n different things may be dealt with in two ways; it may either be taken or left. Hence, by the generalised fundamental principle, the total number of ways of dealing with n things : 2 - 2 - 2-........2, n times i.e., 2n But this include the case in which all the things are left, and therefore, rejecting this case, the total number of ways of forming a group by taking some or all of n different things is 2n - 1. IV. Combinations of n things taken some or all at a time when n1 of the things are alike of one kind, n2 of the things are alike of another kind n3 of the things are alike of a third kind. etc. Result : The total, number of ways in which it is possible to make groups by taking some or all out of n (=n1 + n2 + n3 +...) things, where n1 things are alike of one kind and so on, is given by { (n1 + 1) ( n2 + 1) ( n3 + 1)...} -1 Proof : The n1 things all alike of one kind may be dealt with in (n1 + 1) ways. We may take 0, 1, 2,....n, of them. Similarly n2 things all alike of a second kind may be dealt with in (n2 +1) ways and n3 things all alike of a third kind may de dealt with in (n3 +1) ways. Proceeding in this way and using the generalised fundamental principle, the total number of ways of dealing with all n ( = n1 + n2 + n3 +...) things, where n1, things are alike of one kind and so on, is given by (n1 + 1) ( n2 + 1) ( n3 + 1)... But this includes the case in which none of the things are taken. Hence, rejecting this case, total number of ways is {(n1 + 1) ( n2 + 1) ( n3 + 1)...} -1} V. The notion of Independence in Combinations Many applications of Combinations involve the selection of subsets from two or more independent sets of objects or things. If the combination of a subset having r1 objects form a set having n1 objects does not affect the combination of a subset having r2 objects from a different set having n2 objects, we call the combinations as being independent. Whenever such combinations are independent, any subset of the first set of objects can be combined with each subset of the second set of the object to form a bigger combination. The total number of such combinations can be found by applying the generalised fundamental principle. Result : The combinations of selecting r1 things from a set having n1 objects and r2 things from a set having n2 objects where combination of r1 things, r2 things are independent is given by C n1 - C n2 r1 r2 Note : This result can be extended to more than two sets of objects by a similar reasoning. Example 1: How many different permutations are possible from the letters of the word `CALCULUS'? Solution: The word `CALCULUS' consists of 8 letters of which 2 are C and 2 are L, 2 are U and the rest are A and S. Hence , by result (I), the number of different permutations from the letters of the word `CALCULUS' taken all at a time 8! = 2!2!2!1!1! = 8 7 6 5 4 3 2 = 7 - 6 - 5 - 4 - 3 - 2 = 5,040 222 Example 2: In how many ways can 17 billiard balls be arranged , if 7 of them are black, 6 red and 4 white? Solution: We have, the required number of different arrangements: 17! = 40,84,080 7! 6! 4! Example 3: An examination paper with 10 questions consists of 6 questions in Algebra and 4 questions in Geometry. At least one question from each section is to be attempted. In how many ways can this be done? Solution: A student must answer atleast one question from each section and he may answer all questions from each section. Consider Section I : Algebra. There are 6 questions and he may answer a question or may not answer it. These are the two alternatives associated with each of the six questions. Hence, by the generalised fundamental principle, he can deal with two questions in 2 - 2 ....6 factors = 26 number of ways. But this includes the possibility of none of the question from Algebra being attempted. This cannot be so, as he must attempt at least one question from this section. Hence, excluding this case, the number of ways in which Section I can be dealt with is (26 -1). Similarly, the number of ways in which Section II can be dealt with is (24 -1). Hence, by the Fundamental Principle, the examination paper can be attempted in (26 -1) (24 -1) number of ways. Example 4: A man has 5 friends. In how many ways can he invite one or more of his friends to dinner? Solution: By result, (III) of this section, as he has to select one or more of his 5 friends, he can do so in 25 - 1 = 31 ways. Note : This can also be done in the way, outlines below. He can invite his friends one by one, in twos, in threes, etc. and hence the number of ways. = 5C1+ 5C2 +5C3 +5C4 +5C5 = 5 + 10 +10 + 5 + 1= 31 ways. Example 5: There are 7 men and 3 ladies. Find the number of ways in which a committee of 6 can be formed of them if the committee is to include atleast two ladies? Solution: The committee of six must include at least 2 ladies, i.e., two or more ladies. As there are only 3 ladies, the following possibilities arise: The committee of 6 consists of (i) 4 men and 2 ladies (ii) 3 men and 3 ladies. The number of ways for (i) = 7C4 - 3C2 = 35 - 3 = 105; The number of ways for (ii) = 7C3 - 3C3 = 35 - 1 = 35. Hence the total number of ways of forming a committee so as to include at least two ladies = 105 +35 = 140. Example 6: Find the number of ways of selecting 4 letters from the word `EXAMINATION'. Solution: There are 11 letters in the word of which A, I, N are repeated twice. Thus we have 11 letters of 8 different kinds (A, A), (I, I), (N, N), E, X, M, T, O. The group of four selected letters may take any of the following forms: (i) Two alike and other two alike (ii) Two alike and other two different (iii) All four different In case (i), the number of ways = 3C2 = 3. In case (ii), the number of ways = 3C1 - 7C2 = 3 - 21 = 63. 8765 In case (iii), the number of ways = 8C4 = 1 2 3 4 = 70 Hence , the required number of ways = 3 + 63 + 70 = 136 ways Fundamental principles of counting (a) Multiplication Rule: If certain thing may be done in `m' different ways and when it has been done, a second thing can be done in `n ` different ways then total number of ways of doing both things simultaneously = m - n. (b) Addition Rule : It there are two alternative jobs which can be done in `m' ways and in `n' ways respectively then either of two jobs can be done in (m + n) ways. Factorial: The factorial n, written as n! or n , represents the product of all integers from 1 to n both inclusive. To make the notation meaningful, when n = o, we define o! or o = 1. Thus, n! = n (n - 1) (n - 2) ..... ...3.2.1 Permutations: The ways of arranging or selecting smaller or equal number of persons or objects from a group of persons or collection of objects with due regard being paid to the order of arrangement or selection, are called permutations. The number of permutations of n things chosen r at a time is given by nPr =n ( n - 1 ) ( n - 2 ) ... ( n - r + 1 ) where the product has exactly r factors. Circular Permutations: (a) n ordinary permutations equal one circular permutation. Hence there are nPn/ n ways in which all the n things can be arranged in a circle. This equals (n-1)!. (b) the number of necklaces formed with n beads of different colours = = 1 n 1. 2 (a) Number of permutations of n distinct objects taken r at a time when a particular object is not taken in any arrangement is n-1pr. (b) Number of permutations of r objects out of n distinct objects when a particular object is always included in any arrangement is r. n1 pr1 Combinations: The number of ways in which smaller or equal number of things are arranged or selected from a collection of things where the order of selection or arrangement is not important, are called combinations. nCr = n!/r! ( n - r )! nCr = C n n-r nCo = n!/{0! (n-0)!} = n! / n! =1. nCn = n!/{n! (n-n)!} = n! / n! . 0! = 1. (a) nCr has a meaning only when r and n are integers 0 r n and C n has a meaning only n-r when 0 n - r n. (i) C n+1 = nCr + C n r r-1 (ii) nPr = P n-1 +rn-1 Pr-1 r Permutations when some of the things are alike, taken all at a time p n! n1!n 2!n 3! Permutations when each thing may be repeated once, twice,...upto r times in any arrangement = n!. The total number of ways in which it is possible to form groups by taking some or all of n things (2n -1). The total, number of ways in which it is possible to make groups by taking some or all out of n (=n1 + n2 + n3 +...) things, where n1 things are alike of one kind and so on, is given by { (n1 + 1) ( n2 + 1) ( n3 + 1)...} -1 The combinations of selecting r1 things from a set having n1 objects and r2 things from a set having n2 objects where combination of r1 things, r2 things are independent is given by C n1 - C n2 r1 r2 Choose the most appropriate option (a, b, c or d )"
         }
       ],
       "correctAnswer": "D",
@@ -826,7 +826,7 @@
       "canonicalNodeCode": "FND_P3_CH5",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If C n = 56, nCr = 28 and C n = 8, then r is equal to r�1 r+1",
+      "questionText": "If C n = 56, nCr = 28 and C n = 8, then r is equal to r-1 r+1",
       "options": [
         {
           "letter": "A",
@@ -966,7 +966,7 @@
       "canonicalNodeCode": "FND_P3_CH5",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If C 28 : 24 C2r �4 = 225 : 11, then the value of r is 2r",
+      "questionText": "If C 28 : 24 C2r -4 = 225 : 11, then the value of r is 2r",
       "options": [
         {
           "letter": "A",
@@ -1010,7 +1010,7 @@
         },
         {
           "letter": "D",
-          "text": "none of these Hint: The number of diagonals in a polygon of n sides is 1�2n (n�3)."
+          "text": "none of these Hint: The number of diagonals in a polygon of n sides is 1-2n (n-3)."
         }
       ],
       "correctAnswer": "C",
@@ -1418,7 +1418,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "12c4 � 5c3"
+          "text": "12c4 - 5c3"
         },
         {
           "letter": "B",
@@ -1426,7 +1426,7 @@
         },
         {
           "letter": "C",
-          "text": "4950 � 7!"
+          "text": "4950 - 7!"
         },
         {
           "letter": "D",
@@ -1750,7 +1750,7 @@
       "canonicalNodeCode": "FND_P3_CH5",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "P (n�1) + r.(n�1) P (r�1) is equal to r",
+      "questionText": "P (n-1) + r.(n-1) P (r-1) is equal to r",
       "options": [
         {
           "letter": "A",
@@ -1782,11 +1782,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "2n { 1.3.5....(2n�1)} n (b) 2n n"
+          "text": "2n { 1.3.5....(2n-1)} n (b) 2n n"
         },
         {
           "letter": "B",
-          "text": "{1.3.5.....(2n �1)} (d) none of these"
+          "text": "{1.3.5.....(2n -1)} (d) none of these"
         },
         {
           "letter": "C",
@@ -1866,7 +1866,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "2n �1"
+          "text": "2n -1"
         },
         {
           "letter": "B",
@@ -2658,7 +2658,7 @@
         },
         {
           "letter": "C",
-          "text": "(n�1)!"
+          "text": "(n-1)!"
         },
         {
           "letter": "D",
@@ -2706,11 +2706,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "8! � 2 7!"
+          "text": "8! - 2 7!"
         },
         {
           "letter": "B",
-          "text": "8! � 7!"
+          "text": "8! - 7!"
         },
         {
           "letter": "C",
@@ -2738,11 +2738,11 @@
         },
         {
           "letter": "B",
-          "text": "5 P3 � 3"
+          "text": "5 P3 - 3"
         },
         {
           "letter": "C",
-          "text": "5 P3 � 2"
+          "text": "5 P3 - 2"
         },
         {
           "letter": "D",
@@ -2790,7 +2790,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "6! � 5! (b) 6!"
+          "text": "6! - 5! (b) 6!"
         },
         {
           "letter": "B",
@@ -2818,7 +2818,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "6! � 5! (b) 6!"
+          "text": "6! - 5! (b) 6!"
         },
         {
           "letter": "B",
@@ -2902,11 +2902,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "7! � 6! 2!"
+          "text": "7! - 6! 2!"
         },
         {
           "letter": "B",
-          "text": "7! � 6!"
+          "text": "7! - 6!"
         },
         {
           "letter": "C",
@@ -2934,11 +2934,11 @@
         },
         {
           "letter": "B",
-          "text": "5 P5 � 4 P4"
+          "text": "5 P5 - 4 P4"
         },
         {
           "letter": "C",
-          "text": "5 P5 � 4 P2"
+          "text": "5 P5 - 4 P2"
         },
         {
           "letter": "D",
@@ -3066,7 +3066,7 @@
       "canonicalNodeCode": "FND_P3_CH5",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If P n-1 � P n+1 = 5 the value of n is 3 3 12",
+      "questionText": "If P n-1 - P n+1 = 5 the value of n is 3 3 12",
       "options": [
         {
           "letter": "A",
@@ -3094,7 +3094,7 @@
       "canonicalNodeCode": "FND_P3_CH5",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If P n+3 � P n+2 = 14 the value of n is 6 4",
+      "questionText": "If P n+3 - P n+2 = 14 the value of n is 6 4",
       "options": [
         {
           "letter": "A",
@@ -3122,7 +3122,7 @@
       "canonicalNodeCode": "FND_P3_CH5",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If 7 Pn � P 7 = 60 the value of n is n-3",
+      "questionText": "If 7 Pn - P 7 = 60 the value of n is n-3",
       "options": [
         {
           "letter": "A",
@@ -3686,11 +3686,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "8! � 4! 5!"
+          "text": "8! - 4! 5!"
         },
         {
           "letter": "B",
-          "text": "6 P3 �5!"
+          "text": "6 P3 -5!"
         },
         {
           "letter": "C",
@@ -3698,7 +3698,7 @@
         },
         {
           "letter": "D",
-          "text": "4 P3 �5!"
+          "text": "4 P3 -5!"
         }
       ],
       "correctAnswer": "A",
@@ -3714,11 +3714,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "8! � 4! 5!"
+          "text": "8! - 4! 5!"
         },
         {
           "letter": "B",
-          "text": "6 P3 �5!"
+          "text": "6 P3 -5!"
         },
         {
           "letter": "C",
@@ -3726,7 +3726,7 @@
         },
         {
           "letter": "D",
-          "text": "4 P3 �5!"
+          "text": "4 P3 -5!"
         }
       ],
       "correctAnswer": "C",
@@ -3742,11 +3742,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "8! � 4! 5!"
+          "text": "8! - 4! 5!"
         },
         {
           "letter": "B",
-          "text": "6 P3 �5!"
+          "text": "6 P3 -5!"
         },
         {
           "letter": "C",
@@ -3754,7 +3754,7 @@
         },
         {
           "letter": "D",
-          "text": "4 P3 �5!"
+          "text": "4 P3 -5!"
         }
       ],
       "correctAnswer": "C",
@@ -3770,11 +3770,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "8! � 4! 5!"
+          "text": "8! - 4! 5!"
         },
         {
           "letter": "B",
-          "text": "6 P3 �5!"
+          "text": "6 P3 -5!"
         },
         {
           "letter": "C",
@@ -3782,7 +3782,7 @@
         },
         {
           "letter": "D",
-          "text": "4 P3 �5!"
+          "text": "4 P3 -5!"
         }
       ],
       "correctAnswer": "B",
@@ -3798,11 +3798,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "8! � 4! 5!"
+          "text": "8! - 4! 5!"
         },
         {
           "letter": "B",
-          "text": "6 P3 � 5!"
+          "text": "6 P3 - 5!"
         },
         {
           "letter": "C",
@@ -3854,11 +3854,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "(n � 2) (n � 1)! (b) n n!"
+          "text": "(n - 2) (n - 1)! (b) n n!"
         },
         {
           "letter": "B",
-          "text": "(n � 2) (n � 2)! (d) None"
+          "text": "(n - 2) (n - 2)! (d) None"
         },
         {
           "letter": "C",
@@ -4106,15 +4106,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "5!�8!�4!�6!"
+          "text": "5!-8!-4!-6!"
         },
         {
           "letter": "B",
-          "text": "5!�4!2 �6!3"
+          "text": "5!-4!2 -6!3"
         },
         {
           "letter": "C",
-          "text": "5!�8!�4!2 �6!3 (c) 5!�8!�4!�6!2"
+          "text": "5!-8!-4!2 -6!3 (c) 5!-8!-4!-6!2"
         },
         {
           "letter": "D",
@@ -4946,15 +4946,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "10 C6 � 4 C3"
+          "text": "10 C6 - 4 C3"
         },
         {
           "letter": "B",
-          "text": "10 C6 � 4 C3 �9!"
+          "text": "10 C6 - 4 C3 -9!"
         },
         {
           "letter": "C",
-          "text": "10 C6 � 4 C3�10!"
+          "text": "10 C6 - 4 C3-10!"
         },
         {
           "letter": "D",
@@ -4974,11 +4974,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "3 C1�4!2"
+          "text": "3 C1-4!2"
         },
         {
           "letter": "B",
-          "text": "3 C1�4!"
+          "text": "3 C1-4!"
         },
         {
           "letter": "C",
@@ -5202,7 +5202,7 @@
         },
         {
           "letter": "B",
-          "text": "�2"
+          "text": "-2"
         },
         {
           "letter": "C",
@@ -5222,7 +5222,7 @@
       "canonicalNodeCode": "FND_P3_CH5",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If n C6 � n-2 C3 = 91 then the value of n is __________ 4",
+      "questionText": "If n C6 - n-2 C3 = 91 then the value of n is __________ 4",
       "options": [
         {
           "letter": "A",
@@ -5366,15 +5366,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "10 C2 � 20 C3"
+          "text": "10 C2 - 20 C3"
         },
         {
           "letter": "B",
-          "text": "9 C1� 20 C3"
+          "text": "9 C1- 20 C3"
         },
         {
           "letter": "C",
-          "text": "10 C2 �19 C3"
+          "text": "10 C2 -19 C3"
         },
         {
           "letter": "D",
@@ -5394,15 +5394,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "10 C2 � 20 C3"
+          "text": "10 C2 - 20 C3"
         },
         {
           "letter": "B",
-          "text": "9 C1� 20 C3"
+          "text": "9 C1- 20 C3"
         },
         {
           "letter": "C",
-          "text": "10 C2 �19 C3"
+          "text": "10 C2 -19 C3"
         },
         {
           "letter": "D",
@@ -5422,15 +5422,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "10 C2 � 20 C3"
+          "text": "10 C2 - 20 C3"
         },
         {
           "letter": "B",
-          "text": "9 C1� 20 C3"
+          "text": "9 C1- 20 C3"
         },
         {
           "letter": "C",
-          "text": "10 C2 �19 C3"
+          "text": "10 C2 -19 C3"
         },
         {
           "letter": "D",
@@ -5898,7 +5898,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "2�82"
+          "text": "2-82"
         },
         {
           "letter": "B",
@@ -5930,7 +5930,7 @@
         },
         {
           "letter": "B",
-          "text": "2n � 1"
+          "text": "2n - 1"
         },
         {
           "letter": "C",
@@ -5950,15 +5950,15 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The nth element of the sequence �1, 2, �4, 8 ..... is",
+      "questionText": "The nth element of the sequence -1, 2, -4, 8 ..... is",
       "options": [
         {
           "letter": "A",
-          "text": "( �1 )n2 n�1"
+          "text": "( -1 )n2 n-1"
         },
         {
           "letter": "B",
-          "text": "2 n�1"
+          "text": "2 n-1"
         },
         {
           "letter": "C",
@@ -6006,7 +6006,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum to of the series �5, 25, �125 , 625, ..... can be written as",
+      "questionText": "The sum to of the series -5, 25, -125 , 625, ..... can be written as",
       "options": [
         {
           "letter": "A",
@@ -6034,11 +6034,11 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The first three terms of sequence when nth term tn is n2 � 2n are",
+      "questionText": "The first three terms of sequence when nth term tn is n2 - 2n are",
       "options": [
         {
           "letter": "A",
-          "text": "�1, 0, 3"
+          "text": "-1, 0, 3"
         },
         {
           "letter": "B",
@@ -6046,7 +6046,7 @@
         },
         {
           "letter": "C",
-          "text": "�1, 0, �3"
+          "text": "-1, 0, -3"
         },
         {
           "letter": "D",
@@ -6062,7 +6062,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "Which term of the progression �1, �3, �5, .... is �39",
+      "questionText": "Which term of the progression -1, -3, -5, .... is -39",
       "options": [
         {
           "letter": "A",
@@ -6090,7 +6090,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The value of x such that 8x + 4, 6x � 2, 2x + 7 will form an AP is",
+      "questionText": "The value of x such that 8x + 4, 6x - 2, 2x + 7 will form an AP is",
       "options": [
         {
           "letter": "A",
@@ -6126,7 +6126,7 @@
         },
         {
           "letter": "B",
-          "text": "n + m � 2r"
+          "text": "n + m - 2r"
         },
         {
           "letter": "C",
@@ -6134,7 +6134,7 @@
         },
         {
           "letter": "D",
-          "text": "m + n � r 21"
+          "text": "m + n - r 21"
         }
       ],
       "correctAnswer": "D",
@@ -6178,15 +6178,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "3n � 10"
+          "text": "3n - 10"
         },
         {
           "letter": "B",
-          "text": "10n � 2"
+          "text": "10n - 2"
         },
         {
           "letter": "C",
-          "text": "10n � 3"
+          "text": "10n - 3"
         },
         {
           "letter": "D",
@@ -6290,7 +6290,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "�18,900"
+          "text": "-18,900"
         },
         {
           "letter": "B",
@@ -6314,7 +6314,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The two arithmetic means between �6 and 14 is",
+      "questionText": "The two arithmetic means between -6 and 14 is",
       "options": [
         {
           "letter": "A",
@@ -6326,7 +6326,7 @@
         },
         {
           "letter": "C",
-          "text": "� 2/3, �7 1"
+          "text": "- 2/3, -7 1"
         },
         {
           "letter": "D",
@@ -6426,7 +6426,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The pth term of an AP is (3p � 1)/6. The sum of the first n terms of the AP is",
+      "questionText": "The pth term of an AP is (3p - 1)/6. The sum of the first n terms of the AP is",
       "options": [
         {
           "letter": "A",
@@ -6438,7 +6438,7 @@
         },
         {
           "letter": "C",
-          "text": "n/12 (3n � 1)"
+          "text": "n/12 (3n - 1)"
         },
         {
           "letter": "D",
@@ -6482,7 +6482,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The 4 arithmetic means between �2 and 23 are",
+      "questionText": "The 4 arithmetic means between -2 and 23 are",
       "options": [
         {
           "letter": "A",
@@ -6538,7 +6538,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum of a certain number of terms of an AP series �8, �6, �4, ...... is 52. The number of terms is",
+      "questionText": "The sum of a certain number of terms of an AP series -8, -6, -4, ...... is 52. The number of terms is",
       "options": [
         {
           "letter": "A",
@@ -6566,7 +6566,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The first and the last term of an AP are �4 and 146. The sum of the terms is 7171. The number of terms is",
+      "questionText": "The first and the last term of an AP are -4 and 146. The sum of the terms is 7171. The number of terms is",
       "options": [
         {
           "letter": "A",
@@ -6594,7 +6594,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum of the series 3 � + 7 + 10 � + 14 + .... to 17 terms is",
+      "questionText": "The sum of the series 3 - + 7 + 10 - + 14 + .... to 17 terms is",
       "options": [
         {
           "letter": "A",
@@ -6606,7 +6606,7 @@
         },
         {
           "letter": "C",
-          "text": "535 �"
+          "text": "535 -"
         },
         {
           "letter": "D",
@@ -6678,7 +6678,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "t12 of the series �128, 64, �32, ....is",
+      "questionText": "t12 of the series -128, 64, -32, ....is",
       "options": [
         {
           "letter": "A",
@@ -6690,7 +6690,7 @@
         },
         {
           "letter": "C",
-          "text": "� 1/16"
+          "text": "- 1/16"
         },
         {
           "letter": "D",
@@ -6762,7 +6762,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The last term of the series 1, �3, 9, �27 up to 7 terms is",
+      "questionText": "The last term of the series 1, -3, 9, -27 up to 7 terms is",
       "options": [
         {
           "letter": "A",
@@ -6818,11 +6818,11 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum of the series �2, 6, �18, .... to 7 terms is",
+      "questionText": "The sum of the series -2, 6, -18, .... to 7 terms is",
       "options": [
         {
           "letter": "A",
-          "text": "�1094"
+          "text": "-1094"
         },
         {
           "letter": "B",
@@ -6830,7 +6830,7 @@
         },
         {
           "letter": "C",
-          "text": "� 1049"
+          "text": "- 1049"
         },
         {
           "letter": "D",
@@ -6990,15 +6990,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "` 163"
+          "text": "₹163"
         },
         {
           "letter": "B",
-          "text": "` 183"
+          "text": "₹183"
         },
         {
           "letter": "C",
-          "text": "` 163.83"
+          "text": "₹163.83"
         },
         {
           "letter": "D",
@@ -7018,15 +7018,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "4/9 { 10/9 ( 10n �1 ) �n }"
+          "text": "4/9 { 10/9 ( 10n -1 ) -n }"
         },
         {
           "letter": "B",
-          "text": "10/9 ( 10n �1 ) �n"
+          "text": "10/9 ( 10n -1 ) -n"
         },
         {
           "letter": "C",
-          "text": "4/9 ( 10n �1 ) �n"
+          "text": "4/9 ( 10n -1 ) -n"
         },
         {
           "letter": "D",
@@ -7046,15 +7046,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "1/9 {n � ( 1� ( 0.1 )n )}"
+          "text": "1/9 {n - ( 1- ( 0.1 )n )}"
         },
         {
           "letter": "B",
-          "text": "1/9 {n � (1�(0.1)n)/9}"
+          "text": "1/9 {n - (1-(0.1)n)/9}"
         },
         {
           "letter": "C",
-          "text": "n� 1 � (0.1)n/9"
+          "text": "n- 1 - (0.1)n/9"
         },
         {
           "letter": "D",
@@ -7074,11 +7074,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "� 3"
+          "text": "- 3"
         },
         {
           "letter": "B",
-          "text": "�3"
+          "text": "-3"
         },
         {
           "letter": "C",
@@ -7158,15 +7158,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "2n �1"
+          "text": "2n -1"
         },
         {
           "letter": "B",
-          "text": "2n � 1"
+          "text": "2n - 1"
         },
         {
           "letter": "C",
-          "text": "1/2n � 1"
+          "text": "1/2n - 1"
         },
         {
           "letter": "D",
@@ -7182,7 +7182,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum of the infinite GP 14, � 2, + 2/7, � 2/49, + ... is",
+      "questionText": "The sum of the infinite GP 14, - 2, + 2/7, - 2/49, + ... is",
       "options": [
         {
           "letter": "A",
@@ -7274,7 +7274,7 @@
         },
         {
           "letter": "B",
-          "text": "12, 36, 108, 324 (b) 12, 24, 108, 320 (c) 10, 36, 108, 320 ILLUSTRATIONS: (I) A person is employed in a company at ` 3000 per month and he would get an increase of ` 100 per year. Find the total amount which he receives in 25 years and the monthly salary in the last year. SOLUTION: He gets in the 1st year at the Rate of 3000 per month; In the 2nd year he gets at the rate of ` 3100 per month; In the 3rd year at the rate of ` 3200 per month so on. In the last year the monthly salary will be ` {3000 + ( 25 � 1 ) � 100} = ` 5400 n Total amount = ` 12 (3000 + 3100 + 3200 +... + 5400) Use Sn = 2 (a+l) = ` 12 � 25/2 (3000 + 5400) = ` 150 � 8400 = ` 12,60,000 (II) A person borrows ` 8,000 at 2.76% Simple Interest per annum. The principal and the interest are to be paid in the 10 monthly instalments. If each instalment is double the preceding one, find the value of the first and the last instalment. SOLUTION: Interest to be paid = 2.76 � 10 � 8000 / 100 � 12 = ` 184 Total amount to be paid in 10 monthly instalment is ` (8000 + 184) = ` 8184 The instalments form a G P with common ratio 2 and so ` 8184 = a (210 � 1 ) / ( 2 � 1 ), a = 1st instalment Here a = ` 8184 / 1023 = ` 8 The last instalment = ar 10--1 = 8 � 29 = 8 � 512 = ` 4096 Sequence: An ordered collection of numbers a1, a2, a3, a4, ................., an, ................. is a sequence if according to some definite rule or law, there is a definite value of an , called the term or element of the sequence, corresponding to any value of the natural number n. An expression of the form a1 + a2 + a3 + ..... + an + ............................ which is the sum of the elements of the sequence { an } is called a series. If the series contains a finite number of elements, it is called a finite series, otherwise called an infinite series. Arithmetic Progression: A sequence a1, a2 ,a3, ......, an is called an Arithmetic Progression (A.P.) when a2 � a1 = a3 � a2 = ..... = an � an�1. That means A. P. is a sequence in which each term is obtained by adding a constant d to the preceding term. This constant `d' is called the common difference of the A.P. If 3 numbers a, b, c are in A.P., we say b � a = c � b or a + c = 2b; b is called the arithmetic mean between a and c. nth term ( tn ) = a + ( n � 1 ) d, Where a = First Term d = Common difference= tn- tn-1 Sum of n terms of AP= s = n 2a +(n - 1)d 2 Sum of the first n terms : Sum of 1st n natural or counting numbers S = n( n + 1 )/2 Sum of 1st n odd numbers : S = n2 Sum of the Squares of the first, n natural numbers = n(n + 1) (2n + 1) 6 sum of the cubes of the first n natural numbers is n(n + 1) 2 2 Geometric Progression (G.P). If in a sequence of terms each term is constant multiple of the proceeding term, then the sequence is called a Geometric Progression (G.P). The constant multiplier is called the common ratio = Any term = t n Preceding term t n-1 = ar n�1/ar n�2 = r Sum of first n terms of a G P: Sn = a ( 1 � rn) / ( 1 � r ) when r < 1 Sn = a ( rn � 1 ) / ( r � 1 ) when r > 1 Sum of infinite geometric series S a r<1 =, 1�r A.M. of a & b is = ( a + b ) /2 If a, b, c are in G.P we get b/a = c/b => b2= ac, b is called the geometric mean between a and c Choose the most appropriate option (a), (b), (c) or (d)."
+          "text": "12, 36, 108, 324 (b) 12, 24, 108, 320 (c) 10, 36, 108, 320 ILLUSTRATIONS: (I) A person is employed in a company at ₹3000 per month and he would get an increase of ₹100 per year. Find the total amount which he receives in 25 years and the monthly salary in the last year. SOLUTION: He gets in the 1st year at the Rate of 3000 per month; In the 2nd year he gets at the rate of ₹3100 per month; In the 3rd year at the rate of ₹3200 per month so on. In the last year the monthly salary will be ` {3000 + ( 25 - 1 ) - 100} = ₹5400 n Total amount = ₹12 (3000 + 3100 + 3200 +... + 5400) Use Sn = 2 (a+l) = ₹12 - 25/2 (3000 + 5400) = ₹150 - 8400 = ₹12,60,000 (II) A person borrows ₹8,000 at 2.76% Simple Interest per annum. The principal and the interest are to be paid in the 10 monthly instalments. If each instalment is double the preceding one, find the value of the first and the last instalment. SOLUTION: Interest to be paid = 2.76 - 10 - 8000 / 100 - 12 = ₹184 Total amount to be paid in 10 monthly instalment is ` (8000 + 184) = ₹8184 The instalments form a G P with common ratio 2 and so ₹8184 = a (210 - 1 ) / ( 2 - 1 ), a = 1st instalment Here a = ₹8184 / 1023 = ₹8 The last instalment = ar 10--1 = 8 - 29 = 8 - 512 = ₹4096 Sequence: An ordered collection of numbers a1, a2, a3, a4, ................., an, ................. is a sequence if according to some definite rule or law, there is a definite value of an , called the term or element of the sequence, corresponding to any value of the natural number n. An expression of the form a1 + a2 + a3 + ..... + an + ............................ which is the sum of the elements of the sequence { an } is called a series. If the series contains a finite number of elements, it is called a finite series, otherwise called an infinite series. Arithmetic Progression: A sequence a1, a2 ,a3, ......, an is called an Arithmetic Progression (A.P.) when a2 - a1 = a3 - a2 = ..... = an - an-1. That means A. P. is a sequence in which each term is obtained by adding a constant d to the preceding term. This constant `d' is called the common difference of the A.P. If 3 numbers a, b, c are in A.P., we say b - a = c - b or a + c = 2b; b is called the arithmetic mean between a and c. nth term ( tn ) = a + ( n - 1 ) d, Where a = First Term d = Common difference= tn- tn-1 Sum of n terms of AP= s = n 2a +(n - 1)d 2 Sum of the first n terms : Sum of 1st n natural or counting numbers S = n( n + 1 )/2 Sum of 1st n odd numbers : S = n2 Sum of the Squares of the first, n natural numbers = n(n + 1) (2n + 1) 6 sum of the cubes of the first n natural numbers is n(n + 1) 2 2 Geometric Progression (G.P). If in a sequence of terms each term is constant multiple of the proceeding term, then the sequence is called a Geometric Progression (G.P). The constant multiplier is called the common ratio = Any term = t n Preceding term t n-1 = ar n-1/ar n-2 = r Sum of first n terms of a G P: Sn = a ( 1 - rn) / ( 1 - r ) when r < 1 Sn = a ( rn - 1 ) / ( r - 1 ) when r > 1 Sum of infinite geometric series S a r<1 =, 1-r A.M. of a & b is = ( a + b ) /2 If a, b, c are in G.P we get b/a = c/b => b2= ac, b is called the geometric mean between a and c Choose the most appropriate option (a), (b), (c) or (d)."
         },
         {
           "letter": "C",
@@ -7322,7 +7322,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum of 1 + 1/3 + 1/32 + 1/33 + ... + 1/3 n �1 is",
+      "questionText": "The sum of 1 + 1/3 + 1/32 + 1/33 + ... + 1/3 n -1 is",
       "options": [
         {
           "letter": "A",
@@ -7390,7 +7390,7 @@
         },
         {
           "letter": "C",
-          "text": "� 2/3"
+          "text": "- 2/3"
         },
         {
           "letter": "D",
@@ -7406,7 +7406,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If p, q and r are in A.P. and x, y, z are in G.P. then xq�r. y r�p. zp�q is equal to",
+      "questionText": "If p, q and r are in A.P. and x, y, z are in G.P. then xq-r. y r-p. zp-q is equal to",
       "options": [
         {
           "letter": "A",
@@ -7414,7 +7414,7 @@
         },
         {
           "letter": "B",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "C",
@@ -7466,7 +7466,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "26, 5, �16"
+          "text": "26, 5, -16"
         },
         {
           "letter": "B",
@@ -7658,19 +7658,19 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "A sum of ` 6240 is paid off in 30 instalments such that each instalment is ` 10 more than the preceeding installment. The value of the 1st instalment is",
+      "questionText": "A sum of ₹6240 is paid off in 30 instalments such that each instalment is ₹10 more than the preceeding installment. The value of the 1st instalment is",
       "options": [
         {
           "letter": "A",
-          "text": "` 36"
+          "text": "₹36"
         },
         {
           "letter": "B",
-          "text": "` 30"
+          "text": "₹30"
         },
         {
           "letter": "C",
-          "text": "` 60"
+          "text": "₹60"
         },
         {
           "letter": "D",
@@ -7690,11 +7690,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "103 {(1.03)n � 1}"
+          "text": "103 {(1.03)n - 1}"
         },
         {
           "letter": "B",
-          "text": "103/3 {(1.03 )n � 1} (c) (1.03)n �1"
+          "text": "103/3 {(1.03 )n - 1} (c) (1.03)n -1"
         },
         {
           "letter": "C",
@@ -7718,15 +7718,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "(x � z)2 = 4x"
+          "text": "(x - z)2 = 4x"
         },
         {
           "letter": "B",
-          "text": "z2 = (x � y)"
+          "text": "z2 = (x - y)"
         },
         {
           "letter": "C",
-          "text": "z = x � y"
+          "text": "z = x - y"
         },
         {
           "letter": "D",
@@ -7742,11 +7742,11 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The numbers x, 8, y are in G.P. and the numbers x, y, �8 are in A.P. The value of x and y are",
+      "questionText": "The numbers x, 8, y are in G.P. and the numbers x, y, -8 are in A.P. The value of x and y are",
       "options": [
         {
           "letter": "A",
-          "text": "(�8, �8)"
+          "text": "(-8, -8)"
         },
         {
           "letter": "B",
@@ -7994,7 +7994,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "A person pays ` 975 by monthly instalment each less then the former by ` 5. The first instalment is ` 100. The time by which the entire amount will be paid is",
+      "questionText": "A person pays ₹975 by monthly instalment each less then the former by ₹5. The first instalment is ₹100. The time by which the entire amount will be paid is",
       "options": [
         {
           "letter": "A",
@@ -8022,19 +8022,19 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "A person saved ` 16,500 in ten years. In each year after the first year he saved ` 100 more than he did in the preceding year. The amount of money he saved in the 1st year was",
+      "questionText": "A person saved ₹16,500 in ten years. In each year after the first year he saved ₹100 more than he did in the preceding year. The amount of money he saved in the 1st year was",
       "options": [
         {
           "letter": "A",
-          "text": "` 1000"
+          "text": "₹1000"
         },
         {
           "letter": "B",
-          "text": "` 1500"
+          "text": "₹1500"
         },
         {
           "letter": "C",
-          "text": "` 1200"
+          "text": "₹1200"
         },
         {
           "letter": "D",
@@ -8050,23 +8050,23 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "At 10% C.I. p.a., a sum of money accumulate to ` 9625 in 5 years. The sum invested initially is",
+      "questionText": "At 10% C.I. p.a., a sum of money accumulate to ₹9625 in 5 years. The sum invested initially is",
       "options": [
         {
           "letter": "A",
-          "text": "` 5976.37"
+          "text": "₹5976.37"
         },
         {
           "letter": "B",
-          "text": "` 5970"
+          "text": "₹5970"
         },
         {
           "letter": "C",
-          "text": "` 5975"
+          "text": "₹5975"
         },
         {
           "letter": "D",
-          "text": "` 5370.96"
+          "text": "₹5370.96"
         }
       ],
       "correctAnswer": "A",
@@ -8106,7 +8106,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If a, b, c are in A.P. as well as in G.P. then �",
+      "questionText": "If a, b, c are in A.P. as well as in G.P. then -",
       "options": [
         {
           "letter": "A",
@@ -8146,7 +8146,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -8166,11 +8166,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "p � q � r"
+          "text": "p - q - r"
         },
         {
           "letter": "B",
-          "text": "p + q � r"
+          "text": "p + q - r"
         },
         {
           "letter": "C",
@@ -8202,7 +8202,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -8226,7 +8226,7 @@
         },
         {
           "letter": "B",
-          "text": "(n/6)(n+1)(2n+1) (c) [(n/2)(n+1)]� (d) None"
+          "text": "(n/6)(n+1)(2n+1) (c) [(n/2)(n+1)]- (d) None"
         },
         {
           "letter": "C",
@@ -8254,7 +8254,7 @@
         },
         {
           "letter": "B",
-          "text": "(n/6)(n+1)(2n+1) (c) [(n/2)(n+1)]� (d) None"
+          "text": "(n/6)(n+1)(2n+1) (c) [(n/2)(n+1)]- (d) None"
         },
         {
           "letter": "C",
@@ -8282,7 +8282,7 @@
         },
         {
           "letter": "B",
-          "text": "(n/6)(n+1)(2n+1) (c) [(n/2)(n+1)]� (d) None"
+          "text": "(n/6)(n+1)(2n+1) (c) [(n/2)(n+1)]- (d) None"
         },
         {
           "letter": "C",
@@ -8302,7 +8302,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum of a series in A.P. is 72 the first term is 17 and the common difference �2. the number of terms is __________.",
+      "questionText": "The sum of a series in A.P. is 72 the first term is 17 and the common difference -2. the number of terms is __________.",
       "options": [
         {
           "letter": "A",
@@ -8334,15 +8334,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "�(n�1)"
+          "text": "-(n-1)"
         },
         {
           "letter": "B",
-          "text": "�(n+1)"
+          "text": "-(n+1)"
         },
         {
           "letter": "C",
-          "text": "(n�1)"
+          "text": "(n-1)"
         },
         {
           "letter": "D",
@@ -8454,7 +8454,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -8470,7 +8470,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If S1 , S2 , S3 be the respectively the sum of terms of n, 2n, 3n an A.P. the value of S3 �(S2 -S1) is given by ______.",
+      "questionText": "If S1 , S2 , S3 be the respectively the sum of terms of n, 2n, 3n an A.P. the value of S3 -(S2 -S1) is given by ______.",
       "options": [
         {
           "letter": "A",
@@ -8526,15 +8526,15 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "Find three numbers in A.P. whose sum is 6 and the product is �24",
+      "questionText": "Find three numbers in A.P. whose sum is 6 and the product is -24",
       "options": [
         {
           "letter": "A",
-          "text": "�2, 2, 6"
+          "text": "-2, 2, 6"
         },
         {
           "letter": "B",
-          "text": "�1, 1, 3"
+          "text": "-1, 1, 3"
         },
         {
           "letter": "C",
@@ -8558,11 +8558,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "�2, 2, 6"
+          "text": "-2, 2, 6"
         },
         {
           "letter": "B",
-          "text": "�1, 1, 3"
+          "text": "-1, 1, 3"
         },
         {
           "letter": "C",
@@ -8586,11 +8586,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "�2, 2, 6"
+          "text": "-2, 2, 6"
         },
         {
           "letter": "B",
-          "text": "�1, 1, 3"
+          "text": "-1, 1, 3"
         },
         {
           "letter": "C",
@@ -8618,7 +8618,7 @@
         },
         {
           "letter": "B",
-          "text": "�2, �2.25, �2.5, �2.75, �3"
+          "text": "-2, -2.25, -2.5, -2.75, -3"
         },
         {
           "letter": "C",
@@ -8626,7 +8626,7 @@
         },
         {
           "letter": "D",
-          "text": "�4, �4.5, �5, �5.5, �6"
+          "text": "-4, -4.5, -5, -5.5, -6"
         }
       ],
       "correctAnswer": "A",
@@ -8834,7 +8834,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If (b + c � a)/a, (c + a � b)/b, (a + b � c)/c are in A.P. then a, b, c are in __________.",
+      "questionText": "If (b + c - a)/a, (c + a - b)/b, (a + b - c)/c are in A.P. then a, b, c are in __________.",
       "options": [
         {
           "letter": "A",
@@ -8862,7 +8862,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If (b � c)2 , (c � a)2 , (a � b)2 are in A.P. then (b � c), (c � a), (a � b) are in _______.",
+      "questionText": "If (b - c)2 , (c - a)2 , (a - b)2 are in A.P. then (b - c), (c - a), (a - b) are in _______.",
       "options": [
         {
           "letter": "A",
@@ -8922,7 +8922,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "B",
@@ -9006,7 +9006,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "� (p + q)"
+          "text": "- (p + q)"
         },
         {
           "letter": "B",
@@ -9014,11 +9014,11 @@
         },
         {
           "letter": "C",
-          "text": "(p � q)2"
+          "text": "(p - q)2"
         },
         {
           "letter": "D",
-          "text": "p2 � q2"
+          "text": "p2 - q2"
         }
       ],
       "correctAnswer": "A",
@@ -9042,7 +9042,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -9258,11 +9258,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "a2 � 3b2 +3c2 � d2 =0"
+          "text": "a2 - 3b2 +3c2 - d2 =0"
         },
         {
           "letter": "B",
-          "text": "a2 +3b2 +3c2 +d2 =0 (c) a2 + 3b2 + 3c2 � d2 =0 (d) None"
+          "text": "a2 +3b2 +3c2 +d2 =0 (c) a2 + 3b2 + 3c2 - d2 =0 (d) None"
         },
         {
           "letter": "C",
@@ -9286,15 +9286,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "a � b � d + e = 0"
+          "text": "a - b - d + e = 0"
         },
         {
           "letter": "B",
-          "text": "a � 2c + e = 0"
+          "text": "a - 2c + e = 0"
         },
         {
           "letter": "C",
-          "text": "b � 2c + d = 0 (d) all the above"
+          "text": "b - 2c + d = 0 (d) all the above"
         },
         {
           "letter": "D",
@@ -9318,7 +9318,7 @@
         },
         {
           "letter": "B",
-          "text": "�4, �6, �8"
+          "text": "-4, -6, -8"
         },
         {
           "letter": "C",
@@ -9346,7 +9346,7 @@
         },
         {
           "letter": "B",
-          "text": "16, 9, 2 (C) both (a) and (b) (d) �2, �9, �16"
+          "text": "16, 9, 2 (C) both (a) and (b) (d) -2, -9, -16"
         },
         {
           "letter": "C",
@@ -9462,11 +9462,11 @@
         },
         {
           "letter": "C",
-          "text": "�3, �4, �5, �6, �7"
+          "text": "-3, -4, -5, -6, -7"
         },
         {
           "letter": "D",
-          "text": "�3, �3.5, �4, �4.5, �5"
+          "text": "-3, -3.5, -4, -4.5, -5"
         }
       ],
       "correctAnswer": "D",
@@ -9490,11 +9490,11 @@
         },
         {
           "letter": "C",
-          "text": "�3, �4, �5, �6, �7"
+          "text": "-3, -4, -5, -6, -7"
         },
         {
           "letter": "D",
-          "text": "�3, �3.5, �4, �4.5, �5"
+          "text": "-3, -3.5, -4, -4.5, -5"
         }
       ],
       "correctAnswer": "D",
@@ -9518,7 +9518,7 @@
         },
         {
           "letter": "C",
-          "text": "n(n�1)"
+          "text": "n(n-1)"
         },
         {
           "letter": "D",
@@ -9534,11 +9534,11 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum of n terms of a+b, 2a, 3a�b, ..... is",
+      "questionText": "The sum of n terms of a+b, 2a, 3a-b, ..... is",
       "options": [
         {
           "letter": "A",
-          "text": "n(a�b)+2b"
+          "text": "n(a-b)+2b"
         },
         {
           "letter": "B",
@@ -9562,15 +9562,15 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum of n terms of (x + y)�, (x� + y�), (x � y)�,...... is",
+      "questionText": "The sum of n terms of (x + y)-, (x- + y-), (x - y)-,...... is",
       "options": [
         {
           "letter": "A",
-          "text": "(x + y)� �2(n � 1)xy"
+          "text": "(x + y)- -2(n - 1)xy"
         },
         {
           "letter": "B",
-          "text": "n(x + y)� � n(n � 1)xy (c) both the above (d) None"
+          "text": "n(x + y)- - n(n - 1)xy (c) both the above (d) None"
         },
         {
           "letter": "C",
@@ -9590,7 +9590,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum of n terms of (1/n)(n�1), (1/n) (n�2), (1/n) (n�3)....... is",
+      "questionText": "The sum of n terms of (1/n)(n-1), (1/n) (n-2), (1/n) (n-3)....... is",
       "options": [
         {
           "letter": "A",
@@ -9598,7 +9598,7 @@
         },
         {
           "letter": "B",
-          "text": "(1/2)(n�1)"
+          "text": "(1/2)(n-1)"
         },
         {
           "letter": "C",
@@ -9622,15 +9622,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "(n/2)(4n�+5n�1)"
+          "text": "(n/2)(4n-+5n-1)"
         },
         {
           "letter": "B",
-          "text": "n(4n�+5n�1)"
+          "text": "n(4n-+5n-1)"
         },
         {
           "letter": "C",
-          "text": "(n/2)(4n��5n�1) (d) None"
+          "text": "(n/2)(4n--5n-1) (d) None"
         },
         {
           "letter": "D",
@@ -9646,19 +9646,19 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum of n terms of 1�, 3�, 5�, 7�,.......is",
+      "questionText": "The sum of n terms of 1-, 3-, 5-, 7-,.......is",
       "options": [
         {
           "letter": "A",
-          "text": "(n/3)(4n� �1)"
+          "text": "(n/3)(4n- -1)"
         },
         {
           "letter": "B",
-          "text": "(n/2)(4n� �1)"
+          "text": "(n/2)(4n- -1)"
         },
         {
           "letter": "C",
-          "text": "(n/3)(4n� +1) (d) None"
+          "text": "(n/3)(4n- +1) (d) None"
         },
         {
           "letter": "D",
@@ -9678,7 +9678,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "(n/3)(n+1)(n�2)"
+          "text": "(n/3)(n+1)(n-2)"
         },
         {
           "letter": "B",
@@ -9702,19 +9702,19 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum of n terms of the series 1�/1+(1�+2�)/2+(1�+2�+3�)/3+.......is",
+      "questionText": "The sum of n terms of the series 1-/1+(1-+2-)/2+(1-+2-+3-)/3+.......is",
       "options": [
         {
           "letter": "A",
-          "text": "(n/36)(4n� +15n+17)"
+          "text": "(n/36)(4n- +15n+17)"
         },
         {
           "letter": "B",
-          "text": "(n/12)(4n�+15n+17)"
+          "text": "(n/12)(4n-+15n+17)"
         },
         {
           "letter": "C",
-          "text": "(n/12)(4n� +15n+17)"
+          "text": "(n/12)(4n- +15n+17)"
         },
         {
           "letter": "D",
@@ -9734,19 +9734,19 @@
       "options": [
         {
           "letter": "A",
-          "text": "2n(n�+6n�+11n+6)"
+          "text": "2n(n-+6n-+11n+6)"
         },
         {
           "letter": "B",
-          "text": "2n(n��6n�+11n�6)"
+          "text": "2n(n--6n-+11n-6)"
         },
         {
           "letter": "C",
-          "text": "n(n�+6n�+11n+6)"
+          "text": "n(n-+6n-+11n+6)"
         },
         {
           "letter": "D",
-          "text": "n(n�+6n�+11n� 6)"
+          "text": "n(n-+6n-+11n- 6)"
         }
       ],
       "correctAnswer": "A",
@@ -9762,15 +9762,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "(n/12)(n+1)(9n�+49n+44)�8n"
+          "text": "(n/12)(n+1)(9n-+49n+44)-8n"
         },
         {
           "letter": "B",
-          "text": "(n/12)(n+1)(9n�+49n+44)+8n"
+          "text": "(n/12)(n+1)(9n-+49n+44)+8n"
         },
         {
           "letter": "C",
-          "text": "(n/6)(2n+1)(9n�+49n+44)�8n"
+          "text": "(n/6)(2n+1)(9n-+49n+44)-8n"
         },
         {
           "letter": "D",
@@ -9790,7 +9790,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "(n/6)(n�+3n+20)"
+          "text": "(n/6)(n-+3n+20)"
         },
         {
           "letter": "B",
@@ -9818,7 +9818,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "3n+1+5n�3"
+          "text": "3n+1+5n-3"
         },
         {
           "letter": "B",
@@ -9826,7 +9826,7 @@
         },
         {
           "letter": "C",
-          "text": "3n+5n�3"
+          "text": "3n+5n-3"
         },
         {
           "letter": "D",
@@ -9846,7 +9846,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "(n/4)(5n+4)�1"
+          "text": "(n/4)(5n+4)-1"
         },
         {
           "letter": "B",
@@ -9854,7 +9854,7 @@
         },
         {
           "letter": "C",
-          "text": "(n/4)(5n�4)�1 (d) None"
+          "text": "(n/4)(5n-4)-1 (d) None"
         },
         {
           "letter": "D",
@@ -9934,7 +9934,7 @@
         },
         {
           "letter": "B",
-          "text": "(n/2)(n+1)(n+2) (c) (n/3)(n+1)(n� 2)(D) None"
+          "text": "(n/2)(n+1)(n+2) (c) (n/3)(n+1)(n- 2)(D) None"
         },
         {
           "letter": "C",
@@ -9982,15 +9982,15 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum of n terms of the series 1.2+3.2�+5.2�+7.24+....... is",
+      "questionText": "The sum of n terms of the series 1.2+3.2-+5.2-+7.24+....... is",
       "options": [
         {
           "letter": "A",
-          "text": "(n�1)2n+2�2n+1 +6"
+          "text": "(n-1)2n+2-2n+1 +6"
         },
         {
           "letter": "B",
-          "text": "(n+1)2n+2�2n+1 +6 (c) (n�1)2n+2�2n+1 �6 (d) None"
+          "text": "(n+1)2n+2-2n+1 +6 (c) (n-1)2n+2-2n+1 -6 (d) None"
         },
         {
           "letter": "C",
@@ -10014,15 +10014,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "(n/3)(5n+3)�1"
+          "text": "(n/3)(5n+3)-1"
         },
         {
           "letter": "B",
-          "text": "(n/2)(5n+3)�1"
+          "text": "(n/2)(5n+3)-1"
         },
         {
           "letter": "C",
-          "text": "(n/2)(5n�3)�1"
+          "text": "(n/2)(5n-3)-1"
         },
         {
           "letter": "D",
@@ -10042,7 +10042,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "2n( n+1)�1"
+          "text": "2n( n+1)-1"
         },
         {
           "letter": "B",
@@ -10050,7 +10050,7 @@
         },
         {
           "letter": "C",
-          "text": "2n(n�1)�1"
+          "text": "2n(n-1)-1"
         },
         {
           "letter": "D",
@@ -10070,11 +10070,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "(n/2)(6n2+3n�1)"
+          "text": "(n/2)(6n2+3n-1)"
         },
         {
           "letter": "B",
-          "text": "(n/2)(6n2�3n�1)"
+          "text": "(n/2)(6n2-3n-1)"
         },
         {
           "letter": "C",
@@ -10098,7 +10098,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "n (4n2 � 1)"
+          "text": "n (4n2 - 1)"
         },
         {
           "letter": "B",
@@ -10106,7 +10106,7 @@
         },
         {
           "letter": "C",
-          "text": "n(2n�1)"
+          "text": "n(2n-1)"
         },
         {
           "letter": "D",
@@ -10130,7 +10130,7 @@
         },
         {
           "letter": "B",
-          "text": "(n/2)(5n2+4n�1) 3"
+          "text": "(n/2)(5n2+4n-1) 3"
         },
         {
           "letter": "C",
@@ -10690,7 +10690,7 @@
         },
         {
           "letter": "B",
-          "text": "4 � 8 + 16 � 32 + ........"
+          "text": "4 - 8 + 16 - 32 + ........"
         },
         {
           "letter": "C",
@@ -10718,7 +10718,7 @@
         },
         {
           "letter": "B",
-          "text": "26, 5, �16"
+          "text": "26, 5, -16"
         },
         {
           "letter": "C",
@@ -10750,7 +10750,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -10778,7 +10778,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -10794,7 +10794,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If a, b, c are in A.P. and x, y, z in G.P. then the value of (xb.yc .za )�(xc .ya .zb ) is ____",
+      "questionText": "If a, b, c are in A.P. and x, y, z in G.P. then the value of (xb.yc .za )-(xc .ya .zb ) is ____",
       "options": [
         {
           "letter": "A",
@@ -10806,7 +10806,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -11058,7 +11058,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -11086,7 +11086,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -11114,7 +11114,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -11226,7 +11226,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -11254,7 +11254,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -11282,7 +11282,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -11338,7 +11338,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -11366,7 +11366,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -11410,7 +11410,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If x = a + a/r + a/r2 + ..... y = b � b/r + b/r2 � ..... and z = c + c/r2 + c/r4 + ..... then the value of xy ab is zc",
+      "questionText": "If x = a + a/r + a/r2 + ..... y = b - b/r + b/r2 - ..... and z = c + c/r2 + c/r4 + ..... then the value of xy ab is zc",
       "options": [
         {
           "letter": "A",
@@ -11422,7 +11422,7 @@
         },
         {
           "letter": "C",
-          "text": "�1"
+          "text": "-1"
         },
         {
           "letter": "D",
@@ -11494,7 +11494,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If a, b, (c+1) are in G.P. and a = (b�c) 2 then a, b, c are in",
+      "questionText": "If a, b, (c+1) are in G.P. and a = (b-c) 2 then a, b, c are in",
       "options": [
         {
           "letter": "A",
@@ -11550,11 +11550,11 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The G.P. whose 3rd and 6th terms are 1, �1/8 respectively is",
+      "questionText": "The G.P. whose 3rd and 6th terms are 1, -1/8 respectively is",
       "options": [
         {
           "letter": "A",
-          "text": "4, �2, 1 ....."
+          "text": "4, -2, 1 ....."
         },
         {
           "letter": "B",
@@ -11562,7 +11562,7 @@
         },
         {
           "letter": "C",
-          "text": "4, �1, 1/4 ........ (d) None"
+          "text": "4, -1, 1/4 ........ (d) None"
         },
         {
           "letter": "D",
@@ -11578,7 +11578,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "In a G.P. if the (p+ q)th term is m and the (p � q)th term is n then the pth term is_________.",
+      "questionText": "In a G.P. if the (p+ q)th term is m and the (p - q)th term is n then the pth term is_________.",
       "options": [
         {
           "letter": "A",
@@ -11634,7 +11634,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The sum of n terms of the series 5/2 � 1 + 2/5 � ...... is",
+      "questionText": "The sum of n terms of the series 5/2 - 1 + 2/5 - ...... is",
       "options": [
         {
           "letter": "A",
@@ -12090,7 +12090,7 @@
         },
         {
           "letter": "B",
-          "text": "1, �1/2, 1/4 ....... (c) �1, �1/2, �1/4 .... (d) None"
+          "text": "1, -1/2, 1/4 ....... (c) -1, -1/2, -1/4 .... (d) None"
         },
         {
           "letter": "C",
@@ -12118,7 +12118,7 @@
         },
         {
           "letter": "B",
-          "text": "1/4, �1/16, 1/64 ...(C) 1/4, 1/8, 1/16 .... (d) None"
+          "text": "1/4, -1/16, 1/64 ...(C) 1/4, 1/8, 1/16 .... (d) None"
         },
         {
           "letter": "C",
@@ -12278,7 +12278,7 @@
       "canonicalNodeCode": "FND_P3_CH6",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The numbers x, 8, y are in G.P. and the numbers x, y, �8 are in A.P. The values of x, y are ___________.",
+      "questionText": "The numbers x, 8, y are in G.P. and the numbers x, y, -8 are in A.P. The values of x, y are ___________.",
       "options": [
         {
           "letter": "A",

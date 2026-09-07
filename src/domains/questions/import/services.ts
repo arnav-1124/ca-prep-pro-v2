@@ -1081,6 +1081,7 @@ export async function publishApprovedQuestions(batchId: string, adminEmail: stri
             questionVersionId: qv.id,
             optionLetter: opt.letter.toUpperCase(),
             optionText: opt.text,
+            isCorrect: opt.letter.trim().toUpperCase() === effectivePayload.correctAnswer.trim().toUpperCase(),
           }))
         )
       );

@@ -168,7 +168,10 @@ export async function submitPracticeAnswer(
 
   // 6. Validate option choice against options belonging to this version
   const options = await db
-    .select({ optionLetter: questionOptions.optionLetter })
+    .select({
+      optionLetter: questionOptions.optionLetter,
+      isCorrect: questionOptions.isCorrect,
+    })
     .from(questionOptions)
     .where(eq(questionOptions.questionVersionId, version.id));
 
@@ -177,11 +180,15 @@ export async function submitPracticeAnswer(
     throw new Error("Question options could not be loaded for evaluation.");
   }
 
-  // 7. Deterministic grading
+  // 7. Deterministic grading (entity-joined correctness)
   const gradingResult = gradeAnswer({
     questionVersion: version,
     selectedAnswer: validated.selectedAnswer,
     validOptions,
+    optionEntities: options.map((o) => ({
+      letter: o.optionLetter,
+      isCorrect: o.isCorrect,
+    })),
   });
 
   // 8. Concurrency-safe attempt insertion

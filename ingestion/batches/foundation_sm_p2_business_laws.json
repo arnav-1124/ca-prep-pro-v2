@@ -462,7 +462,7 @@
       "canonicalNodeCode": "FND_P2_CH2_T1",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If A says to B \"I offer to sell my house to you for ` 40,00,000\" and B accepts the offer by saying clearly \"I accept your offer\", it is a/an",
+      "questionText": "If A says to B \"I offer to sell my house to you for ₹40,00,000\" and B accepts the offer by saying clearly \"I accept your offer\", it is a/an",
       "options": [
         {
           "letter": "A",
@@ -490,23 +490,23 @@
       "canonicalNodeCode": "FND_P2_CH2_T1",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "`A' offered a reward of ` 1,00,000 for recovery of some valuable missing articles. `B' who did not know of this offer, found the missing articles. Which one of the following is the correct solution to this problem?",
+      "questionText": "`A' offered a reward of ₹1,00,000 for recovery of some valuable missing articles. `B' who did not know of this offer, found the missing articles. Which one of the following is the correct solution to this problem?",
       "options": [
         {
           "letter": "A",
-          "text": "Giving delivery of articles to `A' amounts to an acceptance and hence `B' is entitled to get the reward of ` 1,00,000"
+          "text": "Giving delivery of articles to `A' amounts to an acceptance and hence `B' is entitled to get the reward of ₹1,00,000"
         },
         {
           "letter": "B",
-          "text": "Giving delivery of articles to `A' amounts to performance of a condition precedent to an offer and hence there is valid acceptance. So `B' must get the reward of ` 1,00,000"
+          "text": "Giving delivery of articles to `A' amounts to performance of a condition precedent to an offer and hence there is valid acceptance. So `B' must get the reward of ₹1,00,000"
         },
         {
           "letter": "C",
-          "text": "As there is no acceptance of an offer due to want of Knowledge, `B', is not entitled to get the reward of ` 1,00,000"
+          "text": "As there is no acceptance of an offer due to want of Knowledge, `B', is not entitled to get the reward of ₹1,00,000"
         },
         {
           "letter": "D",
-          "text": "In the absence of any legal obligation on `A', no claim for reward of ` 1,00,000 is maintainable by `B'."
+          "text": "In the absence of any legal obligation on `A', no claim for reward of ₹1,00,000 is maintainable by `B'."
         }
       ],
       "correctAnswer": "C",
@@ -574,7 +574,7 @@
       "canonicalNodeCode": "FND_P2_CH2_T1",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "A agrees to pay ` 1,000 to B if a certain ship returns within a year. However, the ship sinks within the year. In this case, the contract becomes",
+      "questionText": "A agrees to pay ₹1,000 to B if a certain ship returns within a year. However, the ship sinks within the year. In this case, the contract becomes",
       "options": [
         {
           "letter": "A",
@@ -854,7 +854,7 @@
       "canonicalNodeCode": "FND_P2_CH2_T1",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "A offers B to supply Books at Rs. 500 each. B accepts the same with condition of 30% discount. It is _______",
+      "questionText": "A offers B to supply Books at ₹500 each. B accepts the same with condition of 30% discount. It is _______",
       "options": [
         {
           "letter": "A",
@@ -1358,7 +1358,7 @@
       "canonicalNodeCode": "FND_P2_CH2_T2",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "A paid ` 5000 to a Government servant to get him a contract for the canteen. The Government servant could not get the contract. Can A recover ` 5000 paid by him to the Government servant?",
+      "questionText": "A paid ₹5000 to a Government servant to get him a contract for the canteen. The Government servant could not get the contract. Can A recover ₹5000 paid by him to the Government servant?",
       "options": [
         {
           "letter": "A",
@@ -1442,7 +1442,7 @@
       "canonicalNodeCode": "FND_P2_CH2_T2",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "A is in dire need of ` 1,00,000 but was unable to get any loan from banks as he had no security to offer. A approached his friend B who knowing the helpless position of A lent money at a very high rate of interest, saying that he had himself borrowed money from C. The contract is:",
+      "questionText": "A is in dire need of ₹1,00,000 but was unable to get any loan from banks as he had no security to offer. A approached his friend B who knowing the helpless position of A lent money at a very high rate of interest, saying that he had himself borrowed money from C. The contract is:",
       "options": [
         {
           "letter": "A",
@@ -1610,15 +1610,15 @@
       "canonicalNodeCode": "FND_P2_CH2_T2",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "A enters into an agreement with B who has robbed A of ` 10,000 to drop prosecution against him in consideration of B's returning ` 8,000. Afterwards B refused to pay. A can get from B",
+      "questionText": "A enters into an agreement with B who has robbed A of ₹10,000 to drop prosecution against him in consideration of B's returning ₹8,000. Afterwards B refused to pay. A can get from B",
       "options": [
         {
           "letter": "A",
-          "text": "` 8,000"
+          "text": "₹8,000"
         },
         {
           "letter": "B",
-          "text": "` 100"
+          "text": "₹100"
         },
         {
           "letter": "C",
@@ -1626,7 +1626,7 @@
         },
         {
           "letter": "D",
-          "text": "` 10,000 plus damages"
+          "text": "₹10,000 plus damages"
         }
       ],
       "correctAnswer": "C",
@@ -1666,7 +1666,7 @@
       "canonicalNodeCode": "FND_P2_CH2_T2",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "A threat to kidnap one's son in consideration of ` 5,00,000 is void because of:",
+      "questionText": "A threat to kidnap one's son in consideration of ₹5,00,000 is void because of:",
       "options": [
         {
           "letter": "A",
@@ -1946,7 +1946,7 @@
       "canonicalNodeCode": "FND_P2_CH2_T3",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "A, B and C jointly promised to pay ` 60,000 to D. before performance of the contract, C dies. Here, the contract",
+      "questionText": "A, B and C jointly promised to pay ₹60,000 to D. before performance of the contract, C dies. Here, the contract",
       "options": [
         {
           "letter": "A",
@@ -2030,15 +2030,15 @@
       "canonicalNodeCode": "FND_P2_CH2_T3",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "A owes ` 15000 to B. A die leaving his estate of ` 12000. Legal representatives of A are:",
+      "questionText": "A owes ₹15000 to B. A die leaving his estate of ₹12000. Legal representatives of A are:",
       "options": [
         {
           "letter": "A",
-          "text": "liable to pay ` 12000 to B"
+          "text": "liable to pay ₹12000 to B"
         },
         {
           "letter": "B",
-          "text": "liable to pay ` 15000 to B"
+          "text": "liable to pay ₹15000 to B"
         },
         {
           "letter": "C",
@@ -2046,7 +2046,7 @@
         },
         {
           "letter": "D",
-          "text": "liable to pay ` 3000 to B"
+          "text": "liable to pay ₹3000 to B"
         }
       ],
       "correctAnswer": "A",
@@ -2058,7 +2058,7 @@
       "canonicalNodeCode": "FND_P2_CH2_T3",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "Rani contracted to teach dance to Shruti. Shruti paid an advance of ` 5000 for the same. Rani met with an accident and will not be able to dance. She has a daughter as her legal representative. Shruti can",
+      "questionText": "Rani contracted to teach dance to Shruti. Shruti paid an advance of ₹5000 for the same. Rani met with an accident and will not be able to dance. She has a daughter as her legal representative. Shruti can",
       "options": [
         {
           "letter": "A",
@@ -2486,15 +2486,15 @@
         },
         {
           "letter": "B",
-          "text": "A promise to pay B ` 10,000 if B's scooter is stolen."
+          "text": "A promise to pay B ₹10,000 if B's scooter is stolen."
         },
         {
           "letter": "C",
-          "text": "A promise to pay B ` 10,000 if B's burnt his hands."
+          "text": "A promise to pay B ₹10,000 if B's burnt his hands."
         },
         {
           "letter": "D",
-          "text": "A promise to pay B ` 10,000 if it rains on first of the next month."
+          "text": "A promise to pay B ₹10,000 if it rains on first of the next month."
         }
       ],
       "correctAnswer": "A",
@@ -2842,7 +2842,7 @@
       "canonicalNodeCode": "FND_P2_CH2",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "X gives guarantee to the extent of ` 50,000 for the loans given from time to time by A to B. A gave a loan of ` 10,000 to B. Afterwards, X gives notice of revocation. Which is the correct option?",
+      "questionText": "X gives guarantee to the extent of ₹50,000 for the loans given from time to time by A to B. A gave a loan of ₹10,000 to B. Afterwards, X gives notice of revocation. Which is the correct option?",
       "options": [
         {
           "letter": "A",
@@ -2850,15 +2850,15 @@
         },
         {
           "letter": "B",
-          "text": "X is liable to A for ` 10,000 on default of B."
+          "text": "X is liable to A for ₹10,000 on default of B."
         },
         {
           "letter": "C",
-          "text": "X is liable to A for ` 50,000 on default of B."
+          "text": "X is liable to A for ₹50,000 on default of B."
         },
         {
           "letter": "D",
-          "text": "X is liable to A for ` 40,000 on default of B."
+          "text": "X is liable to A for ₹40,000 on default of B."
         }
       ],
       "correctAnswer": "B",
@@ -3658,15 +3658,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "Option A"
+          "text": "the provisions of Sale of Goods were originally with the Indian Contract Act, 1872."
         },
         {
           "letter": "B",
-          "text": "Option B"
+          "text": "the Sale of Goods Act, 1930 deals with mortgage."
         },
         {
           "letter": "C",
-          "text": "Option C"
+          "text": "the Sale of Goods Act restricts the parties to modify the provisions of law."
         },
         {
           "letter": "D",
@@ -3674,7 +3674,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act: Formation of Contract of Sale is (A).",
+      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act is (A).",
       "sourceYear": 2026,
       "sourceMonth": 5
     },
@@ -4046,7 +4046,7 @@
       "canonicalNodeCode": "FND_P2_CH3_T1",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "A agrees to deliver his old car valued at `1, 80,000 to B, a car dealer, in exchange for a new car, and agrees to pay the difference in cash it is",
+      "questionText": "A agrees to deliver his old car valued at ₹1, 80,000 to B, a car dealer, in exchange for a new car, and agrees to pay the difference in cash it is",
       "options": [
         {
           "letter": "A",
@@ -4382,7 +4382,7 @@
       "canonicalNodeCode": "FND_P2_CH3_T2",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "Condition may be treated as a warranty when there is �",
+      "questionText": "Condition may be treated as a warranty when there is -",
       "options": [
         {
           "letter": "A",
@@ -4709,8 +4709,8 @@
           "text": "Both (a) and (c)"
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act: Transfer of Ownership is (A).",
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act, 1930: Transfer of Ownership and Delivery of Goods is (B).",
       "sourceYear": 2026,
       "sourceMonth": 5
     },
@@ -4737,8 +4737,8 @@
           "text": "In all the above cases"
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act: Transfer of Ownership is (A).",
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act, 1930: Transfer of Ownership and Delivery of Goods is (D).",
       "sourceYear": 2026,
       "sourceMonth": 5
     },
@@ -4765,8 +4765,8 @@
           "text": "None of these"
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act: Transfer of Ownership is (A).",
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act, 1930: Transfer of Ownership and Delivery of Goods is (C).",
       "sourceYear": 2026,
       "sourceMonth": 5
     },
@@ -4774,7 +4774,7 @@
       "canonicalNodeCode": "FND_P2_CH3_T3",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "A sell to B 100 bags of wheat lying in C's warehouse. A orders to C to deliver the wheat to B. C agrees to hold the 100 bags on behalf of B and makes the necessary entry in his books. This is a �",
+      "questionText": "A sell to B 100 bags of wheat lying in C's warehouse. A orders to C to deliver the wheat to B. C agrees to hold the 100 bags on behalf of B and makes the necessary entry in his books. This is a -",
       "options": [
         {
           "letter": "A",
@@ -4793,8 +4793,8 @@
           "text": "None of the above"
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act: Transfer of Ownership is (A).",
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act, 1930: Transfer of Ownership and Delivery of Goods is (B).",
       "sourceYear": 2026,
       "sourceMonth": 5
     },
@@ -4821,8 +4821,8 @@
           "text": "storage"
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act: Transfer of Ownership is (A).",
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act, 1930: Transfer of Ownership and Delivery of Goods is (B).",
       "sourceYear": 2026,
       "sourceMonth": 5
     },
@@ -4849,8 +4849,8 @@
           "text": "None of the above"
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act: Transfer of Ownership is (A).",
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act, 1930: Transfer of Ownership and Delivery of Goods is (B).",
       "sourceYear": 2026,
       "sourceMonth": 5
     },
@@ -4878,7 +4878,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act: Transfer of Ownership is (A).",
+      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act, 1930: Transfer of Ownership and Delivery of Goods is (A).",
       "sourceYear": 2026,
       "sourceMonth": 5
     },
@@ -4906,7 +4906,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act: Transfer of Ownership is (A).",
+      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act, 1930: Transfer of Ownership and Delivery of Goods is (A).",
       "sourceYear": 2026,
       "sourceMonth": 5
     },
@@ -4933,8 +4933,8 @@
           "text": "Neither `a' or `b'"
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act: Transfer of Ownership is (A).",
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act, 1930: Transfer of Ownership and Delivery of Goods is (C).",
       "sourceYear": 2026,
       "sourceMonth": 5
     },
@@ -4961,8 +4961,8 @@
           "text": "All of the above"
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act: Transfer of Ownership is (A).",
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act, 1930: Transfer of Ownership and Delivery of Goods is (D).",
       "sourceYear": 2026,
       "sourceMonth": 5
     },
@@ -4989,8 +4989,8 @@
           "text": "Delivery of goods can't be made in instalments"
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act: Transfer of Ownership is (A).",
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for The Sale of Goods Act, 1930: Transfer of Ownership and Delivery of Goods is (C).",
       "sourceYear": 2026,
       "sourceMonth": 5
     },

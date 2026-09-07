@@ -143,9 +143,11 @@ export const questionOptions = pgTable(
       .notNull(),
     optionLetter: varchar("option_letter", { length: 10 }).notNull(), // 'A', 'B', 'C', 'D'
     optionText: text("option_text").notNull(),
+    isCorrect: boolean("is_correct").default(false).notNull(),
   },
   (table) => [
     index("question_options_version_id_idx").on(table.questionVersionId),
+    index("question_options_is_correct_idx").on(table.isCorrect),
   ]
 );
 

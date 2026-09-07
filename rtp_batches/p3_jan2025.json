@@ -106,7 +106,7 @@
         },
         {
           "letter": "D",
-          "text": "2.51P �"
+          "text": "2.51P -"
         }
       ],
       "correctAnswer": "A",
@@ -134,23 +134,23 @@
       "options": [
         {
           "letter": "A",
-          "text": "` 28,119"
+          "text": "₹28,119"
         },
         {
           "letter": "B",
-          "text": "` 29,118"
+          "text": "₹29,118"
         },
         {
           "letter": "C",
-          "text": "` 27, 000"
+          "text": "₹27, 000"
         },
         {
           "letter": "D",
-          "text": "` 30, 000"
+          "text": "₹30, 000"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q4): Option (A) ` 28,119.",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q4): Option (A) ₹28,119.",
       "curriculum": {
         "subjectCode": "PAPER_3",
         "nodeCode": "FND_P3_CH4"
@@ -170,27 +170,27 @@
       "externalId": "RTP_2025_JAN2025_P3_Q5",
       "questionType": "MCQ",
       "difficulty": "EASY",
-      "questionText": "The future value of an annuity of ` 1500 made annually for five years at interest of 10% compounded annually is (Given that (1.1)5= 1.61051)",
+      "questionText": "The future value of an annuity of ₹1500 made annually for five years at interest of 10% compounded annually is (Given that (1.1)5= 1.61051)",
       "options": [
         {
           "letter": "A",
-          "text": "` 9517.56"
+          "text": "₹9517.56"
         },
         {
           "letter": "B",
-          "text": "` 9157.65"
+          "text": "₹9157.65"
         },
         {
           "letter": "C",
-          "text": "` 9715.56"
+          "text": "₹9715.56"
         },
         {
           "letter": "D",
-          "text": "` 9175.65"
+          "text": "₹9175.65"
         }
       ],
       "correctAnswer": "B",
-      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q5): Option (B) ` 9157.65.",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q5): Option (B) ₹9157.65.",
       "curriculum": {
         "subjectCode": "PAPER_3",
         "nodeCode": "FND_P3_CH4"
@@ -298,7 +298,7 @@
         },
         {
           "letter": "B",
-          "text": "144 �"
+          "text": "144 -"
         },
         {
           "letter": "C",
@@ -310,7 +310,7 @@
         }
       ],
       "correctAnswer": "B",
-      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q8): Option (B) 144 �.",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q8): Option (B) 144 -.",
       "curriculum": {
         "subjectCode": "PAPER_3",
         "nodeCode": "FND_P3_CH5"
@@ -330,7 +330,7 @@
       "externalId": "RTP_2025_JAN2025_P3_Q9",
       "questionType": "MCQ",
       "difficulty": "EASY",
-      "questionText": "Let Z be the universal set for two sets � A and B. If n(A) = 300, n(B) = 400 and n (A B) = 200, then n (A' B') is equal to 400 provided n(Z) is equal to",
+      "questionText": "Let Z be the universal set for two sets - A and B. If n(A) = 300, n(B) = 400 and n (A B) = 200, then n (A' B') is equal to 400 provided n(Z) is equal to",
       "options": [
         {
           "letter": "A",
@@ -462,7 +462,7 @@
         },
         {
           "letter": "C",
-          "text": "23x.32x.5x +C log(180) �"
+          "text": "23x.32x.5x +C log(180) -"
         },
         {
           "letter": "D",
@@ -570,27 +570,27 @@
       "externalId": "RTP_2025_JAN2025_P3_Q15",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "The value of scooter is ` 1,00,000 find its depreciation is 10% p.a. Calculate total depreciation value at the end of seven years.",
+      "questionText": "The value of scooter is ₹1,00,000 find its depreciation is 10% p.a. Calculate total depreciation value at the end of seven years.",
       "options": [
         {
           "letter": "A",
-          "text": "` 47829.70"
+          "text": "₹47829.70"
         },
         {
           "letter": "B",
-          "text": "` 47000.90"
+          "text": "₹47000.90"
         },
         {
           "letter": "C",
-          "text": "` 42709"
+          "text": "₹42709"
         },
         {
           "letter": "D",
-          "text": "` 42,000"
+          "text": "₹42,000"
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q15): Option (A) ` 47829.70.",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q15): Option (A) ₹47829.70.",
       "curriculum": {
         "subjectCode": "PAPER_3",
         "nodeCode": "FND_P3_CH4"
@@ -650,7 +650,7 @@
       "externalId": "RTP_2025_JAN2025_P3_Q17",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "In a certain code, Delhi is capital is coded as 7 5 9, capital are beautiful is coded as 3 6 9, Delhi is beautiful is coded as 6 7 5, Patna also capital is coded as 9 2 4. What is code for beautiful ? �",
+      "questionText": "In a certain code, Delhi is capital is coded as 7 5 9, capital are beautiful is coded as 3 6 9, Delhi is beautiful is coded as 6 7 5, Patna also capital is coded as 9 2 4. What is code for beautiful ? -",
       "options": [
         {
           "letter": "A",
@@ -746,7 +746,7 @@
         },
         {
           "letter": "D",
-          "text": "North �West"
+          "text": "North -West"
         }
       ],
       "correctAnswer": "B",
@@ -818,7 +818,7 @@
         },
         {
           "letter": "B",
-          "text": "Origin �"
+          "text": "Origin -"
         },
         {
           "letter": "C",
@@ -830,7 +830,7 @@
         }
       ],
       "correctAnswer": "B",
-      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q21): Option (B) Origin �.",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q21): Option (B) Origin -.",
       "curriculum": {
         "subjectCode": "PAPER_3",
         "nodeCode": "FND_P3_CH14"
@@ -894,7 +894,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "r = � 1"
+          "text": "r = - 1"
         },
         {
           "letter": "B",
@@ -910,7 +910,7 @@
         }
       ],
       "correctAnswer": "A",
-      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q23): Option (A) r = � 1.",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q23): Option (A) r = - 1.",
       "curriculum": {
         "subjectCode": "PAPER_3",
         "nodeCode": "FND_P3_CH17"
@@ -1014,7 +1014,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "11/13 �"
+          "text": "11/13 -"
         },
         {
           "letter": "B",
@@ -1186,7 +1186,7 @@
         },
         {
           "letter": "D",
-          "text": "45 �"
+          "text": "45 -"
         }
       ],
       "correctAnswer": "C",

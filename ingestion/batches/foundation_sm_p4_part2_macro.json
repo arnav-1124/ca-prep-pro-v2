@@ -386,7 +386,7 @@
         },
         {
           "letter": "B",
-          "text": "NNPFC = National Income = FID (factor income earned in domestic territory) � NFIA."
+          "text": "NNPFC = National Income = FID (factor income earned in domestic territory) - NFIA."
         },
         {
           "letter": "C",
@@ -963,7 +963,7 @@
         "nodeCode": "FND_P4_CH6",
         "_chapterTitle": "Chapter 6: Determination of National Income"
       },
-      "questionText": "If the consumption function is C = 20 + 0.5Yd, then an increase in disposable income by ` 100 will result in an increase in consumer expenditure by `-----------",
+      "questionText": "If the consumption function is C = 20 + 0.5Yd, then an increase in disposable income by ₹100 will result in an increase in consumer expenditure by `-----------",
       "options": [
         {
           "letter": "A",
@@ -1008,7 +1008,7 @@
         "nodeCode": "FND_P4_CH6",
         "_chapterTitle": "Chapter 6: Determination of National Income"
       },
-      "questionText": "If the autonomous consumption equals ` 2,000 and the marginal propensity to consume equals 0.8. If disposable income equals ` 10,000, then total consumption will be ` _____",
+      "questionText": "If the autonomous consumption equals ₹2,000 and the marginal propensity to consume equals 0.8. If disposable income equals ₹10,000, then total consumption will be ` _____",
       "options": [
         {
           "letter": "A",
@@ -3753,7 +3753,7 @@
         "nodeCode": "FND_P4_CH7",
         "_chapterTitle": "Chapter 7: Public Finance"
       },
-      "questionText": "The non�debt capital receipts of this country is",
+      "questionText": "The non-debt capital receipts of this country is",
       "options": [
         {
           "letter": "A",
@@ -4743,7 +4743,7 @@
         "nodeCode": "FND_P4_CH7",
         "_chapterTitle": "Chapter 7: Public Finance"
       },
-      "questionText": "Which statement (s) is (are) correct about crowding out? I. A decline in private spending may be partially or completely offset by the expansion of demand resulting from an increase in government expenditure. II. Crowding out effect is the negative effect fiscal policy may generate when money from the private sector is `crowded out' to the public sector. III When spending by government in an economy increases government spending would be crowded out. IV. Private investments, especially the ones which are interest �sensitive, will be reduced if interest rates rise due to increased spending by government",
+      "questionText": "Which statement (s) is (are) correct about crowding out? I. A decline in private spending may be partially or completely offset by the expansion of demand resulting from an increase in government expenditure. II. Crowding out effect is the negative effect fiscal policy may generate when money from the private sector is `crowded out' to the public sector. III When spending by government in an economy increases government spending would be crowded out. IV. Private investments, especially the ones which are interest -sensitive, will be reduced if interest rates rise due to increased spending by government",
       "options": [
         {
           "letter": "A",
@@ -5872,15 +5872,15 @@
       "options": [
         {
           "letter": "A",
-          "text": "the opportunity costs of money holdings � i.e. bonds and stock returns, rB and rE , respectively- decline and vice versa"
+          "text": "the opportunity costs of money holdings - i.e. bonds and stock returns, rB and rE , respectively- decline and vice versa"
         },
         {
           "letter": "B",
-          "text": "the opportunity costs of money holdings � i.e. bonds and stock returns, rB and rE , respectively- rises and vice versa"
+          "text": "the opportunity costs of money holdings - i.e. bonds and stock returns, rB and rE , respectively- rises and vice versa"
         },
         {
           "letter": "C",
-          "text": "the opportunity costs of money holdings � i.e. bonds and stock returns, rB and rE , respectively remain constant"
+          "text": "the opportunity costs of money holdings - i.e. bonds and stock returns, rB and rE , respectively remain constant"
         },
         {
           "letter": "D",
@@ -6109,7 +6109,7 @@
         },
         {
           "letter": "D",
-          "text": "empowered to issue currency to any extent by keeping a reserve of gold and foreign securities to the extent of ` 350 crores"
+          "text": "empowered to issue currency to any extent by keeping a reserve of gold and foreign securities to the extent of ₹350 crores"
         }
       ],
       "correctAnswer": "B",

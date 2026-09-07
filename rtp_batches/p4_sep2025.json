@@ -134,11 +134,11 @@
       "options": [
         {
           "letter": "A",
-          "text": "TC = AC � Q"
+          "text": "TC = AC - Q"
         },
         {
           "letter": "B",
-          "text": "MC = TC �"
+          "text": "MC = TC -"
         },
         {
           "letter": "C",
@@ -150,7 +150,7 @@
         }
       ],
       "correctAnswer": "B",
-      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q4): Option (B) MC = TC �.",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q4): Option (B) MC = TC -.",
       "curriculum": {
         "subjectCode": "PAPER_4",
         "nodeCode": "FND_P4_CH2"
@@ -338,7 +338,7 @@
         },
         {
           "letter": "B",
-          "text": "Short Run Average Cost curve �"
+          "text": "Short Run Average Cost curve -"
         },
         {
           "letter": "C",
@@ -506,7 +506,7 @@
         },
         {
           "letter": "D",
-          "text": "Both countries in trade can benefit even if one country is less efficient in producing both goods. �"
+          "text": "Both countries in trade can benefit even if one country is less efficient in producing both goods. -"
         }
       ],
       "correctAnswer": "C",
@@ -698,7 +698,7 @@
         },
         {
           "letter": "B",
-          "text": "Microeconomics �"
+          "text": "Microeconomics -"
         },
         {
           "letter": "C",
@@ -866,7 +866,7 @@
         },
         {
           "letter": "D",
-          "text": "Corporate bonds �"
+          "text": "Corporate bonds -"
         }
       ],
       "correctAnswer": "B",

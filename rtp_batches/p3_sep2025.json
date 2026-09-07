@@ -130,7 +130,7 @@
       "externalId": "RTP_2025_SEP2025_P3_Q4",
       "questionType": "MCQ",
       "difficulty": "EASY",
-      "questionText": "Ravi faces towards North. Turning to his right, he walks 25 meters. He turns to his left and walks 30 meters. Next, he moves 25 meters to his right. He then turns to his right again and walks 55 meters. Finally, he � turns to the right and moves 40 meters. In which direction is he now from his starting point?",
+      "questionText": "Ravi faces towards North. Turning to his right, he walks 25 meters. He turns to his left and walks 30 meters. Next, he moves 25 meters to his right. He then turns to his right again and walks 55 meters. Finally, he - turns to the right and moves 40 meters. In which direction is he now from his starting point?",
       "options": [
         {
           "letter": "A",
@@ -298,7 +298,7 @@
         },
         {
           "letter": "B",
-          "text": "73 �"
+          "text": "73 -"
         },
         {
           "letter": "C",
@@ -310,7 +310,7 @@
         }
       ],
       "correctAnswer": "B",
-      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q8): Option (B) 73 �.",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q8): Option (B) 73 -.",
       "curriculum": {
         "subjectCode": "PAPER_3",
         "nodeCode": "FND_P3_CH1"
@@ -330,7 +330,7 @@
       "externalId": "RTP_2025_SEP2025_P3_Q9",
       "questionType": "MCQ",
       "difficulty": "EASY",
-      "questionText": "The difference between Compound Interest and Simple Interest on a certain sum for 2 years at 6% p.a. is Rs. 13.50. Find the sum",
+      "questionText": "The difference between Compound Interest and Simple Interest on a certain sum for 2 years at 6% p.a. is ₹13.50. Find the sum",
       "options": [
         {
           "letter": "A",
@@ -370,7 +370,7 @@
       "externalId": "RTP_2025_SEP2025_P3_Q10",
       "questionType": "MCQ",
       "difficulty": "EASY",
-      "questionText": "A machine for which the useful life is estimated to be 5 years, Cost Rs. 5000 and Rate of depreciation is 10% p.a. The scrap value at the end of its life is",
+      "questionText": "A machine for which the useful life is estimated to be 5 years, Cost ₹5000 and Rate of depreciation is 10% p.a. The scrap value at the end of its life is",
       "options": [
         {
           "letter": "A",
@@ -466,7 +466,7 @@
         },
         {
           "letter": "D",
-          "text": "none of these �"
+          "text": "none of these -"
         }
       ],
       "correctAnswer": "A",
@@ -570,7 +570,7 @@
       "externalId": "RTP_2025_SEP2025_P3_Q15",
       "questionType": "MCQ",
       "difficulty": "MEDIUM",
-      "questionText": "If g(x) = x�1/x, g(��) is",
+      "questionText": "If g(x) = x-1/x, g(--) is",
       "options": [
         {
           "letter": "A",
@@ -582,7 +582,7 @@
         },
         {
           "letter": "C",
-          "text": "�"
+          "text": "-"
         },
         {
           "letter": "D",
@@ -590,7 +590,7 @@
         }
       ],
       "correctAnswer": "C",
-      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q15): Option (C) �.",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q15): Option (C) -.",
       "curriculum": {
         "subjectCode": "PAPER_3",
         "nodeCode": "FND_P3_CH14"
@@ -658,7 +658,7 @@
         },
         {
           "letter": "B",
-          "text": "5/12 �"
+          "text": "5/12 -"
         },
         {
           "letter": "C",
@@ -670,7 +670,7 @@
         }
       ],
       "correctAnswer": "B",
-      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q17): Option (B) 5/12 �.",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q17): Option (B) 5/12 -.",
       "curriculum": {
         "subjectCode": "PAPER_3",
         "nodeCode": "FND_P3_CH14"
@@ -858,7 +858,7 @@
         },
         {
           "letter": "B",
-          "text": "12.23 �"
+          "text": "12.23 -"
         },
         {
           "letter": "C",
@@ -1026,11 +1026,11 @@
         },
         {
           "letter": "D",
-          "text": "-15 �"
+          "text": "-15 -"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q26): Option (D) -15 �.",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q26): Option (D) -15 -.",
       "curriculum": {
         "subjectCode": "PAPER_3",
         "nodeCode": "FND_P3_CH14"
@@ -1186,7 +1186,7 @@
         },
         {
           "letter": "D",
-          "text": "3/13 �"
+          "text": "3/13 -"
         }
       ],
       "correctAnswer": "C",
