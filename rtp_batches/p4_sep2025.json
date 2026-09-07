@@ -1,0 +1,1010 @@
+{
+  "batchName": "CA Foundation Business Economics (Paper 4) - Official RTP September 2025",
+  "sourceType": "RTP",
+  "sourceTitle": "ICAI Revision Test Paper (RTP) September 2025",
+  "sourceYear": 2025,
+  "sourceMonth": 9,
+  "curriculumVersionId": "1677d3d5-fb55-40c3-b853-410432eb913f",
+  "questions": [
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q1",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "The introduction of the Goods and Services Tax (GST) in India primarily aimed to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Replace direct taxes with indirect taxes"
+        },
+        {
+          "letter": "B",
+          "text": "Unify various indirect taxes into a single system"
+        },
+        {
+          "letter": "C",
+          "text": "Increase the tax burden on lower-income groups"
+        },
+        {
+          "letter": "D",
+          "text": "Eliminate the taxation of services"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q1): Option (B) Unify various indirect taxes into a single system.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "1",
+        "sourceReference": "RTP September 2025 Paper 4 Q1"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q2",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Microeconomic theory studies how a free-enterprise economy determines:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the price of goods"
+        },
+        {
+          "letter": "B",
+          "text": "the price of services"
+        },
+        {
+          "letter": "C",
+          "text": "the price of economic resources"
+        },
+        {
+          "letter": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q2): Option (D) all of the above..",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "2",
+        "sourceReference": "RTP September 2025 Paper 4 Q2"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q3",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Within the relevant range, isoquants",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are negatively sloped"
+        },
+        {
+          "letter": "B",
+          "text": "are convex to the origin"
+        },
+        {
+          "letter": "C",
+          "text": "cannot cross"
+        },
+        {
+          "letter": "D",
+          "text": "are all of the above."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q3): Option (D) are all of the above..",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "3",
+        "sourceReference": "RTP September 2025 Paper 4 Q3"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q4",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Which of the following is incorrect formula?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "TC = AC � Q"
+        },
+        {
+          "letter": "B",
+          "text": "MC = TC �"
+        },
+        {
+          "letter": "C",
+          "text": "MC = TVC"
+        },
+        {
+          "letter": "D",
+          "text": "MC + TFC = TC"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q4): Option (B) MC = TC �.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "4",
+        "sourceReference": "RTP September 2025 Paper 4 Q4"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q5",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "The Substitution effect will be stronger when",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The goods are closer substitution"
+        },
+        {
+          "letter": "B",
+          "text": "There is lower cost of switching to the substitute goods"
+        },
+        {
+          "letter": "C",
+          "text": "There is lower Inconvenience while switching to the substitute good"
+        },
+        {
+          "letter": "D",
+          "text": "All the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q5): Option (A) The goods are closer substitution.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "5",
+        "sourceReference": "RTP September 2025 Paper 4 Q5"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q6",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Price discrimination to be profitable elasticity of demand in different submarket will be _____",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Different"
+        },
+        {
+          "letter": "B",
+          "text": "Uniform"
+        },
+        {
+          "letter": "C",
+          "text": "Zero"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q6): Option (A) Different.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "6",
+        "sourceReference": "RTP September 2025 Paper 4 Q6"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q7",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "According to Hicks and Allen the demand curve slope downwards due to _____",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Law of diminishing marginal utility"
+        },
+        {
+          "letter": "B",
+          "text": "Income effect and substitution effect"
+        },
+        {
+          "letter": "C",
+          "text": "Either (a) or (b)"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q7): Option (B) Income effect and substitution effect.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "7",
+        "sourceReference": "RTP September 2025 Paper 4 Q7"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q8",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Full Capacity is utilized in the which market condition______",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perfect Competition"
+        },
+        {
+          "letter": "B",
+          "text": "Monopoly"
+        },
+        {
+          "letter": "C",
+          "text": "Oligopoly"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q8): Option (A) Perfect Competition.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "8",
+        "sourceReference": "RTP September 2025 Paper 4 Q8"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q9",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Envelope curve is also called:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Long Run Average Cost curve"
+        },
+        {
+          "letter": "B",
+          "text": "Short Run Average Cost curve �"
+        },
+        {
+          "letter": "C",
+          "text": "Average Fixed Cost"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q9): Option (A) Long Run Average Cost curve.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "9",
+        "sourceReference": "RTP September 2025 Paper 4 Q9"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q10",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Coincident indicator is not indicated as:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inflation"
+        },
+        {
+          "letter": "B",
+          "text": "Industrial Production"
+        },
+        {
+          "letter": "C",
+          "text": "Retail Sales"
+        },
+        {
+          "letter": "D",
+          "text": "New order for Plant and equipment"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q10): Option (D) New order for Plant and equipment.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "10",
+        "sourceReference": "RTP September 2025 Paper 4 Q10"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q11",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Which of the following is NOT typically used as a fiscal policy measure to control inflation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increasing government expenditure"
+        },
+        {
+          "letter": "B",
+          "text": "Raising taxes"
+        },
+        {
+          "letter": "C",
+          "text": "Reducing public sector investments"
+        },
+        {
+          "letter": "D",
+          "text": "Increasing interest rates"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q11): Option (D) Increasing interest rates.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "11",
+        "sourceReference": "RTP September 2025 Paper 4 Q11"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q12",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "In an economy, a change in the reserve ratio will directly affect the:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Level of interest rates in the market"
+        },
+        {
+          "letter": "B",
+          "text": "Supply of money in circulation"
+        },
+        {
+          "letter": "C",
+          "text": "Demand for money at different income levels"
+        },
+        {
+          "letter": "D",
+          "text": "Government's budgetary balance"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q12): Option (B) Supply of money in circulation.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "12",
+        "sourceReference": "RTP September 2025 Paper 4 Q12"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q13",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Which of the following is NOT a key assumption of Ricardo's theory of comparative advantage?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two countries, each specializing in the good it can produce most efficiently, will both gain from trade."
+        },
+        {
+          "letter": "B",
+          "text": "Resources are immobile between countries but mobile within a country."
+        },
+        {
+          "letter": "C",
+          "text": "Trade occurs only due to differences in technology between countries."
+        },
+        {
+          "letter": "D",
+          "text": "Both countries in trade can benefit even if one country is less efficient in producing both goods. �"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q13): Option (C) Trade occurs only due to differences in technology between countries..",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH9"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "13",
+        "sourceReference": "RTP September 2025 Paper 4 Q13"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q14",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If a country's currency is depreciating, it means that:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The domestic currency is increasing in value relative to foreign currencies."
+        },
+        {
+          "letter": "B",
+          "text": "The country's exports will become more expensive to foreign buyers."
+        },
+        {
+          "letter": "C",
+          "text": "The country's exports become cheaper for foreign buyers, potentially boosting trade."
+        },
+        {
+          "letter": "D",
+          "text": "The central bank is actively increasing the supply of money."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q14): Option (C) The country's exports become cheaper for foreign buyers, potentially boosting trade..",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "14",
+        "sourceReference": "RTP September 2025 Paper 4 Q14"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q15",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Which of the following is a primary objective of India's Five-Year Plans?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To regulate and control foreign trade"
+        },
+        {
+          "letter": "B",
+          "text": "To promote balanced economic growth across all regions"
+        },
+        {
+          "letter": "C",
+          "text": "To discourage the private sector in favour of public enterprises"
+        },
+        {
+          "letter": "D",
+          "text": "To ensure foreign aid and capital inflows into the country"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q15): Option (B) To promote balanced economic growth across all regions.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "15",
+        "sourceReference": "RTP September 2025 Paper 4 Q15"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q16",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The current account deficit (CAD) in India refers to the excess of:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Imports over exports"
+        },
+        {
+          "letter": "B",
+          "text": "Exports over imports"
+        },
+        {
+          "letter": "C",
+          "text": "Total investment over savings"
+        },
+        {
+          "letter": "D",
+          "text": "Government expenditure over revenue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q16): Option (A) Imports over exports.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "16",
+        "sourceReference": "RTP September 2025 Paper 4 Q16"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q17",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Which of the following is a primary objective of India's monetary policy?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To reduce the overall level of taxation in the economy"
+        },
+        {
+          "letter": "B",
+          "text": "To control the money supply and curb inflation"
+        },
+        {
+          "letter": "C",
+          "text": "To promote export-led growth through currency devaluation"
+        },
+        {
+          "letter": "D",
+          "text": "To ensure a balanced budget for the government"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q17): Option (B) To control the money supply and curb inflation.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "17",
+        "sourceReference": "RTP September 2025 Paper 4 Q17"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q18",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Which of the following refers to the study of the total or aggregate level of output, income, employment, consumption, investment, and prices for the economy viewed as a whole?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Managerial economics"
+        },
+        {
+          "letter": "B",
+          "text": "Microeconomics �"
+        },
+        {
+          "letter": "C",
+          "text": "Macroeconomics"
+        },
+        {
+          "letter": "D",
+          "text": "Econometrics"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q18): Option (C) Macroeconomics.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "18",
+        "sourceReference": "RTP September 2025 Paper 4 Q18"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q19",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Firms in an industry that produces a differentiated product:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are either monopolists or oligopolists."
+        },
+        {
+          "letter": "B",
+          "text": "are either monopolistically competitive or perfectly competitive."
+        },
+        {
+          "letter": "C",
+          "text": "are either monopolistically competitive or oligopolists."
+        },
+        {
+          "letter": "D",
+          "text": "are either perfectly competitive or oligopolists."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q19): Option (C) are either monopolistically competitive or oligopolists..",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "19",
+        "sourceReference": "RTP September 2025 Paper 4 Q19"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q20",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "The concept of the \"multiplier effect\" in Keynesian economics refers to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The impact of interest rates on investment"
+        },
+        {
+          "letter": "B",
+          "text": "The magnification of an initial change in spending throughout the economy"
+        },
+        {
+          "letter": "C",
+          "text": "The impact of taxes on consumer spending"
+        },
+        {
+          "letter": "D",
+          "text": "The role of exports in economic growth"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q20): Option (B) The magnification of an initial change in spending throughout the economy.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "20",
+        "sourceReference": "RTP September 2025 Paper 4 Q20"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q21",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "What is the primary method for calculating National Income using the income approach?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adding up all expenditures in the economy"
+        },
+        {
+          "letter": "B",
+          "text": "Summing up all factor incomes earned by households and firms"
+        },
+        {
+          "letter": "C",
+          "text": "Measuring the value added at each stage of production"
+        },
+        {
+          "letter": "D",
+          "text": "Calculating the difference between exports and imports"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q21): Option (B) Summing up all factor incomes earned by households and firms.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "21",
+        "sourceReference": "RTP September 2025 Paper 4 Q21"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q22",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Which of the following is considered a component of M1, the narrowest definition of money supply?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Time deposits"
+        },
+        {
+          "letter": "B",
+          "text": "Currency in circulation"
+        },
+        {
+          "letter": "C",
+          "text": "Treasury bills"
+        },
+        {
+          "letter": "D",
+          "text": "Corporate bonds �"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q22): Option (B) Currency in circulation.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "22",
+        "sourceReference": "RTP September 2025 Paper 4 Q22"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q23",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Which of the following is included in M2, a broader measure of money supply compared to M1?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Currency in circulation"
+        },
+        {
+          "letter": "B",
+          "text": "Savings deposits"
+        },
+        {
+          "letter": "C",
+          "text": "Demand deposits"
+        },
+        {
+          "letter": "D",
+          "text": "Traveler's checks"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q23): Option (B) Savings deposits.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "23",
+        "sourceReference": "RTP September 2025 Paper 4 Q23"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q24",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Which of the following is a factor income?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profits"
+        },
+        {
+          "letter": "B",
+          "text": "Transfer payments"
+        },
+        {
+          "letter": "C",
+          "text": "Subsidies"
+        },
+        {
+          "letter": "D",
+          "text": "Indirect taxes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q24): Option (A) Profits.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "24",
+        "sourceReference": "RTP September 2025 Paper 4 Q24"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P4_Q25",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Which of the following is a common solution to the problem of common resources being overused?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Government regulation"
+        },
+        {
+          "letter": "B",
+          "text": "Privatization"
+        },
+        {
+          "letter": "C",
+          "text": "Subsidies"
+        },
+        {
+          "letter": "D",
+          "text": "Free-market competition"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 4: Business Economics, Q25): Option (A) Government regulation.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "25",
+        "sourceReference": "RTP September 2025 Paper 4 Q25"
+      }
+    }
+  ]
+}

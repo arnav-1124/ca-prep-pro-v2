@@ -1,0 +1,978 @@
+{
+  "batchName": "CA Foundation Business Laws (Paper 2) - Official RTP January 2025 (Case Study Bank)",
+  "sourceType": "RTP",
+  "sourceTitle": "ICAI Revision Test Paper (RTP) January 2025",
+  "sourceYear": 2025,
+  "sourceMonth": 1,
+  "curriculumVersionId": "1677d3d5-fb55-40c3-b853-410432eb913f",
+  "questions": [
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q2",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "decide:\n (i) Whether the contention of Mr.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section\n 14(c) of the Indian Contract Act, 1872, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "B",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Warranty as to non-existence of encumbrances [Section\n 14(c)]: An implied warranty that the goods shall be free from\n\n�\n\n any charge or encumbrance in favour of any third party not\n declared or known to the buyer before or at the time the\n contract is entered into.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q2: Mr. Sohan, a wealthy individual provided a lo...",
+        "scenarioText": "Mr. Sohan, a wealthy individual provided a loan of ` 80,000 to\n\n Mr. Mukesh on 26th February, 2023. The borrower, Mr. Mukesh asked for\n a further loan of ` 1,50,000.\n Mr. Sohan agreed but provided the loan in parts on different dates. He\n provided ` 1,00,000 on 28th February, 2023 and remaining ` 50,000 on\n 3rd March, 2023.\n On 10th March, 2023 Mr. Mukesh while paying off part ` 75,000 to Mr.\n Sohan insisted that the lender should adjust ` 50,000 towards the loan\n taken on 3rd March, 2023 and balance as against the loan on\n 26th February, 2023.\n Mr. Sohan objected to this arrangement and asked the borrower to\n adjust in the order of date of borrowal of funds.\n Now you decide:\n (i) Whether the contention of Mr. Mukesh correct or otherwise as per\n\n the provisions of the Indian Contract Act, 1872?\n (ii) What would be the answer in case the borrower does not insist on\n\n such order of adjustment of repayment?\n\n�\n\n (iii) What would be the mode of adjustment/appropriation of such part\n payment in case neither Mr. Sohan nor Mr. Mukesh insist on any\n order of adjustment on their part?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH2_T3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "2",
+        "sourceReference": "RTP January 2025 Paper 2 Q2"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q3",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "Whether sale of laptops after revoking Shyam's authority is binding\n on Rama?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 16(3) of the Indian Contract Act, 1872, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Warranty as to quality or fitness by usage of trade\n [Section 16(3)]: An implied warranty as to quality or fitness\n for a particular purpose may be annexed or attached by the\n usage of trade.\n\n Regarding implied condition or warranty as to the quality or\n fitness for any particular purpose of goods supplied, the rule\n is `let the buyer beware' i.e., the seller is under no duty to\n reveal unflattering truths about the goods sold, but this rule\n has certain exceptions.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q3: Rama directs Shyam to sell laptops for him an...",
+        "scenarioText": "Rama directs Shyam to sell laptops for him and agrees to give Shyam\n eleven percent (11%) commission on the sale price fixed by Rama for\n each laptop. As Government of India put restrictions on import of\n Laptops, Rama thought that the prices of laptops might go up in near\n future and he revokes Shyam's authority for any further sale. Shyam,\n before receiving the letter at his end sold 5 laptops at the price fixed by\n Rama. Shyam asked for 11% commission on the sale of 5 Laptops for ` 1\n lakh each. Explain under the provisions of the Indian Contract Act, 1872:\n\n (i) Whether sale of laptops after revoking Shyam's authority is binding\n on Rama?\n\n (ii) Whether Shyam will be able to recover his commission from Rama, if\n yes, what will be the amount of such commission?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH2_T1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "3",
+        "sourceReference": "RTP January 2025 Paper 2 Q3"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q4",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "can Rohan recover the wallet from the Manager?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, the contention/claim is legally valid and enforceable under the provisions of the Indian Contract Act, 1872, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Disclosure of dangerous nature of goods: Where the\n goods are dangerous in nature and the buyer is ignorant of\n the danger, the seller must warn the buyer of the probable\n danger. If there is a breach of warranty, the seller may be\n liable in damages.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q4: Rohan found a wallet in a restaurant. He enqu...",
+        "scenarioText": "Rohan found a wallet in a restaurant. He enquired all the customers\n present there but the true owner could not be found. He handed over\n the same to the manager of the restaurant to keep the wallet till the true\n owner is found. After a week, Rohan went back to the restaurant to\n enquire about the wallet. The manager refused to return it to Rohan,\n saying that it did not belong to him. In the light of the Indian Contract\n Act, 1872, can Rohan recover the wallet from the Manager?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH2_T4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "4",
+        "sourceReference": "RTP January 2025 Paper 2 Q4"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q5",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "will pay back on her behalf.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention is valid because private agreement between parties overrides explicit statutory rules."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, because customary commercial practice automatically establishes legal entitlement."
+        },
+        {
+          "letter": "C",
+          "text": "No, but relief is granted on equitable grounds independent of statutory requirements."
+        },
+        {
+          "letter": "D",
+          "text": "No, the contention/claim is not legally sustainable under Section 11 of the Indian Contract Act, 1872, based on statutory provisions and the established facts."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "A contract made with or by a minor is void ab-initio: Pursuant to\n Section 11 of the Indian Contract Act, 1872, a minor is not competent to\n contract and any agreement with or by a minor is void from the very\n beginning.\n\n (i) By following the above provision, Mr. Mittal will not succeed in\n recovering the outstanding amount by filing a case against\n Paridhee, a minor.\n\n (ii) Minor cannot bind parent or guardian: In the absence of\n authority, express or implied, a minor is not capable of binding his\n parent or guardian, even for necessaries. The parents will be held\n liable only when the child is acting as an agent for parents.\n\n In the instant case, Mr. Mittal will not succeed in recovering the\n outstanding amount by filing a case against Mr. Ram, father of\n Paridhee.\n\n (iii) No ratification after attaining majority: A minor cannot ratify\n the agreement on attaining majority as the original agreement is\n void ab initio and a void agreement can never be ratified.\n\n Hence, in this case also, Mr. Mittal will not succeed in recovering\n the outstanding amount by filing a case against Paridhee, after she\n attains majority.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q5: Paridhee, a minor, falsely representing her a...",
+        "scenarioText": "Paridhee, a minor, falsely representing her age, enters into an agreement\n with an authorised Laptop dealer Mr. Mittal, owner of MP Laptops, for\n purchase of Laptop on credit amounting ` 60,000/- on 1st August 2022.\n She promised to pay back the outstanding amount with interest @ 16%\n p.a. by 31st July 2023. She told him that in case she won't be able to pay\n the outstanding amount, her father Mr. Ram will pay back on her behalf.\n After One year, when Paridhee was asked to pay the outstanding\n amount with interest she refused to pay the amount and told the owner\n that she is minor and now he can't recover a single penny from her.\n\n She will be a major on 1st January 2025 and only after that agreement\n can be ratified. Explain by which of the following ways, Mr. Mittal will\n\n�\n\n succeed in recovering the outstanding amount with reference to the\n Indian Contract Act, 1872.\n\n (i) By filing a case against Paridhee, a minor for recovery of outstanding\n amount with interest?\n\n (ii) By filing a case against Mr. Ram, father of Paridhee for recovery of\n outstanding amount?\n\n (iii) By filing a case against Paridhee, a minor for recovery of outstanding\n amount after she attains majority?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH2_T5"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "5",
+        "sourceReference": "RTP January 2025 Paper 2 Q5"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q6",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "whether the following agreements are valid or void\n as per the Indian Contract Act, 1872:\n\n (i) Where two courts have jurisdiction to try a suit, an agreement\n between the parties that the suit should be filed in one of those\n courts alone and not in the other.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the contention/claim is not legally sustainable under Section 28 of the Indian Contract Act, 1872, based on statutory provisions and the established facts."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, the contention is valid because private agreement between parties overrides explicit statutory rules."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, because customary commercial practice automatically establishes legal entitlement."
+        },
+        {
+          "letter": "D",
+          "text": "No, but relief is granted on equitable grounds independent of statutory requirements."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "(i) The given agreement is valid.\n\n Reason: An agreement in restraint of legal proceeding is the one by\n which any party thereto is restricted absolutely from enforcing his\n rights under a contract through a Court (Section 28 of the Indian\n\n�\n\n Contract Act, 1872). A contract of this nature is void. However, in the\n given statement, no absolute restriction is marked on parties on filing\n of suit. As per the agreement, suit may be filed in one of the courts\n having jurisdiction.\n\n (ii) The said agreement is void.\n\n Reason: This agreement is void as the two parties are thinking about\n different subject matters so that there is no real consent, and the\n agreement may be treated as void because of mistake of fact as well\n as absence of consensus.\n\n (iii) The said agreement is valid.\n\n Reason: An agreement by which any person is restrained from\n exercising a lawful profession, trade or business of any kind, is to that\n extent void (Section 27). But, as an exception, agreement of service\n by which an employee binds himself, during the term of his\n agreement, not to compete with his employer is not in restraint of\n trade.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q6: State with reason(s) whether the following ag...",
+        "scenarioText": "State with reason(s) whether the following agreements are valid or void\n as per the Indian Contract Act, 1872:\n\n (i) Where two courts have jurisdiction to try a suit, an agreement\n between the parties that the suit should be filed in one of those\n courts alone and not in the other.\n\n (ii) X offers to sell his Maruti car to Y. Y believes that X has only Wagon R\n Car but agrees to buy it.\n\n (iii) X, a physician and surgeon, employs Y as an assistant on a salary of\n ` 75,000 per month for a term of two years and Y agrees not to\n practice as a surgeon and physician during these two years."
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH2_T2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "6",
+        "sourceReference": "RTP January 2025 Paper 2 Q6"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q7",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "will be your answer, if R sold the water purifier misrepresenting it\n as having a copper filter, while it actually has a normal filter?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, the contention/claim is legally valid and enforceable under section 126 of the Indian Contract Act, 1872, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "As per section 126 of the Indian Contract Act, 1872, the contract of\n guarantee is defined as a contract to perform the promise or discharge\n the liability of a third person in case of his default.\n\n In this case, S has given a guarantee for P's payment obligation towards\n R. When P defaulted after making four monthly instalments and became\n insolvent, S's liability as a guarantor will come into existence.\n\n According to Section 128 of the Act, the liability of the surety is co-\n extensive with that of the principal debtor, unless it is otherwise\n provided by the contract.\n\n Since P failed to pay the remaining instalments due to insolvency, S, as\n the guarantor, is liable to pay the balance price of the water purifier to\n R. In the given situation, S will have to pay the balance amount of\n ` 30,000 to R. [54,000-(4x6,000)]\n\n In the second situation, R sold the water purifier misrepresenting it as\n having a copper filter, while it actually has a normal filter; this changes\n the situation significantly.\n\n�\n\n According to Section 142 of the Act, any guarantee which has been\n obtained by means of misrepresentation made by the creditor, or with\n his knowledge and assent, concerning a material part of the transaction,\n is invalid. Here, guarantee is obtained by means of misrepresentation\n made by the creditor (R), and therefore the guarantee is invalid.\n\n Furthermore, under Section 143, any guarantee which the creditor has\n obtained by means of keeping silence as to material circumstances, is\n invalid.\n\n Here R misrepresented the filter type and both P and S were unaware of\n this fact. The creditor (R) has obtained the guarantee by remaining silent\n as to material circumstances. Therefore, the guarantee obtained from S\n will be considered to be invalid.\n\n Consequently, S cannot be held liable to pay the balance price of the\n water purifier to R.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q7: R owns an electronics store. P visited the st...",
+        "scenarioText": "R owns an electronics store. P visited the store to buy a water purifier\n priced at ` 54,000/. He specifically requested R for a purifier with a\n copper filter. As P wanted to buy the purifier on credit, with the\n intention of paying in 9 equal monthly instalments, R demands a\n guarantor for the transaction. S (a friend of P) came forward and gave\n the guarantee for payment of water purifier. R sold P, a water purifier of\n a specific brand. P made payment for 4 monthly instalments and after\n that became insolvent. Explain with reference to the Indian Contract Act,\n 1872, the liability of S as a guarantor to pay the balance price of water\n purifier to R.\n\n What will be your answer, if R sold the water purifier misrepresenting it\n as having a copper filter, while it actually has a normal filter? Neither P\n nor S was aware of this fact and upon discovering the truth, P refused to\n pay the price. In response to P's refusal, R filed the suit against S, the\n\n�\n\n guarantor. Explain with reference to the Indian Contract Act, 1872,\n whether S is liable to pay the balance price of water purifier to R?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH2_T3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "7",
+        "sourceReference": "RTP January 2025 Paper 2 Q7"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q8",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "The Sale of Goods Act, 1930",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, the contention/claim is legally valid and enforceable under section 25(1) of the Sale of Goods Act, 1930, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "(A) Agreement made based on natural love and affection: Conditions\n to be fulfilled under section 25(1) of the Indian Contract Act, 1872\n\n (i) It must be made out of natural love and affection between\n the parties.\n\n (ii) Parties must stand in near relationship to each other.\n\n (iii) It must be in writing.\n\n (iv) It must also be registered under the law.\n\n A written and registered agreement based on natural love and\n affection between the parties standing in near relation (e.g., husband\n and wife) to each other is enforceable even without consideration.\n\n (B) Promise to pay time barred debts: Where a promise in writing\n signed by the person making it or by his authorised agent, is made to\n pay a debt barred by limitation it is valid without consideration\n [Section 25(3)].",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q8: What are the conditions need to be fulfilled ...",
+        "scenarioText": "What are the conditions need to be fulfilled to make the following\n agreements valid without consideration as per the provisions of the\n Indian Contract Act, 1872?\n\n (A) Agreement made based on natural love and affection\n\n (B) Promise to pay time-barred debts\n\nThe Sale of Goods Act, 1930"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH3_T2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "8",
+        "sourceReference": "RTP January 2025 Paper 2 Q8"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q9",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "of Goods Act, 1930.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention is valid because private agreement between parties overrides explicit statutory rules."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, because customary commercial practice automatically establishes legal entitlement."
+        },
+        {
+          "letter": "C",
+          "text": "No, but relief is granted on equitable grounds independent of statutory requirements."
+        },
+        {
+          "letter": "D",
+          "text": "No, the contention/claim is not legally sustainable under Section 7 of the Sale of Goods Act, 1930, based on statutory provisions and the established facts."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(i) Goods perishing before making of Contract (Section 7 of the Sale\n of Goods Act, 1930): In accordance with the provisions of the Sale of\n Goods Act, 1930 as contained in Section 7, a contract for the sale of\n specific goods is void, if at the time when the contract was made; the\n\n�\n\n goods without the knowledge of the seller, perished or become so\n damaged as no longer to answer to their description in the contract,\n then the contract is void ab initio.\n\n (ii) Goods perishing before sale but after agreement to sell (Section\n 8 of the Sale of Goods Act, 1930): Where there is an agreement to\n sell specific goods, and subsequently the goods without any fault on\n the part of the seller or buyer perish or become so damaged as no\n longer to answer to their description in the agreement before the risk\n passes to the buyer, the agreement is thereby avoided or becomes\n void.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q9: What are the consequences of the destruction ...",
+        "scenarioText": "What are the consequences of the destruction of specified goods,\n before making of contract and after the agreement to sell under the Sale\n of Goods Act, 1930."
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH3_T3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "9",
+        "sourceReference": "RTP January 2025 Paper 2 Q9"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q10",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "Decide the legal position and rights of the parties in accordance with the provisions of the Sale of Goods Act, 1930.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 17 of the Sale of Goods Act, 1930, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "B",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "(i) Sale by sample [Section 17 of the Sale of Goods Act, 1930]: In a\n contract of sale by sample, there is an implied condition that\n\n (a) the bulk shall correspond with the sample in quality;\n\n (b) the buyer shall have a reasonable opportunity of comparing\n the bulk with the sample,\n\n (c) the goods shall be free from any defect rendering them un-\n merchantable, which would not be apparent on reasonable\n examination of the sample. This condition is applicable only\n with regard to defects, which could not be discovered by an\n ordinary examination of the goods. If the defects are latent,\n then the buyer can avoid the contract. This simply means\n that the goods shall be free from any latent defect i.e. a\n hidden defect.\n\n (ii) The following are the implied warranties operative under the\n Act:",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q10: What are the implied conditions in a contract...",
+        "scenarioText": "What are the implied conditions in a contract of 'Sale by sample' under\n the Sale of Goods Act, 1930? Also state the implied warranties operative\n under the Act."
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH3_T2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "10",
+        "sourceReference": "RTP January 2025 Paper 2 Q10"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q11",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "will replace blue stones with Sapphire stones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 4(3) of the Sale of Goods Act, 1930, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "As per Section 4(3) of the Sale of Goods Act, 1930, where under a\n contract of sale, the property in the goods is transferred from the seller\n to the buyer, the contract is called a sale, but where the transfer of the\n property in the goods is to take place at a future time or subject to\n some condition thereafter to be fulfilled, the contract is called an\n agreement to sell and as per Section 4(4), an agreement to sell becomes\n a sale when the time elapses or the conditions are fulfilled subject to\n which the property in the goods is to be transferred.\n\n (i) On the basis of above provisions and facts given in the question, it\n can be said that there is an agreement to sell between Shubhangi\n and Jeweller and not a sale. Even though the payment was made by\n Shubhangi, the property in goods can be transferred only after the\n fulfilment of conditions fixed between the buyer and the seller. As\n due to Sapphire Stones, the original design is disturbed, necklace is\n not in original position. Hence, Shubhangi has right to avoid the\n agreement to sell and can recover the price paid.\n\n�\n\n (ii) If Jeweller offers to bring the necklace in original position by\n repairing, he cannot charge extra cost from Shubhangi. Even\n though he has to bear some expenses for repair; he cannot charge\n it from Shubhangi.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q11: Shubhangi went to a Jewellery shop and asked ...",
+        "scenarioText": "Shubhangi went to a Jewellery shop and asked the salesgirl to show her\n diamond necklace with Sapphire stones. The Jeweller told her that we\n have a lot of designs of diamond necklace but with blue stones. If she\n chooses for herself any special design of diamond necklace with blue\n stones, they will replace blue stones with Sapphire stones. But for the\n Sapphire stones they will charge some extra cost. Shubhangi selected a\n beautiful designer necklace and paid for it. She also paid the extra cost\n of Sapphire stones. The Jeweller requested her to come back a week\n later for delivery of that necklace. When she came after a week to take\n delivery of necklace, she noticed that due to Sapphire stones, the design\n of necklace had been completely disturbed. Now, she wants to terminate\n the contract and thus, asked the manager to give her money back, but\n he denied for the same. Answer the following questions as per the Sale\n of Goods Act, 1930.\n\n (i) State with reasons whether Shubhangi can recover the amount from\n the Jeweller.\n\n (ii) What would be your answer if Jeweller says that he can change the\n design, but he will charge extra cost for the same?\n\n�"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH3_T2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "11",
+        "sourceReference": "RTP January 2025 Paper 2 Q11"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q12",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "Can the retailer do so?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 24 of the Sale of Goods Act, 1930, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "According to Section 24 of the Sale of Goods Act, 1930, in case of\n delivery of goods on approval basis, the property in goods passes from\n seller to the buyer:-\n\n (i) When the person to whom the goods are given either accepts them\n or does an act which implies adopting the transaction.\n\n (ii) When the person to whom the goods are given retains the goods\n without giving his approval or giving notice of rejection beyond the\n time fixed for the return of goods and in case no time is fixed after\n the lapse of reasonable time.\n\n In the given case, J (seller) has delivered on approval 100 bags of rice of\n 10 kg each to local retailer (buyer) on sale or returnable basis within a\n month of delivery. Out of these 100 bags, the local retailer sold 5 bags\n to K (customer). It implies that the local retailer has accepted 5 bags out\n of 100.\n\n A week later, local retailer received the complaint of some defect in the\n rice bags, so, he wanted to return all the bags to the J (seller).\n\n According to the above provisions, the local retailer is entitled to return\n only 95 bags to the J (seller) and not those 4 bags which are not used by\n K. Because, as per clause (i) above, the local retailer has already sold 5\n bags, signifying that he has done an act which implies adopting the\n transaction relating to those 5 bags.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q12: J, a wholesaler of premium Basmati rice deliv...",
+        "scenarioText": "J, a wholesaler of premium Basmati rice delivered on approval 100 bags\n of rice of 10 kg each to a local retailer, on sale or returnable basis within\n a month of delivery. The next day the retailer sold 5 bags of rice to a\n regular customer K. A week later K informed the retailer that the quality\n of rice was not as per the price.\n\n The retailer now wants to return all the rice bags to J, including the 4\n bags not used by K. Can the retailer do so?\n\n Also briefly describe the provisions underlying in this context of the Sale\n of Goods Act, 1930."
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH3_T3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "12",
+        "sourceReference": "RTP January 2025 Paper 2 Q12"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q13",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "Will she be\n successful?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 17 of the Sale of Goods Act, 1930, as all mandatory statutory conditions are satisfied."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(i) As per the provisions of Sub-Section (2) of Section 17 of the Sale of\n Goods Act, 1930, in a contract of sale by sample, there is an implied\n condition that:\n\n (a) the bulk shall correspond with the sample in quality;\n\n (b) the buyer shall have a reasonable opportunity of comparing\n the bulk with the sample.\n\n In the instant case, in the light of the provisions of Sub-Clause (b) of\n Sub-Section (2) of Section 17 of the Act, Mrs. Kanchan will not be\n\n�\n\n successful as she casually examined the sample of rice (which exactly\n corresponded to the entire lot) without noticing the fact that even\n though the sample was that of Basmati Rice but it contained a mix of\n long and short grains.\n\n (ii) In case Mrs. Kanchan specified her exact requirement as to length of\n rice, then there is an implied condition that the goods shall\n correspond with the description. If it is not so, the seller will be held\n liable.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q13: Mrs. Kanchan went to the local rice and wheat...",
+        "scenarioText": "Mrs. Kanchan went to the local rice and wheat wholesale shop and asked\n for 100 kgs of Basmati rice. The Shopkeeper quoted the price of the\n same as ` 125 per kg to which she agreed. Mrs. Kanchan insisted that\n she would like to see the sample of what would be provided to her by\n the shopkeeper before she agreed upon such purchase.\n\n The shopkeeper showed her a bowl of rice as sample. The sample exactly\n corresponded to the entire lot.\n\n Mrs. Kanchan examined the sample casually without noticing the fact\n that even though the sample was that of Basmati Rice but it contained a\n mix of long and short grains.\n\n The cook on opening the bags complained that the dish if prepared with\n the rice would not taste the same as the quality of rice was not as per\n requirement of the dish.\n\n Now Mrs. Kanchan wants to file a suit of fraud against the seller alleging\n him of selling a mix of good and cheap quality rice. Will she be\n successful?\n\n What would be your answer in case Mrs. Kanchan specified her exact\n requirement as to length of rice?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH3_T2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "13",
+        "sourceReference": "RTP January 2025 Paper 2 Q13"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q14",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "Decide the case with reference to the provisions of the Sale of\n Goods Act, 1930.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 50 of the Sale of Goods Act, 1930, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "B",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Right of stoppage in transit (Section 50 of the Sale of Goods Act,\n 1930):\n\n Subject to the provisions of this Act, when the buyer of goods becomes\n insolvent, the unpaid seller who has parted with the possession of the\n goods has the right of stopping them in transit, that is to say, he may\n resume possession of the goods as long as they are in the course of\n transit and may retain them until paid or tendered price of the goods.\n\n When the unpaid seller has parted with the goods to a carrier and the\n buyer has become insolvent, he can exercise this right of asking the\n carrier to return the goods back, or not to deliver the goods to the\n buyer.\n\n In the instant case, Tushar, the buyer becomes insolvent, and 450 bags\n are in transit. Ravi, the seller, can stop the goods in transit by giving a\n notice of it to Tushar. The official receiver, on Tushar's insolvency cannot\n claim the bags.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q14: Ravi sold 500 bags of wheat to Tushar. Each b...",
+        "scenarioText": "Ravi sold 500 bags of wheat to Tushar. Each bag contains 50 Kilograms\n of wheat. Ravi sent 450 bags by road transport and Tushar himself took\n remaining 50 bags. Before Tushar receives delivery of 450 bags sent by\n road transport, he becomes bankrupt. Ravi being still unpaid, stops the\n bags in transit. The official receiver, on Tushar's insolvency claims the\n\n�\n\n bags. Decide the case with reference to the provisions of the Sale of\n Goods Act, 1930.\n\nThe Indian Partnership Act, 1932\n\n15. (i) What do you mean by 'Partnership for a fixed period' as per the\n Indian Partnership Act, 1932?\n\n (ii) When the continuing guarantee can be revoked under the Indian\n Partnership Act, 1932?\n\n (iii) What do you mean by Goodwill as per the provisions of Indian\n Partnership Act, 1932?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH3_T4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "14",
+        "sourceReference": "RTP January 2025 Paper 2 Q14"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q16",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "is determined to continue the business for the\n remaining Period.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 40 of the Indian Partnership Act, 1932, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Section 40 of the Indian Partnership Act, 1932, gives right to the\n partners to dissolve the partnership by agreement with the consent of\n all the partners or in accordance with a contract between the partners.\n `Contract between the partners' means a contract already made.\n\n Also, according to section 44, the Court may, at the suit of a partner,\n may dissolve a firm on various grounds including where the business of\n the firm cannot be carried on except at a loss (in future also).\n\n In the instant case, P wants to continue the partnership business despite\n the losses incurred over the past four years and Q and R are reluctant to\n continue operating the business due to continuous losses.\n\n Here, P can insist on continuing the business if the partnership\n agreement does not specifically provide such a right to one or more\n partner / partners since Section 40 specifies that with the consent of all\n the partners or in accordance with a contract between the partners the\n firm can be dissolved.\n\n Options available to Q and R\n\n Mutual Agreement to Dissolve the Partnership: Q and R can propose\n to P that the partnership be dissolved by mutual agreement. If P agrees,\n the partnership can be dissolved amicably.\n\n Dissolution by the Court: If P does not agree to dissolve the\n partnership mutually, Q and R can approach the court for an order\n under Section 44.\n\n�",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q16: P, Q and R formed a partnership agreement to ...",
+        "scenarioText": "P, Q and R formed a partnership agreement to operate motor buses\n along specific routes for a duration of 12 years. After operating the\n business for four years, it was observed that the business incurred losses\n each year. Despite this, P is determined to continue the business for the\n remaining Period. Examine with reference to the Indian Partnership Act,\n 1932, can P insist to continue the business? If so, what options are\n available to Q and R who are reluctant to continue operating the\n business?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH4_T3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "16",
+        "sourceReference": "RTP January 2025 Paper 2 Q16"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q17",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "the various effects of insolvency of a partner.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention is valid because private agreement between parties overrides explicit statutory rules."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, because customary commercial practice automatically establishes legal entitlement."
+        },
+        {
+          "letter": "C",
+          "text": "No, the contention/claim is not legally sustainable under Section 34 of the Indian Partnership Act, 1932, based on statutory provisions and the established facts."
+        },
+        {
+          "letter": "D",
+          "text": "No, but relief is granted on equitable grounds independent of statutory requirements."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Effects of insolvency of a partner (Section 34 of the Indian\n Partnership Act, 1932):\n\n (i) The insolvent partner cannot be continued as a partner.\n\n (ii) He will be ceased to be a partner from the very date on which the\n order of adjudication is made.\n\n (iii) The estate of the insolvent partner is not liable for the acts of the\n firm done after the date of order of adjudication.\n\n (iv) The firm is also not liable for any act of the insolvent partner after\n the date of the order of adjudication,\n\n (v) Ordinarily, the insolvency of a partner results in dissolution of a\n firm; but the partners are competent to agree among themselves\n that the adjudication of a partner as an insolvent will not give rise\n to dissolution of the firm.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q17: With reference to the provisions of Indian Pa...",
+        "scenarioText": "With reference to the provisions of Indian Partnership Act, 1932 explain\n the various effects of insolvency of a partner."
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH4_T3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "17",
+        "sourceReference": "RTP January 2025 Paper 2 Q17"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q18",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "is their common friend.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention is valid because private agreement between parties overrides explicit statutory rules."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, because customary commercial practice automatically establishes legal entitlement."
+        },
+        {
+          "letter": "C",
+          "text": "No, but relief is granted on equitable grounds independent of statutory requirements."
+        },
+        {
+          "letter": "D",
+          "text": "No, the contention/claim is not legally sustainable under Section 28 of the Indian Partnership Act, 1932, based on statutory provisions and the established facts."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Partner by holding out (Section 28 of the Indian Partnership Act,\n 1932):\n\n Anyone who by words spoken or written or by conduct represents\n himself, or knowingly permits himself to be represented, to be a partner\n in a firm, is liable as a partner in that firm to anyone who has on the\n faith of any such representation given credit to the firm, whether the\n person representing himself or represented to be a partner does or does\n not know that the representation has reached the person so giving\n credit.\n\n In the instant case, since Gopal allowed himself to be represented as a\n partner to the RS & Co. and third parties acted based on this belief and\n therefore, Gopal is held liable to Sundar as he represented himself by his\n act to be a partner to the RS & Co.\n\n However, Gopal is not liable to Madhav for the liabilities incurred by the\n firm. Information of Gopal being a partner to the firm was shared by the\n Sundar (Supplier to the firm) which is not falling within the ambit of\n doctrine of holding out.\n\n Hence Gopal is liable to Sundar and not to Madhav for the liability of the\n Firm.\n\n�",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q18: Ram and Shyam are partners in a partnership f...",
+        "scenarioText": "Ram and Shyam are partners in a partnership firm styled as RS & Co.\n (the firm). Gopal, a renowned businessman, is their common friend. Ram\n introduced Gopal to Sundar, a supplier to the firm, as his newly joined\n partner. Gopal knowing that he is not a partner preferred to keep quiet\n on such an introduction. This information about Gopal, being a partner\n of the firm, was shared by Sundar with another businessman Madhav.\n Next day, Sundar supplied the raw material on credit and Madhav lent `\n 5 lakhs to the firm for a short period on the understanding that Gopal is\n a partner of the firm. On due dates, the firm failed to discharge its\n liability towards both. Advise Gopal, whether he is liable to Sundar and\n Madhav for the aforesaid liability of the firm.\n\n�\n\nThe Limited Liability Partnership Act, 2008"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH4_T2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "18",
+        "sourceReference": "RTP January 2025 Paper 2 Q18"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q19",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "is a new form of legal business entity with limited liability.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 2(1)(d) of the Indian Partnership Act, 1932, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "B",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Body corporate: Section 2(1)(d) of the LLP Act, 2008 provides that a LLP\n is a body corporate formed and incorporated under this Act and is a\n legal entity separate from that of its partners and shall have perpetual\n succession. Therefore, any change in the partners of a LLP shall not\n affect the existence, rights or liabilities of the LLP.\n\n Section 3 of LLP Act, 2008, provides that a LLP is a body corporate\n formed and incorporated under this Act and is a legal entity separate\n from that of its partners.\n\n Mutual Agency: No partner is liable on account of the independent or\n un-authorized actions of other partners, thus individual partners are\n shielded from joint liability created by another partner's wrongful\n business decisions or misconduct. In other words, all partners will be the\n agents of the LLP alone. No one partner can bind the other partner by\n his acts.\n\n Foreign LLPs: Section 2(1)(m) defines foreign limited liability\n partnership \"as a limited liability partnership formed, incorporated, or\n registered outside India which established as place of business within\n India\". Foreign LLP can become a partner in an Indian LLP.\n\n Artificial Legal Person: A LLP is an artificial legal person because it is\n created by a legal process and is clothed with all rights of an individual.\n It can do everything which any natural person can do, except of course\n that, it cannot be sent to jail, cannot take an oath, cannot marry or get\n divorce nor can it practice a learned profession like CA or Medicine. A\n LLP is invisible, intangible, immortal (it can be dissolved by law alone)\n but not fictitious because it really exists.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q19: A LLP is a new form of legal business entity ...",
+        "scenarioText": "A LLP is a new form of legal business entity with limited liability. It's an\n alternative corporate business vehicle that only gives the benefits of\n limited liability at low compliance cost but allows its partners the\n flexibility of organizing their internal structure as a traditional\n partnership. Keeping in view of above, define the following\n characteristics of LLP.\n\n (i) Body Corporate\n\n (ii) Mutual Agency\n\n (iii) Foreign LLPs\n\n (iv) Artificial legal person\n\nThe Companies Act, 2013"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH4_T1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "19",
+        "sourceReference": "RTP January 2025 Paper 2 Q19"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q20",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "whether PQ Private Limited is a subsidiary of BC\n Private Limited.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 2(87) of the Companies Act, 2013, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(i) Section 2(87) of the Companies Act, 2013 defines \"subsidiary\n company\" in relation to any other company (that is to say the holding\n company), means a company in which the holding company--\n\n (i) controls the composition of the Board of Directors; or\n\n (ii) exercises or controls more than one-half of the total voting\n power either at its own or together with one or more of its\n subsidiary companies:\n\n�\n\n For the purposes of this section --\n\n (I) a company shall be deemed to be a subsidiary company of\n the holding company even if the control referred to in sub-\n clause (i) or sub-clause (ii) is of another subsidiary company\n of the holding company;\n\n (II) \"layer\" in relation to a holding company means its subsidiary\n or subsidiaries.\n\n In the instant case, BC Private Limited together with its subsidiary KL\n Private Limited is holding 1,60,000 shares (90,000+70,000\n respectively) which is more than one half in nominal value of the\n Equity Share Capital of PQ Private Limited. Hence, PQ Private Limited\n is subsidiary of BC Private Limited.\n\n (ii) In the second case, the answer will remain the same. KL Private\n Limited is a holding 1,60,000 shares i.e., more than one half in\n nominal value of the Equity Share Capital of PQ Private Limited (i.e.,\n holding more than one half of voting power). Hence, KL Private\n Limited is holding company of PQ Private Company and BC Private\n Limited is a holding company of KL Private Limited.\n\n Hence, by virtue of Chain relationship, BC Private Limited becomes\n the holding company of PQ Private Limited.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q20: BC Private Limited and its subsidiary KL Priv...",
+        "scenarioText": "BC Private Limited and its subsidiary KL Private Limited are holding\n 90,000 and 70,000 shares respectively in PQ Private Limited. The paid-up\n share capital of PQ Private Limited is ` 30 Lakhs (3 Lakhs equity shares\n of ` 10 each fully paid). Analyse with reference to provisions of the\n Companies Act, 2013 whether PQ Private Limited is a subsidiary of BC\n Private Limited. What would be your answer if KL Private Limited is\n holding 1,60,000 shares in PQ Private Limited and no shares are held by\n BC Private Limited in PQ Private Limited?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH6_T1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "20",
+        "sourceReference": "RTP January 2025 Paper 2 Q20"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q21",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "is a Government Company.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 2(45) of the Companies Act, 2013, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "According to the provisions of Section 2(45) of Companies Act, 2013,\n Government Company means any company in which not less than 51%\n of the paid-up share capital is held by-\n\n (i) the Central Government, or\n\n (ii) by any State Government or Governments, or\n\n (iii) partly by the Central Government and partly by one or more State\n Governments, and the section includes a company which is a\n subsidiary company of such a Government company.\n\n According to Section 2(87), \"subsidiary company\" in relation to any\n other company (that is to say the holding company), means a company\n in which the holding exercises or controls more than one-half of the\n total voting power either at its own or together with one or more of its\n subsidiary companies.\n\n�\n\n By virtue of provisions of Section 2(87) of Companies Act, 2013, Shah\n Auto Private Limited is a subsidiary company of Narendra Motors\n Limited because Narendra Motors Limited is holding more than one-half\n of the total voting power in Shah Auto Private Limited. Further as per\n Section 2(45), a subsidiary company of Government Company is also\n termed as Government Company. Hence, Shah Auto Private Limited\n being subsidiary of Narendra Motors Limited will also be considered as\n Government Company.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q21: Narendra Motors Limited is a Government Compa...",
+        "scenarioText": "Narendra Motors Limited is a Government Company. Shah Auto Private\n Limited have share capital of ` 10 crore in the form of 10,00,000 shares\n of ` 100 each. Narendra Motors Limited is holding 5,05,000 shares in\n Shah Auto Private Limited. Shah Auto Private Limited claimed the status\n of Government Company. Advise as legal advisor, whether Shah Auto\n Private Limited is Government Company under the provisions of\n Companies Act, 2013?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH6_T1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "21",
+        "sourceReference": "RTP January 2025 Paper 2 Q21"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q22",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "is a company incorporated under the Companies Act, 2013.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 2(45) of the Companies Act, 2013, as all mandatory statutory conditions are satisfied."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Under the Companies Act, 2013, a Government company is defined in\n Section 2(45) as a company in which not less than 51% of the paid-up\n share capital is held by:\n\n � The Central Government, or\n\n � Any State Government or Governments, or\n\n � Partly by the Central Government and partly by one or more State\n Governments,\n\n And includes a company which is a subsidiary company of such a\n Government company.\n\n In the instant case, total Government Shareholding is 40% [i.e. 20%\n (Government of India) + 10% (Government of Tamil Nadu) + 10%\n (Government of Rajasthan)] = 40%\n\n The holding of the Life Insurance Corporation of India i.e. 8% and ABC\n Limited i.e. 15%, total amounting to 23% cannot be taken into account\n while counting the prescribed limit of 51%.\n\n Since the total shareholding held by the Central Government and State\n Governments combined is 40%, which is less than 51%, XYZ Limited\n does not qualify to be a Government company under the provisions of\n the Companies Act, 2013.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q22: XYZ is a company incorporated under the Compa...",
+        "scenarioText": "XYZ is a company incorporated under the Companies Act, 2013.\n\n The paid up share capital of the company is held by others as on\n 31.03.2024 in as under:\n\n (1) Government of India 20%\n\n (2) Life Insurance Corporation of India (Public Institution) 8%\n\n�\n\n (3) Government of Tamil Nadu 10%\n\n (4) Government of Rajasthan 10%\n\n (5) ABC Limited (owned by Government Company) 15%\n\n As per the above shareholding, state whether XYZ limited be called a\n government company under the provisions of the Companies Act, 2013.\n\nThe Negotiable Instruments Act, 1881"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH6_T1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "22",
+        "sourceReference": "RTP January 2025 Paper 2 Q22"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q23",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "whether-\n\n (i) Mr.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 138 of the Negotiable Instruments Act, 1881, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "B",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dishonour of Cheque for Insufficiency, Etc., of funds in the accounts\n [Section 138 of the Negotiable Instruments Act, 1881]\n\n Where any cheque drawn by a person on an account maintained by him\n with a banker--\n\n�\n\n � for payment of any amount of money\n\n � to another person from that account\n\n � for the discharge, in whole or in part, of any debt or other liability,\n [A cheque given as gift or donation, or as a security or in discharge\n of a mere moral obligation, or for an illegal consideration, would\n be outside the purview of this section]\n\n � is returned by the bank unpaid,\n\n � either because of the--\n\n o amount of money standing to the credit of that account is\n insufficient to honour the cheque, or\n\n o that it exceeds the amount arranged to be paid from that\n account by an agreement made with that bank,\n\n such person shall be deemed to have committed an offence and shall,\n be punished with imprisonment for a term which may extend to two\n years, or with fine which may extend to twice the amount of the cheque,\n or with both.\n\n In the instant case,\n\n (i) Since Y's cheque was dishonoured by the Bank due to insufficiency of\n funds in his account, he shall be deemed to have committed an\n offence and shall, be punished with imprisonment for a term which\n may extend to two years, or with fine which may extend to Rs. 20,000,\n or with both.\n\n (ii) A cheque given as gift or donation, or as a security or in discharge of\n a mere moral obligation, or for an illegal consideration, would be\n outside the purview of this section. Hence, if Y issued a cheque as a\n donation to Mr. Z, he shall not be liable under section 138 of the Act.",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q23: Mr. Y issued a cheque for  10,000 to Mr. Z w...",
+        "scenarioText": "Mr. Y issued a cheque for ` 10,000 to Mr. Z which was dishonoured by\n the Bank because Y did not have enough funds in his account and has\n no authority to overdraw. Examine as per the provisions of the\n Negotiable Instruments Act, 1881 whether-\n\n (i) Mr. Y is liable for dishonour of cheque, if yes, what are the\n consequences for such an offence?\n\n (ii) What would be your answer if Y issued a cheque as a donation to\n Mr. Z?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH7_T1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "23",
+        "sourceReference": "RTP January 2025 Paper 2 Q23"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P2_CS_Q24",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "is a global leader in Petrochemical\n products.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, the contention/claim is legally valid and enforceable under section 11 of the Negotiable Instruments Act, 1881, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "As per section 11 of the Negotiable Instruments Act, 1881, a\n promissory note, bill of exchange or cheque drawn or made in India and\n made payable in, or drawn upon any person resident in India shall be\n deemed to be an inland instrument.\n\n�\n\nIn the instant case, the bill of exchange was:\n\n� Drawn in India (since it was drawn by Reliable Limited, an Indian\n company).\n\n� Accepted in India (Manish, a resident of Mumbai, accepted the bill in\n Mumbai).\n\n� Payable outside India, in Los Angeles, USA.\n\nThe bill of exchange in this case is an inland instrument because it was\ndrawn in India and accepted by a person resident in India, even though\nit is payable outside India (Los Angeles, USA).\n\n�",
+      "caseStudy": {
+        "title": "RTP January 2025 — Case Problem Q24: Reliable Limited, an Indian company, is a glo...",
+        "scenarioText": "Reliable Limited, an Indian company, is a global leader in Petrochemical\n products. For payment of the sale price of machinery imported from\n Alex Manufacturing Limited, a USA based company (the exporter), the\n Indian company drew a bill of exchange on Manish, a resident of\n Mumbai (India) who accepted the bill at Mumbai payable to the exporter\n in Los Angeles, USA. Decide whether the bill of exchange is an inland\n instrument or a foreign instrument. Assume that the bill of exchange\n was signed by the authorised person for the drawer company."
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH7_T1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "24",
+        "sourceReference": "RTP January 2025 Paper 2 Q24"
+      }
+    }
+  ]
+}

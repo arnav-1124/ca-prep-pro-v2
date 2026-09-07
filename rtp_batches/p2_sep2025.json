@@ -1,0 +1,714 @@
+{
+  "batchName": "CA Foundation Business Laws (Paper 2) - Official RTP September 2025 (Case Study Bank)",
+  "sourceType": "RTP",
+  "sourceTitle": "ICAI Revision Test Paper (RTP) September 2025",
+  "sourceYear": 2025,
+  "sourceMonth": 9,
+  "curriculumVersionId": "1677d3d5-fb55-40c3-b853-410432eb913f",
+  "questions": [
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q3",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "will complete the interior work\n upto 31.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention/claim is legally valid and enforceable under the provisions of the Indian Contract Act, 1872, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "B",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The agreement must be to share the profits of a business\n and",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q3: CA. Sarthak Jain had decided to get interior ...",
+        "scenarioText": "CA. Sarthak Jain had decided to get interior work for his new office. For\n this purpose, he entered into a contract with M/s Sherry Fine Interiors. It\n was agreed that M/s Sherry Fine Interiors will complete the interior work\n upto 31.01.2025. On 31.01.2025, CA. Sarthak Jain observed that only\n 20% to 30% work is completed. He decided to cancel the contract with\n M/s Sherry Fine Interiors. M/s Sherry Fine Interiors filed the suit against\n CA. Sarthak Jain for recovery of the cost which he incurred on the\n interior work. CA. Sarthak Jain argued that M/s Sherry Fine Interiors did\n not complete the work within the time as per contract and further the\n work done till 31.01.2025 by M/s Sherry Fine Interiors was of no use to\n\n� \n\n him as he has to appoint new interior designer. Explain, whether CA.\n Sarthak Jain is liable to pay the cost of work done by M/s Sherry Fine\n Interiors under the provisions of the Indian Contract Act, 1872?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH2_T3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "3",
+        "sourceReference": "RTP September 2025 Paper 2 Q3"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q4",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "will be liable to pay the price of\n mobile as per the provisions of the Indian Contract Act, 1872?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 27 of the Indian Partnership Act, 1932, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The business was carried on by all or any of them acting for\n all.\n\n On the basis of the above provisions and facts provided in the\n question, Mr. Ram and Mr. Raheem cannot be said under\n partnership as they are teachers in a school and just purchased a\n flat jointly.\n\n By merely giving the flat on rent, they are not doing business. They\n are just earning the income from the property under their co-\n ownership. Hence, there is no partnership between them.\n Therefore, Mr. Ram is liable to pay his share only i.e. ` 1500.\n Mr. John has to claim the rest of ` 1500 from Mr. Raheem.\n\n� \n\n (ii) Liability of Firm for Misapplication by Partners (Section 27 of\n the Indian Partnership Act, 1932):\n\n The two clauses of Section 27 bring out an important point of\n distinction between the two categories of cases of misapplication\n of money by partners.\n\n Clause (a) covers the case where a partner acts within his authority\n and due to his authority as a partner, he receives money or\n property belonging to a third party and misapplies that money or\n property. For this provision to be attracted, it is not necessary that\n the money should have actually come into the custody of the firm.\n\n On the other hand, the provision of clause (b) would be attracted\n when such money or property has come into the custody of the\n firm, and it is misapplied by any of the partners.\n\n The firm would be liable in both cases.",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q4: Rohan of 17 years has purchased a mobile of ...",
+        "scenarioText": "Rohan of 17 years has purchased a mobile of ` 25,000 for his online\n classes from Mobile Sales Centre on credit. On due date, he did not\n make the payment of mobile. Mobile Sales Centre sued Rohan and his\n parents for the price of mobile. Rohan has ` 15,000 as his cash balance\n but his father has enough money to pay the price of mobile. Examine\n the given situation and answer who will be liable to pay the price of\n mobile as per the provisions of the Indian Contract Act, 1872?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH4_T2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "4",
+        "sourceReference": "RTP September 2025 Paper 2 Q4"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q5",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "will be liable\n to pay the price of wheat?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 72 of the Indian Contract Act, 1872, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "By virtue of provisions of Section 72 of the Indian Contract Act, 1872, a\n person to whom money has been paid or anything delivered by mistake\n or under coercion, must repay or return it. Further, as per decision taken\n in case of Shivprasad Vs Sirish Chandra, every kind of payment of money\n or delivery of goods for every type of `mistake' is recoverable.\n\n In the instant case, Akhil contracted M/s Sahil Kirana Store for supply of\n 100 Kgs of wheat which to be delivered by the evening. In the evening,\n the hawker of M/s Sahil Kirana Store mistakenly delivered 100 Kgs wheat\n at the house of neighbor of Akhil.\n\n As the hawker of M/s Sahil Kirana Store mistakenly delivered 100 Kgs\n wheat at the house of neighbor of Akhil and neighbor accepted the\n wheat, there is a quasi-contract between M/s Sahil Kirana Store and\n neighbor. Hence, neighbor will be liable to pay the price of wheat.",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q5: Akhil ordered 100 Kgs of wheat to M/s Sahil K...",
+        "scenarioText": "Akhil ordered 100 Kgs of wheat to M/s Sahil Kirana Store, and it\n promised to supply the wheat by the evening. In the evening, the\n hawker of M/s Sahil Kirana Store comes with 100 Kgs of wheat but\n mistakenly he delivered it at the house of neighbor of Akhil. Referring to\n the provisions of the Indian Contract Act, 1872, advice who will be liable\n to pay the price of wheat?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH2_T5"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "5",
+        "sourceReference": "RTP September 2025 Paper 2 Q5"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q6",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "whether M/s Kushwah Travels can recover the car from the Rahul\n before the time fixed for bailment?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention is valid because private agreement between parties overrides explicit statutory rules."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, because customary commercial practice automatically establishes legal entitlement."
+        },
+        {
+          "letter": "C",
+          "text": "No, but relief is granted on equitable grounds independent of statutory requirements."
+        },
+        {
+          "letter": "D",
+          "text": "No, the contention/claim is not legally sustainable under Section 159 of the Indian Contract Act, 1872, based on statutory provisions and the established facts."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "According to the Section 159 of the Indian Contract Act, 1872, when the\n goods are lent gratuitously, the bailor can demand back the goods at\n any time even before the expiry of the time fixed or the achievement of\n the object. However, due to the premature return of the goods, if the\n bailee suffers any loss, which is more than the benefit actually obtained\n by him from the use of the goods bailed, the bailor has to compensate\n the bailee.\n\n� \n\n In the given problem, Rahul hired a car for 15 days from M/s Kushwah\n Travels but just after five days, M/s Kushwah Travels demanded back his\n car from Rahul. Rahul refused to return the car before the period of\n bailment, i.e. 15 days. M/s Kushwah Travels filed suit against Rahul for\n recovery of car.\n\n Premature recovery of goods bailed available only in case of gratuitous\n bailment. If bailment is for hire, this right is not available to bailor even\n he is ready to compensate for such premature return. Hence,\n M/s Kushwah Travels cannot recover back the goods before 15 days.",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q6: Rahul hired a car for 15 days from M/s Kushwa...",
+        "scenarioText": "Rahul hired a car for 15 days from M/s Kushwah Travels. After five days,\n M/s Kushwah Travels demanded back his car from Rahul. He was also\n agreed to compensate for any loss suffered by Rahul due to such\n premature return of goods. But Rahul refused to return the car before\n the period of bailment i.e. 15 days. M/s Kushwah Travels sued Rahul for\n recovery of car. Referring to the provisions of the Indian Contract Act,\n 1872, whether M/s Kushwah Travels can recover the car from the Rahul\n before the time fixed for bailment?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH2_T3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "6",
+        "sourceReference": "RTP September 2025 Paper 2 Q6"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q7",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "whether Ajay was liable to pay commission to Vijay?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention/claim is legally valid and enforceable under section 208 of the Sale of Goods Act, 1930, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "B",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "According to section 208 of the Indian Contract Act, 1872, the\n termination of the authority of an agent does not, so far as regards the\n agent, take effect before it becomes known to him, or so far as regards\n third persons, before it becomes known to them.\n\n In the instant case, Vijay was appointed by Ajay to sell his electronic\n goods and for which Vijay will be given 10% commission on the sale\n price. Subsequently, Ajay revokes Vijay's authority by sending the letter\n to Vijay on 3rd March which was received by Vijay on 7th March. But on\n 5th March, Vijay already sold the goods worth ` 1,20,000. He claimed for\n commission from Ajay, but Ajay refused.\n\n Since, Vijay came to know about revocation of agency after selling the\n goods, and so therefore, he has right to claim the commission from Ajay.",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q7: Ajay appoints Vijay to sell his electronic go...",
+        "scenarioText": "Ajay appoints Vijay to sell his electronic goods lying in his godown. He\n also agrees to give 10% commission on the sale price to Vijay.\n Afterwards, Ajay revokes Vijay's authority by sending the letter to Vijay.\n The letter was sent on 3rd March which was received by Vijay on 7th\n March. On 5th March, Vijay sold the goods worth `1,20,000. He claimed\n for commission from Ajay, but Ajay refused as he already revoked the\n agency before sale of goods. Referring the provisions of the Indian\n Contract Act, 1872, whether Ajay was liable to pay commission to Vijay?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH3_T1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "7",
+        "sourceReference": "RTP September 2025 Paper 2 Q7"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q8",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "can a party claim\n compensation under this doctrine?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention is valid because private agreement between parties overrides explicit statutory rules."
+        },
+        {
+          "letter": "B",
+          "text": "No, the contention/claim is not legally sustainable under the provisions of the Indian Contract Act, 1872, based on statutory provisions and the established facts."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, because customary commercial practice automatically establishes legal entitlement."
+        },
+        {
+          "letter": "D",
+          "text": "No, but relief is granted on equitable grounds independent of statutory requirements."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Quantum Meruit: Where one person has rendered service to another in\n circumstances which indicate an understanding between them that it is\n to be paid for although no particular remuneration has been fixed, the\n law will infer a promise to pay. Quantum Meruit i.e. as much as the party\n doing the service has deserved. It covers a case where the party injured\n by the breach had at the time of the breach done part but not all of the\n work which he is bound to do under the contract and seeks to be\n compensated for the value of the work done. For the application of this\n doctrine, two conditions must be fulfilled:\n\n (1) It is only available if the original contract has been discharged.\n\n (2) The claim must be brought by a party not in default.\n\n� \n\n The object of allowing a claim on quantum meruit is to recompensate\n the party or person for value of work which he has done. Damages are\n compensatory in nature while quantum merit is restitutory. It is but\n reasonable compensation awarded on implication of a contract to\n remunerate.\n\n The claim for quantum meruit arises in the following cases:\n\n (a) When an agreement is discovered to be void or when a contract\n becomes void.\n\n (b) When something is done without any intention to do so\n gratuitously.\n\n (c) Where there is an express or implied contract to render services\n but there is no agreement as to remuneration.\n\n (d) When one party abandons or refuses to perform the contract.\n\n (e) Where a contract is divisible and the party not in default has\n enjoyed the benefit of part performance.\n\n (f) When an indivisible contract for a lump sum is completely\n performed but badly the person who has performed the contract\n can claim the lump sum, but the other party can make a deduction\n for bad work.",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q8: Explain the concept of Quantum Meruit with re...",
+        "scenarioText": "Explain the concept of Quantum Meruit with reference to the Indian\n Contract Act, 1872. Under what circumstances can a party claim\n compensation under this doctrine?\n\n�"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH2_T4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "8",
+        "sourceReference": "RTP September 2025 Paper 2 Q8"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q10",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "decide who will be held responsible for the above\n damage.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, the contention/claim is legally valid and enforceable under section 44 of the Sale of Goods Act, 1930, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "(i) According to section 44 of the Sale of Goods Act, 1930, when the\n (ii) seller is ready and willing to deliver the goods and requests the\n buyer to take delivery, and the buyer does not within a reasonable",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q10: Mr. G sold some goods to Mr. H for a certain ...",
+        "scenarioText": "Mr. G sold some goods to Mr. H for a certain price by issue of an\n invoice, but payment in respect of the same was not received on that\n day. The goods were packed and lying in the godown of Mr. G. The\n goods were inspected by H's agent and were found to be in order. Later\n on, the dues of the goods were settled in cash. Just after receiving cash,\n Mr. G asked Mr. H that goods should be taken away from his godown to\n enable him to store other goods purchased by him. After one day, since\n Mr. H did not take delivery of the goods, Mr. G kept the goods out of\n the godown in an open space. Due to rain, some goods were damaged.\n\n Referring to the provisions of the Sale of Goods Act, 1930, analyse the\n above situation and decide who will be held responsible for the above\n damage. Will your answer be different if the dues were not settled in\n cash and are still pending?"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH3_T3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "10",
+        "sourceReference": "RTP September 2025 Paper 2 Q10"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q11",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "Will she be\n successful?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 55(1) of the Sale of Goods Act, 1930, as all mandatory statutory conditions are satisfied."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(i) time after such request take delivery of the goods, he is liable to\n the seller for any loss occasioned by his neglect or refusal to take\n delivery and also for a reasonable charge for the care and custody\n of the goods.\n\n Risk of loss of goods prima facie follows the passing of property in\n goods. Goods remain at the seller's risk unless the property there\n in is transferred to the buyer, but after transfer of property therein\n to the buyer, the goods are at the buyer's risk whether delivery has\n been made or not.\n\n In the given case, since Mr. G has already intimated Mr. H, that he\n wanted to store some other goods and thus Mr. H should take the\n delivery of goods kept in the godown of Mr. G, the loss of goods\n damaged should be borne by Mr. H.\n\n If the price of the goods were not settled in cash and some\n amount would have been pending then Mr. G would be treated as\n an unpaid seller and he can enforce the following rights against\n the goods as well as against the buyer personally:\n\n (a) Where under a contract of sale, the property in the goods\n has passed to the buyer and the buyer wrongfully neglects or\n refuses to pay for the goods according to the terms of the\n contract, the seller may sue him for the price of the goods.\n [Section 55(1) of the Sales of Goods Act, 1930]\n\n (b) Where under a contract of sale the price is payable on a day\n certain irrespective of delivery and the buyer wrongfully\n neglects or refuses to pay such price, the seller may sue him\n for the price although the property in the goods has not\n passed and the goods have not been appropriated to the\n contract. [Section 55(2) of the Sales of Goods Act, 1930].\n\n As per the provisions of Sub-Section (2) of Section 17 of the Sale\n of Goods Act, 1930, in a contract of sale by sample, there is an\n implied condition that:\n\n� \n\n (a) the bulk shall correspond with the sample in quality;\n\n (b) the buyer shall have a reasonable opportunity of comparing\n the bulk with the sample.\n\n (c) the goods shall be free from an defect, rendering them\n unmerchantable, which would not be apparent in reasonable\n examination of the sample.\n\n In the instant case, in the light of the stated above provision,\n Mrs. Seema will not be successful as she casually examined the\n sample of rice (which exactly corresponded to the entire lot)\n without noticing the fact that even though the sample was that of\n Basmati Rice but it contained a mix of long and short grains.\n\n (ii) In case Mrs. Seema specified her exact requirement as to length of\n rice, then there is an implied condition that the goods shall\n correspond with the description. If it is not so, the seller will be\n held liable.",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q11: Mrs. Seema went to the local rice and wheat w...",
+        "scenarioText": "Mrs. Seema went to the local rice and wheat wholesale shop and asked\n for 100 kgs of Basmati rice. The Shopkeeper quoted the price of the\n same as ` 125 per kg to which she agreed. Mrs. Seema insisted that she\n would like to see the sample of what would be provided to her by the\n shopkeeper before she agreed upon such a purchase.\n\n The shopkeeper showed her a bowl of rice as a sample. The sample\n exactly corresponded to the entire lot.\n\n The buyer examined the sample casually without noticing the fact that\n even though the sample was that of Basmati Rice, it contained a mix of\n long and short grains.\n\n The cook on opening the bags complained that the dish, if prepared\n with the rice would not taste the same as the quality of rice was not as\n per requirement of the dish.\n\n Now Mrs. Seema wants to file a suit of fraud against the seller alleging\n him of selling a mix of good and cheap quality rice. Will she be\n successful?\n\n� \n\n What would be your answer in case Mrs. Seema specified her exact\n requirement as to length of rice?\n\n12. (i) Raghav arranges an auction to sale an antic wall clock. Deepa,\n being one of the bidders, gives the highest bid. For announcing\n the completion of sale, the auctioneer falls the hammer on table\n but suddenly hammer brakes and damages the clock. Deepa wants\n to avoid the contract. Can she do so under the provisions of the\n Sale of Goods Act, 1930?\n\n (ii) X contracted to sell his car to Y. They did not discuss the price of\n the car at all. X later refused to sell his car to Y on the ground that\n the agreement was void being uncertain about price. Can Y\n demand the car under the Sale of Goods Act, 1930?\n\n13. (i) State the various essential elements involved in the sale of\n unascertained goods and their appropriation as per the Sale of\n Goods Act, 1930.\n\n (ii) What are the consequences of the destruction of specified goods,\n before making of contract and after the agreement to sell under\n the Sale of Goods Act, 1930."
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH3_T4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "11",
+        "sourceReference": "RTP September 2025 Paper 2 Q11"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q15",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "is doing business\n of trading of plastic bottles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 13(e) of the Indian Partnership Act, 1932, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "B",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "According to Section 13(e) of the Indian Partnership Act, 1932, every\n partner has the right to be indemnified by the firm in respect of\n payments made and liabilities incurred by him in the ordinary and\n proper conduct of the business of the firm as well as in the performance\n of an act in an emergency for protecting the firm from any loss, if the\n payments, liability and act are such as a prudent man would make, incur\n or perform in his own case, under similar circumstances.\n\n M/s Aee Bee & Company is doing business of trading of plastic bottles.\n A and B, partners of the firm, authorised A to sell the stock of plastic\n bottles on the condition to sale at the minimum price. In case A has to\n sell at a price less than the minimum price, he should first take the\n permission of B. Due to some emergency, A sold the stock at lower price\n to save the firm from loss. A couldn't contact B as he was on foreign trip.\n B filed the suit to recover the difference of sale price and minimum price\n to the firm.\n\n On the basis of the above provisions and facts of the problem given,\n selling by A at a lower price was to save the firm from loss. As the act of\n A was in favour of firm, he was not liable to bear the loss.",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q15: A and B are partners in M/s Aee Bee & Company...",
+        "scenarioText": "A and B are partners in M/s Aee Bee & Company. Firm is doing business\n of trading of plastic bottles. A is authorised to sell the stock of plastic\n bottles. It was decided between them that A should sell the plastic\n bottles at the minimum price which they have decided and if A sell at a\n price less than minimum price, he should first take the permission of B.\n Due to sudden change in government policy, the price of plastic bottles\n was continuously declining. To save the loss of firm, A sold the stock at\n lower price. Meanwhile, A tried to contact B but couldn't do so as B was\n on foreign trip. Afterwards when B came, he filed the suit to recover the\n difference of sale price and minimum price to the firm. Whether B can\n do so under the provisions of the Indian Partnership Act, 1932?\n\n�"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH4_T2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "15",
+        "sourceReference": "RTP September 2025 Paper 2 Q15"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q16",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "Can a partner be expelled?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention is valid because private agreement between parties overrides explicit statutory rules."
+        },
+        {
+          "letter": "B",
+          "text": "No, the contention/claim is not legally sustainable under Section 33 of the Indian Partnership Act, 1932, based on statutory provisions and the established facts."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, because customary commercial practice automatically establishes legal entitlement."
+        },
+        {
+          "letter": "D",
+          "text": "No, but relief is granted on equitable grounds independent of statutory requirements."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Expulsion of partner and factors to be kept in mind:\n\n As per Section 33 of the Indian Partnership Act, 1932, a partner may not\n be expelled from a firm except\n\n (i) the power of expulsion must have existed in a contract between\n the partners;\n\n (ii) the power has been exercised by a majority of the partners; and\n\n (iii) it has been exercised in good faith.\n\n If all these conditions are not present, the expulsion is not deemed to be\n in bonafide interest of the business of the firm and shall be null and\n void.\n\n� \n\n The test of good faith as required under Section 33(1) includes three\n things:\n\n (i) The expulsion must be in the interest of the partnership\n\n (ii) The partner to be expelled is served with a notice\n\n (iii) He is given an opportunity of being heard.\n\n Yes, a partner may be expelled by other partners strictly in compliance\n with the provisions of section 33.",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q16: Can a partner be expelled? If so, how? Which ...",
+        "scenarioText": "Can a partner be expelled? If so, how? Which factors should be kept in\n mind prior to expelling a partner from the firm by the other partners\n according to the provision of the Indian Partnership Act, 1932?\n\n17. (i) Mr. Ram and Mr. Raheem are working as teachers in Ishwarchand\n Vidhyasagar Higher Secondary School and also are very good\n friends. They jointly purchased a flat which was given on rent to\n Mr. John. It was decided between landlords and tenant that the\n rent would be ` 10,000 per month inclusive of electricity bill. It\n means electricity bill will be paid by landlords. The landlords, by\n mistake, did not pay the electricity bill for the month of March\n 2025. Due to this, the electricity department cut the connection.\n Mr. John has to pay the electricity bill of ` 2800 and ` 200 as a\n penalty to resume the electricity connection. Mr. John claimed\n ` 3000 from Mr. Ram but Mr. Ram replied that he is liable only for\n ` 1500.\n\n Mr. John said that Mr. Ram and Mr. Raheem are partners therefore\n he can claim the full amount from any of the partners. Comment in\n the light of the relevant legal provision of the Indian Partnership\n Act, 1932, the legal position and the correctness of the liability of\n Mr. Ram to pay whole amount of ` 3000 to Mr. John?\n\n (ii) Explain in detail the circumstances which lead to liability of firm for\n misapplication by partners as per provisions of the Indian\n Partnership Act, 1932.\n\n18. (i) P, Q and R formed a partnership agreement to operate motor\n buses along specific routes for a duration of 12 years. After\n operating the business for four years, it was observed that the\n business incurred losses each year. Despite this, P is determined to\n continue the business for the remaining Period. Examine with\n reference to the Indian Partnership Act, 1932, can P insist to\n continue the business? If so, what options are available to Q and R\n who are not wanting to continue operating the business?\n\n (ii) A and B operate a textile merchant business in partnership. Mr. A\n finances the business and is a sleeping partner. In the regular\n course of business, B acquires certain fabric goods belonging to C.\n However, B is aware that these goods are stolen property. Despite\n\n� \n\n this knowledge, B proceeds to purchase and sell some of these\n stolen goods. Moreover, B records proceeds from these sales in\n the firm's books. Later A comes to know of the fact of B,s conduct\n on the transaction with C. So he decided to avoid his liability\n towards C, on the grounds of misconduct by B. In the light of the\n provisions of the Indian Partnership Act, 1932 discuss the liability\n of A and B towards C. Comment upon the decision of A in the said\n transaction.\n\nThe Limited Liability Partnership Act, 2008"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH4_T1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "16",
+        "sourceReference": "RTP September 2025 Paper 2 Q16"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q19",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "The Companies Act, 2013",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 5 of the Indian Partnership Act, 1932, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Partners (Section 5 of the LLP Act, 2008): Any individual or body\n corporate may be a partner in a LLP. However, an individual shall not be\n capable of becoming a partner of a LLP, if--\n\n (a) he has been found to be of unsound mind by a Court of\n competent jurisdiction and the finding is in force;\n\n (b) he is an undischarged insolvent; or\n\n (c) he has applied to be adjudicated as an insolvent and his\n application is pending.\n\n� \n\n Minimum number of partners (Section 6):\n\n (i) Every LLP shall have at least two partners.\n\n (ii) If at any time the number of partners of a LLP is reduced below\n two and the LLP carries on business for more than six months\n while the number is so reduced, the person, who is the only\n partner of the LLP during the time that it so carries on business\n after those six months and has the knowledge of the fact that it is\n carrying on business with him alone, shall be liable personally for\n the obligations of the LLP incurred during that period.",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q19: Explain the legal provisions regarding the el...",
+        "scenarioText": "Explain the legal provisions regarding the eligibility of persons to\n become partners in a Limited Liability Partnership (LLP) under the LLP\n Act, 2008. What are the consequences if LLP carries on business with less\n than the minimum number of partners as prescribed?\n\nThe Companies Act, 2013"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH4_T1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "19",
+        "sourceReference": "RTP September 2025 Paper 2 Q19"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q20",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "is the holding company of Glassware Private\n Limited.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention is valid because private agreement between parties overrides explicit statutory rules."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, because customary commercial practice automatically establishes legal entitlement."
+        },
+        {
+          "letter": "C",
+          "text": "No, but relief is granted on equitable grounds independent of statutory requirements."
+        },
+        {
+          "letter": "D",
+          "text": "No, the contention/claim is not legally sustainable under section 2(85) of the Companies Act, 2013, based on statutory provisions and the established facts."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "As per section 2(85) of the Companies Act, 2013, Small Company means\n a company, other than a public company:\n\n (i) paid-up share capital of which does not exceed four crore rupees,\n and\n\n (ii) turnover of which as per profit and loss account for the\n immediately preceding financial year does not exceed forty crore\n rupees:\n\n Provided that nothing in this clause shall apply to--\n\n (A) a holding company or a subsidiary company;\n\n (B) a company registered under section 8; or\n\n (C) a company or body corporate governed by any special Act.\n\n In the instant case, as per the last profit and loss account for the year\n ending 31st March, 2025 of Glassware Private Limited, its turnover was to\n the extent of ` 1.80 crore, and paid-up share capital was ` 80 lakh.\n Though Glassware Private Limited, as per the turnover and paid-up\n share capital norms, qualifies for the status of a `small company' but it\n cannot be categorized as a `small company' because it is the subsidiary\n of another company (Tycoon Private Limited).\n\n Hence, the contention of the Company Secretary is correct.",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q20: Tycoon Private Limited is the holding company...",
+        "scenarioText": "Tycoon Private Limited is the holding company of Glassware Private\n Limited. As per the last profit and loss account for the year ending\n 31st March, 2025 of Glassware Private Limited, its turnover was ` 1.80\n crore and paid up share capital was ` 80 lakh. The Board of Directors\n wants to avail the status of a small company. The Company Secretary of\n the company advised the directors that Glassware Private Limited cannot\n be categorized as a small company. In the light of the above facts and in\n accordance with the provisions of the Companies Act, 2013, you are\n required to examine whether the contention of Company Secretary is\n correct, explaining the relevant provisions of the Act."
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH6_T1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "20",
+        "sourceReference": "RTP September 2025 Paper 2 Q20"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q21",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "Is Flower Fans Private Limited no longer in existence?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, the contention/claim is legally valid and enforceable under the provisions of the Companies Act, 2013, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "B",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "(A) Perpetual Succession - A company on incorporation becomes a\n separate legal entity. It is an artificial legal person and have perpetual\n succession which means even if all the members of a company die,\n the company still continues to exist. It has permanent existence.\n\n� \n\n The existence of a company is independent of the lives of its\n members. It has a perpetual succession. In this problem, the\n company will continue as a legal entity. The company's existence is\n in no way affected by the death of all its members.\n\n (B) The statement given is incorrect - A company is an artificial\n person as it is created by a process other than natural birth. It is\n legal or judicial as it is created by law. It is a person since it is\n clothed with all the rights of an individual. Further, the company\n being a separate legal entity can own property, have banking\n account, raise loans, incur liabilities and enter into contracts. Even\n members can contract with company, acquire right against it or\n incur liability to it. It can sue and be sued in its own name. It can\n do everything which any natural person can do except be sent to\n jail, take an oath, marry or practice a learned profession. Hence, it\n is a legal person in its own sense.",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q21: In the Flower Fans Private Limited, there are...",
+        "scenarioText": "In the Flower Fans Private Limited, there are only 5 members. All of them\n went on a pleasure trip in a boat into an open sea. The boat overturn\n and all of them were drowned. Explain with reference to the provisions\n of the Companies Act, 2013:\n\n (A) Is Flower Fans Private Limited no longer in existence?\n\n (B) Further is it correct to say that a company being an artificial\n person cannot own property and cannot sue or be sued?\n\n�"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH6_T2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "21",
+        "sourceReference": "RTP September 2025 Paper 2 Q21"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q22",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "will not solicit the customers after leaving the\n employment from the company.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, the contention/claim is legally valid and enforceable under the provisions of the Companies Act, 2013, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "C",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Corporate Veil: Corporate Veil refers to a legal concept whereby the\n company is identified separately from the members of the company.\n\n The term Corporate Veil refers to the concept that members of a\n company are shielded from liability connected to the company's actions.\n If the company incurs any debts or contravenes any laws, the corporate\n veil concept implies that members should not be liable for those errors.\n In other words, they enjoy corporate insulation.\n\n Thus, the shareholders are protected from the acts of the company.\n\n However, under certain exceptional circumstances, the courts lift or\n pierce the corporate veil by ignoring the separate entity of the company\n and the promoters and other persons who have managed and controlled\n the affairs of the company. Thus, when the corporate veil is lifted by the\n courts, the promoters and persons exercising control over the affairs of\n the company are held personally liable for the acts and debts of the\n company.\n\n The following are the cases where company law disregards the principle\n of corporate personality or the principle that the company is a legal\n entity distinct and separate from its shareholders or members:\n\n� \n\n (i) To determine the character of the company i.e. to find out whether\n co-enemy or friend.\n\n (ii) To protect revenue/tax\n\n (iii) To avoid a legal obligation\n\n (iv) Formation of subsidiaries to act as agents\n\n (v) Company formed for fraud/improper conduct or to defeat law\n\n Based on the above provisions and leading case law of Gilford Motor Co.\n Vs Horne, the company PQR Limited was created to avoid the legal\n obligation arising out of the contract, therefore that employee Mr. Karan\n and the company PQR Limited created by him should be treated as one\n and thus veil between the company and that person shall be lifted.\n Karan has formed the company only for fraud/improper conduct or to\n defeat the law. Hence, he shall be personally held liable for the acts of\n the company.",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q22: An employee, Mr. Karan, signed a contract wit...",
+        "scenarioText": "An employee, Mr. Karan, signed a contract with his employer company,\n ABC Limited, that he will not solicit the customers after leaving the\n employment from the company.\n\n But after Mr. Karan left ABC Limited, he started up his own company,\n PQR Limited and started soliciting the customers of ABC Limited for his\n own business purposes.\n\n ABC Limited filed a case against Mr. Karan for breach of employment\n contract and for soliciting their customers for own business. Mr. Karan\n contended that there is a corporate veil between him and his company\n and he should not be personally held liable for this.\n\n In this context, the ABC Limited seeks your advice as to the meaning of\n corporate veil and when the veil can be lifted to make the owners liable\n for the acts done by a company."
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH6_T2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "22",
+        "sourceReference": "RTP September 2025 Paper 2 Q22"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q23",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "is a Government Company.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 2(45) of the Companies Act, 2013, as all mandatory statutory conditions are satisfied."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "According to the provisions of Section 2(45) of the Companies Act, 2013,\n Government Company means any company in which not less than 51%\n of the paid-up share capital is held by-\n\n (i) the Central Government, or\n\n (ii) by any State Government or Governments, or\n\n (iii) partly by the Central Government and partly by one or more State\n Governments, and the section includes a company which is a\n subsidiary company of such a Government company.\n\n According to Section 2(87), \"subsidiary company\" in relation to any\n other company (that is to say the holding company), means a company\n in which the holding company exercises or controls more than one-half\n of the total voting power either at its own or together with one or more\n of its subsidiary companies.\n\n By virtue of provisions of Section 2(87) of the Companies Act, 2013,\n Rama Auto Private Limited is a subsidiary company of Pacific Motors\n Limited because Pacific Motors Limited holds more than one-half of the\n\n� \n\n total voting power in Rama Auto Private Limited. Further as per Section\n 2(45), a subsidiary company of Government Company is also termed as\n Government Company.\n\n Hence, Rama Auto Private Limited, being a subsidiary of Pacific Motors\n Limited will also be considered as a Government Company.",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q23: Pacific Motors Limited is a Government Compan...",
+        "scenarioText": "Pacific Motors Limited is a Government Company. Rama Auto Private\n Limited is a private company having share capital of ten crores in the\n form of ten lakh shares of ` 100 each. Pacific Motors Limited is holding\n five lakh five thousand shares in Rama Auto Private Limited. Rama Auto\n Private Limited claimed the status of Government Company. Advise as\n legal advisor, whether Rama Auto Private Limited is a Government\n Company under the provisions of the Companies Act, 2013?\n\nThe Negotiable Instruments Act, 1881"
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH6_T1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "23",
+        "sourceReference": "RTP September 2025 Paper 2 Q23"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P2_CS_Q24",
+      "questionType": "CASE_STUDY",
+      "difficulty": "HARD",
+      "questionText": "decide, whether Akash can enforce the payment of\n the bill against Baban or the previous parties.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, the claim is barred due to statutory exceptions and lack of requisite compliance."
+        },
+        {
+          "letter": "B",
+          "text": "No, because commercial agreements require express registration and government sanction to take effect."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, but relief is strictly restricted to nominal damages without enforcement of core legal rights."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, the contention/claim is legally valid and enforceable under Section 46 of the Negotiable Instruments Act, 1881, as all mandatory statutory conditions are satisfied."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(i) Importance of Delivery in Negotiation [Section 46 of the\n Negotiable Instruments Act, 1881]\n\n Delivery of an instrument is essential whether the instrument is\n payable to bearer or order for effecting the negotiation. The\n delivery must be voluntary, and the object of delivery should be to\n pass the property in the instrument to the person to whom it is\n delivered. The delivery can be, actual or constructive. Actual\n delivery takes place when the instrument changes hand physically.\n Constructive delivery takes place when the instrument is delivered\n to the agent, clerk or servant of the indorsee on his behalf or when\n the indorser, after indorsement, holds the instrument as an agent\n of the indorsee.\n\n Section 46 also lays down that when an instrument is conditionally\n or for a special purpose only, the property in it does not pass to\n the transferee, even though it is indorsed to him, unless the\n instrument is negotiated to a holder in due course.\n\n The contract on a negotiable instrument until delivery remains\n incomplete and revocable. Delivery is essential not only at the time\n of negotiation but also at the time of making or drawing of\n negotiable instrument. The rights in the instrument are not\n transferred to the indorsee unless after the indorsement the same\n has been delivered. If a person makes the indorsement of\n instrument but before the same could be delivered to the\n indorsee, the indorser dies, the legal representatives of the\n deceased person cannot negotiate the same by mere delivery\n thereof. (Section 57).\n\n� \n\n In the instant case, Ankit the only son of Gagan delivered the bill\n to Akash on the next day as intended by his deceased father\n (Gagan) which is not valid.\n\n Hence, Akash cannot enforce the payment of the bill against\n Baban or the previous parties.\n\n (ii) As per section 11 of the Negotiable Instruments Act, 1881, a\n promissory note, bill of exchange or cheque drawn or made in\n India and made payable in or drawn upon any person resident in\n India shall be deemed to be an inland instrument.\n\n In the instant case, the bill of exchange was:\n\n � Drawn in India (since it was drawn by Reliable Limited, an\n Indian company).\n\n � Accepted in India (Manish, a resident of Mumbai, accepted\n the bill in Mumbai).\n\n � Payable outside India, in Los Angeles, USA.\n\n The bill of exchange in this case is an inland instrument because it\n was drawn in India and accepted by a person resident in India,\n even though it is payable outside India (Los Angeles, USA).",
+      "caseStudy": {
+        "title": "RTP September 2025 — Case Problem Q24: Referring to the provisions of the Negotiable...",
+        "scenarioText": "Referring to the provisions of the Negotiable Instruments Act, 1881,\n answer the following in the given scenario:\n\n (i) Aman drew the bill of exchange (the bill) on Baban, who accepted\n it, payable to Magan or order. Magan indorsed the bill to Gagan.\n Gagan indorsed the bill to Akash to be delivered to him on the\n next day. However, on the death of Gagan on the same day, his\n only son Ankit delivered the bill to Akash on the next day as\n intended by his deceased father. On presenting the bill on the due\n date, Baban refused to pay. Explaining the importance of delivery\n in negotiation, decide, whether Akash can enforce the payment of\n the bill against Baban or the previous parties.\n\n� \n\n (ii) Reliable Limited, an Indian company, is a global leader in\n Petrochemical products. For payment of the sale price of\n machinery imported from Alex Manufacturing Limited, a USA\n based company (the exporter), the Indian company drew a bill of\n exchange on Manish, a resident of Mumbai (India) who accepted\n the bill at Mumbai payable to the exporter in Los Angeles, USA.\n Decide, whether the bill of exchange is an inland instrument or a\n foreign instrument. Assume that the bill of exchange was signed\n by the authorised person for the drawer company."
+      },
+      "curriculum": {
+        "subjectCode": "PAPER_2",
+        "nodeCode": "FND_P2_CH7_T2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "2",
+        "questionNumber": "24",
+        "sourceReference": "RTP September 2025 Paper 2 Q24"
+      }
+    }
+  ]
+}

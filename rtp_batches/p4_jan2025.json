@@ -1,0 +1,970 @@
+{
+  "batchName": "CA Foundation Business Economics (Paper 4) - Official RTP January 2025",
+  "sourceType": "RTP",
+  "sourceTitle": "ICAI Revision Test Paper (RTP) January 2025",
+  "sourceYear": 2025,
+  "sourceMonth": 1,
+  "curriculumVersionId": "1677d3d5-fb55-40c3-b853-410432eb913f",
+  "questions": [
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q1",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "In explaining the level of unemployment, Keynes emphasized:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Change in Technology"
+        },
+        {
+          "letter": "B",
+          "text": "Aggregate demand"
+        },
+        {
+          "letter": "C",
+          "text": "Inflationary expectations"
+        },
+        {
+          "letter": "D",
+          "text": "Lending by financial institutions"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q1): Option (B) Aggregate demand.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "1",
+        "sourceReference": "RTP January 2025 Paper 4 Q1"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q2",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "When total demand for a commodity whose price has fallen increases it is due to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Price effect"
+        },
+        {
+          "letter": "B",
+          "text": "Income effect"
+        },
+        {
+          "letter": "C",
+          "text": "Substitution effect"
+        },
+        {
+          "letter": "D",
+          "text": "Complementary effect"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q2): Option (A) Price effect.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "2",
+        "sourceReference": "RTP January 2025 Paper 4 Q2"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q3",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Envelope curve is also called:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Long Run Average Cost curve"
+        },
+        {
+          "letter": "B",
+          "text": "Short Run Average Cost curve"
+        },
+        {
+          "letter": "C",
+          "text": "Average Fixed Cost"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q3): Option (A) Long Run Average Cost curve.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "3",
+        "sourceReference": "RTP January 2025 Paper 4 Q3"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q4",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Electricity Companies sells electricity at a cheaper rate in rural areas than for industrial use due to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Price Discrimination �"
+        },
+        {
+          "letter": "B",
+          "text": "Perfect Competition"
+        },
+        {
+          "letter": "C",
+          "text": "Monopolistic Competition"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q4): Option (A) Price Discrimination �.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "4",
+        "sourceReference": "RTP January 2025 Paper 4 Q4"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q5",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Coincident indicator is not indicated as:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inflation"
+        },
+        {
+          "letter": "B",
+          "text": "Industrial Production"
+        },
+        {
+          "letter": "C",
+          "text": "Retail Sales"
+        },
+        {
+          "letter": "D",
+          "text": "New order for plant and equipment"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q5): Option (D) New order for plant and equipment.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "5",
+        "sourceReference": "RTP January 2025 Paper 4 Q5"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q6",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "The shape of the Cost curve depends upon:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cost function"
+        },
+        {
+          "letter": "B",
+          "text": "Factor of Production"
+        },
+        {
+          "letter": "C",
+          "text": "Outlay"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q6): Option (A) Cost function.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "6",
+        "sourceReference": "RTP January 2025 Paper 4 Q6"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q7",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "In Oligopoly the firms may collude in order to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increase Competition"
+        },
+        {
+          "letter": "B",
+          "text": "Prisoner dilemma for buyers"
+        },
+        {
+          "letter": "C",
+          "text": "To raise the price of the good they offer"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q7): Option (C) To raise the price of the good they offer.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "7",
+        "sourceReference": "RTP January 2025 Paper 4 Q7"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q8",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "How to Produce is related to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Product's Choice"
+        },
+        {
+          "letter": "B",
+          "text": "Choice of technique"
+        },
+        {
+          "letter": "C",
+          "text": "Either (a) or (b)"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q8): Option (B) Choice of technique.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "8",
+        "sourceReference": "RTP January 2025 Paper 4 Q8"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q9",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Snob effect is explained as:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is a function of consumption of others"
+        },
+        {
+          "letter": "B",
+          "text": "It is a function of price �"
+        },
+        {
+          "letter": "C",
+          "text": "Both (a) and (b)"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q9): Option (A) It is a function of consumption of others.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "9",
+        "sourceReference": "RTP January 2025 Paper 4 Q9"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q10",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "To influence spending the monetary policy is directed at directly influencing in the short run:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interest Rate"
+        },
+        {
+          "letter": "B",
+          "text": "Unemployment"
+        },
+        {
+          "letter": "C",
+          "text": "Inflation Rate"
+        },
+        {
+          "letter": "D",
+          "text": "Growth Rate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q10): Option (A) Interest Rate.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "10",
+        "sourceReference": "RTP January 2025 Paper 4 Q10"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q11",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "A firm normal profit earned are included in ___",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explicit Cost"
+        },
+        {
+          "letter": "B",
+          "text": "Implicit Cost"
+        },
+        {
+          "letter": "C",
+          "text": "Variable Cost"
+        },
+        {
+          "letter": "D",
+          "text": "Fixed Cost"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q11): Option (C) Variable Cost.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "11",
+        "sourceReference": "RTP January 2025 Paper 4 Q11"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q12",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Isoquant in the relevant range are:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convex to the Origin"
+        },
+        {
+          "letter": "B",
+          "text": "Negatively Sloped"
+        },
+        {
+          "letter": "C",
+          "text": "Cannot cross"
+        },
+        {
+          "letter": "D",
+          "text": "All of the Above"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q12): Option (D) All of the Above.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "12",
+        "sourceReference": "RTP January 2025 Paper 4 Q12"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q13",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "When Investment in an economy increases from ` 10000 crores to ` 14000 crores and as a result of this national income rises ` 80000 to ` 92000 crores, compute Investment Multiplier.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3"
+        },
+        {
+          "letter": "B",
+          "text": "4"
+        },
+        {
+          "letter": "C",
+          "text": "5"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q13): Option (A) 3.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "13",
+        "sourceReference": "RTP January 2025 Paper 4 Q13"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q14",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Which of the following is an example of market failure?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Externalities �"
+        },
+        {
+          "letter": "B",
+          "text": "Low prices"
+        },
+        {
+          "letter": "C",
+          "text": "Excess supply"
+        },
+        {
+          "letter": "D",
+          "text": "Excludable and rival goods"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q14): Option (A) Externalities �.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "14",
+        "sourceReference": "RTP January 2025 Paper 4 Q14"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q15",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Which of the following is included in M2, a broader measure of money supply compared to M1?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Currency in circulation"
+        },
+        {
+          "letter": "B",
+          "text": "Savings deposits"
+        },
+        {
+          "letter": "C",
+          "text": "Demand deposits"
+        },
+        {
+          "letter": "D",
+          "text": "Traveler's checks"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q15): Option (B) Savings deposits.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "15",
+        "sourceReference": "RTP January 2025 Paper 4 Q15"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q16",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Which of the following is an example of an automatic stabilizer in the budget?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Discretionary spending"
+        },
+        {
+          "letter": "B",
+          "text": "Progressive taxation"
+        },
+        {
+          "letter": "C",
+          "text": "Infrastructure investment"
+        },
+        {
+          "letter": "D",
+          "text": "Unemployment benefits"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q16): Option (D) Unemployment benefits.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "16",
+        "sourceReference": "RTP January 2025 Paper 4 Q16"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q17",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "FDI in telecom sector is raised to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "49%"
+        },
+        {
+          "letter": "B",
+          "text": "51%"
+        },
+        {
+          "letter": "C",
+          "text": "100%"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q17): Option (C) 100%.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH9"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "17",
+        "sourceReference": "RTP January 2025 Paper 4 Q17"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q19",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "The new economic policy of 1991 manifest in:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "State led industrialization and import substitution"
+        },
+        {
+          "letter": "B",
+          "text": "Rethinking the role of markets versus the state"
+        },
+        {
+          "letter": "C",
+          "text": "Emphasized the role of good governance"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q19): Option (B) Rethinking the role of markets versus the state.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "19",
+        "sourceReference": "RTP January 2025 Paper 4 Q19"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q20",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Dumping refers to:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducing tariffs"
+        },
+        {
+          "letter": "B",
+          "text": "Sale of goods abroad at a lower price, below their cost and price in their home market"
+        },
+        {
+          "letter": "C",
+          "text": "Buying goods at low prices abroad and selling at higher prices locally"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q20): Option (B) Sale of goods abroad at a lower price, below their cost and price in their home market.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "20",
+        "sourceReference": "RTP January 2025 Paper 4 Q20"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q21",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "The WTO was established to implement the final act of Uruguay round agreement of:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "MFA"
+        },
+        {
+          "letter": "B",
+          "text": "GATT"
+        },
+        {
+          "letter": "C",
+          "text": "TRIP"
+        },
+        {
+          "letter": "D",
+          "text": "MNC"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q21): Option (B) GATT.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "21",
+        "sourceReference": "RTP January 2025 Paper 4 Q21"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q22",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "_____are also known as International Bank for Reconstruction and Development.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "IMF"
+        },
+        {
+          "letter": "B",
+          "text": "ADB"
+        },
+        {
+          "letter": "C",
+          "text": "World Bank"
+        },
+        {
+          "letter": "D",
+          "text": "ECM"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q22): Option (C) World Bank.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "22",
+        "sourceReference": "RTP January 2025 Paper 4 Q22"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q23",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "An important money market is instrument by the government to bridge the deficit between the revenue and expenditure in the budget.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T-bills"
+        },
+        {
+          "letter": "B",
+          "text": "Bonds �"
+        },
+        {
+          "letter": "C",
+          "text": "CDs"
+        },
+        {
+          "letter": "D",
+          "text": "CPs"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q23): Option (A) T-bills.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "23",
+        "sourceReference": "RTP January 2025 Paper 4 Q23"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q24",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Which of the statements gives a true picture of the effect of lowering the cash reserve ratio by the central bank of a country?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The lending capacity of commercial banks will increase"
+        },
+        {
+          "letter": "B",
+          "text": "The lending capacity of commercial banks will decrease"
+        },
+        {
+          "letter": "C",
+          "text": "The lending capacity of commercial banks may increase or decrease"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q24): Option (A) The lending capacity of commercial banks will increase.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "24",
+        "sourceReference": "RTP January 2025 Paper 4 Q24"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P4_Q25",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Which agency regulates the money supply in India?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Government of India"
+        },
+        {
+          "letter": "B",
+          "text": "Commercial banks"
+        },
+        {
+          "letter": "C",
+          "text": "Reserve Bank of India"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 4: Business Economics, Q25): Option (C) Reserve Bank of India.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "25",
+        "sourceReference": "RTP January 2025 Paper 4 Q25"
+      }
+    }
+  ]
+}

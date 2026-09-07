@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useMemo } from "react";
+import { shufflePracticeOptions } from "@/lib/option-shuffler";
 import {
   getNextQuestionAction,
   submitPracticeAnswerAction,
@@ -284,9 +285,9 @@ export function SessionRunner({
                   </p>
 
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs font-sans">
-                    {item.options.map((opt) => {
-                      const isCorrectOpt = opt.optionLetter === item.correctAnswer;
-                      const isSelectedOpt = opt.optionLetter === item.selectedAnswer;
+                    {shufflePracticeOptions(item.options, item.sessionQuestionId).map((opt) => {
+                      const isCorrectOpt = opt.originalLetter === item.correctAnswer;
+                      const isSelectedOpt = opt.originalLetter === item.selectedAnswer;
 
                       return (
                         <div
@@ -299,7 +300,7 @@ export function SessionRunner({
                           )}
                         >
                           <span className="text-[10px] font-bold shrink-0 mt-0.5">
-                            {opt.optionLetter}.
+                            {opt.displayLetter}.
                           </span>
                           <span className="text-xs leading-relaxed">{opt.optionText}</span>
                         </div>
@@ -347,6 +348,22 @@ export function SessionRunner({
       </div>
     );
   }
+
+  // Randomize / rotate options per question delivery instance while keeping hardcoded A, B, C, D labels
+  const shuffledOptions = useMemo(() => {
+    return shufflePracticeOptions(
+      currentQuestion?.options || [],
+      currentQuestion?.sessionQuestionId || sessionId
+    );
+  }, [currentQuestion?.sessionQuestionId, currentQuestion?.options, sessionId]);
+
+  const correctDisplayLetter = useMemo(() => {
+    if (!submittedResult) return "";
+    const match = shuffledOptions.find(
+      (o) => o.originalLetter === submittedResult.correctAnswer
+    );
+    return match ? match.displayLetter : submittedResult.correctAnswer;
+  }, [submittedResult, shuffledOptions]);
 
   const currentSeq = currentQuestion.sequenceNumber || deliveredCount || 1;
   const progressPercent = Math.min(Math.round((currentSeq / totalQuestions) * 100), 100);
@@ -418,13 +435,12 @@ export function SessionRunner({
 
         {/* Options Selection */}
         <div className="flex flex-col gap-2">
-          {currentQuestion.options.map((opt) => {
-            const letter = opt.optionLetter;
-            const isSelected = selectedOption === letter;
+          {shuffledOptions.map((opt) => {
+            const isSelected = selectedOption === opt.originalLetter;
 
             // In reveal state, highlight correct and incorrect options
             const isRevealed = submittedResult !== null;
-            const isCorrectOption = isRevealed && submittedResult.correctAnswer === letter;
+            const isCorrectOption = isRevealed && submittedResult.correctAnswer === opt.originalLetter;
             const isWrongOption = isRevealed && isSelected && !submittedResult.isCorrect;
 
             return (
@@ -432,7 +448,7 @@ export function SessionRunner({
                 key={opt.id}
                 onClick={() => {
                   if (!isRevealed && !isSubmitting) {
-                    setSelectedOption(letter);
+                    setSelectedOption(opt.originalLetter);
                   }
                 }}
                 className={cn(
@@ -462,7 +478,7 @@ export function SessionRunner({
                   ) : isWrongOption ? (
                     <X className="h-3 w-3 stroke-[3]" />
                   ) : (
-                    letter
+                    opt.displayLetter
                   )}
                 </span>
 
@@ -493,7 +509,7 @@ export function SessionRunner({
               <span className="text-xs font-bold block">
                 {submittedResult.isCorrect
                   ? "Correct Answer! (+1 Mark)"
-                  : `Incorrect. The correct answer is Option ${submittedResult.correctAnswer}.`}
+                  : `Incorrect. The correct answer is Option ${correctDisplayLetter}.`}
               </span>
               <p className="text-[11px] opacity-90">
                 Graded against the authoritative delivered question version.

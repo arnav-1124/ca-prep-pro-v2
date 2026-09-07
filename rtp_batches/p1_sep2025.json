@@ -1,0 +1,266 @@
+{
+  "batchName": "CA Foundation Accounting (Paper 1) - Official RTP September 2025 (Conceptual True/False Bank)",
+  "sourceType": "RTP",
+  "sourceTitle": "ICAI Revision Test Paper (RTP) September 2025",
+  "sourceYear": 2025,
+  "sourceMonth": 9,
+  "curriculumVersionId": "1677d3d5-fb55-40c3-b853-410432eb913f",
+  "questions": [
+    {
+      "externalId": "RTP_2025_SEP2025_P1_TF_A",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"At the end of the year, all the nominal accounts of the ledger book are balanced.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: At the end of the year, all the nominal accounts of the ledger book are totalled and transferred to Profit & Loss A/c.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(a)",
+        "sourceReference": "RTP September 2025 Paper 1 Q1(a)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P1_TF_B",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Outstanding Expenditure is a nominal Account.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Outstanding Expenditure is a personal account of representative nature because it represents a liability due to some person.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(b)",
+        "sourceReference": "RTP September 2025 Paper 1 Q1(b)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P1_TF_C",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Bank reconciliation statement is prepared to arrive at the bank balance.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Bank reconciliation statement is prepared to reconcile and explain the causes of differences between bank balance as per cash book and the same as per bank statement as on a particular date.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(c)",
+        "sourceReference": "RTP September 2025 Paper 1 Q1(c)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P1_TF_D",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"The provision for discount on debtors is calculated before deducting the provision for doubtful debts from debtors.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: The provision for discount on debtors is calculated after deducting the provision for doubtful debts from debtors.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(d)",
+        "sourceReference": "RTP September 2025 Paper 1 Q1(d)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P1_TF_E",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Land is also a depreciable asset.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Land is not a depreciable asset because its useful life is not limited to few years.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH5"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(e)",
+        "sourceReference": "RTP September 2025 Paper 1 Q1(e)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P1_TF_F",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Periodic inventory system is a method of ascertaining inventory by taking an actual physical count.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: Under Periodic inventory system actual physical count of inventory is taken of all the inventory on hand at a particular date.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(f)",
+        "sourceReference": "RTP September 2025 Paper 1 Q1(f)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P1_TF_G",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Both revenue and capital nature transactions are recorded in the Receipts and Payments Account.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: All the receipts and payments whether of revenue or capital nature are included in Receipt and Payment account.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH1_T3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(g)",
+        "sourceReference": "RTP September 2025 Paper 1 Q1(g)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P1_TF_H",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Debentures Suspense Account appears on the Liability side of the Balance Sheet of a Company.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Debentures Suspense Account appears on asset side of Balance Sheet under Non-Current Asset.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(h)",
+        "sourceReference": "RTP September 2025 Paper 1 Q1(h)"
+      }
+    }
+  ]
+}

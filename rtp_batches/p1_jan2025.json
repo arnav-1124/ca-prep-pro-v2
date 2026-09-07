@@ -1,0 +1,330 @@
+{
+  "batchName": "CA Foundation Accounting (Paper 1) - Official RTP January 2025 (Conceptual True/False Bank)",
+  "sourceType": "RTP",
+  "sourceTitle": "ICAI Revision Test Paper (RTP) January 2025",
+  "sourceYear": 2025,
+  "sourceMonth": 1,
+  "curriculumVersionId": "1677d3d5-fb55-40c3-b853-410432eb913f",
+  "questions": [
+    {
+      "externalId": "RTP_2025_JAN2025_P1_TF_I",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"The debit notes issued are used to prepare sales return book.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: The debit notes issued are used to prepare purchases return book.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(i)",
+        "sourceReference": "RTP January 2025 Paper 1 Q1(i)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P1_TF_II",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Sale of office furniture should be credited to Profit and Loss Account.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Sale of office furniture should be credited to Furniture account since it is a capital receipt.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH1_T3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(ii)",
+        "sourceReference": "RTP January 2025 Paper 1 Q1(ii)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P1_TF_III",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Outstanding salaries for the previous year shall be shown as liability in the current year balance sheet.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: It shall be disclosed as a current liability in the opening balance sheet.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(iii)",
+        "sourceReference": "RTP January 2025 Paper 1 Q1(iii)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P1_TF_IV",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"When closing inventory is overstated, net income for the period will be understated.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: When closing inventory is overstated, net income for the period will be overstated.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(iv)",
+        "sourceReference": "RTP January 2025 Paper 1 Q1(iv)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P1_TF_V",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"The results and position disclosed by final accounts are not exact.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: They are prepared on the basis of assumptions, conventions, concepts and personal judgements of the person who prepare them.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH1_T2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(v)",
+        "sourceReference": "RTP January 2025 Paper 1 Q1(v)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P1_TF_VI",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"In case of a public holiday, the due date of the bill falls on the next working day.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: In case of a public holiday, the due date of the bill falls on the preceding working day.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(vi)",
+        "sourceReference": "RTP January 2025 Paper 1 Q1(vi)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P1_TF_VII",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Goodwill is intangible asset therefore it cannot be valued\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Even though Goodwill is intangible asset it can be valued in terms of money. It can be measured in terms of physical units.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH10"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(vii)",
+        "sourceReference": "RTP January 2025 Paper 1 Q1(vii)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P1_TF_VIII",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Where a Non-Profit organization is a separate trading activity, the profit / loss from the trading account shall be transferred to Income Expenditure Account at the time of consolidation.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: Where in case of the trading activities for Non-Profit organization, the profit/loss from such activity is to be transferred to the Income and Expenditure Account at the time of consolidation.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(viii)",
+        "sourceReference": "RTP January 2025 Paper 1 Q1(viii)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P1_TF_IX",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"The firm will receive surrender value of the joint life policy on the death of the partner.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: the firm will receive full value of sum assured of the joint life policy on the death of the partner",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH10"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(ix)",
+        "sourceReference": "RTP January 2025 Paper 1 Q1(ix)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P1_TF_X",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Company X Ltd. is incurring huge losses; the Board of Directors are of the opinion that in case of losses, there is no need to pay interest to debenture holders.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Even if the company incurs losses, it has to pay interest on debentures. Debenture being debts on the company & debenture holders are not concerned with the profit or loss of the company, the interest is to be paid at the rate fixed on it at the time of issue of debenture.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH11"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(x)",
+        "sourceReference": "RTP January 2025 Paper 1 Q1(x)"
+      }
+    }
+  ]
+}

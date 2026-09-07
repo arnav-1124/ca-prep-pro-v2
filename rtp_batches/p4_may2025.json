@@ -1,0 +1,970 @@
+{
+  "batchName": "CA Foundation Business Economics (Paper 4) - Official RTP May 2025",
+  "sourceType": "RTP",
+  "sourceTitle": "ICAI Revision Test Paper (RTP) May 2025",
+  "sourceYear": 2025,
+  "sourceMonth": 5,
+  "curriculumVersionId": "1677d3d5-fb55-40c3-b853-410432eb913f",
+  "questions": [
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q1",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Fiscal federalism primarily deals with:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Distribution of financial resources among different levels of government"
+        },
+        {
+          "letter": "B",
+          "text": "Distribution of power between Legislature and Executive"
+        },
+        {
+          "letter": "C",
+          "text": "Relationship between Judiciary and Legislature"
+        },
+        {
+          "letter": "D",
+          "text": "Conduct of elections in a federal country"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q1): Option (A) Distribution of financial resources among different levels of government.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "1",
+        "sourceReference": "RTP May 2025 Paper 4 Q1"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q2",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Under Article 112, the Annual Financial Statement is presented in which house of Parliament first?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lok Sabha"
+        },
+        {
+          "letter": "B",
+          "text": "Rajya Sabha"
+        },
+        {
+          "letter": "C",
+          "text": "Joint Session of Parliament"
+        },
+        {
+          "letter": "D",
+          "text": "Finance Committee"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q2): Option (A) Lok Sabha.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "2",
+        "sourceReference": "RTP May 2025 Paper 4 Q2"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q3",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Which of the following is NOT a function of NITI Aayog?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Policy formulation and coordination"
+        },
+        {
+          "letter": "B",
+          "text": "Allocation of financial resources to states"
+        },
+        {
+          "letter": "C",
+          "text": "Promoting cooperative federalism"
+        },
+        {
+          "letter": "D",
+          "text": "Serving as a think tank for the government"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q3): Option (B) Allocation of financial resources to states.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH10"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "3",
+        "sourceReference": "RTP May 2025 Paper 4 Q3"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q4",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "The Government offer minimum assured price to the farmers to purchase their Output is called",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Market Price"
+        },
+        {
+          "letter": "B",
+          "text": "Support Price"
+        },
+        {
+          "letter": "C",
+          "text": "Equilibrium Price"
+        },
+        {
+          "letter": "D",
+          "text": "Ceiling Price"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q4): Option (B) Support Price.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "4",
+        "sourceReference": "RTP May 2025 Paper 4 Q4"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q5",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "The Price in Collusive Oligopoly is decided by :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Firm"
+        },
+        {
+          "letter": "B",
+          "text": "Price leader"
+        },
+        {
+          "letter": "C",
+          "text": "The Industry"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q5): Option (B) Price leader.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "5",
+        "sourceReference": "RTP May 2025 Paper 4 Q5"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q6",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "The Distinction between Selling Cost and Production cost was made by :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chamberlin"
+        },
+        {
+          "letter": "B",
+          "text": "Sweezy"
+        },
+        {
+          "letter": "C",
+          "text": "Mrs. Joan Robinson"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q6): Option (A) Chamberlin.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "6",
+        "sourceReference": "RTP May 2025 Paper 4 Q6"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q7",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Which one of the following is not an internal economies of scale?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Technical economies"
+        },
+        {
+          "letter": "B",
+          "text": "Financial economies"
+        },
+        {
+          "letter": "C",
+          "text": "Economies due to localization of industries"
+        },
+        {
+          "letter": "D",
+          "text": "Marketing economies"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q7): Option (C) Economies due to localization of industries.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "7",
+        "sourceReference": "RTP May 2025 Paper 4 Q7"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q8",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "The share of the tax borne by seller will be larger",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If the demand for the product is less elastic."
+        },
+        {
+          "letter": "B",
+          "text": "If the demand for the product is inelastic."
+        },
+        {
+          "letter": "C",
+          "text": "If the demand for the product has greater elasticity."
+        },
+        {
+          "letter": "D",
+          "text": "If the elasticity of supply of the product is larger."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q8): Option (C) If the demand for the product has greater elasticity..",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "8",
+        "sourceReference": "RTP May 2025 Paper 4 Q8"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q9",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "_________ is concerned with welfare proposition.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Normative Economics"
+        },
+        {
+          "letter": "B",
+          "text": "Positive Economics"
+        },
+        {
+          "letter": "C",
+          "text": "Both (a) and (b)"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q9): Option (A) Normative Economics.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "9",
+        "sourceReference": "RTP May 2025 Paper 4 Q9"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q10",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Excess capacity is not found under ____",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monopoly"
+        },
+        {
+          "letter": "B",
+          "text": "Monopolistic competition"
+        },
+        {
+          "letter": "C",
+          "text": "Perfect competition."
+        },
+        {
+          "letter": "D",
+          "text": "Oligopoly"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q10): Option (C) Perfect competition..",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "10",
+        "sourceReference": "RTP May 2025 Paper 4 Q10"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q11",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Information Technology bubble burst of 2000 is an example of :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Business Cycle"
+        },
+        {
+          "letter": "B",
+          "text": "Consumer Sovereignty"
+        },
+        {
+          "letter": "C",
+          "text": "Freedom of choice"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q11): Option (A) Business Cycle.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "11",
+        "sourceReference": "RTP May 2025 Paper 4 Q11"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q12",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "What is the limitation of Consumer Surplus:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumer surplus cannot be measured precisely"
+        },
+        {
+          "letter": "B",
+          "text": "The Consumer surplus derived from a commodity is affected by availability of substitute"
+        },
+        {
+          "letter": "C",
+          "text": "Both (a) & (b)"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q12): Option (C) Both (a) & (b).",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "12",
+        "sourceReference": "RTP May 2025 Paper 4 Q12"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q13",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Example of Third-Degree Price Discrimination:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dumping"
+        },
+        {
+          "letter": "B",
+          "text": "Charging different prices for domestic and commercial uses"
+        },
+        {
+          "letter": "C",
+          "text": "Lower prices in railways for senior citizen"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q13): Option (D) All of the above.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "13",
+        "sourceReference": "RTP May 2025 Paper 4 Q13"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q14",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "What activity is termed as activity of tertiary sector?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wheat production"
+        },
+        {
+          "letter": "B",
+          "text": "Mobile production"
+        },
+        {
+          "letter": "C",
+          "text": "Construction of a dam"
+        },
+        {
+          "letter": "D",
+          "text": "Fishing"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q14): Option (C) Construction of a dam.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "14",
+        "sourceReference": "RTP May 2025 Paper 4 Q14"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q15",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "FII helps to improve:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Capital market"
+        },
+        {
+          "letter": "B",
+          "text": "How of equity capital"
+        },
+        {
+          "letter": "C",
+          "text": "Financial innovation and development"
+        },
+        {
+          "letter": "D",
+          "text": "All the above"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q15): Option (D) All the above.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "15",
+        "sourceReference": "RTP May 2025 Paper 4 Q15"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q16",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Devaluation of Indian Rupee in terms of US Dollar was in the year.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2019"
+        },
+        {
+          "letter": "B",
+          "text": "2000"
+        },
+        {
+          "letter": "C",
+          "text": "1981"
+        },
+        {
+          "letter": "D",
+          "text": "1991"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q16): Option (D) 1991.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "16",
+        "sourceReference": "RTP May 2025 Paper 4 Q16"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q18",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Which of the following statements is true about the money supply?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is the total volume of money that is held by the government of a country"
+        },
+        {
+          "letter": "B",
+          "text": "It is the total volume of money that is held by the general public of a country over a time period"
+        },
+        {
+          "letter": "C",
+          "text": "It is the total volume of money that is held by the general public of a country at a particular point in time"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q18): Option (C) It is the total volume of money that is held by the general public of a country at a particular point in time.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "18",
+        "sourceReference": "RTP May 2025 Paper 4 Q18"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q19",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Which of the following statements is true about credit creation by banks?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Banks create credit on the basis of their total assets"
+        },
+        {
+          "letter": "B",
+          "text": "Banks create credit on the basis of their total deposits"
+        },
+        {
+          "letter": "C",
+          "text": "Banks create credit on the basis of their total securities"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q19): Option (B) Banks create credit on the basis of their total deposits.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "19",
+        "sourceReference": "RTP May 2025 Paper 4 Q19"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q20",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "The quantity demanded of money rises:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "As the interest rises"
+        },
+        {
+          "letter": "B",
+          "text": "As the interest falls"
+        },
+        {
+          "letter": "C",
+          "text": "As the supply of money falls"
+        },
+        {
+          "letter": "D",
+          "text": "As the number of banks rises"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q20): Option (B) As the interest falls.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "20",
+        "sourceReference": "RTP May 2025 Paper 4 Q20"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q21",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Open market operation will become successful if there is a:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "free-market economy"
+        },
+        {
+          "letter": "B",
+          "text": "developing economy"
+        },
+        {
+          "letter": "C",
+          "text": "well-developed bill and security market"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q21): Option (C) well-developed bill and security market.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "21",
+        "sourceReference": "RTP May 2025 Paper 4 Q21"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q22",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "According to Keynes, inflationary gap is caused by",
+      "options": [
+        {
+          "letter": "A",
+          "text": "excess supply"
+        },
+        {
+          "letter": "B",
+          "text": "excess demand"
+        },
+        {
+          "letter": "C",
+          "text": "deficiency of demand"
+        },
+        {
+          "letter": "D",
+          "text": "deficiency of supply"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q22): Option (B) excess demand.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "22",
+        "sourceReference": "RTP May 2025 Paper 4 Q22"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q23",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "The effects of inflation on the price competitiveness of a country's products may be offset by:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An appreciation of the currency"
+        },
+        {
+          "letter": "B",
+          "text": "A revaluation of the currency"
+        },
+        {
+          "letter": "C",
+          "text": "A depreciation of the currency"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q23): Option (C) A depreciation of the currency.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "23",
+        "sourceReference": "RTP May 2025 Paper 4 Q23"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q24",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "What is Currency Deposit Ratio (CDR)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ratio of money held by the public in currency to that of money held in bank deposits"
+        },
+        {
+          "letter": "B",
+          "text": "Ratio of money held by the public in bank deposits to that of money held by public in currency"
+        },
+        {
+          "letter": "C",
+          "text": "Ratio of money held in demand drafts to that of money held in treasury bonds"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q24): Option (A) Ratio of money held by the public in currency to that of money held in bank deposits.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "24",
+        "sourceReference": "RTP May 2025 Paper 4 Q24"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P4_Q25",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Find nominal GDP if real GDP = 450 and price index = 120",
+      "options": [
+        {
+          "letter": "A",
+          "text": "500"
+        },
+        {
+          "letter": "B",
+          "text": "450"
+        },
+        {
+          "letter": "C",
+          "text": "540"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP May 2025 (Paper 4: Business Economics, Q25): Option (C) 540.",
+      "curriculum": {
+        "subjectCode": "PAPER_4",
+        "nodeCode": "FND_P4_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "4",
+        "questionNumber": "25",
+        "sourceReference": "RTP May 2025 Paper 4 Q25"
+      }
+    }
+  ]
+}

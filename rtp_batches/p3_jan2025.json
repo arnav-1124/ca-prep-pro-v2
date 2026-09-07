@@ -1,0 +1,1210 @@
+{
+  "batchName": "CA Foundation Quantitative Aptitude (Paper 3) - Official RTP January 2025",
+  "sourceType": "RTP",
+  "sourceTitle": "ICAI Revision Test Paper (RTP) January 2025",
+  "sourceYear": 2025,
+  "sourceMonth": 1,
+  "curriculumVersionId": "1677d3d5-fb55-40c3-b853-410432eb913f",
+  "questions": [
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q1",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "The salaries of A, B and C are of ratio 2:3:5. If the increments of 15%, 10% and 20% are done their respective salaries, then find new salaries.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "23: 33: 60"
+        },
+        {
+          "letter": "B",
+          "text": "33:23:60"
+        },
+        {
+          "letter": "C",
+          "text": "23: 60:33"
+        },
+        {
+          "letter": "D",
+          "text": "33: 60: 23"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q1): Option (A) 23: 33: 60.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "1",
+        "sourceReference": "RTP January 2025 Paper 3 Q1"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q2",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "log4(x2+x)-log4(x+1) = 2, then the value of x is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2"
+        },
+        {
+          "letter": "B",
+          "text": "3"
+        },
+        {
+          "letter": "C",
+          "text": "16"
+        },
+        {
+          "letter": "D",
+          "text": "8"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q2): Option (C) 16.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "2",
+        "sourceReference": "RTP January 2025 Paper 3 Q2"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q3",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "If the nominal rate of growth is 17% and inflation is 9% for the five years. Let P be the Gross Domestic Product (GDP) amount at present year then the projected real GDP after 6th year is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.587P"
+        },
+        {
+          "letter": "B",
+          "text": "1.921P"
+        },
+        {
+          "letter": "C",
+          "text": "1.403P"
+        },
+        {
+          "letter": "D",
+          "text": "2.51P �"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q3): Option (A) 1.587P.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "3",
+        "sourceReference": "RTP January 2025 Paper 3 Q3"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q4",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "What will be population after 3 years when present population is 25, 000 and population increases at the rate of 3% in I year, at 4% in II year and 5% in III year?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "` 28,119"
+        },
+        {
+          "letter": "B",
+          "text": "` 29,118"
+        },
+        {
+          "letter": "C",
+          "text": "` 27, 000"
+        },
+        {
+          "letter": "D",
+          "text": "` 30, 000"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q4): Option (A) ` 28,119.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "4",
+        "sourceReference": "RTP January 2025 Paper 3 Q4"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q5",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "The future value of an annuity of ` 1500 made annually for five years at interest of 10% compounded annually is (Given that (1.1)5= 1.61051)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "` 9517.56"
+        },
+        {
+          "letter": "B",
+          "text": "` 9157.65"
+        },
+        {
+          "letter": "C",
+          "text": "` 9715.56"
+        },
+        {
+          "letter": "D",
+          "text": "` 9175.65"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q5): Option (B) ` 9157.65.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "5",
+        "sourceReference": "RTP January 2025 Paper 3 Q5"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q6",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Find the effective annual rate of interest corresponding to a nominal rate of 8% per annum payable half-yearly is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.8%"
+        },
+        {
+          "letter": "B",
+          "text": "8.23%"
+        },
+        {
+          "letter": "C",
+          "text": "8.6%"
+        },
+        {
+          "letter": "D",
+          "text": "8.16%"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q6): Option (D) 8.16%.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "6",
+        "sourceReference": "RTP January 2025 Paper 3 Q6"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q7",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "If the sum of `terms of an Arithmetic Progression is 2n2, the fifth term is.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20"
+        },
+        {
+          "letter": "B",
+          "text": "50"
+        },
+        {
+          "letter": "C",
+          "text": "18"
+        },
+        {
+          "letter": "D",
+          "text": "25"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q7): Option (C) 18.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "7",
+        "sourceReference": "RTP January 2025 Paper 3 Q7"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q8",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "The number of words that can be formed out of the letters of the word \"ARTICLE\" so that vowels occupy even places is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36"
+        },
+        {
+          "letter": "B",
+          "text": "144 �"
+        },
+        {
+          "letter": "C",
+          "text": "574"
+        },
+        {
+          "letter": "D",
+          "text": "754"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q8): Option (B) 144 �.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH5"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "8",
+        "sourceReference": "RTP January 2025 Paper 3 Q8"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q9",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Let Z be the universal set for two sets � A and B. If n(A) = 300, n(B) = 400 and n (A B) = 200, then n (A' B') is equal to 400 provided n(Z) is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "900"
+        },
+        {
+          "letter": "B",
+          "text": "800"
+        },
+        {
+          "letter": "C",
+          "text": "700"
+        },
+        {
+          "letter": "D",
+          "text": "600"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q9): Option (C) 700.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "9",
+        "sourceReference": "RTP January 2025 Paper 3 Q9"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q10",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "In a group of students 80 can speak Hindi, 60 can speak English and 40 can speak Hindi and English both, then number of students is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100"
+        },
+        {
+          "letter": "B",
+          "text": "140"
+        },
+        {
+          "letter": "C",
+          "text": "180"
+        },
+        {
+          "letter": "D",
+          "text": "60"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q10): Option (A) 100.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH9"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "10",
+        "sourceReference": "RTP January 2025 Paper 3 Q10"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q11",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If f(x) = x2-1 and g(x) = 2x+3 then gof (3)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "71"
+        },
+        {
+          "letter": "B",
+          "text": "61"
+        },
+        {
+          "letter": "C",
+          "text": "41"
+        },
+        {
+          "letter": "D",
+          "text": "19"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q11): Option (D) 19.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "11",
+        "sourceReference": "RTP January 2025 Paper 3 Q11"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q12",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "23x.32x.5xdx=",
+      "options": [
+        {
+          "letter": "A",
+          "text": "23x.32x.5x +C log(270)"
+        },
+        {
+          "letter": "B",
+          "text": "23x.32x.5x +C log(360)"
+        },
+        {
+          "letter": "C",
+          "text": "23x.32x.5x +C log(180) �"
+        },
+        {
+          "letter": "D",
+          "text": "23x.32x.5x +C log(90)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q12): Option (B) 23x.32x.5x +C log(360).",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "12",
+        "sourceReference": "RTP January 2025 Paper 3 Q12"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q13",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Marginal cost and marginal revenue of a commodity is C'(x)=8+6x and R'(x)=30. Fixed cost is 0. Find the total profit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "22x + 3x2"
+        },
+        {
+          "letter": "B",
+          "text": "22x - 3x2"
+        },
+        {
+          "letter": "C",
+          "text": "22x - x2"
+        },
+        {
+          "letter": "D",
+          "text": "x + 3x2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q13): Option (B) 22x - 3x2.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH8"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "13",
+        "sourceReference": "RTP January 2025 Paper 3 Q13"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q14",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If 2x+5>3x+2 and 2x-34x-5, then `x' can take which of the following value?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4"
+        },
+        {
+          "letter": "B",
+          "text": "-4"
+        },
+        {
+          "letter": "C",
+          "text": "2"
+        },
+        {
+          "letter": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q14): Option (C) 2.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "14",
+        "sourceReference": "RTP January 2025 Paper 3 Q14"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q15",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The value of scooter is ` 1,00,000 find its depreciation is 10% p.a. Calculate total depreciation value at the end of seven years.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "` 47829.70"
+        },
+        {
+          "letter": "B",
+          "text": "` 47000.90"
+        },
+        {
+          "letter": "C",
+          "text": "` 42709"
+        },
+        {
+          "letter": "D",
+          "text": "` 42,000"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q15): Option (A) ` 47829.70.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "15",
+        "sourceReference": "RTP January 2025 Paper 3 Q15"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q16",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find out the wrong number. 2,10,18,54,162,486,1458",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18"
+        },
+        {
+          "letter": "B",
+          "text": "10"
+        },
+        {
+          "letter": "C",
+          "text": "54"
+        },
+        {
+          "letter": "D",
+          "text": "162"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q16): Option (B) 10.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH9"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "16",
+        "sourceReference": "RTP January 2025 Paper 3 Q16"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q17",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "In a certain code, Delhi is capital is coded as 7 5 9, capital are beautiful is coded as 3 6 9, Delhi is beautiful is coded as 6 7 5, Patna also capital is coded as 9 2 4. What is code for beautiful ? �",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2"
+        },
+        {
+          "letter": "B",
+          "text": "4"
+        },
+        {
+          "letter": "C",
+          "text": "6"
+        },
+        {
+          "letter": "D",
+          "text": "9"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q17): Option (B) 4.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH9"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "17",
+        "sourceReference": "RTP January 2025 Paper 3 Q17"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q18",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Pointing towards photograph. Vinod said \"she is the daughter of my wife's mother's only daughter \". How is Vinod is related to the girl in the Photograph?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cousin"
+        },
+        {
+          "letter": "B",
+          "text": "Uncle"
+        },
+        {
+          "letter": "C",
+          "text": "Father"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q18): Option (C) Father.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH12"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "18",
+        "sourceReference": "RTP January 2025 Paper 3 Q18"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q19",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Sanjay started from his house towards west. After a walking a distance 15 km he turned to the right and walked 10 km, he again turned to the right and walked 5 km. After this he turns Clockwise direction at 1350 and covered 10 km in which direction should he is going?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "South"
+        },
+        {
+          "letter": "B",
+          "text": "South-West"
+        },
+        {
+          "letter": "C",
+          "text": "South-East"
+        },
+        {
+          "letter": "D",
+          "text": "North �West"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q19): Option (B) South-West.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH10"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "19",
+        "sourceReference": "RTP January 2025 Paper 3 Q19"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q20",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If, in a code, MIND becomes KGLB and ARGUE becomes YPESC, then what will DIAGRAM be in that code?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "BGYEPYK"
+        },
+        {
+          "letter": "B",
+          "text": "BGYPYEK"
+        },
+        {
+          "letter": "C",
+          "text": "GLPEYKB"
+        },
+        {
+          "letter": "D",
+          "text": "LKBGYPK"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q20): Option (A) BGYEPYK.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "20",
+        "sourceReference": "RTP January 2025 Paper 3 Q20"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q21",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "The Standard deviation is independent of change of",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Scale"
+        },
+        {
+          "letter": "B",
+          "text": "Origin �"
+        },
+        {
+          "letter": "C",
+          "text": "Both (a) and (b)"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q21): Option (B) Origin �.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "21",
+        "sourceReference": "RTP January 2025 Paper 3 Q21"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q22",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "The coefficients of correlation between two variables x and y is the simple _______ of two regression coefficients.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Harmonic Mean"
+        },
+        {
+          "letter": "B",
+          "text": "Arithmetic Mean"
+        },
+        {
+          "letter": "C",
+          "text": "Geometric Mean"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q22): Option (C) Geometric Mean.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH17"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "22",
+        "sourceReference": "RTP January 2025 Paper 3 Q22"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q23",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Two regression lines coincide when:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "r = � 1"
+        },
+        {
+          "letter": "B",
+          "text": "r = 0"
+        },
+        {
+          "letter": "C",
+          "text": "r = 2"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q23): Option (A) r = � 1.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH17"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "23",
+        "sourceReference": "RTP January 2025 Paper 3 Q23"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q24",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "For a normal distribution Q1 = 54.32 and Q3 = 78.86, then the median of the distribution is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12.17"
+        },
+        {
+          "letter": "B",
+          "text": "39.43"
+        },
+        {
+          "letter": "C",
+          "text": "66.59"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q24): Option (C) 66.59.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "24",
+        "sourceReference": "RTP January 2025 Paper 3 Q24"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q25",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "In a Binomial Distribution B (n, p), n= 4, then P (x=2) = 3 P (x= 3) find P",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/3"
+        },
+        {
+          "letter": "B",
+          "text": "2/3"
+        },
+        {
+          "letter": "C",
+          "text": "6/4"
+        },
+        {
+          "letter": "D",
+          "text": "4/3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q25): Option (B) 2/3.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH16"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "25",
+        "sourceReference": "RTP January 2025 Paper 3 Q25"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q26",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "One card is drawn from a pack of 52, what is the probability that is a king or queen?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11/13 �"
+        },
+        {
+          "letter": "B",
+          "text": "2/13"
+        },
+        {
+          "letter": "C",
+          "text": "1/13"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q26): Option (B) 2/13.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH15"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "26",
+        "sourceReference": "RTP January 2025 Paper 3 Q26"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q27",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Circular test is satisfied by",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Laspyres Index number"
+        },
+        {
+          "letter": "B",
+          "text": "Paschhes index number"
+        },
+        {
+          "letter": "C",
+          "text": "The simple geometric mean of price relatives and weighted aggregative with fixed weights."
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q27): Option (C) The simple geometric mean of price relatives and weighted aggregative with fixed weights..",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH18"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "27",
+        "sourceReference": "RTP January 2025 Paper 3 Q27"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q28",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Standard deviation of first n natural number is 2. What is the value of n?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7"
+        },
+        {
+          "letter": "B",
+          "text": "6"
+        },
+        {
+          "letter": "C",
+          "text": "5"
+        },
+        {
+          "letter": "D",
+          "text": "8"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q28): Option (A) 7.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "28",
+        "sourceReference": "RTP January 2025 Paper 3 Q28"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q29",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "In the equation 4x+2y = 3, quartile deviation for y is 3. Find the quartile deviation for x.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.5"
+        },
+        {
+          "letter": "B",
+          "text": "6"
+        },
+        {
+          "letter": "C",
+          "text": "1.5"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q29): Option (C) 1.5.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "29",
+        "sourceReference": "RTP January 2025 Paper 3 Q29"
+      }
+    },
+    {
+      "externalId": "RTP_2025_JAN2025_P3_Q30",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "For a normal distribution, the first and third quartile are given to be 37 and 49, the mode of the distribution is.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "37"
+        },
+        {
+          "letter": "B",
+          "text": "49"
+        },
+        {
+          "letter": "C",
+          "text": "43"
+        },
+        {
+          "letter": "D",
+          "text": "45 �"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP January 2025 (Paper 3: Quantitative Aptitude, Q30): Option (C) 43.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - January 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 1,
+        "sourceAttempt": "JAN2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "30",
+        "sourceReference": "RTP January 2025 Paper 3 Q30"
+      }
+    }
+  ]
+}

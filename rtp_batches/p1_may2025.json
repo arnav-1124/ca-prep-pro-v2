@@ -1,0 +1,362 @@
+{
+  "batchName": "CA Foundation Accounting (Paper 1) - Official RTP May 2025 (Conceptual True/False Bank)",
+  "sourceType": "RTP",
+  "sourceTitle": "ICAI Revision Test Paper (RTP) May 2025",
+  "sourceYear": 2025,
+  "sourceMonth": 5,
+  "curriculumVersionId": "1677d3d5-fb55-40c3-b853-410432eb913f",
+  "questions": [
+    {
+      "externalId": "RTP_2025_MAY2025_P1_TF_A",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Standards for non-corporate entities in India are issued by the Central Government.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Standards for non-corporate entities in India are issued by",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH1_T6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(a)",
+        "sourceReference": "RTP May 2025 Paper 1 Q1(a)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P1_TF_B",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Cash book is a subsidiary book as well as a principal book.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: Cash transactions are straightaway recorded in the Cash Book and on the basis of such a record, ledger accounts are prepared. Therefore, the Cash Book is a subsidiary book. But the Cash Book itself serves as the cash account and the bank account; the balances are entered in the trial balance directly. The Cash Book therefore, is part of the ledger also. Hence, it has also to be treated as a principal book. The Cash Book is thus both a subsidiary book and a principal book.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH2"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(b)",
+        "sourceReference": "RTP May 2025 Paper 1 Q1(b)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P1_TF_C",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Debit balance as Cash Book is same as overdraft as per passbook.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Debit balance as per cash book should be represented by credit or favourable balance in passbook.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH2_T3"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(c)",
+        "sourceReference": "RTP May 2025 Paper 1 Q1(c)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P1_TF_D",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Warehouse rent paid for storage of finished inventory should be included in the cost of finished inventory.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Warehousing costs related to finished goods are expensed when incurred and are not included in inventory costs unless storage is incurred for getting the inventory ready for sale i.e. until and unless storage is required as a part of process of production of inventory like in case of wine.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(d)",
+        "sourceReference": "RTP May 2025 Paper 1 Q1(d)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P1_TF_E",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Reducing balance method of depreciation is followed to have a uniform charge for depreciation and repairs and maintenance together.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: In the early periods of useful life of a fixed assets, repairs and maintenance expenses are relatively low because the asset is new. Whereas in later periods, as the asset become old, repairs and maintenance expenses increase continuously. Under written FOUNDATION COURSE down value method, depreciation charged is high in the initial period and reduces continuously in the later periods. Thus, depreciation and repair and maintenance expenses become more or less uniform throughout the useful life of the asset.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH5"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(e)",
+        "sourceReference": "RTP May 2025 Paper 1 Q1(e)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P1_TF_F",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"A Promissory note can be made payable to bearer.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: A promissory note cannot be made payable to bearer. It is payable to or to do the order of certain person.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH6"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(f)",
+        "sourceReference": "RTP May 2025 Paper 1 Q1(f)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P1_TF_G",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Provision for Bad Debts is debited to Sundry Debtors A/c\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Provision for Bad debts is debited to P&LA/c. In Balance Sheet it is shown as deduction from \"Debtors\".",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(g)",
+        "sourceReference": "RTP May 2025 Paper 1 Q1(g)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P1_TF_H",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Goodwill is intangible asset therefore it cannot be valued.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Even though Goodwill is intangible asset it can be valued in terms of money. It can be measured in terms of physical units.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH10"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(h)",
+        "sourceReference": "RTP May 2025 Paper 1 Q1(h)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P1_TF_I",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"Outstanding salaries for the previous year shall be shown as liability in the current year balance sheet.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: It shall be disclosed as a current liability in the opening balance sheet.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH7"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(i)",
+        "sourceReference": "RTP May 2025 Paper 1 Q1(i)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P1_TF_J",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"A person holding preference shares of a company cannot hold equity shares of the same company.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Preference share holder can hold both Equity shares and Preference shares of the company. Any person can hold both kinds of shares.",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH11"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(j)",
+        "sourceReference": "RTP May 2025 Paper 1 Q1(j)"
+      }
+    },
+    {
+      "externalId": "RTP_2025_MAY2025_P1_TF_K",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following statement is True or False:\n\"A Company is not allowed to issue shares at a discount to the public in general. FOUNDATION COURSE\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: According to Section 53 of the Companies Act, 2013, a Company cannot issue shares at a discount except in the case of issue of sweat equity shares (issued to employees and directors).",
+      "curriculum": {
+        "subjectCode": "PAPER_1",
+        "nodeCode": "FND_P1_CH11"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - May 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 5,
+        "sourceAttempt": "MAY2025_2025",
+        "paperNumber": "1",
+        "questionNumber": "1(k)",
+        "sourceReference": "RTP May 2025 Paper 1 Q1(k)"
+      }
+    }
+  ]
+}

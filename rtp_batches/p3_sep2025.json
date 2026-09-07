@@ -1,0 +1,1210 @@
+{
+  "batchName": "CA Foundation Quantitative Aptitude (Paper 3) - Official RTP September 2025",
+  "sourceType": "RTP",
+  "sourceTitle": "ICAI Revision Test Paper (RTP) September 2025",
+  "sourceYear": 2025,
+  "sourceMonth": 9,
+  "curriculumVersionId": "1677d3d5-fb55-40c3-b853-410432eb913f",
+  "questions": [
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q1",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Find missing term of the series 7,26, 63,124,215, 342, ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "391"
+        },
+        {
+          "letter": "B",
+          "text": "421"
+        },
+        {
+          "letter": "C",
+          "text": "481"
+        },
+        {
+          "letter": "D",
+          "text": "511"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q1): Option (D) 511.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH9"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "1",
+        "sourceReference": "RTP September 2025 Paper 3 Q1"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q2",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "In a certain code, KAVERI is written as VAKIRE. How is MYSORE written in that code?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "EROSYM"
+        },
+        {
+          "letter": "B",
+          "text": "SYMROE"
+        },
+        {
+          "letter": "C",
+          "text": "SYMERO"
+        },
+        {
+          "letter": "D",
+          "text": "SMYERP"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q2): Option (C) SYMERO.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "2",
+        "sourceReference": "RTP September 2025 Paper 3 Q2"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q3",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "In a certain code DECEMBER is written as ERMBCEDE. which word will written as ERMBVENO in that code?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "AUGUST"
+        },
+        {
+          "letter": "B",
+          "text": "SEPTEMBER"
+        },
+        {
+          "letter": "C",
+          "text": "OCTOBER"
+        },
+        {
+          "letter": "D",
+          "text": "NOVEMBER"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q3): Option (D) NOVEMBER.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "3",
+        "sourceReference": "RTP September 2025 Paper 3 Q3"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q4",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Ravi faces towards North. Turning to his right, he walks 25 meters. He turns to his left and walks 30 meters. Next, he moves 25 meters to his right. He then turns to his right again and walks 55 meters. Finally, he � turns to the right and moves 40 meters. In which direction is he now from his starting point?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "South-West"
+        },
+        {
+          "letter": "B",
+          "text": "South"
+        },
+        {
+          "letter": "C",
+          "text": "North-West"
+        },
+        {
+          "letter": "D",
+          "text": "South-East"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q4): Option (D) South-East.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH10"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "4",
+        "sourceReference": "RTP September 2025 Paper 3 Q4"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q5",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Ponying to a gentleman, Deepak said, \"His only brother is the father of my daughters father.\" How is gentleman related to Deepak?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grandfather"
+        },
+        {
+          "letter": "B",
+          "text": "Father"
+        },
+        {
+          "letter": "C",
+          "text": "Uncle"
+        },
+        {
+          "letter": "D",
+          "text": "Brother-in-law -6 2 -4 = 2p"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q5): Option (C) Uncle.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH12"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "5",
+        "sourceReference": "RTP September 2025 Paper 3 Q5"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q6",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "Find the value of p from 4 x (2/3)^(-6) * (3/2)^(-4) = 2^p",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16"
+        },
+        {
+          "letter": "B",
+          "text": "8"
+        },
+        {
+          "letter": "C",
+          "text": "-8"
+        },
+        {
+          "letter": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q6): Option (C) -8.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "6",
+        "sourceReference": "RTP September 2025 Paper 3 Q6"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q7",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "If (7p+ 3q) : (3p-2q) = 43:2 , then p:q is __________",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5:4"
+        },
+        {
+          "letter": "B",
+          "text": "4:5"
+        },
+        {
+          "letter": "C",
+          "text": "7: 2"
+        },
+        {
+          "letter": "D",
+          "text": "2:7"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q7): Option (B) 4:5.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "7",
+        "sourceReference": "RTP September 2025 Paper 3 Q7"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q8",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "The sum of the digits of a two digit number is 10. If 18 be subtracted from it, the digits in the resulting number will be equal. The number is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "37"
+        },
+        {
+          "letter": "B",
+          "text": "73 �"
+        },
+        {
+          "letter": "C",
+          "text": "64"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q8): Option (B) 73 �.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "8",
+        "sourceReference": "RTP September 2025 Paper 3 Q8"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q9",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "The difference between Compound Interest and Simple Interest on a certain sum for 2 years at 6% p.a. is Rs. 13.50. Find the sum",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3750"
+        },
+        {
+          "letter": "B",
+          "text": "2750"
+        },
+        {
+          "letter": "C",
+          "text": "4750"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q9): Option (A) 3750.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "9",
+        "sourceReference": "RTP September 2025 Paper 3 Q9"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q10",
+      "questionType": "MCQ",
+      "difficulty": "EASY",
+      "questionText": "A machine for which the useful life is estimated to be 5 years, Cost Rs. 5000 and Rate of depreciation is 10% p.a. The scrap value at the end of its life is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2952.45"
+        },
+        {
+          "letter": "B",
+          "text": "2500"
+        },
+        {
+          "letter": "C",
+          "text": "3000"
+        },
+        {
+          "letter": "D",
+          "text": "2559.50"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q10): Option (A) 2952.45.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH4"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "10",
+        "sourceReference": "RTP September 2025 Paper 3 Q10"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q11",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Every two person shakes hands with each other in a party and the total number of hand shakes is 66. The number of guests in the party is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11"
+        },
+        {
+          "letter": "B",
+          "text": "12"
+        },
+        {
+          "letter": "C",
+          "text": "13"
+        },
+        {
+          "letter": "D",
+          "text": "14"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q11): Option (B) 12.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH12"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "11",
+        "sourceReference": "RTP September 2025 Paper 3 Q11"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q12",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The ways of selecting 4 letters from the word EXAMINATION is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "136"
+        },
+        {
+          "letter": "B",
+          "text": "130"
+        },
+        {
+          "letter": "C",
+          "text": "125"
+        },
+        {
+          "letter": "D",
+          "text": "none of these �"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q12): Option (A) 136.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH9"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "12",
+        "sourceReference": "RTP September 2025 Paper 3 Q12"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q13",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If the A.M. and G.M. for two numbers are 6.50 and 6 respectively then the two numbers are",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 and 7"
+        },
+        {
+          "letter": "B",
+          "text": "9 and 4"
+        },
+        {
+          "letter": "C",
+          "text": "10 and 3"
+        },
+        {
+          "letter": "D",
+          "text": "8 and 5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q13): Option (B) 9 and 4.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "13",
+        "sourceReference": "RTP September 2025 Paper 3 Q13"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q14",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The sixth term of a G.P. with common ratio as 2 and first term being 5 is________.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "160"
+        },
+        {
+          "letter": "B",
+          "text": "32"
+        },
+        {
+          "letter": "C",
+          "text": "800"
+        },
+        {
+          "letter": "D",
+          "text": "64"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q14): Option (A) 160.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH1"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "14",
+        "sourceReference": "RTP September 2025 Paper 3 Q14"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q15",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If g(x) = x�1/x, g(��) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1"
+        },
+        {
+          "letter": "B",
+          "text": "2"
+        },
+        {
+          "letter": "C",
+          "text": "�"
+        },
+        {
+          "letter": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q15): Option (C) �.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "15",
+        "sourceReference": "RTP September 2025 Paper 3 Q15"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q16",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Limx3 x2 -9 is equal to x-3",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0"
+        },
+        {
+          "letter": "B",
+          "text": "6"
+        },
+        {
+          "letter": "C",
+          "text": "-6"
+        },
+        {
+          "letter": "D",
+          "text": "Does not exist 1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q16): Option (B) 6.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "16",
+        "sourceReference": "RTP September 2025 Paper 3 Q16"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q17",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Evaluate (2x 2 - x 3 ) dx and the value is 0",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4/3"
+        },
+        {
+          "letter": "B",
+          "text": "5/12 �"
+        },
+        {
+          "letter": "C",
+          "text": "-4/3"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q17): Option (B) 5/12 �.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "17",
+        "sourceReference": "RTP September 2025 Paper 3 Q17"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q18",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find dy when y = 4x3+ 8x7 at x2 = 2 dx",
+      "options": [
+        {
+          "letter": "A",
+          "text": "424"
+        },
+        {
+          "letter": "B",
+          "text": "470"
+        },
+        {
+          "letter": "C",
+          "text": "472"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q18): Option (C) 472.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "18",
+        "sourceReference": "RTP September 2025 Paper 3 Q18"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q19",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The best method to collect data in case of natural calamity is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Personal interview."
+        },
+        {
+          "letter": "B",
+          "text": "Telephone interview."
+        },
+        {
+          "letter": "C",
+          "text": "Mailed questionnaire method."
+        },
+        {
+          "letter": "D",
+          "text": "Indirect interview."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q19): Option (A) Personal interview..",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "19",
+        "sourceReference": "RTP September 2025 Paper 3 Q19"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q20",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The entire upper part of a table is known as",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caption."
+        },
+        {
+          "letter": "B",
+          "text": "Stub."
+        },
+        {
+          "letter": "C",
+          "text": "Box head"
+        },
+        {
+          "letter": "D",
+          "text": "Boady"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q20): Option (C) Box head.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "20",
+        "sourceReference": "RTP September 2025 Paper 3 Q20"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q21",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Standard error can be described as",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The error committed in sampling."
+        },
+        {
+          "letter": "B",
+          "text": "The error committed in sample survey."
+        },
+        {
+          "letter": "C",
+          "text": "The error committed in estimating a parameter."
+        },
+        {
+          "letter": "D",
+          "text": "Standard deviation of a statistic."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q21): Option (D) Standard deviation of a statistic..",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "21",
+        "sourceReference": "RTP September 2025 Paper 3 Q21"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q22",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "The standard deviation of 25, 32, 43, 53, 62, 59, 48, 31, 24, 33 is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13.23"
+        },
+        {
+          "letter": "B",
+          "text": "12.23 �"
+        },
+        {
+          "letter": "C",
+          "text": "11.23"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q22): Option (A) 13.23.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "22",
+        "sourceReference": "RTP September 2025 Paper 3 Q22"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q23",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "What is the value of the first quartile for observations 15, 18, 10, 20, 23, 28, 12, 16?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17"
+        },
+        {
+          "letter": "B",
+          "text": "16"
+        },
+        {
+          "letter": "C",
+          "text": "15.75"
+        },
+        {
+          "letter": "D",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q23): Option (C) 15.75.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "23",
+        "sourceReference": "RTP September 2025 Paper 3 Q23"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q24",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "If the quartile deviation of a normal curve is 4.05, then its mean deviation is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5.26"
+        },
+        {
+          "letter": "B",
+          "text": "6.24"
+        },
+        {
+          "letter": "C",
+          "text": "4.24"
+        },
+        {
+          "letter": "D",
+          "text": "4.80"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q24): Option (D) 4.80.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "24",
+        "sourceReference": "RTP September 2025 Paper 3 Q24"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q25",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "If there are two groups containing 30 and 20 observations and having 50 and 60 as arithmetic means, then the combined arithmetic mean is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "55"
+        },
+        {
+          "letter": "B",
+          "text": "56"
+        },
+        {
+          "letter": "C",
+          "text": "54"
+        },
+        {
+          "letter": "D",
+          "text": "52"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q25): Option (C) 54.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "25",
+        "sourceReference": "RTP September 2025 Paper 3 Q25"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q26",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "Two variables x and y are related by 5x+ 2y+ 5 = 0 and x = 5, then y is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10"
+        },
+        {
+          "letter": "B",
+          "text": "-10"
+        },
+        {
+          "letter": "C",
+          "text": "15"
+        },
+        {
+          "letter": "D",
+          "text": "-15 �"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q26): Option (D) -15 �.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "26",
+        "sourceReference": "RTP September 2025 Paper 3 Q26"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q27",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "If Arithmetic Mean and coefficient of variation of x are 5 and 20 respectively. What is the variance of (15-2x)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16"
+        },
+        {
+          "letter": "B",
+          "text": "4"
+        },
+        {
+          "letter": "C",
+          "text": "64"
+        },
+        {
+          "letter": "D",
+          "text": "32"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q27): Option (B) 4.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "27",
+        "sourceReference": "RTP September 2025 Paper 3 Q27"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q28",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "The coefficient of correlation between two variables is 0.5, and then the coefficient of determination is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5"
+        },
+        {
+          "letter": "B",
+          "text": "0.25"
+        },
+        {
+          "letter": "C",
+          "text": "-0.5"
+        },
+        {
+          "letter": "D",
+          "text": "0.05"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q28): Option (B) 0.25.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH17"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "28",
+        "sourceReference": "RTP September 2025 Paper 3 Q28"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q29",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "If r = 0.5, xy = 120, y = 8, x2 = 90, then value of n is equal to ______",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5"
+        },
+        {
+          "letter": "B",
+          "text": "10"
+        },
+        {
+          "letter": "C",
+          "text": "15"
+        },
+        {
+          "letter": "D",
+          "text": "20"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q29): Option (B) 10.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH14"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "29",
+        "sourceReference": "RTP September 2025 Paper 3 Q29"
+      }
+    },
+    {
+      "externalId": "RTP_2025_SEP2025_P3_Q30",
+      "questionType": "MCQ",
+      "difficulty": "HARD",
+      "questionText": "What is the chance of picking a heart or a queen not of heart from a pack of 52 cards?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17/52"
+        },
+        {
+          "letter": "B",
+          "text": "4/13"
+        },
+        {
+          "letter": "C",
+          "text": "1/3"
+        },
+        {
+          "letter": "D",
+          "text": "3/13 �"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Official ICAI Answer Key for RTP September 2025 (Paper 3: Quantitative Aptitude, Q30): Option (C) 1/3.",
+      "curriculum": {
+        "subjectCode": "PAPER_3",
+        "nodeCode": "FND_P3_CH15"
+      },
+      "source": {
+        "sourceType": "RTP",
+        "sourceTitle": "ICAI Revision Test Paper (RTP) - September 2025",
+        "sourceYear": 2025,
+        "sourceMonth": 9,
+        "sourceAttempt": "SEP2025_2025",
+        "paperNumber": "3",
+        "questionNumber": "30",
+        "sourceReference": "RTP September 2025 Paper 3 Q30"
+      }
+    }
+  ]
+}

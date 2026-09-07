@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useRef } from "react";
+import { useState, useRef, useMemo } from "react";
 import { useRouter as useNextRouter } from "next/navigation";
+import { shufflePracticeOptions } from "@/lib/option-shuffler";
 import {
   PracticeSessionState
 } from "@/domains/practice/services";
@@ -74,6 +75,23 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
   const existingAttempt = state.attempts.find(
     (a) => a.questionVersionId === currentQuestion?.questionVersionId
   );
+
+  // Randomize / rotate options per case study question appearance
+  const shuffledOptions = useMemo(() => {
+    if (!currentQuestion) return [];
+    return shufflePracticeOptions(
+      currentQuestion.options,
+      `${state.sessionId}_${currentQuestion.questionVersionId}`
+    );
+  }, [currentQuestion, state.sessionId]);
+
+  const correctDisplayLetter = useMemo(() => {
+    if (!existingAttempt) return "";
+    const match = shuffledOptions.find(
+      (o) => o.originalLetter === existingAttempt.correctAnswer
+    );
+    return match ? match.displayLetter : existingAttempt.correctAnswer;
+  }, [existingAttempt, shuffledOptions]);
 
   // Selected option is either the submitted answer or the client draft answer
   const selectedOption = existingAttempt
@@ -350,9 +368,9 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
 
             {/* Options list */}
             <div className="space-y-3">
-              {currentQuestion.options.map((opt) => {
-                const isSelected = selectedOption === opt.optionLetter;
-                const isCorrect = currentQuestion.correctAnswer === opt.optionLetter;
+              {shuffledOptions.map((opt) => {
+                const isSelected = selectedOption === opt.originalLetter;
+                const isCorrect = currentQuestion.correctAnswer === opt.originalLetter;
 
                 let optStyle = "border-border hover:border-primary/20 bg-card text-foreground";
                 if (isSelected) {
@@ -361,7 +379,7 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
 
                 // If submitted, show correctness coloring overrides
                 if (existingAttempt) {
-                  if (opt.optionLetter === existingAttempt.selectedAnswer) {
+                  if (opt.originalLetter === existingAttempt.selectedAnswer) {
                     optStyle = existingAttempt.isCorrect
                       ? "border-emerald-500 bg-emerald-500/10 text-emerald-700 dark:text-emerald-400"
                       : "border-rose-500 bg-rose-500/10 text-rose-700 dark:text-rose-400";
@@ -375,7 +393,7 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
                 return (
                   <div
                     key={opt.id}
-                    onClick={() => handleSelectOption(opt.optionLetter)}
+                    onClick={() => handleSelectOption(opt.originalLetter)}
                     className={cn(
                       "flex items-start gap-3 border rounded-xl p-4 transition-all duration-150 cursor-pointer select-none text-xs md:text-sm font-sans font-medium",
                       optStyle,
@@ -383,7 +401,7 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
                     )}
                   >
                     <span className="flex items-center justify-center h-6 w-6 rounded-full border border-current font-bold shrink-0 text-xs">
-                      {opt.optionLetter}
+                      {opt.displayLetter}
                     </span>
                     <span className="pt-0.5 leading-relaxed">{opt.optionText}</span>
                   </div>
@@ -432,7 +450,7 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
                       {existingAttempt.isCorrect ? "Correct answer!" : "Incorrect option selected."}
                     </span>
                     <p className="text-muted-foreground">
-                      Reference Option <span className="font-bold text-foreground">{existingAttempt.correctAnswer}</span> is correct.
+                      Reference Option <span className="font-bold text-foreground">{correctDisplayLetter}</span> is correct.
                     </p>
                   </div>
                 </div>

@@ -26,6 +26,7 @@
 *.pdf
 /*.txt
 /*.html
+/rtp_downloads/
 
 # debug
 npm-debug.log*
