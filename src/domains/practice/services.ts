@@ -265,7 +265,8 @@ export async function getPracticeSessionState(
     .where(eq(practiceAttempts.practiceSessionId, sessionId))
     .orderBy(asc(practiceAttempts.createdAt));
 
-  const totalQuestions = session.questionCount || 10;
+  const isUnlimited = !session.questionCount || session.questionCount === 0;
+  const totalQuestions: number = isUnlimited ? 0 : (session.questionCount ?? 0);
   const attemptsCount = attemptsList.length;
   const isCompleted = session.status === "COMPLETED" || session.status === "ABANDONED";
 
@@ -275,7 +276,7 @@ export async function getPracticeSessionState(
     ? sessionQuestions.find((q) => !answeredVersionIds.has(q.questionVersionId)) || sessionQuestions[sessionQuestions.length - 1] || null
     : null;
 
-  const currentNumber = isCompleted ? totalQuestions : (sessionQuestions.length || 1);
+  const currentNumber = isCompleted ? (isUnlimited ? sessionQuestions.length : totalQuestions) : (sessionQuestions.length || 1);
 
   const correctCount = attemptsList.filter((a) => a.isCorrect).length;
   const incorrectCount = attemptsCount - correctCount;

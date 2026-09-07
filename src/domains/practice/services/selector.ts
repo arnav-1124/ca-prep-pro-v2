@@ -302,9 +302,9 @@ export async function selectNextEligibleQuestion(
       .innerJoin(curriculumNodes, eq(questions.curriculumNodeId, curriculumNodes.id))
       .where(and(...whereClauses))
       .orderBy(
-        // Deterministic hash ordering on case study scenario first, then question order
+        // Deterministic hash ordering on case study scenario first, then question hash
         sql`md5(concat(${caseStudies.id}::text, ':', ${sessionSeed}::text)) asc`,
-        asc(questions.createdAt),
+        sql`md5(concat(${questions.id}::text, ':', ${sessionSeed}::text)) asc`,
         asc(questions.id)
       )
       .limit(1);
@@ -394,4 +394,193 @@ export async function selectNextEligibleQuestion(
       options,
     };
   }
+}
+
+/**
+ * Selects a batch of distinct eligible questions for upfront delivery.
+ * Used primarily for Case Study sessions where the student requests N cases.
+ */
+export async function selectEligibleQuestionsBatch(
+  sessionId: string,
+  sessionSeed: number,
+  criteria: QuestionFilterCriteria,
+  count: number
+): Promise<EligibleQuestionCandidate[]> {
+  if (count <= 0) return [];
+
+  // 1. Resolve eligible active nodes
+  const eligibleNodeIds = await resolveEligibleNodeIds(
+    criteria.curriculumVersionId,
+    criteria.subjectId,
+    criteria.curriculumNodeId
+  );
+
+  if (eligibleNodeIds !== null && eligibleNodeIds.length === 0) {
+    return [];
+  }
+
+  // 2. Fetch already delivered question IDs in this session
+  const alreadyDelivered = await db
+    .select({ questionId: practiceSessionQuestions.questionId })
+    .from(practiceSessionQuestions)
+    .where(eq(practiceSessionQuestions.practiceSessionId, sessionId));
+
+  const deliveredQuestionIds = alreadyDelivered.map((d) => d.questionId);
+
+  // 3. Build query filters
+  const whereClauses: SQL[] = [
+    eq(questions.academicLevelId, criteria.academicLevelId),
+    eq(questionVersions.isActive, true),
+  ];
+
+  if (deliveredQuestionIds.length > 0) {
+    whereClauses.push(notInArray(questions.id, deliveredQuestionIds));
+  }
+
+  if (criteria.subjectId) {
+    whereClauses.push(eq(questions.subjectId, criteria.subjectId));
+  }
+
+  if (eligibleNodeIds !== null && eligibleNodeIds.length > 0) {
+    whereClauses.push(inArray(questions.curriculumNodeId, eligibleNodeIds));
+  }
+
+  if (criteria.difficulty && criteria.difficulty !== "ANY") {
+    whereClauses.push(eq(questions.difficulty, criteria.difficulty));
+  }
+
+  let selectedRows: {
+    questionId: string;
+    questionVersionId: string;
+    versionNumber: number;
+    questionText: string;
+    questionType: string;
+    difficulty: string;
+    academicLevelId: string;
+    levelName: string;
+    subjectId: string;
+    subjectName: string;
+    curriculumNodeId: string;
+    curriculumNodeName: string;
+    caseStudyId: string | null;
+    caseStudyTitle: string | null;
+    caseStudyScenarioText: string | null;
+  }[] = [];
+
+  if (criteria.practiceMode === "CASE_STUDY") {
+    whereClauses.push(isNotNull(questions.caseStudyId));
+
+    selectedRows = await db
+      .select({
+        questionId: questions.id,
+        questionVersionId: questionVersions.id,
+        versionNumber: questionVersions.versionNumber,
+        questionText: questionVersions.questionText,
+        questionType: questions.questionType,
+        difficulty: questions.difficulty,
+        academicLevelId: questions.academicLevelId,
+        levelName: academicLevels.name,
+        subjectId: questions.subjectId,
+        subjectName: subjects.name,
+        curriculumNodeId: questions.curriculumNodeId,
+        curriculumNodeName: curriculumNodes.name,
+        caseStudyId: questions.caseStudyId,
+        caseStudyTitle: caseStudies.title,
+        caseStudyScenarioText: caseStudies.scenarioText,
+      })
+      .from(questions)
+      .innerJoin(
+        questionVersions,
+        and(
+          eq(questions.id, questionVersions.questionId),
+          eq(questionVersions.isActive, true)
+        )
+      )
+      .innerJoin(caseStudies, eq(questions.caseStudyId, caseStudies.id))
+      .innerJoin(academicLevels, eq(questions.academicLevelId, academicLevels.id))
+      .innerJoin(subjects, eq(questions.subjectId, subjects.id))
+      .innerJoin(curriculumNodes, eq(questions.curriculumNodeId, curriculumNodes.id))
+      .where(and(...whereClauses))
+      .orderBy(
+        sql`md5(concat(${caseStudies.id}::text, ':', ${sessionSeed}::text)) asc`,
+        sql`md5(concat(${questions.id}::text, ':', ${sessionSeed}::text)) asc`,
+        asc(questions.id)
+      )
+      .limit(count);
+  } else {
+    whereClauses.push(isNull(questions.caseStudyId));
+    if (criteria.questionType) {
+      whereClauses.push(eq(questions.questionType, criteria.questionType));
+    }
+
+    selectedRows = await db
+      .select({
+        questionId: questions.id,
+        questionVersionId: questionVersions.id,
+        versionNumber: questionVersions.versionNumber,
+        questionText: questionVersions.questionText,
+        questionType: questions.questionType,
+        difficulty: questions.difficulty,
+        academicLevelId: questions.academicLevelId,
+        levelName: academicLevels.name,
+        subjectId: questions.subjectId,
+        subjectName: subjects.name,
+        curriculumNodeId: questions.curriculumNodeId,
+        curriculumNodeName: curriculumNodes.name,
+        caseStudyId: sql<string | null>`NULL`,
+        caseStudyTitle: sql<string | null>`NULL`,
+        caseStudyScenarioText: sql<string | null>`NULL`,
+      })
+      .from(questions)
+      .innerJoin(
+        questionVersions,
+        and(
+          eq(questions.id, questionVersions.questionId),
+          eq(questionVersions.isActive, true)
+        )
+      )
+      .innerJoin(academicLevels, eq(questions.academicLevelId, academicLevels.id))
+      .innerJoin(subjects, eq(questions.subjectId, subjects.id))
+      .innerJoin(curriculumNodes, eq(questions.curriculumNodeId, curriculumNodes.id))
+      .where(and(...whereClauses))
+      .orderBy(
+        sql`md5(concat(${questions.id}::text, ':', ${sessionSeed}::text)) asc`,
+        asc(questions.id)
+      )
+      .limit(count);
+  }
+
+  if (selectedRows.length === 0) {
+    return [];
+  }
+
+  // 4. Fetch options for all returned versions
+  const versionIds = selectedRows.map((r) => r.questionVersionId);
+  const allOptions = await db
+    .select({
+      id: questionOptions.id,
+      questionVersionId: questionOptions.questionVersionId,
+      optionLetter: questionOptions.optionLetter,
+      optionText: questionOptions.optionText,
+    })
+    .from(questionOptions)
+    .where(inArray(questionOptions.questionVersionId, versionIds))
+    .orderBy(asc(questionOptions.optionLetter));
+
+  const optionsByVersion = new Map<string, { id: string; optionLetter: string; optionText: string }[]>();
+  for (const opt of allOptions) {
+    const list = optionsByVersion.get(opt.questionVersionId) || [];
+    list.push({
+      id: opt.id,
+      optionLetter: opt.optionLetter,
+      optionText: opt.optionText,
+    });
+    optionsByVersion.set(opt.questionVersionId, list);
+  }
+
+  return selectedRows.map((row) => ({
+    ...row,
+    questionType: (row.questionType as "MCQ" | "CASE_STUDY") || "MCQ",
+    options: optionsByVersion.get(row.questionVersionId) || [],
+  }));
 }

@@ -7,6 +7,7 @@ import {
   getNextPracticeQuestion,
   getCurrentPracticeQuestion,
   abandonPracticeSession,
+  completePracticeSession,
   getPracticeSessionState,
   submitAnswer,
   submitPracticeAnswer,
@@ -125,6 +126,20 @@ export async function abandonSessionAction(sessionId: string) {
     return { success: true as const };
   } catch (err: unknown) {
     const msg = err instanceof Error ? err.message : "Failed to abandon practice session.";
+    return { success: false as const, error: msg };
+  }
+}
+
+/**
+ * Action to complete/finish a practice session on demand.
+ */
+export async function completeSessionAction(sessionId: string) {
+  try {
+    const profile = await getAuthProfile();
+    await completePracticeSession(profile.id, sessionId);
+    return { success: true as const };
+  } catch (err: unknown) {
+    const msg = err instanceof Error ? err.message : "Failed to finish practice session.";
     return { success: false as const, error: msg };
   }
 }

@@ -10,7 +10,7 @@ export const createPracticeSessionSchema = z.object({
   practiceMode: z.enum(["QUESTION", "CASE_STUDY"]).default("QUESTION"),
   difficulty: z.enum(["ANY", "EASY", "MEDIUM", "HARD"]).default("ANY"),
   questionType: z.enum(["MCQ", "CASE_STUDY"]).default("MCQ"),
-  requestedQuestionCount: z.number().int().min(1).max(50).default(10),
+  requestedQuestionCount: z.number().int().min(0).max(500).default(10), // 0 represents Unlimited / Continuous
 });
 
 export type CreatePracticeSessionInput = z.input<typeof createPracticeSessionSchema>;

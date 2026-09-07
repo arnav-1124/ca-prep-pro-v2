@@ -177,7 +177,7 @@ export async function getOrGenerateExplanation(
 
     if (primaryProviderName === "openrouter") {
       providerInstance = new OpenRouterProvider();
-      providerInstance.modelName = process.env.OPENROUTER_MODEL || "google/gemini-3.6-flash";
+      providerInstance.modelName = process.env.OPENROUTER_MODEL || "google/gemini-2.5-flash";
       fallbackInstance = new GeminiProvider();
       fallbackInstance.modelName = process.env.GEMINI_MODEL || "gemini-3.6-flash";
     } else {
@@ -185,7 +185,7 @@ export async function getOrGenerateExplanation(
       providerInstance = new GeminiProvider();
       providerInstance.modelName = process.env.GEMINI_MODEL || "gemini-3.6-flash";
       fallbackInstance = new OpenRouterProvider();
-      fallbackInstance.modelName = process.env.OPENROUTER_MODEL || "google/gemini-3.6-flash";
+      fallbackInstance.modelName = process.env.OPENROUTER_MODEL || "google/gemini-2.5-flash";
     }
 
     const GEMINI_TIMEOUT_MS = Number(process.env.AI_GEMINI_TIMEOUT_MS || "8000");

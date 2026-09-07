@@ -362,9 +362,10 @@ export function PracticeConfig({
               <label className="text-xs font-bold text-muted-foreground uppercase tracking-wider">
                 {practiceMode === "CASE_STUDY" ? "Number of Case Studies" : "Question Count"}
               </label>
-              <div className="flex gap-2">
-                {(practiceMode === "CASE_STUDY" ? [1, 2, 5] : [5, 10, 20, 30]).map((count) => {
-                  const isCapped = availableCount > 0 && count > availableCount;
+              <div className="flex flex-wrap gap-2">
+                {(practiceMode === "CASE_STUDY" ? [1, 3, 5, 0] : [10, 25, 50, 0]).map((count) => {
+                  const isUnlimited = count === 0;
+                  const isCapped = !isUnlimited && availableCount > 0 && count > availableCount;
                   return (
                     <button
                       key={count}
@@ -372,7 +373,8 @@ export function PracticeConfig({
                       disabled={isCapped}
                       onClick={() => setRequestedCount(count)}
                       className={cn(
-                        "w-12 py-2 text-xs font-bold rounded-lg border cursor-pointer select-none transition-all duration-150",
+                        "py-2 text-xs font-bold rounded-lg border cursor-pointer select-none transition-all duration-150",
+                        isUnlimited ? "px-3.5" : "w-12",
                         requestedCount === count
                           ? "border-primary bg-primary/5 text-primary"
                           : isCapped
@@ -380,7 +382,7 @@ export function PracticeConfig({
                             : "border-border hover:bg-muted/10 text-foreground"
                       )}
                     >
-                      {count}
+                      {isUnlimited ? "Continuous (∞)" : count}
                     </button>
                   );
                 })}
@@ -421,7 +423,9 @@ export function PracticeConfig({
               <div className="flex justify-between items-center py-1 border-t border-muted/20">
                 <span className="text-muted-foreground">Target volume:</span>
                 <span className="font-bold text-foreground">
-                  {requestedCount} {practiceMode === "CASE_STUDY" ? "cases" : "questions"}
+                  {requestedCount === 0
+                    ? "Continuous Practice (∞)"
+                    : `${requestedCount} ${practiceMode === "CASE_STUDY" ? "cases" : "questions"}`}
                 </span>
               </div>
             </div>

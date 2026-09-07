@@ -4,11 +4,14 @@ import { useState, useRef, useMemo } from "react";
 import { useRouter as useNextRouter } from "next/navigation";
 import { shufflePracticeOptions } from "@/lib/option-shuffler";
 import {
-  PracticeSessionState
+  PracticeSessionState,
+  PracticeQuestion,
 } from "@/domains/practice/services";
 import {
   submitAnswerAction,
-  getExplanationAction
+  getExplanationAction,
+  getNextQuestionAction,
+  completeSessionAction,
 } from "@/app/actions/practice";
 import { Button } from "@/components/ui/button";
 import {
@@ -20,7 +23,8 @@ import {
   XCircle,
   AlertTriangle,
   Lightbulb,
-  Menu
+  Menu,
+  Loader2,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { LimitDialog } from "@/components/app/limit-dialog";
@@ -48,6 +52,8 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
   
   // Interaction states
   const [loadingSubmit, setLoadingSubmit] = useState<boolean>(false);
+  const [loadingNext, setLoadingNext] = useState<boolean>(false);
+  const [loadingFinish, setLoadingFinish] = useState<boolean>(false);
   const [loadingAi, setLoadingAi] = useState<boolean>(false);
   const [aiExplanation, setAiExplanation] = useState<{ explanation: string; keyPoint: string } | null>(null);
   const [aiQuotaError, setAiQuotaError] = useState<string | null>(null);
@@ -68,8 +74,9 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
   const questionsList = state.questions;
   const currentQuestion = questionsList[currentIndex] || null;
 
-  // Sync index on completion redirect or end of questions
-  const totalQuestions = questionsList.length;
+  // 0 indicates Continuous / Unlimited practice
+  const isUnlimited = state.totalQuestions === 0;
+  const totalQuestions = isUnlimited ? 0 : (state.totalQuestions || questionsList.length);
 
   // Resolve if current question has already been submitted to DB
   const existingAttempt = state.attempts.find(
@@ -138,7 +145,7 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
         },
       ];
 
-      const isCompleted = newAttempts.length >= totalQuestions;
+      const isCompleted = !isUnlimited && newAttempts.length >= totalQuestions;
 
       setState({
         ...state,
@@ -189,11 +196,64 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
     }
   };
 
-  const handleNext = () => {
-    if (currentIndex < totalQuestions - 1) {
+  const handleNext = async () => {
+    if (currentIndex < questionsList.length - 1) {
       setCurrentIndex(currentIndex + 1);
       setAiExplanation(null);
       setAiQuotaError(null);
+      return;
+    }
+
+    // If continuous mode and on the last currently loaded question, fetch next question dynamically
+    if (isUnlimited && currentIndex === questionsList.length - 1) {
+      setLoadingNext(true);
+      try {
+        const res = await getNextQuestionAction(state.sessionId);
+        if (res.success) {
+          if (res.question) {
+            const newQ: PracticeQuestion = {
+              id: res.question.questionId,
+              questionVersionId: res.question.questionVersionId,
+              questionText: res.question.questionText,
+              difficulty: res.question.difficulty,
+              questionType: res.question.questionType,
+              subjectName: res.question.curriculumContext?.subjectName || state.subjectName || "",
+              curriculumNodeName: res.question.curriculumContext?.nodeName || state.curriculumNodeName || "",
+              caseStudyId: res.question.caseStudy?.id || null,
+              caseStudyTitle: res.question.caseStudy?.title || null,
+              caseStudyScenarioText: res.question.caseStudy?.scenarioText || null,
+              options: res.question.options,
+            };
+
+            setState((prev) => ({
+              ...prev,
+              questions: [...prev.questions, newQ],
+            }));
+            setCurrentIndex((prev) => prev + 1);
+            setAiExplanation(null);
+            setAiQuotaError(null);
+          } else {
+            // Question pool exhausted or completed
+            setState((prev) => ({ ...prev, status: "COMPLETED" }));
+          }
+        }
+      } catch {
+        setSubmitError("Failed to fetch next case study question.");
+      } finally {
+        setLoadingNext(false);
+      }
+    }
+  };
+
+  const handleFinishSession = async () => {
+    setLoadingFinish(true);
+    try {
+      await completeSessionAction(state.sessionId);
+      setState((prev) => ({ ...prev, status: "COMPLETED" }));
+    } catch {
+      setState((prev) => ({ ...prev, status: "COMPLETED" }));
+    } finally {
+      setLoadingFinish(false);
     }
   };
 
@@ -312,11 +372,21 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
           </span>
         </div>
         <div className="flex items-center gap-3 text-xs font-sans font-bold text-muted-foreground">
-          <span>Question {currentIndex + 1} of {totalQuestions}</span>
+          <span>{isUnlimited ? `Question ${currentIndex + 1} (Continuous Practice ∞)` : `Question ${currentIndex + 1} of ${totalQuestions}`}</span>
           <div className="h-4 w-px bg-muted" />
           <span className="uppercase text-[10px] tracking-wider bg-muted border border-border/80 px-2 py-0.5 rounded text-foreground">
             {currentQuestion.difficulty}
           </span>
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={handleFinishSession}
+            disabled={loadingFinish}
+            className="text-[11px] font-bold border-border hover:bg-muted cursor-pointer h-7 px-2.5 ml-1"
+          >
+            {loadingFinish ? <Loader2 className="h-3 w-3 animate-spin mr-1" /> : null}
+            <span>Finish Session</span>
+          </Button>
         </div>
       </div>
 
@@ -517,7 +587,7 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
           <div className="flex items-center justify-between gap-4">
             <Button
               onClick={handlePrevious}
-              disabled={currentIndex === 0}
+              disabled={currentIndex === 0 || loadingNext}
               variant="outline"
               className="flex items-center gap-1.5 cursor-pointer font-bold text-xs"
             >
@@ -525,15 +595,37 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
               <span>Previous Question</span>
             </Button>
 
-            <Button
-              onClick={handleNext}
-              disabled={currentIndex === totalQuestions - 1}
-              variant="outline"
-              className="flex items-center gap-1.5 cursor-pointer font-bold text-xs"
-            >
-              <span>Next Question</span>
-              <ChevronRight className="h-4 w-4" />
-            </Button>
+            <div className="flex items-center gap-2">
+              <Button
+                variant="ghost"
+                size="sm"
+                onClick={handleFinishSession}
+                disabled={loadingFinish}
+                className="text-xs text-muted-foreground hover:text-foreground font-bold cursor-pointer"
+              >
+                {loadingFinish ? <Loader2 className="h-3.5 w-3.5 animate-spin mr-1" /> : null}
+                <span>Finish & View Summary</span>
+              </Button>
+
+              <Button
+                onClick={handleNext}
+                disabled={(!isUnlimited && currentIndex === totalQuestions - 1) || loadingNext}
+                variant="outline"
+                className="flex items-center gap-1.5 cursor-pointer font-bold text-xs"
+              >
+                {loadingNext ? (
+                  <>
+                    <Loader2 className="h-3.5 w-3.5 animate-spin" />
+                    <span>Loading next case...</span>
+                  </>
+                ) : (
+                  <>
+                    <span>Next Question</span>
+                    <ChevronRight className="h-4 w-4" />
+                  </>
+                )}
+              </Button>
+            </div>
           </div>
         </div>
       </div>

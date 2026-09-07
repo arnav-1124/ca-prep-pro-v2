@@ -9,7 +9,7 @@ export class OpenRouterProvider implements AIProvider {
   modelName: string;
 
   constructor(modelName?: string) {
-    this.modelName = modelName || process.env.OPENROUTER_MODEL || "google/gemini-3.6-flash";
+    this.modelName = modelName || process.env.OPENROUTER_MODEL || "google/gemini-2.5-flash";
   }
 
   async generateExplanation(payload: AIExplanationPayload, abortSignal?: AbortSignal): Promise<AIExplanationResult> {

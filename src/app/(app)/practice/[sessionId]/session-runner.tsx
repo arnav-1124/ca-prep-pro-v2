@@ -7,6 +7,7 @@ import {
   submitPracticeAnswerAction,
   getSessionSummaryAction,
   getExplanationAction,
+  completeSessionAction,
 } from "@/app/actions/practice";
 import {
   StudentPracticeQuestionDto,
@@ -50,6 +51,8 @@ export function SessionRunner({
   initialSummary = null,
   sessionDetails,
 }: SessionRunnerProps) {
+  const isUnlimited = sessionDetails.questionCount === 0;
+
   const [currentQuestion, setCurrentQuestion] = useState<StudentPracticeQuestionDto | null>(initialQuestion);
   const [selectedOption, setSelectedOption] = useState<string | null>(
     initialAttempt?.selectedAnswer || null
@@ -59,6 +62,7 @@ export function SessionRunner({
   );
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isNavigating, setIsNavigating] = useState(false);
+  const [isFinishing, setIsFinishing] = useState(false);
   const [isCompleted, setIsCompleted] = useState(
     sessionDetails.status === "COMPLETED" || sessionDetails.status === "ABANDONED" || !initialQuestion
   );
@@ -66,7 +70,7 @@ export function SessionRunner({
   const [deliveredCount, setDeliveredCount] = useState(
     initialQuestion?.sequenceNumber || sessionDetails.deliveredCount || 0
   );
-  const [totalQuestions] = useState(sessionDetails.questionCount || 10);
+  const [totalQuestions] = useState(isUnlimited ? 0 : (sessionDetails.questionCount || 10));
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
 
   // AI Explanation & Tutor State
@@ -178,6 +182,24 @@ export function SessionRunner({
       setErrorMessage("A connection issue occurred while fetching the next question.");
     } finally {
       setIsNavigating(false);
+    }
+  };
+
+  // Handle student ending continuous session on demand
+  const handleFinishSession = async () => {
+    if (isFinishing) return;
+    setIsFinishing(true);
+    try {
+      await completeSessionAction(sessionId);
+      setIsCompleted(true);
+      setCurrentQuestion(null);
+      await loadSummary();
+    } catch {
+      setIsCompleted(true);
+      setCurrentQuestion(null);
+      await loadSummary();
+    } finally {
+      setIsFinishing(false);
     }
   };
 
@@ -449,7 +471,7 @@ export function SessionRunner({
         </div>
         <div className="shrink-0 flex items-center gap-2">
           <span className="text-[9px] font-extrabold bg-muted border border-border rounded px-2 py-0.5 uppercase text-muted-foreground/80 tracking-wide font-sans">
-            Question {currentSeq} of {totalQuestions}
+            {isUnlimited ? `Question ${currentSeq} (Continuous Practice ∞)` : `Question ${currentSeq} of ${totalQuestions}`}
           </span>
           <span
             className={cn(
@@ -466,14 +488,22 @@ export function SessionRunner({
               Case Study
             </span>
           )}
+          <button
+            onClick={handleFinishSession}
+            disabled={isFinishing}
+            className="text-[10px] font-bold border border-border/80 bg-card hover:bg-muted text-muted-foreground hover:text-foreground rounded px-2.5 py-1 transition-all cursor-pointer inline-flex items-center gap-1"
+          >
+            {isFinishing ? <Loader2 className="h-3 w-3 animate-spin mr-1" /> : null}
+            <span>Finish Session</span>
+          </button>
         </div>
       </div>
 
       {/* Progress Bar */}
       <div className="w-full bg-muted/60 h-1.5 rounded-full overflow-hidden border border-border/20">
         <div
-          className="bg-primary h-full transition-all duration-300"
-          style={{ width: `${progressPercent}%` }}
+          className={cn("bg-primary h-full transition-all duration-300", isUnlimited && "w-full animate-pulse bg-primary/70")}
+          style={isUnlimited ? undefined : { width: `${progressPercent}%` }}
         />
       </div>
 
@@ -706,6 +736,17 @@ export function SessionRunner({
                   </button>
                 )}
 
+                {isUnlimited && (
+                  <button
+                    onClick={handleFinishSession}
+                    disabled={isFinishing}
+                    className="w-full sm:w-auto inline-flex cursor-pointer items-center justify-center gap-2 rounded-xl border border-border bg-card hover:bg-muted px-4 py-2.5 text-xs font-bold text-muted-foreground hover:text-foreground transition-all select-none"
+                  >
+                    {isFinishing ? <Loader2 className="h-4 w-4 animate-spin" /> : null}
+                    <span>Finish & View Summary</span>
+                  </button>
+                )}
+
                 <button
                   onClick={handleNextQuestion}
                   disabled={isNavigating}
@@ -719,7 +760,7 @@ export function SessionRunner({
                       <Loader2 className="h-4 w-4 animate-spin" />
                       <span>Loading next question...</span>
                     </>
-                  ) : submittedResult.isSessionCompleted || currentSeq >= totalQuestions ? (
+                  ) : !isUnlimited && (submittedResult.isSessionCompleted || currentSeq >= totalQuestions) ? (
                     <>
                       <span>View Session Summary</span>
                       <Award className="h-4 w-4" />

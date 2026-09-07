@@ -79,7 +79,8 @@ export async function getPracticeSessionSummary(
     curriculumNodeName = node?.name || null;
   }
 
-  const totalQuestions = session.questionCount || 10;
+  const isUnlimited = !session.questionCount || session.questionCount === 0;
+  const totalQuestions: number = isUnlimited ? 0 : (session.questionCount ?? 0);
 
   // 2. Fetch all delivered questions
   const deliveredQuestions = await db

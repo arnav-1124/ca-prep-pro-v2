@@ -22,6 +22,8 @@ export async function calculateSessionProgress(
   sessionId: string,
   totalQuestions: number
 ): Promise<PracticeSessionProgressDto> {
+  const isUnlimited = totalQuestions === 0;
+
   // Count delivered questions
   const [deliveredRes] = await db
     .select({ count: sql<number>`count(*)::int` })
@@ -43,11 +45,11 @@ export async function calculateSessionProgress(
   const answeredCount = attemptsRes?.totalAnswered || 0;
   const correctCount = attemptsRes?.correctCount || 0;
   const incorrectCount = answeredCount - correctCount;
-  const unansweredCount = Math.max(0, totalQuestions - answeredCount);
+  const unansweredCount = isUnlimited ? 0 : Math.max(0, totalQuestions - answeredCount);
   const accuracyPercentage =
     answeredCount > 0 ? Math.round((correctCount / answeredCount) * 100) : 0;
   const currentScore = attemptsRes?.totalScore || 0;
-  const maxPossibleScore = totalQuestions;
+  const maxPossibleScore = isUnlimited ? answeredCount : totalQuestions;
 
   return {
     totalQuestions,
@@ -94,7 +96,8 @@ export async function submitPracticeAnswer(
     throw new Error("Unauthorized access to practice session.");
   }
 
-  const totalQuestions = session.questionCount || 10;
+  const isUnlimited = !session.questionCount || session.questionCount === 0;
+  const totalQuestions: number = isUnlimited ? 0 : (session.questionCount ?? 0);
 
   // 3. Verify delivered session question exists in this session
   const [sessionQuestion] = await db
@@ -227,7 +230,7 @@ export async function submitPracticeAnswer(
   const progress = await calculateSessionProgress(session.id, totalQuestions);
 
   let isSessionCompleted = false;
-  if (progress.answeredCount >= totalQuestions) {
+  if (!isUnlimited && progress.answeredCount >= totalQuestions) {
     await db
       .update(practiceSessions)
       .set({ status: "COMPLETED", completedAt: new Date(), updatedAt: new Date() })

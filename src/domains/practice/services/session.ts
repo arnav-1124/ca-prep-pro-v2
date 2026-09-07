@@ -25,13 +25,15 @@ import {
 import {
   countEligibleQuestions,
   selectNextEligibleQuestion,
+  selectEligibleQuestionsBatch,
   QuestionFilterCriteria,
 } from "./selector";
 import { calculateSessionProgress } from "./attempts";
 
 /**
  * Creates a new practice session for an authenticated student with deterministic ordering.
- * Immediately delivers Question 1 to establish session integrity.
+ * For Case Study sessions with a requested count, pre-delivers all questions upfront.
+ * For Continuous / Unlimited sessions (requestedQuestionCount = 0), sets questionCount to 0.
  */
 export async function createPracticeSession(
   studentProfileId: string,
@@ -97,8 +99,9 @@ export async function createPracticeSession(
     throw new Error("No matching practice questions are currently available for this selection.");
   }
 
-  // 6. Cap question count to availability and max limit
-  const cappedCount = Math.min(validated.requestedQuestionCount, availableCount);
+  // 6. Handle Unlimited vs Capped Question Count
+  const isUnlimited = validated.requestedQuestionCount === 0;
+  const cappedCount = isUnlimited ? 0 : Math.min(validated.requestedQuestionCount, availableCount);
 
   // 7. Generate server-side cryptographic session seed (32-bit integer)
   const sessionSeed = Math.floor(Math.random() * 2147483647);
@@ -116,54 +119,114 @@ export async function createPracticeSession(
       practiceMode: validated.practiceMode,
       difficulty: validated.difficulty,
       questionType: validated.questionType,
-      questionCount: cappedCount,
+      questionCount: cappedCount, // 0 indicates Continuous / Unlimited practice
       sessionSeed,
     })
     .returning();
 
-  // 9. Deterministically select and deliver Question 1
-  const candidate = await selectNextEligibleQuestion(session.id, sessionSeed, filterCriteria);
-  if (!candidate) {
-    throw new Error("Failed to initialize session: No eligible question could be selected.");
-  }
+  // 9. Deliver questions into practice_session_questions
+  if (validated.practiceMode === "CASE_STUDY" && cappedCount > 0) {
+    // For fixed-count Case Studies: deliver all requested questions upfront
+    const candidates = await selectEligibleQuestionsBatch(
+      session.id,
+      sessionSeed,
+      filterCriteria,
+      cappedCount
+    );
 
-  const [deliveryRecord] = await db
-    .insert(practiceSessionQuestions)
-    .values({
-      practiceSessionId: session.id,
+    if (candidates.length === 0) {
+      throw new Error("Failed to initialize session: No eligible case study questions could be selected.");
+    }
+
+    const deliveryRecords = await Promise.all(
+      candidates.map((c, index) =>
+        db
+          .insert(practiceSessionQuestions)
+          .values({
+            practiceSessionId: session.id,
+            questionId: c.questionId,
+            questionVersionId: c.questionVersionId,
+            sequenceNumber: index + 1,
+          })
+          .returning()
+      )
+    );
+
+    const firstCandidate = candidates[0];
+    const firstDelivery = deliveryRecords[0][0];
+
+    const firstQuestion: StudentPracticeQuestionDto = {
+      sessionQuestionId: firstDelivery.id,
+      sessionId: session.id,
+      questionId: firstCandidate.questionId,
+      questionVersionId: firstCandidate.questionVersionId,
+      sequenceNumber: 1,
+      totalQuestions: cappedCount,
+      questionType: "CASE_STUDY",
+      difficulty: firstCandidate.difficulty,
+      questionText: firstCandidate.questionText,
+      options: firstCandidate.options,
+      caseStudy: firstCandidate.caseStudyId
+        ? {
+            id: firstCandidate.caseStudyId,
+            title: firstCandidate.caseStudyTitle || "Case Scenario",
+            scenarioText: firstCandidate.caseStudyScenarioText || "",
+          }
+        : null,
+      curriculumContext: {
+        levelName: firstCandidate.levelName,
+        subjectName: firstCandidate.subjectName,
+        nodeName: firstCandidate.curriculumNodeName,
+      },
+      deliveredAt: firstDelivery.deliveredAt.toISOString(),
+    };
+
+    return { sessionId: session.id, firstQuestion };
+  } else {
+    // Standalone Question mode or Unlimited Case Study: deliver Question 1 immediately
+    const candidate = await selectNextEligibleQuestion(session.id, sessionSeed, filterCriteria);
+    if (!candidate) {
+      throw new Error("Failed to initialize session: No eligible question could be selected.");
+    }
+
+    const [deliveryRecord] = await db
+      .insert(practiceSessionQuestions)
+      .values({
+        practiceSessionId: session.id,
+        questionId: candidate.questionId,
+        questionVersionId: candidate.questionVersionId,
+        sequenceNumber: 1,
+      })
+      .returning();
+
+    const firstQuestion: StudentPracticeQuestionDto = {
+      sessionQuestionId: deliveryRecord.id,
+      sessionId: session.id,
       questionId: candidate.questionId,
       questionVersionId: candidate.questionVersionId,
       sequenceNumber: 1,
-    })
-    .returning();
+      totalQuestions: cappedCount,
+      questionType: (candidate.questionType as "MCQ" | "CASE_STUDY") || "MCQ",
+      difficulty: candidate.difficulty,
+      questionText: candidate.questionText,
+      options: candidate.options,
+      caseStudy: candidate.caseStudyId
+        ? {
+            id: candidate.caseStudyId,
+            title: candidate.caseStudyTitle || "Case Scenario",
+            scenarioText: candidate.caseStudyScenarioText || "",
+          }
+        : null,
+      curriculumContext: {
+        levelName: candidate.levelName,
+        subjectName: candidate.subjectName,
+        nodeName: candidate.curriculumNodeName,
+      },
+      deliveredAt: deliveryRecord.deliveredAt.toISOString(),
+    };
 
-  const firstQuestion: StudentPracticeQuestionDto = {
-    sessionQuestionId: deliveryRecord.id,
-    sessionId: session.id,
-    questionId: candidate.questionId,
-    questionVersionId: candidate.questionVersionId,
-    sequenceNumber: 1,
-    totalQuestions: cappedCount,
-    questionType: candidate.questionType,
-    difficulty: candidate.difficulty,
-    questionText: candidate.questionText,
-    options: candidate.options,
-    caseStudy: candidate.caseStudyId
-      ? {
-          id: candidate.caseStudyId,
-          title: candidate.caseStudyTitle || "Case Scenario",
-          scenarioText: candidate.caseStudyScenarioText || "",
-        }
-      : null,
-    curriculumContext: {
-      levelName: candidate.levelName,
-      subjectName: candidate.subjectName,
-      nodeName: candidate.curriculumNodeName,
-    },
-    deliveredAt: deliveryRecord.deliveredAt.toISOString(),
-  };
-
-  return { sessionId: session.id, firstQuestion };
+    return { sessionId: session.id, firstQuestion };
+  }
 }
 
 /**
@@ -189,18 +252,8 @@ export async function getNextPracticeQuestion(
     throw new Error("Unauthorized access to practice session.");
   }
 
-  const totalQuestions = session.questionCount || 10;
-
-  // If already completed or abandoned, return completion state
-  if (session.status === "COMPLETED" || session.status === "ABANDONED") {
-    return {
-      isCompleted: true,
-      question: null,
-      deliveredCount: totalQuestions,
-      totalQuestions,
-      message: "This practice session has ended.",
-    };
-  }
+  const isUnlimited = !session.questionCount || session.questionCount === 0;
+  const totalQuestions: number = isUnlimited ? 0 : (session.questionCount ?? 0);
 
   // 2. Count delivered questions in this session
   const deliveredRows = await db
@@ -214,8 +267,19 @@ export async function getNextPracticeQuestion(
 
   const deliveredCount = deliveredRows.length;
 
-  // 3. Check if session limit is reached
-  if (deliveredCount >= totalQuestions) {
+  // If already completed or abandoned, return completion state
+  if (session.status === "COMPLETED" || session.status === "ABANDONED") {
+    return {
+      isCompleted: true,
+      question: null,
+      deliveredCount,
+      totalQuestions,
+      message: "This practice session has ended.",
+    };
+  }
+
+  // 3. Check if session limit is reached (for fixed-count sessions only)
+  if (!isUnlimited && deliveredCount >= totalQuestions) {
     await db
       .update(practiceSessions)
       .set({ status: "COMPLETED", completedAt: new Date(), updatedAt: new Date() })
@@ -263,7 +327,9 @@ export async function getNextPracticeQuestion(
       question: null,
       deliveredCount,
       totalQuestions,
-      message: "No further eligible questions remain in the question bank for this session.",
+      message: isUnlimited
+        ? "You've practiced all available questions matching this criteria in the entire question bank!"
+        : "No further eligible questions remain in the question bank for this session.",
     };
   }
 
@@ -393,7 +459,8 @@ export async function getCurrentPracticeQuestion(
     .where(eq(practiceSessionQuestions.practiceSessionId, sessionId))
     .orderBy(desc(practiceSessionQuestions.sequenceNumber));
 
-  const totalQuestions = session.questionCount || 10;
+  const isUnlimited = !session.questionCount || session.questionCount === 0;
+  const totalQuestions: number = isUnlimited ? 0 : (session.questionCount ?? 0);
   const isCompleted = session.status === "COMPLETED" || session.status === "ABANDONED";
 
   const sessionDetails: PracticeSessionDetailsDto = {
@@ -418,7 +485,7 @@ export async function getCurrentPracticeQuestion(
 
   if (isCompleted || deliveredRecords.length === 0) {
     return {
-      isCompleted: isCompleted || deliveredRecords.length >= totalQuestions,
+      isCompleted: isCompleted || (!isUnlimited && deliveredRecords.length >= totalQuestions),
       question: null,
       session: sessionDetails,
     };
@@ -552,6 +619,35 @@ export async function abandonPracticeSession(
   await db
     .update(practiceSessions)
     .set({ status: "ABANDONED", completedAt: new Date(), updatedAt: new Date() })
+    .where(eq(practiceSessions.id, sessionId));
+
+  return { success: true };
+}
+
+/**
+ * Marks an active practice session as completed on demand.
+ */
+export async function completePracticeSession(
+  studentProfileId: string,
+  sessionId: string
+): Promise<{ success: boolean }> {
+  const [session] = await db
+    .select({ id: practiceSessions.id, studentProfileId: practiceSessions.studentProfileId })
+    .from(practiceSessions)
+    .where(eq(practiceSessions.id, sessionId))
+    .limit(1);
+
+  if (!session) {
+    throw new Error("Practice session not found.");
+  }
+
+  if (session.studentProfileId !== studentProfileId) {
+    throw new Error("Unauthorized access to practice session.");
+  }
+
+  await db
+    .update(practiceSessions)
+    .set({ status: "COMPLETED", completedAt: new Date(), updatedAt: new Date() })
     .where(eq(practiceSessions.id, sessionId));
 
   return { success: true };
