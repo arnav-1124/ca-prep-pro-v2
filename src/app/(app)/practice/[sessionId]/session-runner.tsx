@@ -1,11 +1,12 @@
 "use client";
 
-import { useState, useCallback, useMemo } from "react";
+import { useState, useCallback, useMemo, useRef } from "react";
 import { shufflePracticeOptions } from "@/lib/option-shuffler";
 import {
   getNextQuestionAction,
   submitPracticeAnswerAction,
   getSessionSummaryAction,
+  getExplanationAction,
 } from "@/app/actions/practice";
 import {
   StudentPracticeQuestionDto,
@@ -27,7 +28,10 @@ import {
   BarChart2,
   Check,
   X,
+  Lightbulb,
+  AlertTriangle,
 } from "lucide-react";
+import { LimitDialog } from "@/components/app/limit-dialog";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 
@@ -64,6 +68,26 @@ export function SessionRunner({
   );
   const [totalQuestions] = useState(sessionDetails.questionCount || 10);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
+
+  // AI Explanation & Tutor State
+  const [aiExplanation, setAiExplanation] = useState<{
+    explanation: string;
+    keyPoint?: string | null;
+  } | null>(null);
+  const [isGeneratingAi, setIsGeneratingAi] = useState(false);
+  const [aiErrorMessage, setAiErrorMessage] = useState<string | null>(null);
+  const isGeneratingRef = useRef(false);
+
+  // Limit Dialog State for Quota Limits
+  const [showLimitDialog, setShowLimitDialog] = useState(false);
+  const [limitMetadata, setLimitMetadata] = useState<{
+    studentName: string;
+    featureName: string;
+    currentPlan: string;
+    limitCount: number;
+    period: string;
+    isRenewable: boolean;
+  } | null>(null);
 
   // Helper to load complete session summary
   const loadSummary = useCallback(async () => {
@@ -145,11 +169,54 @@ export function SessionRunner({
         setDeliveredCount(res.deliveredCount);
         setSelectedOption(null);
         setSubmittedResult(null);
+        setAiExplanation(null);
+        setAiErrorMessage(null);
+        setIsGeneratingAi(false);
+        isGeneratingRef.current = false;
       }
     } catch {
       setErrorMessage("A connection issue occurred while fetching the next question.");
     } finally {
       setIsNavigating(false);
+    }
+  };
+
+  // Handle AI Explanation generation
+  const handleUnderstandWithAi = async () => {
+    if (!currentQuestion || isGeneratingAi || aiExplanation || isGeneratingRef.current) return;
+
+    isGeneratingRef.current = true;
+    setIsGeneratingAi(true);
+    setAiErrorMessage(null);
+
+    try {
+      const res = await getExplanationAction(sessionId, currentQuestion.questionVersionId);
+
+      if (res.success && res.explanation) {
+        setAiExplanation({
+          explanation: res.explanation,
+          keyPoint: res.keyPoint || null,
+        });
+      } else {
+        if (res.isQuotaExceeded && res.limitDetails) {
+          setLimitMetadata({
+            studentName: res.limitDetails.name,
+            featureName: "AI Explanation",
+            currentPlan: res.limitDetails.plan,
+            limitCount: res.limitDetails.limit,
+            period: "24-hour",
+            isRenewable: true,
+          });
+          setShowLimitDialog(true);
+        } else {
+          setAiErrorMessage(res.error || "Failed to contact study tutor. Please try again.");
+        }
+      }
+    } catch {
+      setAiErrorMessage("An unexpected connection issue occurred. Please try again.");
+    } finally {
+      isGeneratingRef.current = false;
+      setIsGeneratingAi(false);
     }
   };
 
@@ -533,6 +600,40 @@ export function SessionRunner({
           </div>
         )}
 
+        {/* AI Study Tutor Breakdown Card (Revealed when Understand with AI is clicked) */}
+        {aiExplanation && (
+          <div className="border border-primary/20 bg-primary/5 rounded-xl p-5 space-y-3 animate-in fade-in duration-300">
+            <div className="flex items-center gap-2 text-primary font-bold">
+              <Sparkles className="h-4 w-4 animate-pulse" />
+              <span className="text-xs font-bold uppercase tracking-wide">
+                AI Study Tutor Breakdown
+              </span>
+            </div>
+            <p className="text-xs font-sans text-foreground/85 leading-relaxed whitespace-pre-line select-text">
+              {aiExplanation.explanation}
+            </p>
+            {aiExplanation.keyPoint && (
+              <div className="flex items-start gap-2 border-t border-primary/15 pt-3 mt-2 text-xs">
+                <Lightbulb className="h-4 w-4 text-amber-500 shrink-0 mt-0.5" />
+                <p className="text-foreground font-medium select-text">
+                  <span className="font-bold uppercase tracking-wider text-[10px] text-amber-600 dark:text-amber-400 mr-1.5">
+                    Key Takeaway:
+                  </span>
+                  {aiExplanation.keyPoint}
+                </p>
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* AI Error Alert */}
+        {aiErrorMessage && (
+          <div className="border border-destructive/20 bg-destructive/5 rounded-xl p-3 text-xs text-destructive flex items-center gap-2 animate-in fade-in duration-200">
+            <AlertTriangle className="h-4 w-4 shrink-0" />
+            <span>{aiErrorMessage}</span>
+          </div>
+        )}
+
         {errorMessage && (
           <div className="border border-destructive/20 bg-destructive/5 rounded-xl p-3 text-xs text-destructive flex items-center gap-2">
             <span>{errorMessage}</span>
@@ -580,36 +681,74 @@ export function SessionRunner({
                 )}
               </button>
             ) : (
-              /* If submitted: Next Question / View Summary Button */
-              <button
-                onClick={handleNextQuestion}
-                disabled={isNavigating}
-                className={cn(
-                  "w-full sm:w-auto inline-flex cursor-pointer items-center justify-center gap-2 rounded-xl bg-primary px-6 py-2.5 text-xs font-bold text-primary-foreground hover:bg-primary/95 transition-all select-none shadow-xs",
-                  isNavigating && "opacity-60 pointer-events-none"
+              /* If submitted: Understand with AI Button + Next Question / View Summary Button */
+              <div className="flex flex-col sm:flex-row items-center gap-2 w-full sm:w-auto">
+                {!aiExplanation && (
+                  <button
+                    onClick={handleUnderstandWithAi}
+                    disabled={isGeneratingAi}
+                    className={cn(
+                      "w-full sm:w-auto inline-flex cursor-pointer items-center justify-center gap-2 rounded-xl border border-primary/20 bg-primary/5 hover:bg-primary/10 px-4 py-2.5 text-xs font-bold text-primary transition-all select-none",
+                      isGeneratingAi && "opacity-60 pointer-events-none"
+                    )}
+                  >
+                    {isGeneratingAi ? (
+                      <>
+                        <Loader2 className="h-4 w-4 animate-spin text-primary" />
+                        <span>Analyzing with AI...</span>
+                      </>
+                    ) : (
+                      <>
+                        <Sparkles className="h-4 w-4 text-primary" />
+                        <span>Understand with AI</span>
+                      </>
+                    )}
+                  </button>
                 )}
-              >
-                {isNavigating ? (
-                  <>
-                    <Loader2 className="h-4 w-4 animate-spin" />
-                    <span>Loading next question...</span>
-                  </>
-                ) : submittedResult.isSessionCompleted || currentSeq >= totalQuestions ? (
-                  <>
-                    <span>View Session Summary</span>
-                    <Award className="h-4 w-4" />
-                  </>
-                ) : (
-                  <>
-                    <span>Next Question</span>
-                    <ChevronRight className="h-4 w-4" />
-                  </>
-                )}
-              </button>
+
+                <button
+                  onClick={handleNextQuestion}
+                  disabled={isNavigating}
+                  className={cn(
+                    "w-full sm:w-auto inline-flex cursor-pointer items-center justify-center gap-2 rounded-xl bg-primary px-6 py-2.5 text-xs font-bold text-primary-foreground hover:bg-primary/95 transition-all select-none shadow-xs",
+                    isNavigating && "opacity-60 pointer-events-none"
+                  )}
+                >
+                  {isNavigating ? (
+                    <>
+                      <Loader2 className="h-4 w-4 animate-spin" />
+                      <span>Loading next question...</span>
+                    </>
+                  ) : submittedResult.isSessionCompleted || currentSeq >= totalQuestions ? (
+                    <>
+                      <span>View Session Summary</span>
+                      <Award className="h-4 w-4" />
+                    </>
+                  ) : (
+                    <>
+                      <span>Next Question</span>
+                      <ChevronRight className="h-4 w-4" />
+                    </>
+                  )}
+                </button>
+              </div>
             )}
           </div>
         </div>
       </div>
+
+      {limitMetadata && (
+        <LimitDialog
+          isOpen={showLimitDialog}
+          onClose={() => setShowLimitDialog(false)}
+          studentName={limitMetadata.studentName}
+          featureName={limitMetadata.featureName}
+          currentPlan={limitMetadata.currentPlan}
+          limitCount={limitMetadata.limitCount}
+          period={limitMetadata.period}
+          isRenewable={limitMetadata.isRenewable}
+        />
+      )}
     </div>
   );
 }
