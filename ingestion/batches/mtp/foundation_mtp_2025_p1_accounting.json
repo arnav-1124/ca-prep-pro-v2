@@ -1,0 +1,911 @@
+{
+  "batchMetadata": {
+    "name": "CA Foundation Accounting (Paper 1) - Official Model Test Papers 2025 True/False Conceptual Bank",
+    "academicLevel": "FOUNDATION",
+    "subjectCode": "PAPER_1",
+    "sourceType": "MTP",
+    "sourceTitle": "ICAI BoS Foundation Model Test Papers (Feb 2025 & May 2025 Series II)",
+    "sourceYear": 2025,
+    "sourceMonth": 2
+  },
+  "questions": [
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Accounting Standards for non-corporate entities in India are issued by the Central Government.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH1",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Accounting Standards for non-corporate entities in India are issued by the Institute of Chartered Accountants of India (ICAI).",
+      "sourceMetadata": {
+        "mtpNumber": 1,
+        "itemNumber": 1,
+        "sourceSeries": "Model Test Paper 1",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Subsidy received from the government for working capital by a manufacturing concern is a revenue receipt.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH1",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Accounting Standards for non-corporate entities in India are issued by the Institute of Chartered Accountants of India (ICAI).",
+      "sourceMetadata": {
+        "mtpNumber": 1,
+        "itemNumber": 2,
+        "sourceSeries": "Model Test Paper 1",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Reducing balance method of depreciation is followed to have a uniform charge for depreciation and repairs and maintenance together.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH5",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: In the early periods of useful life of a fixed assets, repairs and maintenance expenses are relatively low because the asset is new. Whereas in later periods, as the asset become old, repairs and maintenance expenses increase continuously. Under written down value method, depreciation charged is high in the initial period and reduces continuously in the later periods. Thus, depreciation and repair and maintenance expenses become more or less uniform throughout the useful life of the asset.",
+      "sourceMetadata": {
+        "mtpNumber": 1,
+        "itemNumber": 3,
+        "sourceSeries": "Model Test Paper 1",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Discount at the time of retirement of a bill is a gain for the drawee.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH6",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: Discount at the time of retirement of a bill is a gain for the drawee and loss for the drawer.",
+      "sourceMetadata": {
+        "mtpNumber": 1,
+        "itemNumber": 4,
+        "sourceSeries": "Model Test Paper 1",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Business of partnership comes to an end on death of a partner.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH10",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Surviving partners may continue to carry on the business in case of partnership.",
+      "sourceMetadata": {
+        "mtpNumber": 1,
+        "itemNumber": 5,
+        "sourceSeries": "Model Test Paper 1",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Receipts and Payments Account highlights total income and expenditure.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH8",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Receipts and payments account is a classified summary of cash receipts and payments over a certain period together with cash and bank balances at the beginning and close of the period.",
+      "sourceMetadata": {
+        "mtpNumber": 1,
+        "itemNumber": 6,
+        "sourceSeries": "Model Test Paper 1",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Amount spent for the construction of temporary huts, which were necessary for construction of the Cinema House and were demolished when the Cinema House was ready, is capital expenditure.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH1",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: Since the temporary huts were necessary for the construction, their cost should be added to the cost of the cinema hall and thus capitalised.",
+      "sourceMetadata": {
+        "mtpNumber": 2,
+        "itemNumber": 1,
+        "sourceSeries": "Model Test Paper 2",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Accrual concept implies accounting on cash basis.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH1",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: Since the temporary huts were necessary for the construction, their cost should be added to the cost of the cinema hall and thus capitalised.",
+      "sourceMetadata": {
+        "mtpNumber": 2,
+        "itemNumber": 2,
+        "sourceSeries": "Model Test Paper 2",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"If individual life policies are taken in the name of the partners and premium is paid from the firm, then retiring partner is entitled to surrender value of his policy only.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH10",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: If individual life policies are taken in the name of the partners and premium is paid from the firm, then retiring partner is entitled to surrender value of all the partners policies.",
+      "sourceMetadata": {
+        "mtpNumber": 2,
+        "itemNumber": 5,
+        "sourceSeries": "Model Test Paper 2",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Net income in case of persons practicing vocation is determined by preparing profit and loss account.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH1",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: Since the temporary huts were necessary for the construction, their cost should be added to the cost of the cinema hall and thus capitalised.",
+      "sourceMetadata": {
+        "mtpNumber": 2,
+        "itemNumber": 6,
+        "sourceSeries": "Model Test Paper 2",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"v. Nominal Accounts are kept under Single Entry System. vi. A person holding preference shares of a company cannot hold equity shares of the same company.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH11",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Preference share holder can hold both Equity shares and Preference shares of the company. Any person can hold both kinds of shares.",
+      "sourceMetadata": {
+        "mtpNumber": 4,
+        "itemNumber": 1,
+        "sourceSeries": "Model Test Paper 4",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Finished goods are normally valued at cost or market price whichever is higher. 3 Subscriptions received for the current year shall be shown in the balance sheet as a current asset. 4 When shares are forfeited, the share capital account is debited with called up capital of shares forfeited and the share forfeiture account is credited with Calls in arrear of shares forfeited. 5 Discount at the time of retirement of a bill is a gain for the drawee.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH11",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: When shares are forfeited, the share capital account is debited with called up capital of shares forfeited and the share forfeiture account is credited with amount received on shares forfeited.",
+      "sourceMetadata": {
+        "mtpNumber": 5,
+        "itemNumber": 1,
+        "sourceSeries": "Model Test Paper 5",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Bills receivable and bills payable books are type of subsidiary books.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH6",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: Discount at the time of retirement of a bill is a gain for the drawee and loss for the drawer.",
+      "sourceMetadata": {
+        "mtpNumber": 5,
+        "itemNumber": 2,
+        "sourceSeries": "Model Test Paper 5",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Wages paid for erection of machinery are debited to Profit and Loss Account.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH1",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Such wages being related to capital asset should be debited to the machinery account.",
+      "sourceMetadata": {
+        "mtpNumber": 6,
+        "itemNumber": 1,
+        "sourceSeries": "Model Test Paper 6",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"If the effect of errors committed cancel out, the errors will be called compensating errors and the trial balance will disagree.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH2",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: If the effect of errors committed cancel out, the errors will be called compensating errors and the trial balance will agree.",
+      "sourceMetadata": {
+        "mtpNumber": 6,
+        "itemNumber": 3,
+        "sourceSeries": "Model Test Paper 6",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Promissory note is different from bill of exchange because the amount is paid by the maker in case of former and by the acceptor in the later.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH6",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: In case of the promissory note, it is generally the maker who makes the payment, but in case of the bill of exchange, the person accepting the bill shall be liable to make the payment to the holder of the bill.",
+      "sourceMetadata": {
+        "mtpNumber": 6,
+        "itemNumber": 4,
+        "sourceSeries": "Model Test Paper 6",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"The business of partnership must be carried on by all the partners.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH10",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: The business of the partnership firm can be carried on by all the partners or by any one of them acting for all.",
+      "sourceMetadata": {
+        "mtpNumber": 6,
+        "itemNumber": 5,
+        "sourceSeries": "Model Test Paper 6",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Debenture interest is payable after the payment of preference dividend but before the payment of equity dividend.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH11",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Debenture interest is payable before the payment of any dividend on shares.",
+      "sourceMetadata": {
+        "mtpNumber": 6,
+        "itemNumber": 6,
+        "sourceSeries": "Model Test Paper 6",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"A claim that an enterprise is pursuing through legal process, where the outcome is uncertain, is a contingent liability.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH1",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: A claim that an enterprise is pursuing through legal process, where the outcome is uncertain, is a contingent asset.",
+      "sourceMetadata": {
+        "mtpNumber": 7,
+        "itemNumber": 1,
+        "sourceSeries": "Model Test Paper 7",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Stock at the end, if appears in the trial balance, is taken only to the Balance Sheet.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH7",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: If closing stock appears in trail balance, it depicts that one aspect of the double entry has been completed, hence it is taken only to Balance Sheet.",
+      "sourceMetadata": {
+        "mtpNumber": 7,
+        "itemNumber": 3,
+        "sourceSeries": "Model Test Paper 7",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Re-issue of forfeited shares is allotment of shares but not a sale.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH11",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: A forfeited share is merely a share available to the company for sale and remains vested in the company for that purpose only. Reissue of forfeited shares is not allotment of shares but only a sale as they have already been allotted earlier.",
+      "sourceMetadata": {
+        "mtpNumber": 7,
+        "itemNumber": 4,
+        "sourceSeries": "Model Test Paper 7",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Both revenue and capital nature transactions are recorded in the Receipts and Payments Account.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH8",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: All the receipts and payments whether of revenue or capital nature are included in Receipt and Payment account.",
+      "sourceMetadata": {
+        "mtpNumber": 7,
+        "itemNumber": 5,
+        "sourceSeries": "Model Test Paper 7",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Since company has existence independent of its members, it continues to be in existence despite the death, insolvency or change of members.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH11",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: A forfeited share is merely a share available to the company for sale and remains vested in the company for that purpose only. Reissue of forfeited shares is not allotment of shares but only a sale as they have already been allotted earlier.",
+      "sourceMetadata": {
+        "mtpNumber": 7,
+        "itemNumber": 6,
+        "sourceSeries": "Model Test Paper 7",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"The rule of nominal accounts states that all expenses and losses are recorded on credit side.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH1",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: If the amount is posted in the wrong account or it is written on the wrong side of the account, it is called error of commission and not error of Principle.",
+      "sourceMetadata": {
+        "mtpNumber": 9,
+        "itemNumber": 1,
+        "sourceSeries": "Model Test Paper 9",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Overhaul Expenses of a second-hand machinery purchased are Revenue Expenditure.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH1",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: If the amount is posted in the wrong account or it is written on the wrong side of the account, it is called error of commission and not error of Principle.",
+      "sourceMetadata": {
+        "mtpNumber": 9,
+        "itemNumber": 2,
+        "sourceSeries": "Model Test Paper 9",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Valuation of inventory at cost or net realizable value is based on Principle of Conservatism.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH4",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Official ICAI Model Test Paper 9 Question 1(a). State whether the statement is True or False with reasons.",
+      "sourceMetadata": {
+        "mtpNumber": 9,
+        "itemNumber": 3,
+        "sourceSeries": "Model Test Paper 9",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"A Promissory Note can be made payable to the Bearer.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH6",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: In case of the promissory note, it is generally the maker who makes the payment, but in case of the bill of exchange, the person accepting the bill shall be liable to make the payment to the holder of the bill.",
+      "sourceMetadata": {
+        "mtpNumber": 9,
+        "itemNumber": 4,
+        "sourceSeries": "Model Test Paper 9",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"The Receipts and payment account for a non-profit organization follows the accrual concept of accounting.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH1",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: If the amount is posted in the wrong account or it is written on the wrong side of the account, it is called error of commission and not error of Principle.",
+      "sourceMetadata": {
+        "mtpNumber": 9,
+        "itemNumber": 5,
+        "sourceSeries": "Model Test Paper 9",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Legal heirs of a deceased partner are entitled to his capital account balance only. (6 x 2=12 Marks)\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH10",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: Revaluation is also called as profit and loss adjustment account. It is used to record the gain/loss arising from the revaluation of assets and liabilities of a firm at the time of reconstitution.",
+      "sourceMetadata": {
+        "mtpNumber": 9,
+        "itemNumber": 6,
+        "sourceSeries": "Model Test Paper 9",
+        "paper": "Paper 1: Accounting",
+        "examCycle": "May 2025 and onwards",
+        "edition": "February 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Warehouse rent paid for storage of finished inventory should be included in the cost of finished inventory.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH4",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Warehouse rent paid for storage of finished inventory is a period cost and should be treated as selling and distribution expense, not included in cost of finished inventory.",
+      "sourceMetadata": {
+        "seriesName": "Mock Test Paper Series II: May 2025",
+        "itemNumber": 1,
+        "paper": "Paper 1: Accounting",
+        "dateOfPaper": "5th May 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Cash book is a subsidiary book as well as a principal book.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH2",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: Cash book is a subsidiary book as all cash transactions are first recorded in it, and it is a principal book as it serves the purpose of cash account and bank account.",
+      "sourceMetadata": {
+        "seriesName": "Mock Test Paper Series II: May 2025",
+        "itemNumber": 2,
+        "paper": "Paper 1: Accounting",
+        "dateOfPaper": "5th May 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Subscriptions received for the current year shall be shown in the balance sheet as a current asset.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH8",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Subscriptions received for the current year is an income and shown in Income and Expenditure Account. If received in advance, it is shown as a liability.",
+      "sourceMetadata": {
+        "seriesName": "Mock Test Paper Series II: May 2025",
+        "itemNumber": 3,
+        "paper": "Paper 1: Accounting",
+        "dateOfPaper": "5th May 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"Company A is incurring huge losses, the Board of Directors are of the opinion that incase of losses, there is no need to pay interest on debenture holders.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH11",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: Interest on debentures is a charge against profits and not an appropriation. Therefore, company is legally bound to pay interest on debentures even if it incurs losses.",
+      "sourceMetadata": {
+        "seriesName": "Mock Test Paper Series II: May 2025",
+        "itemNumber": 4,
+        "paper": "Paper 1: Accounting",
+        "dateOfPaper": "5th May 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"On death of a partner, the firm gets surrender value of the joint life policy.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH10",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "False: On death of a partner, the firm receives the full policy amount (sum assured plus bonus) of the joint life policy, not merely the surrender value.",
+      "sourceMetadata": {
+        "seriesName": "Mock Test Paper Series II: May 2025",
+        "itemNumber": 5,
+        "paper": "Paper 1: Accounting",
+        "dateOfPaper": "5th May 2025"
+      }
+    },
+    {
+      "questionText": "State with reasons whether the following statement is True or False:\n\"The concept of conservatism when applied to the Balance Sheet results in understatement of assets.\"",
+      "type": "SINGLE_CHOICE",
+      "curriculumNodeCode": "FND_P1_CH7",
+      "difficulty": "MEDIUM",
+      "options": [
+        {
+          "letter": "A",
+          "text": "True"
+        },
+        {
+          "letter": "B",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "True: The conservatism concept results in understated assets and overstated liabilities by anticipating all prospective losses but not anticipating prospective profits.",
+      "sourceMetadata": {
+        "seriesName": "Mock Test Paper Series II: May 2025",
+        "itemNumber": 6,
+        "paper": "Paper 1: Accounting",
+        "dateOfPaper": "5th May 2025"
+      }
+    }
+  ]
+}

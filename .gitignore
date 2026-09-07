@@ -24,6 +24,8 @@
 .DS_Store
 *.pem
 *.pdf
+/*.txt
+/*.html
 
 # debug
 npm-debug.log*

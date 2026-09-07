@@ -30,6 +30,8 @@ import {
   SheetTitle,
   SheetTrigger
 } from "@/components/ui/sheet";
+import { ScrollArea } from "@/components/ui/scroll-area";
+import { Badge } from "@/components/ui/badge";
 
 interface CaseRunnerProps {
   initialState: PracticeSessionState;
@@ -189,17 +191,35 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
   const renderCaseStudyPassage = () => {
     if (!currentQuestion) return null;
     return (
-      <div className="space-y-4 font-sans text-sm leading-relaxed text-foreground select-text pr-2">
-        <div className="flex items-center gap-2 text-primary font-bold">
-          <BookOpen className="h-4 w-4" />
-          <span className="uppercase tracking-wider text-xs">Shared Passage Facts</span>
+      <div className="flex flex-col h-full overflow-hidden select-text">
+        <div className="flex items-center justify-between pb-3 border-b border-border shrink-0">
+          <div className="flex items-center gap-2 text-primary font-bold">
+            <BookOpen className="h-4 w-4" />
+            <span className="uppercase tracking-wider text-xs">Shared Passage Facts</span>
+          </div>
+          <Badge variant="outline" className="text-[10px] font-semibold tracking-wide border-primary/20 text-primary">
+            Scrollable Scenario
+          </Badge>
         </div>
-        <h2 className="text-base font-extrabold text-foreground border-b border-border pb-2">
+        <h2 className="text-base font-extrabold text-foreground pt-3 pb-2 leading-snug shrink-0">
           {currentQuestion.caseStudyTitle || "Case Scenario"}
         </h2>
-        <div className="whitespace-pre-wrap text-muted-foreground bg-muted/20 border border-border/50 rounded-xl p-4 md:p-5 text-xs md:text-sm font-sans font-medium max-h-[70vh] overflow-y-auto">
-          {currentQuestion.caseStudyScenarioText}
-        </div>
+        <ScrollArea className="flex-1 overflow-y-auto mt-2 pr-3">
+          <div className="space-y-4 text-sm md:text-[15px] leading-relaxed text-foreground/90 font-sans pb-6">
+            {currentQuestion.caseStudyScenarioText
+              ? currentQuestion.caseStudyScenarioText
+                  .split("\n\n")
+                  .filter((p) => p.trim().length > 0)
+                  .map((para, idx) => (
+                    <p key={idx} className="leading-relaxed">
+                      {para.trim()}
+                    </p>
+                  ))
+              : (
+                <p className="text-muted-foreground italic">No scenario text provided.</p>
+              )}
+          </div>
+        </ScrollArea>
       </div>
     );
   };
@@ -286,7 +306,7 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 items-start">
         
         {/* Left Side: Case Study Passage (Visible on Desktop / Tablet Only) */}
-        <div className="hidden lg:block border border-border bg-card rounded-2xl p-6 shadow-2xs sticky top-20 min-h-[500px]">
+        <div className="hidden lg:flex flex-col border border-border bg-card rounded-2xl p-6 shadow-sm sticky top-20 h-[calc(100vh-8rem)] max-h-[780px]">
           {renderCaseStudyPassage()}
         </div>
 
@@ -302,11 +322,16 @@ export function CaseRunner({ initialState }: CaseRunnerProps) {
                   <span>View Case Study Scenario / Passage</span>
                 </Button>
               </SheetTrigger>
-              <SheetContent side="bottom" className="h-[80vh] rounded-t-2xl font-sans">
-                <SheetHeader className="pb-4">
-                  <SheetTitle className="text-left font-extrabold">Case Scenario</SheetTitle>
+              <SheetContent side="bottom" className="h-[85vh] rounded-t-2xl font-sans p-6 flex flex-col">
+                <SheetHeader className="pb-3 border-b border-border shrink-0">
+                  <SheetTitle className="text-left font-extrabold flex items-center gap-2">
+                    <BookOpen className="h-4 w-4 text-primary" />
+                    <span>Case Scenario</span>
+                  </SheetTitle>
                 </SheetHeader>
-                {renderCaseStudyPassage()}
+                <div className="flex-1 overflow-hidden pt-2">
+                  {renderCaseStudyPassage()}
+                </div>
               </SheetContent>
             </Sheet>
           </div>
