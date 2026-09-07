@@ -1,0 +1,5726 @@
+{
+  "schemaVersion": "2.0",
+  "batchMetadata": {
+    "batchName": "CA Foundation Paper 3: Business Mathematics (Part 3: Ch 7 to 8)",
+    "sourceType": "STUDY_MATERIAL",
+    "sourceTitle": "ICAI Foundation Study Material - Business Mathematics (May 2026 Onwards)",
+    "sourceYear": 2026,
+    "sourceMonth": 5,
+    "targetLevelCode": "FOUNDATION",
+    "targetVersionName": "CA Foundation Syllabus 2026-2027"
+  },
+  "questions": [
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The number of subsets of the set {2, 3, 5} is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3"
+        },
+        {
+          "letter": "B",
+          "text": "8"
+        },
+        {
+          "letter": "C",
+          "text": "6"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The number of subsets of a set containing n elements is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2n"
+        },
+        {
+          "letter": "B",
+          "text": "2�n"
+        },
+        {
+          "letter": "C",
+          "text": "n"
+        },
+        {
+          "letter": "D",
+          "text": "none of these (d) none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The null set is represented by (a){ }",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{ 0 }"
+        },
+        {
+          "letter": "B",
+          "text": "Option B"
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "A = {2, 3, 5, 7} , B = { 4, 6, 8, 10} then A B can be written as",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{ }"
+        },
+        {
+          "letter": "B",
+          "text": "{ }"
+        },
+        {
+          "letter": "C",
+          "text": "(AUB)'"
+        },
+        {
+          "letter": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The set {x|0<x<5} represents the set when x may take integral values only",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{0, 1, 2, 3, 4, 5} (b) {1, 2, 3, 4}"
+        },
+        {
+          "letter": "B",
+          "text": "{1, 2, 3, 4, 5 }"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The set {0, 2, 4, 6, 8, 10} can be written as",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{2x | 0<x <5} (b) {x : 0<x<5}"
+        },
+        {
+          "letter": "B",
+          "text": "{2x : 0<x<5}"
+        },
+        {
+          "letter": "C",
+          "text": "none of these From Q.7 to Q.10 The data to be used If P = {1, 2, 3, 5, 7}, Q = {1, 3, 6, 10, 15}, Universal Set S = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The cardinal number of P Q is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3"
+        },
+        {
+          "letter": "B",
+          "text": "2"
+        },
+        {
+          "letter": "C",
+          "text": "0"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The cardinal number of P Q is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10"
+        },
+        {
+          "letter": "B",
+          "text": "9"
+        },
+        {
+          "letter": "C",
+          "text": "8"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "n (P' ) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10"
+        },
+        {
+          "letter": "B",
+          "text": "5"
+        },
+        {
+          "letter": "C",
+          "text": "6"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The set of cubes of the natural number is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a finite set (b) an infinite set"
+        },
+        {
+          "letter": "B",
+          "text": "a null set"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The set {2x|x is any positive rational number} is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "an infinite set (b) a null set"
+        },
+        {
+          "letter": "B",
+          "text": "a finite set"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "{1� (�1)x} for all integer x is the set",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{0}"
+        },
+        {
+          "letter": "B",
+          "text": "{2}"
+        },
+        {
+          "letter": "C",
+          "text": "{0, 2}"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "E is a set of positive even numbers and O is a set of positive odd numbers, then E O is a",
+      "options": [
+        {
+          "letter": "A",
+          "text": "set of whole numbers"
+        },
+        {
+          "letter": "B",
+          "text": "N"
+        },
+        {
+          "letter": "C",
+          "text": "a set of rational number (d) none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If R is the set of positive rational numbers and E is the set of real numbers then",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R E"
+        },
+        {
+          "letter": "B",
+          "text": "R E"
+        },
+        {
+          "letter": "C",
+          "text": "E R"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If N is the set of natural numbers and I is the set of positive integers, then",
+      "options": [
+        {
+          "letter": "A",
+          "text": "N = I"
+        },
+        {
+          "letter": "B",
+          "text": "N I"
+        },
+        {
+          "letter": "C",
+          "text": "N I"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If I is the set of isosceles triangles and E is the set of equilateral triangles, then",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I E"
+        },
+        {
+          "letter": "B",
+          "text": "E I"
+        },
+        {
+          "letter": "C",
+          "text": "E = I"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If R is the set of isosceles right angled triangles and I is set of isosceles triangles, then",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R = I"
+        },
+        {
+          "letter": "B",
+          "text": "R I"
+        },
+        {
+          "letter": "C",
+          "text": "R I"
+        },
+        {
+          "letter": "D",
+          "text": "none of these (c) is an empty set (d) none of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "{n(n+1)/2 : n is a positive integer} is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "n(A)= n(B)"
+        },
+        {
+          "letter": "B",
+          "text": "n(A)<n(B)"
+        },
+        {
+          "letter": "C",
+          "text": "a finite set (b) an infinite set"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "A A is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A"
+        },
+        {
+          "letter": "B",
+          "text": "E"
+        },
+        {
+          "letter": "C",
+          "text": "(d) none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "A A is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(b) A"
+        },
+        {
+          "letter": "B",
+          "text": "E"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "(A B)' is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(A B)'"
+        },
+        {
+          "letter": "B",
+          "text": "A B'"
+        },
+        {
+          "letter": "C",
+          "text": "A' B'"
+        },
+        {
+          "letter": "D",
+          "text": "none of these (c) A' B' (d) none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "(A B)' is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(A' B)'"
+        },
+        {
+          "letter": "B",
+          "text": "A' B'"
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "A E is equal to (E is a superset of A)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A"
+        },
+        {
+          "letter": "B",
+          "text": "E"
+        },
+        {
+          "letter": "C",
+          "text": "(d) none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "A E is equal to (E is a superset of A)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A"
+        },
+        {
+          "letter": "B",
+          "text": "E"
+        },
+        {
+          "letter": "C",
+          "text": "(d) none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "E E is equal to E is a superset of A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "E"
+        },
+        {
+          "letter": "B",
+          "text": "(c) 2E"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "A (d) none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "A E' is equal to E is a superset of A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "E"
+        },
+        {
+          "letter": "B",
+          "text": "Option B"
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "A is equal to E is a superset of A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A"
+        },
+        {
+          "letter": "B",
+          "text": "E"
+        },
+        {
+          "letter": "C",
+          "text": "(d) none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "AUA' is equal to E is a superset of A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "E"
+        },
+        {
+          "letter": "B",
+          "text": "(c) A"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If E = {1, 2, 3, 4, 5, 6, 7, 8, 9}, the subset of E satisfying 5 + x > 10 is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{5, 6, 7, 8, 9} (b) {6, 7, 8, 9}"
+        },
+        {
+          "letter": "B",
+          "text": "{7, 8, 9}"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If A B = (A�B) (B�A) and A = {1, 2, 3, 4}, B = {3,5,7} than AB is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{1, 2, 4, 5, 7} (b) {3}"
+        },
+        {
+          "letter": "B",
+          "text": "{1, 2, 3, 4, 5, 7} (d) none of these [Hint : If A and B are any two sets, then A - B = { x : x A, x B}. [i.e. A - B Contains all elements of A but not in B] . Ordered Pair : Two elements a and b, listed in a specific order, form an ordered pair, denoted by (a, b). Cartesian Product of sets : If A and B are two non-empty sets, then the set of all ordered pairs (a, b) such that a belongs to A and b belongs to B , is called the Cartesian product of A and B, to be denoted by A � B. Thus, A � B = {(a, b) : a A and b B} If A = or B = , we define A � B = Illustration: Let A = {1, 2, 3}, B = {4, 5} Then A � B = { (1, 4), (1, 5), (2, 4) (2, 5), (3, 4), (3, 5) } Example: If A � B = { ( 3, 2 ) , (3, 4) , (5, 2), (5, 4) } , find A and B. Solution: Clearly A is the set of all first co-ordinates of A � B, while B is the set of all second co-ordinates of elements of A � B. Therefore A = {3, 5} and B = {2 , 4} Example: Let P = {1, 3, 6} and Q {3, 5} The product set P � Q = {(1, 3), (1, 5), (3, 3), (3, 5), (6, 3), (6, 5)} . Notice that n(P�Q) = n(P) � n(Q) and ordered pairs (3, 5) and (5, 3) are not equal. and Q � P = {(3, 1), (3, 3), (3, 6), (5, 1), (5, 3), (5, 6)} So P � Q Q � P; but n (P � Q) = n (Q � P). Illustration: Here n(P) = 3 and n(Q ) = 2, n (P � Q) = 6. Hence n(P�Q) = n(P) � n(Q). and n(P � Q ) = n(Q � P) = 6. We can represent the product set of Y (6, 5) ordered pairs by plotting points in the XY plane. (1, 5) (3, 5) (6, 3) 5 4 3 2 (1, 3) (3, 3) 1 X 12 3 4 56 If X=Y= the set of all natural numbers, the product set XY represents an infinite equal lattice of points in the first quadrant of the XY plane. Any subset of the product set X.Y is said to define a relation from X to Y and any relation from X to Y in which no two different ordered pairs have the same first element is called a function. Let A and B be two non-empty sets. Then, a rule or a correspondence f which associates to each element x of A, a unique element, denoted by f(x) of B , is called a function or mapping from A to B and we write f : AB The element f(x) of B is called the image of x, while x is called the pre-image of f (x). Let f : AB, then A is called the domain of f, while B is called the co-domain of f. The set f(A) = {f (x) : x A} is called the range of f. Illustration: Let A = {1, 2, 3, 4} and B ={1, 4, 9, 16, 25} We consider the rule f(x) = x2 . Then f(1) = 1 ; f(2) =4 ; f (3) = 9 & f (4) = 16. Then clearly each element in A has a unique image in B. So, f : A B : f (x) = x2 is a function from A to B. Here domain of f = {1, 2, 3, 4} and range of f = {1, 4, 9, 16} Example: Let N be the set of all natural numbers. Then, the rule N f N 3 6 2 4 1 2 f : N N : f(x) = 2x, for all x N is a function from N to N, since twice a natural number is unique. Now, f (1) = 2; f (2) = 4; f(3) = 6 and so on. Here domain of f = N = {1, 2 ,3, 4 ,...........} ; range of f = { 2, 4, 6,...........} This may be represented by the mapping diagram or arrow graph. One-One Function : Let f : AB. If different elements in A have different images in B, then f is said to be a one-one or an injective function or mapping. Illustration: (i) Let A = {1, 2, 3} and B = {2, 4, 6} Let us consider f : AB : f(x) = 2x. Then f(1) = 2; f(2) =4 ; f (3) = 6 Clearly, f is a function from A to B such that different elements in A have different images in B. Hence f is one-one. Remark : Let f : AB and let x1 , x2 A. Then x1 = x2 implies f(x1) = f(x2) is always true. But f(x1) = f(x2) implies x1 = x2 is true only when f is one-one. (ii) let x={1, 2, 3, 4} and y={1, 2, 3}, then the subset {(1, 2), (1, 3), (2, 3)} defines a relation on X.Y. 1X 1Y 2 2 3 Notice that this particular subset contains all the ordered pair in X.Y for which the X element (x) is less than the Y element (y). So in this subset we have X<Y and the relation between the set, is \"less than\". This relation is not a function as it includes two different ordered pairs (1, 2), (1, 3) have same first element. X.Y={(1, 1), (1, 2), (1, 3), (2, 1), (2, 2), (2, 3) (3, 1), (3, 2), (3, 3),(4, 1), (4, 2), (4, 3)} The subset {(1, 1), (2, 2), (3, 3)} defines the function y= x as different ordered pairs of this subset have different first element. Onto or Surjective Functions : Let f : AB. If every element in B has at least one pre-image in A, then f is said to be an onto function. If f is onto, then corresponding to each y B, we must be able to find at least one element x A such that y = f (x) Clearly, f is onto if and only if range of f = B Illustration: Let N be the set of all natural numbers and E be the set of all even natural numbers. Then, the function f : N E : f (x) = 2x , for all x N is onto, since each element of E is of the form 2x, where x N and the same is the f-image of x N. 1 2 2 4 3 6 N E Represented on a mapping diagram it is a on to mapping of X onto Y. Bijection Function : A one-one and onto function is said to be bijective. A bijective function is also known as a one-to-one correspondence. Identity Function : Let A be a non-empty set. Then, the function I defined by I : A A : I (x) = x for all x A is called an identity function on A. It is a one-to-one and onto function with domain A and range A. Into Functions: Let f : A B. There exists even a single element in B having no pre-image in A, then f is said to be an into function. Illustration: Let A = {2, 3, 5, 7} and B = {0, 1, 3, 5, 7} . Let us consider f : A B; f (x) = x � 2. Then f(2) = 0; f(3) = 1 ; f (5) =3 & f(7) = 5. It is clear that f is a function from A to B . Here there exists an element 7 in B, having no pre-mage in A. So, f is an into function. Constant Function: Let f : A B, defined in such a way that all the elements in A have the same image in B, then f is said to be a constant function. Illustration: Let A = {1, 2, 3} and B = {5, 5, 5} or B={5}. Let f : A B : f (x) = 5 for all x A. Then, all the elements in A have the same image namely 5 in B. So, f is a constant function. Remark: The range set of a constant function is a singleton set. Example: Another subset of X.Y is {(1, 3), (2, 3), (3, 3), (4, 3)} 412 X 1Y 2 3 3 This relation is a function (a constant function). It is represented on a mapping diagram and is a many-one mapping of X into Y. Let us take another subset {(4, 1), (4, 2), (4, 3)} of X.Y. This is a relation but not a function. Here different ordered pairs have same first element so it is not a function. 1 1 X2 > 2Y 3 43 x y 1 2 5 3 4 mapping Many-one There are two example of many-one mapping. Equal Functions: Two functions f and g are said to be equal, written as f = g if they have the same domain and they satisfy the condition f(x) = g(x), for all x. A function may simply pair people and the corresponding seat numbers in a theatre. It may simply associate weights of parcels with portal delivery charge or it may be the operation of squaring, adding to doubling, taking the log of etc. x f x A 101 B 236 C 300 The function f here assigning a locker number to each of the persons A, B and C. Names are associated with or mapped onto, locker numbers under the function f. We can write f : X Y or f(x) = y or f(B) = 236 x n y g z 1 0 3 24 12 54 8 3 6 This diagram shows the effect of two functions n and g on the sets X, Y and Z n : XY and g : YZ If x, y, z are corresponding elements of X, Y and Z, we write n(x) = y and g(y) = z Thus g n(1) = 0 and g (0) = 3, so that g (n(1)) = g(0) = 3 we can write it as g (n(1)) or g o n (1) = 3 But g(1) = 4 and n(g(1) )= n(4) = 2 So g(n) n(g) [(or, g (o n) n (o g))] The function g(n) or n(g) is called a composite function. As n(8) = 3, we say that 3 is the image of 8 under the mapping (or function) n. Inverse Function: Let f be a one-one onto function from A to B. Let y be an arbitrary element of B. Then f being onto, there exists an element x in A such that f (x) = y. As f is one-one this x is unique. Thus for each y B, there exists a unique element x A such that f (x) = y. So, we may define a function, denoted by f �1 as: f�1 : BA : f�1 (y ) = x if and only if f (x) = y. The above function f�1 is called the inverse of f. A function is invertible if and only if f is one-one onto. Remarks: If f is one-one onto then f�1 is also one-one onto. Example: net A = {1, 3, 5, 7} and B = {3, 4, 9} So, f; AB given by {(1, 2), (3, 3), (5, 4) (7, 9)} and it is one-one on to mapping. Now if then is there of f. If f : AB then f �1 : BA. Choose the most appropriate option/options (a) (b) (c) or (d)."
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If A = {x, y, z}, B = {p, q, r, s} which of the relations on A to B are functions.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{(x, p), (x, q), (y, r), (z, s)}, (b) {( x, s), (y, s), (z, s)}"
+        },
+        {
+          "letter": "B",
+          "text": "{(y, p), (y, q), (y, r),(z, s), (d) {(x, p), (y, r), (z, s)}"
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "{( x, y)|x = 4} where x, y R is a",
+      "options": [
+        {
+          "letter": "A",
+          "text": "not a function (b) function"
+        },
+        {
+          "letter": "B",
+          "text": "one-one mapping (d) none of these"
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "{(x, y), y=x2} where x, y R is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "not a function (b) a function"
+        },
+        {
+          "letter": "B",
+          "text": "inverse mapping (d) none of these"
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "{(x, y)|x<y} where x, y R is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "not a function (b) a function"
+        },
+        {
+          "letter": "B",
+          "text": "one-one mapping (d) none of these"
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The domain of {(1, 7), (2, 6)} is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{1, 6}"
+        },
+        {
+          "letter": "B",
+          "text": "{7, 6}"
+        },
+        {
+          "letter": "C",
+          "text": "{1, 2}"
+        },
+        {
+          "letter": "D",
+          "text": "{6, 7}"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The range of {(3, 0), (2, 0), (1, 0), (0, 0)} is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{0, 0}"
+        },
+        {
+          "letter": "B",
+          "text": "{0}"
+        },
+        {
+          "letter": "C",
+          "text": "{0, 0, 0, 0}"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The domain and range of {(x,y) : y = x2} where x, y R is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(reals, natural numbers)"
+        },
+        {
+          "letter": "B",
+          "text": "(reals, non-negative reals)"
+        },
+        {
+          "letter": "C",
+          "text": "(reals, reals)"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Let the domain of x be the set {1}. Which of the following functions gives values equal to 1",
+      "options": [
+        {
+          "letter": "A",
+          "text": "f(x) = x2, g(x) = x"
+        },
+        {
+          "letter": "B",
+          "text": "f(x) = x, g(x) = 1�x"
+        },
+        {
+          "letter": "C",
+          "text": "f(x) = x2 + x + 2, g(x) = (x+ 1)2"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If f(x) = 1/1�x, f(�1) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0"
+        },
+        {
+          "letter": "B",
+          "text": "�"
+        },
+        {
+          "letter": "C",
+          "text": "0"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If g(x) = (x�1)/x, g(��) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1"
+        },
+        {
+          "letter": "B",
+          "text": "2"
+        },
+        {
+          "letter": "C",
+          "text": "3/2"
+        },
+        {
+          "letter": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If f(x) = 1/1�x and g(x) = (x�1)/x, then fog(x) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x"
+        },
+        {
+          "letter": "B",
+          "text": "1/x"
+        },
+        {
+          "letter": "C",
+          "text": "�x"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If f(x) = 1/1�x and g(x) = (x�1)/x, then gof(x) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x�1"
+        },
+        {
+          "letter": "B",
+          "text": "x"
+        },
+        {
+          "letter": "C",
+          "text": "1/x"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The function f(x) = 2x is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "one-many"
+        },
+        {
+          "letter": "B",
+          "text": "one-one mapping"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "many-one"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The range of the function f(x) = log10(1 + x) for the domain of real values of x when 0 x 9 is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "[0, 1]"
+        },
+        {
+          "letter": "B",
+          "text": "[0, 1, 2]"
+        },
+        {
+          "letter": "C",
+          "text": "{0, 1}"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The Inverse function f�1 of f(x) = 2x is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2x"
+        },
+        {
+          "letter": "B",
+          "text": "x"
+        },
+        {
+          "letter": "C",
+          "text": "1/x"
+        },
+        {
+          "letter": "D",
+          "text": "none of these 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If f(x) = x+3, g(x) = x2, then fog(x) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x2 + 3"
+        },
+        {
+          "letter": "B",
+          "text": "x2 + x + 3"
+        },
+        {
+          "letter": "C",
+          "text": "(x + 3)2"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If f(x) = x+3, g(x) = x2, then f(x).g(x) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 3)2"
+        },
+        {
+          "letter": "B",
+          "text": "x2 + 3"
+        },
+        {
+          "letter": "C",
+          "text": "x3 + 3x2"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The Inverse h�1 when h(x) = log10x is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "log10x"
+        },
+        {
+          "letter": "B",
+          "text": "10x"
+        },
+        {
+          "letter": "C",
+          "text": "log10(1/x)"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "For the function h(x) = 101+x the domain of real values of x where 0 < x < 9, the range is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 < h(x) < 1010"
+        },
+        {
+          "letter": "B",
+          "text": "0 < h(x) < 1010"
+        },
+        {
+          "letter": "C",
+          "text": "0 < h(x) < 10"
+        },
+        {
+          "letter": "D",
+          "text": "none of these Different types of relations Let S = {a, b, c, ....} be any set then the relation R is a subset of the product set S�S i) If R contains all ordered pairs of the form (a, a) in S�S, then R is called reflexive. In a reflexive relation 'a' is related to itself . For example, 'Is equal to' is a reflexive relation for a = a is true. ii) If (a, b) R (b, a) R for every a, b S then R is called symmetric For example ab b = a. Hence the relation 'is equal to' is a symmetric relation. iii) If (a, b) R and (b, c) R (a, c) R for every a, b, c, S then R is called transistive. For example a =b, b=c a=c. Hence the relation 'is equal to' is a transitive relation. A relation which is reflexive, symmetric and transitive is called an equivalence relation or simply an equivalence. 'is equal to' is an equivalence relation. Similarly, the relation \" is parallel to \" on the set S of all straight lines in a plane is an equivalence relation. Illustration: The relation \"is parallel to\" on the set S is (1) reflexive, since a || a for a S (2) symmetric, since a || b b || a (3) transitive, since a || b , b || c a || c Hence it is an equivalence relation. Domain & Range of a relation : If R is a relation from A to B, then the set of all first co- ordinates of elements of R is called the domain of R, while the set of all second co-ordinates of elements of R is called the range of R. So, Dom (R) = { a : (a, b) R } & Range ( R) = { b : (a, b) R} Illustration: Let A = {1, 2, 3} and B = {2, 4, 6} Then A � B = {(1, 2), (1, 4), (1, 6), (2, 2), (2, 4), (2, 6), (3, 2), (3, 4), (3, 6)} By definition every subset of A � B is a relation from A to B. Thus, if we consider the relation R = { (1, 2), (1, 4), (3, 2), (3, 4)} then Dom (R) = {1, 3} and Range (R)= {2, 4} From the product set X. Y = {(1, 3), (2, 3), (3, 3), (4, 3), (2, 2), (3, 2), (4, 2), (1, 1), (2, 1), (3, 1), (4, 1)}, the subset {(1, 1), (2, 2), (3, 3)} defines the relation 'Is equal to' , the subset {(1, 3), (2, 3), (1, 2)} defines 'Is less than', the subset {(4, 3), (3, 2), (4, 2), (2, 1), (3, 1), (4, 1)} defines 'Is greater than' and the subset {(4, 3), (3, 2), (4, 2), (2, 1), (3, 1), (4, 1), (1, 1), (2, 2) (3, 3)} defines to greater 'In greater than or equal'. Illustration: Let A = {1, 2, 3} and b = {2, 4, 6} Then A � B = {(1, 2), (1, 4), (1, 6), (2, 2), (2, 4), (2, 6), (3, 2), (3, 4), (3, 6)} If we consider the relation = {(1, 2), (1, 4), (3, 4)} then Dom (R) = {1, 3} and Range = {2, 4}. Here the relation \"Is less than\". Identity Relation: The relation I = {(a, a) : a A} is called the identity relation on A. Illustration: Let A = {1, 2, 3} then I = {(1, 1), (2, 2), (3, 3)} Inverse Relation: If R be a relation on A, then the relation R�1 on A, defined by R�1 = {(b, a) : (a, b) R} is called an inverse relation on A. Clearly , Dom (R�1) = Range (R) & Range (R�1) = Dom (R). Illustration: Let A = {1, 2, 3} and R = {(1, 2), (2, 2), (3, 1), (3, 2)} Then R being a subset of a � a, it is a relation on A. Dom (R) = {1, 2, 3} and Range (R) = {2, 1} Now, R�1 = {(2, 1), (2, 2), (1, 3), (2, 3)}. Here, Dom (R�1) = {2, 1} = Range (R) and Range (R�1 ) = {1, 2, 3} = Dom (R). Illustration: Let A = {1, 2, 3}, then (i) R1 = {(1, 1), (2, 2), (3, 3), (1, 2)} Is reflexive and transitive but not symmetric, since (1, 2) R1 but (2, 1) does not belongs to R1. (ii) R2 = {(1, 1), (2, 2), (1, 2), (2, 1)} is symmetric and transitive but not reflexive, since (3, 3) does not belong to R2. (iii) R3 = {(1, 1), (2, 2), (3, 3), (1, 2), (2, 1), (2, 3), (3, 2)} is reflexive and symmetric but not transitive , since (1, 2) R3 & (2, 3) R3 but (1, 3) does not belong to R3. Problems and solution using Venn Diagram"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "\"Is smaller than\" over the set of eggs in a box is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transitive (T) (b) Symmetric (S)"
+        },
+        {
+          "letter": "B",
+          "text": "Reflexive (R)"
+        },
+        {
+          "letter": "C",
+          "text": "Equivalence (E)"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "\"Is equal to\" over the set of all rational numbers is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(T)"
+        },
+        {
+          "letter": "B",
+          "text": "(S)"
+        },
+        {
+          "letter": "C",
+          "text": "(R)"
+        },
+        {
+          "letter": "D",
+          "text": "E [By using using R = Reflexive; T = Transitive, S = Symmetric and E = Equivalence from Q.No. 2 to 8]"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "\"has the same father as\" ...... over the set of children",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R"
+        },
+        {
+          "letter": "B",
+          "text": "S"
+        },
+        {
+          "letter": "C",
+          "text": "T"
+        },
+        {
+          "letter": "D",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "\"is perpendicular to\" over the set of straight lines in a given plane is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R"
+        },
+        {
+          "letter": "B",
+          "text": "S"
+        },
+        {
+          "letter": "C",
+          "text": "T"
+        },
+        {
+          "letter": "D",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "\"is the reciprocal of\" ........ over the set of non-zero real numbers is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "S"
+        },
+        {
+          "letter": "B",
+          "text": "R"
+        },
+        {
+          "letter": "C",
+          "text": "T"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "{ (x, y)/x , y y, y x } is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R"
+        },
+        {
+          "letter": "B",
+          "text": "S"
+        },
+        {
+          "letter": "C",
+          "text": "T"
+        },
+        {
+          "letter": "D",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "{(x,y) / x + y = 2x where x and y are positive integers}, is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R"
+        },
+        {
+          "letter": "B",
+          "text": "S"
+        },
+        {
+          "letter": "C",
+          "text": "T"
+        },
+        {
+          "letter": "D",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "\"Is the square of\" over n set of real numbers is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R"
+        },
+        {
+          "letter": "B",
+          "text": "S"
+        },
+        {
+          "letter": "C",
+          "text": "T"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If A has 32 elements, B has 42 elements and A B has 62 elements, the number of elements in A B is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12"
+        },
+        {
+          "letter": "B",
+          "text": "74"
+        },
+        {
+          "letter": "C",
+          "text": "10"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "In a group of 20 children, 8 drink tea but not coffee and 13 like tea. The number of children drinking coffee but not tea is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6"
+        },
+        {
+          "letter": "B",
+          "text": "7"
+        },
+        {
+          "letter": "C",
+          "text": "1"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The number of subsets of the sets {6, 8, 11} is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9"
+        },
+        {
+          "letter": "B",
+          "text": "6"
+        },
+        {
+          "letter": "C",
+          "text": "8"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The sets V = {x / x+2=0}, R={x / x2+2x=0} and S = {x : x2 + x � 2 = 0} are equal to one another if x is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "�2"
+        },
+        {
+          "letter": "B",
+          "text": "2"
+        },
+        {
+          "letter": "C",
+          "text": "�"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If the universal set E = {x |x is a positive integer <25}, A = {2, 6, 8, 14, 22}, B = {4, 8, 10, 14} then",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(A B)'=A' B' (b) (A B)'= A' B' (c) (A' B)'="
+        },
+        {
+          "letter": "B",
+          "text": "none of these"
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If the set P has 3 elements, Q four and R two then the set P � Q � R contains",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 elements (b) 20 elements"
+        },
+        {
+          "letter": "B",
+          "text": "24 elements"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Given A = {2, 3}, B = {4, 5}, C = {5, 6} then A � (B C) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{(2, 5), (3, 5)} (b) {(5, 2), (5, 3)}"
+        },
+        {
+          "letter": "B",
+          "text": "{(2, 3), (5, 5)}"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "A town has a total population of 50,000. Out of it 28,000 read the newspaper X and 23,000 read Y while 4,000 read both the papers. The number of persons not reading X and Y both is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2,000"
+        },
+        {
+          "letter": "B",
+          "text": "3,000"
+        },
+        {
+          "letter": "C",
+          "text": "2,500"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If A = { 1, 2, 3, 5, 7} and B = {1, 3, 6, 10, 15}. Cardinal number of A-B is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3"
+        },
+        {
+          "letter": "B",
+          "text": "4"
+        },
+        {
+          "letter": "C",
+          "text": "6"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Which of the diagram is graph of a function Y Y Y Y",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(b)"
+        },
+        {
+          "letter": "B",
+          "text": "(d) x x x x"
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "At a certain conference of 100 people there are 29 Indian women and 23 Indian men. Out of these Indian people 4 are doctors and 24 are either men or doctors. There are no foreign doctors. The number of women doctors attending the conference is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2"
+        },
+        {
+          "letter": "B",
+          "text": "4"
+        },
+        {
+          "letter": "C",
+          "text": "1"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Let A = {a, b}. Set of subsets of A is called power set of A denoted by P(A). Now n(P(A) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2"
+        },
+        {
+          "letter": "B",
+          "text": "4"
+        },
+        {
+          "letter": "C",
+          "text": "3"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Out of 2000 employees in an office 48% preferred Coffee (c), 54% liked (T), 64% used to smoke (S). Out of the total 28% used C and T, 32% used T and S and 30% preferred C and S, only 6% did none of these. The number having all the three is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "360"
+        },
+        {
+          "letter": "B",
+          "text": "300"
+        },
+        {
+          "letter": "C",
+          "text": "380"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Referred to the data of Q. 21 the number of employees having T and S but not C is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "200"
+        },
+        {
+          "letter": "B",
+          "text": "280"
+        },
+        {
+          "letter": "C",
+          "text": "300"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Referred to the data of Q. 21 the number of employees preferring only coffee is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100"
+        },
+        {
+          "letter": "B",
+          "text": "260"
+        },
+        {
+          "letter": "C",
+          "text": "160"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If f(x) = x + 3, g(x) = x2, then g of (x) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x + 3)2"
+        },
+        {
+          "letter": "B",
+          "text": "x2 + 3"
+        },
+        {
+          "letter": "C",
+          "text": "x2 (x + 3),"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If f(x) = 1/1�x, then f-1(x) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1�x"
+        },
+        {
+          "letter": "B",
+          "text": "(x�1)/x"
+        },
+        {
+          "letter": "C",
+          "text": "x/(x�1)"
+        },
+        {
+          "letter": "D",
+          "text": "none of these Exercise 7(A) 3. c 4. a 5. b 6. c 7. b 8. c"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "b 7.7 CONCEPT OF LIMIT I) We consider a function f(x) = 2 x. If x is a number approaching to the number 2 then f(x) is a number approaching to the value 2x2= 4 The following table shows f(x) for different values of x approaching 2 x f(x) 1.90 3.8 1.99 3.98 1.999 3.998 1.9999 3.9998 2 4 Here x approaches 2 from values of x<2 and for x being very close to 2 f(x) is very close 4. This situation is defined as left-hand limit of f(x) as x approaches 2 and is written as lim f(x) = 4, x 2- x f(x) 2.0001 4.0002 2.001 4.002 2.01 1.02 2.0 4 Here x approaches 2 from values of x greater than 2 and for x being very close 2f(x) is very close to 4. This situation is defined as right-hand limit of f(x) as x approaches 2 and is written as lim f(x)= 4 as x 2+ So we write = lim f(x) l= im f(x) 4 x2- x2-+ Thus lim f (x) is said to exist when both left-hand and right-hand limits exists and they are equal. xa We write as = lim f (x) l= im f (x) lim f (x) xa- xa-+ xa Thus lim f (x) is said to exist when both left-hand and right-hand limits exists and they are equal. xa We write as l= im f (x) l= im f (x) lim f (x) xa xa+ xa Thus, if lim f ( a + h) = lim f ( a - h), (h > o) ho ho then lim f ( x) exists xa We now consider a function defined by 2x-2 for x < 0 fx = 1 for x = 0 2x+2 for x > 0 We calculate limit of f(x) as x tend to zero. At x =0 , f(x) =1 (given). If x tends to zero from left- hand side for the value of x<0, f(x) is approaching (2x0) �2 + �2 which is defined as left-hand limit of f(x) as x 0. We can write this as lim = -2 x0- Similarly if x approaches zero from right-hand side for values of x>0, f(x) is approaching 2 x 0 + 2 = 2. We can write this as lim f(x) = -2. x0+ In this case both left-hand and right-hand exist, but they are not equal. So we may conclude that lim f(x) does not exist. x 0 7.8. USEFUL RULES (THEOREMS) ON LIMITS Let lim f (x) = l and lim g (x) =m xa xa where l and m are finite quantities i) lim f { f (x) + g(x)} = lim f(x) +lim g (x) = l + m xa xa xa That is limit of the sum of the difference of two functions is equal to the sum of their limits ii) lim{f (x) - g(x)} = lim f(x)- lim g(x) = l - m xa xa xa That is limit of the difference of two functions is equal to difference of their limits. iii) lim{f (x) .g(x)} = lim f(x) .lim g(x) = lm xa xa xa That is limit of the product of two functions is equal to the product of their limits { } { } iv) lim{f(x) / g(x)} = lim f(x) / = lim g(x) l / m if m 0 xa xa xa That is limit of the quotient of two functions is equal to the quotient of their limits. v) lim c = c where c is constant xa That is limit of a constant is the constant vi) lim cf(x) = c lim f(x) xa xa vii) lim F{f (x)} = F{ lim F(x)} = F(l) x xa viii) lim 1 = lim 1 + (h>0) x0+ x h0 h lim 1 = lim 1 - (h>0) x0+ x h0 -h is a very-every large number called infinity Thus lim 1 does not exist. x0+ x Example 1: Evaluate (i) lim(3x + 9); (ii) lim 1 (iii) lim 1 x5 x - 1 xa x - a x2 Solution: (i) lim (3x + 9) = 3.2 + 9 = (6 + 9) = 15 x2 (ii) lim 1 = 1 = 1 x5 x - 1 5 - 1 4 (iii) lim 1 does not exist, since lim 1 + and lim 1 - xa x - a xa+ x - a xa- x - a Example-2 Evaluate lim x2 - 5x + 6 x2 x - 2 Solution: At x = 2 the function becomes undefined as 2-2 =0 and division by zero is not mathematically defined. { } So lim x2 - 5x + 6 /(x -= 2) lim{(x - 3)/(x -= 2)} lim= (x- 3) (x - 2 0) x2 x2 x2 = 2-3 = -1 Example-2 Evaluate lim x2 + 2x - 1 x2 x2 + 2 = lim x2 + 2x - 1 lim(x2 + 2x - 1) lim(x2 + lim 2x - 1) x2 x2 + 2 x= 2 x2 x2 lim x2 + 2 lim x2 + 2 x2 x2 (2)2 + 2x 2 - 1 = 7 (2)2 + 2 6 : � ,,--..., SOME IMPORTANT LIMITS We now state some important limits a) lim (ex -1)=1 X---+0 X b) lim- ax --1=log e a(a > 0) X---+0 X c) lim log(l+ x) = 1 x---+0 X d) x (l+x) x lXi--m-+X(l+_X!) =e or lXi-m--+0 X =e e) 1Xr.---m+0 Xn -an =nan-1 X-a f) lXi-m--+0- (l+xXr-1=n",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The number e called exponential number is given bye = 2.71828182_ 8 _ _ _ _ =2.7183. This number e is one of the useful constants in mathematics."
+        },
+        {
+          "letter": "B",
+          "text": "In calculus all logarithms are taken with respect to base 'that is log x = loge x. ILLUSTRATIVE EXAMPLES Example 1: Evaluate : h.m x2-6x+9 , where f(x) x2-6x+9 . Aso find f (3) x---+3 x-3 x-3 Solution: At x = 3 the function is undefined as division byzero is meaningless. While taking the limit as x 3, x cannot be exactlyequal to 3 i.e. x-3 -:/:- 0 and consequentlydivision byx-3 is permissible. 1X1.--m-+3 x 2 -6x+9 =1X1�--f-f+3i (x-3)2 =1X1�-m3 X-3 X-3 N ow (x-3)= 3-3=0 f(3)=Q0 is undefined The reader maycompute the left-hand and the right-hand limits as an exercise. Example 2: A function is defined as follows: -3x when x < 0 fx = {2x when x > 0 Test the existence of lxi-m--+0 f(x). Solution: For x approaching 0 from the left x < 0. Left-hand limit = lim f(x) = lim (-3x) = 0 x0- x0- When x approaches 0 from the right x > 0 Right-hand limit = lim= f (x) l= im 2x 0 x0+ x0+ Since L.H. limit = R.H. Limit, the limit exists. Thus, lim f(x) = 0. x0 Example 3: lim x2 + 4x + 3 . x2 + 6x + 9 x3 Solution:= xx22 ++ 64xx ++ 93 x2 = +(x3x+ +3)x2 + 3 x(x +(= x3)++31)(2x + 3) (= x (+x3+)(3x)+2 1) x+1 x+3 lim x2 + 4x + 3 = lim x + 1 = 4 = 2 . x3 x2 + 6x + 9 x3 x + 3 6 3 Example 4: Find the following limits: (i) lim x - 3 (ii) lim x + h - x if h > 0. x9 x - 9 h0 h Solution: = x - 3 x+3 x-3 ( )( ) = (i) xx--93 1 3 . lim x - 3 = lim 1 = 1 . x+ x9 x - 9 x9 x + 3 6 (ii) ( ) x + h - x =x + h - x = 1h lim x + h - x = lim 1 h x+h+ x x+h + x h0 h h0 x+h + x = 1 = = 1 1 lim x+h + lim x x + x 2 x. h0 h0 3x+ x . Example 5: Find lim x0 7x-5 x Solution: Right-h= and limit 3x+ x li= m 3x + x lim 2=2 l= im x0 + 7x-5 x x0 + 7x - 5x x0 + Left-hand l= imit 3x+ x lim 7 x3-x5-(= (x-)x ) l= im 1 1. lim = x0 - 6 6 x0 - 7x-5 x x0 Since Right-hand limit Left-hand limit the limit does not exist. Example 6: Evaluate = lim ex - e-x x0 x Solution: =lim ex - e-x ==lim (ex -1)- (e-x - 1) =lim ex - 1 - =lim ex - 1 =1 - 1 =0 x0 x x0 x x0 x x0 x Example 7: Find lim 1+ 9 x . (Form 1) x x� Solution: It may be noted that x approaches as x approaches . i.e. lim x 9 x 9 x/9 9 x9= x lim 1 + lim 1 + 1 x x x/9 9 Substitution x / 9 = z the above expression takes the form lim 1 + 1 z 9 z z = lim 1 + 1 z 9 = e 9 . z z 2x +1 Form Example 8: Evaluate: lim x3 +1 . z Solution: As x approaches , 2x + 1 and x3 + 1 both approach and therefore the given function takes the form which is determinate. Therefore, instead of evaluating directly let us try for suitable algebraic transformation so that the indeterminate for is avoided. 2+ 1 2+ 1 2+ 1 lim x 2 x 3 = lim x 2 lim x 3 lim x 2 x 3 x x x 1= 0 + 0= 0= 1+0 1 x 1= 1 0 1+ x3 lim 1 + x 3 lim1 + lim x 3 x x x Example 9: Find lim 12 + 22 + 32 + .............. + x2 x3 x [x(x+)(2x + 1)] 1 + 1 1 lim 6x3 = 6 lim 1 x 2 + x x x = 1 x1 x2 = 1. 6 3 7.9 CONTINUITY: By the term continuous we mean some thing which goes on without interruption and without abrupt changes. Here in mathematics the term continuous carries the same meaning. Thus, we define continuity of a function in the following way. A function f(x) is said to be continuous at x= a if and only if (i) f(x) is defined x= a (ii) lim f (x) = lim f (x) xa- xa+ (iii) lim f (x) = f (a) xa In the second condition both left-hand and right-hand limits are equal. In the third condition limiting value of the function must be equal to its function value at x= a Useful Information: (i) The sum, difference and product of two continuous functions is a continuous function. This property holds good for any finite number of functions. (ii) The quotient of two continuous functions is continuous function provided the denominator is not equal to zero. Example:1 f(x) = [ 3-x when 1 <x<1 =2 2 1 when x= 1 =2 2 Discuss the continuity of f(x) at x= 1 2 lim f (x) = lim 1 - x = 1 - 1 = 0 1 2 2 2 x 2 - x1+ 2 lim f (x) = lim 3 - x = 3 - 1 = 1 1 2 2 2 x 2 + x1+ 2 Solution: Since LHL RHL lim f (x) does not exist 1 x 2 Moreover f(1/2) Hence f(x) is not continuous at x=1/2 , ie f(x) is discontinuous at x= 1/2 Example 2: Find points of discontinuity of the function f(x) = x2 + 2x + 5 x2 - 3x + 2 x2 + 2x + 5 Solution: f(x) = x2 - 3x + 2 For x=1 and x=2 the denominator becomes zero and the function f(x) is undefined at x=1 and x="
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Following set notations represent: A B; x A; A B; {0}; A B",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A is a proper subset of B; x is not an element of A; A contains B; singleton with an only element zero; A is not contained in B."
+        },
+        {
+          "letter": "B",
+          "text": "A is a proper subset of B; x is an element of A; A contains B; singleton with an only element zero; A is contained in B."
+        },
+        {
+          "letter": "C",
+          "text": "A is a proper subset of B; x is not an element of A; A does not contains B; contains elements other than zero; A is not contained in B."
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Represent the following sets in set notation: � Set of all alphabets in English language, set of all odd integers less than 25, set of all odd integers, set of positive integers x satisfying the equation x2 +5x+7=0 :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A = {x:x is an alphabet in English}, I = {x:x is an odd integer>25}, I = {2, 4, 6, 8 ....} I = {x: x2 +5x+7=0 }"
+        },
+        {
+          "letter": "B",
+          "text": "A={x:x is an alphabet in English}, I = {x:x is an odd integer<25}, I = {1, 3, 5, 7 ....} I = {x: x2 +5x+7=0 }"
+        },
+        {
+          "letter": "C",
+          "text": "A = {x:x is an alphabet in English}, I = {x:x is an odd integer � 25}, I = {1, 3, 5, 7 ....} I = {x: x2 +5x+7=0 }"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Rewrite the following sets in a set builder form: - A={a, e, i, o, u} B={1, 2, 3, 4 ....} C is a set of integers between �15 and 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A={x:x is a consonant}, B={x:x is an irrational number}, C={x:�15<x<15 x is a fraction}"
+        },
+        {
+          "letter": "B",
+          "text": "A={x:x is a vowel}, B={x:x is a natural number}, C={x: �15�x�15 x is a whole number}"
+        },
+        {
+          "letter": "C",
+          "text": "A={x:x is a vowel}, B={x:x is a natural number}, C={x: �15 <x<15 x is a whole number}"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If V={0, 1, 2, ...9}, X={0, 2, 4, 6, 8}, Y={3, 5, 7} and Z={3 7} then Y Z, (V Y) X, (X Z) V are respectively: �",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{3, 5, 7}, {0, 2, 4, 6, 8}, {0, 1, 2, ...9}"
+        },
+        {
+          "letter": "B",
+          "text": "{2, 4, 6}, {0, 2, 4, 6, 8}, {0, 1, 2, ...9}"
+        },
+        {
+          "letter": "C",
+          "text": "{2, 4, 6}, {0, 1, 2, ...9}, {0, 2, 4, 6, 8}"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "In question No. (4) (X Y) Z and ( V) are respectively: �",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{0, 2, 4, 6, 8},"
+        },
+        {
+          "letter": "B",
+          "text": "{3, 7},"
+        },
+        {
+          "letter": "C",
+          "text": "{3, 5, 7},"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If V={x:x + 2 = 0} R={x:x�+x�2=0, x <0} and S={x:x�+4x+4=0} then V, R, S are equal for the value of x equal to ______.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0"
+        },
+        {
+          "letter": "B",
+          "text": "�1"
+        },
+        {
+          "letter": "C",
+          "text": "�2"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "What is the relationship between the following sets? A={x:x is a letter in the word flower} B={x:x is a letter in the word flow} C={x:x is a letter in the word wolf} D={x:x is a letter in the word follow}",
+      "options": [
+        {
+          "letter": "A",
+          "text": "B=C=D and all these are subsets of the set A"
+        },
+        {
+          "letter": "B",
+          "text": "B=CD"
+        },
+        {
+          "letter": "C",
+          "text": "BCD"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Comment on the correctness or otherwise of the following statements: � (i) {a, b, c}={c, b, a} (ii) {a, c, a, d, c, d} {a, c, d} (iii) {b} {{b}} (iv) {b} {{b}} and {{b}}.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only (iv) is incorrect"
+        },
+        {
+          "letter": "B",
+          "text": "(i) (ii) are incorrect"
+        },
+        {
+          "letter": "C",
+          "text": "(ii) (iii) are incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "All are incorrect"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If A={a, b, c}, B={a, b}, C = {a, b, d}, D={c, d} and E={d} state which of the following statements are correct: � (i) B A (ii) D C (iii) C E (iv) D E (v) D B (vi) D = A (vii) B C (viii) E A (ix) E B (x) a A (xi) a A (xii) {a} A (xiii) {a} A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(i) (ii) (iii) (ix) (x) (xiii) only are correct (b) (ii) (iii) (iv) (x) (xii) (xiii) only are correct"
+        },
+        {
+          "letter": "B",
+          "text": "(i) (ii) (iv) (ix) (xi) (xiii) only are correct(d) None"
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Let A = {0}, B = {0 1}, C = D = {}, E = {x|x is a human being 300 years old}, F = {x|x A and x B} state which of the following statements are true: � (i) A B (ii) B = F (iii) C D (iv) C = E (v) A = F (vi) F = 1 and (vii) E = C = D",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(i) (iii) (iv) and (v) only are true"
+        },
+        {
+          "letter": "B",
+          "text": "(i) (ii) (iii) and (iv) are true"
+        },
+        {
+          "letter": "C",
+          "text": "(i) (ii) (iii) and (vi) only are true"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If A = {0, 1} state which of the following statements are true: � (i) {1} A (ii) {1} A (iii) A (iv) 0 A (v) 1 A (vi) {0} A (vii) A",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(i) (iv) and (vii) only are true"
+        },
+        {
+          "letter": "B",
+          "text": "(i) (iv) and (vi) only are true"
+        },
+        {
+          "letter": "C",
+          "text": "(ii) (iii) and (vi) only are true"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "State whether the following sets are finite, infinite or empty: � (i) X = {1, 2, 3, .....500} (ii) Y = {y: y a2 ; a is an integer} (iii) A = {x:x is a positive integer multiple of 2} (iv) B = {x:x is an integer which is a perfect root of 26<x<35}",
+      "options": [
+        {
+          "letter": "A",
+          "text": "finite infinite infinite empty"
+        },
+        {
+          "letter": "B",
+          "text": "infinite infinite finite empty"
+        },
+        {
+          "letter": "C",
+          "text": "infinite finite infinite empty"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If A = {1, 2, 3, 4} B = {2, 3, 7, 9} and C = {1, 4, 7, 9} then",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A B B C A C but A B C ="
+        },
+        {
+          "letter": "B",
+          "text": "A B = B C = A C = A B C ="
+        },
+        {
+          "letter": "C",
+          "text": "A B B C A C A B C"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If the universal set is X = {x:x N, 1 x 12} and A = {1, 9, 10}, B = {3, 4, 6, 11, 12} and C = {2, 5, 6} are subsets of X then set A (B C) is _______.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{3, 4, 6, 12}"
+        },
+        {
+          "letter": "B",
+          "text": "{1, 6, 9, 10}"
+        },
+        {
+          "letter": "C",
+          "text": "{2, 5, 6, 11}"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(14) the set (A B) (A C) is _________.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{3, 4, 6, 12}"
+        },
+        {
+          "letter": "B",
+          "text": "{1, 6, 9, 10}"
+        },
+        {
+          "letter": "C",
+          "text": "{2, 5, 6, 11}"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "A sample of income group of 1172 families was surveyed and noticed that for income groups < `6000/-, 6000/- to `10999/-, `11000/-, to `15999/-, `16000 and above No. TV set is available to 70, 50, 20, 50 families one set is available to 152, 308, 114, 46 families and two or more sets are available to 10, 174, 84, 94 families. If A = {x|x is a family owning two or more sets}, B = {x|x is a family with one set, }C = {x|x is a family with income less than ` 6000/-}, D = {x|x| is a family with income ` 6000/- to ` 10999/-}, E = {x|x is a family with income ` 11000/- to ` 15999/-}, find the number of families in each of the following sets (i) C B (ii) A E",
+      "options": [
+        {
+          "letter": "A",
+          "text": "152, 580"
+        },
+        {
+          "letter": "B",
+          "text": "152, 20"
+        },
+        {
+          "letter": "C",
+          "text": "152, 50"
+        },
+        {
+          "letter": "D",
+          "text": "152, 496"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(16) find the number of families in each of the following sets: � (i) (A B) E (ii) (C D E) (A B)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20, 50"
+        },
+        {
+          "letter": "B",
+          "text": "152, 20"
+        },
+        {
+          "letter": "C",
+          "text": "152, 50"
+        },
+        {
+          "letter": "D",
+          "text": "20, 140"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(16) express the following sets in set notation: � (i) {x|x is a family with one set and income of less than ` 11000/-} (ii) {x|x is a family with no set and income over ` 16000/-}",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(C D) B"
+        },
+        {
+          "letter": "B",
+          "text": "(A B) (C D E)"
+        },
+        {
+          "letter": "C",
+          "text": "Both"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(16) express the following sets in set notation: � (i) {x|x is a family with two or more sets or income of ` 11000/- to ` 15999/-} (ii) {x|x is a family with no set}",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(A E)"
+        },
+        {
+          "letter": "B",
+          "text": "(A B)"
+        },
+        {
+          "letter": "C",
+          "text": "Both"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If A = {a, b, c, d} list the element of power set P (a)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{ {a} {b}({c} {d} {a, b} {a, c} {a, d} {b, c} {b, d} {c, d}"
+        },
+        {
+          "letter": "B",
+          "text": "{a, b, c} {a, b, d} {a, c, d} {b, c, d}"
+        },
+        {
+          "letter": "C",
+          "text": "{a, b, c, d}"
+        },
+        {
+          "letter": "D",
+          "text": "All the above elements are in P (a)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If four members a, b, c, d of a decision making body are in a meeting to pass a resolution where rule of majority prevails list the wining coalitions. Given that a, b, c, d own 50%, 20%, 15%, 15% shares each.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{a, b} {a, c} {a, d} {a, b, c} {a, b, d} {a, b, c, d}"
+        },
+        {
+          "letter": "B",
+          "text": "{b, c, d}"
+        },
+        {
+          "letter": "C",
+          "text": "{b, c} {b, d} {c, d} {a, c, d} {b, c, d} {a} {b} {c} {d}"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If A ={a, b, c, d, e, f} B = {a, e, i, o, u} and C = {m, n, o, p, q, r, s, t, u} then A B is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{a, b, c, d, e, f, i, o, u}"
+        },
+        {
+          "letter": "B",
+          "text": "{a, b, c, i, o, u}"
+        },
+        {
+          "letter": "C",
+          "text": "{d, e, f, i, o, u}"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(24) A C is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{a, b, c, d, e, f, m, n, o, p, q, r, s, t, u} (b) {a, b, c, s, t, u}"
+        },
+        {
+          "letter": "B",
+          "text": "{d, e, f, p, q, r}"
+        },
+        {
+          "letter": "C",
+          "text": "None"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(24) B C is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{a, e, i, o, u, m, n, p, q, r, s, t}"
+        },
+        {
+          "letter": "B",
+          "text": "{a, e, i, r, s, t}"
+        },
+        {
+          "letter": "C",
+          "text": "{i, o, u, p, q, r}"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(24) A � B is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{b, c, d, f}"
+        },
+        {
+          "letter": "B",
+          "text": "{a, e, i, o}"
+        },
+        {
+          "letter": "C",
+          "text": "{m, n, p, q}"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(24) A B is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{a, e}"
+        },
+        {
+          "letter": "B",
+          "text": "{i, o}"
+        },
+        {
+          "letter": "C",
+          "text": "{o, u}"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(24) B C is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{a, e}"
+        },
+        {
+          "letter": "B",
+          "text": "{i, o}"
+        },
+        {
+          "letter": "C",
+          "text": "{o, u}"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(24) A B C is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{a, b, c, d, e, f, i, o, u, m, n, p, q, r, s, t} (b) {a, b, c, r, s, t}"
+        },
+        {
+          "letter": "B",
+          "text": "{ d, e, f, n, p, q}"
+        },
+        {
+          "letter": "C",
+          "text": "None"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(24) A B C is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(b) {a, e}"
+        },
+        {
+          "letter": "B",
+          "text": "{ m, n}"
+        },
+        {
+          "letter": "C",
+          "text": "None"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If A = {3, 4, 5, 6} B = {3, 7, 9, 5} and C = {6, 8, 10, 12, 7} then A is (given that the universal set U = {3, 4, ....., 11, 12, 13}",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{7, 8, ....12, 13}"
+        },
+        {
+          "letter": "B",
+          "text": "{4, 6, 8, 10, ....13}"
+        },
+        {
+          "letter": "C",
+          "text": "{ 3, 4, 5, 9, 11, 13}"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(33) the set (A) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{3, 4, 5, 6}"
+        },
+        {
+          "letter": "B",
+          "text": "{3, 7, 9, 5}"
+        },
+        {
+          "letter": "C",
+          "text": "{8, 10, 11, 12, 13} (d) None"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(33) the set (B) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{3, 4, 5, 6}"
+        },
+        {
+          "letter": "B",
+          "text": "{3, 7, 9, 5}"
+        },
+        {
+          "letter": "C",
+          "text": "{8, 10, 11, 12, 13} (d) None"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(33) the set (A B) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{3, 4, 5, 6}"
+        },
+        {
+          "letter": "B",
+          "text": "{3, 7, 9, 5}"
+        },
+        {
+          "letter": "C",
+          "text": "{8, 10, 11, 12, 13} (d) None"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If A = {1, 2, ...9}, B = {2, 4, 6, 8} C = {1, 3, 5, 7, 9}, D = {3, 4, 5} and E = {3, 5} what is set S if it is also given that S D and S B",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{3, 5}"
+        },
+        {
+          "letter": "B",
+          "text": "{2, 4}"
+        },
+        {
+          "letter": "C",
+          "text": "{7, 9}"
+        },
+        {
+          "letter": "D",
+          "text": "None 42 As per question No.(41) what is set S if it is also given that S B and S C (a) {3, 5} (b) {2, 4} (c) {7, 9} (d) None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If U = {1, 2, ...9} be the universal set A = {1, 2, 3, 4} and B = {2, 4, 6, 8} then the set A B is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{1, 2, 3, 4, 6, 8} (b) {2, 4}"
+        },
+        {
+          "letter": "B",
+          "text": "{5, 6, 7, 8, 9}"
+        },
+        {
+          "letter": "C",
+          "text": "{5, 7, 9}"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(43) the set (A B) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{1, 2, 3, 4, 6, 8} (b) {2, 4}"
+        },
+        {
+          "letter": "B",
+          "text": "{5, 6, 7, 8, 9}"
+        },
+        {
+          "letter": "C",
+          "text": "{1, 3, 5, 6, 7, 8, 9}"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Let P = (1, 2, x), Q = (a x y), R = (x, y, z) then P Q is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{(1, a) (1, x) (1, y); (2, a) (2, x) (2, y); (x, a) (x, x) (x, y)}"
+        },
+        {
+          "letter": "B",
+          "text": "{(1, x); (1, y); (1, z); (2, x); (2, y); (2, z); (x, x) (x, y) (x, z)}"
+        },
+        {
+          "letter": "C",
+          "text": "{(a, x) (a, y) (a, z); (x, x) (x, y) (x, z); (y, x) (y, y) (y, z)}"
+        },
+        {
+          "letter": "D",
+          "text": "{(1, x) (1, y) (2, x) (2, y) (x, x) (x, y)}"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(48) the set (R Q) (R P) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{(a, x), (a, y), (a, z), (x, x), (x, y), (x, z), (y, x), (y, y), (y, z)}"
+        },
+        {
+          "letter": "B",
+          "text": "{(1, x), (1, y), (2, x), (2, y), (x, x), (x, y)}"
+        },
+        {
+          "letter": "C",
+          "text": "{(x, x), (y, x), (z, x)}"
+        },
+        {
+          "letter": "D",
+          "text": "{(1, a), (1, x), (1, y), (2, a), (2, x), (2, y), (x, a), (x, x), (x, y), (x, 1), (x, 2), (y, 1), (y, 2), (y, x), (z, 1), (z, 2), (z, x)}"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If P has three elements Q four and R two how many elements does the Cartesian product set P Q R will have",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24"
+        },
+        {
+          "letter": "B",
+          "text": "9"
+        },
+        {
+          "letter": "C",
+          "text": "29"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Identify the elements of P if set Q = {1, 2, 3} and P Q = {(4, 1), (4, 2), (4, 3), (5, 1), (5, 2), (5, 3), (6, 1), (6, 2), (6, 3)}",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{3, 4, 5}"
+        },
+        {
+          "letter": "B",
+          "text": "{4, 5, 6}"
+        },
+        {
+          "letter": "C",
+          "text": "{5, 6, 7}"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If A = {2, 3}, B = {4, 5}, C = {5, 6} then A (B C) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{(2, 4), (2, 5), (2, 6), (3, 4), (3, 5), (3, 6)}"
+        },
+        {
+          "letter": "B",
+          "text": "{(2, 5), (3, 5)}"
+        },
+        {
+          "letter": "C",
+          "text": "{(2, 4), (2, 5), (3, 4), (3, 5), (4, 5), (4, 6), (5, 5), (5, 6)}"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If A has 32 elements B has 42 elements and A B has 62 elements find the number of elements in A B",
+      "options": [
+        {
+          "letter": "A",
+          "text": "74"
+        },
+        {
+          "letter": "B",
+          "text": "62"
+        },
+        {
+          "letter": "C",
+          "text": "12"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Out of a total population of 50,000 only 28,000 read Telegraph and 23,000 read Times of India while 4,000 read the both. How many do not read any paper?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3,000"
+        },
+        {
+          "letter": "B",
+          "text": "2,000"
+        },
+        {
+          "letter": "C",
+          "text": "4,000"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Out 2000 staff 48% preferred coffee 54% tea and 64% cocoa. Of the total 28% used coffee and tea 32% tea and cocoa and 30% coffee and cocoa. Only 6% did none of these. Find the number having all the three.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "360"
+        },
+        {
+          "letter": "B",
+          "text": "280"
+        },
+        {
+          "letter": "C",
+          "text": "160"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Complaints about works canteen had been about Mess (M) Food (F) and Service (S). Total complaints 173 were received as follows: � n(M) = 110, n(F) = 55, n(S) = 67, n(M F S) = 20, n(M S F) = 11 and n(F S M) = 16. Determine the complaints about all the three.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 (b) 53"
+        },
+        {
+          "letter": "B",
+          "text": "35"
+        },
+        {
+          "letter": "C",
+          "text": "None"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Out of total 150 students 45 passed in Accounts 50 in Maths. 30 in Costing 30 in both Accounts and Maths. 32 in both Maths and Costing 35 in both Accounts and Costing. 25 students passed in all the three subjects. Find the number who passed at least in any one of the subjects.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "63"
+        },
+        {
+          "letter": "B",
+          "text": "53"
+        },
+        {
+          "letter": "C",
+          "text": "73"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "After qualifying out of 400 professionals, 112 joined industry, 120 started practice and 160 joined as paid assistants. There were 32, who were in both practice and service 40 in both practice and assistantship and 20 in both industry and assistantship. There were 12 who did all the three. Find how many could not get any of these.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "88"
+        },
+        {
+          "letter": "B",
+          "text": "244"
+        },
+        {
+          "letter": "C",
+          "text": "122"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "A marketing research team interviews 50 people about their drinking habits of tea coffee or milk or A B C respectively. Following data is obtained but the Manager is not sure whether these are consistent. Category No. Category No. ABC 3 A 42 AB 7 B 17 BC 13 C 27 AC 18",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inconsistent since 42 + 17 + 27 � 7 � 13 � 18 + 3 50"
+        },
+        {
+          "letter": "B",
+          "text": "Consistent"
+        },
+        {
+          "letter": "C",
+          "text": "Cannot determine due to data insufficiency"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "On a survey of 100 boys it was found that 50 used white shirt 40 red and 30 blue. 20 were habituated in using both white and red shirts 15 both red and blue shirts and 10 blue and white shirts. Find the number of boys using all the colours.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20"
+        },
+        {
+          "letter": "B",
+          "text": "25"
+        },
+        {
+          "letter": "C",
+          "text": "30"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(70) if 10 boys did not use any of the white red or blue colours and 20 boys used all the colours offer your comments.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inconsistent since no. of boys used all the three colours can't more then no. of boys used two colours"
+        },
+        {
+          "letter": "B",
+          "text": "Consistent"
+        },
+        {
+          "letter": "C",
+          "text": "Cannot determine due to data insufficiency"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Out of 60 students 25 failed in paper (1), 24 in paper (2), 32 in paper (3), 9 in paper (1) alone, 6 in paper (2) alone, 5 in papers (2) and (3) only and 3 in papers (1) and (2) only. Find how many failed in all the three papers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10"
+        },
+        {
+          "letter": "B",
+          "text": "60"
+        },
+        {
+          "letter": "C",
+          "text": "50"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No. (72) how many passed in all the three papers?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10"
+        },
+        {
+          "letter": "B",
+          "text": "60"
+        },
+        {
+          "letter": "C",
+          "text": "50"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Asked if you will cast your vote for a party the following feedback is obtained: � Yes No Don't know Adult Male 10 20 5 Adult Female 20 15 5 Youth over 18 years 10 5 10 If A = set of Adult C = Common set of Women and Youth Y = set of positive opinion N = set of negative opinion then n(A) is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25"
+        },
+        {
+          "letter": "B",
+          "text": "40"
+        },
+        {
+          "letter": "C",
+          "text": "20"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "In a market survey you have obtained the following data which you like to examine regarding its correctness: Did not use the brand April May June April & May & April & April May May June June June Percentage answering `Yes' 59 62 62 35 33 31 22",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inconsistent since 59 + 62 + 62 � 35 � 33 � 31 + 22 100"
+        },
+        {
+          "letter": "B",
+          "text": "Consistent"
+        },
+        {
+          "letter": "C",
+          "text": "cannot determine due to data insufficiency"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "In his report an Inspector of an assembly line showed in respect of 100 units the following which you are require to examine. Defect Strength (S) Flexibility (F) Radius (R) S and F S and R F and R S F R No. of pieces 35 40 18 7 11 12 3",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No. of pieces with radius defect alone was �2 which was impossible"
+        },
+        {
+          "letter": "B",
+          "text": "Report may be accepted"
+        },
+        {
+          "letter": "C",
+          "text": "Cannot be determined due to data insufficiency (d) None"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "A survey of 1000 customers revealed the following in respect of their buying habits of different grades: A grade A and C C grade A grade but A grade C and B None only grades not B grade grades 180 80 480 230 360 80 140 How many buy B grade?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "280"
+        },
+        {
+          "letter": "B",
+          "text": "400"
+        },
+        {
+          "letter": "C",
+          "text": "50"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Consider the following data: � Skilled & Direct Unskilled & Direct Skilled & Indirect Unskilled & Indirect Worker Worker Worker Worker Short Term 6 8 10 20 Medium Term 7 10 16 9 Long Term 3 2 8 0 If S M L T I denote short medium long terms skilled and indirect workers respectively find the number of workers in set M.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "42"
+        },
+        {
+          "letter": "B",
+          "text": "8"
+        },
+        {
+          "letter": "C",
+          "text": "10"
+        },
+        {
+          "letter": "D",
+          "text": "43"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Consider the problem No. (83) and find the number of workers in set L I.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "42"
+        },
+        {
+          "letter": "B",
+          "text": "8"
+        },
+        {
+          "letter": "C",
+          "text": "10"
+        },
+        {
+          "letter": "D",
+          "text": "43"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Consider the problem No. (83) and find the number of workers in set S T I.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "42"
+        },
+        {
+          "letter": "B",
+          "text": "8"
+        },
+        {
+          "letter": "C",
+          "text": "10"
+        },
+        {
+          "letter": "D",
+          "text": "43"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Consider the problem No. (83) and find the number of workers in set (M L) (T I).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "42"
+        },
+        {
+          "letter": "B",
+          "text": "8"
+        },
+        {
+          "letter": "C",
+          "text": "10"
+        },
+        {
+          "letter": "D",
+          "text": "43"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Consider the problem No. (83) and find the number of workers in set S (S I).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "42"
+        },
+        {
+          "letter": "B",
+          "text": "44"
+        },
+        {
+          "letter": "C",
+          "text": "43"
+        },
+        {
+          "letter": "D",
+          "text": "99"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Consider the problem No. (83). Find out which set of the pair has more workers as its members. Pair is (S M) or L: �",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(S M) > L"
+        },
+        {
+          "letter": "B",
+          "text": "(S M) < L (c) (S M) = L"
+        },
+        {
+          "letter": "C",
+          "text": "None"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Consider the problem No. (88). Find out which set of the pair has more workers as its members. Pair is (I T) or S � (I S): �",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(I T) > [S � (I S)]"
+        },
+        {
+          "letter": "B",
+          "text": "(I T) < [S � (I S)]"
+        },
+        {
+          "letter": "C",
+          "text": "(I T) = [S � (I S)]"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Out of 1000 students 658 failed in the aggregate, 166 in the aggregate and in group-I 434 in aggregate and in group-II, 372 in group-I, 590 in group-II and 126 in both the groups. Find out how many failed in all the three.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "106"
+        },
+        {
+          "letter": "B",
+          "text": "224"
+        },
+        {
+          "letter": "C",
+          "text": "206"
+        },
+        {
+          "letter": "D",
+          "text": "464"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(90) how many failed in the aggregate but not in group-II?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "106"
+        },
+        {
+          "letter": "B",
+          "text": "224"
+        },
+        {
+          "letter": "C",
+          "text": "206"
+        },
+        {
+          "letter": "D",
+          "text": "464"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(90) how many failed in group-I but not in the aggregate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "106"
+        },
+        {
+          "letter": "B",
+          "text": "224"
+        },
+        {
+          "letter": "C",
+          "text": "206"
+        },
+        {
+          "letter": "D",
+          "text": "464"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(90) how many failed in group-II but not in group-I?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "106"
+        },
+        {
+          "letter": "B",
+          "text": "224"
+        },
+        {
+          "letter": "C",
+          "text": "206"
+        },
+        {
+          "letter": "D",
+          "text": "464"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(90) how many failed in aggregate or group-II but not in group-I?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "206"
+        },
+        {
+          "letter": "B",
+          "text": "464"
+        },
+        {
+          "letter": "C",
+          "text": "628"
+        },
+        {
+          "letter": "D",
+          "text": "164"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH7",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "As per question No.(90) how many failed in aggregate but not in group-I and group-II?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "206"
+        },
+        {
+          "letter": "B",
+          "text": "464"
+        },
+        {
+          "letter": "C",
+          "text": "628"
+        },
+        {
+          "letter": "D",
+          "text": "164"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Sets, Relations and Functions is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Revenue Function: Revenue, R(x), gives the total money obtained (Total turnover) by selling x units of a product. If x units are sold at `P per unit, then R(x) = P.X Marginal Revenue: It is the rate of change I revenue per unit change in output. If R is the dR revenue and x is the output, then MR= dx . Profit function: Profit P(x), the difference of between total revenue R(x) and total Cost C (x). P(X)= R(x) � C(x) dP Marginal Profit: It is rate of change in profit per unit change in output. i.e dx Example 3: A computer software company wishes to start the production of floppy disks. It was observed that the company had to spend ` 2 lakhs for the technical informations. The cost of setting up the machine is ` 88,000 and the cost of producing each unit is ` 30, while each floppy could be sold at ` 45. Find: (i) the total cost function for producing x floppies; and (ii) the break-even point. Solution : a) Given, fixed cost = ` 2,00,000 + ` 88,000 = ` 2,88,000. (i) If C (x) be the total cost function for producing floppies, then C(x) = 30x + 2,88,000 (ii) The Revenue function R(x), for sales of x floppies is given by R(x) = 45x. For break-even point, R(x) = C(x) i.e., 45x = 30x + 2,88,000 i.e., 15x = 2,88,0000 x = 19,200, the break-even point Example 4: A company decided to set up a small production plant for manufacturing electronic clocks. The total cost for initial set up (fixed cost) is ` 9 lakhs. The additional cost for producing each clock is ` 300. Each clock is sold at ` 750. During the first month, 1,500 clocks are produced and sold. (i) What profit or loss the company incurs during the first month, when all the 1,500 clocks are sold ? (ii) Determine the break-even point.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Total cost of producing 20 items of a commodity is ` 205, while total cost of producing 10 items is ` 135. Assuming that the cost function is a linear function, find the cost function and marginal cost function. Solution:"
+        },
+        {
+          "letter": "B",
+          "text": "The total cost function for manufacturing x Clocks is given by C(x) = Fixed cost + Variable cost to produce x Clocks = 9,00,000 + 300x. The revenue function from the sale of x clocks in given by R(x) = 750 � x = 750x. (i) Profit function, P(x) = R(x) � C(x) = 750x � (9,00,000 + 300x) = 450x � 9,00,000 Profit, when all 1500 clocks are sold = P(1500) = 450 � 1500 � 9,00,000 = � ` 2,25,000 Thus, there is a loss of ` 2,25,000 when only 1500 clocks are sold. (ii) At the break-even point, R(x) = C(x) or, 9,00,000 + 300x = 750x or, 450x = 9,00,000 x = 2,000 Hence, 2000 clocks have to be sold to achieve the break-even point."
+        },
+        {
+          "letter": "C",
+          "text": "Let cost function be C(x) = ax + b,............(i) x being number of items and a, b being constants. Given, C(x) = 205 for x = 20 and C(x) = 135 for x = 10. Putting these values in (i), 205 = 20a+b ............(ii) 135 = 10a+b ............(iii) (ii) � (iii) gives, 70 = 10a or, a = 7 From (iii), b = 135 � 10a = 135 � 70 = 65 Required cost function is given by C(x) = 7x + 65 Marginal cost function, C'(x) = d (7x 65) = 7 dx Marginal Propensity to Consume (MPC): The consumption function C = F(Y) expresses the relationship between the total consumption and total Income (Y), then the marginal propensity dC to consume is defined as the rate of Change consumption per unit change in Income i.e., dY . By consumption we mean expenditure incurred in on Consumption. Marginal Propensity to save (MPS): Saving, S is the difference between income, I and dS consumption, c, i.e ., dY . Choose the most appropriate option (a) (b) (c) or (d)."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If f(x) = xk and f'(1) = 10 the value of k is a) 10 b) �10 c) 1/10 Integration is the reverse process of differentiation. Integration f(x) f'(x) Differentiation We know d x n1 n 1 x n dx n n 1 1 or d x n1 x n .....................(1) dx n 1 Integration is the inverse operation of differentiation and is denoted by the symbol . Hence, from equation (1), it follows that xn dx xn+1 n+1 x n+1 i.e. Integral of xn with respect to variable x is equal to n+1 Thus if we differentiate xn+1 we can get back xn n+1 Again if we differentiate xn+1 + c and c being a constant, we get back the same xn . n+1 d x n1 xn i.e. dx c n 1 xn+1 Hence xn dx = n+1 + c and this c is called the constant of integration. Integral calculus was primarily invented to determine the area bounded by the curves dividing the entire area into infinite number of infinitesimal small areas and taking the sum of all these small areas. i) xn dx xn1 + c, n 1 (If n=-1, xn+1 1 which is not defined) n1 n+1 0 x1 ii) dx = x + c, since 1dx = x�dx= 1 = x + c iii) ex dx = ex + c, since d ex =ex dx iv) eax dx = eax c , since d eax eax a dx a v) dx = log x+c, since d logx = 1 x dx x vi) ax dx = ax / logea+c, since d ax a ax dx log e Note: In the answer for all integral sums we add +c (constant of integration) since the differentiation of constant is always zero. Elementary Rules: c f(x) dx = c f(x) dx where c is constant. { f(x) dx � g(x)} dx = f(x)dx � g(x)dx Examples : Find (a) x dx,",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 dx,"
+        },
+        {
+          "letter": "B",
+          "text": "e3xdx"
+        },
+        {
+          "letter": "C",
+          "text": "3x dx (e) x x dx. x Solution:"
+        },
+        {
+          "letter": "D",
+          "text": "x 3/2 = 2x3/2 c x dx = x1/2 +1 / (1/2 + 1) = 3/2 3 (b) 1 dx = 1 dx 11 c 2 x c where c is arbitrary constant. x x2 x2 11 2 (c) e3x dx = e3x c 1 e3x c 3 3 (d) 3x dx = 3x 3 c. loge (e) x x dx. = 3 3 1 dx 2 x5/2 c. x 2 dx x2 3 1 5 2 Examples : Evaluate the following integral: i) (x + 1/x)2 dx = x2 dx +2 dx + dx / x2 = x3 +2x+ x�2+1 3 �2+1 = x3 +2x� 1 +c 3 x ii) x (x3+2x �3 ) dx = x7/2 dx +2 x3/2 dx �3 x1/2 dx x7/2+1 + 2 x 3/2+1 � 3 x1/2+1 = 7/2 +1 3/2+1 1/2+1 = 2x9/2 + 4x5/2 �2 x3/2 + c 9 5 e3 x+ e�4 x dx iii) = e2 x dx + e�4 x dx = e2x e4x = e2x 1 c 2 4 2 4e4x x2 x2 � 1 1 iv) dx x1 dx x1 = (x2 - 1) dx dx x1 x1 = (x 1)dx log(x 1) x2 x log(x 1) c 2 v) x3 5x 2 � 3 dx (x 2) By simple division x 3 5x 2 � 3 dx (x 2) = x 2 3x 6 9 dx x 2 = x3 3x2 � 6x+9log(x+2)+c 32 It is sometime possible by a change of independent variable to transform a function into another which can be readily integrated. We can show the following rules. To put z = f (x) and also adjust dz = f (x) dx Example: F{h(x)} h' (x) dx, take ez = h(x) and to adjust dz = h (x) dx then integrate F (z) dz using normal rule. Example: (2x 3 )7 dx We put (2x + 3) = t so 2 dx = dt or dx = dt / 2 Therefore (2x 3 )7 dx � t7 dt t 8 t8 2x 38 c 2x8 16 16 This method is known as Method of Substitution x3 x2 1 Example: 3 dx We put (x2 +1) = t so 2x dx = dt or x dx = dt / 2 = x 2 .x dx t3 = 1 t 1 dt 2 t3 =1 dt � 1 dt 2 t2 2 t3 = 1 t �21 � 1 t �31 2 2 (�3 1) � 2 1 11 11 = � 2 t + 4 t2 = 1 1 1 1 4 t2 2 t"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "1 � 1 . 1 +c 4 +1 2 x2 1 = x2 2 IMPORTANT STANDARD FORMULAE a) dx 1 x�a + c x2 � a2 log 2a x a b) a2 dx = 1 log a+ x +c � x2 2a a� x c) dx = log x + x2 + a2 +c x2 a2 d) dx log x x2 a2 + c x2 a2 e) ex {f(x) f'(x)}dx exf(x) + c f) x2 a2 dx x x2 a2 a2 log x x2 a2 + c g) 2 2 x 2 - a 2 - a2 log( x x 2 � a2 ) + c x 2 - a2 dx x 2 2 f' (x) h) dx =log f(x) + c f(x) Examples: ( a) e2 ex 4 dx dz x z2 22 where z=e x dz = e x dx 1 log ex 2 +c 4 ex 2 x x2 1 x2 1) (x �",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 dx dx= (x x2 1) dx x x2 1 x2 (x � 1) = x2 x x2 1 1 log(x x2 1) c 2 2 2 ex (x3 3x2 )dx ex f(x) f'(x)dx, wheref (x) x3"
+        },
+        {
+          "letter": "B",
+          "text": "[by (e) above)] = exx3+c u vdx u vdx [ d(u) vdx] dx dx where u and v are two different functions of x Evaluate: i) xex dx Integrating by parts we see ex dx d ex dx dx xex dx x dx (x) = x e x � 1. ex dx xex � ex c ii) x log x dx Integrating by parts, = log x d x) xdxdx x dx� dx (log x2 1 x2 2 logx x 2 = . � . dx = . x2 x � 1 xdx 2 log 2 = . x2 x � x2 +c 2 log 4 iii) x 2 eax dx eax dx � d 2 eax dx dx = x2 dx (x ) = x2 eax � 2x . eax dxa a = x 2 eax � 2 x.eax dxaa x 2 eax � 2 eax dx � d eax = a a dx ( x) dx dx x 2eax 2 xeax 1. eax a a a a dx = = x2eax � 2xeax + 2 eax +c a a2 a3 Type I : (3x 2) dx Example: (x - 2) (x - 3) ( 3x +2) Solution: let (x-2) (x-3) = A+ B (x � 2) (x � 3) [Here degree of the numerator must be lower than that of the denominator; the denominator contains non�repeated linear factor] so 3x + 2 = A (x � 3) + B (x � 2) We put x = 2 and get 3.2 + 2 = A (2�3) + B (2�2) => A = �8 we put x = 3 and get 3.3 +2 = A (3�3) + B (3�2) => B= 11 (3x 2)dx (x 2)2 (x 3) 8 dx 11 dx x2 x�3 = �log(x�2)+11log (x -3)+c Type II: (3x 2) dx Example: (x 2)2 (x 3) Solution: let (3x + 2) = A + (x B +C (x-2)2 (x-3) (x�2) � 2)2 (x � 3) or 3x + 2 = A (x � 2) (x � 3) + B (x � 3) +C (x � 2)2 Comparing coefficients of x2, x and the constant terms of both sides, we find A+C = 0 ............(i) �5A + B � 4C = 3 ......(ii) 6A � 3B + 4C = 2 .......(iii) By (ii) + (iii) A � 2B = 5 .........(iv) (i) � (iv) 2B + C = �5 .......(v) From (iv) A = 5 + 2B From (v) C = �5 � 2B From (ii) �5 ( 5 + 2B) + B � 4 (� 5 � 2B) = 3 or � 25 � 10B + B + 20 + 8B = 3 or � B � 5 = 3 or B = � 8, A = 5 � 16 = � 11, from (iv) C = � A = 11 (3x 2) dx Therefore (x - 2)2 (x - 3) dx � 8 dx dx (x � 2) � 2)2 (x � 3) = � 11 11 (x 8 = �11 log (x�2) + (x�2) + 11 log (x�3) = 11 log (x � 3) + 8 +c (x � 2) (x�2) Type III: Example: (3x 2 - 2x 5) dx (x - 1) 2 ( x 2 5) Solution: Let 3x2 � 2x +5 = A + Bx + C (x�1)2 (x2 +5) x�1 (x 2 + 5) so 3x2 �2x +5 = A (x2 + 5 ) + (Bx +C) (x�1) Equating the coefficients of x2, x and the constant terms from both sides we get A+B=3 ............(i) C � B = �2 ............(ii) 5A � C = 5 .............(iii) by (i) + (ii) A + C = 1 ......... (iv) by (iii) + (iv) 6A = 6 ......... (v) or A = 1 therefore B = 3 � 1 = 2 and C = 0 Thus (3x 2 - 2x 5) dx (x - 1) 2 ( x 2 5) dx 2x x�1 2 = x 5 dx = log (x�1) + log (x2 + 5) = log (x2 + 5) (x�1) + c Example: dx x (x 3 1) dx Solution: x (x3 1) x2dx we put x3 = z, 3x2 dx = dz = x 3 (x 3 1) 1 dz = 3 z(z 1) = 1 1 � z 1 1 dz 3 z = 1 log z � log (z + 1) 3 = 1 log x x3 1 3 3+ Example : Find the equation of the curve where slope at (x, y) is 9x and which passes through the origin. dy Solution: dx = 9x dy = or y = 9x2 /2 +c Since it passes through the origin, c = 0; thus required eqn . is 9x2 = 2y. Suppose F(x) dx = f (x) As x changes from a to b the value of the integral changes from f (a) to f (b). This is as b F(x) dx f (b) f (a) a `b' is called the upper limit and `a' the lower limit of integration. We shall first deal with indefinite integral and then take up definite integral. 2 Example: x5 dx 0 = 2 x6 Solution: x 5 dx 6 0 2 x5 dx x6 2 6 0 0 1 = 64/6 = 32/3 = 6 (26 � 0) Note: In definite integration the constant (c) should not be added Example: 2 (x2 5x 2)dx 1 2 (x2 5x 2)dx x3 5x2 2 (x 2 x3 5x2 2 3 2 1 2 2x 1 Solution: 5x 2)dx 1 2x . Now, 3 23 5x22 1 5 2 �19/6 = 2 2x2 3 2 3 Important Properties of definite Integral b b b a (I) (II) f (x) dx f (x) dx f (x)dx f (t) dt a a a b b c b (III) f(x)dx = f(x) dx + f(x)dx, a < c < b a a c a a (IV) f (x) dx f (a � x) dx 0 o na a (V) When f(x) =f (a+x) then f (x) dx n f (x) dx 0 0 a a (VI) f (x)dx 2 f (x)dx if f(�x) = f(x) if f(�x) = �f(x) �a 0 =0 2 x 2dx Example: 0 x 2 (2 x)2 2 x 2dx Solution: Let I = 0 x2 (2 � x)2 2 (2 - x)2 dx [by prop. IV] = 0 (2 - x)2 x 2 2 x 2dx 2 (2 x)2 0 (2 � x)2 0 (2 x)2 x2 21 x2 dx 2 x 2 (2 � x)2 0 x 2 (2 � x)2 dx 2 = dx = x02 = 2�0 = 2 0 or I = 2/2 = 1 Example: Evaluate 2 x4 dx (a 2) �2 a10 � x10 x 4 dx x 4 dx Solution: a10 � x10 ( a5 ) 2 � (x 5 )2 let x5 = t so that 5x4 dx = dt Now x4dx (a5 )2 � (x5 )2 = 1 5x 4dx 5 (a5 )2 (x 5 )2 1 dt = 5 (a5 )2 � t2 = 1 log a5 x5 (by standard formula b) 10a5 a5 � x5 2 x4dx Therefore, 2 a10 � x10 = 2 x 4 dx ( by prop. VI) a10 � x10 2 0 2x 1 a5 x5 2 = 10a 5 log a5 - x5 0 = 1 log a5 32 5a 5 a5 � 32 xn dx xn1 + c, n 1 (If n=-1, xn+1 1 which is not defined) n1 n+1 0 x1 dx = x, since 1dx = x�dx= 1 = x + c ex dx = ex + c, since d ex =ex dx eax dx = eax c , since d eax eax a dx a dx d logx = 1 x = log x+c, since dx x ax dx = ax / logea+c, since d ax a ax dx log e c f(x) dx = c f(x) dx where c is constant. { f(x) dx � g(x)} dx = f(x)dx � g(x)dx dx 1 log x � a +c x2 � a2 2a x a a2 dx 2 = 1 log a + x +c �x 2a a � x dx = log x + x2 + a2 +c x2 a2 dx log x x2 a2 + c x2 a2 ex {f(x) f'(x)}dx exf(x) + c x2 a2 dx x x2 a2 a2 log x x2 a2 + c 2 2 x2 - a2 dx x x 2 - a 2 - a2 log( x x 2 � a2 ) + c 2 2 f' (x) dx =log f(x) + c f(x) Integration by parts Important Properties of definite Integral b b b a f (x)dx f (t) dt f (x) dx f (x) dx a a a b b c b f(x)dx = f(x) dx + f(x) dx, a < c < b a a c a a f (x) dx f (a � x) dx 0 o na a When f(x) =f (a+x) = f (x) dx n f (x) dx 0 0 a a f (x)dx 2 f (x)dx �a 0 Choose the most appropriate option (a) (b) (c) or (d)."
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Evaluate 5x2 dx :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 / 3x3 + k"
+        },
+        {
+          "letter": "B",
+          "text": "5x 3 + k"
+        },
+        {
+          "letter": "C",
+          "text": "5x3"
+        },
+        {
+          "letter": "D",
+          "text": "none of these 3"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Integration of 3 � 2x � x4 will become",
+      "options": [
+        {
+          "letter": "A",
+          "text": "� x2 � x5 / 5"
+        },
+        {
+          "letter": "B",
+          "text": "3x x2 x5 k (c) 3x x2 x5 k (d) none of these 5 5"
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Given f(x) = 4x3 + 3x2 � 2x + 5 and f(x) dx is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x4 + x3 � x2 + 5x"
+        },
+        {
+          "letter": "B",
+          "text": "x4 + x3 � x2 + 5x + k"
+        },
+        {
+          "letter": "C",
+          "text": "12x2 + 6x � 2x2"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Evaluate ( x2 - 1 ) dx",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x 3 x k 3"
+        },
+        {
+          "letter": "B",
+          "text": "x5/5 � 2/3 x3 + x + k"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "2x"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "( 1 � 3x ) ( 1 x ) dx is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x � x2 � x3"
+        },
+        {
+          "letter": "B",
+          "text": "x3 � x2 + x"
+        },
+        {
+          "letter": "C",
+          "text": "x � x2 � x3 + k"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "x � 1 / x dx is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 2 x 2 x k (c) 1 1 x k"
+        },
+        {
+          "letter": "B",
+          "text": "none of these 3 x3/2 � 2 x� +k"
+        },
+        {
+          "letter": "C",
+          "text": "3 2x 2x"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The integral of px3 + qx2 + rk + w/x is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "px2 + qx + r + k"
+        },
+        {
+          "letter": "B",
+          "text": "px3/3 + qx2/2 + rx"
+        },
+        {
+          "letter": "C",
+          "text": "3px + 2q � w/x2"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Use method of substitution to evaluate x(x 2 4)5 dx and the answer is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x2 + 4 )6 + k"
+        },
+        {
+          "letter": "B",
+          "text": "1/12 ( x2 + 4 )6 + k"
+        },
+        {
+          "letter": "C",
+          "text": "( x2 + 4 )6/ + k"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Integrate ( x + a )n and the result will be",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(x a)n1 k"
+        },
+        {
+          "letter": "B",
+          "text": "(x a)n 1 n1 n1"
+        },
+        {
+          "letter": "C",
+          "text": "(x + a)n + 1"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "8x2 /( x3 2 )3 dx is equal to 4 3(x 3",
+      "options": [
+        {
+          "letter": "A",
+          "text": "� 4/3(x3 + 2)2 + k"
+        },
+        {
+          "letter": "B",
+          "text": "2)2 +k"
+        },
+        {
+          "letter": "C",
+          "text": "4 k"
+        },
+        {
+          "letter": "D",
+          "text": "none of these 3(x 3 2)2 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Using method of partial fraction the integration of f(x) when f(x) = x2 - a2 and the answer is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "log x x a a k"
+        },
+        {
+          "letter": "B",
+          "text": "log (x � a) � log (x + a) + k 1 x-a"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "2a log x + a + k"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Use integration by parts to evaluate x2e3xdx",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x2 e3x/3 � 2x e3x/9 + 2/27 e3x + k"
+        },
+        {
+          "letter": "B",
+          "text": "x2 e3x � 2x e3x + 2e3x + k"
+        },
+        {
+          "letter": "C",
+          "text": "e3x/3 � x e3x/9 + 2e3x + k"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "logx dx is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x logx + k"
+        },
+        {
+          "letter": "B",
+          "text": "x logx � x2 + k (c) x logx + k"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Evaluate ( 2x2 - x3 ) dx and the value is 0",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4/3 + k"
+        },
+        {
+          "letter": "B",
+          "text": "5/12"
+        },
+        {
+          "letter": "C",
+          "text": "� 4/3 4"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Evaluate ( 3x - 2 )2 dx and the value is 2",
+      "options": [
+        {
+          "letter": "A",
+          "text": "104"
+        },
+        {
+          "letter": "B",
+          "text": "100"
+        },
+        {
+          "letter": "C",
+          "text": "10 1"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Evaluate xexdx dx and the value is 0",
+      "options": [
+        {
+          "letter": "A",
+          "text": "�1"
+        },
+        {
+          "letter": "B",
+          "text": "10"
+        },
+        {
+          "letter": "C",
+          "text": "10/9"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "xx (1 + logx) dx is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "xx logx + k"
+        },
+        {
+          "letter": "B",
+          "text": "ex2 + k x2"
+        },
+        {
+          "letter": "C",
+          "text": "xx + c"
+        },
+        {
+          "letter": "D",
+          "text": "2 + k"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If f(x) = 1 + x2 then f(x)dx is x 1+x2 + 1 log (x+ x2 +1) +k",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 2 2"
+        },
+        {
+          "letter": "B",
+          "text": "3 x (1 + x2) 3/2 + k"
+        },
+        {
+          "letter": "C",
+          "text": "none of these 2"
+        },
+        {
+          "letter": "D",
+          "text": "3 x (1 + x2) 3/2 + k"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "2 x2 + 1 dx is equal to x2 + 2 x",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 x2 + 2 + k (b) x2 + 2 + k"
+        },
+        {
+          "letter": "B",
+          "text": "1/(x2 + 2) 3/2 + k"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "(ex e�x )2 (ex � e�x ) dx is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 (ex e ) �x. 3 +k"
+        },
+        {
+          "letter": "B",
+          "text": "1 (ex � e�x )2 + k 3 2"
+        },
+        {
+          "letter": "C",
+          "text": "ex + k"
+        },
+        {
+          "letter": "D",
+          "text": "none of these a"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "[ f(x) f(�x) ] dx is equal to 0 a a a",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 f(x) dx"
+        },
+        {
+          "letter": "B",
+          "text": "f(x) dx"
+        },
+        {
+          "letter": "C",
+          "text": "0"
+        },
+        {
+          "letter": "D",
+          "text": "� f(�x) dx 0 �a (c) ex + k �a"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "xex /(x 1 )2 dx is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "none of these"
+        },
+        {
+          "letter": "B",
+          "text": "ex/(x + 1) + k (b) ex/x + k"
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "(x4 3/x) dx is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x5/5 + 3 log x"
+        },
+        {
+          "letter": "B",
+          "text": "1/5 x5 + 3 log x + k"
+        },
+        {
+          "letter": "C",
+          "text": "none of these"
+        },
+        {
+          "letter": "D",
+          "text": "1/5 x5 + k 4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Evaluate ( 2x 5 ) dx and the value is 1",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3"
+        },
+        {
+          "letter": "B",
+          "text": "10"
+        },
+        {
+          "letter": "C",
+          "text": "30"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "2 2x dx is equal to 1 1 x2",
+      "options": [
+        {
+          "letter": "A",
+          "text": "loge (5/2)"
+        },
+        {
+          "letter": "B",
+          "text": "loge5 � loge2"
+        },
+        {
+          "letter": "C",
+          "text": "loge (2/5)"
+        },
+        {
+          "letter": "D",
+          "text": "none of these 4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "3x + 4 dx is equal to 0",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9/112"
+        },
+        {
+          "letter": "B",
+          "text": "112/9"
+        },
+        {
+          "letter": "C",
+          "text": "11/9"
+        },
+        {
+          "letter": "D",
+          "text": "none of these (c) loge3 (d) none of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "2 x 2 dx is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "�1"
+        },
+        {
+          "letter": "B",
+          "text": "none of these 0 x1"
+        },
+        {
+          "letter": "C",
+          "text": "� ex/x + k"
+        },
+        {
+          "letter": "D",
+          "text": "none of these (c) 8 (d) none of these (a) 2 + loge2 (b) 2 + loge3 e2 3 3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The value of f (5 � x) dx� f (x) dx is 2 2",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1"
+        },
+        {
+          "letter": "B",
+          "text": "0"
+        },
+        {
+          "letter": "C",
+          "text": "None of the above"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "x 1 ex / x2dx is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ex/x + k"
+        },
+        {
+          "letter": "B",
+          "text": "e�x/x + k 2"
+        },
+        {
+          "letter": "C",
+          "text": "�8"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Using integration by parts x3 log xdx",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x4/16 + k"
+        },
+        {
+          "letter": "B",
+          "text": "x4/16 ( 4 log x � 1 ) + k"
+        },
+        {
+          "letter": "C",
+          "text": "4 log x � 1 + k"
+        },
+        {
+          "letter": "D",
+          "text": "none of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Evaluate ex ex dx and the value is ex ex",
+      "options": [
+        {
+          "letter": "A",
+          "text": "loge ex + e�x"
+        },
+        {
+          "letter": "B",
+          "text": "log e ex + e�x + k"
+        },
+        {
+          "letter": "C",
+          "text": "loge ex � e�x + k(d) none of these"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "If f(x) = x � 1, the equation of a curve y = f(x) passing through the point (1, 0) is given by",
+      "options": [
+        {
+          "letter": "A",
+          "text": "y = x2 � 2x + 1"
+        },
+        {
+          "letter": "B",
+          "text": "y = x2/2 � x + 1"
+        },
+        {
+          "letter": "C",
+          "text": "y = x2/2 � x + 1/2(d) none of these Exercise 8(A) 4. (b) 5. (a) 6. (a) 7. (b) 8. (c)"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "T he fixed cost of a new product is Rs. 18000 and the variable cost per unit is Rs 550. If demand function p(x)=4000 -150x, find the break-even values.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15, 8"
+        },
+        {
+          "letter": "B",
+          "text": "7, 12"
+        },
+        {
+          "letter": "C",
+          "text": "3, 17"
+        },
+        {
+          "letter": "D",
+          "text": "5, 15 U sing the data (2-4) A company sells its product at Rs.60 per unit. Fixed cost for the company is Rs.18000 and the variable cost is estimated to be 25% of total revenue."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Determine: the total revenue function .",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70x"
+        },
+        {
+          "letter": "B",
+          "text": "60x"
+        },
+        {
+          "letter": "C",
+          "text": "90x"
+        },
+        {
+          "letter": "D",
+          "text": "100x"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Determine the total cost function",
+      "options": [
+        {
+          "letter": "A",
+          "text": "19000 + 6x"
+        },
+        {
+          "letter": "B",
+          "text": "20000+ 10 x"
+        },
+        {
+          "letter": "C",
+          "text": "18000 + 15x"
+        },
+        {
+          "letter": "D",
+          "text": "4000 + 5x"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Determine the breakeven point",
+      "options": [
+        {
+          "letter": "A",
+          "text": "600"
+        },
+        {
+          "letter": "B",
+          "text": "400"
+        },
+        {
+          "letter": "C",
+          "text": "700"
+        },
+        {
+          "letter": "D",
+          "text": "1000 U sing the data (5-8) The total cost C(x) of a company as C(x) = 1000 + 25x + 2x2 where x is the output."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Determine: the average cost",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1000/x + 25 + 2x"
+        },
+        {
+          "letter": "B",
+          "text": "1000/x + 20 + 2x"
+        },
+        {
+          "letter": "C",
+          "text": "1000/x + 30 + 3x"
+        },
+        {
+          "letter": "D",
+          "text": "1000/x + 25 + x"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Determine the marginal cost.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 + 4x"
+        },
+        {
+          "letter": "B",
+          "text": "25 + 4x"
+        },
+        {
+          "letter": "C",
+          "text": "50 + 4x"
+        },
+        {
+          "letter": "D",
+          "text": "50 + 5x"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find the marginal cost when 15 units are produced,",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60"
+        },
+        {
+          "letter": "B",
+          "text": "90"
+        },
+        {
+          "letter": "C",
+          "text": "80"
+        },
+        {
+          "letter": "D",
+          "text": "85"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find the actual cost of producing 15th unit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80"
+        },
+        {
+          "letter": "B",
+          "text": "70"
+        },
+        {
+          "letter": "C",
+          "text": "83"
+        },
+        {
+          "letter": "D",
+          "text": "90 Using the data (9-12).The total cost function of a firm is given aCs(x) = 0.002x3 - 0.04x2 + 5x + 1500, where x is the output."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Determine: the average cost",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.002x2 � 0.05x +5 + 1500/x"
+        },
+        {
+          "letter": "B",
+          "text": "0.002x2 � 0.04x +5 + 1500/x"
+        },
+        {
+          "letter": "C",
+          "text": "0.002x2 � 0.05x +5 + 500/x"
+        },
+        {
+          "letter": "D",
+          "text": "0.002x2 � 0.05x +5 + 1000/x"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Determine the marginal average cost (MAC)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.004x � 0.08 � 1500/x2"
+        },
+        {
+          "letter": "B",
+          "text": "0.004x � 0.04 � 1500/x2"
+        },
+        {
+          "letter": "C",
+          "text": "0.004x � 0.04 � 1000/x2"
+        },
+        {
+          "letter": "D",
+          "text": "0.001x � 0.04 � 1500/x2 (11) Find the marginal cost. (a) 0.06x2 � 0.10x + 5 (b) 0.06x2 � 0.16x + 5 (c) 0.06x2 � 0.08x + 5 (d) 0.05x2 � 0.08x + 5 (12) Find the rate of change of MC with respect to x. (a) 0.012x � 0.10 (b) 0.010x � 0.08 (c) 0.012x + 0.08 (d) 0.012x � 0.08 13.The total cost function for a company is given by C (x) = 3 x2 - 7x + 27. Find the level of 4 output for which MC = AC (a) 8(b) 6(c) 9(d) 10 Using the data (14-17) The demand function for a monopolist is given by x = 100 � 4p, where x is the number of units of product produced and old and p is the price per unit."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find total revenue function",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25x � x2/4"
+        },
+        {
+          "letter": "B",
+          "text": "25x + x2/4"
+        },
+        {
+          "letter": "C",
+          "text": "25x � x2/2"
+        },
+        {
+          "letter": "D",
+          "text": "5x � x2/4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find average revenue function",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25-x/6"
+        },
+        {
+          "letter": "B",
+          "text": "25-x/4"
+        },
+        {
+          "letter": "C",
+          "text": "5-x/4(d) 25 + x/4"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find marginal revenue function",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25-x/3"
+        },
+        {
+          "letter": "B",
+          "text": "25-x/4"
+        },
+        {
+          "letter": "C",
+          "text": "5-x/2"
+        },
+        {
+          "letter": "D",
+          "text": "25-x/2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find price and quantity at which MR= 0.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50, 12.5"
+        },
+        {
+          "letter": "B",
+          "text": "70, 12.5"
+        },
+        {
+          "letter": "C",
+          "text": "100, 12.5"
+        },
+        {
+          "letter": "D",
+          "text": "70, 10 Using the data (18-21) A firm knows that the demand function for one of its products is linear. It also knows that it can sell 1000 units when the price is Rs. 4 per unit and it can sell 1500 units when the price is Rs. 2 per unit."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find the demand function.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2000-250p"
+        },
+        {
+          "letter": "B",
+          "text": "2000-5p"
+        },
+        {
+          "letter": "C",
+          "text": "2000+5p"
+        },
+        {
+          "letter": "D",
+          "text": "2000-25p"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find the total revenue function",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 � x2/250"
+        },
+        {
+          "letter": "B",
+          "text": "8x � x2/50"
+        },
+        {
+          "letter": "C",
+          "text": "8x � x2/250"
+        },
+        {
+          "letter": "D",
+          "text": "8x � x2/25"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find the average revenue function.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8-x/50"
+        },
+        {
+          "letter": "B",
+          "text": "8-x/25"
+        },
+        {
+          "letter": "C",
+          "text": "8+x/250"
+        },
+        {
+          "letter": "D",
+          "text": "8-x/250"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find the marginal revenue function.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 � x/12"
+        },
+        {
+          "letter": "B",
+          "text": "8 � x/25"
+        },
+        {
+          "letter": "C",
+          "text": "8 � x/125"
+        },
+        {
+          "letter": "D",
+          "text": "8 + x/125 22.A company charge Rs. 15000 for a refrigerator on orders of 20 or less refrigerator. The charge is reduced on every set by Rs. 100 per piece for each piece ordered in excess of 20. Find the largest size order the company should allow so as to receive a maximum revenue. (a) 85(b) 80(c) 100(d) 70"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "A firm has the following demand and the average cost-functions: x = 480 - 20p and AC = 10 + x .Determine the profit maximizing output and price of the 15 monopolist.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70, 25"
+        },
+        {
+          "letter": "B",
+          "text": "60, 30"
+        },
+        {
+          "letter": "C",
+          "text": "60, 25"
+        },
+        {
+          "letter": "D",
+          "text": "70, 30 Using the data (24-25) The marginal cost of production is MC = 20 - 0.04x + 0.003x2 where x is the number of units produced. The fixed cost is Rs. 7000."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find the total cost function.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C = 20 x - 0.02x2 + 0.001x3 + 7000"
+        },
+        {
+          "letter": "B",
+          "text": "C = -20 x - 0.04x2 + 0.001x3 + 7000"
+        },
+        {
+          "letter": "C",
+          "text": "C = 20 x + 0.02x2 + 0.001x3 + 7000"
+        },
+        {
+          "letter": "D",
+          "text": "C = 20 x - 0.02x2 + 0.001x3 - 7000"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (C).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find the average cost function.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "AC= 20 - 0.02x + 0.001x2 + 7000"
+        },
+        {
+          "letter": "B",
+          "text": "AC = 20 - 0.02x + 0.001x2 + 7000 x x"
+        },
+        {
+          "letter": "C",
+          "text": "AC = 20 - 0.02x + 0.001x2 - 7000"
+        },
+        {
+          "letter": "D",
+          "text": "AC = 20 + 0.02x + 0.001x2 + 7000 x x Using the data (26-27) The marginal cost function of manufacturing x units of a product is given by MC = 3x2 - 10x + 3 . The total cost of producing one unit of the product is Rs. 7."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find the total cost function",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C = x3 +5x2 + 3x + 7 (b) C = x3 - 5x2 + 3x + 7"
+        },
+        {
+          "letter": "B",
+          "text": "C = x3 + 5x2 - 3x + 7 (d) C = x3 - 5x2 - 3x -7 27.Find the average cost function."
+        },
+        {
+          "letter": "C",
+          "text": "AC = x2 - 5x + 3 + 7 (b) AC = x2 - 5x + 3 - 7 x x"
+        },
+        {
+          "letter": "D",
+          "text": "AC = x2 - 5x - 3 + 7 (d) AC = x2 +5x - 3 + 7 x x Using the data (28-29). The marginal cost function of a commodity is given by MC = 14000 7x + 4 and the fixed cost is Rs. 18000."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find the total cost function.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C = 4000 7x+4 + 10000"
+        },
+        {
+          "letter": "B",
+          "text": "C = 4000 7x+4 - 10000"
+        },
+        {
+          "letter": "C",
+          "text": "C = 400 7x+4 + 10000"
+        },
+        {
+          "letter": "D",
+          "text": "C = 4000 7x2 +4 + 1000"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (B).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "Find average cost of producing 3 units of the products.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "AC = 4000 7x+2 10000"
+        },
+        {
+          "letter": "B",
+          "text": "AC = 4000 7x+4 + 10000 x x x x"
+        },
+        {
+          "letter": "C",
+          "text": "AC = 4000 7x+4 + 10000"
+        },
+        {
+          "letter": "D",
+          "text": "AC = 4000 7x+4 + 1000 x x2 x x"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (A).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    },
+    {
+      "canonicalNodeCode": "FND_P3_CH8",
+      "questionType": "MCQ",
+      "difficulty": "MEDIUM",
+      "questionText": "The marginal revenue of a function MR = 7-4x-x2. Find the total Revenue.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R = 7x- 4x2 - x3"
+        },
+        {
+          "letter": "B",
+          "text": "R = 7x+ 4x2 - x3 23 23"
+        },
+        {
+          "letter": "C",
+          "text": "R = 7x- 4x2 + x3"
+        },
+        {
+          "letter": "D",
+          "text": "R = 7x+ 4x2 + x3 23 23 ANSWERS Set C 1 (a) 2 (b) 3(c) 4 (b) 5 (a) 6 (b) 7 (d) 8 (c) 9 (a) 10 (b) 11 (c) 12 (d) 13 (b) 14 (a) 15 (b) 16 (d) 17 (a) 18 (a) 19 (c) 20 (d) 21 (c) 22 (a) 23 (c) 24 (a) 25 (a) 26 (b) 27 (a) 28 (a) 29 (b) 30 (a)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Correct answer according to official ICAI Study Material for Basic Applications of Differential and Integral Calculus is (D).",
+      "sourceYear": 2026,
+      "sourceMonth": 5
+    }
+  ]
+}

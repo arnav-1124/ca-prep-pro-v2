@@ -1,0 +1,1749 @@
+       2.58         BUSINESS LAWS
+
+       UNIT-3: OTHER ESSENTIAL ELEMENTS OF A
+                               CONTRACT
+
+                                        LEARNING OUTCOMES
+
+After studying this Chapter, you will be able to understand:
+
+ The various ingredients of incapacity to contract.
+ The legal consequence of contracting with a minor.
+ The concept of `consensus ad idem' i.e. parties agreeing upon the
+
+       same thing in the same sense.
+ The characteristics of different elements vitiating free consent and
+
+       particularly to distinguish amongst fraud, misrepresentation and
+       mistake.
+ The circumstances when object and consideration become
+       unlawful.
+ Agreements opposed to public policy.
+
+UNIT OVERVIEW
+
+                                  Essential Elements of a Valid
+                                               Contract
+
+       Capacity to                                        Free            Lawful           Not
+        Contract                                       Consent       Consideration      Expressly
+                                                                                        declared
+                                                   Not Caused by        & Object
+                                                                                          Void
+       Sound             Not
+Major  Mind         Disqualified
+
+                    Coercion                        Undue     Fraud  Misrepresentation  Mistake
+                                                   Influence
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.59
+
+It has already been discussed that an agreement results from a proposal by one party and its
+acceptance by the other party. We have already discussed offer, acceptance and
+consideration in detail. We shall now discuss in detail the elements which constitute a valid
+contract enforceable in law.
+Section 10 of the Indian Contract Act, 1872 provides that an agreement in order to be a
+contract, must satisfy the following conditions:
+(1) the parties must be competent to contract;
+(2) it must be made by the free consent of the parties;
+
+(3) it must be made for a lawful consideration and with a lawful object;
+(4) it should not have been expressly declared as void by law.
+
+    3.1 CAPACITY TO CONTRACT
+
+Meaning: Capacity refers to the competence of the parties to make a contract. It is one of
+the essential elements to form a valid contract.
+Who is competent to contract (Section 11)
+Every person is competent to contract who-
+
+(A) has attained the age of majority,
+(B) is of sound mind and
+(C) is not disqualified from contracting by any law to which he is subject.
+
+(A) Age of Majority: In India, the age of majority is regulated by the Indian Majority
+         Act, 1875.
+         Every person domiciled in India shall attain the age of majority on the completion of
+         18 years of age and not before. The age of majority being 18 years, a person less
+         than that age even by a day would be minor for the purpose of contracting.
+         Law relating to Minor's agreement/Position of Minor
+         1. A contract made with or by a minor is void ab-initio: A minor is not
+                   competent to contract and any agreement with or by a minor is void from the
+                   very beginning.
+
+                   In the leading case of Mohori Bibi vs. Dharmo Das Ghose (1903), ""Mr. D a
+                   minor, mortgaged his house for Rs. 20,000 to money lender, but the
+                   mortgagee i.e. money lender has paid him Rs. 8,000. Subsequently the minor
+
+© The Institute of Chartered Accountants of India
+2.60  BUSINESS LAWS
+
+         had filed a suit for cancellation of contract. Held the contract is void as Mr. D
+         is minor and therefore he is not liable to pay anything to lender."
+
+2. No ratification after attaining majority: A minor cannot ratify the
+         agreement on attaining majority as the original agreement is void ab initio
+         and a void agreement can never be ratified.
+
+         Example 1: X, a minor makes a promissory note in favour of Y. On attaining
+         majority, he cannot ratify it and if he makes a new promissory note in place of
+         old one, here the new promissory note which he executed after attaining
+         majority is also void being without consideration.
+
+3. Minor can be a beneficiary or can take benefit out of a contract: Though a
+         minor is not competent to contract, nothing in the Contract Act prevents the
+         minor from making the other party bound to him. Thus, a promissory note
+         duly executed in favour of a minor is not void and can be sued upon by him,
+         because he though incompetent to contract, may yet accept a benefit.
+
+         A minor cannot become partner in a partnership firm. However, he may with
+         the consent of all the partners, be admitted to the benefits of partnership
+         (Section 30 of the Indian Partnership Act, 1932).
+
+         Example 2: A mortgage was executed in favour of a minor. Held, he can get a
+         decree for the enforcement of the mortgage.
+
+4. A minor can always plead minority: A minor can always plead minority and
+         is not stopped to do so even where he has taken any loan or entered into any
+         contract by falsely representing that he was major. Rule of estoppel cannot be
+         applied against a minor. It means he can be allowed to plea his minority in
+         defence.
+
+         Example 3: A, a minor has falsely induced himself as major and contracted
+         with Mr. X for loan of ` 20,000. When Mr. X asked for the repayment A denied
+         to pay. He pleaded that he was a minor so cannot enter into any contract.
+         Held, A cannot be held liable for repayment of amount. However, if he has not
+         spent the same, he may be asked to repay it but the minor shall not be liable
+         for any amount which he has already spent even though he received the same
+         by fraud. Thus, a minor can always plead minority and is not estopped from
+         doing so even where he had produced a loan or entered into some other
+         contract by falsely representing that he was of full age, when in reality he was
+         a minor.
+
+5. Liability for necessaries: The case of necessaries supplied to a minor or to
+         any other person whom such minor is legally bound to support is governed by
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.61
+
+         section 68 of the Indian Contract Act. A claim for necessaries supplied to a
+         minor is enforceable by law. But a minor is not liable for any price that he may
+         promise and never for more than the value of the necessaries. There is no
+         personal liability of the minor, but only his property is liable.
+
+         To render minor's estate liable for necessaries two conditions must be
+         satisfied.
+
+         (i) The contract must be for the goods reasonably necessary for his
+                   support in the station in life.
+
+         (ii) The minor must not have already a sufficient supply of these
+                   necessaries.
+
+         Necessaries mean those things that are essentially needed by a minor. They
+         cannot include luxuries or costly or unnecessary articles. Necessaries extend
+         to all such things as reasonable persons would supply to an infant in that class
+         of society to which the infant belongs. Expenses on minor's education, on
+         funeral ceremonies come within the scope of the word `necessaries'.
+
+         The whole question turns upon the minor's status in life. Utility rather than
+         ornament is the criterion.
+
+         Example 4: Shruti being a minor purchased a laptop for her online classes of
+         ` 70,000 on credit from a shop. But her assets could pay only ` 20,000. The
+         shop keeper could not hold Shruti personally liable and could recover only
+         amount recoverable through her assets i.e. upto ` 20,000.
+
+6. Contract by guardian - how far enforceable: Though a minor's agreement is
+         void, his guardian can, under certain circumstances enter into a valid contract
+         on minor's behalf. Where the guardian makes a contract for the minor, which
+         is within his competence and which is for the benefit of the minor, there will
+         be valid contract which the minor can enforce.
+
+         But all contracts made by guardian on behalf of a minor are not valid. For
+         instance, the guardian of a minor has no power to bind the minor by a contact
+         for the purchase of immovable Property. But a contract entered into by a
+         certified guardian (appointed by the Court) of a minor, with the sanction of
+         the court for the sale of the minor's property, may be enforced by either party
+         to the contract.
+
+7. No specific performance: A minor's agreement being absolutely void, there
+         can be no question of the specific performance of such an agreement.
+
+© The Institute of Chartered Accountants of India
+2.62  BUSINESS LAWS
+
+8. No insolvency: A minor cannot be declared insolvent as he is incapable of
+         contracting debts and dues are payable from the personal properties of minor
+         and he shall never be held personally liable.
+
+9. Partnership: A minor being incompetent to contract cannot be a partner in a
+         partnership firm, but under Section 30 of the Indian Partnership Act, he can be
+         admitted to the benefits of partnership.
+
+10. Minor can be an agent: A minor can act as an agent. But he will not be liable
+         to his principal for his acts. A minor can draw, deliver and endorse negotiable
+         instruments without himself being liable.
+
+         Example 5: A minor can have an account in the bank. He can draw a cheque
+         for his purchases. But he shall not be liable for cheque bounces nor can he be
+         sued under court of law for any fraud done from his account.
+
+11. Minor cannot bind parent or guardian: In the absence of authority, express
+         or implied, an infant is not capable of binding his parent or guardian, even for
+         necessaries. The parents will be held liable only when the child is acting as an
+         agent for parents.
+
+         Example 6: Richa a minor entered into contract of buying a scooty from the
+         dealer and mentioned that her parents will be liable for the payment of
+         scooty. The dealer sent a letter to her parents for money. The parents will not
+         be liable for such payment as the contract was entered by a minor in their
+         absence and out of their knowledge.
+
+12. Joint contract by minor and adult: In such a case, the adult will be liable on
+         the contract and not the minor. In Sain Das vs. Ram Chand, where there was
+         a joint purchase by two purchasers, one of them was a minor, it was held that
+         the vendor could enforce the contract against the major purchaser and not
+         the minor.
+
+13. Surety (Guarantor) for a minor: In a contract of guarantee when an adult
+         stands surety for a minor then he (adult) is liable to third party as there is
+         direct contract between the surety and the third party.
+
+         Example 7: Mr. X guaranteed for the purchase of a mobile phone by Krish, a
+         minor. In case of failure for payment by Krish, Mr. X will be liable to make the
+         payment.
+
+14. Minor as Shareholder: A minor, being incompetent to contract cannot be a
+         shareholder of the company. If by mistake he becomes a member, the
+         company can rescind the transaction and remove his name from register. But,
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.63
+
+                   a minor may, acting though his lawful guardian become a shareholder by
+                   transfer or transmission of fully paid shares to him.
+
+         15. Liability for torts: A tort is a civil wrong. A minor is liable in tort unless the
+                   tort in reality is a breach of contract. Thus, where a minor borrowed a horse
+                   for riding only, he was held liable when he lent the horse to one of his friends
+                   who jumped and killed the horse. Similarly, a minor was held liable for his
+                   failure to return certain instruments which he had hired and then passed on to
+                   a friend.
+
+(B) Person of sound mind: According to Section 12 of Indian Contract Act, "a person is
+         said to be of sound mind for the purposes of making a contract if, at the time when
+         he makes it is capable of understanding it and of forming a rational judgement as to
+         its effect upon his interests."
+
+         A person who is usually of unsound mind, but occasionally of sound mind, may make
+         a contract when he is of sound mind.
+
+         A person who is usually of sound mind, but occasionally of unsound mind, may not
+         make a contract when he is of unsound mind.
+
+         Example 8: A patient in a lunatic asylum, who is at intervals, of sound mind, may
+         contract during those intervals.
+
+         Example 9: A sane man, who is delirious from fever, or who is so drunk that he
+         cannot understand the terms of a contract, or form a rational judgement as to its
+         effect on his interests, cannot contract whilst such delirium or drunkenness lasts.
+
+         Position of unsound mind person making a contract: A contract by a person who
+         is not of sound mind is void.
+
+(C) Contract by disqualified persons: Besides minors and persons of unsound mind,
+         there are also other persons who are disqualified from contracting, partially or
+         wholly, so that the contracts by such person are void. Incompetency to contract may
+         arise from political status, corporate status, legal status, etc. The following persons
+         fall in this category: Foreign Sovereigns and Ambassadors, Alien enemy,
+         Corporations, Convicts, Insolvent etc.
+
+© The Institute of Chartered Accountants of India
+2.64  BUSINESS LAWS
+
+3.2 FREE CONSENT
+
+      Consent is not free when it is caused by
+
+Coercion Undue influence Fraud Misrepresentation Mistake
+
+      Contract is Voidable                         Contract is Void
+
+      Bilateral Mistake                            Unilateral Mistake
+
+As to subject matter Possibility of performance
+
+      Nature of Contract                           As to identity of person
+
+Definition of Consent according to Section 13:
+
+"two or more persons are said to consent when they agree upon the same
+thing in the same sense."
+
+Parties are said to have consented when they not only agreed upon the same thing but also
+agreed upon that thing in the same sense. `Same thing' must be understood as the whole
+content of the agreement. Consequently, when parties to a contract make some
+fundamental error as to the nature of the transaction, or as to the person dealt with or as to
+the subject-matter of the agreement, it cannot be said that they have agreed upon the same
+thing in the same sense. And if they do not agree in the same sense, there cannot be
+consent. A contract cannot arise in the absence of consent.
+
+If two persons enter into an apparent contract concerning a particular person or ship, and it
+turns out that each of them, misled by similarity of name, had a different person or ship in
+his mind, no contract would exist between them as they were not ad idem, i.e., of the same
+mind. Again, ambiguity in the terms of an agreement, or an error as to the nature of any
+transaction or as to the subject-matter of any agreement may prevent the formation of any
+contract on the ground of absence of consent. In the case of fundamental error, there is
+really no consent whereas, in the case of mistake, there is no real consent.
+
+© The Institute of Chartered Accountants of India
+    THE INDIAN CONTRACT ACT, 1872                                   2.65
+
+As has been said already, one of the essential elements of a contract is consent and there
+cannot be a contract without consent. Consent may be free or not free. Only free consent is
+necessary for the validity of a contract.
+
+Definition of `Free Consent' (Section 14)
+
+Consent is said to be free when it is not caused by:
+
+1.  Coercion, as defined in Section 15; or
+
+2.  Undue Influence, as defined in Section 16; or
+
+3.  Fraud, as defined in Section 17; or
+
+4.  Misrepresentation, as defined in Section 18 or
+
+5.  Mistake, subject to the provisions of Sections 20, 21, and 22.
+
+When consent to an agreement is caused by coercion, fraud, misrepresentation, or undue
+influence, the agreement is a contract voidable at the option of the party whose consent was
+so caused. When the consent is vitiated by mistake, the contract becomes void.
+
+    3.3 ELEMENTS VITIATING FREE CONSENT
+
+We shall now explain these elements one by one.
+
+I   Coercion (Section 15)
+
+"Coercion' is the committing, or threatening to commit, any act forbidden by the Indian Penal
+Code or the unlawful detaining, or threatening to detain any property, to the prejudice of any
+person whatever, with the intention of causing any person to enter into an agreement."
+
+It is to be noted that the section does not require that coercion must proceed from a party
+to the contract; nor is it necessary that subject of the coercion must be the other contracting
+party, it may be directed against any third person whatever.
+
+Effects of coercion under section 19 of Indian Contract Act, 1872
+
+(i) Contract induced by coercion is voidable at the option of the party whose consent
+         was so obtained.
+
+(ii) A person to whom money has been paid or anything delivered under coercion must
+         repay or return it. (Section 72)
+
+Threat to commit suicide ­ Whether is it coercion?
+
+Suicide though forbidden by Indian Penal Code is not punishable, as a dead man cannot be
+punished. But Section 15 declares that committing or threatening to commit any act
+
+   © The Institute of Chartered Accountants of India
+    2.66  BUSINESS LAWS
+
+forbidden by Indian Penal Code is coercion. Hence, a threat to commit suicide will be
+regarded as coercion.
+
+Example 10: Where husband obtained a release deed from his wife and son under a threat
+of committing suicide, the transaction was set aside on the ground of coercion, suicide
+being forbidden by the Indian Penal Code.
+
+Example 11: An agent refused to give books of accounts to the principal unless he frees
+him from all his liabilities. The principal had to give the release deed. Held, the contract was
+under coercion by unlawful detaining of the principal's property.
+
+II  Undue influence (Section 16)
+
+According to section 16 of the Indian Contract Act, 1872, "A contract is said to be induced
+by `undue influence' where the relations subsisting between the parties are such that one of
+the parties is in a position to dominate the will of the other and he uses that position to
+obtain an unfair advantage over the other".
+
+Example 12: A having advanced money to his son, B, during his minority, upon B's coming
+of age obtains, by misuse of parental influence, a bond from B for a greater amount than the
+sum due in respect of the advance. A employs undue influence.
+
+The essential ingredients under this provision are:
+
+(1) Relation between the parties: A person can be influenced by the other when a near
+         relation between the two exists.
+
+(2) Position to dominate the will: Relation between the parties exist in such a manner
+         that one of them is in a position to dominate the will of the other. A person is
+         deemed to be in such position in the following circumstances:
+
+    (a) Real and apparent authority: Where a person holds a real authority over the
+             other as in the case of master and servant, doctor and patient and etc.
+
+    Example 13: A father, by reason of his authority over the son can dominate
+    the will of the son.
+
+    (b) Fiduciary relationship: Where relation of trust and confidence exists between
+             the parties to a contract. Such type of relationship exists between father and
+             son, solicitor and client, husband and wife, creditor and debtor, etc.
+
+    Example 14: By reason of fiduciary relationship, a solicitor can dominate the
+    will of his client and a trustee can dominate the will of the beneficiary.
+
+    Example 15: A spiritual guru induced his devotee to gift to him the whole of
+    his property in return of a promise of salvation of the devotee. Held, the
+    consent of the devotee was given under undue influence. Here, the
+
+    © The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.67
+
+                   relationship was fiduciary relationship between Guru and devotee and Guru
+                   was in a position to dominate the will of devotee.
+
+         (c) Mental distress: An undue influence can be used against a person to get his
+                   consent on a contract where the mental capacity of the person is temporarily
+                   or permanently affected by the reason of mental or bodily distress, illness or
+                   of old age.
+
+                   Example 16: A doctor is deemed to be in a position to dominate the will of
+                   his patient enfeebled by protracted illness.
+
+         (d) Unconscionable bargains: Where one of the parties to a contract is in a
+                   position to dominate the will of the other and the contract is apparently
+                   unconscionable i.e., unfair, it is presumed by law that consent must have been
+                   obtained by undue influence. Unconscionable bargains are witnessed mostly
+                   in money-lending transactions and in gifts.
+
+                   Example 17: A, being in debt to B, the money-lender of his village, contracts a
+                   fresh loan on terms which appear to be unconscionable. It lies on B to prove
+                   that the contract was not induced by undue influence.
+
+                   Example 18: A applies to a banker for a loan at a time when there is a
+                   stringency in money market. The banker declines to make the loan except at
+                   an unusually high rate of interest. A accepts the loan on these terms. This is a
+                   transaction in the ordinary course of business, and the contract is not induced
+                   by undue influence.
+
+(3) The object must be to take undue advantage: Where the person is in a position to
+         influence the will of the other in getting consent, must have the object to take
+         advantage of the other.
+
+         Example 19: A teacher asks her daughter to get marry to one of his brilliant
+         students. Both the girl and boy were smart, settled and intelligent. Here the teacher
+         had a relation which can have influence on both of them. But as no undue advantage
+         of such influence was taken such contract of marriage is said to be made by free
+         consent.
+
+(4) Burden of proof: When a party to contract decides to avoid the contract on the
+         ground of undue influence, he has to prove that-
+
+         (a) The other party is in position to dominate his will,
+
+         (b) the other party actually used his position to obtain his consent,
+
+         (c) transaction is unfair or unconscionable.
+
+© The Institute of Chartered Accountants of India
+2.68  BUSINESS LAWS
+
+Effect of undue influence- (Section 19A)
+
+(i) When consent to an agreement is caused by undue influence, the agreement is a
+         contract voidable at the option of the party whose consent was so caused.
+
+(ii) Any such contract may be set aside either absolutely or, if the party who was entitled
+         to avoid it has received any benefit thereunder, upon such terms and conditions as to
+         the Court may seem just.
+
+Example 20: A, a money lender advances ` 1,00,000 to B, an agriculturist, and by undue
+influence induces B to execute a bond for ` 2,00,000 with interest at 6 percent per month.
+The court may set aside the bond, ordering B to repay ` 1,00,000 with such interest as may
+seem just.
+
+III Fraud (Section 17)
+
+Definition of Fraud under Section 17: `Fraud' means and includes any of the following acts
+committed by a party to a contract, or with his connivance, or by his agent, with an intent to
+deceive another party thereto or his agent, or to induce him to enter into the contract:
+
+(1) the suggestion, as a fact, of that which is not true, by one who does not believe it to
+         be true;
+
+(2) the active concealment of a fact by one having knowledge or belief of the fact;
+
+(3) a promise made without any intention of performing it;
+
+(4) any other act fitted to deceive;
+
+(5) any such act or omission as the law specially declares to be fraudulent.
+
+The following are the essential elements of the fraud:
+
+(1) There must be a representation or assertion and it must be false. However, silence
+         may amount to fraud or an active concealment may amount to fraud.
+
+         Whether Silence is fraud or not?
+
+         As per explanation of section 17, silence is fraud in following situations:
+
+         (a) There is duty to speak.
+
+                   Example 21: A sell, by auction, to B, a horse which A knows to be unsound, A
+                   says nothing to B about the unsoundness of the horse. This is not fraud by A.
+
+                   Example 22: In the above example, B is A's daughter. Here, the relation
+                   between the parties would make it A's duty to tell B if the horse is unsound.
+
+         (b) When silence is equal to speech.
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.69
+
+         Example 23: B says to A ­"If you do not deny it, I shall assume that the horse is
+         sound". A says nothing. Here A's silence is equivalent to speech.
+
+(2) The representation must be related to a fact.
+
+         Example 24: `A' who is about to sell goods says that goods cost him Rs. 50,000. This
+         is statement of fact. But if he says the goods are worth Rs. 50,000, it is a statement of
+         opinion.
+
+(3) The representation should be made before the conclusion of the contract with the
+         intention to induce the other party to act upon it.
+
+(4) The representation or statement should be made with a knowledge of its falsity or
+         without belief in its truth or recklessly not caring whether it is true or false.
+
+(5) The other party must have been induced to act upon the representation or assertion.
+
+         Example 25: `A' bought shares in a company on the faith of a prospectus which
+         contained an untrue statement that `B' was a director of the company. `A' had never
+         heard of `B' and, therefore, the statement was immaterial from his point of view. A's
+         claim for damages in this case was dismissed because the untrue statement had not
+         induced `A' to buy the shares.
+
+(6) The other party must have relied upon the representation and must have been
+         deceived.
+
+(7) The other party acting on the representation must have consequently suffered a loss.
+
+Effect of Fraud upon validity of a contract: When the consent to an agreement in caused
+by the fraud, the contract is voidable at option of the party defrauded and he has the
+following remedies:
+
+(1) He can rescind the contract within a reasonable time.
+
+(2) He can sue for damages.
+
+(3) He can insist on the performance of the contract on the condition that he shall be
+         put in the position in which he would have been had the representation made been
+         true.
+
+Exception: In the following cases, contract is not voidable:
+
+(i) If the party whose consent was caused by silence which amounting to fraud, had the
+         means of discovering the truth with ordinary diligence.
+
+(ii) A fraud which did not cause the consent of the party to agreement.
+
+© The Institute of Chartered Accountants of India
+2.70                     BUSINESS LAWS
+
+IV Misrepresentation (Section 18)
+
+According to Section 18, there is misrepresentation:
+
+(1) Statement of fact, which of false, would constitute misrepresentation if the maker
+         believes it to be true but which is not justified by the information he possesses;
+
+(2) When there is a breach of duty by a person without any intention to deceive which
+         brings an advantage to him;
+
+(3) When a party causes, even though done innocently, the other party to the agreement
+         to make a mistake as to the subject matter.
+
+         Example 26: A makes a positive statement to B that C will be made the director of a
+         company. A makes the statement on information derived, not directly from C but
+         from M. B applies for shares on the faith of the statement which turns out to be false.
+         The statement amounts to misrepresentation, because the information received
+         second-hand did not warrant A to make the positive statement to B.
+
+         Example 27: `A' believed the engine of his motor cycle to be in an excellent
+         condition. `A' without getting it checked in a workshop, told to `B' that the motor
+         cycle was in excellent condition. On this statement, `B' bought the motor cycle, whose
+         engine proved to be defective. Here, `A's statement is misrepresentation as the
+         statement turns out to be false.
+
+         Example 28: A while selling his mare to B, tells him that the mare is thoroughly
+         sound. A genuinely believes the mare to be sound although he has no sufficient
+         ground for the belief. Later on, B finds the mare to be unsound. The representation
+         made by A is a misrepresentation.
+
+         Example 29: A buy an article thinking that it is worth ` 1000 when in fact it is worth
+         only ` 500. There has been no misrepresentation on the part of the seller. The
+         contract is valid.
+
+Difference between Coercion and Undue influence:
+
+Basis of difference      Coercion                       Undue Influence
+
+Nature of action         It involves the physical force It involves moral or mental
+                         or threat. The aggrieved pressure.
+                         party is compelled to make
+                         the contract against its will.
+
+Involvement of criminal  It involves committing or      No such illegal act is
+action                   threatening to commit and      committed or a threat is given.
+                         act forbidden by Indian Penal
+                         Code or detaining or
+
+© The Institute of Chartered Accountants of India
+                THE INDIAN CONTRACT ACT, 1872            2.71
+
+                         threatening to detain
+                         property unlawfully.
+
+Relationship    between  It is not necessary that there  Some sort of relationship
+parties                  must be some sort of            between the parties is
+                         relationship between the        absolutely necessary.
+                         parties.
+
+Exercised by whom        Coercion need not proceed       Undue influence is always
+                         from the promisor nor need      exercised between parties to
+                         it be the directed against the  the contract.
+                         promisor. It can be used even
+                         by a stranger to the contract.
+
+Enforceability           The contract is voidable at     Where the consent is induced
+                         the option of the party         by undue influence, the
+                         whose consent has been          contract is either voidable or
+                         obtained by the coercion.       the court may set it aside or
+                                                         enforce it in a modified form.
+
+Position of benefits In case of coercion where the The court has the discretion to
+
+received                 contract is rescinded by the direct the aggrieved party to
+
+                         aggrieved party, as per return the benefit in whole or in
+
+                         Section 64, any benefit part or not to give any such
+
+                         received has to be restored directions.
+
+                         back to the other party.
+
+Distinction between fraud and misrepresentation:
+
+Basis of difference Fraud                                Misrepresentation
+
+Intention           To deceive the other party by There is no such intention to
+
+                    hiding the truth.                    deceive the other party.
+
+Knowledge of truth  The person making              the The person making the
+                    suggestion believes that       the statement believes it to be
+                    statement as untrue.
+                                                          true, although it is not true.
+
+Rescission of the   The injured party can repudiate      The injured party is entitled
+contract and claim  the contract and claim damages.      to repudiate the contract or
+for damages                                              sue for restitution but
+                                                         cannot claim the damages.
+
+Means to discover   The party using the fraudulent act   Party can always plead that
+the truth           cannot secure or protect himself     the injured party had the
+                    by saying that the injured party     means to discover the truth.
+                    had means to discover the truth.
+
+© The Institute of Chartered Accountants of India
+         2.72             BUSINESS LAWS
+
+         Mistake of Law   Mistake of Indian Law
+                          Mistake of Foreign Law
+
+                                                                       Quality
+
+                                                                       existence
+
+Mistake                                            Mistake as to       Identity
+                                                   subject matter        Title
+
+                          Bilateral                                      Price
+                                                                       Quantity
+
+         Mistake of Fact                              Mistake as to     Legal
+                                                      possibility of   Physical
+                                                      performance
+                          Unilateral
+                                                   Identity of person
+
+                                                      Character of
+                                                   written document
+
+Mistake: Mistake may be defined as innocent or erroneous belief which leads the party to
+misunderstand the others. Mistake may be either mistake of law or mistake of fact.
+
+Mistake of Law: Mistake of law is further classified as mistake of Indian law or mistake of
+foreign law.
+
+(i) Mistake of Indian Law: A person cannot be allowed to get any relief on the ground
+that it had done a particular act in ignorance of law.
+
+Example 30: A and B enter into a contract on the erroneous belief that a particular debt is
+barred by the Indian Law of Limitation. This contract is not voidable.
+
+(ii) Mistake of foreign law: Such a mistake is treated as mistake of fact and the
+agreement in such a case is void.
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.73
+
+Mistake of fact: Mistake of fact are of two types ­ (i) Bilateral Mistake, (ii) Unilateral Mistake
+
+(i) Bilateral mistake: Where both the parties to an agreement are under a mistake as to
+a matter of fact essential to the agreement, there is a bilateral mistake. In such a case, the
+agreement is void (Section 20).
+
+Cases of Bilateral Mistakes
+
+(i) Mistake as to the quality of the subject-matter.
+
+(ii) Mistake as to the existence of the subject-matter.
+
+(iii) Mistake as to the identity of the subject-matter.
+
+(iv) Mistake as to the title of the subject-matter.
+
+(v) Mistake as to the price of the subject-matter.
+
+(vi) Mistake as to the quantity of the subject-matter.
+
+(ii) Unilateral Mistake: According to Section 22, a contract is not voidable merely
+because it was caused by one of the parties to it being under a mistake as to a matter of
+fact.
+
+    3.4 LEGALITY OF OBJECT AND CONSIDERATION
+
+Which considerations and objects are lawful, and those which are not (Section 23):
+
+Under Section 23 of the Indian Contract Act, in each of the following cases the consideration
+or object of an agreement is said to be unlawful:
+
+(i) When consideration or object is forbidden by law: Acts forbidden by law are those
+         which are punishable under any statute as well as those prohibited by regulations or
+         orders made in exercise of the authority conferred by the legislature.
+
+         Example 31: A father had arranged for marriage of his 17 years boy and took dowry
+         from the girl's parents. Such marriage contract cannot take place as in India the
+         minimum age for boy marriage is 21 years and dowry is not permissible in Indian law.
+         Such is not a valid contract as the consideration and object both are forbidden by
+         law.
+
+(ii) When consideration or object are of such a nature that if permitted it would
+         defeats the provisions of law:
+
+         If the consideration or the object of an agreement is of such a nature that not directly
+         but indirectly, it would defeat the provisions of the law, the agreement is void.
+
+© The Institute of Chartered Accountants of India
+2.74  BUSINESS LAWS
+
+         Example 32: A's estate is sold for arrears of revenue under the provisions of an Act
+         of the Legislature, by which the defaulter is prohibited from purchasing the estate. B,
+         upon an understanding with A, becomes the purchaser, and agrees to convey the
+         estate to A upon receiving from him the price which B has paid. The agreement is
+         void, as it renders the transaction, in effect, a purchase by the defaulter, and would
+         so defeat the object of the law.
+
+(iii) When it is fraudulent: Agreements which are entered into to promote fraud are
+         void.
+
+         Example 33: A, B and C enter into an agreement for the division among them of
+         gains acquired, or to be acquired, by them by fraud. The agreement is void, as its
+         object, viz., acquisition of gains by fraud is unlawful.
+
+(iv) The general term "injury" means criminal or wrongful harm. In the following
+         examples, the object or consideration is unlawful as it involves injury to the person or
+         property of another.
+
+         Example 34: An agreement to print a book in violation of another's copyright is void,
+         as the object is to cause injury to the property of another. It is also void as the object
+         of the agreement is forbidden by the law relating to copyright.
+
+         Example 35: A promises to repay his debt by doing manual labour daily for a special
+         period and agrees to pay interest at an exorbitant rate in case of default. Here A's
+         promise to repay by manual labour is the consideration for the loan, and this
+         consideration is illegal as it imposes what, in substance, amounts to slavery on the
+         part of A. In other words, as the consideration involves injury to the person A, the
+         consideration is illegal. Here, the object too is illegal, as it seeks to impose slavery
+         which is opposed to public policy. Hence, the agreement is void.
+
+(v) When consideration is immoral: The following are the examples of agreements
+         where the object or consideration is unlawful, being immoral.
+
+         Example 36: Where P had advanced money to D, a married woman to enable her to
+         obtain a divorce from her husband and D had agreed to marry him as soon as she
+         could obtain the divorce, it was held that P was not entitled to recover the amount,
+         since the agreement had for its object the divorce of D from her husband and the
+         promise of marriage given under these circumstances was against good morals.
+
+         Example 37: A asks B, "If you arrange a girl for marriage with me, I will give
+         ` 50,000." Here contract is void as it is immoral.
+
+(vi) When consideration is opposed to public policy: The expression `public policy' can
+         be interpreted either in a wide or in a narrow sense. The freedom to contract may
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.75
+
+         become illusory, unless the scope of `public policy' is restricted. In the name of public
+         policy, freedom of contract is restricted by law only for the good for the community.
+
+         Some of the agreements which are held to be opposed to public policy
+         are-
+
+(1) Trading with enemy: Any trade with person owing allegiance to a Government at
+         war with India without the licence of the Government of India is void, as the object is
+         opposed to public policy. Here, the agreement to trade offends against the public
+         policy by tending to prejudice the interest of the State in times of war.
+
+         Example 38: India entered in war like situation with China. Mr. A from India entered
+         into contract with China for import of toys. Such contract is void as China is alien
+         enemy of India. The contract if made before such war like situation may be
+         suspended or dissolved. Like India felt apps like tik tok and PUBG will provide some
+         internal information of the country, hence such apps were banned and any contract
+         with them were dissolved.
+
+(2) Stifling Prosecution: An agreement to stifle prosecution i.e. "an agreement to
+         present proceedings already instituted from running their normal course using force"
+         tends to be a perversion or an abuse of justice; therefore, such an agreement is void.
+         The principle is that one should not make a trade of felony. The compromise of any
+         public offence is generally illegal.
+
+         Under the Indian Criminal Procedure Code, there is, however, a statutory list of
+         compoundable offences and an agreement to drop proceeding relating to such
+         offences with or without the permission of the Court, as the case may be, in
+         consideration the accused promising to do something for the complainant, is not
+         opposed to public policy. Thus, where A agrees to sell certain land to B in
+         consideration of B abstaining from taking criminal proceeding against A with respect
+         to an offence which is compoundable, the agreement is not opposed to public policy.
+         But, it is otherwise, if the offence is uncompoundable.
+
+(3) Maintenance and Champerty: Maintenance is an agreement in which a person
+         promises to maintain suit in which he has no interest.
+
+         Example 39: A offer B ` 2000, if he sues C for a case which they could have settled
+         mutually under provisions of law, just to annoy C. Such agreement is maintenance
+         agreement.
+
+         Champerty is an agreement in which a person agrees to assist another in litigation in-
+         exchange of a promise to hand over a portion of the proceeds of the action.
+
+© The Institute of Chartered Accountants of India
+2.76  BUSINESS LAWS
+
+         Example 40: A agrees to pay expenses to B if he sues C and B agrees to pay half of
+         the amount received from result of such suit. This is an agreement of champerty. The
+         agreement for supplying funds by way of Maintenance or Champerty is valid unless
+
+         (a) It is unreasonable so as to be unjust to other party or
+
+         (b) It is made by a malicious motive like that of gambling in litigation or
+                   oppressing other party by encouraging unrighteous suits and not with the
+                   bonafide object of assisting a claim believed to be just.
+
+(4) Trafficking relating to Public Offices and titles: An agreement to trafficking in
+         public office is opposed to public policy, as it interferes with the appointment of a
+         person best qualified for the service of the public. Public policy requires that there
+         should be no money consideration for the appointment to an office in which the
+         public is interested. The following are the examples of agreements that are void;
+         since they are tantamount to sale of public offices.
+
+         (1) An agreement to pay money to a public servant in order to induce him to
+                   retire from his office so that another person may secure the appointment is
+                   void.
+
+         (2) An agreement to procure a public recognition like Padma Vibhushan for
+                   reward is void.
+
+         Example 41: Harish paid ` 15000 to the officer to give his son the job in the Forest
+         department of India. On failure by officer he couldn't recover the amount as such
+         contract amounts to trafficking in public office which is opposed to public policy.
+
+(5) Agreements tending to create monopolies: Agreements having for their object the
+         establishment of monopolies are opposed to public policy and therefore void.
+
+         Example 42: XYZ and ABC were only the manufactures of oxygen cylinders in West
+         Bengal. They both entered into contract of supplying the same at very high rates and
+         enjoy the monopoly rates during the covid period in the country. Such contract is
+         opposed to public policy as they intended to create monopolies.
+
+(6) Marriage brokerage agreements: An agreement to negotiate marriage for reward,
+         which is known as a marriage brokerage contract, is void, as it is opposed to public
+         policy. For instance, an agreement to pay money to a person hired to procure a wife
+         is opposed to public policy and therefore void.
+
+         Note: Marriage bureau only provides information and doesn't negotiate marriage for
+         reward, therefore, it is not covered under this point.
+
+(7) Interference with the course of justice: An agreement whose object is to induce
+         any judicial officer of the State to act partially or corruptly is void, as it is opposed to
+
+© The Institute of Chartered Accountants of India
+              THE INDIAN CONTRACT ACT, 1872                      2.77
+
+         public policy; so also is an agreement by A to reward B, who is an intended witness in
+         a suit against A in consideration of B's absenting himself from the trial. For the same
+         reasons, an agreement which contemplates the use of under-hand means to
+         influence legislation is void.
+
+(8) Interest against obligation: The following are examples of agreement that are void
+         as they tend to create an interest against obligation. The object of such agreements
+         is opposed to public policy.
+
+         (1) An agreement by an agent to receive without his principal's consent
+                   compensation from another for the performance of his agency is invalid.
+
+         (2) A, who is the manager of a firm, agrees to pass a contract to X if X pays to A `
+                   200,000 privately; the agreement is void.
+
+(9) Consideration Unlawful in Part: By virtue of Section 24, if any part of a single
+         consideration for one or more objects, or any one or any part of any one of several
+         considerations for a single object, is unlawful, the agreement is void."
+
+         This section is an obvious consequence of the general principle of Section 23. There
+         is no promise for a lawful consideration if there is anything illegal in a consideration
+         which must be taken as a whole. The general rule is that where the legal part of a
+         contract can be severed from the illegal part, the bad part may be rejected and the
+         good one can be retained. But where the illegal part cannot be severed, the contract
+         is altogether void.
+
+3.5 VOID AGREEMENTS
+
+              Expressly declared Void Agreements
+
+1. Made by incompetent parties 6. Agreement in restraint of marriage
+
+(Section 11)                                       (Section 26)
+
+2. Agreements made under Bilateral 7. Agreements in restraint of trade
+
+mistake of fact (Section 20)                       (Section 27)
+
+3. Agreements the consideration or 8. Agreement in restraint of legal
+
+object of which is unlawful (Section               proceedings (Section 28)
+
+23)
+
+4. Agreement the consideration or 9. Agreement the meaning of which is
+
+object of which is unlawful in parts               uncertain (Section 29)
+
+(Section 24)
+
+© The Institute of Chartered Accountants of India
+2.78                  BUSINESS LAWS
+
+5. Agreements   made        without 10. Wagering Agreement (Section 30)
+
+consideration (Section 25)                11. Agreements to do impossible Acts
+                                                 (Section 56)
+[Refer Unit 2]
+
+(1) Agreement in restraint of marriage (Section 26): Every agreement in restraint of
+         marriage of any person other than a minor, is void. So, if a person, being a major,
+         agrees for good consideration not to marry, the promise is not binding and
+         considered as void agreement.
+
+(2) Agreement in restraint of trade (Section 27): An agreement by which any person is
+         restrained from exercising a lawful profession, trade or business of any kind, is to that
+         extent void. But this rule is subject to the following exceptions, namely, where a
+         person sells the goodwill of a business and agrees with the buyer to refrain from
+         carrying on a similar business, within specified local limits, so long as the buyer or his
+         successor in interest carries on a like business therein, such an agreement is valid
+         (goodwill is the advantage enjoyed by a business on account of public patronage and
+         encouragement from habitual customers). The local limits within which the seller of
+         the goodwill agrees not to carry on similar business must be reasonable. Under
+         Section 36 of the Indian Partnership Act, 1932 if an outgoing partner makes an
+         agreement with the continuing partners that he will not carry on any business similar
+         to that of the firm within a specified period or within specified local limits, such an
+         agreement, thought in restraint of trade, will be valid, if the restrictions imposed are
+         reasonable. Similarly, under Section 11 of that Act an agreement between partners
+         not to carry on competing business during the continuance of partnership is valid.
+
+         But an agreement of service by which an employee binds himself, during the term of
+         his agreement, not to compete with his employer is not in restraint of trade.
+
+         Example 43: B, a physician and surgeon, employs A as an assistant for a term of
+         three years and A agrees not to practice as a surgeon and physician during these
+         three years. The agreement is valid and A can be restrained by an injunction if he
+         starts independent practice during this period.
+
+         Example 44: An agreement by a manufacturer to sell during a certain period his
+         entire production to a wholesale merchant is not in restraint of trade.
+
+         Example 45: Agreement among the sellers of a particular commodity not to sell the
+         commodity for less than a fixed price to maintain the quality of the product, is not an
+         agreement in restraint of trade.
+
+(3) Agreement in restraint of legal proceedings (Section 28): An agreement in
+         restraint of legal proceeding is the one by which any party thereto is restricted
+
+© The Institute of Chartered Accountants of India
+    THE INDIAN CONTRACT ACT, 1872                         2.79
+
+absolutely from enforcing his rights under a contract through a Court or which
+abridges the usual period for starting legal proceedings. A contract of this nature is
+void.
+
+However, there are certain exceptions to the above rule:
+
+(i) A contract by which the parties agree that any dispute between them in
+         respect of any subject shall be referred to arbitration and that only the
+         amount awarded in such arbitration shall be recoverable is a valid contract.
+
+(ii) Similarly, a contract by which the parties agree to refer to arbitration any
+         question between them which has already arisen or which may arise in future,
+         is valid; but such a contract must be in writing.
+
+(4) Agreement - the meaning of which is uncertain (Section 29): An agreement, the
+         meaning of which is not certain, is void, but where the meaning thereof is capable of
+         being made certain, the agreement is valid.
+
+Example 46: A agrees to sell B "a hundred tons of oil". There is nothing whatever to
+show what kind of oil was intended. The agreement is void for uncertainty. But the
+agreement would be valid if A was dealer only in coconut oil; because in such a case
+its meaning would be capable of being made certain.
+
+(5) Wagering agreement (Section 30): An agreement by way of a wager is void. It is an
+         agreement involving payment of a sum of money upon the determination of an
+         uncertain event. The essence of a wager is that each side should stand to win or lose,
+         depending on the way an uncertain event takes place in reference to which the chance
+         is taken and in the occurrence of which neither of the parties has legitimate interest.
+
+Example 47: A agrees to pay ` 50,000 to B if it rains, and B promises to pay a like
+amount to A if it does not rain, the agreement will be by way of wager. But if one of
+the parties has control over the event, agreement is not a wager.
+
+Essentials of a Wager
+
+1.  There must be a promise to pay money or money's worth.
+
+2.  Promise must be conditional on an event happening or not happening.
+
+3.  There must be uncertainty of event.
+
+4.  There must be two parties, each party must stand to win or lose.
+
+5.  There must be common intention to bet at the timing of making such
+
+    agreement.
+
+6.  Parties should have no interest in the event except for stake.
+
+© The Institute of Chartered Accountants of India
+2.80  BUSINESS LAWS
+
+Transactions similar to Wager (Gambling)
+
+(i) Lottery transactions: A lottery is a game of chance and not of skill or knowledge.
+         Where the prime motive of participant is gambling, the transaction amounts to a
+         wager. Even if the lottery is sanctioned by the Government of India it is a wagering
+         transaction. The only effect of such sanction is that the person responsible for
+         running the lottery will not be punished under the Indian Penal Code. Lotteries are
+         illegal and even collateral transactions to it are tainted with illegality (Section 294A of
+         Indian Penal Code).
+
+(ii) Crossword Puzzles and Competitions: Crossword puzzles in which prizes depend
+         upon the correspondence of the competitor's solution with a previously prepared
+         solution kept with the editor of a newspaper is a lottery and therefore, a wagering
+         transaction.
+
+         Case Law: State of Bombay vs. R.M.D. Chamarbangwala AIR (1957)
+
+         Facts: A crossword puzzle was given in magazine. Abovementioned clause was stated
+         in the magazine. A solved his crossword puzzle and his solution corresponded with
+         previously prepared solution kept with the editor. Held, this was a game of chance
+         and therefore a lottery (wagering transaction).
+
+         Crossword puzzles, picture competitions and athletic competitions where prizes are
+         awarded on the basis of skill and intelligence are the games of skill and hence such
+         competitions are valid. According to the Prize Competition Act, 1955 prize
+         competitions in games of skill are not wagers provided the prize money does not
+         exceed ` 1,000.
+
+(iii) Speculative transactions: an agreement or a share market transaction where the
+         parties intend to settle the difference between the contract price and the market
+         price of certain goods or shares on a specified day, is a gambling and hence void.
+
+(iv) Horse Race Transactions: A horse race competition where prize payable to the bet
+         winner is less than ` 500, is a wager.
+
+         Example 48: A and B enter into an agreement in which A promises to pay ` 2,00,000
+         provided `Chetak' wins the horse race competition. This is not a wagering transaction.
+
+         However, Section 30 is not applicable in an agreement to contribute toward plate,
+         prize or sum of money of the value of ` 500 or above to be awarded to the winner of
+         a horse race.
+
+© The Institute of Chartered Accountants of India
+       THE INDIAN CONTRACT ACT, 1872                             2.81
+
+Transactions resembling with wagering transaction but are not void
+
+(i) Chit fund: Chit fund does not come within the scope of wager (Section 30). In case
+         of a chit fund, a certain number of persons decide to contribute a fixed sum for a
+         specified period and at the end of a month, the amount so contributed is paid to the
+         lucky winner of the lucky draw.
+
+(ii) Commercial transactions or share market transactions: In these transactions in
+         which delivery of goods or shares is intended to be given or taken, do not amount to
+         wagers.
+
+(iii) Games of skill and Athletic Competition: Crossword puzzles, picture competitions
+         and athletic competitions where prizes are awarded on the basis of skill and
+         intelligence are the games of skill and hence such competition are valid. According to
+         the Prize Competition Act, 1955 prize competition in games of skill are not wagers
+         provided the prize money does not exceed ` 1,000.
+
+(iv) A contract of insurance: A contract of insurance is a type of contingent contract and
+         is valid under law and these contracts are different from wagering agreements.
+
+Distinction between Contract of Insurance and Wagering Agreement
+
+Basis              Contracts of Insurance Wagering Agreement
+
+1. Meaning         It is a contract                to It is a promise to pay money or
+                   indemnify the loss.                  money's worth on the
+                                                        happening or non- happening
+                                                        of an uncertain event.
+
+2. Consideration   The crux of insurance                         There is no consideration
+                                                                 between the two parties. There
+                   contract is the mutual                        is just gambling for money.
+
+                   consideration (premium
+
+                   and                             compensation
+
+                   amount).
+
+3. Insurable       Insured party has                             There is no property in case of
+     Interest      insurable interest in the                     wagering agreement.
+                   life or property sought to
+                   be insured.                                   There is betting on other's life
+                                                                 and properties.
+
+4. Contract        of Except life insurance, the Loser has to pay the fixed
+     Indemnity           contract of insurance amount on the happening of
+                         indemnifies the insured uncertain event.
+                         person against loss.
+
+5. Enforceability  It is valid                     and It is void and unenforceable
+                   enforceable                             agreement.
+
+© The Institute of Chartered Accountants of India
+2.82               BUSINESS LAWS
+
+6. Premium         Calculation of premium          No such logical calculations are
+7. Public Welfare  is based on scientific and      required in case of wagering
+                   actuarial calculation of        agreement.
+                   risks.
+
+                   They are beneficial to the They have been regarded as
+
+                   society.                        against the public welfare.
+
+SUMMARY
+
+The following persons are incompetent to contract: (a) minor, (b) persons of unsound mind,
+(c) other disqualified persons.
+
+(a) Minor: Agreement with a minor is altogether void but his property is liable for
+         necessaries supplied to him. He cannot be a partner but can be admitted to benefits
+         of partnership with the consent of all partners. He can always plead minority and
+         cannot be asked to compensate for any benefit received under a void agreement.
+         Under certain circumstances, a guardian can enter into valid contract on behalf of
+         minor. Minor cannot ratify a contract on attaining majority.
+
+(b) Persons of unsound mind: Persons of unsound mind such as idiots, lunatics and
+         drunker cannot enter into a contract, but a lunatic can enter into a valid contract
+         when he is in a sound state of mind. The liability for necessities of life supplied to
+         persons of unsound mind is the same as in case of minors. (Section 68).
+
+(c) Certain other persons are disqualified due to their status.
+
+Free Consent
+
+Two or more persons are said to consent when they agree upon the same thing in the same
+sense (Section 13). Consent is free when it is not caused by mistake, misrepresentation, undue
+influence, fraud or coercion. When consent is caused by any of above said elements, the
+contract is voidable at the option of the party whose consent was so caused (Sections 19 and
+19A)
+
+(a) Coercion: Coercion is the committing or threatening to commit any act, forbidden by
+         the Indian Penal Code or the unlawful detaining or threatening to detain, any
+         property, to the prejudice of any person with the intention of causing any person to
+         enter into an agreement (Section 15). A contract induced by coercion is voidable at
+         the option of the aggrieved party.
+
+(b) Undue influence: When one party to a contract is able to dominate the will of the
+         other and uses the position to obtain an unfair advantage, the contract is said to be
+         induced by undue influence. (Section 16). Such contract is voidable, not void.
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                                                      2.83
+
+(c) Fraud: Fraud exists when a false representation has been made knowingly with an
+         intention to deceive the other party, or to induce him to enter a contract (Section 17).
+         Contract in the case is voidable.
+
+(d) Misrepresentation: Means a misstatement of a material fact made believing it to be
+         true, without an intent to deceive the other party (Section 18). Contract will be
+         voidable in this case.
+
+(e) Mistake: When both the parties are at a mistake to a matter of fact to the
+         agreement, the agreement is altogether void.
+
+Lawful Object and Consideration
+
+An agreement where the object or the consideration is unlawful, is void. Object or
+consideration is unlawful if it is forbidden by law, it defeats the provisions of law; or is
+fraudulent, or involves injury to the person or property of another; or is immoral; or is
+opposed to public policy.
+
+Besides the above said agreements, certain agreements have been expressly declared to be
+
+void by the Contract Act such as - wagering agreements, agreement with uncertain
+
+meaning, agreements where consideration is unlawful in part etc.
+
+Minor: Sec.3 Indian Majority Act, 1875: Minor who is                               1. Contract with person
+under 18 years.                                                                    of unsound mind is
+                                                                                   void.
+                  Position of a contract with Minor                                2. Person usually
+                                                                                   Unsound. sometimes
+1.Agreement with or by minor is                    10. Minor can be an agent       sound - can contract
+void-ab-initio agreement                           without incurring any           when sound.
+                                                   personal liability.             3. Person usually sound.
+2. Cannot be ratified on attaining                                                 sometimes unsound -
+majority.                                          11. Parents/guardians are       cannot contract when
+                                                   not liable for the contract     unsound.
+3.Minor can be a beneficiary or can                entered into by him.
+take benefit out of a contract.                                                      Disqualified by Law
+                                                   12. In case of joint contract   1. Foreign sovereigns
+4.Minor can always plead minority.                 by adult and minor, only        (Rulers)
+                                                   adult is liable.                2. Alien Enemy
+5.Minor's estate is liable for                                                     3. Corporations
+necessaries.                                       13. If adult is surety for      4. Convicts.
+                                                   minor, adult is liable as
+6.Minor is personally liable for                   direct contract between
+contracts for his benefit or supply of             adult and third party.
+necessaries entered by guardian
+within scope of authority.                         14. Shares cannot be
+                                                   allotted to minor but minor
+7. No specific performance can be                  can become a shareholder
+claimed.                                           by transfer or transmission
+                                                   of fully paid shares to him.
+8. Minor cannot be adjusted
+insolvent.                                         15. Minor is Liable for torts.
+
+9.Minor cannot enter into partnership.
+
+© The Institute of Chartered Accountants of India
+                 2.84          BUSINESS LAWS
+
+                           CONSENT & FREE CONSENT
+
+Consent: "Two or more persons are said to consent when they agree upon the same
+thing in the same sense." (Consensus-ad-idem). When there is no consent, there is no
+contract.
+
+Free Consent (Sec.14): Consent is said to be free when it is not caused by
+
+   Coercion      Undue Influence                           Fraud (Sec. 17)               Mis-       Mistake (Sec.
+    (Sec. 15)         (Sec. 16)                    (i) Knowingly make a false    representation     20 to Sec.22)
+                                                   suggestion.
+(i) Committing   One party is in the                                                  (Sec. 18)     Mistake of
+or threatening                                     (ii) Active concealment of a                     Law
+to commit any    position      to                  fact                          (i) False
+act forbidden                                                                    statement but      (i) Mistake of
+by IPC           dominate the will                 (iii) Promise without any     maker believes it  law of the
+                                                   intention of performance.     to be true.        country-
+(ii) Unlawful    of other and it
+detaining or                                       (iv) Any other act fitted to  (ii) Breach of     Contract is
+threatening to   takes      unfair                 deceive.                      duty without       not voidable.
+detain any                                                                       any intention to
+property.        advantages of                     (v) Act or omission           deceive.           (ii) Mistake of
+                                                   declared by law as fraud.                        law of a
+Consequences     relation.                                                       (iii) Mis-         foreign
+                                                   Essentials                    representation     country-
+(i) Voidable at  Consequences                      (i) The representation must   even made          Contract is
+the option of                                      be false.                     innocently, the    void.
+party whose      (i) Voidable at the                                             other party has
+consent was      option of party                   (ii) Misrepresentation must   actually acted.    Mistake of
+so caused.                                         be made willfully.                               Fact
+                 whose consent                                                   Consequences
+(ii) Person to   was so caused.                    (iii) Misrepresentation must                     (i) Bilateral
+whom money                                         be made with intention to     Party can          Mistake-
+is paid or       (ii) Such contract                deceive the other party.
+thing            may be set aside                                                · rescind the      Contract is
+delivered        either absolutely                 (iv) The other party is       contract.          void if-
+under            or if the party                   actually deceived.
+coercion must                                                                    · insist for       mistakes
+repay or         who is entitled to                (v) The other party has       genuine            relates to
+return it.                                         suffered a loss.              performance.       material fact;
+                 avoid it has
+Burden of                                          Note. Silence amounts to                         both parties
+Proof            received      any                 fraud where:                                     are under
+                                                   (i)There is a duty to speak.                     mistake.
+Lies on the      benefit
+aggrieved                                          (ii) His silence is speech.                      (ii) Unilateral
+party            thereunder, upon                                                                   Mistake-
+                                                   Consequences                                     Contract is
+Note: Threat     such terms and                    Party can                                        neither void
+to commit                                                                                           nor voidable
+suicide is       conditions as to                  · rescind the contract.
+coercion
+                 the court may                     · insist for genuine
+                                                   performance.
+                 seem just and
+                 equitable.                        · sue for damages.
+
+                 Burden of Proof                   Note: ·If party takes any
+                                                   benefit, contract is not
+                 Firstly, Lies on the              voidable.
+                 aggrieved party
+                 after that other
+                 party has to prove
+                 that no undue
+                 influence.
+
+© The Institute of Chartered Accountants of India
+               THE INDIAN CONTRACT ACT, 1872                          2.85
+
+               UNLAWFUL OBJECT AND CONSIDERATION (Sec.23)
+
+        If          When       When it is               When           When           When
+consideration  consideration   fraudulent          consideration  consideration  consideration
+
+   or object    or object is                          involves      is immoral    is opposed
+forbidden by      of such a                           injury to                     to public
+               nature that if                        person or
+       law      permitted it                        property of                       policy
+                                                      another
+                    would
+                   defeats
+               provisions of
+
+                      law
+
+Agreements of trading with Trafficking relating to Public Interference with the course
+
+enemy                          Offices & titles.                  of justice
+
+Agreement of   stifling Agreements tending to Interest against obligation
+prosecution                create monopolies
+
+Maintenance & champerty        Marriage            brokerage Consideration unlawful in
+                               agreements                           part
+
+                               VOID AGREEMENTS
+
+Made by Incompetent Parties(S.11) Without consideration (S.25) With uncertain meaning
+                                                                                                (S.29)
+
+Under a mutual mistake of fact In restraint of marriage (S.26) Wagering Agreements (S.30)
+(S.20)
+
+Unlawful consideration or object In restraint of trade (S.27)         To do impossible act (S.56)
+(S.23)
+
+Unlawful consideration or object in In restraint of            legal
+
+part(S.24)                     proceedings (S.28)
+
+© The Institute of Chartered Accountants of India
+          2.86             BUSINESS LAWS
+
+                           WAGERING AGREEMENT (SEC. 30)
+
+Meaning:  Agreement                         Essentials             Transactions are not Wager
+                           (i) Promises to pay money
+between two parties by     (ii) Uncertain event                 (i) Chit Fund
+                           (iii)Mutual Chances of win or lose.
+which one promises to      (iv)No control over the event        (ii) Share market transactions in
+                           (v) No other interest in the event.      which delivery of stocks and
+pay money or money's                                                shares in intended to be given
+                                               Effects              & taken.
+worth on the happening     (i) Agreement is void
+                                                                (iii)Game of skill, crossword, etc.
+of same uncertain event
+                                                                (iv)a contribution toward any prize
+in consideration of the                                             value of Rs. 500 or above to
+                                                                    the awarded to the winner or
+other party's promises to                                           winners of a horse race.
+
+pay if the event does not                                       (v) A contract of insurance.
+
+happen.
+
+                           (ii) No suit to recover amount won.
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions
+
+1. Ordinarily, a minor's agreement is
+         (a) Void ab initio
+         (b) Voidable
+         (c) Valid
+         (d) Unlawful
+
+2. Consent is not said to be free when it is caused by
+         (a) Coercion
+         (b) Undue influence
+         (c) Fraud
+         (d) All of these
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.87
+
+3. When the consent of a party is obtained by fraud, the contract is;
+         (a) Void
+         (b) Voidable
+         (c) Valid
+         (d) Illegal
+
+4. The threat to commit suicide amounts to
+         (a) Coercion
+         (b) Undue influence
+         (c) Misrepresentation
+         (d) Fraud
+
+5. Moral pressure is involved in the case of
+         (a) Coercion
+         (b) Undue Influence
+         (c) Misrepresentation
+         (d) Fraud
+
+6. A wrong representation when made without any intention to deceive the other party
+         amounts to
+         (a) Coercion
+         (b) Undue influence
+         (c) Misrepresentation
+         (d) Fraud
+
+7. Which of the following statement is true?
+         (a) A threat to commit suicide does not amount to coercion
+         (b) Undue influence involves use of physical pressure
+         (c) Ignorance of law is no excuse
+         (d) Silence always amounts to fraud
+
+8. In case of illegal agreement, the collateral agreements are:
+         (a) Valid
+         (b) Void
+
+© The Institute of Chartered Accountants of India
+2.88  BUSINESS LAWS
+
+         (c) Voidable
+         (d) Any of these
+9. An agreement the object or consideration of which is unlawful, is
+         (a) Void
+         (b) Valid
+         (c) Voidable
+         (d) Contingent
+10. An agreement is void if it is opposed to public policy. Which of the following is not
+         covered by heads of public policy?
+         (a) Trading with an enemy
+         (b) Trafficking in public offices
+         (c) Marriage brokerage contracts
+         (d) Contracts to do impossible acts.
+11. A paid ` 5000 to a Government servant to get him a contract for the canteen. The
+         Government servant could not get the contract. Can A recover ` 5000 paid by him to
+         the Government servant?
+         (a) Yes, the agreement is opposed to public policy
+         (b) No, the agreement is opposed to public policy
+         (c) No, the agreements are a voidable agreement and can be avoided by A
+         (d) No, the agreement falls under section 23 and hence illegal
+12. With regard to the contractual capacity of a person of unsound mind, which one of the
+         following statements is most appropriate?
+         (a) A person of unsound mind can never enter into a contract
+         (b) A person of unsound mind can enter into a contract
+         (c) A person who is usually of unsound mind can contract when he is, at the time of
+
+                   entering into a contract, of sound mind
+         (d) A person who is occasionally of unsound mind can contract although at the
+
+                   time of making the contract, he is of unsound mind
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.89
+
+13. An agreement made under mistake of fact, by both the parties, forming the essential
+         subject matter of the agreement is:
+         (a) Void
+         (b) Voidable
+         (c) Valid
+         (d) Unenforceable
+
+14. A is in dire need of ` 1,00,000 but was unable to get any loan from banks as he had no
+         security to offer. A approached his friend B who knowing the helpless position of A lent
+         money at a very high rate of interest, saying that he had himself borrowed money from
+         C. The contract is:
+         (a) Vitiated by undue influence that B had exercised over A due to his close
+                   friendship.
+         (b) Void as the rate of interest being very high was unconscionable.
+         (c) Not valid as B had wrongly misled A that he had borrowed money from C.
+         (d) Valid as a friend could not be supposed to have wielded undue influence only
+                   because the money lent carried higher rate of interest.
+
+15. Which of the following is not an exception to the rule that the agreement in restraint of
+         trade is void:
+         (a) A partner can be prevented for carrying on similar business
+         (b) An outgoing partner can be restrained on carrying similar business
+         (c) On dissolution of firm, partners may agree not to carry on similar business
+         (d) The seller of goodwill of business can be prevented for carrying any kind of
+                   business at any place.
+
+16. An agreement to pay money or money's worth on the happening or non-happening of
+         a specified uncertain event, is a
+         (a) Wagering agreement
+         (b) Contingent contract
+         (c) Quasi contract
+         (d) Uncertain agreement
+
+© The Institute of Chartered Accountants of India
+2.90  BUSINESS LAWS
+
+17. A wagering agreement in India is declared by the Contract Act as
+         (a) Illegal and void
+         (b) Void but not illegal
+         (c) Voidable at the option of the aggrieved party
+         (d) Immoral
+
+18. An agreement, the object of which is to procure a public post, is
+         (a) Void
+         (b) Voidable
+         (c) Valid
+         (d) Defective
+
+19. While obtaining the consent of the promise, keeping silence by the promisor when he
+         has a duty to speak about the material facts, amounts to consent obtained by:
+         (a) Coercion
+         (b) Misrepresentation
+         (c) Mistake
+         (d) Fraud
+
+20. A enters into an agreement with B who has robbed A of ` 10,000 to drop prosecution
+         against him in consideration of B's returning ` 8,000. Afterwards B refused to pay. A
+         can get from B
+         (a) ` 8,000
+         (b) ` 100
+         (c) Nothing
+         (d) ` 10,000 plus damages
+
+21. On attaining the age of majority, a minor's agreement:
+         (a) cannot be ratified by him
+         (b) becomes valid
+         (c) can be ratified by him
+         (d) becomes void
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.91
+
+22. A threat to kidnap one's son in consideration of ` 5,00,000 is void because of:
+         (a) inadequacy of consideration
+         (b) incompetence of parties
+         (c) absence of free consent
+         (d) all of the above
+
+23. In which of the following case, aggrieved part can sue for damages:
+         (a) Fraud
+         (b) mistake
+         (c) undue influence
+         (d) misrepresentation
+
+24. A mere attempt to deceive a party to a contract:
+         (a) is fraud even though the party is not deceived
+         (b) is not fraud unless the party is actually deceived
+         (c) amounts to coercion
+         (d) amounts to misrepresentation
+
+Descriptive Questions
+
+1. "An agreement, the meaning of which is not certain, is void". Discuss.
+2. "Though a minor is not competent to contract, nothing in the Contract Act prevents
+
+         him from making the other party bound to the minor". Discuss.
+3. A student was induced by his teacher to sell his brand new car to the later at less than
+
+         the purchase price to secure more marks in the examination. Accordingly, the car was
+         sold. However, the father of the student persuaded him to sue his teacher. State
+         whether the student can sue the teacher?
+4. Explain the concept of `misrepresentation' in matters of contract. Sohan induced Suraj
+         to buy his motorcycle saying that it was in a very good condition. After taking the
+         motorcycle, Suraj complained that there were many defects in the motorcycle. Sohan
+         proposed to get it repaired and promised to pay 40% cost of repairs. After few days, the
+         motorcycle did not work at all. Now Suraj wants to rescind the contract. Decide giving
+         reasons whether Suraj can rescind the contract?
+5. Mr. SAMANT owned a motor car. He approached Mr. CHHOTU and offered to sell his
+         motor car for ` 3,00,000. Mr. SAMANT told Mr. CHHOTU that the motor car is running
+
+© The Institute of Chartered Accountants of India
+2.92  BUSINESS LAWS
+
+         at the rate of 30 KMs per litre of petrol. Both the fuel meter and the speed meter of the
+         car were working perfectly. Mr. CHHOTU agreed with the proposal of Mr. SAMANT and
+         took delivery of the car by paying ` 3,00,000/- to Mr. SAMANT. After 10 days, Mr.
+         CHHOTU came back with the car and stated that the claim made by Mr. SAMANT
+         regarding fuel efficiency was not correct and therefore there was a case of
+         misrepresentation. Referring to the provisions of the Indian Contract Act, 1872, decide
+         and write whether Mr. CHHOTU can rescind the contract in the above ground.
+
+6. Ishaan, aged 16 years, was studying in an engineering college. On 1st March, 2018 he
+         took a loan of ` 2 lakhs from Vishal for the payment of his college fee and agreed to
+         pay by 30th May, 2019. Ishaan possesses assets worth ` 15 lakhs. On due date Ishaan
+         fails to pay back the loan to Vishal. Vishal now wants to recover the loan from Ishaan
+         out of his assets. Decide whether Vishal would succeed referring to the provisions of the
+         Indian Contract Act, 1872.
+
+ANSWER/HINTS
+
+Answers to MCQs
+
+    1. (a) 2. (d) 3. (b) 4. (a) 5. (b) 6. (c)
+
+    7. (c) 8. (b) 9. (a) 10. (d) 11. (d) 12. (c)
+
+   13. (a) 14. (d) 15. (d) 16. (a) 17. (b) 18. (a)
+
+   19. (d) 20. (c) 21. (a) 22. (c) 23. (a) 24. (b)
+
+Answers to the Descriptive Questions
+
+1. Agreement - the meaning of which is uncertain (Section 29): An agreement, the
+         meaning of which is not certain, is void, but where the meaning thereof is capable of
+         being made certain, the agreement is valid. For example, A agrees to sell B "a
+         hundred tons of oil". There is nothing whatever to show what kind of oil was
+         intended. The agreement is void for uncertainty. But the agreement would be valid if
+         A was dealer only in coconut oil; because in such a case its meaning would be
+         capable of being made certain.
+
+2. Minor can be a beneficiary or can take benefit out of a contract: Though a minor
+         is not competent to contract, nothing in the Contract Act prevents him from making
+         the other party bound to the minor. Thus, a promissory note duly executed in favour
+
+© The Institute of Chartered Accountants of India
+    THE INDIAN CONTRACT ACT, 1872                  2.93
+
+of a minor is not void and can be sued upon by him, because he though incompetent
+to contract, may yet accept a benefit.
+
+A minor cannot become partner in a partnership firm. However, he may with the
+consent of all the partners, be admitted to the benefits of partnership (Section 30 of
+the Indian Partnership Act, 1932).
+
+Example: A mortgage was executed in favour of a minor. Held, he can get a decree
+for the enforcement of the mortgage.
+
+3. Yes, A can sue his teacher on the ground of undue influence under the provisions of
+         Indian Contract Act, 1872.
+
+According to section 16 of the Indian Contract Act, 1872, "A contract is said to be
+induced by `undue influence' where the relations subsisting between the parties are
+such that one of the parties is in a position to dominate the will of the other and he
+uses that position to obtain an unfair advantage over the other".
+
+A person is deemed to be in position to dominate the will of another:
+
+(a) Where he holds a real or apparent authority over the other; or
+
+(b) Where he stands in a fiduciary relationship to the other; or
+
+(c) Where he makes a contract with a person whose mental capacity is
+         temporarily or permanently affected by reason of age, illness or mental or
+         bodily distress for example, an old illiterate person.
+
+A contract brought as a result of coercion, undue influence, fraud or
+misrepresentation would be voidable at the option of the person whose consent was
+caused.
+
+4. Misrepresentation: According to Section 18 of the Indian Contract Act, 1872,
+         misrepresentation is:
+
+1.  When a person positively asserts that a fact is true when his information does
+
+    not warrant it to be so, though he believes it to be true.
+
+2.  When there is any breach of duty by a person, which brings an advantage to
+
+    the person committing it by misleading another to his prejudice.
+
+3.  When a party causes, however, innocently, the other party to the agreement
+
+    to make a mistake as to the substance of the thing which is the subject of the
+
+    agreement.
+
+The aggrieved party, in case of misrepresentation by the other party, can avoid or
+rescind the contract [Section 19, Indian Contract Act, 1872]. The aggrieved party
+
+© The Institute of Chartered Accountants of India
+2.94  BUSINESS LAWS
+
+         loses the right to rescind the contract if he, after becoming aware of the
+         misrepresentation, takes a benefit under the contract or in some way affirms it.
+
+         Accordingly, in the given case, Suraj could not rescind the contract, as his acceptance
+         to the offer of Sohan to bear 40% of the cost of repairs impliedly amount to final
+         acceptance of the sale.
+
+5. As per the provisions of Section 19 of the Indian Contract Act, 1872, when consent to
+         an agreement is caused by coercion, fraud or misrepresentation, the agreement is a
+         contract voidable at the option of the party whose consent was so caused.
+
+         A party to contract, whose consent was caused by fraud or misrepresentation, may, if
+         he thinks fit, insist that the contract shall be performed, and that he shall be put in
+         the position in which he would have been if the representations made had been true.
+
+         Exception: If such consent was caused by misrepresentation or by silence, fraudulent
+         within the meaning of section 18, the contract, nevertheless, is not voidable if the
+         party whose consent was so caused had the means of discovering the truth with
+         ordinary diligence.
+
+         In the situation given in the question, both the fuel meter and the speed meter of the
+         car were working perfectly, Mr. CHHOTU had the means of discovering the truth with
+         ordinary diligence. Therefore, the contract is not voidable. Hence, Mr. CHHOTU
+         cannot rescind the contract in the above ground.
+
+6. According to Section 11 of the Indian Contract Act, 1872, every person is competent
+         to contract who is of the age of majority according to the law to which he is subject,
+         and who is of sound mind and is not disqualified from contracting by any law to
+         which he is subject.
+
+         A person who has completed the age of 18 years is a major and otherwise he will be
+         treated as minor. Thus, Ishaan who is a minor is incompetent to contract and any
+         agreement with him is void [Mohori Bibi Vs Dharmo Das Ghose 1903].
+
+         Section 68 of the Indian Contract Act, 1872 however, prescribes the liability of a
+         minor for the supply of the things which are the necessaries of life to him. It says
+         that though minor is not personally liable to pay the price of necessaries supplied to
+         him or money lent for the purpose, the supplier or lender will be entitled to claim the
+         money/price of goods or services which are necessaries suited to his condition of life
+         provided that the minor has a property. The liability of minor is only to the extent of
+         the minor's property. Thus, according to the above provision, Vishal will be entitled
+         to recover the amount of loan given to Ishaan for payment of the college fees from
+         the property of the minor.
+
+© The Institute of Chartered Accountants of India
+

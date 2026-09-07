@@ -118,7 +118,10 @@ export function resolveQuestionCurriculum(
   const versionName = ctx.curriculumVersion.name;
 
   // Extract explicit or nested curriculum references
-  const nodeCode = q.curriculum?.nodeCode || q.curriculumNodeCode;
+  const nodeCode =
+    q.curriculum?.nodeCode ||
+    q.curriculumNodeCode ||
+    ((q as unknown as Record<string, unknown>).canonicalNodeCode as string | undefined);
   const nodeId = q.curriculum?.curriculumNodeId || q.curriculumNodeId;
   const subjectCode = q.curriculum?.subjectCode || q.subjectCode;
   const chapterCode = q.curriculum?.chapterCode;

@@ -115,12 +115,15 @@ export interface CanonicalQuestionJson {
 
   // Backward compatibility fields for v1.0 imports
   curriculumNodeCode?: string;
+  canonicalNodeCode?: string;
   curriculumNodeId?: string;
   subjectCode?: string;
   chapterName?: string;
   topicName?: string;
   sourceReference?: string;
   pageNumber?: number;
+  sourceYear?: number;
+  sourceMonth?: number;
 }
 
 export type RawImportQuestionJson = CanonicalQuestionJson;
@@ -141,6 +144,7 @@ export interface CanonicalBatchJson {
   sourceYear?: number;
   sourceMonth?: number;
   exportedAt?: string;
+  batchMetadata?: Record<string, unknown>;
   caseStudies?: CanonicalCaseStudyJson[]; // Shared case studies referenced by questions
   questions: CanonicalQuestionJson[];
 }

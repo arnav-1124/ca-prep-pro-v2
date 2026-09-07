@@ -132,6 +132,40 @@ async function runTests() {
   );
   assert(exactDupResult.status === "EXACT_DUPLICATE", "Exact normalized duplicate flagged as EXACT_DUPLICATE (100%)");
 
+  // Generic prompt with different options & different answers must NOT be flagged as duplicate
+  const genericCand = {
+    questionId: "mock-q-generic-1",
+    versionId: "mock-v-generic-1",
+    questionText: "Which of the following statements is false?",
+    normalizedText: normalizeQuestionText("Which of the following statements is false?"),
+    correctAnswer: "D",
+    options: [
+      { letter: "A", text: "Economic costs include opportunity costs." },
+      { letter: "B", text: "Accounting costs include only explicit costs." },
+      { letter: "C", text: "Economic profit is less than accounting profit." },
+      { letter: "D", text: "Accounting profit is total revenue less implicit costs." },
+    ],
+    difficulty: "EASY",
+    questionType: "MCQ",
+  };
+
+  const genericNewQuestion = {
+    questionText: "Which of the following statements is false?",
+    options: [
+      { letter: "A", text: "Tradable permits provide incentive to innovate." },
+      { letter: "B", text: "A subsidy on merit goods reduces costs." },
+      { letter: "C", text: "Negative externalities are involved in merit goods." },
+      { letter: "D", text: "Merit goods are under-produced by markets." },
+    ],
+    correctAnswer: "C",
+  };
+
+  const genericDisambiguationResult = checkQuestionDuplicate(genericNewQuestion, [genericCand]);
+  assert(
+    genericDisambiguationResult.status === "NO_DUPLICATE",
+    "Generic question stem with distinct options & answer is NOT flagged as duplicate"
+  );
+
   // =========================================================================
   // 3. CURRICULUM MAPPING RESOLVER TESTS
   // =========================================================================

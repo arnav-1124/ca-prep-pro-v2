@@ -24,6 +24,30 @@ import { validateImportBatch, validateImportQuestion } from "./validation";
 import { buildVersionCurriculumContext, resolveQuestionCurriculum } from "./mapping";
 import { fetchDuplicateCandidates, checkQuestionDuplicate } from "./duplicates";
 
+export async function withRetry<T>(fn: () => Promise<T>, maxRetries = 3, delayMs = 1000): Promise<T> {
+  let lastError: unknown;
+  for (let i = 0; i < maxRetries; i++) {
+    try {
+      return await fn();
+    } catch (err: unknown) {
+      lastError = err;
+      const msg = (err as Error)?.message || String(err);
+      if (
+        msg.includes("fetch failed") ||
+        msg.includes("ConnectTimeout") ||
+        msg.includes("ETIMEDOUT") ||
+        msg.includes("ECONNRESET")
+      ) {
+        console.warn(`[Neon Retry] Attempt ${i + 1}/${maxRetries} failed with network error, retrying in ${delayMs * (i + 1)}ms...`);
+        await new Promise((r) => setTimeout(r, delayMs * (i + 1)));
+        continue;
+      }
+      throw err;
+    }
+  }
+  throw lastError;
+}
+
 export interface CreateImportBatchInput {
   rawJsonString: string;
   batchName?: string;
@@ -961,16 +985,18 @@ export async function publishApprovedQuestions(batchId: string, adminEmail: stri
   // Ensure batch question source exists if batch has sourceTitle
   let batchSourceId: string | null = null;
   if (batch.sourceTitle || batch.sourceType) {
-    const [qs] = await db
-      .insert(questionSources)
-      .values({
-        sourceType: batch.sourceType,
-        sourceTitle: batch.sourceTitle || `${batch.sourceType} Reference`,
-        sourceYear: batch.sourceYear,
-        sourceMonth: batch.sourceMonth,
-        importBatchId: batch.id,
-      })
-      .returning();
+    const [qs] = await withRetry(() =>
+      db
+        .insert(questionSources)
+        .values({
+          sourceType: batch.sourceType,
+          sourceTitle: batch.sourceTitle || `${batch.sourceType} Reference`,
+          sourceYear: batch.sourceYear,
+          sourceMonth: batch.sourceMonth,
+          importBatchId: batch.id,
+        })
+        .returning()
+    );
     batchSourceId = qs?.id || null;
   }
 
@@ -985,33 +1011,38 @@ export async function publishApprovedQuestions(batchId: string, adminEmail: stri
       if (caseStudyCache.has(csKey)) {
         caseStudyId = caseStudyCache.get(csKey)!;
       } else {
-        const [cs] = await db
-          .insert(caseStudies)
-          .values({
-            academicLevelId: item.academicLevelId,
-            subjectId: node.subjectId,
-            title: effectivePayload.caseStudy.title,
-            scenarioText: effectivePayload.caseStudy.scenarioText,
-          })
-          .returning();
+        const csPayload = effectivePayload.caseStudy;
+        const [cs] = await withRetry(() =>
+          db
+            .insert(caseStudies)
+            .values({
+              academicLevelId: item.academicLevelId,
+              subjectId: node.subjectId,
+              title: csPayload.title,
+              scenarioText: csPayload.scenarioText,
+            })
+            .returning()
+        );
         caseStudyId = cs.id;
         caseStudyCache.set(csKey, cs.id);
       }
     }
 
     // Insert live Question
-    const [q] = await db
-      .insert(questions)
-      .values({
-        academicLevelId: item.academicLevelId,
-        subjectId: node.subjectId,
-        curriculumNodeId: node.id,
-        caseStudyId: caseStudyId,
-        difficulty: item.difficulty,
-        questionType: item.questionType,
-        isAiGenerated: batch.sourceType === "AI_GENERATED",
-      })
-      .returning();
+    const [q] = await withRetry(() =>
+      db
+        .insert(questions)
+        .values({
+          academicLevelId: item.academicLevelId,
+          subjectId: node.subjectId,
+          curriculumNodeId: node.id,
+          caseStudyId: caseStudyId,
+          difficulty: item.difficulty,
+          questionType: item.questionType,
+          isAiGenerated: batch.sourceType === "AI_GENERATED",
+        })
+        .returning()
+    );
 
     // Prepare source metadata JSON
     const sourceMeta: Record<string, unknown> = {};
@@ -1026,57 +1057,70 @@ export async function publishApprovedQuestions(batchId: string, adminEmail: stri
     }
 
     // Insert live Question Version
-    const [qv] = await db
-      .insert(questionVersions)
-      .values({
-        questionId: q.id,
-        versionNumber: 1,
-        questionText: effectivePayload.questionText,
-        correctAnswer: effectivePayload.correctAnswer,
-        explanation: effectivePayload.explanation || null,
-        sourceId: batchSourceId,
-        sourceMetadata: Object.keys(sourceMeta).length > 0 ? sourceMeta : null,
-        isActive: true,
-      })
-      .returning();
+    const [qv] = await withRetry(() =>
+      db
+        .insert(questionVersions)
+        .values({
+          questionId: q.id,
+          versionNumber: 1,
+          questionText: effectivePayload.questionText,
+          correctAnswer: effectivePayload.correctAnswer,
+          explanation: effectivePayload.explanation || null,
+          sourceId: batchSourceId,
+          sourceMetadata: Object.keys(sourceMeta).length > 0 ? sourceMeta : null,
+          isActive: true,
+        })
+        .returning()
+    );
 
     // Insert live Question Options
     if (Array.isArray(effectivePayload.options) && effectivePayload.options.length > 0) {
-      await db.insert(questionOptions).values(
-        effectivePayload.options.map((opt) => ({
-          questionVersionId: qv.id,
-          optionLetter: opt.letter.toUpperCase(),
-          optionText: opt.text,
-        }))
+      await withRetry(() =>
+        db.insert(questionOptions).values(
+          effectivePayload.options.map((opt) => ({
+            questionVersionId: qv.id,
+            optionLetter: opt.letter.toUpperCase(),
+            optionText: opt.text,
+          }))
+        )
       );
     }
 
     // Mark staged question as PUBLISHED
-    await db
-      .update(importedQuestions)
-      .set({
-        status: "PUBLISHED",
-        publishedQuestionId: q.id,
-        publishedQuestionVersionId: qv.id,
-        updatedAt: new Date(),
-      })
-      .where(eq(importedQuestions.id, item.id));
+    await withRetry(() =>
+      db
+        .update(importedQuestions)
+        .set({
+          status: "PUBLISHED",
+          publishedQuestionId: q.id,
+          publishedQuestionVersionId: qv.id,
+          updatedAt: new Date(),
+        })
+        .where(eq(importedQuestions.id, item.id))
+    );
 
     publishedCount++;
+
+    // Small yield every 15 questions to prevent socket pool exhaustion on serverless drivers
+    if (publishedCount % 15 === 0) {
+      await new Promise((r) => setTimeout(r, 20));
+    }
   }
 
   // 5. Final Batch Count Synchronization
   await recalculateBatchCounts(batchId);
 
   // 6. Record Publication Audit Event
-  await db.insert(importAuditEvents).values({
-    batchId,
-    action: "BATCH_PUBLISHED",
-    performedBy: adminEmail,
-    details: {
-      publishedQuestionsCount: publishedCount,
-    },
-  });
+  await withRetry(() =>
+    db.insert(importAuditEvents).values({
+      batchId,
+      action: "BATCH_PUBLISHED",
+      performedBy: adminEmail,
+      details: {
+        publishedQuestionsCount: publishedCount,
+      },
+    })
+  );
 
   return { publishedCount };
 }
@@ -1088,30 +1132,36 @@ export async function publishAllApprovedBatches(adminEmail: string): Promise<{
   totalPublished: number;
   publishedBatchesCount: number;
 }> {
-  const eligibleBatches = await db
-    .select({
-      id: importBatches.id,
-      batchName: importBatches.batchName,
-      approvedCount: importBatches.approvedCount,
-    })
-    .from(importBatches)
-    .where(
-      and(
-        ne(importBatches.status, "COMPLETED"),
-        gt(importBatches.approvedCount, 0)
+  const eligibleBatches = await withRetry(() =>
+    db
+      .select({
+        id: importBatches.id,
+        batchName: importBatches.batchName,
+        approvedCount: importBatches.approvedCount,
+      })
+      .from(importBatches)
+      .where(
+        and(
+          ne(importBatches.status, "COMPLETED"),
+          gt(importBatches.approvedCount, 0)
+        )
       )
-    );
+  );
 
   let totalPublished = 0;
   let publishedBatchesCount = 0;
 
   for (const b of eligibleBatches) {
     try {
+      console.log(`[Publishing Batch] Starting: ${b.batchName} (${b.approvedCount} approved questions)...`);
       const res = await publishApprovedQuestions(b.id, adminEmail);
       if (res.publishedCount > 0) {
         totalPublished += res.publishedCount;
         publishedBatchesCount++;
+        console.log(`[Publishing Batch] Success: Published ${res.publishedCount} questions from ${b.batchName}. Cumulative published: ${totalPublished}.`);
       }
+      // Pacing pause between batches
+      await new Promise((r) => setTimeout(r, 500));
     } catch (err) {
       console.error(`Failed to publish batch ${b.batchName}:`, err);
     }
@@ -1210,14 +1260,16 @@ export async function bulkApproveBatchQuestions(
  * Re-computes and syncs counts for an import batch.
  */
 export async function recalculateBatchCounts(batchId: string) {
-  const allQuestions = await db
-    .select({
-      status: importedQuestions.status,
-      validationStatus: importedQuestions.validationStatus,
-      duplicateStatus: importedQuestions.duplicateStatus,
-    })
-    .from(importedQuestions)
-    .where(eq(importedQuestions.batchId, batchId));
+  const allQuestions = await withRetry(() =>
+    db
+      .select({
+        status: importedQuestions.status,
+        validationStatus: importedQuestions.validationStatus,
+        duplicateStatus: importedQuestions.duplicateStatus,
+      })
+      .from(importedQuestions)
+      .where(eq(importedQuestions.batchId, batchId))
+  );
 
   const total = allQuestions.length;
   const validCount = allQuestions.filter((q) => q.validationStatus !== "INVALID").length;
@@ -1237,20 +1289,22 @@ export async function recalculateBatchCounts(batchId: string) {
     batchStatus = "PARTIALLY_APPROVED";
   }
 
-  await db
-    .update(importBatches)
-    .set({
-      totalQuestions: total,
-      validQuestionsCount: validCount,
-      invalidQuestionsCount: invalidCount,
-      duplicateCandidatesCount: duplicateCount,
-      approvedCount,
-      rejectedCount,
-      publishedCount,
-      pendingReviewCount,
-      status: batchStatus,
-      updatedAt: new Date(),
-    })
-    .where(eq(importBatches.id, batchId));
+  await withRetry(() =>
+    db
+      .update(importBatches)
+      .set({
+        totalQuestions: total,
+        validQuestionsCount: validCount,
+        invalidQuestionsCount: invalidCount,
+        duplicateCandidatesCount: duplicateCount,
+        approvedCount,
+        rejectedCount,
+        publishedCount,
+        pendingReviewCount,
+        status: batchStatus,
+        updatedAt: new Date(),
+      })
+      .where(eq(importBatches.id, batchId))
+  );
 }
 

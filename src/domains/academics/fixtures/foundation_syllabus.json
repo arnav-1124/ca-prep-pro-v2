@@ -217,6 +217,16 @@
             { "type": "TOPIC", "name": "Essential Features and Classification of Companies", "code": "FND_P2_CH6_T1", "sortOrder": 1 },
             { "type": "TOPIC", "name": "Incorporation, Memorandum & Articles of Association", "code": "FND_P2_CH6_T2", "sortOrder": 2 }
           ]
+        },
+        {
+          "type": "CHAPTER",
+          "name": "Chapter 7: The Negotiable Instruments Act, 1881",
+          "code": "FND_P2_CH7",
+          "sortOrder": 7,
+          "children": [
+            { "type": "TOPIC", "name": "Promissory Notes, Bills of Exchange and Cheques", "code": "FND_P2_CH7_T1", "sortOrder": 1 },
+            { "type": "TOPIC", "name": "Holder, Holder in Due Course and Negotiation", "code": "FND_P2_CH7_T2", "sortOrder": 2 }
+          ]
         }
       ]
     },

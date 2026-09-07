@@ -1,0 +1,556 @@
+2.46           BUSINESS LAWS
+
+             UNIT-2: CONSIDERATION
+
+                                            LEARNING OUTCOMES
+
+After studying this Chapter, you will be able to understand:
+
+ The concept of consideration, its importance for a contract and its
+       double aspect.
+
+ How consideration may move from a third party and how this
+       makes the contract valid.
+
+ The peculiar circumstances when a contract is valid even without
+       consideration.
+
+ The rule `A stranger to a contract cannot sue' and exceptions
+       thereof.
+
+UNIT OVERVIEW
+
+               Consideration
+
+Meaning &      Legal Rules                            Rule of "No     Doctrine of Privity
+ definition  regarding valid                       consideration, no   of Contract with
+             consideration
+                                                        contract"          exception
+
+Consideration is an essential element of a valid contract without which no single promise
+will be enforceable. It is a term used in the sense of quid pro quo, i.e., 'something in return'.
+Having a double aspect of a benefit to the promisor and a detriment to the promisee, it has
+to be really understood in the sense of some detriment as envisaged by English Law. In this
+Unit, we shall try to understand the concept of consideration and also the legal
+requirements regarding consideration.
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.47
+
+    2.1 WHAT IS CONSIDERATION?
+
+Consideration is the price agreed to be paid by the promisee for the obligation of the
+promisor. The word consideration was described in a very popular English case of Misa v.
+Currie as:
+
+"A valuable consideration in the sense of law may consist either in some right, interest, profit
+or benefit accruing to one party (i.e. promisor) or forbearance, detriment, loss or
+responsibility given, suffered or undertaken by the other (i.e. the promisee)."
+
+Section 2(d) defines consideration as follows:
+
+"When at the desire of the promisor, the promisee or any other person has done or
+abstained from doing, or does or abstains from doing or promises to do or abstain
+from doing something, such an act or abstinence or promise is called consideration for
+the promise".
+
+(1) Consideration is an act- doing something.
+
+         Example 1: Ajay guarantees Bhuvan for payment of price of the goods which Bhuvan
+         wanted to sell on one month credit to Chaitanya. Here selling of goods on credit by
+         Bhuvan to Chaitanya is consideration for A's promise.
+
+         Example 2: A college promises students, who will score above 95% for the job in
+         MNC. Consideration need not to be monetary. Here the promise for recruitment of
+         candidate will be considered as consideration for the act of students scoring above
+         95%.
+
+(2) Consideration is abstinence- abstain from doing something.
+
+         Example 3: Abhishek promises Bharti not to file a suit against him if she (Bharti)
+         would pay him (Abhishek) ` 1,00,000. Here abstinence on the part of Abhishek would
+         constitute consideration against Bharti's payment of ` 1,00,000 in favor of Abhishek.
+
+         Example 4: ABC has a shop of electric items. XYZ wishes to open another electric
+         shop next to his shop. ABC offers Rs 2,00,000 to XYZ for shifting the same away from
+         1 km of ABC's shop. Here, consideration is given for abstaining XYZ from opening his
+         shop nearby.
+
+(3) Consideration must be at the desire of the promisor.
+
+(4) Consideration may move from promisee or any other person.
+
+(5) Consideration may be past, present or future.
+
+© The Institute of Chartered Accountants of India
+2.48  BUSINESS LAWS
+
+Thus, from above it can be concluded that:
+
+Consideration = Promise / Performance that parties exchange with each other.
+
+Form of consideration = Some benefit, right or profit to one party / some detriment, loss, or
+forbearance to the other.
+
+    2.2 LEGAL RULES REGARDING CONSIDERATION
+
+(i) Consideration must move at the desire of the promisor: Consideration must be
+         offered by the promisee or the third party at the desire or request of the promisor.
+         This implies "return" element of consideration. Contract of marriage in consideration
+         of promise of settlement is enforceable.
+
+         An act done at the desire of a third party is not a consideration.
+
+         In Durga Prasad v. Baldeo, D (defendant) promised to pay to P (plaintiff) a certain
+         commission on articles which would be sold through their agency in a market.
+         Market was constructed by P at the desire of the C (Collector), and not at the desire
+         of the D. D was not bound to pay as it was without consideration and hence void.
+
+         Example 5: R saves S's goods from fire without being asked to do so. R cannot
+         demand any reward for his services, as the act being done voluntary.
+
+(ii) Consideration may move from promisee or any other person: In India,
+         consideration may proceed from the promisee or any other person who is not a party
+         to the contract. The definition of consideration as given in Section 2(d) makes that
+         proposition clear. According to the definition, when at the desire of the promisor, the
+         promisee or any other person does something such an act is consideration. In other
+         words, there can be a stranger to a consideration but not stranger to a contract.
+
+         Example 6: An old lady made a gift of her property to her daughter with a direction
+         to pay a certain sum of money to the maternal uncle by way of annuity. On the same
+         day, the daughter executed a writing in favour of the brother agreeing to pay
+         annuity. The daughter did not, however, pay the annuity and the uncle sued to
+         recover it. It was held that there was sufficient consideration for the uncle to recover
+         the money from the daughter. [Chinnayya vs. Ramayya (1882)]
+
+(iii) Executed and executory consideration: A consideration which consists in the
+         performance of an act is said to be executed. When it consists in a promise, it is said
+         to be executory. The promise by one party may be the consideration for an act by
+         some other party, and vice versa.
+
+         Example 7: A pays ` 5,000 to B and B promises to deliver to him a certain quantity of
+         wheat within a month. In this case, A pays the amount, whereas B merely makes a
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.49
+
+         promise. Therefore, the consideration paid by A is executed, whereas the
+         consideration promised by B is executory.
+
+(iv) Consideration may be past, present or future: The words "has done or abstained
+         from doing" [as contained in Section 2(d)] are a recognition of the doctrine of past
+         consideration. In order to support a promise, a past consideration must move by a
+         previous request. It is a general principle that consideration is given and accepted in
+         exchange for the promise. The consideration, if past, may be the motive but cannot
+         be the real consideration of a subsequent promise. But in the event of the services
+         being rendered in the past at the request or the desire of the promisor, the
+         subsequent promise is regarded as an admission that the past consideration was not
+         gratuitous.
+
+         Example 8: 'A' performed some services to `B' at his desire. After a week, `B'
+         promises to compensate `A' for the work done by him. It is said to be past
+         consideration and A can sue B for recovering the promised money.
+
+         Example 9: A cash sale of goods is an example of present consideration. The
+         consideration is immediately made against delivery of goods.
+
+(v) Consideration need not be adequate: Consideration need not to be of any
+         particular value. It need not be approximately of equal value with the promise for
+         which it is exchanged but it must be something which the law would regard as
+         having some value. Something in return need not be equal to something given. It can
+         be considered a bad bargain of the party.
+
+         It may be noted in this context that Explanation 2 to Section 25 states that an
+         agreement to which the consent of the promisor is freely given is not void merely
+         because the consideration is inadequate.
+
+         But as an exception if it is shockingly less and the other party alleges that his consent
+         was not free than this inadequate consideration can be taken as an evidence in
+         support of this allegation.
+
+         Example 10: X promises to sell a house worth `60 lacs for `10 lacs only, the
+         adequacy of the price in itself shall not render the transaction void, unless the party
+         pleads that transaction takes place under coercion, undue influence or fraud.
+
+(vi) Performance of what one is legally bound to perform: The performance of an act
+         by a person who is legally bound to perform the same cannot be consideration for a
+         contract. Hence, a promise to pay money to a witness is void, for it is without
+         consideration. Hence, such a contract is void for want of consideration. Similarly, an
+         agreement by a client to pay to his counsel after the latter has been engaged, a
+
+© The Institute of Chartered Accountants of India
+2.50  BUSINESS LAWS
+
+         certain sum over and above the fee, in the event of success of the case would be
+         void, since it is without consideration.
+
+         Example 11: A promise to pay ` 2,000 to a doctor over the fees is invalid as it is the
+         duty of a doctor to give a treatment for his normal fees.
+
+         But where a person promises to do more that he is legally bound to do or such a
+         promise provided it is not opposed to public policy, is a good consideration. It
+         should not be vague or uncertain.
+
+(vii) Consideration must be real and not illusory: Consideration must be real and must
+         not be illusory. It must be something to which the law attaches some value. If it is
+         legally or physically impossible it is not considered valid consideration.
+
+         Examples 12: A man promises to discover treasure by magic, bringing the dead
+         person to live again. This transaction can be said to be void as it is illusory.
+
+(viii) Consideration must not be unlawful, immoral, or opposed to public policy. Only
+         presence of consideration is not sufficient it must be lawful. Anything which is
+         immoral or opposed to public policy also cannot be valued as valid consideration.
+
+         Example 13: ABC Ltd. promises to give job to Mr. X in a Government bank against
+         payment of ` 50,000 is void as the promise is opposed to public policy.
+
+    2.3 SUIT BY A THIRD PARTY TO A CONTRACT
+
+Though under the Indian Contract Act, 1872, the consideration for an agreement may
+proceed from a third party, the third party cannot sue on contract. Only a person who is
+party to a contract can sue on it.
+
+Thus, the concept of stranger to consideration is a valid and is different from stranger to a
+contract.
+
+Example 14: P who is indebted to Q, sells his property to R and R promises to pay off the
+debt amount to Q. If R fails to pay, then in such situation Q has no right to sue, as R is a
+stranger to contract.
+
+The aforesaid rule, that stranger to a contract cannot sue is known as a "doctrine of
+privity of contract", is however, subject to certain exceptions. In other words, even a
+stranger to a contract may enforce a claim in the following cases:
+
+(1) In the case of trust, a beneficiary can enforce his right under the trust, though he
+         was not a party to the contract between the settler and the trustee.
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.51
+
+(2) In the case of a family settlement, if the terms of the settlement are reduced into
+         writing, the members of family who originally had not been parties to the settlement
+         may enforce the agreement.
+
+         Example 15: Two brothers X and Y agreed to pay an allowance of ` 20,000 to mother
+         on partition of joint properties. But later they denied to abide by it. Held their mother
+         although stranger to contract can require their sons for such allowance in the court
+         of law.
+
+(3) In the case of certain marriage contracts/arrangements, a provision may be made
+         for the benefit of a person, he may file the suit though he is not a party to the
+         agreement.
+
+         Example 16: Mr. X's wife deserted him for ill-treating her. Mr. X promised his wife's
+         father Mr. Puri that he will treat her properly or else pay her monthly allowance. But
+         she was again ill-treated by her husband. Held, she has all right to sue Mr. X against
+         the contract made between Mr. X and Mr. Puri even though she was stranger to
+         contract.
+
+(4) In the case of assignment of a contract, when the benefit under a contract has
+         been assigned, the assignee can enforce the contract but such assignment should
+         not involve any personal skill.
+
+         Example 17: Mr. Ankit Sharma has assigned his insurance policy to his son. Now son
+         can claim even if he was not a party to contract.
+
+(5) Acknowledgement or estoppel ­ where the promisor by his conduct acknowledges
+         himself as an agent of the third party, it would result into a binding obligation
+         towards third party.
+
+         Example 18: If L gives to M `20,000 to be given to N, and M informs N that he is
+         holding the money for him, but afterwards M refuses to pay the money. N will be
+         entitled to recover the same from the former i.e. M.
+
+(6) In the case of covenant running with the land, the person who purchases land
+         with notice that the owner of land is bound by certain duties affecting land, the
+         covenant affecting the land may be enforced by the successor of the seller.
+
+         Example 19: One owner of the land having two land adjacent to each other. One was
+         agricultural land. He sold the other land containing a condition that it can never be
+         used for Industrial purpose so as to protect the other agricultural land from
+         pollution. Such condition is attached with the land so who so ever is the successor of
+         land has to abide by it. Such are called restrictive covenants and all successor are
+         bind to it.
+
+© The Institute of Chartered Accountants of India
+2.52  BUSINESS LAWS
+
+(7) Contracts entered into through an agent: The principal can enforce the contracts
+         entered by his agent where the agent has acted within the scope of his authority and
+         in the name of the principal.
+
+         Example 20: Prashant appoints Abhinav as his agent to sell his house. Abhinav sells
+         house to Tarun. Now Prashant has right to recover the price from Tarun.
+
+    2.4 VALIDITY OF AN AGREEMENT WITHOUT
+             CONSIDERATION
+
+The general rule is that an agreement made without consideration is void (Section 25). In
+every valid contract, consideration is very important. A contract may only be enforceable
+when consideration is there. However, the Indian Contract Act contains certain exceptions to
+this rule. In the following cases, the agreement though made without consideration, will be
+valid and enforceable.
+
+1. Natural Love and Affection: Conditions to be fulfilled under section 25(1)
+
+         (i) It must be made out of natural love and affection between the parties.
+
+         (ii) Parties must stand in near relationship to each other.
+
+         (iii) It must be in writing.
+
+         (iv) It must also be registered under the law.
+
+         A written and registered agreement based on natural love and affection between the
+         parties standing in near relation (e.g., husband and wife) to each other is enforceable
+         even without consideration.
+
+         Example 21: A husband, by a registered agreement promised to pay his earnings to
+         his wife. Held the agreement though without consideration, was valid.
+
+         Example 22: A out of natural love and affection promises to give his newly wedded
+         daughter- in -law a golden necklace worth ` 5,00,000. `A' made the promise in
+         writing and signed it and registered. The agreement is valid.
+
+2. Compensation for past voluntary services: A promise to compensate, wholly or in
+         part, a person who has already voluntarily done something for the promisor, is
+         enforceable under Section 25(2). In order that a promise to pay for the past voluntary
+         services be binding, the following essential factors must exist:
+
+         (i) The services should have been rendered voluntarily.
+
+         (ii) The services must have been rendered for the promisor.
+
+         (iii) The promisor must be in existence at the time when services were rendered.
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.53
+
+         (iv) The promisor must have intended to compensate the promisee.
+
+         Example 23: P finds R's wallet and gives it to him. R promises to give P `10,000. This
+         is a valid contract.
+
+         Example 24: Mr. X had helped his nephew Mr. Y to fight a case in the court of law
+         using his knowledge and intellect. After Mr. Y won the case, he promised Mr. X to pay
+         Rs. 10,000. Held, this is a valid contract as it is compensation to past services.
+
+3. Promise to pay time barred debt: Where a promise in writing signed by the person
+         making it or by his authorised agent, is made to pay a debt barred by limitation it is
+         valid without consideration [Section 25(3)].
+
+         Example 25: A is indebted to C for `60,000 but the debt is barred by the Limitation
+         Act. A sign a written promise now to pay `50,000 in final settlement of the debt. This
+         is a contract without consideration, but enforceable for `50,000 only.
+
+4. Agency: According to Section 185 of the Indian Contract Act, 1872, no consideration
+         is necessary to create an agency.
+
+5. Completed gift: In case of completed gifts, the rule no consideration no contract
+         does not apply. Explanation (1) to Section 25 states "nothing in this section shall
+         affect the validity as between the donor and donee, of any gift actually made." Thus,
+         gifts do not require any consideration.
+
+6. Bailment: No consideration is required to affect the contract of bailment. Section
+         148 of the Indian Contract Act, 1872, defines bailment as the delivery of goods from
+         one person to another for some purpose. This delivery is made upon a contract that
+         post accomplishment of the purpose, the goods will either be returned or disposed
+         of, according to the directions of the person delivering them. No consideration is
+         required to affect a contract of bailment.
+
+         Example 26: Mr. A hand over the keys of his godown to Mr. Y as Mr. Y had deposited
+         his goods in the same. Mr. Y gets possession of godown but not the ownership. As
+         soon as Mr. Y lifts his goods from godown he is liable to hand over the keys back to
+         Mr. A.
+
+7. Charity: If a promisee undertakes the liability on the promise of the person to
+         contribute to charity, there the contract shall be valid. (Kadarnath v. Gorie
+         Mohammad)
+
+         Example 27: Mr. G promised Mr. K, the secretary of committee of temple to donate
+         ` 1,00,000 for renovation of that temple. On the faith of his promise, secretary has
+         incurred some cost for renovation. Now secretary can claim from Mr. G even the
+         contract was without consideration.
+
+© The Institute of Chartered Accountants of India
+2.54  BUSINESS LAWS
+
+SUMMARY
+
+The students may note that:
+(a) Consideration is a price for the promise of the other party and it may either be in the
+
+         form of `benefit' or some `detriment' to the parties.
+(b) Consideration must move at the desire of the promisor.
+(c) It may be executed or executory.
+(d) Past consideration is valid provided it moved at the previous request of the promisor.
+(e) It must not be something which the promisor is already legally bound to do.
+(f) It may move from the promisee or any third party.
+(g) Inadequacy of consideration is not relevant.
+(h) Consideration must be legal.
+(i) The general rule of law is "No Consideration, No Contract" but there are a few
+
+         exceptional cases where a contract, even though without consideration is valid.
+(j) "Stranger to a contract can't sue but in some exceptional cases the contract may be
+
+         enforced by a person who is not a party to the contract.
+
+                                             CONSIDERATION Sec.2(d)
+
+    "When at the desire of the promisor, the promise or any other person has done or abstained from
+    doing, something, such act or abstinence or promise is called a consideration for the promise."
+
+               Legal Rules                            Suit by a Third      Contract is Valid even
+(i) move at the desire of the                           Party to any     without Consideration in
+                                                         Agreement
+      promisor.                                                             following situations:
+(ii) move from the promise or                      (i) Trust            (i) A written and registered
+                                                   (ii) Family
+      any other person.                                                     agreement based on
+(iii) may be executed and                               Settlement          natural love and
+                                                   (iii) Marriage           affection between near
+      executor.                                                             relatives
+(iv) May be past, present or                            contracts       (ii) A promise to pay for a
+                                                   (iv) Assignment of       past voluntary service is
+      future.                                                               binding
+(v) need not be adequate.                               contract        (iii)A written promise to pay
+(vi) must be something which the                   (v) Acknowledgeme        time-time barred debt.
+                                                                        (iv)Agency.
+      promisor is not already                           nt or estoppel  (v) Completed gifts
+      bound to do.                                 (vi) Covenants       (vi)Bailment(sec.148).
+(vii) must be real, not illusory.                                       (vii)Charity
+(viii) must not be unlawful,                            running with
+      immoral or opposed to public                      land
+      policy.                                      (viii) Agency
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.55
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions
+
+1. Which of the following statement is false? Consideration:
+         (a) Must move at the desire of the promisor.
+         (b) May move from any person
+         (c) Must be illusory
+         (d) Must be of some value
+
+2. Consideration must move at the desire of
+         (a) Promisor
+         (b) Promisee
+         (c) Any other person
+         (d) Any of these
+
+3. Consideration may be
+         (a) Past
+         (b) Present
+         (c) Future
+         (d) All of the above
+
+4. Consideration in simple term means:
+         (a) Anything in return
+         (b) Something in return
+         (c) Everything in return
+         (d) Nothing in return
+
+5. Which of the following is not an exception to the rule - No consideration, No Contract
+         (a) Compensation for involuntary services
+         (b) Love & Affection
+         (c) Contract of Agency
+         (d) Gift
+
+© The Institute of Chartered Accountants of India
+         2.56         BUSINESS LAWS
+
+6. Past consideration means
+         (a) Consideration and promise should move together
+
+         (b) Executed consideration
+         (c) Consideration is provided prior to the making of the contract
+         (d) Invalid consideration
+
+7. A contract without consideration under Section 25 is:
+         (a) void
+         (b) voidable
+
+         (c) valid
+         (d) illegal
+
+Descriptive Questions
+
+1. "To form a valid contract, consideration must be adequate". Comment.
+2. Mr. Sohanlal sold 10 acres of his agricultural land to Mr. Mohanlal on 25th September
+
+         2022 for ` 25 Lakhs. The Property papers mentioned a condition, amongst other
+         details, that whosoever purchases the land is free to use 9 acres as per his choice but
+         the remaining 1 acre has to be allowed to be used by Mr. Chotelal, son of the seller for
+         carrying out farming or other activity of his choice. On 12th October, 2022, Mr.
+         Sohanlal died leaving behind his son and life. On 15th October, 2022 purchaser started
+         construction of an auditorium on the whole 10 acres of land and denied any land to
+         the son.
+         Now Mr. Chotelal wants to file a case against the purchaser and get a suitable
+         redressal. Discuss the above in light of provisions of Indian Contract Act, 1872 and
+         decide upon Mr. Chotelal's plan of action?
+
+ANSWER/HINTS
+
+Answers to MCQs
+
+1.  (c)  2.      (a)  3.                           (d)  4.  (b)  5.  (a)  6.  (c)
+
+7.  (c)
+
+© The Institute of Chartered Accountants of India
+THE INDIAN CONTRACT ACT, 1872                      2.57
+
+Answers to the Descriptive Questions
+
+1. The law provides that a contract should be supported by consideration. So long as
+         consideration exists, the Courts are not concerned to its adequacy, provided it is of
+         some value. The adequacy of the consideration is for the parties to consider at the
+         time of making the agreement, not for the Court when it is sought to be enforced
+         (Bolton v. Modden). Consideration must however, be something to which the law
+         attaches value though it need not be equivalent in value to the promise made.
+
+         According to Explanation 2 to Section 25 of the Indian Contract Act, 1872, an
+         agreement to which the consent of the promisor is freely given is not void merely
+         because the consideration is inadequate but the inadequacy of the consideration
+         may be taken into account by the Court in determining the question whether the
+         consent of the promisor was freely given.
+
+2. Problem as asked in the question is based on the provisions of the Indian Contract Act,
+         1872 as contained in section 2(d) and on the principle `privity of consideration'.
+         Consideration is one of the essential elements to make a contract valid and it can flow
+         from the promisee or any other person. In view of the clear language used in definition
+         of `consideration' in Section 2(d), it is not necessary that consideration should be
+         furnished by the promisee only. A promise is enforceable if there is some consideration
+         for it and it is quite immaterial whether it moves from the promisee or any other person.
+
+         The leading authority in the decision of the Chinnaya Vs. Ramayya, held that the
+         consideration can legitimately move from a third party and it is an accepted principle
+         of law in India.
+
+         In the given problem, Mr. Sohanlal has entered into a contract with Mr. Mohanlal, but
+         Mr. Chotelal has not given any consideration to Mr. Mohanlal but the consideration
+         did flow from Mr. Sohanlal to Mr. Mohanlal on the behalf of Mr. Chotelal and such
+         consideration from third party is sufficient to enforce the promise of Mr. Mohanlal to
+         allow Mr. Chotelal to use 1 acre of land. Further the deed of sale and the promise
+         made by Mr. Mohanlal to Mr. Chotelal to allow the use of 1 acre of land were
+         executed simultaneously and therefore they should be regarded as one transaction
+         and there was sufficient consideration for it.
+
+         Moreover, it is provided in the law that "in case covenant running with the land,
+         where a person purchases land with notice that the owner of the land is bound by
+         certain duties affecting land, the covenant affecting the land may be enforced by the
+         successor of the seller."
+
+         In such a case, third party to a contract can file the suit although it has not moved
+         the consideration.
+
+         Hence, Mr. Chotelal is entitled to file a petition against Mr. Mohanlal for execution of
+         contract.
+
+© The Institute of Chartered Accountants of India
+
