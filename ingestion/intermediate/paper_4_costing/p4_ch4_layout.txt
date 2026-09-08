@@ -1,0 +1,4547 @@
+CHAPTER  a  4
+
+OVERHEADS-
+ABSORPTION
+COSTING METHOD
+
+                                      LEARNING OUTCOMES
+
+After studying this chapter, you would be able to-
+ Discuss the meaning of Overheads-Production,
+
+      Administrative and Selling & Distribution.
+ Discuss the meaning and methods of allocation,
+
+      apportionment and absorption of overheads.
+ Discuss the meaning and treatment of under-absorption
+
+      and over-absorption of overheads and apply the same in
+      cost computation.
+ State the accounting and control of administrative, selling
+      and distribution overheads.
+ Discuss and apply the various methods to calculate
+      overhead rate.
+
+© The Institute of Chartered Accountants of India
+a  4.2  COST AND MANAGEMENT ACCOUNTING
+
+CHAPTER OVERVIEW
+
+     1. INTRODUCTION
+
+Overheads are the expenditure which cannot be conveniently traced to or
+identified with any particular cost unit. Such expenses are incurred for output
+generally and not for a particular work order e.g., wages paid to watch and ward
+staff, heating and lighting expenses of factory etc. Overheads are also very
+important cost element along with direct materials and direct employees. Often in
+a manufacturing concern, overheads exceed direct wages or direct materials and
+at times even both put together. On this account, it would be a grave mistake to
+ignore overheads either for the purpose of arriving at the cost of a job or a
+product or for controlling total expenditure.
+
+Overheads also represent expenses that have been incurred in providing certain
+ancillary facilities or services which facilitate or make possible the carrying out of
+the production process; by themselves these services are not of any use. For
+instance, a boiler house produces steam so that machines may run and, without
+the generation of steam, production would be seriously hampered. But if
+machines do not run or do not require steam, the boiler house would be useless
+and the expenses incurred would be a waste.
+
+Overheads are incurred not only in the factory of production but also on
+administration, selling and distribution.
+
+© The Institute of Chartered Accountants of India
+         OVERHEADS-ABSORPTION COSTING METHOD                                   4.3
+
+2. CLASSIFICATION OF OVERHEADS
+
+                        Description                                   Example
+
+By Function
+
+Factory      or Manufacturing overhead is (i)                         Stock keeping expenses,
+
+Manufacturing the indirect cost incurred for (ii)                     Repairs                and
+
+or Production manufacturing or production                             maintenance of plant,
+
+Overhead     activity in a factory. (iii)                             Depreciation of factory
+
+             Manufacturing                         overhead           building,
+
+             includes all expenditures (iv)                           Indirect labour,
+
+             incurred        from                  the (v)            cost of primary packing
+
+             procurement of materials to (vi)                         Insurance of plant and
+
+             the completion of finished                               machinery              etc.
+
+             product.                                                 Production overhead
+
+                                                                      include administration
+
+                                                                      costs relating to
+
+                                                                      production,       factory,
+
+                                                                      works or manufacturing.
+
+Office and Office and Administrative (i)                              Salary paid to office
+                                                                      staffs,
+Administrative overheads are expenditures                             Repairs and maintenance
+                                                                      of office building,
+Overheads    incurred on all activities (ii)                          Depreciation of office
+                                                                      building
+             relating   to                         general            postage and stationery,
+                                                                      Lease rental in case of
+             management                                    and (iii)  operating lease (in case
+             administration                        of an              of finance lease, lease
+                                                                      rental excluding finance
+             organisation. It includes (iv)                           cost)
+             formulating the policy, (v)                              accounts and audit
+             directing the organisation                               expenses etc.
+
+             and        controlling                the
+
+             operations of an undertaking
+
+             which is not related directly
+
+             to production, selling, (vi)
+             distribution, research or
+
+             development activity or
+
+             function.
+
+© The Institute of Chartered Accountants of India
+a          4.4                        COST AND MANAGEMENT ACCOUNTING
+
+Selling and (i)              Selling               overhead: (i) Salesmen commission,
+Distribution
+Overheads                    expenses related to sale (ii) Advertisement cost,
+
+                       (ii)  of products and include (iii) Sales office expenses etc.
+                             all indirect expenses in
+
+                             sales management for
+
+                             the organisation.           (i) Delivery van expenses,
+
+                             Distribution overhead: (ii) Transit insurance,
+
+                             cost incurred on making (iii) warehouse and cold
+                             product available for sale
+                                                         storage expenses,
+                             in the market.
+                                                         (iv) secondary      packing
+
+                                                         expenses etc.
+
+By Nature
+
+Fixed           These are the costs which are (i) Salary paid to permanent
+Overhead
+                incurred for a period, and               employees,
+
+                which, within certain output (ii) Depreciation of building
+
+                and turnover limits, tend to             and plant and equipment,
+
+                be unaffected by fluctuations (iii) Interest on capital,
+                in the levels of activity (iv) Insurance.
+                (output or turnover). They do
+
+                not tend to increase or de-
+
+                crease with the changes in
+
+                output.
+
+Variable        These costs tend to vary with (i) Indirect materials,
+Overhead
+                the volume of activity. Any (ii) Power and fuel,
+                increase in the activity results (iii) lubricants,
+                in an increase in the variable (iv) tools and spares etc.
+                cost and vice-versa.
+
+Semi-Variable   These costs contain both fixed (i) Electricity cost,
+Overheads
+                and variable components and (ii) water cost,
+
+                are thus partly affected by (iii) telephone and              internet
+
+                fluctuations in the level of             expenses etc.
+
+                activity.
+
+© The Institute of Chartered Accountants of India
+       OVERHEADS-ABSORPTION COSTING METHOD                                   4.5
+
+By Element
+
+Indirect       Materials which do not (i)                            Stores        used  for
+materials
+               normally form part of the                             maintaining machines
+
+               finished product (cost object)                        and buildings (lubricants,
+
+               are known as indirect                                 cotton waste, bricks etc.)
+
+               materials.                                      (ii)  Stores used by service
+
+                                                                     departments like power
+
+                                                                     house, boiler house,
+
+                                                                     canteen etc.
+
+Indirect       Employee costs which cannot (i)                       Salary paid to foreman
+employee cost  be allocated but can be
+               apportioned to or absorbed (ii)                       and supervisor.
+               by cost units or cost centres
+               is known as indirect                                  Salary        paid         to
+               employee.
+                                                                     administration staff etc.
+
+Indirect       Expenses other than direct (i) Rates & taxes,
+expenses
+               expenses are known as (ii) insurance,
+
+               indirect expenses, that (iii) depreciation,
+
+               cannot       be                     directly, (iv) advertisement       expenses
+
+               conveniently and wholly                               etc.
+
+               allocated to cost centres.
+
+By Control
+
+Controllable   These are those costs which (i) Materials cost,
+costs
+               can be controlled by the (ii) wages and salary,
+
+               implementation                      of (iii) power and fuel etc.
+
+               appropriate                         managerial
+
+               influence and proper policies.
+
+Uncontrollable Overhead costs which cannot (i) Rates and taxes,
+
+costs          be controlled by the (ii) Depreciation,
+
+               management even after the (iii) Interest on borrowings.
+               implementation of appro-
+
+               priate managerial influence
+
+               and proper polices are known
+
+               as uncontrollable costs.
+
+© The Institute of Chartered Accountants of India
+a         4.6              COST AND MANAGEMENT ACCOUNTING
+
+2.1 Advantages of Classification of Overheads into Fixed
+      and Variable
+
+The primary objective of segregating semi-variable expenses into fixed and
+variable is to ascertain marginal costs. Besides this, it has the following
+advantages also.
+
+(a) Controlling Expenses: The classification of expenses into fixed and variable
+       components helps in controlling expenses. Fixed costs are generally policy
+       costs, which cannot be easily reduced. They are incurred irrespective of the
+       output and hence are more or less non controllable. Variable expenses vary
+       with the volume of activity and the responsibility for incurring such expenditure
+       is determined in relation to the output. The management can control these
+       costs by giving proper allowances in accordance with the output achieved.
+
+(b) Preparation of Budget Estimates: The segregation of overheads into fixed
+       and variable part helps in the preparation of flexible budget. It enables a firm
+       to estimate costs at different levels of activity and make comparison with the
+       actual expenses incurred.
+
+Suppose in October, 2022 the output of a factory was 1,000 units and the
+expenses were:
+
+                                                            (`)
+
+Fixed                                                       5,00,000
+
+Variable                                                    4,00,000
+
+Semi-variable (40% fixed)                                   6,00,000
+
+                                                            15,00,000
+
+In November, 2022 the output was likely to increase to 1,200 units. In that case
+the budget or estimate of expenses will be:
+
+                                                            (`)
+
+Fixed                                                       5,00,000
+
+Variable    `  4,  00,000 ×1,200                   units    4,80,000
+                      1,000 units                         
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                  4.7
+
+Semi-variable
+
+Fixed, 40% of ` 6,00,000                             2,40,000
+
+ ` 3,60,000×1,200 units                              4,32,000
+Variable: 
+               1,000 units                         
+
+                                                     16,52,000
+
+It would be a mistake to think that with the output going up from 1,000 units
+to 1,200 units the expenses would increase proportionately to ` 18,00,000. This
+would be wrong budgeting.
+
+(c) Decision Making: The segregation of semi variable cost between fixed and
+       variable overhead also helps the management to take many important
+       decisions. For example, decisions regarding the price to be charged during
+       depression or recession or for export market. Likewise, decisions on make or
+       buy, shut down or continue, etc., are also taken after separating fixed costs
+       from variable costs.
+
+In fact, when any change is contemplated, say, increase or decrease in production,
+change in the process of manufacture or distribution, it is necessary to know the total
+effect on cost (or revenue) and that would be impossible without a correct
+segregation of fixed and variable costs. The technique of marginal costing, cost
+volume profit relationship and break-even analysis are all based on such segregation.
+
+     3. ACCOUNTING AND CONTROL OF
+          MANUFACTURING OVERHEADS
+
+We have already seen that overheads are by nature those costs which cannot be
+directly related to a product or to any other cost unit. Yet for working out the
+total cost of a product or a unit of service, the overheads must be included. Thus,
+we have to find out a way by which the overheads can be distributed over the
+various units of production.
+
+One method of working out the distribution of overheads over the various
+products could be to ascertain the amount of actual overheads and distribute
+them over the products. This, however, creates a problem since the actual amount
+of overheads can be known only after the financial accounts are closed. If we wait
+that long, the cost sheets lose their main advantages and utility to the
+
+© The Institute of Chartered Accountants of India
+a  4.8  COST AND MANAGEMENT ACCOUNTING
+
+management. All the decisions for which cost sheets are prepared are immediate
+decisions and cannot be postponed till the actual overheads are known.
+Therefore, some method has to be found by which overheads can be included in
+the cost of the products, as soon as prime cost, the cost of raw materials, direct
+employees and other direct expenses, is ascertained.
+
+One method is to work out pre-determined rates for absorbing overheads.
+These rates are worked out before an accounting period begins by estimating the
+amount of overheads and the level of activity in the ensuing period. Thus, as soon
+as the prime cost of a product or a job is available, the various overheads are
+charged by these rates. Of course, this implies that the overheads are charged on
+an estimated basis. Later, when the actual overheads are known, the difference
+between the overheads charged to the products and actual overheads is worked
+out and adjusted.
+
+Manufacturing Overheads: Generally manufacturing overheads form a
+substantial portion of the total overheads. It is important, that such overheads
+should be properly absorbed over the cost of production. The following
+procedure may be adopted in this regard. The steps given below shows how
+factory overhead rates are estimated and overheads absorbed on that basis and
+the last one show how actual are compared with the absorbed amount.
+
+1. Estimation and Collection of Manufacturing Overheads: The first stage is
+       to estimate the amount of overheads, keeping in view the past figures and
+       adjusting them for known future changes. The sources available for the
+       collection of factory overheads may include (a) Invoices, (b) Stores requisition,
+       (c) Wage analysis book (d) Journal entries. etc.
+
+2. Assignment of Manufacturing Overheads: The guiding principle for
+       assignment of manufacturing overheads to a cost object is the traceability
+       of the overheads in an economically feasible manner.
+
+       Assignment of the manufacturing overhead is done on the basis of either of
+       the following two principles:
+
+       (i) Cause and Effect: Cause is the process or operation or activity and
+               effect is the incurrence of cost.
+
+       (ii) Benefit received: Manufacturing overheads are to be apportioned to
+               various cost objects in proportion to the benefits received by them.
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.9
+
+(a) Cost Allocation: The term `allocation' refers to the direct
+       assignment of cost to a cost object which can be traced directly. It
+       implies relating overheads directly to the various departments. The
+       estimated amount of various items of manufacturing overheads
+       should be allocated to various cost centres or departments. For
+       example- if a separate power meter has been installed for a
+       department, the entire power cost ascertained from the meter is
+       allocated to that department. The salary of the works manager cannot
+       be directly allocated to any one department since he looks after the
+       whole factory. It is, therefore, obvious that many overhead items will
+       remain unallocated after this step.
+
+(b) Cost Apportionment: There are some items of estimated overheads
+       (like the salary of the works manager) which cannot be directly
+       allocated to the various departments and cost centres. Such
+       unallocable expenses are to be spread over the various departments
+       or cost centres on the basis of two principles. This is called
+       apportionment. Thus, apportionment implies "the allotment of
+       proportions of items of cost to cost centres or departments". After this
+       stage, all the overhead costs would have been either allocated to or
+       apportioned over the various departments.
+
+(c) Re-apportionment: Upto the last stage all overheads are allocated
+       and apportioned to all the departments- both production and service
+       departments. Service departments are those departments which do
+       not directly take part in the production of goods or providing
+       services. Such departments provide auxiliary services across the entity
+       and renders services to other cost centres and in some cases to
+       outside parties. Examples of such departments are engineering,
+       quality control and assurance, laboratory, canteen, stores, time office,
+       dispensary etc. The overheads of these departments are to be shared
+       by the production departments since service departments operate
+       primarily for the purpose of providing services to production
+       departments. The process of assigning service department
+       overheads to production departments is called reassignment or
+       re-apportionment. At this stage, all the factory overheads are col-
+       lected under production departments.
+
+© The Institute of Chartered Accountants of India
+a  4.10  COST AND MANAGEMENT ACCOUNTING
+
+3. Absorption: After completing the distribution as stated above the overheads
+       charged to department are to be recovered from the output produced in
+       respective departments. This process of recovering overheads of a
+       department or any other cost center from its output is called recovery or
+       absorption.
+
+       Absorption of manufacturing overheads shall be as follows:
+
+       (i) Variable Manufacturing overheads: The variable manufacturing
+               overheads shall be absorbed on the basis of actual production.
+
+       (ii) Fixed Manufacturing overheads: The fixed manufacturing overhead
+               shall be absorbed on the basis of normal capacity.
+
+       The overhead expenses can be absorbed by estimating the overhead (as
+       assigned above) and then working out an absorption rate. When overheads
+       are estimated, their absorption is carried out by adopting a pre-determined
+       overhead absorption rate. This rate can be calculated by using any one
+       method as discussed in this chapter at the end.
+
+       As the actual accounting period begins, each unit of production
+       automatically absorbs a certain amount of factory overheads through pre-
+       determined rates. During the year a certain amount will be absorbed over
+       the various products. This is known as the total amount of absorbed
+       overheads.
+
+4. Treatment of over and under absorption of overheads: After the year
+       end the total amount of actual factory overheads is known. There is bound
+       to be some difference between the actual amount of overheads and the
+       absorbed amount of overheads. So, the overheads are generally either
+       under-absorbed or over-absorbed. The difference has to be adjusted
+       keeping in view of such differences and the reasons therefore.
+
+       Students will thus see that the whole discussion as above is meant to serve
+       the following two purposes:
+
+       (a) to charge various products and services with an equitable portion of the
+               total amount of factory overheads; and
+
+       (b) to charge factory overheads immediately as the product or the job is
+               completed without waiting for the figures of actual factory overheads.
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                               4.11
+
+     4. STEPS FOR THE DISTRIBUTION OF
+          OVERHEADS
+
+The various steps for the distribution of overheads have been discussed in detail
+as below:
+
+Estimation of overheads:
+
+By standing  Allocation of overheads:
+Orders
+             Directly         Apportionment of overheads:
+Through      attributable to
+budgeting    department/                           Re-apportionment of
+process      cost cenres
+                              On the basis of overheads:
+
+                              Benefit              Service        Absorption:
+
+                              received             department to  By actual units
+                                                                  at
+                              On the basis of Production          predetermined
+                              cause & effect departments          rate
+
+                              Other suitable
+
+                              basis
+
+4.1 Estimation and Collection of Overheads
+
+The amount of overheads is required to be estimated. The estimation is usually
+done with reference to past data adjusted for known future changes. The
+overhead expenses are usually collected through a system of standing
+orders.
+
+Standing Orders: In every manufacturing business, expenses are incurred on
+direct materials and direct labour in respect of several jobs or other units of
+production. Incurrence of these expenses are authorised by production orders or
+work orders. The term "Standing Order" denotes sanction for indirect expenses
+under various heads of expenditure.
+
+© The Institute of Chartered Accountants of India
+a  4.12  COST AND MANAGEMENT ACCOUNTING
+
+In large factories, usually the classification of indirect expenditures is combined
+with a system of Standing Orders (sometimes also referred as Service "Orders"). It
+is a system under which a number is allotted to each item of expense for the
+purpose of identification, and the same is continued from year to year. The
+extent of such analysis and the nomenclature adopted are settled by the
+management according to the needs of the industry.
+
+4.2 Allocation of Overheads over Various Departments or
+      Departmentalisation of Overheads
+
+Most of the manufacturing processes functions are performed in different
+departments of a factory. Some of the departments of the factory are engaged in
+production process while few may function as ancillary departments. The ancillary
+departments are service departments supporting the production departments in
+manufacturing, administration, selling & distribution of goods or services.
+
+Factory overheads which are related to any of the production or service
+departments are allocated to these departments.
+
+A department may be sub-divided into various cost centres for better cost control
+and performance evaluation. It is thus obvious that the principal object of setting
+up cost centres is to collect data, in respect of similar activities more conveniently.
+This avoids a great deal of cost analysis. When costs are collected by setting up
+cost centres, several items can be ascertained definitely and the element of
+estimation is reduced considerably. For instance, the allowance of the normal idle
+time or the amount to be spent on consumable stores, etc. There are two main
+types of cost centres - machine or personnel - depending on whether the process
+of manufacture is carried on at a centre by man or machine. For the convenience
+of recording of expenditure, cost centres are sometimes allotted a code number.
+
+Advantages of Departmentalisation: The collection of overheads department
+wise gives rise to the following advantages:
+
+(a) Better Estimation of Expenses: Some expenses which relate to the
+       departments will be estimated almost on an exact basis and, to that extent,
+       the accuracy of estimation of overheads will be higher.
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.13
+
+(b) Better Control: For the purpose of controlling expenses in a department, it is
+       obviously necessary that the figures in relation to each department should
+       be separately available. It is one of the main principles of control that one
+       should know for each activity how much should have been spent and how
+       much is actually spent. If information about expenses is available only for
+       factory as a whole, it will not be possible to know which department has
+       been over spending.
+
+(c) Ascertainment of Cost for each department: From the point of view of
+       ascertaining the cost of each job, the expenses incurred in the departments
+       through which the job or the product has passed should be known. It is only
+       then that the cost of the job or the product can be charged with the
+       appropriate share of indirect expenses. It is not necessary that a job must
+       pass through all the departments or that the work required in each
+       department should be the same for all jobs. It is, therefore, necessary that
+       only appropriate charge in respect of the work done in the department is
+       made. This can be done only if overheads for each department are known
+       separately.
+
+(d) Suitable Method of Costing: A suitable method of costing can be followed
+       differently for each department e.g., batch costing when a part is manu-
+       factured, but single or output costing when the product is assembled.
+
+4.3 Apportioning Overhead Expenses over Various
+      Departments
+
+Overheads which are related to more than one department are required to be
+distributed between/ among the departments. This distribution of overheads
+between/ among the departments is called apportionment. The example of
+overheads may include e.g. rent of building, power, lighting, insurance,
+depreciation etc. To apportioning these overheads over different departments
+benefiting thereby, it is necessary at first to determine the proportion of benefit
+received by each department and then distribute the total expenditure
+proportionately on that basis. But the same basis of apportionment cannot be
+followed for different items of overheads since the benefit of service to a
+department in each case has to be measured differently. Some of the bases that
+may be adopted for the apportionment of expenses are stated below:
+
+© The Institute of Chartered Accountants of India
+a  4.14                      COST AND MANAGEMENT ACCOUNTING
+
+Overhead Cost                                      Bases of Apportionment
+
+1. (i) Rent and other building Floor area, or volume of department
+               expenses
+
+       (ii) Lighting and heating
+               (conditioning)
+
+       (iii) Fire precaution service
+       (iv) Air- conditioning
+
+2. (i) Perquisites                                 Number of workers
+
+   (ii) Labour welfare expenses
+
+   (iii) Time keeping
+
+   (iv) Personnel office
+
+   (v) Supervision
+
+3. (i) Compensation to workers Direct wages
+       (ii) Holiday pay
+       (iii) ESI and PF contribution
+       (iv) Perquisites
+
+4. General overhead                                Direct labour hour, or Direct wages, or
+                                                   Machine hours.
+
+5. (i) Depreciation of plant and Capital values
+               machinery
+
+       (ii) Repairs and maintenance
+               of plant and machinery
+
+       (iii) Insurance of stock
+
+6. (i) Power/steam                                 Technical estimates
+               consumption
+
+       (ii) Internal transport
+       (iii) Managerial salaries
+
+7. Lighting expenses (light)                       No. of light points, or Area or Metered
+                                                   units
+
+8. Electric power         (machine Horse power of machines, or Number
+       operation)                        of machine hour, or value of machines
+                                         or units consumed.
+
+9. (i) Material handling                           Weight of materials, or volume of
+       (ii) Stores overhead                        materials, or value of materials or unit
+                                                   of materials.
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.15
+
+Some other basis of apportioning overhead costs: We have considered already
+that the benefit received by the department generally is the principal criterion on
+which the costs of service departments or common expenses are apportioned. But
+other bases of apportionments which may be used are mentioned below:
+
+(a) Analysis or survey of existing conditions.
+
+(b) Ability to pay.
+
+(c) Efficiency or incentive.
+
+A concern may have predominantly only one criterion or may use all (including
+the service or benefit criterion) for different phases of its activity.
+
+(a) Analysis or Survey of existing conditions: At times it may not be possible to
+       determine the advantage of an item of expenses without undertaking an
+       analysis of expenditure. For example, lighting expenses can be distributed over
+       departments only on the basis of the number of light points fixed in each
+       department.
+
+(b) Ability to pay: It is a principle of taxation which has been applied in cost
+       accounting as well for distributing the expenditure on the basis of income of
+       the paying department, on a proportionate basis. For example, if a company is
+       selling three different products in a territory, it may decide to distribute the
+       expenses of the sales organisation to the amount of sales of different articles in
+       these territories. This basis, though simple to apply, may be inequitable since
+       the expenditure charged to an article may have no relation to the actual effort
+       involved in selling it. Easy selling lines thus may have to bear the largest
+       proportion of expenses while, on the other hand, these should bear the lowest
+       charge.
+
+(c) Efficiency or Incentives: Under this method, the distribution of overheads
+       is made on the basis of pre-determined levels of production or sales. When
+       distribution of overhead cost is made on this basis and if the level of
+       production exceeds the pre-determined level of production the incidence of
+       overhead cost gets reduced and the total cost per unit of production or of
+       sales, lowered. The opposite is the effect if the assumed levels are not
+       reached.
+
+© The Institute of Chartered Accountants of India
+a           4.16  COST AND MANAGEMENT ACCOUNTING
+
+Thus, the department whose sales are increasing is able to show a greater profit
+and thereby is able to earn greater goodwill and appreciation of the management
+than it would have if the distribution of overheads was made otherwise.
+
+Difference between Allocation and Apportionment
+
+The difference between the allocation and apportionment is important to
+understand because the purpose of these two methods is the identification of the
+items of cost to cost units or centers. However, the main difference between the
+above methods is given below.
+
+Allocation                                         Apportionment
+
+Allocation deals with the whole items              Apportionment deals with the
+of cost, which are identifiable with               proportions of an item of cost for
+any one department. For example,                   example; the cost of the benefit of a
+indirect wages of three departments                service department will be divided
+are separately obtained and hence                  between those departments which has
+each department will be charged by                 availed those benefits.
+the respective amount of wages
+individually.
+
+Allocation is a direct process of                  Apportionment is an indirect process
+charging expenses to different cost                because there is a need for the
+centres                                            identification of the appropriate
+                                                   portion of an expense to be borne by
+                                                   the different departments benefited.
+
+· The allocation or apportionment of an expense is not dependent on its
+    nature, but the relationship between the expense and the cost centre decides
+    that whether it is to be allocated or apportioned.
+
+· Allocation is a much wider term than apportionment.
+
+4.4 Re-apportionment of Service Department Overheads
+      over Production Departments
+
+The re-apportionment of the service department cost to the production
+department is known as secondary distribution. The suggestive bases that may be
+adopted for re-apportionment are given below:
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                                       4.17
+
+Cost of the Service Departments:                   Basis
+
+1. Maintenance and Repair shop                     Direct labour hours, Machine hours,
+2. Planning and progress                           Direct labour wages, Asset value x
+3. Tool room                                       Hours worked
+
+4. Canteen and Welfare                             No of direct workers
+5. Hospital and Dispensary                         No. of employees etc.
+6. Personnel Department
+
+7. Time-keeping                                    No. of card punched, No. of employees
+
+8. Computer Section                                Computer hours, Specific allocation to
+                                                   departments
+
+9. Power House (electric lighting Floor area, Cubic content, No. of
+
+cost)                                              electric Points, Wattage.
+
+10. Power House (electric power cost) Horse power, Kwh, Horse power ×
+                                                       Machine hours, Kwh × Machine hours
+
+11. Stores Department                              No. of requisitions, Weight or value of
+                                                   Materials issued.
+
+12. Transport Department                           Crane hours, Truck hours, Truck
+13. Fire Protection                                mileage, Truck tonnage, Truck ton-
+                                                   hours, Tonnage handled. No. of
+                                                   packages of Standard size
+
+                                                   Capital values
+
+14. Inspection                                     Inspection hours
+
+Notes:
+
+(1) Repairs included in repairs shop cost, building maintenance cost included in
+      maintenance shop cost etc. should be apportioned on the basis of capital values.
+
+(2) Economy, practicability, equitability and reliability are the matters of
+      consideration for selection of the base.
+
+© The Institute of Chartered Accountants of India
+a  4.18                    COST AND MANAGEMENT ACCOUNTING
+
+Methods for Re-apportionment: The re-apportionment of service department
+expenses over the production departments may be carried out by using any one
+of the following methods:
+
+(i) Direct re-distribution method.
+
+(ii) Step method of secondary distribution or non-reciprocal method.
+
+(iii) Reciprocal Service method.
+
+                           Direct re-distribution
+                                   method
+
+Methods for Re-            Step method or non-     Simultaneous Equation
+apportionment               reciprocal method.               method
+
+                           Reciprocal Service      Trial and error method
+                                 method.
+
+                                                   Repeated distribution
+                                                            method
+
+(i) Direct Re-Distribution Method: Service department costs under this method
+       are apportioned over the production departments only, ignoring the services
+       rendered by one service department to the other. To understand the
+       applications of this method, go through the illustration which follows.
+
+ILLUSTRATION 1
+
+XL Ltd., has three production departments and four service departments. The expenses
+for these departments as per Primary Distribution Summary are as follows:
+
+Production Departments:                                    (`)          (`)
+Dept.-A                                            30,00,000    80,00,000
+Dept.-B                                            26,00,000
+Dept.-C                                            24,00,000            (`)
+Service Departments:
+Stores                                                     (`)   9,60,000
+Time-keeping and Accounts                           4,00,000
+Power                                               3,00,000
+Canteen                                             1,60,000
+                                                    1,00,000
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                                      4.19
+
+The following information is also available in respect of the production departments:
+
+Horse power of Machine                                 Dept. A    Dept. B        Dept. C
+Number of workers                                            300        300            200
+Value of stores requisition in (`)                            20         15             15
+
+                                                       2,50,000   1,50,000       1,00,000
+
+PREPARE a statement apportioning the costs of service departments over the
+production departments using direct re-distribution method.
+SOLUTION
+Secondary Overhead Distribution Statement
+
+Items of cost        Basis                         of  Total      Production Departments
+                                                          (`)
+(as per primary apportionment                                     A (`)  B (`)   C (`)
+
+distribution
+
+summary)
+
+Cost as per primary                                    80,00,000 30,00,000 26,00,000 24,00,000
+distribution
+summary
+
+Stores (5:3:2)       Value of Store 4,00,000 2,00,000 1,20,000                   80,000
+                     requisition
+
+Time-keeping and No. of workers                        3,00,000 1,20,000 90,000  90,000
+Accounts (4:3:3)
+
+Power (3:3:2)        H.P. of Machine 1,60,000 60,000 60,000 40,000
+
+Canteen (4:3:3)      No. of workers 1,00,000 40,000 30,000 30,000
+
+                                                       89,60,000 34,20,000 29,00,000 26,40,000
+
+(ii) Step Method or Non-Reciprocal Method: This method gives cognizance to
+       the services rendered by service department to another service department.
+       Therefore, as compared to previous method, this method is more complicated
+       because a sequence of apportionments has to be selected here. The sequence
+       here begins with the department that renders maximum number of
+       services to the other service department(s). In other words, the cost of the
+
+© The Institute of Chartered Accountants of India
+a            4.20                 COST AND MANAGEMENT ACCOUNTING
+
+service department that serves the largest number of services to the other
+service department(s) and production department(s) is distributed first. After
+this, the cost of service department serving the next largest number of
+departments is apportioned.
+
+This process continues till the cost of last service department is apportioned.
+The cost of last service department is apportioned among production
+departments only.
+
+Some authors are of the view that the cost of service department with
+largest amount of cost should be distributed first.
+
+ILLUSTRATION 2
+Suppose the expenses of two production departments A and B and two service
+departments X and Y are as under:
+
+Department            Amount (`)                        Apportionment Basis
+
+                                                   Y          A              B
+
+Dept.-X               2,00,000                     25%        40%            35%
+Dept.-Y               1,50,000
+Dept.-A               3,00,000                     --         40%            60%
+Dept.-B               3,20,000
+
+PREPARE a statement apportioning the costs of service departments over the
+production departments using step method.
+
+SOLUTION
+
+                      Summary of Overhead Distribution
+
+Departments                        X (`)               Y (`)      A (`)          B (`)
+                              2,00,000             1,50,000   3,00,000       3,20,000
+Amount as given above        (2,00,000)
+                                                     50,000     80,000         70,000
+Expenses of service
+                                                   2,00,000   3,80,000       3,90,000
+dept.-X is apportioned
+
+among                 other
+
+departments- Y, A and B
+
+in the ratio (5:8:7)
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                              4.21
+
+Expenses of Dept.-Y                                - (2,00,000)  80,000    1,20,000
+apportioned between
+department A and B in                              Nil  Nil      4,60,000  5,10,000
+the ratio (2:3)
+
+Total
+
+(iii) Reciprocal Service Method: This method recognises the fact that where there
+       are two or more service departments they may render services to each other
+       and, therefore, these inter-departmental services are to be given due
+       weight while re-distributing the expenses of the service departments.
+
+       The methods available for dealing with reciprocal services are:
+
+       (a) Simultaneous equation method;
+
+       (b) Trial and error method;
+
+       (c) Repeated distribution method.
+
+                       Reciprocal Service Method
+
+  Simultaneous         Trial and Error                                  Repeated
+Equation Method            Method                                Distribution Method
+
+(a) Simultaneous Equation Method:
+
+       According to this method firstly, the costs of service departments are
+       ascertained. These costs are then re-distributed to production departments
+       on the basis of given percentages. (Refer to the following illustration to
+       understand the method)
+
+© The Institute of Chartered Accountants of India
+      a       4.22                  COST AND MANAGEMENT ACCOUNTING
+
+ILLUSTRATION 3
+Service departments' expenses
+
+Boiler house                                                     (`)
+Pump room                                                  3,00,000
+Total
+                                                             60,000
+                                                           3,60,000
+
+The allocation basis is:
+
+                    Production Department                             Service Department
+
+                          A                        B       Boiler House Pump Room
+
+Boiler House              60%                      35%                -    5%
+Pump Room
+                          10%                      40%                50%  -
+
+SOLUTION
+
+The total expenses of the two service departments will be determined as follows:
+
+Let B stand for Boiler House expenses and P for Pump Room expenses.
+
+Then
+
+      B = 3,00,000 + 0.50 P
+
+      P = 60,000 + 0.05 B
+
+Substituting the value of B,
+
+      P       = 60,000 + 0.05 (3,00,000 + 0.5 P)
+
+              = 60,000 + 15,000 + 0.025 P
+
+              = 75,000 + 0.025 P
+
+      P - 0.025P = 75,000
+
+      P       =             75,000    =  `         76,923
+                            0.975   
+
+The total of expenses of the Pump Room is `76,923 and that of the Boiler House
+is `3,38,462 i.e., `3,00,000 + 0.5 × ` 76,923.
+
+© The Institute of Chartered Accountants of India
+       OVERHEADS-ABSORPTION COSTING METHOD                          4.23
+
+The expenses will be allocated to the production departments as under:
+
+                                                          Production Department
+
+                                                          Dept.-A          Dept.-B
+
+Boiler House (60% and 35% of ` 3,38,462)                  2,03,077         1,18,462
+
+Pump Room (10% and 40% of ` 76,923)                       7,692            30,769
+
+Total                                                     2,10,769         1,49,231
+
+The total of expenses apportioned to A and B is ` 3,60,000.
+
+(b) Trial and Error Method:
+
+       According to this method the cost of one service cost centre is apportioned to
+       another service cost centre. The cost of another service centre plus the share
+       received from the first cost centre is again apportioned to the first cost centre.
+       This process is repeated till the amount to be apportioned becomes negligible,
+       that means repeated distribution method is followed to the extent of
+       service departments only. All apportioned amounts for each service cost
+       centre are added to get the total apportioned cost. These total service cost
+       centre costs are redistributed to the production departments. Trial and
+       error method and Simultaneous equation method gives the same result. (Refer
+       to the following illustration to understand this method.)
+
+ILLUSTRATION 4
+
+Sanz Ltd., is a manufacturing company having three production departments, `A', `B' and
+`C' and two service departments `X' and `Y'. The following is the budget for December 2022:
+
+                 Total (`)   A (`)                 B (`)  C (`)     X (`)  Y (`)
+
+Direct material                1,00,000 2,00,000 4,00,000 2,00,000 1,00,000
+Direct wages                   5,00,000 2,00,000 8,00,000 1,00,000 2,00,000
+Factory rent     4,00,000
+Power            2,50,000
+Depreciation     1,00,000
+Other overheads  9,00,000
+
+© The Institute of Chartered Accountants of India
+        a     4.24            COST AND MANAGEMENT ACCOUNTING
+
+Additional information:          500                       250    500    250      500
+Area (Sq. ft.)                    20                        40     20     10       10
+Capital value of assets
+(` lakhs)                      1,000                     2,000  4,000  1,000    1,000
+Machine hours                     50                        40     20     15       25
+Horse power of machines
+
+A technical assessment of the apportionment of expenses of service departments is as
+under:
+
+                           A                          B         C      X        Y
+
+Service Dept. `X' (%)      45                         15        30     ­        10
+Service Dept. `Y' (%)
+                           60                         35        ­      5        ­
+
+Required:
+(i) PREPARE a statement showing distribution of overheads to various departments.
+(ii) PREPARE a statement showing re-distribution of service departments expenses to
+
+       production departments using Trial and error method.
+SOLUTION
+(i) Overhead Distribution Summary
+
+              Basis Total (`) A (`) B (`) C (`) X (`) Y (`)
+
+Direct        Direct       ­                       ­      ­         ­ 2,00,000 1,00,000
+
+materials
+
+Direct wages Direct        ­                       ­      ­         ­ 1,00,000 2,00,000
+
+Factory rent  Area         4,00,000 1,00,000 50,000 1,00,000 50,000 1,00,000
+(2:1:2:1:2)
+
+Power         H.P. ×       2,50,000                50,000 80,000 80,000 15,000  25,000
+
+(10:16:16:3:5)* Machine
+                     Hrs.
+
+© The Institute of Chartered Accountants of India
+             OVERHEADS-ABSORPTION COSTING METHOD                     4.25
+
+Depreciation Capital    1,00,000 20,000 40,000 20,000 10,000 10,000
+
+(2:4:2:1:1)  value
+
+Other        Machine 9,00,000 1,00,000 2,00,000 4,00,000 1,00,000 1,00,000
+overheads    hrs.
+
+(1:2:4:1:1)
+
+                        16,50,000 2,70,000 3,70,000 6,00,000 4,75,000 5,35,000
+
+*{(1000×50) : (2000×40) : (4000×20) : (1000×15) : (1000×25)}
+(50000 : 80000 : 80000 : 15000 : 25000)
+
+(ii) Redistribution of Service Department's expenses:
+
+                                                   Service Departments
+
+                                                              X (`)        Y (`)
+
+Overheads as per primary distribution                         4,75,000     5,35,000
+
+(i) Apportionment of Dept-X expenses to Dept-Y                       ---   47,500
+       (10% of ` 4,75,000)
+
+                                                                     ---   5,82,500
+
+(ii) Apportionment of Dept-Y expenses to Dept-X               29,125              ---
+
+       [5% of (` 5,35,000 + ` 47,500)]
+
+(i) Apportionment of Dept-X expenses to Dept-Y                       ---   2,913
+       (10% of ` 29,125)
+
+(ii) Apportionment of Dept-Y expenses to Dept-X               146                 ---
+
+       (5% of ` 2,913)
+
+Total                                                         5,04,271     5,85,413
+
+© The Institute of Chartered Accountants of India
+a  4.26  COST AND MANAGEMENT ACCOUNTING
+
+Distribution of Service departments' overheads to Production departments
+
+                                                   Production Departments
+
+                                                   A (`)  B (`)              C (`)
+
+Overhead as per primary distribution               2,70,000 3,70,000         6,00,000
+Dept- X (90% of ` 5,04,300)
+Dept- Y (95% of ` 5,85,400)                        2,26,900 75,600           1,51,300
+
+                                                   3,51,300 2,04,900                ---
+
+                                                   8,48,200 6,50,500         7,51,300
+
+(c) Repeated Distribution Method:
+
+       Under this method, service departments' costs are distributed to other
+       service and production departments on agreed percentages and this
+       process continues to be repeated, till the figures of service departments are
+       either exhausted or reduced to too small a figure. (Refer to the following
+       illustration to understand this method)
+
+ILLUSTRATION 5
+
+Taking all the information from Illustration 4 above, PREPARE a statement showing re-
+distribution of service departments' expenses to production departments using repeated
+distribution method. Also CALCULATE machine hour rates of the production
+departments `A', `B' and `C'.
+
+SOLUTION
+
+Redistribution of Service Department's expenses using `repeated distribution
+method':
+
+                                                   A (`) B (`) C (`)  X (`)  Y (`)
+
+Total overheads {Refer (i) of 2,70,000 3,70,000 6,00,000 4,75,000 5,35,000
+Solution to Illustration 4}
+
+Dept. X overhead apportioned 2,13,750 71,250 1,42,500 (4,75,000)             47,500
+in the ratio (45:15:30: --:10)
+
+Dept. Y overhead apportioned 3,49,500 2,03,875            - 29,125 (5,82,500)
+in the ratio (60:35: --:5: --)
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                                      4.27
+
+Dept. X overhead apportioned 13,106 4,369                         8,738  (29,125)     2,912
+in the ratio (45:15:30: --:10)                                                146    (2,912)
+
+Dept. Y overhead apportioned 1,747 1,019                          -         (146)         15
+                                                                                  -     (15)
+in the ratio (60:35: --:5: --)                                                   -
+                                                                                            -
+Dept. X overhead apportioned                       65  22         44
+
+in the ratio (45:15:30: --:10)
+
+Dept. Y overhead apportioned                       9   6          -
+
+in the ratio (60:35: --:5: --)
+
+                                8,48,177 6,50,541 7,51,282
+
+Calculation of machine hour rate:
+
+A Total overheads (`)                                          A           B                  C
+B Machine hours                                        8,48,177   6,50,541           7,51,282
+C Machine hour rate (`) [A ÷ B]
+                                                          1,000      2,000              4,000
+                                                        848.18     325.27             187.82
+
+4.5 Absorbing Overheads over Cost Units, Products, etc.
+
+Collection of the figure of overheads for the factory as a whole or for various
+departments is not enough. It is clearly necessary to ascertain how much of the
+overheads is to be debited to the cost of the various jobs, products etc. This process
+is called absorbing the overhead to cost units. We take up below the various
+implications of this process. However, if only one uniform type of work is done,
+the task is easy and under such a situation the overhead expenses to be absorbed
+may be calculated by dividing actual overheads by the number of units of work
+done or estimated overheads by the estimated output.
+
+The whole process of overhead distribution and absorption to units produced is
+depicted in the synopsis as below:
+
+© The Institute of Chartered Accountants of India
+a  4.28  COST AND MANAGEMENT ACCOUNTING
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                        4.29
+
+     5. METHODS OF ABSORBING OVERHEADS TO
+          VARIOUS PRODUCTS OR JOBS
+
+The method selected for charging overheads to products or jobs should be such
+as will ensure:
+
+(i) that the total amount charged (or recovered) in a period does not differ
+       materially from the actual expenses incurred in the period. and
+
+(ii) that the amount charged to individual jobs or products is equitable. In case of
+       factory overhead, this means:
+
+       (a) that the time spent on completion of each job should be taken into
+               consideration;
+
+       (b) that a distinction should be made between jobs done by skilled workers
+               and those done by unskilled workers. and
+
+       (c) that jobs done by manual labour and those done by machines should be
+               distinguished.
+
+In addition, the methods should be capable of being used conveniently; and yield
+uniform result from period to period as far as possible; any change that is
+apparent should reflect a change in the underlying situation such as substitution
+of human labour by machines.
+
+Several methods are commonly employed either individually or jointly for
+computing the appropriate overhead rate. The more common of these are:
+
+                               Methods of Absorption of Overheads
+
+Percentage  Percentage  Percentage                 Labour  Machine  Rate per
+ of direct   of prime    of direct                  hour     hour    unit of
+ materials       cost                                rate     rate   output
+                        labour cost
+
+© The Institute of Chartered Accountants of India
+a  4.30            COST AND MANAGEMENT ACCOUNTING
+
+(1) Percentage of direct materials,
+(2) Percentage of prime cost,
+(3) Percentage of direct labour cost,
+(4) Labour hour rate,
+(5) Machine hour rate and
+(6) Rate per unit of Output
+
+5.1 Percentage of Direct Material Cost
+
+Under this method, the cost of direct material consumed is the base for calculating the
+amount of overhead absorbed. This overhead rate is computed by the following
+formula:
+
+          Overhead rate = Total Production Overheads of a Department ×100
+                                 Budgeted Direct Material cost of all products
+
+5.2 Percentage of Prime Cost Method
+
+This method is based on the fact that both materials as well as labour contribute
+in raising factory overheads. Hence, the total of the two i.e. Prime cost should be
+taken as base for absorbing the factory overhead. The overhead rate in this
+method is computed by the following formals:
+
+ Overhead rate = Total Production Overheads of a Department ×100
+                                               Prime cost
+
+Example for the above two methods:
+
+Suppose for a given period, actual figures are estimated as follows:
+
+                                                   `
+
+Direct materials                                   2,00,000
+
+Direct labour                                      1,00,000
+
+Factory overheads                                  90,000
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.31
+
+The percentage of factory overheads to direct materials will be 45%, to prime cost
+30%. If, on a job, material cost is ` 10,000 and direct labour is `7,000 the cost,
+after absorbing factory overhead, will be as follows:
+
+(i) ` 17,000 + 45% ` 10,000 or ` 21,500,
+
+(ii) ` 17,000 + 30% ` 17,000 or ` 22,100, and
+
+One can see how, with a different method, the works cost comes out to be
+different. Of these methods, the first and second are generally considered to be
+unsuitable on account of the following reasons:
+
+(i) Manufacturing overhead expenses are mostly a function of time i.e., time is the
+       determining factor for the incurrence and application of manufacturing
+       overhead expenses. That they are so would be clear if we recall that overhead
+       expenses, specially manufacturing expenses, can in the ultimate analysis be
+       regarded as expenditure incurred in providing the necessary facilities and
+       service to workers employed in the productive process. The question of
+       facilities and service made available to workers naturally is dependent on the
+       length of time during which workers make use of the facilities. It may,
+       therefore, be said that the job or product on which more time has been spent
+       would entail larger manufacturing expenses than the job requiring less time. The
+       factor is ignored altogether by the first method and largely by the second
+       method.
+
+(ii) Overheads are neither related to the prime cost nor to direct material cost
+       except to a very small extent. Thus, if the percentage of material cost is used
+       when there are two jobs requiring the same operational time but using
+       material having varying prices, their manufacturing overhead cost would be
+       different whereas this should not normally be so.
+
+       The method of absorbing overhead costs on the basis of prime cost also does
+       not take into consideration the time factor. The fact that the amount includes
+       labour cost in addition to material cost does not render the prime cost to be
+       more suitable; infact, the results are liable to be more misleading because of
+       the cumulative error of using both the labour and material cost as the basis of
+       allocation of overhead expenses, on neither of which they are already
+       dependent.
+
+© The Institute of Chartered Accountants of India
+a  4.32               COST AND MANAGEMENT ACCOUNTING
+
+(iii) Since material prices are prone to frequent and wide fluctuations, the
+       manufacturing overheads, if based on material cost or prime cost, also would
+       fluctuate violently from period to period.
+
+(iv) The skill of the workers involved and whether machines were used or not, are
+       ignored when these methods are used.
+
+Percentage of materials cost may, however, be used for the limited purpose of
+absorbing material handling and store overheads.
+
+5.3 Percentage of Direct Labour Cost
+
+Formula to be used under this method is:
+Direct Labour Cost Percentage Rate
+
+    Overhead rate = Total Production Overheads of a Department ×100
+                                            Direct Labour cost
+
+   Advantages                                      Disadvantages
+
+(i) The method is simple and (i) It gives rise to certain inaccuracies
+
+economical to apply.                               due to the time factor not being
+
+                                                   given full importance.
+
+(ii) The time factor is given (ii) Where machinery is used to some
+
+recognition even if indirectly.                    extent in the process of
+
+                                                   manufacture, an allowance for such
+
+                                                   a factor is not made.
+
+(iii) Total expenses recovered will (iii) It does not provide for varying skills
+
+not differ much from the                           of workers
+
+estimated figure since total
+
+wages paid are not likely to
+
+fluctuate much.
+
+5.4 Labour Hour Rate Method
+
+This method is an improvement on the percentage of direct wage basis, as it fully
+recognises the significance of the element of time in the incurring and absorption of
+manufacturing overhead expenses. This method is admirably suited to operations
+which do not involve any large use of machinery. To calculate labour hour rate,
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.33
+
+the amount of factory overheads is divided by the total number of direct labour
+hours. Suppose factory overheads are estimated at `90,000 and labour hours at
+1,50,000. The overhead absorption rate will be `0.60. If 795 direct labour hours
+are spent on a job, `477 will be absorbed as overhead. It can be calculated for
+each category of workers.
+
+Formula to be used under this method is:
+
+Direct Labour Hour Rate = Total Production Overheads of a Department ×100
+                                                     Direct Labour Hour
+
+5.5 Machine Hour Rate Method
+
+Machine hour rate implies, cost of running a machine for an hour to produce
+goods. There are two methods of computing machine hour rates:
+
+(i) Direct Machine hour rate: According to the first method, only the
+        expenses directly or immediately connected with the operation of the
+        machine are taken into account e.g., power, depreciation, repairs and
+        maintenance, insurance, etc. The rate is calculated by dividing the estimated
+        total of these expenses for a period by the estimated number of operational
+        hours of the machines during the period.
+
+(ii) Comprehensive Machine hour rate: It will be obvious, however, that in
+        addition to the expenses stated above there may still be other
+        manufacturing expenses such as supervision charges, shop cleaning and
+        lighting, consumable stores and shop supplies, shop general labour, rent
+        and rates, etc. incurred for the department as a whole and, hence, not
+        charged to any particular machine or group of machines. In order to see
+        that such expenses are not left out of production costs, one should include
+        a portion of such expenses to compute the machine hour rate. Alternatively,
+        the overheads not directly related to machines may be absorbed on the
+        basis of Productive Labour Hour Rate Method or any other suitable method.
+
+Note: Sometimes even it is prefered to add the wages paid to the machine
+operator in order to get a comprehensive rate of working a machine for one hour.
+
+By the machine hour rate method, manufacturing overhead expenses are charged
+to production on the basis of number of hour machines are used on jobs or work
+orders. Here each machine or group of machines is treated as a cost centre.
+
+© The Institute of Chartered Accountants of India
+a  4.34  COST AND MANAGEMENT ACCOUNTING
+
+Overheads apportioned to a production department are further apportioned to
+machines or group of machines. These apportioned costs are divided by the
+estimated productive machine hour to get machine hour rate.
+
+The steps involved in determining of Machine hour rate are as follows:
+
+  Step1: Calculate total of overheads apportioned to a production department (as
+  discussed earlier in this chapter)
+
+Step 2: Apportion further these overheads to machines or group of machines in
+the department.
+
+Step 3: Allocate machine specific costs (directly identifiable with the machine)
+
+  Step 4: Estimate total productive hours for the machine
+
+  Step 5: Aggregate overheads as apportioned in step-2 and allocated in step-3
+  and divide it by Estimated total productive hours
+
+  Step 6: The resultant figure is machine hour rate
+The above costs are further divided into fixed cost or standing charges and variable
+cost. Costs which remain constant irrespective of operation of machine are treated
+as fixed cost or standing charges. Examples of fixed cost include insurance
+premium for machine, rent for premises, supervisor's salary, depreciation (if
+relates to effluxion of time) etc.
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                       4.35
+
+Costs which vary with the operation of the machine are treated as variable cost.
+Examples of variable cost include cost for power, cost for consumables (lubricants,
+oils etc.), repairs and maintenance, depreciation (if it relates to activity) etc.
+
+Advantages and disadvantages of Machine hour rate:
+
+Advantages                                                Disadvantages
+
+(1) Where machines are the main (1) Additional data concerning the
+
+factor of production, it is usually                operation time of machines, not
+
+the best method of charging                        otherwise necessary, must be
+
+machine operating expenses to                      recorded and maintained.
+
+production.
+
+(2) The under-absorption of (2) As general department rates for
+
+machine overheads would                            all the machines in a depart-
+
+indicate the extent to which the                   ment may be suitable, the
+
+machines have been idle.                           computation of a separate
+
+                                                   machine hour rate for each
+
+                                                   machine or group of machines
+
+                                                   would mean further additional
+
+                                                   work.
+
+(3) It is particularly advantageous
+       where one operator attends to
+       several machines (e.g. automatic
+       screw manufacturing machine),
+       or where several operators are
+       engaged on the machine e.g.
+       the belt press used in making
+       conveyer belts.
+
+5.6 Rate Per Unit of Output Method
+
+This is the simplest of all the methods. In this method overhead rate is determined by
+the following formula:
+
+                                                      Amount of overheads
+                              Overheads Rate=
+
+                                                         Number of units
+
+© The Institute of Chartered Accountants of India
+a          4.36  COST AND MANAGEMENT ACCOUNTING
+
+     6. TYPES OF OVERHEAD RATES
+
+The overhead rates may be of the following types:
+
+                 Type of Overhead Rates
+
+1. Normal  2. Pre-determined                       3. Blanket  4. Departmental
+    Rate       Rate                                    Rate        Rate
+
+1. Normal Rate: This rate is calculated by dividing the actual overheads by
+       actual base. It is also known as actual rate.
+
+       It is calculated by the following formula:
+
+                                             Actual amount of overheads
+           Normal overhead Rate =
+
+                                                        Actual base
+
+2. Pre-determined Overhead Rate: This rate is determined in advance by
+       estimating the amount of the overhead for the period in which it is to be
+       used. It is computed by the following formula:
+
+           Pre-determined Rate = Budgeted amount of overheads
+                                                      Budgeted base
+
+The amount of overhead rate of expenses for absorbing them to production
+may be estimated on the following three bases.
+
+(1) The figure of the previous year or period may be adopted as the
+       overhead rate to be charged to production in the current year. The
+       assumption is that the value of production as well as overheads will
+       remain constant or that the two will change, proportionately.
+
+(2) The overhead rate for the year may be determined on the basis of
+       estimated expenses and anticipated volume of production activ-
+       ity.
+
+       For instance, if expenses are estimated at `10,000 and output at 4,000
+       units, the overhead rate will be `2.50 per unit.
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.37
+
+(3) The overhead rate for a year may be fixed on the basis of the
+       normal volume of the business.
+
+3. Blanket Overhead Rate: Blanket overhead rate refers to the computation
+       of one single overhead rate for the whole factory. It is to be
+       distinguished from the departmental overhead rate which refers to a
+       separate rate for each individual cost centre or department. The use of
+       blanket rate may be proper in certain factories producing only one major
+       product in a continuous process or where the work performed in every
+       department is fairly uniform or standardised.
+
+This overhead rate is computed as follows:
+
+Blanket Rate =                                     Total overheads for the factory
+
+                Total number of units of base for the factory
+
+       A blanket rate should be applied in the following cases:
+       (1) Where only one major product is being produced.
+       (2) Where several products are produced, but
+
+               (a) All products pass through all departments; and
+               (b) All products are processed for the same length of time in each
+
+                       department.
+       Where these conditions do not exist, departmental rates should be used.
+4. Departmental Overhead Rate: It refers to the computation of one single
+       overhead rate for a particular production unit or department. Where the
+       product lines are varied or machinery is used to a varying degree in the
+       different departments, that is, where conditions throughout the factory are
+       not uniform, the use of departmental rates is to be preferred.
+       This overhead rate is determined by the following formula:
+
+         Departmental overhead Rate = Overheads of department or cost centre
+                                                                   Corresponding base
+
+© The Institute of Chartered Accountants of India
+a  4.38  COST AND MANAGEMENT ACCOUNTING
+
+ILLUSTRATION 6
+
+A machine costing ` 1,00,00,000 is expected to run for 10 years. At the end of this
+period its scrap value is likely to be ` 9,00,000. Repairs during the whole life of the
+machine are expected to be ` 18,00,000 and the machine is expected to run 4,380
+hours per year on the average. Its electricity consumption is 15 units per hour, the
+rate per unit being ` 5. The machine occupies one-fourth of the area of the
+department and has two points out of a total of ten for lighting. The foreman has to
+devote about one sixth of his time to the machine. The monthly rent of the
+department is ` 30,000 and the lighting charges amount to ` 8,000 per month. The
+foreman is paid a monthly salary of ` 19,200. FIND OUT the machine hour rate,
+assuming insurance is @ 1% p.a. and the expenses on oil, etc., are ` 900 per month.
+
+SOLUTION
+
+Total number of hours per annum- 4,380
+
+Total number of hours per month- 365
+
+                              Computation of Machine Hour Rate
+
+                                                    Per month (`) Per hour (`)
+
+Fixed costs (Standing Charges)                      75,833  266.76
+Depreciation (Refer working note-1)                  7,500
+Rent (`30,000 × ¼ )                                  1,600
+Lighting charges {(`8,000 × 2 points) ÷ 10 points}   3,200
+Foreman's salary (`19,200 × 1/6)                       900
+Sundry expenses (oil etc.)                           8,333
+Insurance {(1% of ` 1,00,00,000) ÷ 12 months}
+                                                    97,366
+Variable costs:
+Repairs (Refer working note -2)                               41.10
+Electricity (15 units × ` 5)                                  75.00
+Machine Hour rate                                           382.86
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.39
+
+Working Notes:
+(1) Depreciation per month = Cost of Machine-Scrap value
+
+                                                  Life of the machine
+
+                                       = `1,00,00,000-` 9,00,000 =` 75,833
+                                            (10 years ×12months) *
+
+       *In the question the life of the machine is given as 10 years and it is also
+       mentioned the machine will run for 4,380 hours per annum. The depreciation
+       can be calculated either on the basis of time i.e. 10 years or on the basis of
+       activity of 43,800 hours (4,380 hours p.a.)
+
+(2) Repairs for the whole life is ` 18,00,000, which can be linked to activity level of
+       43,800 hours. Thus, Repairs cost per hour = `18,00,000 = ` 41.10
+                                                                   43,800 hours
+
+ILLUSTRATION 7
+
+A machine shop cost centre contains three machines of equal capacities. To
+operate these three machines nine operators are required i.e. three operators on
+each machine. Operators are paid ` 20 per hour. The factory works for fourty eight
+hours in a week which includes 4 hours set up time. The work is jointly done by
+operators. The operators are paid fully for the fourty eight hours. In additions they
+are paid a bonus of 10 per cent of productive time. Costs are reported for this
+company on the basis of thirteen four-weekly period.
+
+The company for the purpose of computing machine hour rate includes the direct
+wages of the operator and also recoups the factory overheads allocated to the
+machines. The following details of factory overheads applicable to the cost centre
+are available:
+
+ Depreciation 10% per annum on original cost of the machine. Original cost of
+     the each machine is `52,000.
+
+ Maintenance and repairs per week per machine is `60.
+
+ Consumable stores per week per machine are `75.
+
+ Power: 20 units per hour per machine at the rate of 80 paise per unit. No
+     power is used during the set-up hours.
+
+© The Institute of Chartered Accountants of India
+a       4.40                COST AND MANAGEMENT ACCOUNTING
+
+ Apportionment to the cost centre: Rent per annum `5,400, Heat and Light per
+     annum `9,720, foreman's salary per annum `12,960 and other miscellaneous
+     expenditure per annum `18,000.
+
+Required:
+CALCULATE the cost of running one machine for a four week period.
+SOLUTION
+Effective Machine hour for four-week period
+= Total working hours ­ unproductive set-up time
+= {(48 hours × 4 weeks) ­ {(4 hours × 4 weeks)}
+= (192 ­ 16 hours) =176 hours.
+(i) Computation of cost of running one machine for a four week period
+
+                                                     (`)  (`)
+
+(A) Standing charges (per annum)
+
+        Rent                                          5,400
+                                                      9,720
+        Heat and light                               12,960
+                                                     18,000
+        Forman's salary                              46,080
+
+        Other miscellaneous expenditure                          1,181.54
+
+   Standing charges (per annum)
+
+   Total expenses for one machine for four
+
+   week period
+
+                ` 46, 080                          
+                                                   
+     3  machines ×13  four  - week period          
+
+   Wages (48 hours × 4 weeks × ` 20 × 3                   11,520.00
+   operators)                                              1,056.00
+
+   Bonus {(176 hours × ` 20 × 3 operators)                13,757.54
+   10%}
+
+   Total standing charges
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                             4.41
+
+(B) Machine Expenses                                                     400.00
+
+Depreciation                                                             240.00
+                                                                         300.00
+  `52,  000  × 10%  ×                              1                   2,816.00
+                                                                       3,756.00
+                       13  four  -  week              period         17,513.54
+
+Repairs and maintenance (`60  4 weeks)
+
+Consumable stores (`75  4 weeks)
+
+Power (176 hours  20 units ` 0.80)
+
+              Total machine expenses
+       (C) Total expenses (A) + (B)
+(ii) Machine hour rate = ` 17,513.54 = `99.51
+
+                                   176 hours
+
+     7. TREATMENT OF UNDER-ABSORBED AND
+          OVER­ABSORBED OVERHEADS IN COST
+          ACCOUNTING
+
+Overhead expenses are usually applied to production on the basis of pre-
+determined rates. Production overheads are to be determined in advance for
+fixing selling price, quote tender price and to formulate budgets etc.
+
+Pre-determined overhead rate = Estimated / Normal overheads for the period
+                                             Budgeted Number of units during the period
+
+The actual overhead rate will rarely coincide with the pre-determined overhead
+rate, due to variation in pre-determined overhead rate and actual overhead rate.
+Such a variation may arise due to any one of the following situations:
+
+(i) Estimated overheads for the period under consideration may remain the
+       same or they coincide with actual overheads but the number of units
+       produced during the period is either more or less in comparison with
+       budgeted figure. In the former case actual overhead rate will be less and in
+       the latter case, actual overhead rate will be more than the pre-determined
+
+© The Institute of Chartered Accountants of India
+   a  4.42            COST AND MANAGEMENT ACCOUNTING
+
+       overhead rate, hence over-absorption and under-absorption will occur
+       respectively.
+
+(ii) Similarly, if the number of units actually produced during the period
+       remains the same as budgeted figure but the actual overheads incurred
+       are more or less than the estimated overheads for the period, then a
+       situation of under-absorption or over-absorption will arise respectively.
+
+(iii) If changes occur in different proportion both in the actual overheads and
+       in the number of units produced during the period, then a situation of
+       under or over-absorption (depending upon the situation) will arise.
+
+(iv) If the changes in the numerator (i.e. in actual overheads) and denominator
+       (i.e. in number of units produced) occur uniformly (without changing the
+       proportion between the two) then a situation of neither under nor of over-
+       absorption will arise.
+
+Such over or under-absorption as arrived at under different situations may also
+be termed as overhead variance. The amount of over-absorption being
+represented by a credit balance in the accounts and the amount of under-
+absorption as a debit balance.
+
+The situations of under/ over absorption can be summarized as below:
+
+When the absorbed amount is less than the actual amount it is called under-
+absorption. Similarly, when the absorbed amount is more than the actual
+amount it is called over-absorption.
+
+Budgeted Figure  Actual Figure                     Absorbed  Difference      Result
+                                                    Amount
+    (`) Units    (`)  Units                                       (`)    Under/Over
+                                                       (`)               absorption
+
+1     2          3    4                            5=1/2×4   6=3-5
+
+100   100        110  100                          100       10          Under-absorption
+
+100   100        90   100                          100       -10         Over-absorption
+
+100   100        100  90                           90        10          Under-absorption
+
+100   100        100  110                          110       -10         Over-absorption
+
+© The Institute of Chartered Accountants of India
+     OVERHEADS-ABSORPTION COSTING METHOD       4.43
+
+100  100  90   90   90                    0    No under/over-
+
+                                               absorption
+
+100  100  110  110  110                   0    No under/over-
+
+                                               absorption
+
+100  100  110  90   90                    20   Under-absorption
+
+100  100  90   110  110                   -20  Over-absorption
+
+In above example Pre-determined rate is `100 =`1
+                                                          100units
+
+Treatment of under/ over absorption of overheads in cost accounting:
+Treatment of such under/ over absorption of overheads can be understood with
+the help of the following flow chart:
+
+                                                                                         Costing
+                                                                                         P&L A/c
+
+© The Institute of Chartered Accountants of India
+a  4.44                       COST AND MANAGEMENT ACCOUNTING
+
+As regards the treatment of such debit or credit balances, the general view is
+that if the balances are small they should be transferred to the Costing Profit
+and Loss Account and the cost of individual products should not be increased or
+reduced as these would be representing normal cost.
+
+Where, however the difference is large and due to wrong estimation (estimation is
+wrong due to unavoidable reasons), it would be desirable to adjust the cost of
+products manufactured, as otherwise the cost figures would convey a misleading
+impression. Such adjustments usually take the form of supplementary rates.
+Supplementary rate is calculated as below:
+
+Supplementary rate = Under / Over -absorbed OH
+                                        Units produced
+
+Supplementary overhead rate as calculated above is applied to finished goods,
+semi-finished goods (WIP) and goods finished and sold. Therefore, under/ over
+absorbed overheads are distributed among the unsold stock of finished goods,
+semi-finished goods (WIP) and cost of sales (goods produced and sold).
+
+The accounting is done as follows:
+
+In case of Under-absorption:
+
+Accounts                                           Dr/Cr Calculation of amount
+
+1. Stock of Finished goods A/c                     Debit Units of Finished stock ×
+                                                              Supplementary rate per unit
+
+2. Stock of Semi-finished goods Debit Equivalent completed units ×
+
+(WIP) A/c                                               Supplementary rate per unit
+
+3. Cost of Sales A/c                               Debit Units sold × Supplementary
+                                                              rate per unit
+
+In case of Over-absorption:
+
+Accounts                                           Dr/Cr Calculation of amount
+
+1. Stock of Finished goods A/c                     Credit Units of Finished stock ×
+                                                              Supplementary rate per unit
+
+2. Stock of Semi-finished goods Credit Equivalent completed units ×
+
+(WIP) A/c                                               Supplementary rate per unit
+
+3. Cost of Sales A/c                               Credit Units sold × Supplementary
+                                                              rate per unit
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                          4.45
+
+However, over or under recovery of overheads due to abnormal reasons (such as
+abnormal over or under capacity utilisation) should be transferred to the Costing
+Profit and Loss Account.
+
+ILLUSTRATION 8
+
+The total overhead expenses of a factory is ` 4,46,380. Taking into account the normal
+working of the factory, overhead was recovered in production at ` 1.25 per hour. The
+actual hours worked were 2,93,104. STATE how would you proceed to close the books
+of accounts, assuming that besides 7,800 units produced of which 7,000 were sold,
+there were 200 equivalent units in work-in-progress?
+
+On investigation, it was found that 50% of the unabsorbed overhead was on
+account of increase in the cost of indirect materials and indirect labour and the
+remaining 50% was due to factory inefficiency.
+
+SOLUTION
+
+Calculation of under/ over- absorption of overhead
+
+                                                                             (`)
+
+Actual factory overhead expenses incurred                                    4,46,380
+
+Overheads absorbed (2,93,104 hours × ` 1.25)                                 3,66,380
+Under-absorption of overhead                                                   80,000
+
+Reasons for unabsorbed overheads
+
+(i) 50% of the unabsorbed overhead was on account of increase in the cost of
+       indirect material and indirect labour.
+
+(ii) 50% of the unabsorbed overhead was due to factory inefficiency.
+
+Treatment of unabsorbed overheads in Cost Accounting
+
+1. Unabsorbed overhead amounting to ` 40,000, which were due to increase in
+       the cost of indirect material and labour should be charged to units produced by
+       using a supplementary rate.
+
+Supplementary rate =                               ` 40,000  = ` 5 per unit
+
+                      (7,800 + 200) units
+
+© The Institute of Chartered Accountants of India
+a  4.46                  COST AND MANAGEMENT ACCOUNTING
+
+The sum of ` 40,000 (unabsorbed overhead) should be distributed by using a
+supplementary rate among cost of sales, finished goods and work-in progress
+A/cs. The amount to be debited is calculated as below:
+
+Stock of finished goods                                 (`)
+[(7,800-7,000) × ` 5]                               4,000
+Work-in progress                                    1,000
+(200 units × ` 5)                                  35,000
+Cost of sales                                      40,000
+(7,000 units × ` 5)
+Total
+
+1. The use of cost of sales figure, would reduce the profit for the period by
+       ` 35,000 and will increase the value of stock of finished goods and work-
+       in-progress by ` 4,000 and ` 1,000 respectively.
+
+2. The balance amount of unabsorbed overheads of ` 40,000 due to factory
+       inefficiency should be debited to Costing Profit & Loss Account, as this is
+       an abnormal loss.
+
+     8. ACCOUNTING AND CONTROL OF ADMINIS-
+           TRATIVE OVERHEADS
+
+Definition - According to CIMA Terminology, Administrative overhead is defined
+as "The sum of those costs of general management and of secretarial accounting
+and administrative services, which cannot be directly related to the production,
+marketing, research or development functions of the enterprise." According to this
+definition, administrative overhead constitutes the expenses incurred in
+connection with the formulation of policy directing the organisation and
+controlling the operations of an undertaking. These overheads are also collected
+and classified in the same way as the factory overheads.
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.47
+
+8.1 Accounting of Administrative Overheads
+
+There are three distinct methods of accounting of administrative overheads,
+which are briefly discussed below:
+
+(a) Apportioning Administrative Overheads between Production and Sales
+       Departments: According to this method administrative overheads are
+       apportioned over production and sales departments. The reason for the
+       apportionment of overhead expenses over these departments, recognises
+       the fact that administrative overheads are incurred for the benefit of both of
+       these departments. Therefore, each department should be charged with the
+       proportionate share of the same. When this method is adopted, administra-
+       tive overheads lose their identity and get merged with production and
+       selling and distribution overheads.
+
+       Disadvantages:
+
+       (1) It is difficult to find suitable bases of administrative overhead
+               apportionment over production and sales departments.
+
+       (2) Lot of clerical work is involved in apportioning overheads.
+
+       (3) It is not justified to apportion total administrative overheads only over
+               production and sales departments when other equally important
+               department like finance is also there.
+
+(b) Charging to Profit and Loss Account: According to this method
+       administrative overheads are charged to Costing Profit & Loss Account. The
+       reason for charging to Costing Profit & Loss are firstly, the administrative
+       overheads are concerned with the formulation of policies and thus are not
+       directly concerned with either the production or the selling and distribution
+       functions. Secondly, it is difficult to determine a suitable basis for
+       apportioning administrative overheads over production and sales depart-
+       ments. Lastly, these overheads are the fixed costs. In view of these
+       arguments, administrative overheads should be charged to Profit and Loss
+       Account.
+
+       Disadvantages:
+
+       (1) Cost of products is understated as administrative overheads are not
+               charged to costs.
+
+© The Institute of Chartered Accountants of India
+a  4.48  COST AND MANAGEMENT ACCOUNTING
+
+       (2) The exclusion of administrative overheads from cost of products is
+               against sound accounting principle.
+
+(c) Treating Administrative Overheads as a separate addition to Cost of
+       Production/ Sales: This method considers administration as a separate
+       function like production and sales and, as such costs relating to formulating
+       the policy, directing the organisation and controlling the operations are
+       taken as a separate charge to the cost of the jobs or a product, sold along
+       with the cost of other functions. The bases which are generally used for
+       apportionment are:
+
+       (i) Works cost
+
+       (ii) Sales value or quantity
+
+       (iii) Gross profit on sales
+
+       (iv) Quantity produced
+
+       (v) Conversion cost, etc.
+
+8.2 Control of Administrative Overheads
+
+Mostly administrative overheads are of fixed nature, and they arise as a result of
+management policies. These fixed overheads are generally non-controllable. But
+at the same time these overheads should not be allowed to grow
+disproportionately. Some degree of control has to be exercised over them. The
+methods usually adopted for controlling administrative overheads are as follows:
+
+(i) Classification and analysis of overheads by administrative departments
+       according to their functions, and a comparison with the accomplished
+       results: According to this method the expenses incurred by each
+       administrative department are collected under a standing order for each
+       class of expenditure. These are compared with similar figures of the
+       previous period in relation to accomplishment. Such a comparison will
+       reveal efficiency or inefficiency of the concerned department.
+
+       However, this method provides only a limited degree of control and
+       comparison does not give useful results if the level of activity is not
+       constant during the periods under comparison. To overcome this difficulty,
+       overhead absorption rates may also be compared from period to period; the
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                          4.49
+
+       extent of over or under absorption will reveal the efficiency or otherwise of
+       the department. It may be possible to compare the cost of a service
+       department with that of similar services obtainable from outside and a
+       decision may be taken whether it is economical to continue the department
+       or entrust the work to outsiders.
+
+(ii) Control through Budgets: According to this method, administration
+       budgets (monthly or annually) are prepared for each department. The
+       budgeted figures are compared with actual ones to determine variances.
+       The variances are analysed and responsibility assigned to the concerned
+       department to control these variances.
+
+(iii) Control through Standard: Under this method, standards of performance
+       are fixed for each administrative activity, and the actual performance is
+       compared with the standards set. In this way, standards serve not only as
+       yardstick of performance but also facilitate control of costs.
+
+ILLUSTRATION 9 (Reverse Calculation of Factory Overhead and
+                           Administrative overheads)
+
+In an engineering company, the factory overheads are recovered on a fixed
+percentage basis on direct wages and the administrative overheads are absorbed on
+a fixed percentage basis on factory cost.
+
+The company has furnished the following data relating to two jobs undertaken by it
+in a period:
+
+Direct materials                                   Job 101   Job 102
+Direct wages                                           (`)       (`)
+Selling price
+Profit percentage on Total Cost                     54,000    37,500
+                                                    42,000    30,000
+                                                   1,66,650  1,28,250
+
+                                                     10%       20%
+
+Required:
+
+(i) COMPUTATION of percentage recovery rates of factory overheads and
+       administrative overheads.
+
+© The Institute of Chartered Accountants of India
+a         4.50         COST AND MANAGEMENT ACCOUNTING
+
+(ii) CALCULATION of the amount of factory overheads, administrative overheads
+       and profit for each of the two jobs.
+
+(iii) Using the above recovery rates DETERMINE the selling price of job 103. The
+       additional data being:
+
+Direct materials                                    ` 24,000
+
+Direct wages                                        ` 20,000
+
+Profit percentage on selling price                  12-½%
+
+SOLUTION
+
+(i) Computation of percentage recovery rates of factory overheads and
+       administrative overheads.
+
+Let the factory overhead recovery rate as percentage of direct wages be F and
+administrative overheads recovery rate as percentage of factory cost be A.
+
+Factory Cost of Jobs:
+
+Direct materials + Direct wages + Factory overhead
+
+For Job 101 = ` 54,000 +` 42,000 + ` 42,000F
+
+For Job 102 = ` 37,500 +` 30,000 + ` 30,000F
+
+Total Cost of Jobs:
+
+Factory cost + Administrative overhead
+
+For Job 101 = (` 96,000 + ` 42,000F) + (` 96,000+ ` 42,000F) A = ` 1,51,500*
+
+For Job-102 = (` 67,500 + ` 30,000F) + (` 67,500+ ` 30,000F) A = ` 1,06,875**
+
+The value of F & A can be found using following equations
+
+` 96,000 + ` 42,000F + ` 96,000A +
+
+` 42,000AF                                          = ` 1,51,500 ...eqn (i)
+
+` 67,500 + ` 30,000F + ` 67,500A +
+
+` 30,000AF                                          = ` 1,06,875 ...eqn (ii)
+
+© The Institute of Chartered Accountants of India
+   OVERHEADS-ABSORPTION COSTING METHOD                    4.51
+
+Multiply equation (i) by 5 and equation (ii) by 7
+
+` 4,80,000 + ` 2,10,000F + ` 4,80,000A +
+
+` 2,10,000AF                                           = ` 7,57,500 ...eqn (iii)
+
+` 4,72,500 + ` 2,10,000F + ` 4,72,500A +
+
+` 2,10,000AF                                           = ` 7,48,125 ...eqn (iv)
+
+-         -    -                                   -   -
+
+` 7,500 + ` 7,500A                                     = ` 9,375
+` 7,500 A = ` 9,375 ­ ` 7,500
+
+A = 0.25
+
+Now put the value of A in equation (i) to find the value of F
+
+` 96,000 + ` 42,000F + ` 24,000 + ` 10,500F = ` 1,51,500
+
+` 52,500F = ` 1,51,500 ­ ` 1,20,000
+
+F = 0.6
+
+On solving the above relations: F = 0.60 and A = 0.25
+
+Hence, percentage recovery rates of:
+
+Factory overheads = 60% of wages and
+
+Administrative overheads = 25% of factory cost.
+
+Working note:
+
+Total Cost =   Selling price
+
+               (100% + Percentage of profit)
+
+*For Job 101= `1,66,650 = ` 1,51,500
+                    (100% +10%)
+
+**For Job 102= `1,28,250 = ` 1,06,875
+                     (100% + 20%)
+
+© The Institute of Chartered Accountants of India
+a        4.52                   COST AND MANAGEMENT ACCOUNTING
+
+(ii) Statement of jobs, showing amount of factory overheads, administrative
+     overheads and profit:
+
+       Direct materials                            Job 101     Job 102
+       Direct wages
+       Prime cost                                         (`)         (`)
+       Factory overheads                             54,000      37,500
+       60% of direct wages                           42,000      30,000
+       Factory cost                                  96,000      67,500
+       Administrative overheads
+       25% of factory cost                           25,200    18,000
+       Total cost                                  1,21,200    85,500
+       Profit (10% & 20% respectively)
+       Selling price                                 30,300      21,375
+                                                   1,51,500    1,06,875
+(iii) Selling price of Job 103
+                                                     15,150      21,375
+                                                   1,66,650    1,28,250
+
+Direct materials                                                    (`)
+                                                               24,000
+Direct wages                                                   20,000
+                                                               44,000
+Prime cost                                                     12,000
+                                                               56,000
+Factory overheads (60% of Direct Wages)                        14,000
+                                                               70,000
+Factory cost                                                   10,000
+
+Administrative overheads (25% of factory cost)                 80,000
+
+Total cost
+
+Profit margin (balancing figure)
+
+Selling  price    Total Cost  
+                    87.5%     
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.53
+
+     9. ACCOUNTING AND CONTROL OF SELLING
+           AND DISTRIBUTION OVERHEADS
+
+Selling cost or overhead expenses are the expenses incurred for the purpose of
+promoting the marketing and sales of different products. Distribution expenses, on
+the other hand, are expenses relating to delivery and dispatch of goods sold.
+Examples of selling and distribution expenses have been considered earlier in this
+booklet. From the definitions it is clear that the two types of expenses represent
+two distinct type of functions. Some concerns group together these two types of
+overhead expenses into one composite class, namely, selling and distribution
+overhead, for the purpose of Cost Accounting.
+
+9.1 Accounting of Selling and Distribution Overheads
+
+The collection and accumulation of each expense is made by means of
+appropriate standing orders in the usual way. Where it is decided to apportion a
+part of the administrative overhead to the selling division the same should also
+be collected through appropriate standing orders.
+
+As in the case of administrative overheads, it is not easy to determine an entirely
+satisfactory basis for computing the overhead rate for absorbing selling
+overheads. The bases usually adopted are:
+
+(a) Sales value of goods;
+
+(b) Cost of goods sold;
+
+(c) Gross Profit on sales; and
+
+(d) Number of orders or units sold.
+
+It is considered that the sale value is ordinarily the most logical basis, there being
+some connection between the amount of sales and the amount of expenses
+incurred to achieve them. The cost of production, however, is not as satisfactory
+basis as it may not have any direct relationship with the selling and distribution
+cost.
+
+The basis of gross profit on sales results in a larger share of the selling overhead
+being applied to goods yielding a large margin of profit and vice versa. The basis
+
+© The Institute of Chartered Accountants of India
+a  4.54                COST AND MANAGEMENT ACCOUNTING
+
+therefore follows the principle of `ability to pay, it may not reflect costs or in-
+curred efforts.
+
+An estimated amount per unit - The best method for absorbing selling and
+distributing expenses over various products is to separate fixed expenses from
+variable expenses. Apportion the fixed expenses according to the benefit derived
+by each product and thus ascertaining the fixed expenses per unit. We give below
+some of the fixed expenses and the basis of apportionment:
+
+   Expenses                                                           Basis
+
+Salaries in the Sales Department Estimated time devoted to the sale of
+
+and of the sales men.                              various products.
+
+Advertisement                                      Actual amount incurred for each product
+                                                   since these days it is usual to advertise
+                                                   each product separately; common
+                                                   expenses, such as in an exhibition,
+                                                   should be apportioned on the basis of
+                                                   advertisement expenditure on each
+                                                   product.
+
+Show Room expenses                                 Average space occupied by each
+                                                   product.
+
+Rent of finished goods godowns Average quantities delivered during a
+and Expenses on own delivery period.
+vans
+
+If a suitable basis for apportioning expenses does not exist it may be apportioned
+in the proportion of sales of various products.
+
+The total of fixed expenses apportioned in this manner, divided by the number of
+units sold or likely to be sold, will give the fixed expenses per unit. To this should
+be added the variable expenses which will be different for each product. These
+expenses are, packaging, freight outwards, insurance in transit, commission
+payable to salesmen, rebate allowed to customers, etc. All these items will be
+worked out per unit for each product separately. These items added to fixed
+expenses per unit will give an estimated amount of the selling and distribution
+expenses per unit.
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.55
+
+9.2 Control of Selling and Distribution Overheads
+
+Control of selling and distribution expenses is a difficult task. The reasons for this
+are as follows:
+
+1. The incidence of selling and distribution overheads depends mainly on
+       external factors, such as distance of market, extent and nature of
+       competition, terms of sales, etc. which are beyond the control of
+       management.
+
+2. These overheads are dependent upon the customers, behaviour, their liking
+       and disliking, tastes etc. Therefore, as such control over the overheads may
+       result in loss of customers.
+
+3. These expenses being of the nature of policy costs are not amenable to
+       control.
+
+In spite of the above difficulties, the following methods may be used for
+controlling them.
+
+(a) Comparison with past performance - According to this method, selling and
+       distribution overheads are compared with the figures of the previous period.
+       Alternatively, the expenses may be expressed as a percentage of sales, and the
+       percentages may be compared with those of the past period. This method is
+       suitable for small concerns.
+
+(b) Budgetary Control - A budget is set up for selling and distribution expenses.
+       The expenses are classified into fixed and variable. If necessary, a flexible
+       budget may be prepared indicating the expenses at different levels of sales.
+       The actual expenses are compared with the budgeted figures and in the case of
+       variances suitable actions are taken.
+
+(c) Standard Costing - Under this method standards are set up in relation to the
+       standard sales volume. Standards may be set up for salesmen, territories,
+       products etc. Once the standards are set up, comparison is made between the
+       actuals and standards: variances are enquired into and suitable action taken.
+
+© The Institute of Chartered Accountants of India
+a  4.56                   COST AND MANAGEMENT ACCOUNTING
+
+ILLUSTRATION 10
+
+A company which sells four products, some of these are unprofitable. Company
+proposes to discontinue to sale one of these products. The following information is
+available regarding income, costs and activity for the year ended 31st March.
+
+                                                   Products
+
+                          A                        B                 C  D
+
+Sales (`)                 30,00,000 50,00,000 25,00,000 45,00,000
+Cost of goods sold (`)
+Area of storage (Sq.ft.)  20,00,000 45,00,000 21,00,000 22,50,000
+Number of parcels sent
+Number of invoices sent   50,000 40,000 80,000                          30,000
+
+                          1,00,000 1,50,000 75,000 1,75,000
+
+                          80,000 1,40,000 60,000 1,20,000
+
+Selling and Distribution overheads and the basis of allocation are:
+
+Fixed Costs                                           Amount (`)     Basis of allocation
+     Rent & Insurance                                                          to products
+                                                           3,00,000
+     Depreciation                                                          Area of storage
+     Salesmen's salaries & expenses                        1,00,000                    (Sq.ft.)
+     Administrative wages and salaries                     6,00,000
+Variable Costs:                                            5,00,000    No. of Parcels sent
+     Packing wages & materials                                                Sales Volume
+     Commission                                     ` 2 per parcel
+     Stationery                                        4% of sales   No. of invoices sent
+
+                                                   ` 1 per invoice
+
+You are required to PREPARE Costing Profit & Loss Statement, showing the
+percentage of profit or loss to sales for each product.
+
+© The Institute of Chartered Accountants of India
+        OVERHEADS-ABSORPTION COSTING METHOD                         4.57
+
+SOLUTION
+Statement of Profit or Loss on Various Products during the year ended March 31st.
+
+                               Total (`)                   Products
+
+                                                   A (`)   B (`)    C (`)   D (`)
+
+Sales                          1,50,00,000 30,00,000 50,00,000 25,00,000 45,00,000
+
+Variable costs:
+
+Cost of goods sold             1,08,50,000 20,00,000 45,00,000 21,00,000 22,50,000
+
+Commissions 4% of sales 6,00,000 1,20,000 2,00,000 1,00,000 1,80,000
+
+Packing wages &                10,00,000 2,00,000 3,00,000 1,50,000 3,50,000
+materials @ ` 2 per
+parcel
+
+Stationery @ ` 1 per           4,00,000            80,000 1,40,000  60,000 1,20,000
+invoice
+
+Total variable costs           1,28,50,000 24,00,000 51,40,000 24,10,000 29,00,000
+
+Contribution                   21,50,000 6,00,000 (1,40,000) 90,000 16,00,000
+
+(Sales ­ variable cost)
+
+Fixed Costs:
+
+Rent &            Insurance    3,00,000            75,000  60,000 1,20,000  45,000
+(5:4:8:3)
+
+Depreciation (4:6:3:7)         1,00,000 20,000 30,000 15,000 35,000
+
+Salesmen's salaries &          6,00,000 1,20,000 2,00,000 1,00,000 1,80,000
+expenses (6:10:5:9)
+
+Administrative wages &         5,00,000 1,00,000 1,75,000           75,000 1,50,000
+salaries (4:7:3:6)
+
+Total Fixed costs              15,00,000 3,15,000 4,65,000 3,10,000 4,10,000
+
+Profit        or         Loss  6,50,000 2,85,000 (6,05,000) (2,20,000) 11,90,000
+
+(Contribution­fixed
+
+Costs)
+
+Percentage of profit or        4.33                9.50 (12.10) (8.80)      26.4
+Loss on sales (%)
+
+© The Institute of Chartered Accountants of India
+a  4.58             COST AND MANAGEMENT ACCOUNTING
+
+10. CONCEPTS RELATED TO CAPACITY
+
+(i) Installed/ Rated capacity: It refers to the maximum capacity of producing
+       goods or providing services. Installed capacity is determined either on the
+       basis of technical specification or through a technical evaluation. It is also
+       known as theoretical capacity and is could not be achieved in normal
+       operating circumstances.
+
+(ii) Practical capacity: It is defined as actually utilised capacity of a plant. It
+       is also known as operating capacity. This capacity takes into account loss
+       of time due to repairs, maintenance, minor breakdown, idle time, set up
+       time, normal delays, Sundays and holidays, stock taking etc. Generally,
+       practical capacity is taken between 80 to 90% of the rated capacity. It is also
+       used as a base for determining overhead rates. Practical capacity is also
+       called net capacity or available capacity.
+
+(iii) Normal capacity: Normal capacity is the volume of production or
+       services achieved or achievable on an average over a period under normal
+       circumstances taking into account the reduction in capacity resulting from
+       planned maintenance.
+
+Normal capacity is determined as under:
+
+Installed capacity                                            xxx
+
+Adjustments for:
+
+(i) Time lost due to scheduled preventive or planned xxx
+      maintenance
+
+(ii) Number of shifts or machine hours or man hours
+
+(iii) Holidays, normal shut down days, normal idle time  xxx
+
+(iv) Normal time lost in batch change over               xxx xxx
+
+Normal Capacity                                               xxx
+
+(iv) Actual capacity: It is the capacity actually achieved during a given period. It
+       is presented as a percentage of installed capacity.
+
+(v) Idle capacity: It is that part of the capacity of a plant, machine or
+       equipment which cannot be effectively utilised in production.
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                                        4.59
+
+       (a) Normal Idle Capacity: It is the difference between Installed capacity and
+               Normal capacity.
+
+       (b) Abnormal Idle Capacity: It is the difference between Normal capacity
+               and Actual capacity utilization where the actual capacity is lower than the
+               normal capacity.
+
+The idle capacity may arise due to lack of product demand, non-availability of raw
+material, shortage of skilled labour, absenteeism, shortage of power fuel or
+supplies, seasonal nature of product etc.
+
+Installed Capacity                                 Normal Idle Capacity
+Normal Capacity                                    Abnormal Idle Capacity
+Actual Capacity
+
+Treatment of Idle capacity costs: Idle capacity costs can be treated in product
+costing, in the following ways:
+
+(a) If the idle capacity cost is due to unavoidable reasons such as repairs,
+       maintenance, changeover of job etc. a supplementary overhead rate may be
+       used to recover the idle capacity cost. In this case, the costs are charged to the
+       production capacity utilised.
+
+(b) If the idle capacity cost is due to avoidable reasons such as faulty planning,
+       power failure etc.; the cost should be charged to costing profit and loss
+       account.
+
+(c) If the idle capacity cost is due to seasonal factors, then, the cost should be
+       charged to the cost of production by inflating overhead rates.
+
+     11. TREATMENT OF CERTAIN ITEMS IN
+           COSTING
+
+(i) Interest and financing charges: It includes any payment in nature of
+       interest for use of non- equity funds and incidental cost that an entity incurs
+       in arranging those funds. Example of interest and financing charges are
+
+© The Institute of Chartered Accountants of India
+a  4.60  COST AND MANAGEMENT ACCOUNTING
+
+       interest on borrowings, financing charges in respect of finance leases, cash
+       discount allowed to customers. The term interest and financing charges,
+       finance costs and borrowing costs are used interchangeably. It does not
+       include imputed costs.
+
+       Interest and financing charges shall be presented in the cost statement as a
+       separate item of cost of sales.
+
+(ii) Depreciation: Depreciation "is the diminution in the intrinsic value of an
+       asset due to use and/or the lapse of time." Depreciation is thus the result of
+       two factors viz., the use, and the lapse of time. We know that each fixed
+       asset loses its intrinsic value due to their continuous use and as such the
+       greater the use the higher is the amount of depreciation. The loss in the
+       intrinsic value may also arise even if the asset in question is not in service.
+
+       Assignment of Depreciation:
+
+       It shall be traced to the cost object to the extent economically feasible.
+       Where it is not directly traceable it should be assigned using either or two
+       principles i.e. (i) Cause and Effect and (ii) Benefit received.
+
+(iii) Packing expenses: Cost of primary packing necessary for protecting the
+       product or for convenient handling, should become a part of the
+       production cost. The cost of packing to facilitate the transportation of
+       the product from the factory to the customer should become a part of the
+       distribution cost. If the cost of special packing is at the request of the
+       customer, the same should be charged to the specific work order or the job.
+       The cost of fancy packing necessary to attract customers is an advertising
+       expenditure. Hence, it is to be treated as a selling overhead.
+
+(iv) Fringe benefits: These are the additional payments or facilities provided to
+       the workers apart from their salary and direct cost-allowances like house
+       rent, dearness and city compensatory allowances. These benefits are given
+       in the form of overtime, extra shift duty allowance, holiday pay, pension
+       facilities etc.
+
+       These indirect benefits stand to improve the morale, loyalty and stability of
+       employees towards the organisation. If the amount of fringe benefit is
+       considerably large, it may be recovered as direct charge by means of a
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.61
+
+       supplementary wage or labour rate; otherwise these may be collected as
+       part of production overheads.
+
+(v) Expenses on removal and re-erection of machines: Expenses are
+       sometime incurred on removal and re-erection of machinery in factories.
+       Such expenses may be incurred due to factors like change in the method of
+       production; an addition or alteration in the factory building, change in the
+       flow of production, etc. All such expenses are treated as production
+       overheads. When amount of such expenses is large, it may be spread over a
+       period of time.
+
+       If such expenses are incurred due to faulty planning or some other
+       abnormal factor, then they may be charged to costing Profit and Loss
+       Account.
+
+(vi) Bad debts: There is no unanimity among different authors of Cost
+       Accounting about the treatment of bad debts. One view is that `bad debts'
+       should be excluded from cost. According to this view bad debts are financial
+       losses and therefore, they should not be included in the cost of a particular
+       job or product.
+
+       According to another view it should form part of selling and distribution
+       overheads, especially when they arise in the normal course of trading.
+       Therefore bad debts should be treated in cost accounting in the same way as
+       any other selling and distribution cost. However extra ordinarily large bad
+       debts should not be included in cost accounts.
+
+(vii) Training expenses: Training is an essential input for industrial workers.
+       Training expenses in fact includes wages of workers, costs incurred in
+       running training department, loss arising from the initial lower production,
+       extra spoilage etc. Training expenses of factory workers are treated as part of
+       the cost of production. The training expenses of office; sales or distribution workers
+       should be treated as office; sales or distribution overhead as the case may be. These
+       expenses can be spread over various departments of the concern on the basis of the
+       number of workers on roll.
+
+       Training expenses would be abnormally high in the case of high labour
+       turnover such expenses should be excluded from costs and charged to the
+       costing profit and loss account.
+
+© The Institute of Chartered Accountants of India
+a  4.62  COST AND MANAGEMENT ACCOUNTING
+
+(viii) Canteen expenses: The subsidy provided or expenses borne by the firm in
+       running the canteen should be regarded as a production overhead. If the
+       canteen is meant only for factory workers therefore this expenses should be
+       apportioned on the basis of the number of workers employed in each
+       department. If office workers also take advantage of the canteen facility, a
+       suitable share of the expenses should be treated as office overhead.
+
+(ix) Carriage and cartage expenses: It includes the expenses incurred on the
+       movement (inward and outwards) and transportation of materials and
+       goods. Transportation expenses related to direct material may be included in
+       the cost of direct material and those relating to indirect material (stores) may
+       be treated as factory overheads. Expenses related to the transportation of
+       finished goods may be treated as distribution overhead.
+
+(x) Expenses for welfare activities: All expenses incurred on the welfare
+       activities of employees in a company are part of general overheads. Such
+       expenses should be apportioned between factory, office, selling and
+       distribution overheads on the basis of number of persons involved.
+
+(xi) Night shift allowance: Workers in the factories, which operate during night
+       time are paid some extra amount known as `night shift allowance'. This extra
+       amount is generally incurred due to the general pressure of work beyond
+       normal capacity level and is treated as production overhead and recovered
+       as such.
+
+       If this allowance is treated as part of direct wages, the jobs/production
+       carried at night will be costlier than jobs/production performed during the
+       day. However, if additional expenditure on night shift is incurred to meet
+       some specific customer order, such expenditure may be charged directly to
+       the order concerned. If night shifts are run due to abnormal circumstances,
+       the additional expenditure should be charged to the costing profit and loss
+       account.
+
+(xii) Research and Development Expenses: The Terminology defines research
+       expenses as "the expenses of searching for new or improved products, new
+       application of materials, or new or improved methods." Similarly,
+       development expenses are defined as "the expenses of the process which
+       begins with the implementation of the decision to produce a new or improved
+       product."
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.63
+
+If research is conducted in the methods of production, the research
+expenses should be taken separately while computing cost of production;
+while the expenditure becomes a part of the administration overhead if
+research relates to administration. Similarly, market research expenses are
+charged to the selling and distribution overhead.
+
+Development costs incurred in connection with a particular product should
+be charged directly to that product. Such expenses are usually treated as
+"deferred revenue expenses," and recovered as a cost per unit of the
+product when production is fully established.
+
+General research expenses of a routine nature incurred on new or improved
+methods of manufacture or the improvement of the existing products
+should be charged to the general overhead.
+
+Even in this case, if the amount involved is substantial it may be treated as a
+deferred revenue expenditure, and spread over the period during which the
+benefit would accrue. Expenses on fundamental research, not relating to any
+specific product, are treated as a part of the administration overhead.
+Where research proves a failure, the cost associated with it should be
+excluded from costs and charged to the costing Profit and Loss Account.
+
+SUMMARY
+
+ Overheads: Overheads represent expenses that have been incurred in
+       providing certain ancillary facilities or services which facilitate or make
+       possible the carrying out of the production process; by themselves these
+       services are not of any use.
+
+ Cost allocation: The term `allocation' refers to assignment or allotment of
+       an entire item of cost to a particular cost center or cost unit.
+
+ Cost apportionment: Apportionment implies the allotment of proportions
+       of items of cost to cost centres or departments.
+
+ Re-apportionment: The process of assigning service department overheads
+       to production departments is called reassignment or re-apportionment.
+
+ Absorption- The process of recovering overheads of a department or any
+       other cost center from its output is called recovery or absorption.
+
+© The Institute of Chartered Accountants of India
+a  4.64  COST AND MANAGEMENT ACCOUNTING
+
+ Direct re-distribution method: Under this method service department
+       costs are apportioned over the production departments only, ignoring the
+       services rendered by one service department to the other.
+
+ Step method or Non-reciprocal method: This method gives cognizance to
+       the service rendered by service department to another service department.
+       The sequence here begins with the department that renders service to the
+       maximum number of other service departments.
+
+ Reciprocal service method: These methods are used when different service
+       departments render services to each other, in addition to rendering services
+       to production departments. In such cases various service departments have
+       to share overheads of each other. The methods available for dealing with
+       reciprocal services are
+
+       (a) Simultaneous equation method;
+
+       (b) Repeated distribution method;
+
+       (c) Trial and error method.
+
+ Blanket overhead rates: Blanket overhead rate refers to the computation
+       of one single overhead rate for the whole factory. It is to be distinguished
+       from the departmental overhead rate which refers to a separate rate for
+       each individual cost centre or department.
+       Blanket Overhead rate = Overheadcosts for the whole factory 100
+                                            Totalunits of the selectedbase
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1. "Fixed overhead costs are not affected in monetary terms during a given period by a
+       change in output". But this statement holds good provided:
+       (a) Increase in output is not substantial
+       (b) Increase in output is substantial
+       (c) Both (a) and (b)
+       (d) None of the above
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.65
+
+2. .............. capacity is defined as actually utilised capacity of a plant.
+       (a) Theoretical
+       (b) Installed
+       (c) Practical
+       (d) Normal
+
+3. The allotment of whole items of cost to cost centres or cost units is called:
+       (a) Overhead absorption
+       (b) Cost apportionment
+       (c) Cost allocation
+       (d) None of the above
+
+4. Primary packing cost is a part of:
+       (a) Direct material cost
+       (b) Production Cost
+       (c) Selling overheads
+       (d) Distribution overheads
+
+5. Director's remuneration and expenses form part of:
+       (a) Production overhead
+       (b) Administration overhead
+       (c) Selling overhead
+       (d) Distribution overhead
+
+6. Which of the following is not the classification of overhead based on its
+       functionality?
+       (a) Factory Overhead
+       (b) Administrative Overhead
+       (c) Fixed Overhead
+       (d) Selling Overhead
+
+© The Institute of Chartered Accountants of India
+a  4.66  COST AND MANAGEMENT ACCOUNTING
+
+7. Bad debt is an example of:
+       (a) Distribution overhead
+       (b) Production overhead
+       (c) Selling overhead
+       (d) Administration overhead
+
+8. Normal capacity of a plant refers to the difference between:
+       (a) Maximum capacity and practical capacity
+       (b) Practical capacity and normal capacity
+       (c) Practical capacity and estimated idle capacity as revealed by long term sales trend.
+       (d) Maximum capacity and actual capacity
+
+9. The difference between actual factory overhead and absorbed factory overhead will be
+       usually at the minimum level, provided pre- determined overhead rate is based on:
+       (a) Maximum capacity
+       (b) Direct labour hours
+       (c) Machine hours
+       (d) Normal capacity
+
+10. Which of the following overhead cost may not be apportioned on the basis of direct
+       wages?
+       (a) Worker's Holiday Pay
+       (b) Perquisites to worker
+       (c) ESI contribution
+       (d) Managerial Salaries
+
+Theoretical Questions
+
+1. STATE what is blanket overhead rate. In which situations, blanket rate is to be
+       used and why?
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                                 4.67
+
+2. DISCUSS the step method and reciprocal service method of secondary
+       distribution of overheads.
+
+3. DISCUSS the problems of controlling the selling and distribution overheads.
+4. DISTINGUISH between cost allocation and cost absorption.
+5. EXPLAIN Single and Multiple Overhead Rates.
+6. EXPLAIN how would you treat the idle capacity costs in Cost Accounts.
+7. DISCUSS the difference between allocation and apportionment of overhead.
+8. EXPLAIN what are the methods of re-apportionment of service department
+
+       expenses over the production departments? Discuss.
+
+Practical Problems
+
+1. The ABC Company has the following account balances and distribution of direct
+       charges on 31st March.
+
+                      Total Production Depts. Service Depts.
+
+                                                        Machine Packin Gen.  Store &
+
+                                                        shop   g Plant Maintenance
+
+                                                   (`)  (`)    (`)  (`)      (`)
+
+Allocated Overheads:
+
+Indirect labour       14,650                            4,000 3,000 2,000    5,650
+
+Maintenance           5,020                             1,800  700 1,020     1,500
+material
+
+Misc. supplies        1,750                             400 1,000 150        200
+
+Superintendent's      4,000                             ­      ­ 4,000       ­
+
+salary
+
+Cost & payroll 10,000                                   ­      ­ 10,000      ­
+
+salary
+
+© The Institute of Chartered Accountants of India
+a        4.68          COST AND MANAGEMENT ACCOUNTING
+
+Overheads to be apportioned:
+
+Power                  8,000
+
+Rent                   12,000
+Fuel and heat           6,000
+
+Insurance              1,000
+
+Trade License fees     2,000
+
+Depreciation           1,00,000
+
+                       1,64,420                    6,200 4,700 17,170              7,350
+
+The following data were compiled by means of the factory survey made in the
+previous year:
+
+               Floor Space Radiator No. of Investment H.P
+
+               (Sqft)                              Sections Employees (`)          hours
+
+Machine Shop           2,000                       45   20 6,40,000 3,500
+
+Packing                800                         90   10 2,00,000 500
+
+General Plant          400                         30   3                  10,000         -
+
+Store      &           1,600                       60   5 1,50,000 1,000
+
+Maintenance
+
+                       4,800                       225  38 10,00,000 5,000
+
+Expenses charged to the stores and maintenance departments are to be
+distributed to the other departments by the following percentages:
+
+Machine shop 50%; Packing 20%; General Plant 30%; General Plant overheads is
+distributed on the basis of number of employees:
+
+PREPARE
+
+(a) An overhead distribution statement.
+
+(b) Distribution of the service departments' expense to production
+       departments.
+
+© The Institute of Chartered Accountants of India
+     OVERHEADS-ABSORPTION COSTING METHOD                                            4.69
+
+2. Modern Manufactures Ltd. has three Production Departments P , P , P and two
+                                                                                                                                                 123
+
+Service Departments S and S details pertaining to which are as under:
+                       1  2
+
+                                                      P  1        P  2        P  3        S  1        S  2
+
+Direct wages (`)                                   3,000 2,000             3,000          1,500 195
+
+Working hours                                      3,070 4,475             2,419          -           -
+
+Value of machines (`)        60,000 80,000 1,00,000 5,000 5,000
+
+H.P. of machines                                   60             30          50          10          -
+
+Light points                                       10             15          20          10          5
+
+Floor space (sq. ft.)                              2,000 2,500             3,000          2,000 500
+
+The following figures extracted from the Accounting records are relevant:
+
+                                                                                                      (`)
+
+Rent and Rates                                                                                  5,000
+
+General Lighting                                                                                   600
+
+Indirect Wages                                                                                  1,939
+
+Power                                                                                           1,500
+
+Depreciation on Machines                                                                        10,000
+
+Sundries                                                                                        9,695
+
+The expenses of the service departments are allocated as under:
+
+                             P                     1        P  2        P  3        S  1        S  2
+
+S                         20%                               30%         40%         -           10%
+  1
+
+S                         40%                               20%         30%         10%         -
+  2
+
+DETERMINE the total cost of product X which is processed for manufacture in
+Departments P1, P2 and P3 for 4, 5 and 3 hours respectively, given that its Direct
+Material Cost is ` 50 and Direct Labour Cost is ` 30.
+
+© The Institute of Chartered Accountants of India
+a         4.70           COST AND MANAGEMENT ACCOUNTING
+
+3. Deccan Manufacturing Ltd., have three departments which are regarded as
+       production departments. Service departments' costs are distributed to these
+       production departments using the "Step Ladder Method" of distribution.
+       Estimates of factory overhead costs to be incurred by each department in the
+       forthcoming year are as follows. Data required for distribution is also shown
+       against each department:
+
+Department      Factory overhead Direct labour No. of Area in
+
+                         (`)                       hours  employees sq.m.
+
+Production:
+
+   X            1,93,000                           4,000  100             3,000
+
+   Y            64,000                             3,000  125             1,500
+
+   Z            83,000                             4,000  85              1,500
+
+Service:
+
+   P            45,000                             1,000  10              500
+
+   Q            75,000                             5,000  50              1,500
+
+   R            1,05,000                           6,000  40              1,000
+
+   S            30,000                             3,000  50              1,000
+
+The overhead costs of the four service departments are distributed in the same
+order, viz. P, Q, R and S respectively on the following basis.
+
+   Department                                      Basis
+
+   P                                               Number of employees
+
+   Q                                               Direct labour hours
+
+   R                                               Area in square metres
+
+   S                                               Direct labour hours
+
+   You are required to:
+
+(a) PREPARE a schedule showing the distribution of overhead costs of the four
+       service departments to the three production departments; and
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                          4.71
+
+(b) CALCULATE the overhead recovery rate per direct labour hour for each of
+       the three production departments.
+
+4. Gemini Enterprises undertakes three different jobs A, B and C. All of them require
+       the use of a special machine and also the use of a computer. The computer is
+       hired and the hire charges work out to ` 4,20,000 per annum. The expenses
+       regarding the machine are estimated as follows:
+
+                                                   (`)
+
+Rent for a quarter                                 17,500
+
+Depreciation per annum                             2,00,000
+
+Indirect charges per annum                         1,50,000
+
+During the first month of operation the following details were taken from the job
+register:
+
+                                                             Job
+
+                                                   A         B        C
+
+Number of hours the machine was used:
+
+(a) Without the use of the computer                600       900      --
+
+(b) With the use of the computer                   400       600      1,000
+
+You are required to COMPUTE the machine hour rate:
+
+(a) For the firm as a whole for the month when the computer was used and
+       when the computer was not used.
+
+(b) For the individual jobs A, B and C.
+
+5. A machine shop has 8 identical Drilling machines manned by 6 operators. The
+       machine cannot be worked without an operator wholly engaged on it. The
+       original cost of all these machines works out to ` 8 lakhs. These particulars are
+       furnished for a 6 months period:
+
+Normal available hours per month                             208
+
+Absenteeism (without pay) hours                                   18
+
+Leave (with pay) hours                                            20
+
+© The Institute of Chartered Accountants of India
+a  4.72                   COST AND MANAGEMENT ACCOUNTING
+
+Normal idle time unavoidable-hours                   10
+
+Average rate of wages per worker for 8 hours a day.  `800
+
+Production bonus estimated                         15% on wages
+
+Value of power consumed                              `80,500
+
+Supervision and indirect labour                      `33,000
+
+Lighting and electricity                             `12,000
+
+These particulars are for a year
+
+Repairs and maintenance including consumables- 3% of value of machines.
+
+Insurance- ` 40,000
+
+Depreciation- 10% of original cost.
+
+Other sundry works expenses- ` 12,000
+
+General management expenses allocated- ` 54,530.
+
+You are required to COMPUTE a comprehensive machine hour rate for the
+machine shop.
+
+6. Job No. 198 was commenced on October 10, 2022 and completed on
+       November 1, 2022. Materials used were ` 6,000 and labour charged directly
+       to the job was ` 4,000. Other information is as follows:
+
+Machine No. 215 used for 40 hours, the machine hour rate being ` 35.
+
+Machine No. 160 used for 30 hours, the machine hour rate being ` 40. Six
+welders worked on the job for five days of 8 hours each: the Direct labour
+hour per welder is ` 20.
+
+General expenses related to production not included for calculating either the
+machine hour or direct labour hour rate totaled `20,000, total direct wages
+for the period being `2,00,000. COMPUTE the works costs for job No. 198.
+
+7. In a factory, overheads of a particular department are recovered on the basis
+       of ` 5 per machine hour. The total expenses incurred and the actual machine
+       hours for the department for the month of August were ` 80,000 and 10,000
+       hours respectively. Of the amount of ` 80,000, ` 15,000 became payable due
+       to an award of the Labour Court and ` 5,000 was in respect of expenses of the
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                                4.73
+
+previous year booked in the current month (August). Actual production was
+40,000 units, of which 30,000 units were sold. On analysing the reasons, it
+was found that 60% of the under-absorbed overhead was due to defective
+planning and the rest was attributed to normal cost increase. SHOW the
+treatment of over/under-absorbed overhead in the cost accounts?
+
+8. In a manufacturing unit, factory overhead was recovered at a pre-determined
+       rate of ` 25 per man-day. The total factory overhead expenses incurred and
+       the man-days actually worked were ` 41.50 lakhs and 1.5 lakh man-days
+       respectively. Out of the 40,000 units produced during a period, 30,000 were
+       sold.
+
+On analysing the reasons, it was found that 60% of the unabsorbed overheads
+were due to defective planning and the rest were attributable to increase in
+overhead costs.
+
+EXPLAIN how would unabsorbed overheads be treated in Cost Accounts?
+
+9. A factory has three production departments. The policy of the factory is to
+       recover the production overheads of the entire factory by adopting a single
+       blanket rate based on the percentage of total factory overheads to total
+       factory wages. The relevant data for a month are given below:
+
+Department Direct                                  Direct Factory  Direct Machine
+                    Materials
+                            (`)                    Wages Overheads Labour hours hours
+
+                                                   (`)  (`)
+
+Budget:
+
+Machining 6,50,000 80,000 3,60,000                                 20,000  80,000
+
+Assembly  1,70,000 3,50,000 1,40,000 1,00,000                              10,000
+
+Packing   1,00,000 70,000 1,25,000                                 50,000  -
+
+Actual:
+
+Machining 7,80,000 96,000 3,90,000                                 24,000  96,000
+
+Assembly  1,36,000 2,70,000 84,000                                 90,000  11,000
+
+Packing   1,20,000 90,000 1,35,000                                 60,000  -
+
+© The Institute of Chartered Accountants of India
+a          4.74  COST AND MANAGEMENT ACCOUNTING
+
+The details of one of the representative jobs produced during the month are as
+under:
+
+                 Job No. CW 7083 :
+
+Department            Direct                       Direct         Direct  Machine
+Machining        Materials                         Wages    Labour hours    hours
+
+                       1,200                          (`)            60      180
+                                                       240
+
+Assembly         600                               360      120           30
+
+Packing          300                               60       40            -
+
+The factory adds 30% on the factory cost to cover administration and selling
+overheads and profit.
+
+Required:
+
+(i) COMPUTE the overhead absorption rate as per the current policy of the
+       company and determine the selling price of the Job No. CW 7083.
+
+(ii) Suggest any suitable alternative method(s) of absorption of the factory
+       overheads and CALCULATE the overhead recovery rates based on the
+       method(s) so recommended by you.
+
+(iii) DETERMINE the selling price of Job CW 7083 based on the overhead
+       application rates calculated in (ii) above.
+
+(iv) CALCULATE the department-wise and total under or over recovery of
+       overheads based on the company's current policy and the method(s)
+       recommended by you.
+
+10. A light engineering factory fabricates machine parts for customers. The factory
+      commenced fabrication of 12 nos. machine parts as per customers'
+      specifications, the expenditure incurred on the job for the week ending 21st
+      August is as tabulated below:
+
+                                                                 (`)      (`)
+
+Direct materials (all items)                                              780.00
+
+Direct labour (manual) 20 hours @` 15 per                                 300.00
+hour
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.75
+
+Machine facilities :
+
+Machine No. I : 4 hours @ ` 45                     180.00
+
+Machine No. II : 6 hours @ ` 65                    390.00 570.00
+
+Total                                                            1,650.00
+
+Overheads @ ` 8 per hour on 20 manual hours                      160.00
+
+Total cost                                                       1,810.00
+
+The overhead rate of ` 8 per hour is based on 3,000 man hours per week;
+similarly, the machine hour rates are based on the normal working of
+Machine Nos. I and II for 40 hours out of 45 hours per week.
+
+After the close of each week, the factory levies a supplementary rate for the
+recovery of full overhead expenses on the basis of actual hours worked during
+the week. During the week ending 21st August, the total labour hours worked
+was 2,400 and Machine Nos. I and II had worked for 30 hours and 32.5 hours
+respectively.
+
+PREPARE a Cost Sheet for the job for the fabrication of 12 nos. machine parts
+duly levying the supplementary rates.
+
+11. ABC Ltd. manufactures a single product and absorbs the production overheads at
+       a pre-determined rate of ` 10 per machine hour.
+
+At the end of current financial year, it has been found that actual production
+overheads incurred were ` 6,00,000. It included ` 45,000 on account of `written
+off' obsolete stores and ` 30,000 being the wages paid for the strike period under
+an award.
+
+The production and sales data for the current year is as under:
+
+Production :
+
+       Finished goods                              20,000 units
+
+       Work-in-progress                            8,000 units
+
+       (50% complete in all respects)
+
+Sales :
+
+       Finished goods                              18,000 units
+
+© The Institute of Chartered Accountants of India
+a  4.76                   COST AND MANAGEMENT ACCOUNTING
+
+The actual machine hours worked during the period were 48,000. It has been
+found that one-third of the under-absorption of production overheads was due to
+lack of production planning and the rest was attributable to normal increase in
+costs.
+
+(i) CALCULATE the amount of under-absorption of production overheads
+       during the current year; and
+
+(ii) SHOW the accounting treatment of under-absorption of production overheads.
+
+12. A Ltd., manufactures two products A and B. The manufacturing division consists
+       of two production departments P1 and P2 and two service departments S1 and S2.
+       Budgeted overhead rates are used in the production departments to absorb
+       factory overheads to the products. The rate of Department P1 is based on direct
+       machine hours, while the rate of Department P2 is based on direct labour hours.
+       In applying overheads, the pre-determined rates are multiplied by actual hours.
+
+For allocating the service department costs to production departments, the
+basis adopted is as follows:
+
+(i) Cost of Department S1 to Department P1 and P2 equally, and
+
+(ii) Cost of Department S2 to Department P1 and P2 in the ratio of 2 : 1
+       respectively.
+
+The following budgeted and actual data are available:
+
+Annual profit plan data:
+
+Factory overheads budgeted for the year:
+
+   Production Departments                              Service Departments
+
+   P1                                              P2  S1          S2
+
+   ` 25,50,000            ` 21,75,000                  ` 6,00,000  ` 4,50,000
+
+Budgeted output in units:
+Product A 50,000; B 30,000.
+Budgeted raw-material cost per unit:
+Product A ` 120; Product B ` 150.
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                               4.77
+
+Budgeted time required for production per unit:
+
+Department P1 : Product A : 1.5 machine hours
+
+                          Product B : 1.0 machine hour
+
+Department P2 : Product A : 2 Direct labour hours
+
+                          Product B : 2.5 Direct labour hours
+
+Average wage rates budgeted in Department P2 are:
+
+Product A - ` 72 per hour and Product B ­ ` 75 per hour.
+
+All materials are used in Department P1 only.
+
+Actual data: (for the month of July, 2022)
+
+Units actually produced: Product A: 4,000 units
+
+                              Product B: 3,000 units
+
+Actual direct machine hours worked in Department P1:
+
+On product A- 6,100 hours, Product B- 4,150 hours.
+
+Actual direct labour hours worked in Department P2:
+
+on product A- 8,200 hours, Product B- 7,400 hours.
+
+Costs actually incurred:                           Product A Product B
+
+Raw materials                                      ` 4,89,000 ` 4,56,000
+
+Wages                                              ` 5,91,900 ` 5,52,000
+
+Overheads: Department P1                           ` 2,31,000 S1  ` 60,000
+
+                          P2                       ` 2,04,000 S2  ` 48,000
+
+You are required to:
+
+(i) COMPUTE the pre-determined overhead rate for each production
+       department.
+
+(ii) PREPARE a performance report for July, 2022 that will reflect the budgeted
+       costs and actual costs.
+
+© The Institute of Chartered Accountants of India
+a  4.78         COST AND MANAGEMENT ACCOUNTING
+
+Case Scenarios
+
+1. During half year ending inter departmental review meeting of P Ltd., cost
+       variance report was discussed and the performance of the departments were
+       assessed. The following figures were presented.
+
+For a period of first six months of the financial year, following information were
+extracted from the books:
+
+Actual production overheads                                 ` 34,08,000
+The above amount is inclusive of the following payments
+made:                                                        ` 4,50,000
+                                                             ` 1,00,000
+       Paid as per court's order                             ` 4,20,000
+       Expenses of previous year booked in current year
+       Paid to workers for strike period under an award        ` 36,000
+       Obsolete stores written off
+
+Production and sales data for the six months are as under:
+
+Production:                                                 1,10,000 units
+       Finished goods                                         80,000 units
+       Works-in-progress                                      90,000 units
+         (50% complete in every respect)
+
+Sale:
+       Finished goods
+
+Machine worked during the period was 3,000 hours.
+
+At the of preparation of revenue budget, it was estimated that a total of
+` 50,40,000 would be required for budgeted machine hours of 6,000 as
+production overheads for the entire year.
+
+During the meeting, a data analytic report revealed that 40% of the over/under-
+absorption was due to defective production policies and the balance was
+attributable to increase in costs.
+
+You were also present at the meeting; the chairperson of the meeting has asked
+you to be ready with the followings for the performance appraisal of the
+departmental heads:
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD  4.79
+
+       (i) How much was the budgeted machine hour rate used to recover overhead?
+               (a) ` 760
+               (b) ` 820
+               (c) ` 780
+               (d) ` 840
+
+       (ii) How much amount of production overhead has been recovered (absorbed)
+               upto the end of half year end?
+               (a) ` 25,20,000
+               (b) ` 34,08,000
+               (c) ` 24,00,000
+               (d) ` 24,60,000
+
+       (iii) What is the amount of overhead under/ over absorbed?
+               (a) 1,18,000 over-absorbed
+               (b) 1,18,000 under- absorbed
+               (c) 18,000 over-absorbed
+               (d) 18,000 under-absorbed
+
+       (iv) What is the supplementary rate for apportionment of over/under absorbed
+               overheads over WIP, Finished goods and Cost of sales?
+               (a) ` 0.315 per unit
+               (b) ` 0.472 per unit
+               (c) ` 0.787 per unit
+               (d) ` 1 per unit
+
+       (v) What is the amount of over/under absorbed overhead apportioned to Work
+               in Progress?
+               (a) ` 9,440
+               (b) ` 42,480
+
+© The Institute of Chartered Accountants of India
+a  4.80               COST AND MANAGEMENT ACCOUNTING
+
+   (c) ` 18,880
+   (d) ` 70,800
+
+ANSWERS
+
+Answers to the MCQs
+
+   1. (a) 2. (c) 3. (c) 4. (b) 5. (b) 6. (c)
+   7. (c) 8. (c) 9. (d) 10 (d)
+
+Answers to the Theoretical Questions
+
+1. Please refer paragraph 6
+2. Please refer paragraph 4.4
+3. Please refer paragraph 9.2
+4. Please refer paragraph 4.3
+5. Please refer paragraph 6
+6. Please refer paragraph 10
+7. Please refer paragraph 4.3
+8. Please refer paragraph 4.4
+
+Answers to the Practical Problems
+
+1. (a) Overhead Distribution Statement
+
+Particulars                                        Production  Service Department
+                                                   Department
+
+                                                   Machine  Packing General Stores &
+
+                                                               Plant      Maint.
+
+Allocated Expenses:
+
+Indirect labour                                    4,000 3,000 2,000      5,650
+
+Maintenance material                               1,800       700 1,020  1,500
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                                4.81
+
+Superintendent's salary                                  -       - 4,000                        -
+                                                     400                                    200
+Misc. supplies                                              1,000               150
+                                                         -                                      -
+Cost & payroll salaries                            6,200         - 10,000                 7,350
+
+Total            Allocated                                  4,700 17,170
+Overheads
+
+Apportioned expenses                               77,720 25,800 2,830 22,650
+
+(as per schedule below)
+
+Total overheads                                    83,920 30,500 20,000 30,000
+
+                Schedule of Apportioned Expenses
+
+Item                     Basis                         Total Production Depts.  Service Depts.
+                                                   Amount Machine Packing
+                                                                                Gen.       Store
+                                                                      shop      Plant            &
+
+                                                                                          Maint.
+
+                                                   (`)      (`)    (`)               (`)  (`)
+
+Power (7:1:-:2) HP hours                           8,000 5,600     800               - 1,600
+
+Rent (5:2:1:4) Floor Space 12,000 5,000 2,000 1,000 4,000
+
+Fuel and heat Radiator                             6,000 1,200 2,400 800 1,600
+
+(3:6:2:4)       Secs.
+
+Insurance       Investment                         1,000    640    200               10 150
+
+(64:20:1:15)
+
+Trade license Investment                           2,000 1,280     400               20 300
+fees
+
+(64:20:1:15)
+
+Depreciation Investment 1,00,000 64,000 20,000 1,000 15,000
+
+(64:20:1:15)
+
+Total                                              1,29,000 77,720 25,800 2,830 22,650
+
+© The Institute of Chartered Accountants of India
+a         4.82                 COST AND MANAGEMENT ACCOUNTING
+
+(b) Distribution of Service Department Expenses
+
+                                                   Production Depts.              Service Depts.
+
+                                                   Machine        Packing         Gen.           Store &
+                                                   shop                           Plant          Maint.
+
+                                                          (`)              (`)           (`)         (`)
+
+Total Expense [as per (a)]                         83,920               30,500          20,000 30,000
+                                                                          6,000          9,000 -30,000
+Dist. of Store & Maint.                            15,000
+(5:2:3)                                                                   8,286
+                                                                            829
+Dist. of General plant (4:2:1) 16,571                                                -29,000       4,143
+                                                                            355        1,242      -4,143
+Dist. of Store & Maint.                            2,072                      35
+(5:2:3)
+                                                                              18
+Dist. of General plant (4:2:1)                     710                  46,023          -1,242     177
+                                                                                             53   -177
+Dist. of Store & Maint.                                   89
+
+(5:2:3)
+
+Dist. of General plant (4:2:1)                            35                             -53            0
+
+Total                                              1,18,397
+
+2. Statement Showing Distribution of Overheads of Modern Manufactures
+       Ltd.
+
+                                Total                              Production                Service
+                                                                  Departments            Departments
+
+Particulars     Basis                                          P        P         P      S        S
+
+                                                                  1        2         3      1        2
+
+                                                   (`) (`) (`) (`) (`) (`)
+
+Direct wages Actual                                1,695             -        -         - 1,500 195
+
+Rent & rates Area                                  5,000 1,000 1,250 1,500 1,000 250
+
+General         Light                              600 100 150 200 100                               50
+lighting        points
+
+Indirect wages Direct                              1,939 600 400 600 300                             39
+                        wages
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                                       4.83
+
+Power                       H.P.                   1,500 600 300 500 100               -
+
+Depreciation of Value of 10,000 2,400 3,200 4,000 200 200
+
+machines                    machines
+
+Sundries                    Direct                 9,695 3,000 2,000 3,000 1,500 195
+                            wages
+
+                                                   30,429 7,700 7,300 9,800 4,700 929
+
+Redistribution of Service Department's Expenses over Production
+Departments
+
+                                       P (`) P (`)                 P (`)  S (`) S (`)
+                                                   1       2          3   1     2
+
+Total                       overhead               7,700   7,300   9,800 4,700 929
+
+distributed as above
+
+Dept. S                     Overheads                 940 1,410    1,880 -4,700 470
+                        1
+
+apportioned
+
+(20:30:40:--:10)            overheads              559.6   279.8   419.7 139.9 -1,399
+
+Dept. S
+                         2
+
+apportioned
+
+(40:20:30:10:--)
+
+Dept. S   1                 Overheads                 28      42   56 -139.9 13.9
+
+apportioned
+
+(20:30:40:--:10)
+
+Dept. S   2                 overheads                 6.2     3.1  4.6          - -13.9
+
+apportioned
+
+(40:20:30:10:--)
+
+                                       9,233.8 9,034.9 12,160.3
+
+Working hours                                      3070 4475       2419
+
+Rate per hour                                      3.00 2.02       5.03
+
+© The Institute of Chartered Accountants of India
+a                4.84  COST AND MANAGEMENT ACCOUNTING
+
+Determination of total cost of Product `X'
+
+                                                   (`)
+
+Direct material cost                                50.00
+Direct labour cost                                  30.00
+Overhead cost (See working note)                    37.19
+                                                   117.19
+Working Note:
+
+Overhead cost:
+
+(` 3 × 4 hrs.) + (` 2.02 × 5 hrs.) + (` 5.03 × 3 hrs.)
+
+= ` 12 + ` 10.10 + ` 15.09 = ` 37.19
+
+3. (a) Deccan Manufacturing Limited
+               Schedule Showing the Distribution of Overhead Costs among
+               Departments
+
+                       Production                             Service
+
+                       X (`) Y (`) Z (`) P (`) Q (`) R (`) S (`)
+
+Overhead cost 1,93,000 64,000 83,000 45,000 75,000 1,05,000 30,000
+
+Distribution of 10,000 12,500                      8,500 -45,000 5,000  4,000 5,000
+Dept.P
+
+(100:125:85:-
+
+:50:40:50)
+
+Distribution of 16,000 12,000 16,000                       - -80,000 24,000 12,000
+Dept.Q
+
+(4:3:4:-:-:6:3)
+
+Distribution of 57,000 28,500 28,500                       -  - -1,33,000 19,000
+
+Dept.R
+
+(6:3:3:-:-:-:-:2)
+
+Distribution of 24,000 18,000 24,000                       -  -         - -66,000
+
+Dept.S
+
+(4:3:4:-:-:-:-)
+
+Total                  3,00,000 1,35,000 1,60,000
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                        4.85
+
+(b) Calculation of overhead recovery rate
+
+                                                   Dept-X  Dept-Y  Dept-Z
+
+Total apportioned overheads                        `3,00,000 `1,35,000 `1,60,000
+
+Direct labour hours                                4,000   3,000   4,000
+
+Overhead recovery rate per                         `75     `45     `40
+
+labour hour
+
+4. Working notes:
+
+(i) Total machine hours used                                       3,500
+
+(600 + 900 + 400 + 600 + 1,000)
+
+(ii) Total machine hours without the use of computers              1,500
+
+(600 + 900)
+
+(iii) Total machine hours with the use of computer                 2,000
+
+(400 + 600 + 1,000)
+
+(iv) Total overheads of the machine per month
+
+Rent (` 17,500 ÷ 3 months)                                         ` 5,833.33
+
+Depreciation (` 2,00,000 ÷ 12 months)                              ` 16,666.67
+
+Indirect Charges (` 1,50,000 ÷ 12 months)                          ` 12,500.00
+
+Total                                                              ` 35,000.00
+
+(v) Computer hire charges for a month = ` 35,000
+
+(` 4,20,000 ÷ 12 months)
+
+(vi) Overheads for using machines without computer
+       = ` 35,000 × 1,500 hrs. = ` 15,000
+           3,500 hrs.
+
+(vii) Overheads for using machines with computer
+       = ` 35,000 ×2,000 hrs. + ` 35,000 = ` 55,000
+           3,500 hrs.
+
+© The Institute of Chartered Accountants of India
+a  4.86                   COST AND MANAGEMENT ACCOUNTING
+
+(a) Computation of Machine hour rate for the firm as a whole for a
+       month.
+
+       (1) When the Computer was used: ` 55,000 = ` 27.50 per hour
+                                                         2,000 hours
+
+   (2) When the computer was not used: `15,000 = ` 10 per hour
+                                                          1,500 hrs.
+
+(b) Computation of Machine hour rate for the individual job
+
+                Rate                                      Job
+
+                per                                A            B            C
+
+                hour
+
+                (`) Hrs.                              (`) Hrs.     (`) Hrs.      (`)
+
+   Overheads
+
+   Without      10.0 600 6,000 900 9,000                               -         -
+
+   Computer
+
+   With         27.5 400 11,000 600 16,500 1,000 27,500
+
+   computer
+
+   Total                  1,000 17,000 1,500 25,500 1,000 27,500
+
+   Machine                                            17           17            27.5
+   hour rate
+
+5. Computation of comprehensive machine hour rate of machine shop
+
+Particulars                                                            (`)
+
+Operator's wages (Refer to working note 2)                             7,38,000
+
+Production bonus (15% on wages)                                        1,10,700
+
+Power consumed                                                         80,500
+
+Supervision and indirect labour                                        33,000
+
+Lighting and electricity                                               12,000
+
+Repairs and maintenance (3%× ` 8 lakh×½)                               12,000
+
+Insurance (` 40,000 × ½)                                               20,000
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.87
+
+Depreciation (10%×` 8 lakh×½)                              40,000
+Sundry works expenses (`12,000 × ½)                         6,000
+General management expenses (`54,530 × ½)
+                                                           27,265
+                                                       10,79,465
+
+Machine hour rate  = Total overheads of machine shop
+                          Hours of machines operation
+
+                   =  ` 10,79, 465                 (Refer to working note 1) = `149.93
+
+                      7,200 hours
+
+Working notes
+
+1. Computation of hours, for which 6 operators are available for 6 months.
+
+                                                   For 6 months and
+                                                           6 operators
+
+Normal available hours                                   7,488
+
+(208 x 6 months x 6 operators)
+
+Less: Absenteeism hours (18 x 6 operators)               (108)
+
+Paid hours                                               7,380
+
+Less: Leave hours (20 x 6 operators)                     (120)
+
+Less: Idle time hours (10 x 6 operators)                           (60)
+
+Effective working hours                                  7,200
+
+       As machines cannot be worked without an operator wholly engaged on
+       them therefore, hours for which 6 operators are available for 6 months
+       are the hours for which machines can be used. Hence 7,200 hours
+       represent effective working hours.
+
+2. Computation of operator's wages
+       Average rate of wages: `800 = `100 per hour
+                                         8hours
+
+© The Institute of Chartered Accountants of India
+a          4.88            COST AND MANAGEMENT ACCOUNTING
+
+   Total wages paid to 6 operators for 6 months = 7,380 hours × ` 100
+   = ` 7,38,000
+
+6. Computation for works costs for job No. 198
+
+                                                    (`)        (`)
+
+Materials                                                 6,000
+
+Direct labour                                             4,000
+
+                                                          10,000
+
+Factory overheads:
+
+Machine No. 215 : 40 hours @ `35                   1,400
+
+Machine No. 160 : 30 hours @ `40                   1,200
+
+*240 hours of welders @ ` 20 per hr.               4,800
+
+**General expenses 10% of wages                    400    7,800
+
+Work cost                                                 17,800
+
+* 6 welders × 5 days × 8 hours = 240 hours
+
+** Un- apportioned expenses ` 20,000 which works out at 10% of direct wages.
+
+7. Computation of Over/Under-absorbed overhead expenses during the
+       month of August
+
+                                                          (`)       (`)
+
+Total expenses incurred in the month of August:                80,000
+
+Less: The amount paid according to labour court 15,000
+award (Assumed to be non-recurring)
+
+Expenses of previous year                                 5000 (20,000)
+
+Net overhead expenses incurred for the month                   60,000
+
+Overhead recovered for 10,000 hours @ ` 5 per hour             (50,000)
+
+Under-absorbed overheads                                       10,000
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                 4.89
+
+60% of under-absorbed overhead was due to defective planning, it will be
+charged to costing profit & loss account.
+
+40% of under-absorbed overhead i.e. `4,000 may be distributed over
+Finished Goods and Cost of Sales using supplementary overhead rate:
+Supplementary rate = Under -absorbed OH
+
+                                   Units produced
+
+= `4,000 = `0.10
+   40,000 units
+
+Amount of under-absorbed overheads charged to finished goods
+= 10,000 units × `0.10 = `1,000
+
+Amount of under-absorbed overheads charged to cost of sales
+= 30,000 units × `0.10 = `3,000
+
+8. Computation of unabsorbed overheads
+
+Man-days worked                                              1,50,000
+
+                                                              (`)
+
+Overhead actually incurred                                   41,50,000
+
+Less: Overhead absorbed @ ` 25 per man-day                   37,50,000
+
+(` 25 × 1,50,000)                                             ________
+
+Unabsorbed overheads                                         4,00,000
+
+Unabsorbed overheads due to defective
+
+planning (i.e. 60% of ` 4,00,000)                            2,40,000
+
+Balance of unabsorbed overhead                               1,60,000
+
+Treatment of unabsorbed overheads in Cost Accounts
+
+(i) The unabsorbed overheads of ` 2,40,000 due to defective planning to be
+       treated as abnormal and therefore be charged to Costing Profit and Loss
+       Account.
+
+© The Institute of Chartered Accountants of India
+a       4.90        COST AND MANAGEMENT ACCOUNTING
+
+(ii) The balance unabsorbed overheads of `1,60,000 be charged to
+       production i.e., 40,000 units at the supplementary overhead absorption
+       rate i.e., ` 4 per unit (Refer to Working Note)
+
+                                                                           (`)
+
+        Charge to Costing Profit and Loss Account as part of       1,20,000
+        the cost of unit sold
+
+        (30,000 units @ ` 4 p.u.)
+
+        Add: To closing stock of finished goods                    40,000
+
+        (10,000 units @ ` 4 p.u.)                                  _________
+
+        Total                                                      1,60,000
+
+Working Note:
+Supplementary overhead absorption rate = ` 1,60,000 = ` 4 p.u.
+
+                                                             40,000 units
+
+9. (i)           Computation of overhead absorption rate
+
+                 (as per the current policy of the company)
+
+        Department                                 Budgeted factory Budgeted direct
+
+                                                   Overheads       wages
+
+                                                              (`)               (`)
+
+        Machinery                                  3,60,000                80,000
+
+        Assembly                                   1,40,000                3,50,000
+
+        Packing                                    1,25,000                70,000
+
+        Total                                      6,25,000                5,00,000
+
+        Overhead absorption rate = Budgeted factory overheads × 100
+                                                       Budgeted direct wages
+
+        = ` 6,25,000 × 100 = 125% of Direct wages
+          ` 5,00,000
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.91
+
+Selling Price of the Job No. CW-7083
+
+                                                                                   (`)
+
+Direct materials (` 1,200 + ` 600 + ` 300)                                       2,100.00
+
+Direct wages (` 240 + ` 360 + ` 60)                                              660.00
+
+Overheads (125% × ` 660)                                                         825.00
+
+Total factory cost                                                               3,585.00
+
+Add: Mark-up (30% × ` 3,585)                                                     1,075.50
+
+Selling price                                                                    4,660.50
+
+(ii) Methods available for absorbing factory overheads and their
+       overhead recovery rates in different departments
+
+1. Machining Department
+
+In the machining department, the use of machine time is the
+predominant factor of production. Hence machine hour rate
+should be used to recover overheads in this department. The
+overhead recovery rate based on machine hours has been
+calculated as under:
+
+Machine hour rate                                  = Budgeted factory overheads
+                                                        Budgeted machine hours
+
+                                                   = ` 3,60,000 = ` 4.50 per hour
+                                                      80,000 hours
+
+2. Assembly Department
+
+In this department direct labour hours is the main factor of
+production. Hence direct labour hour rate method should be
+used to recover overheads in this department. The overheads
+recovery rate in this case is:
+
+Direct labour hour rate = Budgeted factory overheads
+                                   Budgeted direct labour hours
+
+                                                   = `1, 40,000 = ` 1.40 per hour
+                                                     1,00,000 hours
+
+© The Institute of Chartered Accountants of India
+a  4.92              COST AND MANAGEMENT ACCOUNTING
+
+   3. Packing Department
+
+   Labour is the most important factor of production in this depart-
+   ment. Hence direct labour hour rate method should be used to
+   recover overheads in this department.
+
+   The overhead recovery rate in this case comes to:
+
+   Budgeted factory overhead
+   Direct labour hour rate = Budgeted factory overheads
+
+                                            Direct labour hours
+                                         ` 1, 25, 000
+                                  = 50,000 hours = ` 2.50 per hour
+
+(iii) Selling Price of Job CW-7083 [based on the overhead application
+       rates calculated in (ii) above]
+
+                                                                    (`)
+
+   Direct materials                                              2,100.00
+
+   Direct wages                                                  660.00
+
+   Overheads (Refer to Working note)                             1,078.00
+
+   Factory cost                                                  3,838.00
+
+   Add: Mark up (30% of ` 3,838)                                 1,151.40
+
+   Selling price                                                 4,989.40
+
+   Working note:
+
+                     Overhead Summary Statement
+
+   Dept.             Basis                         Hours  Rate Overheads
+
+                                                          (`)              (`)
+
+   Machining Machine hour                          180    4.50             810
+
+   Assembly Direct labour hour                     120    1.40             168
+
+   Packing Direct labour hour                      40     2.50             100
+
+                                                          Total     1,078
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                                    4.93
+
+(iv) Department-wise statement of total under or over recovery of
+       overheads
+       (a) Under current policy
+                                                Departments
+                                                Machining Assembly Packing Total
+
+                                                           (`)         (`)   (`)   (`)
+
+Direct wages (Actual)                              96,000 2,70,000 90,000
+
+Overheads recovered @
+
+125% of Direct wages: (A)                          1,20,000 3,37,500 1,12,500 5,70,000
+
+Actual overheads: (B)                              3,90,000 84,000 1,35,000 6,09,000
+
+(Under)/Over recovery of
+
+overheads : (A­B)                                  (2,70,000) 2,53,500 (22,500) (39,000)
+
+(b) As per methods suggested
+
+               Basis of overhead recovery
+
+                                                   Machine Direct Direct           Total
+                                                                                    (`)
+                                                   hours labour labour
+
+                                                                hours       hours
+
+                                                           (Assembly) (Packing)
+
+Hours worked                                       96,000       90,000 60,000
+
+Rate/hour (`)                                      4.50         1.40         2.50
+
+Overhead recovered (`): (A) 4,32,000 1,26,000 1,50,000 7,08,000
+
+Actual overheads (`): (B) 3,90,000                              84,000 1,35,000 6,09,000
+
+(Under)/Over recovery: (A-B) 42,000                             42,000 15,000 99,000
+
+© The Institute of Chartered Accountants of India
+a  4.94  COST AND MANAGEMENT ACCOUNTING
+
+10. Fabrication of 12 nos. machine parts (job No......)       (`)         (`)
+      Date of commencement: 16th August                              780.00
+      Date of Completion:                                180.00      300.00
+      Cost sheet for the week ending, August 21st:       390.00
+                                                                     570.00
+       Direct materials (all items)                       40.00    1,650.00
+       Direct labour (manual) 20 hours @` 15 per hour     60.00
+       Machine facilities:                                90.00      160.00
+                                                                   1,810.00
+             Machine No. I : 4 hours @ ` 45
+             Machine No. II : 6 hours @ ` 65                         190.00
+       Total                                                       2,000.00
+       Overheads @ ` 8 per hour on 20 manual hours
+       Total cost
+       Supplementary Rates
+       Overheads 20 hours @ ` 2 per hour (Refer WN-1)
+       Machine facilities: (Refer WN-2)
+             Machine No. I - 4 hours @ ` 15
+             Machine No. II - 6 hours @ ` 15
+       Cost
+
+Working notes (WN):
+ 1. Overheads budgeted: 3,000 man-hours × `8 =`24,000
+         Actual hours: 2,400 man-hours
+         Actual rate per hour `24,000 ÷ 2,400 hours = `10
+         Supplementary charge ` 2 (`10 ­ ` 8) per hour
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                            4.95
+
+2. Machine facilities:
+
+                                                   Machine No. I Machine No. II
+
+Budgeted                                             `1,800      `2,600
+                                                   (40 × `45)  (40 × `65)
+
+Actual number of hours                             30                    32.5
+
+Actual rate per hour                               `60.00      `80.00
+
+Supplementary rate per                             ` 15.00     ` 15.00
+
+hour                                               (`60.00 ­ `45.00) (`80.00 ­ `65.00)
+
+11. (i) Amount of under-absorption of production overheads during the
+              current year
+
+                                                                                        (`)
+
+Total production overheads actually incurred                                   6,00,000
+
+during the current year
+
+Less : `Written off' obsolete stores                           ` 45,000
+
+Wages paid for strike period                                   ` 30,000        75,000
+
+Net production overheads actually incurred : (A)                               5,25,000
+
+Production overheads absorbed by 48,000 machine
+
+hours @ ` 10 per hour : (B)                                                    4,80,000
+
+Amount of under ­ absorption of production overheads :[(A) ­ (B)] 45,000
+
+(ii) Accounting treatment of under absorption of production overheads
+
+It is given in the statement of the question that 20,000 units were
+completely finished and 8,000 units were 50% complete, one third of
+the under-absorbed overheads were due to lack of production
+planning and the rest were attributable to normal increase in costs.
+
+© The Institute of Chartered Accountants of India
+a  4.96              COST AND MANAGEMENT ACCOUNTING
+
+                                                                    (`)
+
+   1. (33 ­ 1/3% of ` 45,000) i.e., ` 15,000 of under-absorbed
+
+   overheads were due to lack of production planning.
+
+   This being abnormal, should be debited to the Costing
+
+   Profit and Loss A/c.                                             15,000
+
+   2. Balance (66­2/3% of ` 45,000) i.e., ` 30,000
+
+   of under-absorbed overheads should be distributed
+
+   over work-in-progress, finished goods and cost of
+
+   sales by using supplementary rate.                               30,000
+
+   Total under-absorbed overheads                                   45,000
+
+   Apportionment of unabsorbed overheads of ` 30,000 over, work-in
+   progress, finished goods and cost of sales
+
+                                                   Equivalent       (`)
+
+                                                   Completed Units
+
+   Work-in-Progress
+
+   (4,000 units × ` 1.25)                          4,000            5,000
+
+   (Refer to working note)
+
+   Finished goods
+
+   (2,000 units × ` 1.25)                          2,000            2,500
+
+   Cost of sales
+
+   (18,000 units × ` 1.25)                         18,000           22,500
+
+                                                   24,000           30,000
+
+Working Note
+Supplementary rate per unit = ` 30,000 = ` 1.25
+
+                                           24,000
+
+© The Institute of Chartered Accountants of India
+         OVERHEADS-ABSORPTION COSTING METHOD                        4.97
+
+12. (i)  Computation of predetermined overhead rate for each
+               production departments from budgeted data
+
+                                                   Production       Service Department
+                                                   Department
+
+                                                   P1     P2        S1           S2
+
+         Budgeted factory overheads for 25,50,000 21,75,000 6,00,000 4,50,000
+         the year in (`)
+
+         Allocation  of                            service 3,00,000 3,00,000 (6,00,000) --
+
+         department S1's costs to
+
+         production departments P1
+
+         and P2 equally in (`)
+
+         Allocation  of                            service 3,00,000 1,50,000 --  (4,50,000)
+
+         department S2's costs to
+
+         production departments P1
+
+         and P2 in the ratio of 2:1 in (`)
+
+         Total                                     31,50,000 26,25,000 --        --
+
+         Budgeted machine hours in 1,05,000 --
+         department P1 (working note 1)
+
+         Budgeted labour hours in --                      1,75,000
+         department P2 (working note 1)
+
+         Budgeted machine/ labour                  30.00  15.00
+         hour rate (`)
+
+© The Institute of Chartered Accountants of India
+a  4.98  COST AND MANAGEMENT ACCOUNTING
+
+(ii) Performance report for July, 2022
+
+       (When 4,000 and 3,000 units of products A and B respectively were
+       actually produced)
+
+                                                                Budgeted       Actual
+                                                                          (`)       (`)
+
+   Raw materials used in Dept. P1:
+
+   A : 4,000 units × ` 120                                      4,80,000 4,89,000
+
+   B : 3,000 units × ` 150                                      4,50,000 4,56,000
+
+   Direct labour cost
+   (on the basis of labour hours worked in
+   department P2)
+
+   A : 4,000 units × 2 hrs. × ` 72                              5,76,000 5,91,900
+
+   B : 3,000 units × 2.5 hrs. × ` 75                            5,62,500 5,52,000
+
+   Overhead absorbed on machine hour basis
+   in Dept. P1:
+
+   A : 4,000 units × 1.5 hrs. × `30                             1,80,000 1,74,400*
+
+   B : 3,000 units × 1 hr. × `30                                90,000 1,18,649*
+
+   Overhead absorbed on labour hour basis in
+   Dept. P2:
+
+   A : 4,000 units × 2 hrs. × ` 15                              1,20,000 1,31,364**
+
+   B : 3,000 units × 2.5 hrs. × ` 15                            1,12,500 1,18,548**
+
+                                                                25,71,000 26,31,861
+
+       * (Refer to working note 4) **(Refer to working note 5)
+Working notes:
+1.
+
+                                                   Product A Product B Total
+
+   Budgeted output (in units)                      50,000       30,000
+
+   Budgeted machine hours in                            75,000          30,000 1,05,000
+   Dept. P1
+                                                   (50,000×1.5  (30,000×1 hr.)
+
+© The Institute of Chartered Accountants of India
+    OVERHEADS-ABSORPTION COSTING METHOD                              4.99
+
+                                                       hrs.)
+
+    Budgeted labour hours in                       1,00,000              75,000 1,75,000
+    Dept. P2
+                                                   (50,000×2 hrs.) (30,000×2.5 hrs.)
+
+2.
+
+                                                       Product Product Total
+
+                                                              A          B
+
+    Actual output (in units)                           4,000 3,000
+
+    Actual machine hours utilized in Dept. P1 6,100 4,150 10,250
+
+    Actual labour hours utilised in Dept. P2 8,200 7,400 15,600
+
+3. Computation of actual overhead rates for each production
+       department from actual data
+
+                                                   Production               Service
+                                                   Department            Department
+
+                                                   P1            P2         S1            S2
+
+    Actual factory overheads for                   2,31,000 2,04,000     60,000 48,000
+    the month of July, 2022 in (`)
+                                                   30,000 30,000 (60,000)                     -
+    Allocation of service Dept.
+    S1's costs to production Dept.                 32,000 16,000                      - (48,000)
+    P1 and P2 equally in (`)
+                                                   2,93,000 2,50,000                  --      --
+    Allocation of service Dept.
+    S2's costs to production Dept.                 10,250            --
+    P1 and P2 in the ratio of 2:1 in
+    (`)                                                -- 15,600
+
+    Total                                              28.59 16.02
+
+    Actual machine hours in Dept.
+    P1 (working note 2)
+
+    Actual labour hours in Dept.
+    P2 (working note 2)
+
+    Actual machine/ labour hour
+    rate (`)
+
+© The Institute of Chartered Accountants of India
+a  4.100              COST AND MANAGEMENT ACCOUNTING
+
+4. Actual overheads absorbed (based on machine hours)
+      A : 6,100 hrs × ` 28.59 = ` 1,74,400
+      B : 4,150 hrs × ` 28.59 = ` 1,18,649
+
+5. Actual overheads absorbed (based on labour hours)
+      A : 8,200 hrs × ` 16.02 = ` 1,31,364
+      B : 7,400 hrs × ` 16.02 = ` 1,18,548
+
+Answers To The Case Scenarios
+
+1.
+          i. (d) ii. (a) iii. (a) iv. (b) v. (c)
+
+(i) (d) Budgeted Machine hour rate (Blanket rate)
+               = ` 50, 40,000 = ` 840 per hour
+                    6,000 hours
+
+(ii) (a) ` 25,20,000
+(iii) (a)
+
+                                                   Amount Amount
+
+                                                   (`)       (`)
+
+   Total production overheads                                34,08,000
+   actually incurred during the
+   period                                          4,50,000
+                                                   1,00,000
+   Less: Amount paid to worker as
+           per court order                         4,20,000
+
+          Expenses of previous year                  36,000 10,06,000
+          booked in the current                                   24,02,000
+          year
+
+          Wages paid for the strike
+          period under an award
+
+          Obsolete stores written off
+
+© The Institute of Chartered Accountants of India
+OVERHEADS-ABSORPTION COSTING METHOD                4.101
+
+          Less: Production overheads                              25,20,000
+                 absorbed as per machine                           1,18,000
+                 hour rate (3,000 hours ×
+                 ` 840*)
+
+          Amount of over absorbed
+          production overheads
+
+          * Budgeted Machine hour rate (Blanket rate) calculated in part (i)
+
+(iv) (b)  Accounting treatment of over absorbed production
+          overheads: As, 40% of the over absorbed overheads were due
+          to defective production policies, this being abnormal, hence
+          should be credited to Costing Profit and Loss Account.
+
+          Amount to be credited to Costing Profit and Loss Account
+
+          = ` 1,18,000× 40% = ` 47,200.
+
+          Balance of over absorbed production overheads should be
+          distributed over Works in progress, Finished goods and Cost of
+          sales by applying supplementary rate*.
+
+          Amount to be distributed = ` 1,18,000× 60% = ` 70,800
+          Supplementary rate = ` 70,800 = ` 0.472 per unit
+
+                                            1,50,000 units
+
+(v) (c) Apportionment of over absorbed production overheads over
+                 WIP, Finished goods and Cost of sales:
+
+          Work-in-Progress (80,000 units           Equivalent     Amount
+          × 50% ×0.472)                            completed         (`)
+          Finished goods (20,000 units
+          × 0.472)                                     units        18,880
+          Cost of sales (90,000 units
+          × 0.472)                                        40,000
+          Total
+                                                   20,000 9,440
+
+                                                   90,000 42,480
+
+                                                   1,50,000 70,800
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+

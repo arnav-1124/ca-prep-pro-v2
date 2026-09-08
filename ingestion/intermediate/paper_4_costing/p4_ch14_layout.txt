@@ -1,0 +1,3573 @@
+CHAPTER  14
+CHAPTER     14
+
+MARGINAL COSTING
+
+                                    LEARNING OUTCOMES
+
+ Explain the meaning and characteristics of Marginal Costing.
+
+ Describe the meaning of CVP Analysis and apply the same in
+      making short-term managerial decisions.
+
+ Describe the meaning and application of Break-even point,
+      Margin of safety, Angle of incidence etc. and apply the same
+      in making computations.
+
+ Calculate and explain the various formulae used in CVP
+      analysis.
+
+ Apply the concepts of marginal costing and CVP analysis in
+      short-term decision making.
+
+ Differentiate between Marginal Costing and Absorption
+      Costing.
+
+© The Institute of Chartered Accountants of India
+14.2              COST AND MANAGEMENT ACCOUNTING
+
+CHAPTER OVERVIEW
+
+Marginal Costing  Meaning of Marginal Cost         Break-even Analysis
+                     and Marginal Costing           Marginal of Safety
+                                                   Angle of Incidence
+                  Characteristics of Marginal      Contribution Ratio
+                              Costing
+
+                  Cost-Volume-Profit (CVP)
+                              Analysis
+
+                      Short-term Decision
+                              making
+
+    1. INTRODUCTION
+
+As discussed in the first chapter `Introduction to Cost and Management
+Accounting', the cost and management accounting system by provision of
+information, enables management to take various decisions. Marginal Costing is a
+technique of cost and management accounting which is used to analyse
+relationship between cost, volume and profit.
+
+In order to appreciate the concept of marginal costing, it is necessary to study the
+definition of marginal costing and certain other terms associated with this
+technique. The important terms have been defined as follows:
+
+1. Marginal Cost: Marginal cost as understood in economics is the
+incremental cost of production for producing one additional unit of product.
+As we understood, variable costs have direct relationship with volume of output
+and fixed costs remains constant irrespective of volume of production. Hence,
+marginal cost is measured by the total variable cost attributable to one
+
+© The Institute of Chartered Accountants of India
+MARGINAL COSTING                                                       14.3
+
+additional unit. For example, the total cost of producing 10 units and 11 units
+of a product is `10,000 and `10,500 respectively. The marginal cost for 11th unit
+i.e. 1 unit extra from 10 units is `500.
+
+Marginal cost can precisely be the sum of prime cost and variable overhead.
+
+Example 1: Arnav Ltd. produces 10,000 units of product Z by incurring a total
+cost of ` 3,50,000. Break-up of costs are as follows:
+
+(i) Direct Material @ ` 10 per unit, ` 1,00,000,
+
+(ii) Direct employee (labour) cost @ ` 8 per unit, ` 80,000
+
+(iii) Variable overheads @ `2 per unit, ` 20,000
+
+(iv) Fixed overheads ` 1,50,000 (upto a volume of 50,000 units)
+
+In this example, if Arnav Ltd. wants to know marginal cost of producing one
+extra unit from the current production i.e. 10,001st unit. The marginal cost would
+be the change in the total cost due production of this 10,001st extra unit. The
+extra cost would be `20, as calculated below:
+
+(i) Direct Material @ `10 per unit                 10,000    10,001     Change in
+(ii) Direct employee (labour) cost @ `8             units     units         Cost
+
+       per unit                                       (A)       (B)    (c) = (B) - (A)
+(iii) Variable overheads @ `2 per unit
+(iv) Fixed overheads                               1,00,000  1,00,010                10
+Total Cost                                           80,000    80,008                  8
+
+                                                   20,000 20,002             2
+
+                                                   1,50,000 1,50,000         0
+
+                                                   3,50,000 3,50,020         20
+
+2. Marginal Costing: It is a costing system where products or services
+and inventories are valued at variable costs only. It does not take
+consideration of fixed costs. This system of costing is also known as direct
+costing as only direct costs forms the part of product and inventory cost. Costs
+are classified on the basis of behavior of cost (i.e. fixed and variable) rather
+functions as done in absorption costing method.
+
+3. Direct Costing: Direct costing and Marginal Costing is used synonymously
+at various places. But the relation of costs with respect to activity level must be
+
+© The Institute of Chartered Accountants of India
+14.4                    COST AND MANAGEMENT ACCOUNTING
+
+understood. Some costs are variable at batch level but fixed for unit level
+whereas others are variable at production line level but fixed for batches and
+units.
+
+Example 2: Arnav Ltd. produces 10,000 units of product Z by incurring a total
+cost of `4,80,000. Break-up of costs are as follows:
+
+(i) Direct Material @ `10 per unit, `1,00,000,
+
+(ii) Direct employee (labour) cost @ `8 per unit, `80,000
+
+(iii) Variable overheads @ ` 2 per unit, `20,000
+
+(iv) Machine set up cost @ `1,200 for a production run (100 units can be
+       manufactured in a run)
+
+(v) Depreciation of a machine specifically used for production of Z `10,000
+
+(iv) Apportioned fixed overheads ` 1,50,000.
+
+Analysis of the costs:
+
+                        10,000                     10,001    Change in  Direct Cost
+                         units                      units        Cost
+
+                        (A)                        (B) (c) = (B) - (A)
+
+(i) Direct Material 1,00,000                       1,00,010  10 Unit level Direct
+     @ ` 10 per unit                                              Cost.
+
+(ii) Direct employee    80,000                     80,008               8 Unit level Direct
+     (labour) cost @                                                       Cost.
+     ` 8 per unit
+
+(iii) Variable          20,000                     20,002               2 Unit level Direct
+     overheads @ `2                                                        Cost.
+     per unit
+
+(iv) Machine set up 1,20,000                       1,21,200  1,200 Batch level Direct
+     cost                                            10,000           Cost
+
+(v) Depreciation of     10,000                     1,50,000       0 Product level Direct
+     a machine                                     4,81,220           Cost.
+
+(vi) Apportioned        1,50,000                                  0 Department level
+                                                                      Direct Cost
+fixed overheads
+                                                             1,220
+Total Cost              4,80,000
+
+© The Institute of Chartered Accountants of India
+MARGINAL COSTING                                   14.5
+
+In the example, the direct cost of producing 10,001st unit is 1,220 but it is not
+the marginal cost of producing one extra unit rather marginal cost of running
+one extra production run (batch).
+
+4. Differential and Incremental Cost: Differential cost is difference
+between the costs of two different production levels. It is a relative
+representation of costs for two different levels that results in the increase or
+decrease in cost. Incremental cost, on the other hand, is the increase in the costs
+due to change in the volume or process of production activities. Incremental
+costs are sometime compared with marginal cost but in reality, there is a thin
+line difference between the two. Marginal cost is the change in the total cost
+due to production of one extra unit while incremental cost can be both for
+increase in one unit or in total volume. In the Example 2 above, ` 1,220 is the
+incremental cost of producing one extra unit but not marginal cost for
+producing one extra unit.
+
+    2. CHARACTERISTICS OF MARGINAL COSTING
+
+The technique of marginal costing is based on the distinction between product
+costs and period costs. Only the variables costs are treated as the costs of the
+products while the fixed costs are treated as period costs which will be incurred
+during the period regardless of the volume of output. The main characteristics
+of marginal costing are as follows:
+
+1. All elements of cost are classified into fixed and variable components.
+       Semi-variable costs are also analyzed into fixed and variable elements.
+
+2. The marginal or variable costs (as direct material, direct labour and variable
+       factory overheads) are treated as the cost of product.
+
+3. Under marginal costing, the value of finished goods and work­in­progress
+       is also comprised only of marginal costs. Variable selling and distribution
+       are excluded for valuing these inventories. Fixed costs are not considered for
+       valuation of closing stock of finished goods and closing WIP.
+
+4. Fixed costs are treated as period costs and are charged to profit and loss
+       account for the period for which they are incurred.
+
+5. Prices are determined with reference to marginal costs and contribution margin.
+
+© The Institute of Chartered Accountants of India
+14.6  COST AND MANAGEMENT ACCOUNTING
+
+6. Profitability of departments and products is determined with reference to
+       their contribution margin.
+
+    3. FACTS ABOUT MARGINAL COSTING
+
+Some of the facts about marginal costing are depicted below:
+
+Not a distinct method: Marginal costing is not a distinct method of costing like
+job costing, process costing, operating costing, etc., but a special technique
+used for managerial decision making. Marginal costing is used to provide a basis
+for the interpretation of cost data to measure the profitability of different
+products, processes and cost centres in the course of decision making. It can,
+therefore, be used in conjunction with the different methods of costing such as
+job costing, process costing, etc., or even with other techniques such as standard
+costing or budgetary control.
+
+Cost Ascertainment: In marginal costing, cost ascertainment is made on the
+basis of the nature of cost. It gives consideration to behaviour of costs. In other
+words, the technique has developed from a particular conception and
+expression of the nature and behaviour of costs and their effect upon the
+profitability of an undertaking.
+
+Decision Making: According to traditional or total cost method, as opposed to
+marginal costing, the classification of costs is based on functional basis. Under
+this method the total cost is the sum total of the cost of direct material, direct
+labour, direct expenses, manufacturing overheads, administration overheads,
+selling and distribution overheads. In this system, other things being equal, the
+total cost per unit will remain constant only when the level of output or mixture
+is the same from period to period. Since these factors are continually fluctuating,
+the actual total cost will vary from one period to another. Thus, it is possible for
+the costing department to say one day that an item cost `20 and the next day
+it costs `18. This situation arises because of changes in volume of output and
+the peculiar behavior of fixed expenses included in the total cost. Such
+fluctuating manufacturing activity, and consequently the variations in the total
+cost from period to period or even from day to day, poses a serious problem to
+the management in taking sound decisions. Hence, the application of marginal
+costing has been given wide recognition in the field of decision making.
+
+© The Institute of Chartered Accountants of India
+                            MARGINAL COSTING                 14.7
+
+4. DETERMINATION OF COST AND PROFIT
+      UNDER MARGINAL COSTING
+
+For the determination of cost of a product or service under marginal costing,
+costs are classified into variable and fixed. All the variable costs are part of
+product and services while fixed costs are charged against contribution margin.
+
+Cost and Profit Statement under Marginal Costing
+
+Revenue                                            (A)  Amount Amount (`)
+                                                                (`)
+
+                                                                            xxx
+
+Product Cost:
+
+- Direct Materials                                      xxx
+
+- Direct employee (labour)                              xxx
+
+- Direct expenses                                       xxx
+
+- Variable manufacturing overheads                      xxx
+
+Product (Inventoriable) Costs:                     (B)  xxx        xxx
+
+Product Contribution Margin {A ­ B}                                xxx
+
+- Variable Administration overheads                     xxx
+
+- Variable Selling & Distribution overheads             xxx        xxx
+
+Contribution Margin:                               (C)             xxx
+
+Period Cost:                                       (D)
+
+Fixed Manufacturing expenses                            xxx
+
+Fixed non-manufacturing expenses                        xxx        xxx
+
+Profit/ (loss) {C ­ D}                                             xxx
+
+(i) Product (Inventoriable) Costs: In the case of merchandise inventory,
+these are the costs which are associated with the purchase and sale of goods.
+In the production scenario, such costs are associated with the acquisition and
+conversion of materials and all other manufacturing inputs into finished
+product for sale. Hence, under marginal costing, variable manufacturing costs
+constitute inventoriable or product costs.
+
+© The Institute of Chartered Accountants of India
+          14.8  COST AND MANAGEMENT ACCOUNTING
+
+Finished goods are measured at product cost. Work-in-process (WIP) inventories
+are also measured at product cost on the basis of percentage of completion
+(Please refer Process & Operation costing chapter)
+
+(ii) Contribution: Contribution or contribution margin is the difference
+between sales revenue and total variable costs irrespective of manufacturing or
+non-manufacturing.
+
+              Contribution (C) = Sales Revenue (S) ­ Total Variable Cost (V)
+
+It is obtained by subtracting variable costs from sales revenue. It can also be
+defined as excess of sales revenue over the variable costs. The contribution
+concept is based on the theory that the profit and fixed expenses of a business
+is a `joint cost' which cannot be equitably apportioned to different segments of
+the business. In view of this difficulty the contribution serves as a measure of
+efficiency of operations of various segments of the business. The contribution
+forms a fund for fixed expenses and profit as illustrated below:
+
+Example:
+
+Variable Cost = `50,000, Fixed Cost = ` 20,000,
+
+Selling Price = ` 80,000
+
+Contribution = Selling Price ­ Variable Cost
+
+                = ` 80,000 ­ ` 50,000 = ` 30,000
+
+Profit          = Contribution ­ Fixed Cost
+
+                = ` 30,000 ­ ` 20,000 = `10,000
+
+Since, contribution exceeds fixed cost; the profit is of the magnitude of ` 10,000.
+Suppose the fixed cost is ` 40,000 then the position shall be:
+
+Contribution ­ Fixed cost = Profit or,
+
+= ` 30,000 ­ ` 40,000 = - ` 10,000
+
+The amount of ` 10,000 represent extent of loss since the fixed costs are more than
+the contribution. At the level of fixed cost of ` 30,000, there shall be no profit and
+no loss.
+
+© The Institute of Chartered Accountants of India
+MARGINAL COSTING                                   14.9
+
+(iii) Period Cost: These are the costs, which are not assigned to the products
+but are charged as expenses against the revenue of the period in which they
+are incurred. All fixed costs either manufacturing or non-manufacturing are
+recognised as period costs in marginal costing.
+
+    5. ABSORPTION COSTING
+
+Absorption Costing is the practice of charging all costs, both variable and
+fixed to operations, processes or product.
+
+In absorption costing the classification of expenses is based on functional basis
+whereas in marginal costing it is based on the nature of expenses. In absorption
+costing, the fixed expenses are distributed over products on absorption costing basis
+that is, based on a pre-determined level of output. Since fixed expenses are constant,
+such a method of recovery will lead to over or under-recovery of expenses depending
+on the actual output being greater or lesser than the estimate used for recovery. This
+difficulty will not arise in marginal costing because the contribution is used as a fund
+for meeting fixed expenses.
+
+(For understanding the difference between marginal and absorption costing
+along with the presentation of information to management under the said two
+costing techniques, students are advised to refer Para 14.14)
+
+    6. ADVANTAGES AND LIMITATIONS OF
+
+          MARGINAL COSTING
+
+ADVANTAGES
+
+1. Simplified Pricing Policy: The marginal cost remains constant per unit of
+       output whereas the fixed cost remains constant in total. Since marginal cost
+       per unit is constant from period to period within a short span of time, firm
+       decisions on pricing policy can be taken. If fixed cost is included, the unit
+       cost will change from day to day depending upon the volume of output. This
+       will make decision making task difficult.
+
+2. Proper recovery of Overheads: Overheads are recovered in costing on the
+       basis of pre-determined rates. If fixed overheads are included on the basis
+       of pre-determined rates, there will be under- recovery of overheads if
+
+© The Institute of Chartered Accountants of India
+14.10  COST AND MANAGEMENT ACCOUNTING
+
+       production is less or if overheads are more. There will be over- recovery of
+       overheads if production is more than the budget or actual expenses are less
+       than the estimate. This creates the problem of treatment of such under or
+       over-recovery of overheads. Marginal costing avoids such under or over
+       recovery of overheads.
+
+3. Shows Realistic Profit: Advocates of marginal costing argues that under the
+       marginal costing technique, the stock of finished goods and work-in-progress
+       are carried on marginal cost basis and the fixed expenses are written off to
+       profit and loss account as period cost. This shows the true profit of the period.
+
+4. How much to produce: Marginal costing helps in the preparation of break-
+       even analysis which shows the effect of increasing or decreasing production
+       activity on the profitability of the company.
+
+5. More control over expenditure: Segregation of expenses as fixed and
+       variable helps the management to exercise control over expenditure. The
+       management can compare the actual variable expenses with the budgeted
+       variable expenses and take corrective action through analysis of variances.
+
+6. Helps in Decision Making: Marginal costing helps the management in taking
+       a number of business decisions like make or buy, discontinuance of a
+       particular product, replacement of machines, etc.
+
+7. Short term profit planning: It helps in short term profit planning by B.E.P
+       charts.
+
+LIMITATIONS
+
+1. Difficulty in classifying fixed and variable elements: It is difficult to
+       classify exactly the expenses into fixed and variable category. Most of the
+       expenses are neither totally variable nor wholly fixed. For example, various
+       amenities provided to workers may have no relation either to volume of
+       production or time factor.
+
+2. Dependence on key factors: Contribution of a product itself is not a guide
+       for optimum profitability unless it is linked with the key factor.
+
+3. Scope for Low Profitability: Sales staff may mistake marginal cost for total
+       cost and sell at a price; which will result in loss or low profits. Hence, sales
+       staff should be cautioned while giving marginal cost.
+
+4. Faulty valuation: Overheads of fixed nature cannot altogether be excluded
+       particularly in large contracts, while valuing the work-in- progress. In order
+
+© The Institute of Chartered Accountants of India
+MARGINAL COSTING                                   14.11
+
+       to show the correct position, fixed overheads have to be included in work-in-
+       progress.
+
+5. Unpredictable nature of Cost: Some of the assumptions regarding the
+       behaviour of various costs are not necessarily true in a realistic situation. For
+       example, the assumption that fixed cost will remain static throughout is not
+       correct. Fixed cost may change from one period to another. For example,
+       salaries bill may go up because of annual increments or due to change in pay
+       rate etc. The variable costs do not remain constant per unit of output. There
+       may be changes in the prices of raw materials, wage rates etc. after a certain
+       level of output has been reached due to shortage of material, shortage of
+       skilled labour, concessions of bulk purchases etc.
+
+6. Marginal costing ignores time factor and investment: The marginal cost
+       of two jobs may be the same but the time taken for their completion and the
+       cost of machines used may differ. The true cost of a job which takes longer
+       time and uses costlier machine would be higher. This fact is not disclosed by
+       marginal costing.
+
+7. Understating of W-I-P: Under marginal costing stocks and work in progress
+       are understated.
+
+    7. COST-VOLUME-PROFIT (CVP) ANALYSIS
+
+Meaning: It is a managerial tool showing the relationship between various ingredients
+of profit planning viz., cost, selling price and volume of activity. As the name suggests,
+cost volume profit (CVP) analysis is the analysis of three variables, cost, volume and
+profit. Such an analysis explores the relationship between costs, revenue, activity levels
+and the resulting profit. It aims at measuring variations in cost and volume.
+
+Assumptions:
+
+1. Changes in the levels of revenues and costs arise only because of changes
+       in the number of product (or service) units produced and sold ­ for
+       example, the number of television sets produced and sold by Sony
+       Corporation or the number of packages delivered by Overnight Express. The
+       number of output units is the only revenue driver and the only cost driver.
+
+© The Institute of Chartered Accountants of India
+14.12  COST AND MANAGEMENT ACCOUNTING
+
+       Just as a cost driver is any factor that affects costs, a revenue driver is a
+       variable, such as volume, that causally affects revenues.
+
+2. Total costs can be separated into two components; a fixed component that
+       does not vary with output level and a variable component that changes with
+       respect to output level. Furthermore, variable costs include both direct
+       variable costs and indirect variable costs of a product. Similarly, fixed costs
+       include both direct fixed costs and indirect fixed costs of a product
+
+3. When represented graphically, the behaviours of total revenues and total
+       costs are linear (meaning they can be represented as a straight line) in
+       relation to output level within a relevant range (and time period).
+
+4. Selling price, variable cost per unit, and total fixed costs (within a
+       relevant range and time period) are known and constant.
+
+5. The analysis either covers a single product or assumes that the proportion
+       of different products when multiple products are sold will remain
+       constant as the level of total units sold changes.
+
+6. All revenues and costs can be added, subtracted, and compared without
+       taking into account the time value of money. (Refer to the FM study
+       material for a clear understanding of time value of money).
+
+Importance
+It provides the information about the following matters:
+
+1. The behavior of cost in relation to volume.
+
+2. Volume of production or sales, where the business will break-even.
+
+3. Sensitivity of profits due to variation in output.
+
+4. Amount of profit for a projected sales volume.
+
+5. Quantity of production and sales for a target profit level.
+Impact of various changes on profit:
+
+An understanding of CVP analysis is extremely useful to management in budgeting
+and profit planning. It elucidates the impact of the following on the net profit:
+
+(i) Changes in selling prices,
+
+(ii) Changes in volume of sales,
+
+© The Institute of Chartered Accountants of India
+                         MARGINAL COSTING                14.13
+
+(iii) Changes in variable cost,
+
+(iv) Changes in fixed cost.
+
+7.1 Marginal Cost Equation
+
+The contribution theory explains the relationship between the variable cost and
+selling price. It tells us that selling price minus variable cost of the units sold is the
+contribution towards fixed expenses and profit. If the contribution is equal to fixed
+expenses, there will be no profit or loss and if it is less than fixed expenses, loss is
+incurred. Since the variable cost varies in direct proportion to output, therefore if
+the firm does not produce any unit, the loss will be there to the extent of fixed
+expenses. These points can be described with the help of following marginal cost
+equation:
+
+Marginal Cost Equation = S -V = C = F ± P
+
+Where,
+S = Sales value, V = Variable cost , C = Contribution,
+F = Fixed Cost,
+
+Marginal Cost Statement
+
+                                                   (`)
+
+Sales                                              xxxx
+
+Less: Variable Cost                                xxxx
+
+Contribution                                       xxxx
+
+Less: Fixed Cost                                   xxxx
+
+Profit                                             xxxx
+
+7.2 Contribution to Sales Ratio (Profit Volume Ratio or P/V Ratio)
+
+This ratio shows the proportion of sales available to cover fixed costs and profit.
+Contribution represents the sales revenue after deducting variable costs. This ratio
+is usually expressed in percentage.
+
+P / V Ratio = ConStraibleustion×100 or,  P/V Ratio = Change in contribution / Profit×100
+
+                                                                 Change in sales
+
+© The Institute of Chartered Accountants of India
+          14.14        COST AND MANAGEMENT ACCOUNTING
+
+A higher contribution to sales ratio implies that the rate of growth of contribution
+is faster than that of sales. This is because, once the breakeven point is reached,
+profits shall grow at a faster rate when compared to a product with a lesser
+contribution to sales ratio.
+
+By transposition, we have derived the following equations:
+
+(i) C = S × P/V ratio
+
+(ii) S =  C
+
+          P / VRatio
+
+7.3 Break-Even Analysis
+
+Break-even analysis is a generally used method to study the CVP analysis. This
+technique can be explained in two ways:
+
+(i) In narrow sense it is concerned with computing the break-even point. At this
+       point of production level and sales there will be no profit and loss i.e. total
+       cost is equal to total sales revenue.
+
+(ii) In broad sense this technique is used to determine the possible profit/loss at
+       any given level of production or sales.
+
+    8. METHODS OF BREAK-EVEN ANALYSIS
+
+Break even analysis may be conducted by the following two methods:
+
+(A) Algebraic computations
+
+(B) Graphic presentations
+
+(A) ALGEBRAIC CALCULATIONS
+
+8.1 Break-even Point
+
+The word contribution has been given its name because of the fact that it literally
+contributes towards the recovery of fixed costs and the making of profits. The
+contribution grows along with the sales revenue till the time it just covers the fixed cost.
+This is the point where neither profits nor losses have been made is known as a break-
+even point. This implies that in order to break even the amount of contribution
+generated should be exactly equal to the fixed costs incurred. Hence, if we know how
+much contribution is generated from each unit sold, we shall have sufficient information
+
+© The Institute of Chartered Accountants of India
+                                   MARGINAL COSTING                                       14.15
+
+for computing the number of units to be sold in order to break even. Mathematically,
+
+Break-even                      point              in  units  =        Fixed costs  unit
+                                                                 Contribution per
+
+Example 3: ABC Ltd. manufacturing a single product, incurring variable costs of
+` 300 per unit and fixed costs of ` 2,00,000 per month. If the product sells for
+` 500 per unit, the breakeven point shall be calculated as follows;
+
+Break- even point in units =       Fixed costs                   =  `  2,00,000     = 1,000 units
+                                                                        `200
+                              Contribution per unit
+
+Break- even points (in  Value)  =  Total fixed cost              × Sales
+                                    Contribution
+
+Break- even point (in Value) =     Total fixed cost
+                                      P / V Ratio
+
+8.2 Cash Break-even Point
+
+When break-even point is calculated only with those fixed costs which are payable
+in cash, such a break-even point is known as cash break-even point. This means
+that depreciation and other non-cash fixed costs are excluded from the fixed costs
+in computing cash break-even point. Its formula is ­
+
+Cash                    break-  even               point  =      Cash fixed costs
+                                                              Contribution per unit
+
+ILLUSTRATION 1
+MNP Ltd sold 2,75,000 units of its product at ` 37.50 per unit. Variable costs are
+` 17.50 per unit (manufacturing costs of ` 14 and selling cost ` 3.50 per unit). Fixed
+costs are incurred uniformly throughout the year and amounting to ` 35,00,000
+(including depreciation of ` 15,00,000). There is no beginning or ending inventories.
+
+Required:
+
+COMPUTE breakeven sales level quantity and cash breakeven sales level quantity.
+
+© The Institute of Chartered Accountants of India
+       14.16                  COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION
+
+Break  even  Sales  Quantity  =             Fixed cost                      =     `  35,00,000
+                                 Contribution margin per                                `20
+                                                                    unit
+
+                           = 1,75,000 units
+
+Cash  Break-even    Sales  Quantity  =          Cash Fixed Cost                      =  `  20,00,000
+                                        Contribution margin per                               `20
+                                                                               unit
+
+                                           =1,00,000 units.
+
+8.3 Multi-Product Break-Even Analysis
+
+In a multi-product environment, where more than one product is manufactured by
+using a common fixed cost, the break-even point formula needs some adjustments.
+The contribution is calculated by taking weights for the products. The weights
+may be of sales mix quantity or sales mix values. The calculation of Multi-Product
+Break-even analysis can be understood with the help of the following example.
+
+Example 4: Arnav Ltd. sells two products, J and K. The sales mix is 4 units of J and
+3 units of K. The contribution margins per unit are ` 40 for J and ` 20 for K. Fixed
+costs are ` 6,16,000 per month.
+
+Sales mix (in quantity) is 4 units of Product- J and 3 units of Product- K
+
+i.e. Sales ratio is 4 : 3
+
+Composite contribution per unit by taking weights for the product sales quantity
+
+=Product J-  `40× 4    + Product K-     `20× 3     = `22.86 + `8.57 = `31.43
+                    7                         7
+
+Composite Break-even point =                               Common Fixed Cost            unit  =  `6,16,000
+                                                   Composite Contribution per                      `31.43
+
+                                     = 19,600 units
+
+Break-even units of Product-J        =             19, 600 ×  4  =  11,200  units
+                                                              7
+
+Break-even units of Product- K       =             19, 600 ×  3  =  8,400  units
+                                                              7
+
+© The Institute of Chartered Accountants of India
+                                      MARGINAL COSTING               14.17
+
+ILLUSTRATION 2
+
+You are given the following particulars
+i. Fixed cost ` 1,50,000
+ii. Variable cost ` 15 per unit
+iii. Selling price is ` 30 per unit
+
+CALCULATE:
+(a) Break-even point
+(b) Sales to earn a profit of ` 20,000
+
+SOLUTION
+
+(a)  Break-even point (BEP) =                 Fixed cost  unit *  =  `1,50,000  = 10,000 Units
+                                      Contribution per                   `15
+
+     * (Contribution per unit = Sales per unit ­ Variable cost per unit = ` 30 - `15)
+
+(b) Sales to earn a Profit of ` 20,000:
+       = Fixed cost+Desired profit ×Selling price per unit
+             Contribution per unit
+
+=  `1,50,  000+`20,000  ×`30  =  `    3,40,000
+             `15
+
+                                                   Or
+
+     Fixed cost+Desired profit      =  `1,70,000    =  `1,70,000  = `3,40,000
+              P / V Ratio              P / V Ratio        50%
+
+     PV    Ratio  =  Contribution  ×  100
+                         Sales
+
+ILLUSTRATION 3
+
+A company has a P/V ratio of 40%. COMPUTE by what percentage must sales be
+increased to offset: 20% reduction in selling price?
+
+© The Institute of Chartered Accountants of India
+          14.18               COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION
+
+Revised Sales  Value =  Desired Contribution       =         0.40  =  1.6
+                         Revised P / VRatio *                0.25
+
+This means sales value to be increased by 60% of the existing sales.
+
+*Revised P/V Ratio =    Revised  Contribution =              0.80 - 0.60  =  0.25
+                        Revised  Selling Price                  0.80
+
+Required  Sales  Quantity  =  Revised  P           Desired   Contribution       Price  =     0.40    =  2
+                                                   / VRatio  *×Revised Selling            0.25×0.80
+
+Therefore, Sales value to be increased by 60% and sales quantity to be doubled to
+offset the reduction in selling price.
+
+Proof:
+
+Let selling price per unit is `10 and sales quantity is 100 units.
+
+Data before change in selling price:
+
+Sales (`10 × 100 units)                                         (`)
+Contribution (40% of 1,000)                                  1,000
+Variable cost (balancing figure)
+                                                               400
+                                                               600
+
+Data after the change in selling price:
+
+Selling price is reduced by 20% that means it became `8 per unit. Since, we have
+to maintain the earlier contribution margin i.e. `400 by increasing the sales quantity
+only. Therefore, the target contribution will be `400.
+
+The new P/V Ratio will be
+
+                                                   (`)
+
+Sales                                              8.00
+
+Variable cost                                      6.00
+
+Contribution per unit                              2.00
+
+P/V Ratio                                          25%
+
+© The Institute of Chartered Accountants of India
+                            MARGINAL COSTING                                  14.19
+
+Sales Value =  Desired Contribution                =  `400  =  `1,600
+                 Revised P / VRatio                   0.25
+
+Sales quantity =        Sales value  unit =           `1,600   =  200  units
+                  Selling price per                     `8
+
+ILLUSTRATION 4
+
+PQR Ltd. has furnished the following data for the two years:
+
+Sales                                                                   2021-22      2022-23
+Profit/Volume Ratio (P/V ratio)
+Margin of Safety sales as a % of total sales                           ` 8,00,000         ?
+                                                                           50%        37.5%
+                                                                           40%       21.875%
+
+There has been substantial savings in the fixed cost in the year 2022-23 due to the
+restructuring process. The company could maintain its sales quantity level of 2021-
+22 in 2022-23 by reducing selling price.
+
+You are required to CALCULATE the following:
+
+(i) Sales for 2022-23 in Value,
+
+(ii) Fixed cost for 2022-23 in Value,
+
+(iii) Break-even sales for 2022-23 in Value.
+
+SOLUTION
+
+In 2021-22, PV ratio        = 50%
+
+Variable cost ratio         = 100% - 50% = 50%
+
+Variable cost in 2021-22 = ` 8,00,000 × 50% = ` 4,00,000
+
+In 2022-23, sales quantity has not changed. Thus, variable cost in 2022-23 is
+` 4,00,000.
+
+In 2022-23, P/V ratio                = 37.50%
+
+Thus, Variable cost ratio            = 100% - 37.5% = 62.5%
+
+(i) Thus, sales in 2022-23           = 4,00,000 = `6,40,000
+                                          62.5%
+
+In 2022-23, Break-even sales = 100% - 21.875% (Margin of safety) = 78.125%
+
+© The Institute of Chartered Accountants of India
+14.20                  COST AND MANAGEMENT ACCOUNTING
+
+(ii) Break-even sales  = 6,40,000 × 78.125% = ` 5,00,000
+
+(iii) Fixed cost       = B.E. sales × P/V ratio
+
+                       = 5,00,000 × 37.50% = `1,87,500.
+
+(B) GRAPHICAL PRESENTATION OF BREAK-EVEN CHART
+
+8.4 Break-even Chart
+
+A breakeven chart records costs and revenues on the vertical axis and the level of
+activity on the horizontal axis. The making of the breakeven chart would require
+you to select appropriate axes. Subsequently, you will need to mark costs/revenues
+on the Y axis whereas the level of activity shall be traced on the X axis. Lines
+representing (i) Fixed costs (horizontal line at ` 2,00,000 for ABC Ltd), (ii) Total costs
+at maximum level of activity (joined to the Y-axis where the Fixed cost of ` 2,00,000
+is marked) and (iii) Revenue at maximum level of activity (joined to the origin) shall
+be drawn next.
+
+The breakeven point is that point where the sales revenue line intersects the total
+cost line. Other measures like the margin of safety and profit can also be measured
+from the chart.
+
+The breakeven chart for ABC Ltd (Example-3) is drawn below.
+
+` 000
+
+8.5 Contribution Breakeven Chart
+It is not possible to use a breakeven chart as described above to measure
+contribution. This is one of its major limitations especially so because contribution
+analysis is literally the backbone of marginal costing. To overcome such a limitation,
+accountants frequently resort to the making of a contribution breakeven chart
+which is based on the same principles as a conventional breakeven chart except for
+
+© The Institute of Chartered Accountants of India
+       MARGINAL COSTING  14.21
+
+that it shows the variable cost line instead of the fixed cost line. Lines for Total cost
+and Sales revenue remain the same. The breakeven point and profit can be read off
+in the same way as with a conventional chart. However, it is also possible to read
+the contribution for any level of activity.
+
+Using the same example of ABC Ltd as for the conventional chart, the total variable
+cost for an output of 1,700 units is 1,700 × `300 = `5,10,000. This point can be
+joined to the origin since the variable cost is nil at zero activity.
+
+` 000
+
+The contribution can be read as the difference between the sales revenue line and
+the variable cost line.
+8.6 Profit-Volume Chart
+This is also very similar to a breakeven chart. In this chart the vertical axis represents
+profits and losses, and the horizontal axis is drawn at zero profit or loss.
+In this chart each level of activity is taken into account and profits marked
+accordingly. The breakeven point is where this line interacts the horizontal axis. A
+profit-volume graph for our example (ABC Ltd) will be as follows,
+
+                     ` 000
+
+                                  Loss
+
+© The Institute of Chartered Accountants of India
+14.22  COST AND MANAGEMENT ACCOUNTING
+
+The loss at a nil activity level is equal to ` 2,00,000, i.e. the amount of fixed costs.
+The second point used to draw the line could be the calculated breakeven point
+or the calculated profit for sales of 1,700 units.
+
+Advantages of the profit-volume chart
+
+1. The biggest advantage of the profit-volume chart is its capability of depicting
+       clearly the effect on profit and breakeven point of any changes in the
+       variables. The following example illustrates this characteristic,
+
+Example 5
+
+A manufacturing company incurs fixed costs of `3,00,000 per annum. It is a single
+product company with annual sales budgeted to be 70,000 units at a sales price of
+`300 per unit. Variable costs are ` 285 per unit.
+
+(i) Draw a profit volume graph, and use it to determine the breakeven point.
+
+       The company is deliberating upon an increase in the selling price of the
+       product to ` 350 per unit. This shall be required in order to improve the
+       quality of the product. It is anticipated that despite increase in the selling
+       price the sales volume shall remain unaffected, however, the fixed costs shall
+       increase to ` 4,50,000 per annum and the variable costs to ` 330 per unit.
+
+(ii) Draw on the same graph as for part (a) a second profit volume graph and give
+       your comments.
+
+Solution
+
+                   Figure showing changes with a profit-volume chart
+
+                       ` 000
+
+© The Institute of Chartered Accountants of India
+               MARGINAL COSTING                          14.23
+
+Working notes (i)
+The profit for sales of 70,000 units is ` 7,50,000.
+
+Contribution 70,000 × (`300 ­ `285)                      (`'000)
+Fixed costs
+Profit                                                     1050
+                                                             300
+                                                             750
+
+This point is joined to the loss at zero activity, ` 3,00,000 i.e., the fixed costs.
+
+Working notes (ii)                                                (`'000)
+The profit for sales of 70,000 units is ` 9,50,000.
+                                                                    1400
+     Contribution 70,000 × (`350 ­ `330)                              450
+     Fixed costs                                                      950
+     Profit
+
+This point is joined to the loss at zero activity, ` 4,50,000 i.e., the fixed costs.
+
+Comments:
+
+It is clear from the graph that there are larger profits available from option (ii). It
+also shows an increase in the break-even point from 20,000 units to 22,500 units,
+however, the increase of 2,500 units may not be considered large in view of the
+projected sales volume. It is also possible to see that for sales volumes above
+30,000 units the profit achieved will be higher with option (ii). For sales volumes
+below 30,000 units option (i) will yield higher profits (or lower losses).
+
+ILLUSTRATION 5
+You are given the following data for the current financial year of Rio Co. Ltd:
+
+Variable cost    60,000                             60%
+Fixed cost       30,000                             30%
+Net profit       10,000                             10%
+Sales          1,00,000                            100%
+
+FIND OUT (a) Break-even point, (b) P/V ratio, and (c) Margin of safety. Also DRAW
+a break-even chart showing contribution and profit.
+
+© The Institute of Chartered Accountants of India
+                                          14.24                  COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION
+
+P  /                            V  ratio  =  Sales  -  Variable  Cost  =  1,  00,000 - 60,000  =  40%
+                                                       Sales                     1,00,000
+
+Break                              Even   Point  =     Fixed Cost   =  30,000  = ` 75,000
+                                                       P / V ratio       40%
+
+Margin of safety = Actual Sales ­ BE point = 1,00,000 ­ 75,000 = ` 25,000
+
+Break even chart showing contribution is shown below:
+
+Cost and Revenue (` thousands)
+
+                                                                          Break-even chart
+
+ILLUSTRATION 6
+
+PREPARE a profit graph for products A, B and C and find break-even point from the
+following data:
+
+                                Products                                  A       B                  C    Total
+
+                                Sales (`)                              7,500   7,500              3,750  18,750
+                                Variable cost (`)                      1,500   5,250              4,500  11,250
+                                Fixed cost (`)                                                           5,000
+                                                                        ---     ---                ---
+
+© The Institute of Chartered Accountants of India
+                               MARGINAL COSTING                      14.25
+
+SOLUTION
+
+                        Statement Showing Cumulative Sales & Profit
+
+Sales        Cumulative Variable Contributio Cumulative Cumulative
+
+  A              Sales         Cost                n         Contribution    Profit
+  B
+  C              (`)    (`)    (`)                      (`)          (`)             (`)
+
+             7,500 7,500 1,500                        6,000          6,000       1,000
+
+             7,500 15,000 5,250                       2,250          8,250       3,250
+
+             3,750 18,750 4,500                       (750)          7,500       2,500
+
+Profit in `                                                  `3,250
+(+) 5,000
+                                                                     `2,500
+(+) 2,500
+
+                               `1,000
+
+0                2,500  5,000  7,500 10,000 12,500 15,000 17,500 20,000
+
+                                                   BEP               Sales in `
+
+(-) 2,500
+
+                               Profit Line
+
+(-) 5,000
+      Loss in `
+
+                        Break Even Point (BEP) = ` 12,500
+
+    9. LIMITATIONS OF BREAK-EVEN ANALYSIS
+
+The limitations of the practical applicability of breakeven analysis and
+breakeven charts stem mostly from the assumptions underlying CVP which
+have been mentioned above. Assumptions like costs behaving in a linear fashion
+or sales revenue remain constant at different sales levels or the stocks shall remain
+constant period after period are unrealistic. Similarly, the assumption that the only
+factor which influences costs is the `activity level achieved' is erroneous because
+other factors like inflation also have a bearing on costs.
+
+© The Institute of Chartered Accountants of India
+           14.26     COST AND MANAGEMENT ACCOUNTING
+
+10. MARGIN OF SAFETY
+
+The margin of safety can be defined as the difference between the expected level
+of sale and the breakeven sales. The larger the margin of safety, the higher is the
+chances of making profits. In the Example-3 if the forecast sale is 1,700 units per
+month, the margin of safety can be calculated as follows,
+
+Margin of Safety = Projected sales ­ Breakeven sales
+
+                       = 1,700 units ­ 1,000 units
+
+                       = 700 units or 41% of sales.
+
+The Margin of Safety can also be calculated by identifying the difference between
+the projected sales and breakeven sales in units multiplied by the contribution per
+unit. This is possible because, at the breakeven point all the fixed costs are
+recovered and any further contribution goes into the making of profits. It also can
+be calculated as:
+
+                     Margin                        of  Safety  =     Profit
+                                                                  P / V Ratio
+
+ILLUSTRATION 7
+A company earned a profit of ` 30,000 during the year. If the marginal cost and
+selling price of the product are ` 8 and ` 10 per unit respectively, FIND OUT the
+amount of margin of safety.
+
+SOLUTION
+
+P/V ratio         = Selling price- Variable cost per              unit =       `10 - `8  =  20%
+                                    Selling price                                `10
+
+Margin of safety  =    Profit   =  30,000              =  ` 1,50,000
+                     P/V ratio      20%
+
+ILLUSTRATION 8
+
+A Ltd. Maintains margin of safety of 37.5% with an overall contribution to sales ratio
+of 40%. Its fixed costs amount to ` 5 lakhs.
+
+© The Institute of Chartered Accountants of India
+                          MARGINAL COSTING                     14.27
+
+CALCULATE the following:
+
+i. Break-even sales
+
+ii. Total sales
+
+iii. Total variable cost
+
+iv. Current profit
+
+v. New `margin of safety' if the sales volume is increased by 7 ½ %.
+
+SOLUTION
+
+(i) We know that: Break- even Sales (BES) × P/V Ratio = Fixed Cost
+
+Break-even Sales (BES) × 40% = ` 5,00,000
+
+Break- even Sales (BES) = ` 12,50,000
+
+(ii) Total Sales (S) = Break Even Sales + Margin of Safety
+
+S                    = ` 12,50,000 + 0.375S
+
+Or, S ­ 0.375S = ` 12,50,000
+
+Or, S                = ` 20,00,000
+
+(iii) Contribution to Sales Ratio = 40%
+
+Therefore, Variable cost to Sales Ratio = 60%
+
+Variable cost = 60% of sales = 60% of 20,00,000
+
+Variable cost = 12,00,000
+
+(iv) Current Profit = Sales ­ (Variable Cost + Fixed Cost)
+
+                     = ` 20,00,000 ­ (12,00,000 + 5,00,000) = ` 3,00,000
+
+(v) If sales value is increased by 7 ½ %
+
+New Sales value           = ` 20,00,000 × 1.075 = ` 21,50,000
+
+New Margin of Safety = New Sales value ­ BES
+
+                          = ` 21,50,000 ­ ` 12,50,000 = ` 9,00,000
+
+© The Institute of Chartered Accountants of India
+      14.28                COST AND MANAGEMENT ACCOUNTING
+
+      11. VARIATIONS OF BASIC MARGINAL COST
+            EQUATION AND OTHER FORMULAE
+
+i. Sales ­ Variable cost = Fixed cost ± Profit/ Loss
+
+       By multiplying and dividing L.H.S. by S
+ii. S(S - V) = F + P
+
+            S
+
+iii.  S × P/V Ratio = F + P or Contribution         P/V  Ratio  =  S  -     V  
+                                                                      S        
+
+iv BES × P/V Ratio = F                             (at BEP profit is zero)
+
+v     BES  =  Fixed Cost
+              P / V Ratio
+
+vi    P/V  Ratio  =  Fixed Cost
+                         BES
+
+vii S × P/V Ratio = Contribution (Refer to iii)
+
+viii  P/V Ratio = Contribution
+                          Sales
+
+ix (BES + MS) × P/V Ratio = Contribution (Total sales = BES + MS)
+
+x (BES × P/V Ratio) + (MS × P/V Ratio) = F + P
+
+      By deducting (BES × P/V Ratio) from L.H.S. and F from R.H.S. in (x) above,
+      we get:
+
+xi M.S. × P/V Ratio = P
+
+xii   P/V Ratio =    Change in profit
+                     Change in sales
+
+xiii  P/V Ratio =    Change in contribution
+                         Change in sales
+
+xiv   Profitability =  Contributi on
+                        Key factor
+
+© The Institute of Chartered Accountants of India
+                              MARGINAL COSTING                                  14.29
+
+xv     Margin  of  Safety  =  Total  Sales         ­  BES  or  P  Profit     .
+                                                                  / V ratio
+
+xvi BES = Total Sales ­ MS
+       Margin of Safety Ratio = Total sales - BES
+                                                Total sales
+
+ILLUSTRATION 9
+
+By noting "P/V will increase or P/V will decrease or P/V will not change", as the case
+may be, STATE how the following independent situations will affect the P/V ratio:
+
+(i) An increase in the physical sales volume;
+
+(ii) An increase in the fixed cost;
+
+(iii) A decrease in the variable cost per unit;
+
+(iv) A decrease in the contribution margin;
+
+(v) An increase in selling price per unit;
+
+(vi) A decrease in the fixed cost;
+
+(vii) A 10% increase in both selling price and variable cost per unit;
+
+(viii) A 10% increase in the selling price per unit and 10% decrease in the physical
+       sales volume;
+
+(ix) A 50% increase in the variable cost per unit and 50% decrease in the fixed cost.
+
+(x) An increase in the angle of incidence.
+
+SOLUTION
+
+Item      P/V Ratio                                        Reason
+ no.   Will not change
+(i)                           The ratio of sales value and variable cost will
+       Will not change        remain same irrespective of change in sales
+(ii)     Will increase        volume.
+                              Fixed cost is not considered in calculation of P/V
+(iii)                         ratio.
+                              Decrease in variable cost increases contribution
+
+© The Institute of Chartered Accountants of India
+        14.30  COST AND MANAGEMENT ACCOUNTING
+
+               margin so does the P/V ratio.
+
+(iv)    Will decrease Decrease in contribution margin decreases the P/V
+
+               ratio.
+
+(v)     Will increase Increase in selling price per unit increases the
+
+               contribution margin per unit and the P/V ratio.
+
+(vi)    Will not change Fixed cost is not considered in calculation of P/V
+
+               ratio.
+
+(vii)   Will not change The increase in selling price and variable cost by
+
+               the same ratio will not change the P/V ratio. Please
+
+               refer the example note- 1 below.
+
+(viii)  Will increase The increase in selling price will increase the
+
+               contribution margin but the change in sales
+
+               volume in any direction will not affect P/V ratio.
+
+               Thus, increase in selling price with decrease in sales
+
+               volume will increase the P/V ratio.
+
+(ix)    Will decrease The increase in variable cost reduces the
+
+               contribution margin thus decreases the PV ratio.
+
+               Increase or decrease in fixed cost will not affect the
+
+               P/V ratio.
+
+(x)     Will increase Angle of incidence represents the rate of profit
+
+               earning, after reaching the break-even point.
+
+               Increase in angle of incidence means increase in
+
+               rate of profit earning which is nothing but the P/V
+
+               ratio that contributes towards the profitability after
+
+               recovering the fixed cost. (Please also refer para
+
+               14.12)
+
+A 10% increase in both selling price and variable cost per unit.
+Example note-1:
+Assumptions:
+
+a) Variable cost is less than selling price.
+
+b) Selling price `100 variable cost ` 90 per unit.
+
+© The Institute of Chartered Accountants of India
+                                                                  MARGINAL COSTING                                             14.31
+
+c) P/V ratio =                                  100 - 90   = 10%
+
+                                                   100
+
+                                10% increase in S.P. = `110
+
+                                10% increase in variable cost = `99
+
+                                                110 - 99
+                                P/V ratio = 10 = 10% i.e. P/V ratio will not change
+
+12. ANGLE OF INCIDENCE
+
+This angle is formed by the intersection of sales line and total cost line at the break-
+even point. This angle shows the rate at which profit is earned once the break-
+even point is reached. The wider the angle the greater is the rate of earning
+profits. A large angle of incidence with a high margin of safety indicates extremely
+favourable position.
+
+The shaded area in the graph given below is representing the angle of incidence.
+The angle above and below the break-even point shows the rate of earning
+profitability (loss). Wider angle denotes higher rate of earnings and vice-versa.
+
+                                280                                                                                            Sales Line
+                                260
+Cost and Sales (` '000)         240    Margin                                            Angle of                P rofiTt oAtraeal Cost Line
+                                220         of                                           incidence
+    Cost and Sales (Rs. ` 000)  200                                                                                                        Variable cost
+                                180    Safety              Break even point
+                                160
+                                140       Loss Area
+                                120
+                                100                                                                 Margin                     Fixed cost
+                                                                                                         of
+                                  80
+                                  60                                                                Safety
+                                  40
+                                  20
+
+                                    0
+
+                                       2        4       6  8  10  12     14                         16       18  20        22  24  26                     28
+
+                                                              B.E.sales                                      Actual sales
+
+                                                                  Volume of sales (Unit `000)
+
+© The Institute of Chartered Accountants of India
+14.32  COST AND MANAGEMENT ACCOUNTING
+
+    13. APPLICATION OF CVP ANALYSIS IN
+          DECISION MAKING
+
+As discussed earlier CVP analysis is used as an evaluation tool for managerial decisions.
+In this chapter we will discuss the use of CVP Analysis for short term decision making.
+Before going into illustration, let us discuss the decision making framework.
+13.1 Framework for Decision Making
+
+        Step 1: Identification of Problem
+
+Step 2: Indentification of Options
+
+Step 3: Evaluation of the Options
+
+Step 4: Selection of the Option
+
+Step-1: Identification of Problem
+
+Every organisation has its own objectives, and goals are set to achieve these
+objectives. To reach at the goal, actions are to be taken. For example, if an
+organisation wants to be a cost leader in the industry it operates in, it has to achieve
+3Es in its all activities. 3Es means economy in inputs, efficiency in process and
+operations and effectiveness in output. An entity that exists for profit may identify
+few areas (problem areas) which if worked on can add to the profit or wealth
+maximisation. For example, Arnav Ltd. a manufacturer of Steel products, has
+identified that it can be leader in the industry if it can produce steel products at
+lower cost than its rival. Here the goal should be (problem area) low-cost
+production.
+
+Step- 2: Identification of Options
+
+After identification of problem(s), the next step is identification of options to
+achieve the goal (to answer the problem). All possible options need to be explored.
+In the above example, the Arnav Ltd. may have the following options for low-cost
+production:
+
+(a) Purchase of inputs from specialised market- Local vs Import
+
+© The Institute of Chartered Accountants of India
+MARGINAL COSTING                                   14.33
+
+(b) Make the input in its own factory- Make or Buy
+
+(c) Bulk purchase to avail discount offer- How much to purchase
+
+(d) Make in-house- Make vs Outsource
+
+(e) Bulk processing- How much to produce
+
+(f) Using efficient machine for manufacturing- Old machine vs New machine
+
+(g) Optimisation of key resources- Product mix decisions etc.
+
+Step- 3: Evaluation of the Options
+
+After identification of options, each option is to be evaluated against the objective
+criteria. An entity with objective of making profit may evaluate options on the basis
+of financial measures like impact of profit or loss, market share, overall impact on
+profitability, return on investment etc. Non-financial factors like customer
+satisfaction, impact on existing market/ customer, ethics of decision are also
+evaluated.
+
+This step is a very important and may be grouped into two tasks
+
+(i) Identification of Cost and Benefits of each option
+
+(ii) Estimation of amount of each option
+
+Step-4: Selection of option:
+
+After evaluation of the options, the best option is selected and implemented.
+13.2 Principles for Identification of Cost and Benefits for Measurement
+
+The cost and benefit of an option is identified for measurement if it passes the
+principles of Controllability and Relevance.
+
+(i) Controllability: Those cost and benefits which arise due to choice of an
+option. In other words, benefits received, and cost incurred are directly related with
+the choice of the option. Thus, the costs and benefits which are controllable are
+considered for measurement for making decision.
+
+(ii) Relevance: The costs which are controllable need to be relevant for decision
+making. This means all controllable costs are not relevant for decision making
+unless it differs under the two options. Thus, a cost is treated is relevant only if
+(a) it is a future cost and (b) it differs under two options under consideration.
+
+© The Institute of Chartered Accountants of India
+14.34             COST AND MANAGEMENT ACCOUNTING
+
+For Example, Arnav Ltd. wants to manufacture 1,000 additional units of Product X.
+It is considering either to manufacture in its own factory or to outsource to job
+workers. In this example cost of raw materials to manufacture additional 1,000 units
+is controllable as it arises due to management's decision to make additional units.
+But it is not relevant for making choice between manufacturing in-house and
+outsource to job workers, as under the both options, the raw materials cost would
+be same.
+
+Hence, for decision making purpose only those cost and benefits are identified for
+measurement which are both Controllable and Relevant.
+
+Below is an analysis of few costs for its relevance:
+
+Cost              Relevance                        Reason
+(i) Historical    Irrelevant
+                                                   The cost has already been incurred and do
+     Cost         Irrelevant                       not affect the decision. Example: Book value
+                                                   of machinery etc.
+(ii) Sunk Cost
+                                                   The cost which are already paid either for
+(iii) Committed   Irrelevant                       goods or services availed or to be availed.
+     Cost                                          Example: Raw material purchased and held
+                                                   in store without having replacement cost,
+(iv) Opportunity  Relevant                         Cost of drawing, blueprint etc.
+     Cost
+                                                   The committed costs are the pre-agreed
+(v) Notional or Relevant                           cost which cannot be revoked under the
+     Imputed Cost                                  normal circumstances. This is also a sunk
+                                                   cost. Examples: Cost of materials as per rate
+                                                   agreement, Salary cost to employees etc.
+
+                                                   The opportunity cost is represented by the
+                                                   forgone potential benefit from the best
+                                                   rejected course of action. Had the option
+                                                   under consideration not chosen, the benefit
+                                                   would come to the organisation.
+
+                                                   Notional costs are relevant for the decision
+                                                   making only if company is actually forgoing
+                                                   benefits by employing its resources to
+                                                   alternative course of action. For example,
+                                                   notional interest on internally generated
+
+© The Institute of Chartered Accountants of India
+                MARGINAL COSTING                     14.35
+
+(vi) Shut-down  Relevant                           fund is treated as relevant notional cost only
+     Cost                                          if company could earn interest from it.
+
+                                                   When an organization suspends its
+                                                   manufacturing operations, certain fixed
+                                                   expenses can be avoided and certain extra
+                                                   fixed expenses may be incurred depending
+                                                   upon the nature of the industry. By closing
+                                                   down the manufacturing, the organization
+                                                   will save variable cost of production as well
+                                                   as some discretionary fixed costs. This
+                                                   particular discretionary cost is known as
+                                                   shut-down cost.
+
+13.3 Principles of Estimation of Costs and Benefits
+
+After identification of the costs and benefits, it is now required to be quantified i.e.,
+the cost and benefit should be measured and estimated. The estimation is done by
+following the two principles as discusses below:
+
+(i) Variability: Variability means by how much a cost or benefit increased or
+decreased due to the choice of the option. Variable costs are the cost which differs
+under the different volume or activities. On the other hand, fixed costs remain same
+irrespective of volume and activities.
+
+(ii) Traceability: Traceability of cost means degree of relationship between the
+cost and the choice of the option. Direct costs are directly assigned to the option
+on the other hand indirect costs needs to be apportioned to the option on some
+reasonable basis.
+
+For Example, Arnav Ltd. wants to manufacture 1,000 units of Product X. It is
+considering to manufacture the same in its own factory. To manufacture in its own
+factory, it requires 1,000 hours of employees and a specialised machine. In this
+example, employee cost for labour of 1,000 hours is variable cost for in-house
+manufacturing and it is directly traceable. Cost of machinery is also direct cost but
+so far as traceability of the machinery cost is concerned it is direct cost for 1,000
+units as a whole but indirect cost for a unit.
+
+Hence, the cost and benefits of an option is measured at directly traceable and
+variable costs.
+
+© The Institute of Chartered Accountants of India
+14.36  COST AND MANAGEMENT ACCOUNTING
+
+13.4 Short-term Decision-Making using concepts of CVP Analysis
+
+Management uses marginal costing and CVP concepts for making various
+decisions. In this chapter we will learn how the concepts of marginal costing and
+CVP is applied for analysis of identified options for short-term decision making.
+Generally, short-term decisions are related with temporary gaps between demand
+and supply for available resources. The areas of short term decision may be
+classified into two broad categories:
+
+(i) Decisions related with excess supply, such as:
+
+       (a) Processing of Special Order
+
+       (b) Determination of price for stimulating demand
+
+       (c) Local vs Export sale
+
+       (d) Determination of minimum price for price quotations
+
+       (e) Shut-down or continue decision etc.
+
+(ii) Decisions related with excess demand, such as:
+
+       (a) Make or Buy/ In-house-processing vs Outsourcing
+
+       (b) Product mix decision under resource constraints (limiting factors)
+
+       (c) Sales mix decisions
+
+       (d) Sale or further processing etc.
+
+What is a Limiting Factor? Limiting factor is anything which limits the activity of
+an entity. The factor is a key to determine the level of sale and production, thus it
+is also known as Key factor. From the supply side the limiting factor may either be
+Men (employees), Materials (raw material or supplies), Machine (capacity), or
+Money (availability of fund or budget) and from demand side it may be demand
+for the product, other factors like nature of product, regulatory and environmental
+requirement etc. The management, while making decisions, has objective to
+optimise the key resources upto maximum possible extent.
+ILLUSTRATION 10
+A company can make any one of the 3 products X, Y or Z in a year. It can exercise its
+option only at the beginning of each year.
+
+Relevant information about the products for the next year is given below.
+
+© The Institute of Chartered Accountants of India
+                            MARGINAL COSTING                     14.37
+
+Selling Price (` / unit)                              X         Y          Z
+Variable Costs (` / unit)
+Market Demand (unit)                                 10        12         12
+Production Capacity (unit)                           6         9          7
+Fixed Costs (`)                                    3,000     2,000      1,000
+                                                   2,000     3,000       900
+                                                              30,000
+
+Required
+
+COMPUTE the opportunity costs for each of the products.
+
+SOLUTION
+
+                                                          X         Y      Z
+
+I. Contribution per unit (`)                                4      3      5
+II. Units (Lower of Production / Market Demand)           2,000  2,000   900
+III. Possible Contribution (`) [ I × II ]                 8,000  6,000  4,500
+IV. Opportunity Cost* (`)                                 6,000  8,000  8,000
+
+(*) Opportunity cost is the maximum possible contribution forgone by not producing
+alternative product i.e. if Product X is produced then opportunity cost will be maximum of
+(` 6,000 from Y, ` 4,500 from Z).
+
+ILLUSTRATION 11
+M.K. Ltd. manufactures and sells a single product X whose selling price is ` 40 per
+unit and the variable cost is ` 16 per unit.
+
+(i) If the Fixed Costs for this year are ` 4,80,000 and the annual sales are at 60%
+       margin of safety, CALCULATE the rate of net return on sales, assuming an
+       income tax level of 40%
+
+(ii) For the next year, it is proposed to add another product line Y whose selling
+       price would be ` 50 per unit and the variable cost ` 10 per unit. The total fixed
+       costs are estimated at ` 6,66,600. The sales mix values of X : Y would be 7 : 3.
+       DETERMINE at what level of sales next year, would M.K. Ltd. break even? Give
+       separately for both X and Y the break-even sales in rupee and quantities.
+
+© The Institute of Chartered Accountants of India
+14.38                      COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION                                           = Selling price ­ Variable cost
+(i) Contribution per unit                          = `40 ­ `16 = `24
+
+Break-even Point                                   =      `4,80,000  = 20,000 units
+Percentage Margin of Safety                                   `24
+
+                                                   =      Actual Sales ­ Break - even Sales
+                                                                       Actual Sales
+
+Or, 60%                                            =      Actual Sales ­ 20,000units
+                                                                   Actual Sales
+
+ Actual Sales                                      = 50,000 units
+
+Sales Value (50,000 units × `40)                                                         (`)
+                                                                                20,00,000
+Less: Variable Cost (50,000 units × `16)
+                                                                                 8,00,000
+Contribution                                                                    12,00,000
+
+Less: Fixed Cost                                                                 4,80,000
+                                                                                 7,20,000
+Profit                                                                           2,88,000
+                                                                                 4,32,000
+Less: Income Tax @ 40%
+
+Net Return
+
+Rate of Net Return on Sales =                      21.6%    `4,32,000   ×100  
+                                                            `20,00,000        
+
+(ii) Products
+
+                                                                     X                Y
+
+                                                            (`)                       (`)
+
+Selling Price                                                        40               50
+Less: Variable Cost
+Contribution per unit                                                16               10
+Sales Ratio
+Contribution in sales Ratio                                          24               40
+
+                                                                     7                3
+
+                                                            168                       120
+
+© The Institute of Chartered Accountants of India
+                           MARGINAL COSTING                                            14.39
+
+Based on Weighted Contribution
+Weighted Contribution = 24 ×7 + 40×3 = ` 28.8 per unit
+
+                                          10
+
+Total Break-even Point  =      Total Fixed Cost                          = 6,2686.,86000= 23,145.80 units
+                           Weighted Contribution
+
+Break-even Point
+
+X           = 7 ×23,145.80 =16,202 units
+               10
+
+or 16,202 × ` 40 = ` 6,48,080
+
+Y           = 3 ×23,145.80 = 6,944 units or 6,944 × ` 50 =` 3, 47,200
+               10
+
+Based on distributing fixed cost in the weighted Contribution Ratio
+
+Fixed Cost
+
+X           = 168 ×6,66,600 = ` 3,88,850
+               288
+
+Y           = 120 ×6,66,600 = ` 2,77,750
+               288
+
+Break-even Point
+
+X           =       Fixed Cost                     = 3,88,850 =16,202 units or ` 6, 48,000
+
+               Contribution per unit                        24
+
+Y           =        Fixed Cost                    unit  =  2,77,750  =  6,944  units  or  `  3,  47,  200
+               Contribution per
+                                                               40
+
+ILLUSTRATION 12
+
+X Ltd. supplies spare parts to an air craft company Y Ltd. The production capacity of
+X Ltd. facilitates production of any one spare part for a particular period of time. The
+following are the cost and other information for the production of the two different
+spare parts A and B:
+
+© The Institute of Chartered Accountants of India
+          14.40          COST AND MANAGEMENT ACCOUNTING
+
+Per unit                                                                 Part A               Part B
+Alloy usage
+Machine Time: Machine P                                                 1.6 kgs.            1.6 kgs.
+Machine Time: Machine Q                                                  0.6 hrs           0.25 hrs.
+Target Price (`)                                                        0.5 hrs.           0.55 hrs.
+Total hours available
+                                                                             145                 115
+                                                   Machine P 4,000 hours
+                                                   Machine Q 4,500 hours
+
+          Alloy available is 13,000 kgs. @ ` 12.50 per kg.
+
+          Variable overheads per machine hours     Machine P: ` 80
+
+                                                   Machine Q: ` 100
+
+Required
+
+(i) IDENTIFY the spare part which will optimize contribution at the offered price.
+
+(ii) If Y Ltd. reduces target price by 10% and offers ` 60 per hour of unutilized
+       machine hour, CALCULATE the total contribution from the spare part identified
+       above?
+
+SOLUTION
+
+(i)
+
+Machine "P" (4,000 hrs)                                     Part A                          Part B
+Machine "Q" (4,500 hrs)
+Alloy Available (13,000 kg.)                                6,666                          16,000
+Maximum Number of Parts to be manufactured                  9,000                           8,181
+(Minimum of the above three)                                8,125                           8,125
+                                                            6,666                           8,125
+
+Material (`12.5 × 1.6 kg.)                                                            (`)      (`)
+Variable Overhead: Machine "P"
+Variable Overhead: Machine "Q"                                                    20.00    20.00
+                                                                                  48.00    20.00
+                                                                                  50.00    55.00
+
+© The Institute of Chartered Accountants of India
+                        MARGINAL COSTING                                                14.41
+
+         Total Variable Cost per unit                          118.00 95.00
+         Price Offered                                         145.00 115.00
+         Contribution per unit
+         Total Contribution for units produced                   27.00 20.00
+       Spare Part A will optimize the contribution.  (I) 1,79,982 1,62,500
+(ii)
+
+Parts to be manufactured numbers                                                               Part A
+
+                                                                                               6,666
+
+Machine P : to be used                                                                         4,000
+Machine Q : to be used                                                                         3,333
+
+Underutilized Machine Hours (4,500 hrs. ­ 3,333 hrs.)                                           1,167
+                                                                                               70,020
+Compensation for unutilized machine hours (1,167hrs. × `60) (II)                               96,657
+
+Reduction in Price by 10%, Causing fall in Contribution of `14.50
+
+per unit (6,666 units × `14.5)                                                          (III)
+
+Total Contribution                                     (I + II ­ III) 1,53,345
+
+ILLUSTRATION 13
+The profit for the year of R.J. Ltd. works out to 12.5% of the capital employed and the
+relevant figures are as under:
+
+        Sales........................................................................ ` 5,00,000
+
+Direct Materials......................................................... ` 2,50,000
+
+Direct Labour.............................................................. ` 1,00,000
+
+Variable Overheads................................................... ` 40,000
+Capital Employed...................................................... ` 4,00,000
+
+The new Sales Manager who has joined the company recently estimates for next year
+a profit of about 23% on capital employed, provided the volume of sales is increased
+by 10% and simultaneously there is an increase in Selling Price of 4% and an overall
+cost reduction in all the elements of cost by 2%.
+
+© The Institute of Chartered Accountants of India
+          14.42         COST AND MANAGEMENT ACCOUNTING
+
+Required
+
+FIND OUT by computing in detail the cost and profit for next year, whether the
+proposal of Sales Manager can be adopted.
+
+SOLUTION
+                Statement Showing "Cost and Profit for the Next Year"
+
+Particulars                         Existing                 Volume, Costs,      Estimated Sale,
+                                 Volume, etc.                etc. after 10%     Cost, Profit, etc.*
+
+                                                                 Increase
+
+                                                   (`)                     (`)                   (`)
+
+Sales                                              5,00,000      5,50,000                      5,72,000
+
+Less: Direct Materials                             2,50,000      2,75,000                      2,69,500
+
+        Direct Labour                              1,00,000      1,10,000                      1,07,800
+
+        Variable Overheads                         40,000        44,000                          43,120
+
+Contribution                                       1,10,000      1,21,000                      1,51,580
+Less: Fixed Cost#                                    60,000        60,000                        58,800
+
+Profit                                             50,000        61,000                          92,780
+
+(*) for the next year after increase in selling price @ 4% and overall cost reduction by 2%.
+(#) Fixed Cost = Existing Sales ­ Existing Marginal Cost ­ 12.5% on `4,00,000
+
+                    = `5,00,000 ­ `3,90,000 ­ `50,000 = `60,000
+
+Percentage  Profit  on  Capital  Employed          equals    to  23.19%     `92,780    x  100  
+                                                                           ` 4,00,000          
+
+Since the Profit of `92,780 is more than 23% of capital employed, the proposal of
+the Sales Manager can be adopted.
+
+© The Institute of Chartered Accountants of India
+                           MARGINAL COSTING                              14.43
+
+    14. DISTINCTION BETWEEN MARGINAL AND
+          ABSORPTION COSTING
+
+The distinctions in these two techniques are illustrated by the following diagrams:
+
+Direct materials                                    Charged to             Charged as
+Direct labour                                      cost of goods         expenses when
+Variable factory overhead                                                goods are sold
+Fixed factory overhead                               produced
+
+All selling and adm.                                                     Charged as expenses
+       overhead                                                              when incurred
+
+                      Absorption Costing Approach
+
+Direct materials                                    Charged to             Charged as
+Direct labour                                      cost of goods         expenses when
+Variable factory overhead                                                goods are sold
+                                                     produced
+
+Fixed factory overhead                                                   Charged as expenses
+                                                                             when incurred
+and all selling and adm.
+
+overhead                  Marginal Costing Approach
+
+14.1 Main Points of distinction between Marginal Costing and
+       Absorption Costing
+
+Marginal costing                                   Absorption costing
+
+1. Only variable costs are Both fixed and variable costs are
+
+considered for product costing considered for product costing and
+
+and inventory valuation.                           inventory valuation.
+
+2. Fixed costs are regarded as Fixed costs are charged to the cost of
+     period costs. The Profitability production. Each product bears a
+                                                   reasonable share of fixed cost and thus the
+
+© The Institute of Chartered Accountants of India
+14.44                COST AND MANAGEMENT ACCOUNTING
+
+of different products is judged profitability of a product is influenced by the
+
+by their P/V ratio.                                apportionment of fixed costs.
+
+3. Cost data presented highlight Cost data are presented in conventional
+
+the total contribution of each pattern. Net profit of each product is
+
+product.                                           determined after subtracting fixed cost
+
+                                                   along with their variable costs.
+
+4. The difference in the magnitude The difference in the magnitude of
+
+of opening stock and closing opening stock and closing stock affects
+
+stock does not affect the unit the unit cost of production due to the
+
+cost of production.                                impact of related fixed cost.
+
+5. In case of marginal costing the In case of absorption costing the cost per
+     cost per unit remains the same, unit reduces, as the production increases
+     irrespective of the production as it is fixed cost which reduces, whereas,
+     as it is valued at variable cost the variable cost remains the same per
+                                                   unit.
+
+14.2 Difference in Profit under Marginal and Absorption costing
+
+The above two approaches will compute the different profit because of the difference
+in the stock valuation. This difference is explained as follows in different circumstances.
+
+1. No opening and closing stock: In this case, profit / loss under absorption
+       and marginal costing will be equal.
+
+2. When opening stock is equal to closing stock: In this case, profit / loss
+       under two approaches will be equal provided the fixed cost element in both
+       the stocks is same amount.
+
+3. When closing stock is more than opening stock: In other words, when
+       production during a period is more than sales, then profit as per absorption
+       approach will be more than that by marginal approach. The reason behind
+       this difference is that a part of fixed overhead included in closing stock value
+       is carried forward to next accounting period.
+
+4. When opening stock is more than the closing stock: In other words, when
+       production is less than the sales, profit shown by marginal costing will be
+       more than that shown by absorption costing. This is because a part of fixed
+       cost from the preceding period is added to the current year's cost of goods
+       sold in the form of opening stock.
+
+© The Institute of Chartered Accountants of India
+MARGINAL COSTING                                          14.45
+
+The presentation of information to management under the two costing techniques
+is as under:
+
+Income Statement (Absorption costing)
+
+Sales                                                                (`)
+Production Costs:                                                XXXXX
+
+         Direct material consumed                                XXXXX
+         Direct labour cost                                      XXXXX
+         Variable manufacturing overhead                         XXXXX
+         Fixed manufacturing overhead                            XXXXX
+         Cost of Production                                      XXXXX
+Add: Opening stock of finished goods                             XXXXX
+         (Value at cost of previous period's production)
+                                                                 XXXXX
+Less: Closing stock of finished goods                     XXXXX  XXXXX
+         (Value at production cost of current period)     XXXXX
+         Cost of Goods Sold                                              .
+                                                                 XXXXX
+Add: (or less) Under (or over) absorption of fixed
+         Manufacturing overhead                                  XXXXX
+
+Add: Administration costs                                        XXXXX
+         Selling and distribution costs                          XXXXX
+         Total Cost                                              XXXXX
+         Profit (Sales ­ Total cost)
+
+Income Statement (Marginal costing)
+
+Sales                                                                (`)
+Variable manufacturing costs:                                    XXXXX
+
+         ­ Direct material consumed                              XXXXX
+         ­ Direct labour                                         XXXXX
+         ­ Variable manufacturing overhead                       XXXXX
+
+© The Institute of Chartered Accountants of India
+14.46  COST AND MANAGEMENT ACCOUNTING
+
+         Cost of Goods Produced                                   XXXXX
+Add: Opening stock of finished goods                              XXXXX
+
+         (Value at cost of previous period)                       XXXXX
+Less: Closing stock of finished goods (Value at current variable  XXXXX
+                                                                  XXXXX
+         cost)
+         Cost of Goods Sold                                       XXXXX
+Add: Variable administration, selling and dist. overhead          XXXXX
+         Total Variable Cost                                      XXXXX
+Add: Selling and distribution costs
+         Contribution (Sales ­ Total variable costs)
+Less: Fixed costs (Production, admin., selling and dist.)
+         Net Profit
+
+It is evident from the above that under marginal costing technique the
+contributions of various products are pooled together and the fixed overheads are
+met out of such total contribution. The total contribution is also known as gross
+margin. The contribution minus fixed expenses yields net profit. In absorption
+costing technique cost includes fixed overheads as well.
+
+ILLUSTRATION 14
+
+Wonder Ltd. manufactures a single product, ZEST. The following figures relate to ZEST
+for a one-year period:
+
+Activity Level                                     50%               100%
+Sales and production (units)                             400              800
+                                                          (`)              (`)
+Sales
+Production costs:                                  8,00,000       16,00,000
+
+    - Variable                                     3,20,000        6,40,000
+    - Fixed                                        1,60,000        1,60,000
+Selling and distribution costs:
+    - Variable                                     1,60,000        3,20,000
+    - Fixed                                        2,40,000        2,40,000
+
+© The Institute of Chartered Accountants of India
+                     MARGINAL COSTING                          14.47
+
+The normal level of activity for the year is 800 units. Fixed costs are incurred evenly
+throughout the year, and actual fixed costs are the same as budgeted. There were no
+stocks of ZEST at the beginning of the year.
+
+In the first quarter, 220 units were produced and 160 units were sold.
+
+Required:
+
+(a) COMPUTE the fixed production costs absorbed by ZEST if absorption costing is
+       used?
+
+(b) CALCULATE the under/over-recovery of overheads during the period?
+
+(c) CALCULATE the profit using absorption costing?
+
+(d) CALCULATE the profit using marginal costing?
+
+SOLUTION
+
+(a) Fixed production costs absorbed:                                    (`)
+
+Budgeted fixed production costs                                1,60,000
+
+Budgeted output (normal level of activity 800 units)
+
+Therefore, the absorption rate: 1,60,000/800 = ` 200 per unit
+
+During the first quarter, the fixed production
+
+cost absorbed by ZEST would be (220 units × ` 200)             44,000
+
+(b) Under /over-recovery of overheads during the period:                (`)
+
+Actual fixed production overhead                               40,000
+
+(1/4 of ` 1,60,000)
+
+Absorbed fixed production overhead                             44,000
+
+       Over-recovery of overheads                                       4,000
+(c) Profit for the Quarter (Absorption Costing)
+
+                                                          (`)           (`)
+
+Sales revenue (160 units × ` 2,000): (A)                                3,20,000
+Less: Production costs:
+                                                      1,76,000
+    - Variable cost (220 units × ` 800)
+
+© The Institute of Chartered Accountants of India
+14.48                    COST AND MANAGEMENT ACCOUNTING
+
+- Fixed overheads absorbed (220 units × ` 200)                   44,000    2,20,000
+                                                                                   --
+Add: Opening stock
+                                                                           (60,000)
+Less:  Closing  Stock    `2,20,000                 ×60  units  
+                         220units                              
+                                                               
+
+Cost of Goods sold                                                         1,60,000
+Less: Adjustment for over-absorption of fixed                                (4,000)
+production overheads
+Add: Selling & Distribution Overheads:                           64,000    1,24,000
+                                                                 60,000    2,80,000
+    - Variable (160 units × `400)
+    - Fixed (1/4th of ` 2,40,000)                                            40,000
+Cost of Sales (B)
+Profit {(A) ­ (B)}
+
+(d) Profit for the Quarter (Marginal Costing)
+
+                                                                 (`)       (`)
+
+Sales revenue (160 units × ` 2,000): (A)                                   3,20,000
+
+Less: Production costs:
+
+- Variable cost (220 units × ` 800)                                        1,76,000
+                                                                                   --
+Add: Opening stock
+                                                                           (48,000)
+Less:  Closing  Stock    `1, 76, 000               ×60  units  
+                         220units                              
+                                                               
+
+Variable cost of goods sold                                                1,28,000
+Add: Selling & Distribution Overheads:
+                                                                              64,000
+    - Variable (160 units × `400)                                          1,92,000
+Cost of Sales (B)                                                          1,28,000
+Contribution {(C) = (A) ­ (B)}
+Less: Fixed Costs:                                               (40,000)  (1,00,000)
+                                                                 (60,000)      28,000
+    - Production cost
+    - Selling & distribution cost
+Profit
+
+© The Institute of Chartered Accountants of India
+MARGINAL COSTING                                   14.49
+
+SUMMARY
+
+ Marginal Cost: Marginal cost as understood in economics is the incremental
+       cost of production which arises due to one-unit increase in the production
+       quantity. Marginal cost is measured by the total variable cost attributable to
+       one unit.
+
+ Marginal Costing: It is a costing system where products or services and
+       inventories are valued at variable costs only. It does not take consideration of
+       fixed costs.
+
+ Absorption Costing: A method of costing by which all direct cost and
+       applicable overheads are charged to products or cost centers for finding out
+       the total cost of production. Absorbed cost includes production cost as well as
+       administrative and other cost.
+
+ Contribution: Contribution or contribution margin is the difference between
+       sales revenue and total variable costs irrespective of manufacturing or non-
+       manufacturing.
+
+ Cost-Volume-Profit (CVP) Analysis: It is an analysis of reciprocal effect of
+       changes in cost, volume and profitability. Such an analysis explores the
+       relationship between costs, revenue, activity levels and the resulting profit. It
+       aims at measuring variations in cost and volume.
+
+ Contribution to Sales Ratio (Profit Volume Ratio or P/V ratio): This ratio
+       shows the proportion of sales available to cover fixed costs and profit.
+       Contribution represents the sales revenue after deducting variable costs.
+
+ Break-even Point (BEP): The level of sales where an entity neither earns profit
+       nor incurs loss. BEP is indicated in both quantity and monetary value terms.
+
+ Margin of Safety (MOS): The margin between sales and the break-even sales
+       is known as margin of safety. It can either be indicated in quantitative or
+       monetary terms.
+
+ Angle of Incidence: This angle is formed by the intersection of sales line and
+       total cost line at the break-even point. This angle shows the rate at which
+       profits is earned once the break-even point is reached.
+
+ Limiting (Key) factor: Limiting factor is anything which limits the activity of
+       an entity. The factor is a key to determine the level of sale and production, thus
+       it is also known as Key factor.
+
+© The Institute of Chartered Accountants of India
+14.50  COST AND MANAGEMENT ACCOUNTING
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1. Under marginal costing the cost of product includes:
+       (a) Prime costs only.
+       (b) Prime costs and variable overheads.
+       (c) Prime costs and fixed overheads.
+       (d) Prime costs and factory overheads.
+
+2. Reporting under marginal costing is accomplished by:
+       (a) Treating all costs as period costs.
+       (b) Eliminating the work-in-progress inventory account.
+       (c) Matching variable costs against revenue and treating fixed costs as period
+               costs.
+       (d) Including only variable costs in income statement.
+
+3. Period costs are:
+       (a) Variable costs.
+       (b) Fixed costs.
+       (c) Prime costs.
+       (d) Overheads costs.
+
+4. When sales and production (in units) are same then profit under:
+       (a) Marginal costing is higher than that of absorption costing.
+       (b) Marginal costing is lower than that of absorption costing.
+       (c) Marginal costing is equal to that of absorption costing.
+       (d) None of the above.
+
+5. When sales exceed production (in units) then profit under:
+       (a) Marginal costing is higher than that of absorption costing.
+       (b) Marginal costing is lower than that of absorption costing.
+
+© The Institute of Chartered Accountants of India
+MARGINAL COSTING                                   14.51
+
+       (c) Marginal costing is equal than that of absorption costing.
+       (d) None of above.
+6. The main difference between marginal costing and absorption costing is
+       regarding the treatment of:
+       (a) Prime cost.
+       (b) Fixed overheads.
+       (c) Direct materials.
+       (d) Variable overheads.
+7. Under profit volume ratio, the term profit:
+       (a) Means the sales proceeds in excess of total costs.
+       (b) Means the same thing as is generally understood.
+       (c) Is a misnomer, it in fact refers to contribution i.e. (sales revenue-variable
+
+               costs).
+       (d) None of the above.
+8. Factors which can change the break-even point:
+       (a) Change in fixed costs.
+       (b) Change in variable costs.
+       (c) Change in the selling price.
+       (d) All of the above.
+9. If P/V ratio is 40% of sales then what about the remaining 60% of sales:
+       (a) Profit.
+       (b) Fixed cost.
+       (c) Variable cost.
+       (d) Margin of safety.
+
+© The Institute of Chartered Accountants of India
+14.52                    COST AND MANAGEMENT ACCOUNTING
+
+10. The P/V ratio of a product is 0.6 and profit is ` 9,000. The margin of safety is:
+       (a) ` 5,400
+       (b) ` 15,000
+       (c) ` 22,500
+       (d) ` 3,600
+
+Theoretical Questions
+
+1. EXPLAIN and ILLUSTRATE break-even point with the help of break-even chart.
+2. WRITE a short note on Angle of Incidence.
+3. DISCUSS basic assumptions of Cost Volume Profit analysis.
+4. DISCUSS the practical application of Marginal Costing.
+5. DISCUSS the points of difference between Absorption Costing and Marginal
+
+       Costing.
+6. WRITE a short note on Margin of Safety.
+
+Practical Problems
+
+1. If P/V ratio is 60% and the Marginal cost of the product is ` 20. CALCULATE
+       the selling price?
+
+2. The ratio of variable cost to sales is 70%. The break-even point occurs at 60%
+       of the capacity sales. Find the capacity sales when fixed costs are ` 90,000.
+       Also COMPUTE profit at 75% of the capacity sales.
+
+3. You are required to-
+
+(i) DETERMINE profit, when sales                   =         (`)
+                                                      2,00,000
+Fixed Cost                                         =
+                                                        40,000
+BEP                                                =  1,60,000
+
+(ii) DETERMINE sales, when fixed cost =                 20,000
+                                                        10,000
+Profit                                             =    40,000
+
+BEP                                                =
+
+© The Institute of Chartered Accountants of India
+                  MARGINAL COSTING                                            14.53
+
+4. A company has made a profit of ` 50,000 during the year. If the selling price
+       and marginal cost of the product are ` 15 and ` 12 per unit respectively, FIND
+       OUT the amount of margin of safety.
+
+5. (a) If margin of safety is ` 2,40,000 (40% of sales) and P/V ratio is 30% of AB
+               Ltd, CALCULATE its (1) Break even sales, and (2) Amount of profit on sales
+              of ` 9,00,000.
+
+       (b) X Ltd. has earned a contribution of ` 2,00,000 and net profit of `1,50,000
+              of sales of ` 8,00,000. What is its margin of safety?
+
+6. A company sells its product at ` 15 per unit. In a period, if it produces and sells
+       8,000 units, it incurs a loss of ` 5 per unit. If the volume is raised to 20,000
+       units, it earns a profit of ` 4 per unit. CALCULATE break-even point both in
+       terms of Value as well as in units.
+
+7. You are given the following data:
+
+Year 2021-22                                              Sales       Profit
+Year 2022-23
+                                                   ` 1,20,000         8,000
+                                                   ` 1,40,000        13,000
+
+FIND OUT ­
+
+(i) P/V ratio,
+
+(ii) B.E. Point,
+
+(iii) Profit when sales are ` 1,80,000,
+
+(iv) Sales required earn a profit of ` 12,000,
+
+(v) Margin of safety in year 2022-23.
+
+8. The product mix of a Gama Ltd. is as under:
+
+                                                           Products
+
+                                                   M                 N
+
+Units                                              54,000        18,000
+Selling price
+Variable cost                                      ` 7.50        ` 15.00
+
+                                                   ` 6.00        ` 4.50
+
+© The Institute of Chartered Accountants of India
+14.54             COST AND MANAGEMENT ACCOUNTING
+
+FIND the break-even points in units, if the company discontinues product `M' and
+replace with product `O'. The quantity of product `O' is 9,000 units and its selling
+price and variable costs respectively are ` 18 and ` 9. Fixed Cost is ` 15,000.
+
+9. Mr. X has ` 2,00,000 investments in his business firm. He wants a 15 per cent
+       return on his money. From an analysis of recent cost figures, he finds that his
+       variable cost of operating is 60 per cent of sales, his fixed costs are ` 80,000 per
+       year. Show COMPUTATIONS to answer the following questions:
+
+(i) What sales volume must be obtained to break even?
+
+(ii) What sales volume must be obtained to get 15 per cent return on
+       investment?
+
+(iii) Mr. X estimates that even if he closed the doors of his business, he would
+       incur ` 25,000 as expenses per year. At what sales would he be better off
+       by locking his business up?
+
+10. A company had incurred fixed expenses of ` 4,50,000, with sales of
+       ` 15,00,000 and earned a profit of ` 3,00,000 during the first half year. In the
+       second half, it suffered a loss of ` 1,50,000.
+
+CALCULATE:
+
+(i) The profit-volume ratio, break-even point and margin of safety for the
+       first half year.
+
+(ii) Expected sales volume for the second half year assuming that selling price
+       and fixed expenses remained unchanged during the second half year.
+
+(iii) The break-even point and margin of safety for the whole year.
+
+11. The following information is given by Star Ltd.:
+
+Margin of Safety                                   ` 1,87,500
+
+Total Cost                                         ` 1,93,750
+
+Margin of Safety                                   3,750 units
+
+Break-even Sales                                   1,250 units
+
+Required:
+
+CALCULATE Profit, P/V Ratio, BEP Sales (in `) and Fixed Cost.
+
+© The Institute of Chartered Accountants of India
+                      MARGINAL COSTING                                   14.55
+
+12. A single product company sells its product at ` 60 per unit. In 2021-22, the
+       company operated at a margin of safety of 40%. The fixed costs amounted to
+       ` 3,60,000 and the variable cost ratio to sales was 80%.
+
+       In 2022-23, it is estimated that the variable cost will go up by 10% and the
+       fixed cost will increase by 5%.
+
+       (i) FIND the selling price required to be fixed in 2022-23 to earn the same
+               P/V ratio as in 2021-22.
+
+       (ii) Assuming the same selling price of ` 60 per unit in 2022-23, FIND the
+               number of units required to be produced and sold to earn the same profit
+               as in 2021-22.
+
+13. (a) You are given the following data for the coming year for a factory.
+
+       Budgeted output                                           8,00,000 units
+       Fixed expenses                                               ` 40,00,000
+       Variable expenses per unit                                          ` 100
+       Selling price per unit                                              ` 200
+
+       DRAW a break-even chart showing the break-even point.
+
+(b) If price is reduced to ` 180, what will be the new break-even point?
+
+14. A company has three factories situated in north, east and south with its Head
+       Office in Mumbai. The management has received the following summary report
+       on the operations of each factory for a period:
+
+                                                                                  (` in `000)
+
+                      Sales                                              Profit
+
+       Actual                                      Over/(Under)  Actual           Over/(Under)
+                                                       Budget                         Budget
+
+North  1,100                                       (400)         135              (180)
+East   1,450                                       150
+South                                                            210              90
+
+       1,200                                       (200)         330              (110)
+
+CALCULATE for each factory and for the company as a whole for the period:
+
+(i) the fixed costs.  (ii) break-even sales.
+
+© The Institute of Chartered Accountants of India
+14.56                  COST AND MANAGEMENT ACCOUNTING
+
+15. An automobile manufacturing company produces different models of Cars. The
+       budget in respect of model 007 for the month of March is as under:
+
+Budgeted Output                                                              40,000 Units
+                                                                                 ` In lakhs
+Net Realisation                                                  ` In lakhs        2,10,000
+Variable Costs:
+Materials                                                            79,200        1,32,000
+Labour                                                               15,600
+Direct expenses                                                      37,200           60,750
+Specific Fixed Costs                                                 27,000        1,92,750
+Allocated Fixed Costs                                                33,750
+                                                                                      17,250
+                         Total Costs                                               2,10,000
+                         Profit
+                         Sales
+
+CALCULATE:
+
+       (i) Profit with 10 percent increase in selling price with a 10 percent reduction
+               in sales volume.
+
+       (ii) Volume to be achieved to maintain the original profit after a 10 percent
+               rise in material costs, at the originally budgeted selling price per unit.
+
+16. An Indian soft drink company is planning to establish a subsidiary company in
+       Bhutan to produce mineral water. Based on the estimated annual sales of
+       40,000 bottles of the mineral water, cost studies produced the following
+       estimates for the Bhutanese subsidiary:
+
+                                                   Total annual  Percent of Total Annual
+                                                        costs     Cost which is variable
+
+Material                                           2,10,000                  100%
+Labour
+Factory Overheads                                  1,50,000                  80%
+Administration Expenses
+                                                   92,000                    60%
+
+                                                   40,000                    35%
+
+© The Institute of Chartered Accountants of India
+                          MARGINAL COSTING                                14.57
+
+The Bhutanese production will be sold by manufacturer's representatives who
+will receive a commission of 8% of the sale price. No portion of the Indian
+office expenses is to be allocated to the Bhutanese subsidiary. You are required
+to
+
+(i) COMPUTE the sale price per bottle to enable the management to realize
+       an estimated 10% profit on sale proceeds in Bhutan.
+
+(ii) CALCULATE the break-even point in rupees sales as also in number of
+       bottles for the Bhutanese subsidiary on the assumption that the sale price
+       is ` 14 per bottle.
+
+17. XYZ Ltd. has a production capacity of 2,00,000 units per year. Normal capacity
+       utilisation is reckoned as 90%. Standard variable production costs are ` 11 per
+       unit. The fixed costs are `3,60,000 per year. Variable selling costs are ` 3 per
+       unit and fixed selling costs are `2,70,000 per year. The unit selling price is ` 20.
+
+       In the year just ended on 31st March, the production was 1,60,000 units and
+       sales were 1,50,000 units. The closing inventory on 31st March was 20,000 units.
+       The actual variable production costs for the year were ` 35,000 higher than the
+       standard.
+
+(i) CALCULATE the profit for the year
+
+(a) by absorption costing method and
+
+(b) by marginal costing method.
+
+(ii) EXPLAIN the difference in the profits.
+
+18. The following are cost data for three alternative ways of processing the clerical
+       work for cases brought before the LC Court System:
+
+                                                         A           B          C
+                                                   Manual (`)
+                                                                  Semi-      Fully-
+                                                               Automatic  Automatic
+
+                                                                    (`)        (`)
+
+Monthly fixed costs:                               15,000      15,000              15,000
+    Occupancy                                           ---     5,000              10,000
+    Maintenance contract                                ---                      1,00,000
+    Equipment lease                                            25,000
+
+© The Institute of Chartered Accountants of India
+14.58              COST AND MANAGEMENT ACCOUNTING
+
+Unit variable costs (per report):                              40             80                 20
+    Supplies                                               `200             `60               `20
+    Labour                                         (5 hrs × `40)   (1 hr × `60)   (0.25 hr × `80)
+
+       Required:
+
+       (i) CALCULATE cost indifference points. Interpret your results.
+
+       (ii) If the present case load is 600 cases and it is expected to go up to 850
+               cases in near future, SELECT most appropriate on cost considerations?
+
+19. XY Ltd. makes two products X and Y, whose respective fixed costs are F1 and
+       F2. You are given that the unit contribution of Y is one fifth less than the unit
+       contribution of X, that the total of F 1 and F2 is ` 1,50,000, that the BEP of X is
+       1,800 units (for BEP of X, F2 is not considered) and that 3,000 units is the
+       indifference point between X and Y.(i.e. X and Y make equal profits at 3,000
+       unit volume, considering their respective fixed costs). There is no inventory
+       buildup as whatever is produced is sold.
+
+       Required
+       FIND OUT the values F1 and F2 and units contributions of X and Y.
+20. Prisha Limited manufactures three different products and the following
+       information has been collected from the books of accounts:
+
+Sales Mix            A                             Products                           C
+Selling Price      40%                                   B                          25%
+Variable Cost      ` 300                                                           ` 200
+Total Fixed Costs  ` 150                               35%                         ` 120
+Total Sales                                           ` 400                       ` 18,00,000
+                                                      ` 200                       ` 60,00,000
+
+The company has currently under discussion, a proposal to discontinue the
+manufacture of Product C and replace it with Product E, when the following
+results are anticipated:
+
+© The Institute of Chartered Accountants of India
+                   MARGINAL COSTING                                 14.59
+
+Sales Mix                                            A    Products      E
+Selling Price                                      45%       B        25%
+Variable Cost                                      ` 300             ` 300
+Total Fixed Costs                                  ` 150   30%       ` 150
+Total Sales                                               `400      ` 18,00,000
+                                                          `200      ` 64,00,000
+
+       Required:
+       (i) CALCULATE the total contribution to sales ratio and present break-even
+
+               sales at existing sales mix.
+       (ii) CALCULATE the total contribution to sales ratio and present break-even
+
+               sales at proposed sales mix.
+       (iii) STATE whether the proposed sales mix is accepted or not?
+
+Case Scenarios
+
+1. A meeting of the heads of departments of the Arnav Ltd. has been called to
+       review the operating performance of the company in the last financial year.
+       The head of the production department appraised that during the last year the
+       company could operate at 70% capacity level but in the coming financial year
+       95% capacity level can be achieved if an additional amount of `100 Crore on
+       capex and working capital is incurred.
+
+       The head of the finance department has presented that during the last financial
+       year the company had a P/V ratio of 40%, margin of safety and the break-even
+       were `50 crore and `200 crore respectively.
+
+       To the reply to the proposal of increasing the production capacity level to 95%,
+       the head of the finance department has informed that this could be achieved if
+       the selling price and variable cost are reduced by 8% and 5% of sales
+       respectively. Fixed cost will also increase by `20 crore due to increased
+       depreciation on additional assets. The additional capital will be arranged at a
+       cost of 15% p.a. from a bank.
+
+© The Institute of Chartered Accountants of India
+14.60  COST AND MANAGEMENT ACCOUNTING
+
+In the coming financial year, it has been aimed to achieve an additional profit
+of `10 crore over and above the last year's profit after adjusting the interest
+cost on the additional capital.
+The following points is required to be calculated on urgent basis to put the
+same in the meeting. You being an assistant to the head of finance, has been
+asked the followings:
+i. What will be the revised sales for the coming financial year?
+
+       (a) ` 322.22 Crore
+       (b) ` 311.11 Crore
+       (c) ` 300.00 Crore
+       (d) ` 324.24 Crore
+ii. What will be the revised break-even point for the coming financial year?
+       (a) ` 222.22 Crore
+       (b) ` 252.22 Crore
+       (c) ` 244.44 Crore
+       (d) ` 255.56 Crore
+iii. What will be the revised margin of safety for the coming financial year?
+       (a) ` 100 Crore
+       (b) ` 58.89 Crore
+       (c) ` 55.56 Crore
+       (d) ` 66.66 Crore
+iv. The profit of the last year and for the coming year are:
+       (a) ` 50 Crore & `95 Crore respectively
+       (b) ` 20 Crore & ` 65 Crore respectively
+       (c) ` 20 Crore & ` 30 Crore respectively
+       (d) ` 45 Crore & ` 66.66 Crore respectively
+
+© The Institute of Chartered Accountants of India
+MARGINAL COSTING                                   14.61
+
+v. The total cost of the last year and for the coming year are:
+       (a) ` 230 Crore & `292.22
+       (b) ` 230 Crore & `275 Crore
+       (c) ` 220 Crore & `282.22 Crore
+       (d) ` 220 Crore & `292.22 Crore
+
+ANSWERS/ SOLUTIONS
+
+Answers to the MCQs
+
+ 1. (b) 2. (c) 3. (b) 4. (c) 5. (a) 6. (b)
+
+ 7. (c) 8. (d) 9. (c) 10. (b)
+
+Answers to the Theoretical Questions
+1. Please refer paragraph 8
+2. Please refer paragraph 12
+3. Please refer paragraph 7
+4. Please refer paragraph 3
+5. Please refer paragraph 5
+6. Please refer paragraph 10
+
+Answers to the Practical Problems
+
+1. Variable Cost = 100 ­ P/V Ratio
+                               = 100 ­ 60 = 40
+
+       If Variable cost is 40, then selling price = 100
+       If Variable cost is 20, then selling price = (100/40) × 20 = ` 50
+2. Variable cost to sales = 70%, Contribution to sales = 30%,
+       Or P/V Ratio 30%
+
+© The Institute of Chartered Accountants of India
+    14.62              COST AND MANAGEMENT ACCOUNTING
+
+We know that: BES × P/V Ratio = Fixed Cost
+
+                  BES × 0.30                       = ` 90,000
+
+Or                BES                              = ` 3,00,000
+
+It is given that break-even occurs at 60% capacity.
+
+Capacity sales = ` 3,00,000 ÷ 0.60 = ` 5,00,000
+
+Computation of profit of 75% Capacity
+
+75% of capacity sales (i.e. ` 5,00,000 × 0.75) = ` 3,75,000
+
+Less: Variable cost (i.e. ` 3,75,000 × 0.70) = ` 2,62,500
+
+                                                               = ` 1,12,500
+
+Less: Fixed Cost                                               = ` 90,000
+
+Profit                                                         = ` 22,500
+
+3. (i) We know that: B.E. Sales × P/V Ratio = Fixed Cost
+
+        or ` 1,60,000 × P/V ratio = ` 40,000
+
+        P/V ratio = 25%
+
+        We also know that Sales × P/V Ratio = Fixed Cost + Profit
+
+        or ` 2,00,000 × 0.25 = ` 40,000 + Profit
+
+        or Profit = ` 10,000
+
+(ii) Again B.E. Sales × P/V ratio = Fixed Cost
+
+        or ` 40,000 × P/V Ratio = ` 20,000
+
+        or P/V ratio = 50%
+
+        We also know that: Sales × P/V ratio = Fixed Cost + Profit
+
+        or Sales × 0.50 = ` 20,000 + ` 10,000
+
+        or Sales = ` 60,000.
+
+4. P/V Ratio             =    Contribution         × 100
+                                  Sales
+
+                         = [(15 ­ 12)/15] × 100
+
+© The Institute of Chartered Accountants of India
+                           MARGINAL COSTING                                      14.63
+
+                           = (3/15) x 100 = 20%
+
+       Marginal of Safety  = Profit ÷ P/V Ratio
+5. (a) Total Sales         = 50,000 ÷ 20% = ` 2,50,000
+                           = 2,40,000 × 100 = ` 6,00,000
+
+                                             40
+
+Contribution = 6,00,000 × 30% = ` 1,80,000
+
+Profit                     = M/S × P/V ratio = 2,40,000 × 30% = ` 72,000
+
+Fixed cost                 = Contribution ­ Profit
+
+                           = 1,80,000 ­ 72,000 = ` 1,08,000
+
+(1) Break-even Sales = Fixed Cost = 1,08,000 = ` 3,60,000
+                                                   P / V ratio      30%
+
+(2) Profit                                         = (Sales × P/V ratio) ­ Fixed cost
+                                                   = (9,00,000 × 30%) ­ 1,08,000 = ` 1,62,000
+
+(b) P/V ratio              =                       Contribution  =  2,00,000 =   25%
+                                                       Sales        8,00,000
+
+Margin of safety           =                         Profit   =  1,50,000  =  `  6,00,000
+                                                   P/V ratio       25%
+
+Alternatively:
+
+Fixed cost                 = Contribution ­ Profit
+
+                           = ` 2,00,000 ­ `1,50,000 = ` 50,000
+
+B.E. Point                 = ` 50,000 ÷ 25% = ` 2,00,000
+
+Margin of Safety = Actual sales ­ B.E. sales
+
+                           = 8,00,000 ­ 2,00,000 = 6,00,000
+
+6. We know that S ­ V = F + P
+
+ Suppose variable cost = x, Fixed Cost = y
+
+© The Institute of Chartered Accountants of India
+         14.64            COST AND MANAGEMENT ACCOUNTING
+
+    In first situation:
+
+         15 × 8,000 - 8,000 x = y ­ 40,000                                     (1)
+
+    In second situation:
+
+         15 × 20,000 - 20,000 x = y + 80,000                                   (2)
+
+    or, 1,20,000 ­ 8,000 x = y ­ 40,000                                        (3)
+
+         3,00,000 ­ 20,000 x = y + 80,000                                      (4)
+
+    From (3) & (4) we get x = ` 5, Variable cost per unit = ` 5
+
+    Putting this value in 3rd equation:
+
+         1,20,000 ­ (8,000 × 5) = y ­ 40,000
+
+    or, y = ` 1,20,000
+
+         Fixed Cost = ` 1,20,000
+
+         P/V ratio =     S-V  = 15 - 5 ×100 = 200 = 66 2 %.
+                           S  15                   3       3
+
+         Suppose break-even sales = x
+
+         15x ­ 5x = 1,20,000 (at BEP, contribution will be equal to fixed cost)
+
+         x = 12,000 units.
+
+         or, Break-even sales in units = 12,000, Break-even sales in Value
+
+                                                   = 12,000 × 15 = `1,80,000.
+
+7.
+
+    Year 2021-22                    Sales                  Profit
+    Year 2022-23              ` 1,20,000                    8,000
+    Difference                ` 1,40,000                   13,000
+                              ` 20,000                      5,000
+
+    (i)  P/V Ratio =     Difference in profit      ×100 =  5,000   ×  100 = 25%
+                         Difference in Sales               20,000
+
+© The Institute of Chartered Accountants of India
+                            MARGINAL COSTING                                     14.65
+
+                                                                       (`)
+
+Contribution in 2021-22 (1,20,000 × 25%) 30,000
+
+Less: Profit                                                              8,000
+
+Fixed Cost*                                                            22,000
+
+*Contribution                                         = Fixed cost + Profit
+
+       Fixed cost                                     = Contribution - Profit
+(ii) Break-even point
+                                                      =  Fixed cost    =  22,000  = ` 88,000
+                                                         P/V ratio         25%
+
+(iii) Profit when sales are `1,80,000                    (`)
+
+Contribution (`1,80,000 × 25%)                           45,000
+
+Less: Fixed cost                                         22,000
+
+Profit                                                   23,000
+
+(iv) Sales to earn a profit of `12,000
+
+Fixed cost + Desired profit                        =  22,000 + 12,000  = `1,36,000
+           P/V ratio                                         25%
+
+(v) Margin of safety in 2022-23 ­
+
+Margin of safety            = Actual sales ­ Break-even sales
+
+8. N                        = 1,40,000 ­ 88,000 = ` 52,000.
+       O                        = 18,000 units
+       Ratio (N : O)            = 9,000 units
+       Let                      = 2:1
+       t
+       2t                       = No. of units of `O' for BEP
+       Contribution of `N'      = No. of units of `N' for BEP
+       Contribution of `O'      = ` 10.5 per unit
+                                = ` 9 per unit
+
+© The Institute of Chartered Accountants of India
+       14.66              COST AND MANAGEMENT ACCOUNTING
+
+    At Break Even Point:
+
+    10.5 x (2t) + 9 x t -15,000 = 0
+
+    30t                                            = 15,000
+
+    t                                              = 500 units
+
+    BEP of `N'                                     = 2t
+
+                                                   = 1,000 units
+
+    BEP of `O'                                     = t = 500 units
+
+9.
+
+    Particulars                                                               (`)
+
+    Suppose sales                                                             100
+
+    Variable cost                                                             60
+
+    Contribution                                                              40
+
+    P/V ratio                                                                 40%
+
+    Fixed cost                                                                = ` 80,000
+
+    (i) Break-even point = Fixed Cost ÷ P/V ratio =80,000 ÷ 40% or ` 2,00,000
+
+    (ii) 15% return on ` 2,00,000                                             30,000
+
+       Fixed Cost                                                             80,000
+
+       Contribution required                                                  1,10,000
+
+       Sales volume required = ` 1,10,000 ÷ 40% or ` 2,75,000
+
+    (iii) Avoidable fixed cost if business is locked up = ` 80,000 - ` 25,000
+          = ` 55,000
+
+       Minimum sales required to meet this cost: ` 55,000 ÷ 40%
+                                                               or ` 1,37,500
+
+    Mr. X will be better off by locking his business up, if the sale is less than
+    ` 1,37,500
+
+© The Institute of Chartered Accountants of India
+                                  MARGINAL COSTING                                      14.67
+
+10. (i)  In the First half year:
+
+         Contribution              = Fixed cost + Profit
+
+                                   = 4,50,000 + 3,00,000 = ` 7,50,000
+
+         P/V ratio                 =                  Contribution    ×100  =   7,50,000 ×    100 = 50%
+                                                          Sales                 15,00,000
+
+         Break-even point          =                  Fixed cost  =   4,50,000  ×  100  =  ` 9,00,000
+                                                      P/V ratio         50%
+
+         Margin of safety          = Actual sales ­ Break-even point
+
+                                       = 15,00,000 ­ 9,00,000 = ` 6,00,000
+(ii) In the second half year:
+
+         Contribution              = Fixed cost ­ Loss
+
+                                   = 4,50,000 ­ 1,50,000 = ` 3,00,000
+
+         Expected sales  volume =                     Fixed cost - Loss  =  3,00,000    =  `  6,00,000
+                                                          P / V ratio         50%
+
+(iii) For the whole year:
+
+         B.E. point =  Fixed cost                  =  4,50,000  ×  2  =  `18,00,000
+                       P/V ratio                          50%
+
+         Margin of safety =     Profit                =     3,00,000 - 1,50,000      = ` 3,00,000.
+                              P/V ratio                              50%
+
+11. Margin of Safety (%) =                                 3,750units
+                                                   3,750units+1,250units
+
+                           = 75%
+
+Total Sales                =                       `1,87,500 =` 2,50,000
+Profit                                                0.75
+
+                           = Total Sales ­ Total Cost
+
+                           = ` 2,50,000 ­ ` 1,93,750 = ` 56,250
+
+© The Institute of Chartered Accountants of India
+14.68             COST AND MANAGEMENT ACCOUNTING
+
+P/V Ratio         =                                        Profit   (` )  ×100
+                                                   Marginof Safety
+
+                  =                                 `56,250   ×100  =  30%
+                                                   `1,87,500
+
+Break-even Sales  = Total Sales × [100 ­ Margin of Safety %]
+
+                  = ` 2,50,000 × 0.25 = ` 62,500
+
+Fixed Cost        = Sales × P/V Ratio ­ Profit
+
+                  = ` 2,50,000 × 0.30 ­ ` 56,250 = ` 18,750
+
+12. (i) Profit earned in 2021-22:
+
+Particulars                                                                            (`)
+Total contribution (50,000 × ` 12)                                              6,00,000
+Less: Fixed cost                                                                3,60,000
+Profit                                                                          2,40,000
+Selling price to be fixed in 2022-23:
+Revised variable cost (` 48 × 1.10)                                                 52.80
+Revised fixed cost (3,60,000 × 1.05)                                            3,78,000
+P/V Ratio (Same as of 2021-22)
+Variable cost ratio to selling price                                                 20%
+                                                                                     80%
+
+       Therefore, revised selling price per unit = ` 52.80 ÷ 80% = ` 66
+
+(ii) No. of units to be produced and sold in 2022-23 to earn the same
+       profit:
+
+We know that Fixed Cost plus profit =                                           Contribution
+                                                                                              (`)
+Profit in 2021-22
+Fixed cost in 2022-23                                                                2,40,000
+Desired contribution in 2022-23                                                      3,78,000
+                                                                                     6,18,000
+
+© The Institute of Chartered Accountants of India
+                    MARGINAL COSTING                                        14.69
+
+Contribution per unit = Selling price per unit ­ Variable cost per unit.
+                               = ` 60 ­ ` 52.80 = ` 7.20.
+
+No. of units to be produced in 2022-23 = ` 6,18,000 ÷ ` 7.20 = 85,834
+units.
+Workings:
+1. PV Ratio in 2021-22
+
+                                                                       (`)
+
+      Selling price per unit                                           60
+
+      Variable cost (80% of Selling Price)                             48
+
+      Contribution                                                     12
+
+      P/V Ratio                                                        20%
+
+               2. No. of units sold in 2021-22
+                       Break-even point = Fixed cost ÷ Contribution per unit
+                                                = ` 3,60,000 ÷ ` 12 = 30,000 units.
+                       Margin of safety is 40%. Therefore, break-even sales will be 60%
+                       of units sold.
+                       No. of units sold = Break-even point in units ÷ 60%
+                       = 30,000 ÷ 60% = 50,000 units.
+
+13. (a) Contribution = S ­ V = ` 200 ­ ` 100 = ` 100 per unit.
+
+B.E.  Point  =         Fixed cost                  unit  =  40,00,000  = 40,000  units
+                Contribution per                               `100
+
+(b) When selling price is reduced
+       New selling price = ` 180
+       New Contribution = ` 180 ­ ` 100 = ` 80 per unit.
+
+New   B.E.   Point = `40,00,000                    = 50, 000  units.
+                           ` 80
+
+© The Institute of Chartered Accountants of India
+                                                        14.70                 COST AND MANAGEMENT ACCOUNTING
+
+     The break-even chart is shown below:
+
+     Cost andCRosetvaendnuReev(e`nu'e0(0R0s.'0000)000)  200                                         Sales      line  sales  line
+                                                        160                                                    New
+                                                        120                                                          Total cost   line
+                                                        80
+                                                        40                B.E.P.
+
+                                                                                                New break-even point
+                                                                                                                                 Fixed cost line
+
+                                                        0                 20          40 50 60      80               100
+
+                                                                                                Output ('000 units)
+
+14.                                                                       Calculation of P/V Ratio                                      (`` 000)
+                                                                                                                                         Profit
+     North : Actual                                                                                            Sales
+               Add : Under budgeted                                                                            1,100                        135
+               Budgeted                                                                                                                     180
+                                                                                                                 400                        315
+                                                                                                               1,500
+
+     P/V ratio =                                                  Diferenece      in  Profit =    315 - 135    =     ×100 =       180             ×  100 = 45%
+                                                                  Difference      in  Sales     1,500 - 1,100                     400
+
+                                                                                                                                        (` `000)
+
+     East : Actual                                                                                             Sales                              Profit
+                                                                                                               1,450                                 210
+
+                                                        Less : Over budgeted                                         (150)                           (90)
+
+                                                        Budgeted                                               1,300                                 120
+
+     P/V                                                ratio  =  90   ×  100  =  60%
+                                                                  150
+
+© The Institute of Chartered Accountants of India
+                    MARGINAL COSTING                             14.71
+
+South : Actual                                            Sales  (`' 000)
+           Add: Under budgeted                            1,200  Profit
+           Budgeted
+                                                            200     330
+                                                          1,400     110
+                                                                    440
+
+P/V ratio = 110 × 100 = 55%
+                200
+
+(i) Calculation of fixed cost
+
+Fixed Cost = (Actual sales × P/V ratio) ­ Profit
+
+North       = (1,100 × 45%) ­ 135 = 360
+
+East        = (1,450 × 60%) ­ 210 = 660
+
+South       = (1,200 × 55%) ­ 330 = 330
+
+Total Fixed Cost                                   1,350
+
+(ii) Calculation of break-even sales (in `' 000)
+
+B.E. Sales  =  Fixed Cost
+               P/V ratio
+
+North       =  360  =                               800
+East           45%                                 1,100
+South
+            =  660  =                                600
+               60%
+
+            =  330  =
+               55%
+
+Total                                              2,500
+
+15. (i) Budgeted selling price = 2,10,000 lakhs/ 40,000 units = `5,25,000 per unit.
+
+Budgeted variable cost = 1,32,000 lakhs/ 40,000 units = ` 3,30,000 per unit.
+
+Increased selling price = `5,25,000 + 10% = ` 5,77,500 per unit
+
+New volume 40,000 ­ 10% = 36,000 units
+
+© The Institute of Chartered Accountants of India
+         14.72           COST AND MANAGEMENT ACCOUNTING
+
+         Statement of Calculation of Profit:
+
+         Sales 36,000 units at ` 5,77,500 =             (` In lakhs)
+         Less: Variable cost: 36,000 × `3,30,000 =          2,07,900
+         Contribution                                       1,18,800
+         Less: fixed costs                                     89,100
+         Profit                                                60,750
+                                                               28,350
+
+(ii) Budgeted Material Cost = 79,200 Lakhs/ 40,000 Units = `1,98,000 per Unit
+
+         Increased material cost = `1,98,000×110% =     2,17,800
+         Labour cost 15,600 lakhs/ 40,000 units =         39,000
+         Direct expenses, 37,200 lakhs/ 40,000 units =    93,000
+         Variable cost per unit
+         Budgeted selling price per unit                3,49,800
+         Contribution per unit (5,25,000 ­ 3,49,800)    5,25,000
+                                                        1,75,200
+
+         Sales volume = Fixed costs+Profit = 60,750 lakhs +17,250 lakhs
+                         Contribution Per Unit          ` 1.752 lakhs
+
+                         = 44,521 units are to be sold to maintain the original
+                            profit of ` 17,250 lakhs.
+
+16. (i)  Computation of Sale Price Per Bottle
+
+                                                        Output: 40,000 Bottles
+
+         Particulars                                                   (`)
+
+         Variable Cost:
+
+         Material                                                      2,10,000
+
+         Labour (`1,50,000 × 80%)                                      1,20,000
+
+         Factory Overheads (`92,000 × 60%)                             55,200
+
+         Administrative Overheads (`40,000 × 35%)                      14,000
+
+© The Institute of Chartered Accountants of India
+                            MARGINAL COSTING                                      14.73
+
+Commission (8% on `6,00,000) (W.N.-1)                                                       48,000
+
+Fixed Cost:                                                                                 30,000
+                                                                                            36,800
+Labour (`1,50,000 × 20%)                                                                    26,000
+                                                                                          5,40,000
+Factory Overheads (`92,000 × 40%)                                                           60,000
+                                                                                          6,00,000
+Administrative Overheads (`40,000 × 65%)
+                                                                                                  15
+Total Cost
+
+Profit (W.N.-1)
+
+Sales Proceeds (W.N.-1)
+
+Sales  Price  per  bottle    `6,00,000 
+                                                             
+                              40,000               Bottles   
+
+(ii) Calculation of Break-even Point
+
+Sales Price per Bottle                             = `14
+
+Variable Cost per Bottle                           =         `4,44,000 (W.N.- 2)   = `11.10
+                                                                40,000 Bottles
+
+Contribution per Bottle =                                    `14 - `11.10          = `2.90
+
+Break -even Point:
+
+(in number of Bottles)                             =                  Fixed Costs
+                                                             Contribution per Bottle
+
+                                                   =         `92, 800  =  32, 000 Bottles
+                                                              `2.90
+
+(in Sales Value)                                          =  32,000 Bottles × `14
+                                                          =
+                                                             `4,48,000
+                                                    8x
+Working Note                                       100
+W.N.-1
+Let the Sales Price be `x'
+
+Commission         =
+
+© The Institute of Chartered Accountants of India
+14.74        COST AND MANAGEMENT ACCOUNTING
+
+Profit       =                                     10x
+                                                   100
+
+        x    =             4,92,000                     +   8x  +  10x
+                                                           100     100
+
+        100x - 8x - 10x =  4,92,00,000
+
+        82x  =             4,92,00,000
+
+        x    =             4,92,00,000 / 82 = `6,00,000
+
+W.N.-2
+
+Total Variable Cost                                                                         (`)
+
+Material                                                                            2,10,000
+Labour                                                                              1,20,000
+Factory Overheads
+Administrative Overheads                                                              55,200
+Commission [(40,000 Bottles × `14) × 8%]                                              14,000
+                                                                                      44,800
+                                                                                    4,44,000
+
+17. Income Statement (Absorption Costing) for the year ending
+       31st March
+
+                                                                        (`)         (`)
+
+Sales (1,50,000 units @ `20)                                                        30,00,000
+Production Costs:
+Variable (1,60,000 units @ `11)                                         17,60,000   17,95,000
+Add: Increase                                                               35,000   3,20,000
+Fixed (1,60,000 units @ `2*)
+                                                                                    21,15,000
+                 Cost of Goods Produced                                              1,30,000
+Add: Opening stock (10,000 units @ `13)*
+                                                                                    22,45,000
+
+© The Institute of Chartered Accountants of India
+                            MARGINAL COSTING                                14.75
+
+Less:  Closing  stock     ` 21,15,000              ×  20,000  units              2,64,375
+                         1,60,000 units                              
+                                                                     
+
+                    Cost of Goods Sold                                           19,80,625
+
+Add: Under absorbed fixed                             production       overhead    40,000
+       (3,60,000 ­ 3,20,000)
+
+                                                                                 20,20,625
+
+Add: Non-production costs:                                                        4,50,000
+       Variable selling costs (1,50,000 units @ `3)                               2,70,000
+       Fixed selling costs                                                       27,40,625
+       Total cost                                                                 2,59,375
+       Profit (Sales ­ Total Cost)
+
+* Working Notes:
+
+1. Fixed production overhead is absorbed at a pre-determined rate based
+       on normal capacity, i.e. `3,60,000 ÷ 1,80,000 units = ` 2.
+
+2. Opening stock is 10,000 units, i.e., 1,50,000 units + 20,000 units ­
+       1,60,000 units. It is valued at `13 per unit, i.e., `11 + `2 (Variable +
+       fixed).
+
+       Income Statement (Marginal Costing) for the year ended
+                                        31st March
+
+                                                                       (`)         (`)
+
+       Sales (1,50,000 units @ `20)                                              30,00,000
+
+       Variable production cost (1,60,000 units @                                17,95,000
+       `11 + `35,000)
+
+       Variable selling cost (1,50,000 units @ `3)                                 4,50,000
+
+                                                                                 22,45,000
+
+       Add: Opening Stock (10,000 units @ `11)                                     1,10,000
+
+                                                                                 23,55,000
+
+       Less: Closing stock
+
+                  `17,95,000    × 20, 000          units                           2,24,375
+                1,60,000 units                            
+                                                          
+
+© The Institute of Chartered Accountants of India
+14.76  COST AND MANAGEMENT ACCOUNTING
+
+       Variable cost of goods sold                                3,60,000  21,30,625
+       Contribution (Sales ­ Variable cost of                     2,70,000   8,69,375
+       goods sold)
+Less: Fixed cost ­ Production                                                6,30,000
+                                                                             2,39,375
+                   ­ Selling
+       Profit
+
+Reasons for Difference in Profit:                                                  (`)
+Profit as per absorption costing                                            2,59,375
+Add: Op. stock under ­valued in marginal costing
+(`1,30,000 ­ 1,10,000)                                                        20,000
+
+Less: Cl. Stock under ­valued in marginal closing                           2,79,375
+(`2,64,375 ­ 2,24,375)                                                        40,000
+Profit as per marginal costing
+                                                                            2,39,375
+
+18. (i) Cost Indifference Point
+
+                                                        A and B   A and C   B and C
+
+                                                        (`)       (`)       (`)
+
+Differential Fixed Cost                            (I)  `30,000 `1,10,000   `80,000
+
+                                                        (`45,000 ­ (`1,25,000 ­ (`1,25,000 ­
+
+                                                        `15,000)  `15,000)  `45,000)
+
+Differential Variable Costs (II)                        `100      `200      `100
+
+                                                        (`240 ­   (`240 ­ (`140 ­ `40)
+                                                          `140)       `40)
+
+Cost Indifference Point (I/II)                          300       550       800
+
+(Differential Fixed Cost /                              Cases     Cases     Cases
+Differential Variable Costs per
+case)
+
+Interpretation of Results
+
+At activity level below the indifference points, the alternative with lower
+fixed costs and higher variable costs should be used. At activity level
+
+© The Institute of Chartered Accountants of India
+                         MARGINAL COSTING                         14.77
+
+above the indifference point alternative with higher fixed costs and
+lower variable costs should be used.
+
+No. of Cases                                       Alternative to be Chosen
+Cases  300                                         Alternative `A'
+300  Cases  800                                    Alternative `B'
+Cases  800                                         Alternative `C'
+
+       (ii) Present case load is 600. Therefore, alternative B is suitable. As the
+               number of cases is expected to go upto 850 cases, alternative C is most
+               appropriate.
+
+19. Let Cx be the Contribution per unit of Product X.
+       Therefore, Contribution per unit of Product Y =Cy=4/5Cx = 0.8Cx
+       Given F1 + F2 = 1,50,000,
+       F1 = 1,800Cx (Break even Volume × Contribution per unit)
+       Therefore, F2 = 1,50,000 ­ 1,800Cx.
+       3,000Cx ­F1 =3,000 × 0.8Cx ­ F2 or 3,000Cx ­ F1 =2,400 Cx-F2 (Indifference Point)
+       i.e., 3,000Cx ­ 1,800Cx = 2,400Cx ­ 1,50,000 + 1,800Cx
+       i.e., 3,000Cx = 1,50,000, Therefore, Cx = ` 50/- (1,50,000 / 3,000)
+       Therefore, Contribution per unit of X = ` 50
+       Fixed Cost of X = F1 = ` 90,000 (1,800 × 50)
+       Therefore, Contribution per unit of Y is ` 50 × 0.8 = ` 40 and
+       Fixed Cost of Y = F2 = ` 60,000 (1,50,000 ­ 90,000)
+       The Value of F1 = ` 90,000, F2 = ` 60,000 and X = ` 50 and Y = ` 40
+
+20. (i) Calculation of Contribution to sales ratio at existing sales mix:
+
+                                                        Products                Total
+
+                                                   A    B                    C
+
+Selling Price (`)                                  300  400 200
+Less: Variable Cost (`)
+                                                   150  200 120
+
+© The Institute of Chartered Accountants of India
+14.78              COST AND MANAGEMENT ACCOUNTING
+
+Contribution per unit (`)                          150       200 80
+
+P/V Ratio                                          50%    50% 40%
+
+Sales Mix                                          40%    35% 25%
+
+Contribution per rupee of sales (P/V               20% 17.5% 10% 47.5%
+
+Ratio × Sales Mix)
+
+Present Total Contribution (` 60,00,000 × 47.5%)                       ` 28,50,000
+
+Less: Fixed Costs                                                      ` 18,00,000
+
+Present Profit                                                         ` 10,50,000
+
+Present Break-Even Sales                                            ` 37,89,473.68
+
+(` 18,00,000/0.475)
+
+(ii) Calculation of Contribution to sales ratio at proposed sales mix:
+
+                                                          Products
+
+                                                   A      B         E    Total
+
+Selling Price (`)                                  300 400          300
+
+Less: Variable Cost (`)                            150 200          150
+
+Contribution per unit (`)                          150 200          150
+
+P/V Ratio                                          50% 50% 50%
+
+Sales Mix                                          45% 30% 25%
+
+Contribution per rupee of sales                    22.5%  15% 12.5%      50%
+
+(P/V Ratio x Sales Mix)
+
+Proposed Total Contribution (` 64,00,000 × 50%)                        ` 32,00,000
+
+Less: Fixed Costs                                                      ` 18,00,000
+
+Proposed Profit                                                        ` 14,00,000
+
+Proposed Break-Even Sales                                              ` 36,00,000
+
+(` 18,00,000/0.50)
+
+(iii) The proposed sales mix increases the total contribution to sales ratio
+       from 47.5% to 50% and the total profit from ` 10,50,000 to ` 14,00,000.
+       Thus, the proposed sales mix should be accepted.
+
+© The Institute of Chartered Accountants of India
+                                            MARGINAL COSTING       14.79
+                                                                v. (a)
+Answers To The Case Scenarios
+
+1.
+            i. (a) ii. (d) iii. (d) iv. (c)
+
+i.  a        Revised Sale  = Revised FixedCost + Expected Profit
+                                                   P / V Ratio
+
+ii. d                                = {`115 + (20+10)} ÷ 45% = ` 322.22 crores
+             Revised Break ­ even Point = Fixed Cost
+
+                                                          P / V Ratio
+
+iii. d       = `115 Crore ÷ 45% = `255.56 Crore (Refer working notes)
+             Revised Margin of Safety = Revised Sales ­ Revised Break­
+iv. c
+v. a                                                                even Sales
+             = ` 322.22Crores ­ ` 255.56Crores = ` 66.66 Crores.
+             ` 20 Crore & `30 Crore respectively (Refer working note)
+             Total cost in last year = `230 Crore
+             Total cost in coming year = Variable Cost + Fixed Cost
+             Revised sales × 55% + 115 Crore
+             = ` 322.22 Crore × 55% + ` 115 Crore = ` 292.22 Crore
+
+Working Note
+
+Present Sales and Profit
+
+Total Sales   = Break ­ even Sales + Margin of Safety
+
+              = ` 200 Crores + ` 50 Crores
+
+              = ` 250 Crores
+
+P/V Ratio     = 40%
+
+Variable Cost = 60% of Sales
+
+              = ` 250 Crores × 60%
+
+              = ` 150 Crores
+
+© The Institute of Chartered Accountants of India
+14.80            COST AND MANAGEMENT ACCOUNTING
+
+Fixed Cost       = Break ­ even Sales × P/V Ratio
+
+                 = ` 200 Crores × 40%
+
+                 = ` 80 Crores
+
+Total Cost       = ` 150 Crores + ` 80 Crores
+
+                 = ` 230 Crores
+
+Profit           = Total Sales ­ Total Cost
+
+                 = ` 250 Crores ­ ` 230 Crores
+
+                 = ` 20 Cores
+
+Revised Sales                                         (` in Crores)
+Present Fixed Cost                                           80.00
+Increase in Fixed Cost                                       20.00
+Interest at 15 per cent on Additional Capital                15.00
+(`100Crores × 15%)
+Total Revised Fixed Cost (in crore)                         115.00
+Assuming that the Present Selling Price is ` 100
+Revised Selling Price will be (8% Less)                      92.00
+New Variable Cost (Reduced from 60% to 55%) of Sales         50.60
+( ` 92 × 55%)
+Contribution ( ` 92.00 ­ ` 50.60)                            41.40
+
+New P / V Ratio  = ` 41.40 x 100
+
+                     ` 92.00
+
+                 = 45%
+
+© The Institute of Chartered Accountants of India
+

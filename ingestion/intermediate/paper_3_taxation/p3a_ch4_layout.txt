@@ -1,0 +1,1517 @@
+CHAPTER  4
+
+INCOME OF OTHER
+PERSONS INCLUDED
+IN ASSESSEE'S TOTAL
+INCOME
+
+                                      LEARNING OUTCOMES
+
+After studying this chapter, you would be able to -
+
+ identify when clubbing provisions are attracted and apply the same
+       in computing total income of the assessee;
+
+ examine the circumstances when income of the spouse is included in
+       the income of the individual and apply the same in computing total
+       income of the individual;
+
+ examine the circumstances when income of son's wife is included in
+       the hands of the individual and apply the same in computing total
+       income of the individual;
+
+ identify the nature of income of minor, in respect of which clubbing
+       provisions are not attracted;
+
+ examine how minor's income is included in the hands of the parent
+       and compute the amount to be included in the hands of the parent;
+
+ examine the circumstances when income of HUF is included in the
+       hands of a member of the HUF.
+
+© The Institute of Chartered Accountants of India
+4.2  INCOME TAX LAW
+
+CHAPTER OVERVIEW
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.3
+              IN ASSESSEE'S TOTAL INCOME
+
+    1. CLUBBING OF INCOME ­ AN INTRODUCTION
+
+Under the Income-tax Act, 1961, an assessee is generally taxed in respect of his
+own income. However, there are certain cases where an assessee has to pay tax in
+respect of income of another person. The provisions for the same are contained in
+sections 60 to 64 of the Act. These provisions have been enacted to counteract
+the tendency on the part of the tax-payers to dispose of their property or transfer
+their income in such a way that their tax liability can be avoided or reduced.
+
+These provisions can be categorized as follows:
+
+· Income of other persons included in an assessee's total income [Sections 60-63]
+
+· Income of other persons included in an Individual's total income [Section 64]
+
+Note - In the case of individuals, income-tax is levied on a slab system on the total
+income. The tax system is progressive i.e. as the income increases, the applicable rate
+of tax increases. Some taxpayers in the higher income bracket have a tendency to
+divert some portion of their income to their spouse, minor child etc. to minimize their
+tax burden. In order to prevent such tax avoidance, clubbing provisions have been
+incorporated in the Act, under which income arising to certain persons (like spouse,
+minor child etc.) have to be included in the income of the person who has diverted
+his income for the purpose of computing tax liability.
+
+    2. INCOME OF OTHER PERSONS INCLUDIBLE IN
+          ASSESSEE'S TOTAL INCOME
+
+2.1 Transfer of income without transfer of asset [Section 60]
+
+(i) If any person transfers the income from any asset without transferring the
+       asset itself, such income is to be included in the total income of the
+       transferor.
+
+(ii) It is immaterial whether the transfer is revocable or irrevocable and whether
+       it was made before the commencement of this Act or after its
+       commencement.
+
+Example 1: Mr. A confers the right to receive rent in respect of his house property
+to his wife, Mrs. A, without transferring the house itself to her. In this case, the rent
+received by Mrs. A will be clubbed with the income of Mr. A.
+
+© The Institute of Chartered Accountants of India
+4.4  INCOME TAX LAW
+
+ILLUSTRATION 1
+
+Mr. Vatsan has transferred, through a duly registered document, the income arising
+from a godown to his son, without transferring the godown. In whose hands will the
+rental income from godown be charged?
+
+SOLUTION
+
+Section 60 expressly states that where there is transfer of income from an asset
+without transfer of the asset itself, such income shall be included in the total
+income of the transferor. Hence, the rental income derived from the godown shall
+be clubbed in the hands of Mr. Vatsan.
+
+2.2 Income arising from revocable transfer of assets
+      [Section 61]
+
+All income arising to any person by virtue of a revocable transfer of assets is to be
+included in the total income of the transferor.
+
+Meaning of revocable transfer [Section 63]
+Transfer is deemed to be revocable if--
+(a) it contains any provision for the retransfer, directly or indirectly, of the
+
+       whole or any part of the income or assets to the transferor, or
+(b) it gives, in any way to the transferor, a right to reassume power, directly or
+
+       indirectly, over the whole or any part of the income or the assets.
+
+               Clubbing provision will operate even if only part of income of the
+               transferred asset had been applied for the benefit of the transferor.
+               Once the transfer is revocable, the entire income from the transferred
+asset is includible in the total income of the transferor.
+
+Exception where clubbing provisions are not attracted even in case of
+revocable transfer [Section 62]
+Section 61 will not apply to any income arising to any person if there is ­
+(i) a transfer by way of trust which is not revocable during the life time of the
+
+       beneficiary; and
+(ii) any other transfer, which is not revocable during the life time of the
+
+       transferee.
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.5
+              IN ASSESSEE'S TOTAL INCOME
+
+In the above cases, the income from the transferred asset is not includible in the
+total income of the transferor, provided the transferor derives no direct or indirect
+benefit from such income.
+
+If the transferor receives direct or indirect benefit from such income, such income
+is to be included in his total income even though the transfer may not be
+revocable during the life time of the beneficiary or transferee, as the case may be.
+
+As and when the power to revoke the transfer arises, the income arising by virtue
+of such transfer will be included in the total income of the transferor.
+
+Example 2: Mr. Rajesh transfers his house property to a trust for the benefit of
+Mr. Ramesh till his death. This is a situation of irrevocable transfer till the death of
+Mr. Ramesh. Hence, till then, the income from house property would be taxable in
+the hands of the transferee i.e., the trust. However, after the death of Mr. Ramesh,
+the income from house property would be included in the total income of
+Mr. Rajesh as on that date, the transfer has become revocable.
+
+    3. INCOME OF OTHER PERSONS INCLUDIBLE IN
+          INDIVIDUAL'S TOTAL INCOME
+
+3.1 Clubbing of income arising to spouse
+
+(I) Income by way of remuneration from a concern in which the individual
+       has substantial interest [Section 64(1)(ii)]
+
+(i) Remuneration in cash or kind to spouse from a concern in which the
+       individual has a substantial interest to be clubbed: In computing the
+       total income of any individual, all such income which arises, directly or
+       indirectly, to the spouse of such individual by way of salary, commission,
+       fees or any other form of remuneration, whether in cash or in kind, from a
+       concern in which such individual has a substantial interest shall be included.
+
+© The Institute of Chartered Accountants of India
+4.6  INCOME TAX LAW
+
+Circumstances when an individual is deemed to have
+              substantial interest in a concern
+
+Where the concern is a company                     In any other case
+
+ If equity shares carrying 20% or                   If such person is entitled, or such
+     more of voting power are                         person and one or more of his
+                                                        relatives are entitled in the
+beneficially owned by such person
+or partly by such person and partly                aggregate, to receive 20% or more
+ by one or more of his relatives at                profit of such concern at any time
+
+       any time during the P.Y.                                  during the P.Y.
+
+       The term `relative' in relation to an individual means the husband, wife,
+       brother or sister or any lineal ascendant or descendant of that individual
+       [Section 2(41)].
+
+(ii) Clubbing provisions will not apply where remuneration is received on
+       account of technical or professional qualifications: Clubbing provisions,
+       however, does not apply where the spouse of the said individual possesses
+       technical or professional qualifications and the income to the spouse is
+       solely attributable to the application of his/her technical or professional
+       knowledge or experience. In such an event, the income arising to such
+       spouse is to be assessed in his/her hands.
+
+(iii) Both husband and wife have substantial interest in a concern: Where
+       both husband and wife have substantial interest in a concern and both are
+       in receipt of income by way of salary etc. from the said concern, such
+       income will be includible in the hands of that spouse, whose total income,
+       excluding such income is higher.
+
+                 Where any such income is once included in the total income of either
+                 spouse, income arising in the succeeding year shall not be included in the
+                 total income of the other spouse unless the Assessing Officer is satisfied,
+ after giving that spouse an opportunity of being heard, that it is necessary to do so.
+
+ILLUSTRATION 2
+
+Mr. A holds shares carrying 25% voting power in X (P) Ltd. Mrs. A is working as a
+computer software programmer in X (P) Ltd. at a salary of ` 30,000 p.m. She is,
+however, not qualified for the job. The other income of Mr. A & Mrs. A are
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                                    4.7
+              IN ASSESSEE'S TOTAL INCOME
+
+` 7,00,000 & ` 4,00,000, respectively. Compute the gross total income of Mr. A and
+Mrs. A for the A.Y.2026-27 if they are paying tax under default tax regime
+
+SOLUTION
+
+Mr. A holds shares carrying 25% voting power in X (P) Ltd i.e., a substantial interest in
+the company. His wife is working in the same company without any professional
+qualifications for the same. Thus, by virtue of the clubbing provisions of the Act, the
+salary received by Mrs. A from X (P) Ltd. will be clubbed in the hands of Mr. A.
+
+              Computation of Gross total income of Mr. A
+
+                    Particulars                    `                     `
+
+Salary received by Mrs. A (` 30,000 × 12)          3,60,000
+
+Less: Standard deduction under section 16(ia)      75,000 2,85,000
+
+Other Income                                                             7,00,000
+
+Gross total income                                                       9,85,000
+
+The gross total income of Mrs. A is ` 4,00,000.
+
+ILLUSTRATION 3
+
+Will your answer be different if Mrs. A was qualified for the job?
+
+SOLUTION
+
+If Mrs. A possesses professional qualifications for the job, then the clubbing
+provisions shall not be applicable.
+
+Gross total income of Mr. A = ` 7,00,000 [Other income].
+
+Gross total income of Mrs. A = Salary received by Mrs. A [` 30,000×12] less
+` 75,000, being the standard deduction under section 16(ia) plus other income
+[` 4,00,000] = ` 6,85,000
+
+ILLUSTRATION 4
+
+Mr. B holds shares carrying 30% voting power in Y (P) Ltd. Mrs. B is working as
+accountant in Y (P) Ltd. getting income under the head salary (computed) of
+` 3,44,000 without any qualification in accountancy. Mr. B also receives ` 30,000 as
+interest on securities. Mrs. B owns a house property which she has let out. Rent
+received from tenants is ` 6,000 p.m. Compute the gross total income of Mr. B and
+Mrs. B for the A.Y.2026-27.
+
+© The Institute of Chartered Accountants of India
+4.8  INCOME TAX LAW
+
+SOLUTION
+
+Since Mrs. B is not professionally qualified for the job, the clubbing provisions
+shall be applicable.
+
+                       Computation of Gross total income of Mr. B     `
+                                                                   3,44,000
+                                      Particulars
+Income under the head "Salary" of Mrs. B (Computed)                  30,000
+Income from other sources                                          3,74,000
+- Interest on securities
+Gross total income
+
+Computation of Gross total income of Mrs. B
+
+                              Particulars            `              `
+Income from Salary                                                      Nil
+[Clubbed in the hands of Mr. B]                    72,000
+Income from house property                                 -       50,400
+Gross Annual Value [` 6,000 × 12]                                  50,400
+Less: Municipal taxes paid                         72,000
+Net Annual Value (NAV)                             21,600
+Less: Deductions under section 24
+                                                           -
+     - 30% of NAV i.e., 30% of ` 72,000
+     - Interest on loan
+Gross total income
+
+(II) Income arising to the spouse from an asset transferred without
+       adequate consideration [Section 64(1)(iv)]
+
+(i) Transfer of asset (other than house property): Where there is a transfer
+       of an asset (other than house property), directly or indirectly, from one
+       spouse to the other, without adequate consideration or otherwise than in
+       connection with an agreement to live apart, any income arising to the
+       transferee-spouse from the transferred asset, either directly or indirectly,
+       shall be included in the total income of the transferor-spouse.
+
+(ii) Transfer of house property: In the case of transfer of house property, the
+       provisions are contained in section 27. If an individual transfers a house
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.9
+              IN ASSESSEE'S TOTAL INCOME
+
+property to his spouse, without adequate consideration or otherwise than in
+connection with an agreement to live apart, the transferor shall be deemed
+to be the owner of the house property and its annual value will be taxed in
+his hands.
+
+(iii) Income from accretion of the transferred asset: It may be noted that any
+       income from the accretion of the transferred asset is not to be clubbed with
+       the income of the transferor. i.e., the income arising on transferred assets
+       alone have to be clubbed. Income earned by investing such income (arising
+       from transferred asset) cannot be clubbed.
+
+(iv) Meaning of adequate consideration: It is also to be noted that natural
+       love and affection do not constitute adequate consideration. Therefore,
+       where an asset is transferred without adequate consideration, the income
+       from such asset will be clubbed in the hands of the transferor.
+
+(v) Transferred asset invested in business: Where the assets transferred,
+       directly or indirectly, by an individual to his spouse are invested by the
+       transferee in the business, proportionate income arising to the transferee
+       from such investment is to be included in the total income of the transferor.
+       If the investment is in the nature of contribution of capital, proportionate
+       interest receivable by the transferee from the firm will be clubbed with the
+       income of the transferor.
+
+Such proportion has to be computed by taking into account the value of
+the aforesaid investment as on the first day of the previous year to the
+total investment in the business or by way of capital contribution in a firm
+as a partner, as the case may be, by the transferee as on that day.
+
+ILLUSTRATION 5
+
+Mr. Vaibhav started a proprietary business on 01.04.2024 with a capital of
+` 5,00,000. He incurred a loss of ` 2,00,000 during the year 2024-25. To overcome the
+financial position, his wife Mrs. Vaishaly, a software Engineer, gave a gift of
+` 5,00,000 on 01.04.2025, which was immediately invested in the business by
+Mr. Vaibhav. He earned a profit of ` 4,00,000 during the year 2025-26. Compute the
+amount to be clubbed in the hands of Mrs. Vaishaly for the A.Y. 2026-27. If
+Mrs. Vaishaly gave the said amount as loan, what would be the amount to be clubbed?
+
+© The Institute of Chartered Accountants of India
+          4.10          INCOME TAX LAW
+
+SOLUTION
+
+Section 64(1)(iv) of the Income-tax Act, 1961 provides for the clubbing of income
+in the hands of the individual, if the income earned is from the assets (other than
+house property) transferred directly or indirectly to the spouse of the individual,
+otherwise than for adequate consideration or in connection with an agreement to
+live apart.
+
+In this case, Mr. Vaibhav received a gift of ` 5,00,000 on 1.4.2025 from his wife
+Mrs. Vaishaly, which he invested in his business immediately. The income to be
+clubbed in the hands of Mrs. Vaishaly for the A.Y. 2026-27 is computed as follows:
+
+        Particulars      Mr. Vaibhav's                                  Capital          Total (`)
+                              capital                            contribution out
+Capital as on 1.4.2025                                           of gift from Mrs.       8,00,000
+                        contribution (`)                                                 4,00,000
+Profit for P.Y.2025-26                                              Vaishaly (`)
+to be apportioned on                               3,00,000
+the basis of capital                                                           5,00,000
+employed on the first
+day of the previous     (5,00,000 ­ 2,00,000)
+year i.e., as on
+1.4.2025 (3:5)                                     1,50,000            2,50,000
+
+                          4,                       00,000×  3      4,  00,000×  5  
+                                                            8                   8  
+
+Therefore, the income to be clubbed in the hands of Mrs. Vaishaly for the
+A.Y.2026-27 is ` 2,50,000.
+
+In case Mrs. Vaishaly gave the said amount of ` 5,00,000 as a bona fide loan, then,
+clubbing provisions would not be attracted.
+
+Note: The provisions of section 56(2)(x) would not be attracted in the hands of
+Mr. Vaibhav, since he has received a sum of money exceeding ` 50,000 without
+consideration from a relative i.e., his wife.
+
+(III) Transfer of assets for the benefit of spouse [Section 64(1)(vii)]
+
+All income arising directly or indirectly to any person or association of persons,
+from the assets transferred, directly or indirectly, to such person or association of
+persons by an individual without adequate consideration is includible in the
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.11
+              IN ASSESSEE'S TOTAL INCOME
+
+income of the individual to the extent such income is used by the transferee for
+the immediate or deferred benefit of the transferor's spouse.
+
+3.2 Clubbing of income arising to son's wife
+
+(I) Income arising to son's wife from the assets transferred without
+       adequate consideration by the father-in-law or mother-in-law
+       [Section 64(1)(vi)]
+
+(i) Asset transferred without adequate consideration: Where an asset is
+       transferred, directly or indirectly, by an individual to his or her son's wife
+       without adequate consideration, the income from such asset is to be
+       included in the total income of the transferor.
+
+(ii) Asset transferred invested in the business: For this purpose, where the
+       assets transferred directly or indirectly by an individual to his or her son's
+       wife are invested by the transferee in the business, proportionate income
+       arising from such investment is to be included in the total income of the
+       transferor. If the investment is in the nature of contribution of capital, the
+       proportionate interest receivable from firm will be clubbed with the income
+       of the transferor.
+
+        Such proportion has to be computed by taking into account the value of
+       the aforesaid investment as on the first day of the previous year to the
+       total investment in the business or by way of capital contribution in a firm
+       as a partner, as the case may be, by the transferee as on that day.
+
+(II) Transfer of assets for the benefit of son's wife [Section 64(1)(viii)]
+
+       All income arising directly or indirectly, to any person or association of
+       persons from the assets transferred, directly or indirectly, without adequate
+       consideration, to such person or association of persons by an individual will
+       be included in the total income of the individual to the extent such income
+       is used by the transferee for the immediate or deferred benefit of the
+       transferor's son's wife.
+
+                        Where any asset is transferred by a person to any other person
+                        without consideration or for inadequate consideration, the
+                        provisions of 56(2)(x) would get attracted in the hands of
+       transferee, if conditions specified thereunder are satisfied.
+
+© The Institute of Chartered Accountants of India
+4.12  INCOME TAX LAW
+
+ILLUSTRATION 6
+
+Mrs. Kasturi transferred her immovable property to ABC Co. Ltd. subject to a
+condition that out of the rental income, a sum of ` 36,000 per annum shall be
+utilized for the benefit of her son's wife.
+
+Mrs. Kasturi claims that the amount of ` 36,000 (utilized by her son's wife) should
+not be included in her total income as she no longer owned the property.
+
+Examine with reasons whether the contention of Mrs. Kasturi is valid in law.
+
+SOLUTION
+
+The clubbing provisions under section 64(1)(viii) are attracted in case of transfer
+of any asset, directly or indirectly, otherwise than for adequate consideration, to
+any person to the extent to which the income from such asset is for the
+immediate or deferred benefit of son's wife. Such income shall be included in
+computing the total income of the transferor-individual.
+
+Therefore, income of ` 36,000 meant for the benefit of daughter-in-law is
+chargeable to tax in the hands of transferor i.e., Mrs. Kasturi in this case.
+
+The contention of Mrs. Kasturi is, hence, not valid in law.
+
+In order to attract the clubbing provisions under section 64(1)(viii), the transfer
+should be otherwise than for adequate consideration. In this case, it is presumed
+that the transfer is otherwise than for adequate consideration and therefore, the
+clubbing provisions are attracted. Moreover, the provisions of section 56(2)(x)
+would also get attracted in the hands of ABC Co Ltd., if the conditions specified
+thereunder are satisfied.
+
+Note ­ If the transfer was for adequate consideration, the provisions of section
+64(1)(viii) would not be attracted.
+
+3.3 Clubbing of minor's income [Section 64(1A)]
+
+(i) All income of a minor is to be included in the income of his or her parent.
+
+(ii) However, the income derived by the minor from manual work or from any
+       activity involving his skill, talent or specialised knowledge or experience will
+       not be included in the income of his parent.
+
+(iii) The income of the minor will be included in the income of that parent,
+       whose total income, excluding minor's income, is greater.
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.13
+              IN ASSESSEE'S TOTAL INCOME
+
+(iv) Once clubbing of minor's income is done with that of one parent, it will
+       continue to be clubbed with that parent only, in subsequent years. The
+       Assessing Officer, may, however, club the minor's income with that of the
+       other parent, if, after giving the other parent an opportunity to be heard, he
+       is satisfied that it is necessary to do so.
+
+(v) Where the marriage of the parents does not subsist, the income of the
+       minor will be includible in the income of that parent who maintains the
+       minor child in the relevant previous year.
+
+(vi) However, the income of a minor child suffering from any disability of the
+       nature specified in section 80U shall not be included in the hands of the
+       parent but shall be assessed in the hands of the child.
+
+(vii) It may be noted that the clubbing provisions are attracted even in respect of
+       income of minor married daughter.
+
+Exemption in respect of clubbed income of minor [Section 10(32)]
+
+In case the income of an individual (i.e. the parent) includes the income of his
+minor child in terms of section 64(1A), such parent shall be entitled to exemption
+of ` 1,500 in respect of each minor child. However, if income of any minor so
+includible is less than ` 1,500, then, the entire income shall be exempt.
+
+Exemption under section 10(32) would be available to the parent only if he/she
+exercises the option of shifting out of the default tax regime provided under
+section 115BAC(1A). The same would not be available to him/her under the
+default tax regime where he/she computes his/her total income as per section
+115BAC and pays tax at the concessional rates provided thereunder.
+
+(viii) In case the asset transferred to a minor child (not being a minor married
+       daughter) without consideration or for inadequate consideration is a house
+       property, then, by virtue of section 27(i), the transferor-parent will be the
+       deemed owner of the house property. Therefore, the income from house
+       property will be taxable in the hands of the transferor-parent, being the
+       deemed owner and not in the hands of the minor child. Consequently,
+       clubbing provisions under section 64(1A) would not be attracted in respect
+       of such income, due to which the benefit of exemption u/s 10(32) (discussed
+       above) cannot be availed against such income.
+
+However, if the house property is transferred by a parent to his or her minor
+married daughter, without consideration or for inadequate consideration,
+
+© The Institute of Chartered Accountants of India
+          4.14  INCOME TAX LAW
+
+then, section 27(i) is not attracted. In such a case, the income from house
+property will be included u/s 64(1A) in the hands of that parent, whose total
+income before including minor child's income is higher; and benefit of
+exemption u/s 10(32) can be availed by that parent in respect of the income
+so included if he/she exercises the option of shifting out of the default tax
+regime provided under section 115BAC(1A).
+
+ILLUSTRATION 7
+
+Mr. A has three minor children ­ two twin daughters, aged 12 years, and one son,
+aged 16 years. Income of the twin daughters is ` 2,000 p.a. each and that of the son
+is ` 1,200 p.a. Mrs. A has transferred her flat to her minor son on 1.4.2025 out of
+natural love and affection. The flat was let out on the same date and the rental
+income from the flat is ` 10,000 p.m. Compute the income, in respect of minor
+children, to be included in the hands of Mr. A and Mrs. A u/s 64(1A) (assuming that
+Mr. A's total income is higher than Mrs. A's total income, before including the
+income of minor children and both Mr. A and Mrs. A exercise the option of shifting
+out of the default tax regime provided under section 115BAC(1A).
+
+SOLUTION
+
+Taxable income, in respect of minor children, in the hands of Mr. A is:
+
+                              Particulars           `                    `
+Twin minor daughters [` 2,000 × 2]                 4,000                 1,000
+Less: Exempt under section 10(32) [` 1,500 × 2]    3,000
+
+Minor son                                          1,200                     Nil
+Less: Exempt under section 10(32)                  1,200                 1,000
+Income to be clubbed in the hands of Mr. A
+
+Note ­ As per section 27(i), Mrs. A is the deemed owner of house property
+transferred to her minor son. Natural love and affection do not constitute adequate
+consideration for this purpose. Accordingly, the income from house property of
+` 84,000 [i.e., ` 1,20,000 (-) ` 36,000, being 30% of ` 1,20,000) would be taxable
+directly in her hands as the deemed owner of the said property. Consequently,
+clubbing provisions under section 64(1A) would not be attracted in respect of
+income from house property, owing to which exemption u/s 10(32) cannot be
+availed by her.
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.15
+              IN ASSESSEE'S TOTAL INCOME
+
+ILLUSTRATION 8
+
+Compute the gross total income of Mr. A & Mrs. A from the following information
+assuming both exercise the option of shifting out of the default tax regime provided
+under section 115BAC(1A):
+
+                                         Particulars                `
+(a) Salary income (computed) of Mrs. A                           2,30,000
+(b) Income from profession of Mr. A                              3,90,000
+(c) Income of minor son B from company deposit
+(d) Income of minor daughter C from special talent                 15,000
+(e) Interest from bank received by C on deposit made out of her    32,000
+
+      special talent                                                 3,000
+(f) Gift received by C on 30.09.2025 from friend of Mrs. A           2,500
+
+Brief working is sufficient. Detailed computation under various heads of income is
+not required.
+
+SOLUTION
+
+As per the provisions of section 64(1A) of the Income-tax Act, 1961, all the
+income of a minor child has to be clubbed in the hands of that parent whose total
+income (excluding the income of the minor) is greater. The income of Mr. A is
+` 3,90,000 and income of Mrs. A is ` 2,30,000. Since the income of Mr. A is greater
+than that of Mrs. A, the income of the minor children have to be clubbed in the
+hands of Mr. A. It is assumed that this is the first year when clubbing provisions
+are attracted.
+
+Income derived by a minor child from any activity involving application of his/her
+skill, talent, specialised knowledge and experience is not to be clubbed. Hence,
+the income of minor child C from exercise of special talent will not be clubbed.
+
+However, interest from bank deposit has to be clubbed even when deposit is
+made out of income arising from application of special talent.
+
+© The Institute of Chartered Accountants of India
+4.16  INCOME TAX LAW
+
+The Gross Total Income of Mrs. A is ` 2,30,000. The total income of Mr. A giving
+effect to the provisions of section 64(1A) is as follows:
+
+Computation of gross total income of Mr. A for the A.Y. 2026-27
+
+                              Particulars                      `        `
+Income from profession                                               3,90,000
+Income of minor son B from company deposit                   15,000
+Less: Exemption under section 10(32)                          1,500    13,500
+Income of minor daughter C
+From special talent ­ not to be clubbed                           -
+Interest from bank                                           3,000
+Gift of ` 2,500 received from a non-relative is not taxable
+under section 56(2)(x) being less than the aggregate limit      Nil      1,500
+of ` 50,000                                                  3,000   4,05,000
+                                                             1,500
+Less: Exemption under section 10(32)
+Gross Total Income
+
+     4. CROSS TRANSFERS
+
+In the case of cross transfers also (e.g., A making gift of ` 50,000 to the wife of his
+brother B for the purchase of a house by her and a simultaneous gift by B to A's
+minor son of shares in a foreign company worth ` 50,000 owned by him), the
+income from the assets transferred would be assessed in the hands of the
+deemed transferor if the transfers are so intimately connected as to form part of a
+single transaction, and each transfer constitutes consideration for the other by
+being mutual or otherwise. Thus, in the instant case, the transfers have been
+made by A and B to persons who are not their spouse or minor child so as to
+circumvent the provisions of this section, showing that such transfers constituted
+consideration for each other.
+
+The Supreme Court, in case of CIT v. Keshavji Morarji [1967] 66 ITR 142, observed
+that if two transactions are inter-connected and are parts of the same transaction
+in such a way that it can be said that the circuitous method was adopted as a
+device to evade tax, the implication of clubbing provisions would be attracted.
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.17
+              IN ASSESSEE'S TOTAL INCOME
+
+Accordingly, the income arising to Mrs. B from the house property should be
+included in the total income of B and the dividend from shares transferred to A's
+minor son would be taxable in the hands of A, assuming that Mr. A's income is
+higher than that of Mrs. A. This is because A and B are the indirect transferors to
+their minor child and spouse, respectively, of income-yielding assets, so as to
+reduce their burden of taxation.
+
+ILLUSTRATION 9
+
+Mr. Vasudevan gifted a sum of ` 6 lakhs to his brother's wife on 14-06-2025. On
+12-07-2025, his brother gifted a sum of ` 5 lakhs to Mr. Vasudevan's wife. The
+gifted amounts were invested as fixed deposits in banks by Mrs. Vasudevan and wife
+of Mr. Vasudevan's brother on 01-08-2025 at 9% interest. Examine the
+consequences of the above under the provisions of the Income-tax Act, 1961 in the
+hands of Mr. Vasudevan and his brother.
+
+SOLUTION
+
+In the given case, Mr. Vasudevan gifted a sum of ` 6 lakhs to his brother's wife on
+14.06.2025 and simultaneously, his brother gifted a sum of ` 5 lakhs to
+Mr. Vasudevan's wife on 12.07.2025. The gifted amounts were invested as fixed
+deposits in banks by Mrs. Vasudevan and his brother's wife. These transfers are in
+the nature of cross transfers. Accordingly, the income from the assets transferred
+would be assessed in the hands of the deemed transferor because the transfers
+are so intimately connected to form part of a single transaction and each transfer
+constitutes consideration for the other by being mutual or otherwise.
+
+If two transactions are inter-connected and are part of the same transaction in
+such a way that it can be said that the circuitous method was adopted as a device
+to evade tax, the implication of clubbing provisions would be attracted. It was so
+held by the Apex Court in CIT vs. Keshavji Morarji (1967) 66 ITR 142.
+
+Accordingly, the interest income arising to Mrs. Vasudevan in the form of interest
+on fixed deposits would be included in the total income of Mr. Vasudevan and
+interest income arising in the hands of his brother's wife would be taxable in the
+hands of Mr. Vasudevan's brother as per section 64(1), to the extent of amount of
+cross transfers i.e., ` 5 lakhs.
+
+© The Institute of Chartered Accountants of India
+4.18  INCOME TAX LAW
+
+This is because both Mr. Vasudevan and his brother are the indirect transferors of
+the income to their respective spouses with an intention to reduce their burden of
+taxation.
+
+However, the interest income earned by his spouse on fixed deposit of ` 5 lakhs
+alone would be included in the hands of Mr. Vasudevan's brother and not the
+interest income on the entire fixed deposit of ` 6 lakhs, since the cross transfer is
+only to the extent of ` 5 lakhs.
+
+     5. CONVERSION OF SELF-ACQUIRED PROPERTY
+          INTO THE PROPERTY OF A HINDU
+          UNDIVIDED FAMILY [SECTION 64(2)]
+
+Section 64(2) deals with the case of conversion of self-acquired property into
+property of a Hindu undivided family.
+
+(i) Where an individual, who is a member of the HUF, converts at any time after
+       31-12-1969, his individual property into property of the HUF of which he is
+       a member or throws such property into the common stock of the family or
+       otherwise transfers such individual property, directly or indirectly, to the
+       family otherwise than for adequate consideration, the income from such
+       property shall continue to be included in the total income of the individual.
+
+(ii) Where the converted property has been partitioned, either by way of total
+       or partial partition, the income derived from such converted property as is
+       received by the spouse on partition will be deemed to arise to the spouse
+       from assets transferred indirectly by the individual to the spouse and
+       consequently, such income shall also be included in the total income of the
+       individual who effected the conversion of such property.
+
+(iii) Where income from the converted property is included in the total income
+       of an individual under section 64(2), it will be excluded from the total
+       income of the family or, as the case may be, of the spouse of the individual.
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.19
+              IN ASSESSEE'S TOTAL INCOME
+
+    6. INCOME INCLUDES LOSS
+
+As per the Explanation 2 to section 64, `income' would include `loss'. Accordingly,
+where the specified income to be included in the total income of the individual is
+a loss, such loss will be taken into account while computing the total income of
+the individual. It is significant to note that this Explanation applies to clubbing
+provisions under both sections 64(1) and 64(2).
+
+     7. DISTINCTION BETWEEN SECTION 61 AND
+          SECTION 64
+
+It may be noted that the main distinction between the two sections is that
+section 61 applies only to a revocable transfer made by any person while section
+64 applies to revocable as well as irrevocable transfers made only by individuals.
+
+               Clubbing provisions are attracted in respect of income arising from the
+               assets transferred, however, income arising on accretion of income arising
+               from transferred asset, would not be clubbed except in case of minor child.
+
+Example 3: Mr. X transferred debentures of ` 50,000 carrying 10% p.a. interest to
+his wife. The interest income of ` 5,000 would be clubbed in the hands of Mr. X.
+However, in case his wife deposited ` 5,000 in fixed deposits @8% p.a., the interest
+income of ` 400 arising on FDR would not be clubbed in the hands of Mr. X.
+
+© The Institute of Chartered Accountants of India
+           4.20                  INCOME TAX LAW
+
+           LET US RECAPITULATE
+
+Section    Income to be                            Content
+   60         clubbed
+   61
+           Income                When a person transfers the income accruing
+64(1)(ii)  transferred           from an asset without the transfer of the
+64(1)(iv)  without transfer      asset itself, such income is to be included in
+           of asset              the total income of the transferor, whether
+                                 the transfer is revocable or irrevocable.
+
+           Income arising        Such income is to be included in the hands of
+           from revocable        the transferor.
+           transfer of assets
+                                 A transfer is deemed to be revocable if it ­
+
+                                 (i) contains any provision for re-transfer of
+                                      the whole or any part of the income or
+                                      assets to the transferor; or
+
+                                 (ii) gives right to re-assume power over the
+                                      whole or any part of the income or the
+                                      asset.
+
+           Income arising to     Such income arising to spouse is to be
+           spouse by way of      included in the total income of the individual.
+           remuneration from
+           a concern in which    However, if remuneration received is
+           the individual has    attributable to the application of technical or
+           substantial interest  professional knowledge and experience of
+                                 spouse, then, such income is not to be clubbed.
+
+           Income arising to     Income arising from an asset (other than
+                                 house property) transferred otherwise than
+           spouse         from   for adequate consideration or not in
+                                 connection with an agreement to live apart,
+           assets transferred    from one spouse to another shall be included
+                                 in the total income of the transferor.
+           without adequate
+                                 However, this provision will not apply in the
+           consideration         case of transfer of house property, since the
+                                 transferor-spouse would be the deemed
+                                 owner as per section 27.
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.21
+              IN ASSESSEE'S TOTAL INCOME
+
+ 64(1)(vi)   Income arising to   Income arising from an asset transferred
+             son's wife from an  otherwise than for adequate consideration, by
+64(1)(vii)/  asset transferred   an individual to his or her son's wife shall be
+64(1)(viii)  without adequate    included in the total income of the transferor.
+             consideration
+  64(1A)
+             Income arising      All income arising to any person or
+             from transfer of    association of persons from assets transferred
+             assets for the      without adequate consideration is includible
+             benefit of spouse   in the income of the transferor, to the extent
+             or son's wife       such income is used by the transferee for the
+                                 immediate or deferred benefit of the
+                                 transferor's spouse or son's wife.
+
+             Income of minor     All income arising or accruing to a minor
+             child               child (including a minor married daughter)
+                                 shall be included in the total income of his or
+                                 her parent.
+
+                                 The income of the minor child shall be
+                                 included with the income of that parent,
+                                 whose total income, before including minor's
+                                 income, is higher.
+
+                                 Where the marriage of the parents does not
+                                 subsist, the income of the minor will be
+                                 includible in the income of that parent who
+                                 maintains the minor child in the relevant
+                                 previous year.
+
+                                 The parent, in whose total income, the
+                                 income of the minor child or children are
+                                 included, shall be entitled to exemption of
+                                 such income subject to a maximum of ` 1,500
+                                 per child under section 10(32).
+
+                                 Exemption under section 10(32) would be
+                                 available to an assessee only if he exercises
+                                 the option of shifting out of the default tax
+                                 regime provided under section 115BAC(1A).
+
+                                 The following income of a minor child shall,
+                                 however, not be clubbed in the hands of his
+                                 or her parent ­
+
+© The Institute of Chartered Accountants of India
+       4.22               INCOME TAX LAW
+
+                          (a) Income from manual work done by him
+                               or activity involving application of
+                               minor's skill, talent or specialized
+                               knowledge and experience; and
+
+                          (b) Income of a minor child suffering from
+                               any disability specified in section 80U.
+
+                          In case the asset transferred to a minor child
+                          (not being a minor married daughter) without
+                          consideration or for inadequate consideration
+                          is house property, then, by virtue of section
+                          27(i), the transferor-parent will be the
+                          deemed owner of the house property.
+                          Therefore, the income from house property
+                          will be taxable in the hands of the transferor-
+                          parent, being the deemed owner and not in
+                          the hands of the minor child. Consequently,
+                          clubbing provisions u/s 64(1A) would not be
+                          attracted in respect of such income, due to
+                          which the benefit of exemption u/s 10(32)
+                          cannot be availed against such income.
+
+                          However, if the house property is transferred
+                          by a parent to his or her minor married
+                          daughter without consideration or for
+                          inadequate consideration, then, section 27(i)
+                          is not attracted. In such a case, the income
+                          from house property will be included u/s
+                          64(1A) in the hands of that parent, whose
+                          total income before including minor child's
+                          income is higher; and benefit of exemption
+                          u/s 10(32) can be availed by that parent in
+                          respect of the income so included if he/she
+                          exercises the option of shifting out of the
+                          default tax regime provided under section
+                          115BAC(1A).
+
+64(2)  Conversion of      Where an individual, who is a member of the
+       self-acquired      HUF, converts his individual property into
+       property into the  property of the HUF of which he is a member,
+       property of a HUF  directly or indirectly, to the family otherwise
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.23
+              IN ASSESSEE'S TOTAL INCOME
+
+than for adequate consideration, the income
+from such property shall continue to be
+included in the total income of the individual.
+
+Where the converted property has been
+partitioned, either by way of total or partial
+partition, the income derived from such
+converted property as is received by the
+spouse on partition shall also be included in
+the total income of the individual who
+effected the conversion of such property.
+
+Note: As per Explanation 2 to section 64 `income' includes `loss'. Therefore,
+clubbing provisions would be attracted in all the above cases, even if there is a
+loss and not income.
+
+© The Institute of Chartered Accountants of India
+4.24  INCOME TAX LAW
+
+                  TEST YOUR KNOWLEDGE
+
+1. Mr. Sharma has four minor children - 2 daughters and 2 sons. The annual
+       income of 2 daughters were ` 9,000 and ` 4,500 and of sons were
+       ` 6,200 and ` 4,300, respectively. The daughter who has income of ` 4,500
+       was suffering from a disability specified under section 80U.
+
+       Compute the amount of income earned by minor children to be clubbed in
+       hands of Mr. Sharma assuming he has exercised the option of shifting out of
+       the default tax regime provided under section 115BAC(1A).
+
+2. During the previous year 2025-26, the following transactions occurred in
+       respect of Mr. A.
+
+       (a) Mr. A had a fixed deposit of ` 5,00,000 in Bank of India. He instructed
+               the bank to credit the interest on the deposit @ 9% p.a. from 1-4-2025
+               to 31-3-2026 to the savings bank account of Mr. B, son of his brother, to
+               help him in his education.
+
+       (b) Mr. A holds 75% profit share in a partnership firm. Mrs. A received a
+              commission of ` 25,000 from the firm for promoting the sales of the
+               firm. Mrs. A possesses no technical or professional qualification.
+
+       (c) Mr. A gifted a flat to Mrs. A on April 1, 2025. During the previous year
+               2025-26, Mrs. A's "Income from house property" (computed) was
+               ` 52,000 from such flat.
+
+       (d) Mr. A gifted ` 2,00,000 to his minor son who invested the same in a
+               business and he derived income of ` 20,000 from the investment.
+
+       (e) Mr. A's minor son derived an income of ` 20,000 through a business
+               activity involving application of his skill and talent.
+
+       During the year, Mr. A got a monthly pension of ` 10,000. He had no other
+       income. Mrs. A received salary of ` 20,000 per month from a part time job.
+
+       Examine the tax implications of each transaction and compute the total
+       income of Mr. A, Mrs. A and their minor child assuming that they exercise the
+       option of shifting out of the default tax regime provided under section
+       115BAC(1A).
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.25
+              IN ASSESSEE'S TOTAL INCOME
+
+3. Mr. A has gifted a house property valued at ` 50 lakhs to his wife, Mrs. B, who
+       in turn has gifted the same to Mrs. C, their daughter-in-law. The house was
+       let out at ` 25,000 per month throughout the year. Compute the total income
+       of Mr. A and Mrs. C.
+
+Will your answer be different if the said property was gifted to his son,
+husband of Mrs. C?
+
+4. A proprietary business was started by Smt. Rani in the year 2023. As on
+       1.4.2024 her capital in business was ` 3,00,000.
+
+Her husband gifted ` 2,00,000 on 10.4.2024 to her and such sum is invested
+by Smt. Rani in her business on the same date. Smt. Rani earned profits from
+her proprietary business for the Financial Year 2024-25, ` 1,50,000 and
+Financial Year 2025-26, ` 3,90,000. Compute the income, to be clubbed in the
+hands of Rani's husband for the Assessment year 2026-27 with reasons.
+
+5. Mr. B is the Karta of a HUF, whose members derive income as given below:
+
+                                     Particulars              `
+(i) Income from B' s profession                              45,000
+(ii) Mrs. B' s salary as fashion designer                    76,000
+(iii) Minor son D (interest on fixed deposits with a bank    10,000
+
+        which were gifted to him by his uncle)               95,000
+(iv) Minor daughter P's earnings from sports               1,95,000
+(v) D's winnings from lottery (gross)
+
+       Examine the tax implications in the hands of Mr. and Mrs. B.
+
+6. Nishant gifted ` 10 lakhs to his wife, Nisha on her birthday on 1st January,
+       2025. Nisha lent ` 5,00,000 out of the gifted amount to Krish on 1st April,
+       2025 for six months on which she received interest of ` 50,000. The said sum
+       of ` 50,000 was invested in shares of a listed company on 15th October, 2025,
+       which were sold for ` 75,000 on 30th December, 2025. Securities transaction
+       tax was paid on such sale. The balance amount of gift was invested as capital
+       by Nisha in a newly business started on 1.4.2025. She suffered loss of ` 15,000
+       in the business in Financial Year 2025-26.
+
+       In whose hands the above income and loss shall be included in Assessment
+       Year 2026-27? Support your answer with brief reasons.
+
+© The Institute of Chartered Accountants of India
+4.26  INCOME TAX LAW
+
+7. Mrs. and Mr. Naresh Yadav have two minor children Mahi and Nonu. The
+       following are the receipts in the hands of Mahi and Nonu during the year
+       ended 31-3-2026:
+
+       (i) Mahi received a gift of ` 85,000 from her friend's father on the occasion
+               of her birthday.
+
+       (ii) Nonu won a prize money of ` 3,00,000 in National Sports competition.
+
+               This was invested in debentures of a company, from which interest of
+              ` 25,000 (gross) accrued during the year.
+
+       Mr. Naresh's income before considering clubbing provisions is higher than
+       that of his wife and he has opted out of the default tax regime.
+
+       Explain how these items will be considered for taxation under the provisions
+       of the Income Tax Act, 1961. Detailed computation of income is not required.
+
+8. Mr. Mahadev, a noted bhajan singer of Rajasthan and his wife Mrs. Dariya
+       furnish the following information relating to the Assessment Year 2026-27.
+
+                                                      `
+
+1 Income of Mr. Mahadev-professional bhajan singer 5,65,000
+      (computed)
+
+2 Salary income of Mrs. Dariya (computed)             3,80,000
+
+3 Loan received by Mrs. Dariya from Ramu & Jay (Pvt) 2,50,000
+      Ltd. (Mrs. Dariya holds 35% shares of the Co. The Co.
+      has incurred losses since its inception 2 years back)
+
+4 Income of their minor son Golu from winning singing 2,50,000
+      reality show on T.V.
+
+5 Cash gift received by Golu from friend of           21,000
+      Mr. Mahadev on winning the show
+
+6 Interest income received by minor married daughter  40,000
+      Gudia from deposit with Ramu & Jay Pvt Ltd.
+
+Compute total taxable income of Mr. Mahadev & Mrs. Dariya for the
+Assessment Year 2026-27 if both of them are paying tax under default tax
+regime.
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                                4.27
+              IN ASSESSEE'S TOTAL INCOME
+
+           ANSWERS
+
+1. As per section 64(1A), in computing the total income of an individual, all
+       such income accruing or arising to a minor child shall be included. However,
+       income of a minor child suffering from disability specified under section
+       80U would not be included in the income of the parent but would be
+       taxable in the hands of the minor child. Therefore, in this case, the income
+       of daughter suffering from disability specified under section 80U should not
+       be clubbed with the income of Mr. Sharma.
+
+Under section 10(32), income of each minor child includible in the hands of
+the parent under section 64(1A) would be exempt to the extent of the actual
+income or ` 1,500, whichever is lower. Mr. Sharma would be eligible for
+exemption u/s 10(32) since he has exercised the option of shifting out of the
+default tax regime provided under section 115BAC(1A). The remaining
+income would be included in the hands of the parent.
+
+Computation of income earned by minor children to be clubbed with
+                               the income of Mr. Sharma
+
+                                                   Particulars        `
+
+(i) Income of one daughter                                            9,000
+
+Less: Income exempt under section 10(32)                              1,500
+
+Total (A)                                                             7,500
+
+(ii) Income of two sons (` 6,200 + ` 4,300)                           10,500
+
+Less: Income exempt under section 10(32)                              3,000
+(` 1,500 + ` 1,500)
+
+Total (B)                                                             7,500
+
+Total Income to be clubbed as per section 64(1A)                      15,000
+(A+B)
+
+Note: It has been assumed that:
+
+(1) The income does not accrue or arise to the minor children on account
+       of any manual work done by them or activity involving application of
+       their skill, talent or specialized knowledge and experience;
+
+© The Institute of Chartered Accountants of India
+4.28  INCOME TAX LAW
+
+(2) The income of Mr. Sharma, before including the minor children's
+       income, is greater than the income of Mrs. Sharma, due to which the
+       income of the minor children would be included in his hands; and
+
+(3) This is the first year in which clubbing provisions are attracted.
+
+2. Computation of total income of Mr. A, Mrs. A and their minor son
+                                       for the A.Y. 2026-27
+
+            Particulars                            Mr. A             Mrs. A     Minor
+                                                     (`)               (`)      Son (`)
+Income under the head
+"Salaries"                                                 - 2,40,000                    -
+Salary income (of Mrs. A)
+Pension income (of Mr. A)                                  1,20,000          -
+(` 10,000×12)
+Less: Standard deduction                                   50,000 50,000
+under section 16(ia)                                       70,000 1,90,000
+
+Income from House                                          52,000            -           -
+Property [See Note (3)
+below]                                             45,000                    -           -
+
+Income from other sources                          25,000 70,000             -           -
+Interest on Mr. A's fixed
+deposit with Bank of India
+(` 5,00,000×9%) [See Note
+(1) below]
+
+Commission received by
+Mrs. A from a partnership
+firm, in which Mr. A has
+substantial interest [See
+Note (2) below]
+
+Income before including                                    1,92,000 1,90,000             -
+income of minor son under
+section 64(1A)
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                           4.29
+              IN ASSESSEE'S TOTAL INCOME
+
+Income of the minor son                            18,500        -    -
+from the investment made in
+the business out of the                            -             -    20,000
+amount gifted by Mr. A [See                                           20,000
+Note (4) below]                                    2,10,500 1,90,000
+
+Income of the minor son
+through a business activity
+involving application of his
+skill and talent [See Note (5)
+below]
+
+Total Income
+
+Notes:
+
+(1) As per section 60, in case there is a transfer of income without transfer
+       of asset from which such income is derived, such income shall be
+       treated as income of the transferor. Therefore, the fixed deposit
+       interest of ` 45,000 transferred by Mr. A to Mr. B shall be included in
+       the total income of Mr. A.
+
+(2) As per section 64(1)(ii), in case the spouse of the individual receives
+       any amount by way of income from any concern in which the
+       individual has substantial interest (i.e. holding shares carrying at least
+       20% voting power or entitled to at least 20% of the profits of the
+       concern), then, such income shall be included in the total income of
+       the individual. The only exception is in a case where the spouse
+       possesses any technical or professional qualifications and the income
+       earned is solely attributable to the application of her technical or
+       professional knowledge and experience, in which case, the clubbing
+       provisions would not apply.
+
+       In this case, the commission income of ` 25,000 received by Mrs. A
+       from the partnership firm has to be included in the total income of
+       Mr. A, as Mrs. A does not possess any technical or professional
+       qualification for earning such commission and Mr. A has substantial
+       interest in the partnership firm as he holds 75% profit share in the
+       firm.
+
+© The Institute of Chartered Accountants of India
+4.30  INCOME TAX LAW
+
+(3) According to section 27(i), an individual who transfers any house
+       property to his or her spouse otherwise than for adequate
+       consideration or in connection with an agreement to live apart, shall
+       be deemed to be the owner of the house property so transferred.
+       Hence, Mr. A shall be deemed to be the owner of the flat gifted to
+       Mrs. A and hence, the income arising from the same shall be
+       computed in the hands of Mr. A.
+
+       Note: The provisions of section 56(2)(x) would not be attracted in the
+       hands of Mrs. A, since she has received immovable property without
+       consideration from a relative i.e., her husband.
+
+(4) As per section 64(1A), the income of the minor child is to be included
+       in the total income of the parent whose total income (excluding the
+       income of minor child to be so clubbed) is greater. Further, as per
+       section 10(32), income of a minor child which is includible in the
+       income of the parent shall be exempt to the extent of ` 1,500 per
+       child.
+
+       Therefore, the income of ` 20,000 received by minor son from the
+       investment made out of the sum gifted by Mr. A shall, after providing
+       for exemption of ` 1,500 under section 10(32), be included in the
+       income of Mr. A, since Mr. A's income of ` 1,92,000 (before including
+       the income of the minor child) is greater than Mrs. A's income of
+       ` 1,90,000. Therefore, ` 18,500 (i.e., ` 20,000 ­ ` 1,500) shall be
+       included in Mr. A's income. It is assumed that this is the first year in
+       which clubbing provisions are attracted.
+
+       Note: The provisions of section 56(2)(x) would not be attracted in the
+       hands of the minor son, since he has received a sum of money
+       exceeding ` 50,000 without consideration from a relative i.e., his
+       father.
+
+(5) In case the income earned by the minor child is on account of any
+       activity involving application of any skill or talent, then, such income
+       of the minor child shall not be included in the income of the parent
+       but shall be taxable in the hands of the minor child.
+
+       Therefore, the income of ` 20,000 derived by Mr. A's minor son
+       through a business activity involving application of his skill and talent
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.31
+              IN ASSESSEE'S TOTAL INCOME
+
+shall not be clubbed in the hands of the parent. Such income shall be
+taxable in the hands of the minor son.
+
+3. As per section 27(i), an individual who transfers otherwise than for adequate
+       consideration any house property to his spouse, not being a transfer in
+       connection with an agreement to live apart, shall be deemed to be the
+       owner of the house property so transferred.
+
+Therefore, in this case, Mr. A would be the deemed owner of the house
+property transferred to his wife Mrs. B without consideration.
+
+As per section 64(1)(vi), income arising to the son's wife from assets
+transferred, directly or indirectly, to her by an individual otherwise than for
+adequate consideration would be included in the total income of such
+individual.
+
+Income from let-out property is ` 2,10,000 [i.e., ` 3,00,000, being the actual
+rent calculated at ` 25,000 per month less ` 90,000, being deduction under
+section 24 @30% of ` 3,00,000]
+
+In this case, income of ` 2,10,000 from let-out property arising to Mrs. C,
+being Mr. A's son's wife, would be included in the income of Mr. A, applying
+the provisions of section 27(i) and section 64(1)(vi). Such income would,
+therefore, not be taxable in the hands of Mrs. C.
+
+In case the property was gifted to Mr. A's son, the clubbing provisions under
+section 64 would not apply, since the son is not a minor child. Therefore,
+the income of ` 2,10,000 from letting out of property gifted to the son
+would be taxable in the hands of the son.
+
+It may be noted that the provisions of section 56(2)(x) would not be
+attracted in the hands of the recipient of house property, since the receipt
+of property in each case was from a "relative" of such individual. Therefore,
+the stamp duty value of house property would not be chargeable to tax in
+the hands of the recipient of immovable property, even though the house
+property was received by her or him without consideration.
+
+Note - The first part of the question can also be answered by applying the
+provisions of section 64(1)(vi) directly to include the income of ` 2,10,000
+arising to Mrs. C in the hands of Mr. A. [without first applying the provisions
+of section 27(i) to deem Mr. A as the owner of the house property transferred
+
+© The Institute of Chartered Accountants of India
+4.32         INCOME TAX LAW
+
+to his wife Mrs. B without consideration], since section 64(1)(vi) speaks of
+clubbing of income arising to son's wife from indirect transfer of assets to her
+by her husband's parent, without consideration. Gift of house property by
+Mr. A to Mrs. C, via Mrs. B, can be viewed as an indirect transfer by Mr. A to
+Mrs. C.
+
+4. Section 64(1) of the Income-tax Act, 1961 provides for the clubbing of
+       income in the hands of the individual, if the income earned is from the
+       assets transferred directly or indirectly to the spouse of the individual,
+       otherwise than for adequate consideration. In this case Smt. Rani received a
+       gift of ` 2,00,000 from her husband which she invested in her business. The
+       income to be clubbed in the hands of Smt. Rani's husband for A.Y.2026-27
+       is computed as under:
+
+Particulars                                         Smt. Rani's      Capital
+                                                       Capital   Contribution
+                                                                               Total
+                                                   Contribution   Out of gift
+                                                                      from        `
+                                                           `                   3,00,000
+                                                                    husband    2,00,000
+                                                                               5,00,000
+                                                                         `
+                                                                               1,50,000
+Capital as at 1.4.2024                             3,00,000                 -  6,50,000
+Investment on 10.04.2024                           3,00,000      2,00,000
+out of gift received from her                                    2,00,000      3,90,000
+husband                                            1,50,000
+                                                   4,50,000      2,00,000
+Profit for F.Y. 2024-25 to be                      2,70,000      1,20,000
+apportioned on the basis of
+capital employed on the first
+day of the previous year i.e.,
+on 1.4.2024
+Capital employed as at
+1.4.2025
+Profit for F.Y.2025-26 to be
+apportioned on the basis of
+capital employed as at
+1.4.2025 (i.e., 45 : 20)
+
+Therefore, the income to be clubbed in the hands of Smt. Rani's husband for
+A.Y.2026-27 is ` 1,20,000.
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.33
+              IN ASSESSEE'S TOTAL INCOME
+
+5. Clubbing of income and other tax implications
+
+As per the provisions of section 64(1A), in case the marriage of the parents
+subsist, the income of a minor child shall be clubbed in the hands of the
+parent whose total income, excluding the income of the minor child to be
+clubbed, is greater. In this problem, it has been assumed that the marriage
+of Mr. B and Mrs. B subsists.
+
+Further, in case the income arises to the minor child on account of any
+manual work done by the child or as a result of any activity involving
+application of skill, talent, specialized knowledge or experience of the child,
+then, the same shall not be clubbed in the hands of the parent.
+
+Tax implications
+
+(i) Income of ` 45,000 from Mr. B's profession shall be taxable in the
+       hands of Mr. B under the head "Profits and gains of business or
+       profession".
+
+(ii) Salary of ` 1,000 (` 76,000 less standard deduction under section
+       16(ia) of ` 75,000) shall be taxable as "Salaries" in the hands of Mrs. B.
+
+However, if Mrs. B exercises the option of shifting out of default tax
+regime, salary of ` 26,000 (` 76,000 less standard deduction under
+section 16(ia) of ` 50,000) shall be taxable as "Salaries".
+
+(iii) Income from fixed deposit of ` 10,000 arising to the minor son D, shall
+       be clubbed in the hands of the father, Mr. B as "Income from other
+       sources", since Mr. B's income is greater than income of Mrs. B before
+       including the income of the minor child.
+
+As per section 10(32), income of a minor child which is includible in
+the income of the parent shall be exempt to the extent of ` 1,500 per
+child if such parent exercises the option of shifting out of the default
+tax regime provided under section 115BAC(1A). The balance income
+would be clubbed in the hands of the parent as "Income from other
+sources".
+
+(iv) Income of ` 95,000 arising to the minor daughter P from sports shall
+       not be included in the hands of the parent, since such income has
+       arisen to the minor daughter on account of an activity involving
+       application of her skill.
+
+© The Institute of Chartered Accountants of India
+4.34  INCOME TAX LAW
+
+       (v) Income of ` 1,95,000 arising to minor son D from lottery shall be
+               included in the hands of Mr. B as "Income from other sources", since
+               Mr. B's income is greater than the income of Mrs. B before including
+               the income of minor child.
+
+               Note ­ Mr. B can reduce the tax deducted at source from such lottery
+               income while computing his net tax liability.
+
+6. As per section 64(1)(iv), in computing the total income of any individual,
+       there shall be included all such income as arises directly or indirectly to the
+       spouse of such individual from assets transferred directly or indirectly to the
+       spouse by such individual otherwise than for adequate consideration or in
+       connection with an agreement to live apart.
+
+       Accordingly, ` 50,000, being the amount of interest on loan received by
+       Ms. Nisha, wife of Mr. Nishant, would be includible in the total income of
+       Mr. Nishant, since such loan was given by her out of the sum of money
+       received by her as gift from her husband.
+
+       Since the capital was invested in business by Ms. Nisha on 1st April, 2025,
+       and capital invested was entirely out of the funds gifted by her husband, the
+       entire loss of ` 15,000 from the business carried on by Ms. Nisha would also
+       be includible in the total income of Mr. Nishant.
+
+       Since income includes loss as per Explanation 2 to section 64, clubbing
+       provisions would be attracted even if there is loss and not income.
+
+       The short-term capital gain of ` 25,000 (` 75,000, being the sale
+       consideration less ` 50,000, being the cost of acquisition) arising in the
+       hands of Ms. Nisha from sale of shares acquired by investing the interest
+       income of ` 50,000 earned by her (from the loan given out of the sum gifted
+       to her by her husband), would not be included in the hands of Mr. Nishant.
+
+       Income from the accretion of the transferred asset is not liable to be
+       included in the hands of the transferor and therefore such income is taxable
+       in the hands of Ms. Nisha. Since securities transaction tax has been paid,
+       such short-term capital gain on sale of listed shares is taxable@20% in the
+       hands of Ms. Nisha.
+
+© The Institute of Chartered Accountants of India
+INCOME OF OTHER PERSONS INCLUDED                   4.35
+              IN ASSESSEE'S TOTAL INCOME
+
+7. (i) Gift received from non-relative by minor daughter Mahi
+
+Gift of ` 85,000 received by minor daughter Mahi, from non-relative
+would be taxable, since the amount of gift exceeds ` 50,000. It would
+be included in the hands of her father, Mr. Naresh Yadav, since his
+income before considering clubbing provisions is higher than that of
+his wife.
+
+Exemption of ` 1,500 would be allowed in respect of the aggregate
+income of minor daughter Mahi so included in the hands of
+Mr. Naresh Yadav under section 10(32)
+
+(ii) Prize money of ` 3,00,000 in National Sports Competition/Interest
+       on debentures received by minor son Nonu
+
+Income derived by a minor child from any activity involving
+application of his/her skill, talent, specialised knowledge and
+experience is not to be included in the hands of parent. Hence, the
+prize money of ` 3,00,000 won in National Sports Competition by
+minor son Nonu from exercise of special talent would not be included
+in the income of either parent.
+
+However, interest of ` 25,000 on debentures has to be included in the
+hands of her father, Mr. Naresh Yadav, even if the investment is made
+out of income arising from application of special talent.
+
+Exemption of ` 1,500 would be allowed in respect of the aggregate
+income of minor son Nonu so included in the hands of Mr. Naresh
+Yadav under section 10(32).
+
+8. Computation of Taxable income of Mr. Mahadev for A.Y. 2026-27
+
+                                  Particulars                       `
+                                                                5,65,000
+Professional income (bhajan singer)
+                                                                       Nil
+Income of minor son ­ Golu
+
+- Income from winning singing reality show on T.V.
+   Income derived by a minor child from any activity
+   involving application of his/her skill, talent, specialized
+   knowledge and experience is not to be included in the
+   hands of parent. Hence, ` 2,50,000 earned by minor son
+   Golu from reality show on TV would not be included in the
+   income of either parent.
+
+© The Institute of Chartered Accountants of India
+4.36                      INCOME TAX LAW
+
+- Cash gift received by Golu from friend of Mr. Mahadev on        Nil
+
+winning the show
+
+The cash gift received by his minor son Golu (not on
+account of her skill) from his friends would not be taxable,
+since its value does not exceed ` 50,000.
+
+Income of minor married daughter ­ Gudia
+
+Interest income on deposit with Ramu & Jay Pvt Ltd. 40,000
+
+Less: Exemption under section 10(32) [Not allowable]  Nil 40,000
+
+[Income of minor daughter would be included in the hands of
+Mr. Mahadev, since his income, before including minor
+daughter's income, is higher than his wife's income.]
+
+Taxable Income                                                 6,05,000
+
+Computation of Taxable income of Mrs. Dariya for A.Y. 2026-27
+
+                  Particulars                                  `
+
+Salary income (computed)                                       3,80,000
+
+Loan received from Ramu & Jay (Pvt) Ltd.                          Nil
+
+[Such loan amount would not be considered as deemed
+dividend under section 2(22)(e), even though Mrs. Dariya has
+substantial interest (holding 20% shares or more) in the Ramu
+& Jay (Pvt) Ltd., a closely held company, since the company
+does not have any accumulated profits on account of losses
+incurred in last 2 years from inception]
+
+Taxable Income                                                 3,80,000
+
+© The Institute of Chartered Accountants of India
+

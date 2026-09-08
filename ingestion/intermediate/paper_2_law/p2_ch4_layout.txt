@@ -1,0 +1,4216 @@
+CHAPTER  4
+
+SHARE CAPITAL
+AND DEBENTURES
+
+                                     LEARNING OUTCOMES
+
+At the end of this chapter, you will be able to:
+
+ Know about the Kinds of Share Capital
+ Explain the basic requirements for issue of Share Certificates,
+
+      Voting Rights and Variation of Shareholders' Rights
+ Explain Calls on Unpaid Shares
+ Know about the Time Period permitted for delivery of
+
+      Certificates of Securities
+ Understand the application of Securities Premium Amount
+ Identify prohibition on issue of Shares at a Discount
+ Understand the issue of Sweat Equity Shares, Issue and
+
+      Redemption of Preference Shares and creation of Capital
+      Redemption Reserve Account
+ Know about the Transfer and Transmission of Securities,
+      Refusal to Register and Appeal against Refusal
+4.2  CORPORATE AND OTHER LAWS
+
+ Explain the concepts relating to the Alteration of Share
+      Capital and Notice to Registrar thereof
+
+ Understand the concept relating to Further issue of Share
+      Capital
+
+ Know about the issue of Bonus Shares, Reduction of Share
+      Capital, Buy-Back of Shares and applicable restrictions
+      thereon
+
+ Know about issue of Debentures and creation of Debenture
+      Redemption Reserve Account
+
+ Identify the Punishments and penalties for various offences
+      including impersonation.
+SHARE CAPITAL AND DEBENTURES  4.3
+
+ CHAPTER OVERVIEW
+
+This chapter explains the provisions contained in Chapter IV (comprising Section
+43 to 72) of the Companies Act, 2013 (hereinafter referred to as the Act or this Act)
+regarding the `Share Capital and Debentures', along with relevant procedural
+aspects explained in the Companies (Share Capital and Debentures) Rules, 2014.
+
+Share Capital and Debentures
+         (Sections 43-72)
+
+Concepts relating to Shares  Concepts relating to Debentures
+       (Sections 43-70)                   (Section 71)
+
+    1. INTRODUCTION
+
+   Chapter IV Consists of sections 43 to 72 as well as the Companies (Share
+                      Capital and Debentures) Rules, 2014.
+
+Finance, the lifeblood for running the affairs of a company, can be raised, inter-alia,
+by issuing shares and debentures. In fact, shares and debentures are financial
+instruments which help in arranging funds for the company. Under the Companies
+Act, 2013, they are jointly referred to as "securities".
+
+Shares represent ownership interest in a company with entrepreneurial risks and
+rewards whereas debentures depict lenders' interest in the company with limited
+risks and returns.
+
+Sometimes, after the issue of capital, a company may either alter or reduce the
+share capital depending upon the exigencies of the situation. The company has to
+follow the requisite provisions for alteration or reduction of share capital.
+4.4                       CORPORATE AND OTHER LAWS
+
+Both the shares and debentures are presented in the Balance Sheet on the liabilities
+side of the issuer company and on the assets side of the investor and lender
+respectively.
+
+Legal provisions relating to these instruments are covered under Chapter IV of the
+Companies Act, 2013 (comprising sections 43 to 72) and the Companies (Share
+Capital & Debentures) Rules, 2014 as amended from time to time along with
+endorsement in the company formation documents or approved at the suitable
+company forum, wherever necessary.
+
+    2. SHARE CAPITAL-TYPES
+
+WHAT ARE SHARE AND STOCK?
+
+Share ­ Definition & Description
+
+Section 2(84) of the Act defines share as a share in the share capital of a company
+and includes stock.
+
+Capital of a company is termed as share capital, which is divided into units, having
+a certain face value. Each such unit is termed as share.
+
+New London & Brazilian Bank v. Brockle Bank1
+
+A share is not a sum of money..., but is an interest measured in a sum of money,
+and made up of various rights, contained in the contract, including the right to a
+sum of money of a more or less amount.
+
+Around two decade later, J. Farwell in landmark case of Borland's Trustee v. Steel
+Brothers & Co Ltd2 place his trust in the opinion stated above, and observe that
+share is the interest of a shareholder in the company measured by a sum of money,
+for the purpose of liability in the first place and of interest in the second, and also
+consists of a series of mutual covenants entered into by all the shareholders inter
+se in accordance with the provisions of the Companies Act and the Articles of
+Association.
+
+1 (1882) 21 Ch D 302 (F)
+2 (1901) 1 Ch 279
+SHARE CAPITAL AND DEBENTURES  4.5
+
+Example 1 - Sun Bakers Limited has authorised share capital of ` 50 lakh. The face
+value of each unit of capital or `share' is ` 10. In this case, it can be said that the
+company has 5 lakh shares of ` 10 each. When these shares (either in part or whole)
+are allotted to various persons, they, on the date of allotment, become shareholders
+of the company.
+
+Note: Company limited by share or those which having share capital has to quote
+in their memorandum - The share capital of the capital is _ _ _ _ _ rupees, divided
+into _ _ _ _ _ shares of _ _ _ rupees each.
+
+Stock - Description
+
+The definition of `share' states that the term `share' includes `stock'. If a company
+undertakes to aggregate the fully paid up shares of various members as per their
+requests and merge those shares into one fund, then such fund is called `stock'. In
+more simple words we can say that `stock' is a collection or bundle of fully paid-
+up shares.
+
+Section 61 (1) (c) of the Act, empower a limited company having a share capital to
+convert all or any of its fully paid-up shares into stock, and reconvert that stock
+into fully paid-up shares of any denomination.
+
+Students are advised to take note of - What make stock different?
+
+Stock is stated in lump sum whereas a `share' being the smallest unit is having face
+value. Originally shares are issued to the shareholders while in case of stock, the
+fully paid-up shares of the members are converted into `stock' afterwards. Thus,
+`stock' is not issued originally but is obtained by conversion of fully paid-up shares.
+
+KINDS OF SHARE CAPITAL [SECTION 43]
+
+Broadly, there are two kinds of share capital of a company limited by shares; Equity
+share capital and Preference share capital. Equity Share capital can be further
+segregated into two categories based upon rights. Following diagram depicts kinds
+of share capital;
+4.6                 CORPORATE AND OTHER LAWS
+
+                      Kinds of share capital
+
+Equity share capital                     Preference share capital
+
+with voting rights   with differential    carries preferential right
+                        rights as to      w.r.t. payment of dividend
+                                         and repayment of capital at
+                    dividend, voting or
+                          otherwise           time of winding up
+
+Preference Share Capital [explanation (ii) to section 43]
+
+Preference share capital is that part of issued share capital of any company limited
+by shares which carries or would carry a preferential right in respect to:
+
+a. Payment of dividend, may be absolute amount or amount calculated at
+       fixed rate (which may either be free of or subject to income-tax); and
+
+b. Repayment of capital, in the case of winding up or repayment of capital.
+       This preference exists only up to amount paid up or deemed to have been
+       paid up on the shares, whether or not, there is a preferential right to the
+       payment of any fixed premium or premium on any fixed scale, specified in
+       the memorandum or articles of the company, unless there is an agreement
+       in contrary to this.
+
+Example 2 ­ Ind-swift Pharma Labs Limited and Panacea Biotec Limited issued
+preference share.
+
+Ind-swift Pharma provides that the preferential dividend may be a fixed amount
+say ` 5,00,000 in one year, payable to preference shareholders before anything is
+paid to the ordinary shareholders.
+
+Whereas the Panacea Biotec provides that the amount payable as preferential
+dividend may be calculated at a fixed rate @ 8 percent of the nominal value of
+each share.
+SHARE CAPITAL AND DEBENTURES                              4.7
+
+Note:
+
+1. Nothing contained in this Act shall affect the rights of the preference
+shareholders who are entitled to participate in the proceeds of winding up before
+the commencement of this Act.
+
+2. Preference shareholders may also participate in equity pool post the
+preferential entitlements.
+
+But to find out their rights of participation we must look within the four corners of
+the articles of association and the terms of the issue.
+
+If the right to participate in the surplus is not specified in the terms of the issue,
+preference shares are presumed to be not participating. This was affirmed by the
+House of Lords in Scottish Insurance Corpn Ltd vs. Wilsons & Clyde Coal Co Ltd.3
+
+3. Preference shares are always presumed to be cumulative and the accumulation
+of dividend can be excluded only by a clear provision in the articles of association4
+
+Illustration ­ Q&A
+
+Can a company have only preference share capital?
+
+Answer ­ It may be noted that while a company may have only equity share capital
+but it cannot have only preference share capital. This is because preference
+shareholders have certain `preferential rights' over the equity shareholders.
+Thus, in the absence of equity share capital, there cannot be preferential share capital5
+
+Equity Share Capital [Section 43(a) read with explanation (i) to section 43]
+
+Shares capital which are not preference shares capital are termed as equity shares
+capital. Equity share capital are further classified as;
+
+a. Equity share with voting right (Plain vanilla, because equitable/same voting
+       rights) or
+
+b. Equity share with differential rights with respect to dividend or voting rights
+       or otherwise in accordance with Rule 4 of the Companies (Share capital and
+       Debenture) Rules, 2014.
+
+3 1949 AC 462 HL
+4 Staples v. Eastman Photographic Materials Co (1896)
+5 Bihar State Financial Corporation vs. CIT Bihar (1976)
+4.8  CORPORATE AND OTHER LAWS
+
+Equity shares are often referred as to ordinary share and sometime as common
+share.
+
+Equity Shares with Differential Rights [Rule 4 of the Companies (Share
+capital and Debenture) Rules, 2014]
+
+I. Conditions to issue shares with differential rights
+
+As per sub-rule 1, a company limited by shares may issue equity shares with
+differential rights as to dividend, voting or otherwise, if it complies with the
+following conditions:
+
+a. The articles of association of the company authorizes the issue of these
+       shares.
+
+b. Approval of the shareholders is obtained by passing of ordinary resolution
+       at the general meeting. A listed public company is required to pass the
+       resolution through postal ballot.
+
+c. The voting power in respect of shares with differential rights of the company
+       shall not exceed 74% of total voting power at any point of time.
+
+d. The company has not defaulted in filing annual accounts and annual
+       returns for the 3 financial years preceding the year in which it was decided
+       to issue such shares.
+
+e. the company has no subsisting default in the payment of a declared dividend
+       to its shareholders or repayment of its matured deposits or redemption of its
+       preference shares or debentures that have become due for redemption or
+       payment of interest on such deposits or debentures or payment of dividend.
+
+f. The company has not defaulted in the:
+
+       1. Payment of dividend on preference shares, or
+
+       2. Repayment of any term loan from a public financial institution (PFI) or
+               State level financial institution (SFI) or scheduled Bank that has become
+               repayable or interest payable thereon, or
+
+       3. Dues with respect to statutory payments relating to its employees to
+               any authority, or
+
+       4. Crediting the amount in Investor Education and Protection Fund.
+SHARE CAPITAL AND DEBENTURES  4.9
+
+Note:
+A company may issue equity shares with differential rights upon expiry of five
+years from the end of the financial year in which default, was made good.
+
+g. the company has not been penalized by Court or Tribunal during the last
+       three years of any offence under:
+       1. The Reserve Bank of India Act, 1934,
+       2. The Securities and Exchange Board of India Act, 1992,
+       3. The Securities Contracts Regulation Act, 1956,
+       4. The Foreign Exchange Management Act, 1999 or
+       5. Any other special Act, under which such companies being regulated by
+               sectoral regulators.
+
+Note:
+
+1. Equity shares with differential rights issued by any company under the
+       provisions of the Companies Act, 1956 and the rules made thereunder, shall
+       continue to be regulated under such provisions and rules.6
+
+2. Here it is also worth noting that; before the amendment made in year 2000,
+       to the Companies Act 1956, the shares with differential voting rights were not
+       permitted to be issued. Though such differential voting rights existed prior to
+       the enactment of the Companies Act 1956.
+
+II. Contents of Explanatory statement (annexed to notice)
+
+Sub-Rule 2 provides the explanatory statement annexed to the notice of the
+general meeting or of a postal ballot shall contains various matters like particulars
+of the issue including its size, details of differential rights, etc.
+
+III. Prohibition on Conversion
+
+Sub-Rule 3 prohibit the conversion of existing equity share capital with voting rights
+into equity share capital carrying differential voting rights and vice versa.
+
+IV. Disclosure in the Board's Report
+
+Sub-Rule 4 requires, the Board of Directors to disclose the specified particulars, in
+
+6 W.e.f 18th June 2014, inserted though G.S.R. 413.(E). - Companies (Share Capital and
+Debentures) Amendment Rules, 2014 after Rule 4(6).
+4.10                                  CORPORATE AND OTHER LAWS
+
+the Board's Report for the financial year in which the issue of equity shares with
+differential rights was completed.
+
+V. Rights to the holders of the equity shares with differential rights
+
+Sub-rule 5 states that subject to the differential rights, the holders of the equity
+shares with differential rights shall enjoy all other rights such as bonus shares, rights
+shares, etc., which the holders of equity shares are entitled to.
+
+VI. Particulars of shares to be maintained in the register of members
+
+Sub-rule 6 provides that where a company issues equity shares with differential
+rights, the Register of Members maintained under section 88 shall contain all
+the relevant particulars of the shares so issued along with details of the
+shareholders.
+
+ Section 43 shall not apply to:
+
+ 1. Specified IFSC Public Company, where memorandum of association or
+         articles of association of such company provides for it.7
+
+ 2. Private company, where memorandum or articles of association of the
+         private company so provides.
+
+    3. CERTIFICATE OF SHARES [SECTION 46]
+
+PRIMA FACIE EVIDENCE OF TITLE
+Shares Issued and held in physical form
+As per sub-section 1, a certificate specifying the shares held by any person, shall
+be prima facie evidence of the title of the person to such shares if issued;
+a. Under the common seal if any of the company or
+b. Signed by two directors or
+c. Signed by a director and the Company Secretary, wherever the company has
+
+       appointed a Company Secretary
+
+7 GSR 8 (E), dated 4th January, 2017
+SHARE CAPITAL AND DEBENTURES  4.11
+
+Note:
+
+1. Since w.e.f. 29-05-2015 through Companies (Amendment) Act 2015,
+       requirement to have common seal is optional for companies, hence physical
+       share certificate issued under sign of two director or of one director along
+       with company secretary is valid.
+
+2. If the composition of the Board permits of it, at least one of the aforesaid two
+       directors shall be a person other than the managing or whole-time director
+
+3. A director shall be deemed to have signed the share certificate if his signature
+       is printed thereon as a facsimile signature by means of any machine,
+       equipment or other mechanical means such as engraving in metal or
+       lithography, or digitally signed, but not by means of a rubber stamp, provided
+       that the director shall be personally responsible for permitting the affixation
+       of his signature thus and the safe custody of any machine, equipment or other
+       material used for the purpose.
+
+Shares held in Depository Form
+
+As per sub-section 4, where a share is held in depository form, the record of the
+depository is the prima facie evidence of the interest of the beneficial owner.
+
+Students are advised to take note:
+
+Requirement regarding securities issued in Dematerialised form, can be referred in
+Rule 9 and Rule 9A of the Companies (Prospectus and Allotment of Securities) Rules,
+2014.
+
+Rule 9A was inserted by the Companies (Prospectus and Allotment of Securities)
+Third Amendment Rules, 2018, w.e.f. 2-10-2018 and requires every unlisted public
+company to issue the securities only in dematerialised form and also facilitate
+dematerialisation of all its existing securities.
+4.12  CORPORATE AND OTHER LAWS
+
+ISSUE OF RENEWED/DUPLICATE SHARE CERTIFICATE [SUB-SECTION 2
+READ WITH RULE 6 OF THE COMPANIES (SHARES AND DEBENTURES)
+RULES, 2014]
+
+Issue of renewed certificate
+
+A case wherein originally issued share certificate has been defaced, mutilated or
+torn, a renewed share certificate in replacement shall be issued, in lieu of surrender
+of such original certificate, to the company.
+
+Note:
+
+1. A company may replace all the existing certificates by new certificates upon
+       sub-division or consolidation of shares or merger or demerger or any
+       reconstitution without requiring old certificates to be surrendered
+
+2. On renewed certificate it shall be stated that it is "Issued in lieu of share
+       certificate No..... sub-divided/replaced/on consolidation"
+
+3. Company may charge such a fee as board may think fit, but not exceeding
+       ` 50 per certificate; and no fee shall be payable pursuant to scheme of
+       arrangement sanctioned by the High Court or Central Government.
+
+Issue of duplicate certificate
+
+A case wherein share certificate originally issue has been lost or destroyed, a share
+certificate in duplicate may be issued if board is consented for the same based
+upon evidences produced.
+
+Students are advised to take note:
+
+1. Company may charge fees as the Board thinks fit, not exceeding rupees fifty
+       per certificate
+
+2. On the face of duplicate certificate, it shall be stated prominently that it is
+       "duplicate issued in lieu of share certificate No......" and the word "duplicate"
+       shall be stamped or printed prominently
+
+3. In case unlisted companies, the duplicate share certificates shall be issued
+       within a period of three months and in case of listed companies such
+       certificate shall be issued within 45 days, from the date of submission of
+       complete documents with the company respectively.
+SHARE CAPITAL AND DEBENTURES  4.13
+
+Record of renewed and duplicate certificate to be maintained
+
+Particulars of every renewed and duplicate share certificates maintained in Form
+SH 2 with cross reference to register of members, in shape of register.
+
+The register shall be kept at the registered office of the company or at such other
+place where the Register of Members is kept and it shall be preserved permanently
+and shall be kept in the custody of the company secretary of the company or any
+other person authorized by the Board for the purpose.
+
+All entries made in such register shall be authenticated by the company secretary
+or such other person as may be authorised by the Board.
+
+MANNER OF ISSUE OF CERTIFICATES/DUPLICATE CERTIFICATES
+
+Sub-section 3 overrule the articles of a company, and say the issue of a certificate
+of shares or the duplicate thereof, the particulars to be entered in the register of
+members and other matters shall be in manner and form as prescribed in rule 5, 6,
+and 7 of the Companies (Shares and Debentures) Rules, 2014.
+
+Provisions contained in rule 5 of the Companies (Shares and Debentures) Rules, 2014
+applies where shares are not in demat form.
+
+Pre-requisites for issue of share certificate
+Share Certificate shall be issued on surrender of letter of allotment or fractional
+coupons of requisite value (save in cases of issues against letters of acceptance or
+of renunciation, or in cases of issue of bonus shares); in pursuance of a resolution
+passed by the Board.
+
+Form of share certificate
+
+Certificate of share shall be in Form SH 1 or as near thereto as possible and shall
+specify:
+
+a. The name(s) of the person(s) in whose favor the certificate is issued,
+
+b. The shares to which it relates and
+
+c. The amount paid-up thereon.
+
+Recording of particulars stated in share certificate
+
+The particulars of every share certificate issued in accordance with sub-rule (1) shall
+be entered in the Register of Members maintained in accordance with the
+provisions of section 88 along with the name(s) of person(s) to whom it has been
+issued, indicating the date of issue.
+4.14                       CORPORATE AND OTHER LAWS
+
+Maintenance of share certificate forms and related books and documents
+(Rule 7 of the Companies (Shares and Debentures) Rules, 2014)
+
+All blank forms to be used for issue of share certificates shall be printed and the
+printing shall be done only on the authority of a resolution of the Board and these
+shall be consecutively machine-numbered. Such forms shall be kept in the custody
+of the secretary or such other person as the Board may authorise for the purpose.
+
+All books pertain to record of share certificates shall be preserved in good order
+not less than thirty years and in case of disputed cases, shall be preserved
+permanently.
+
+All certificates surrendered to a company shall immediately be defaced by stamping
+or printing the word "cancelled" in bold letters and may be destroyed after the
+expiry of three years from the date on which they are surrendered, under the
+authority of a resolution of the Board and in the presence of a person duly
+appointed by the Board in this behalf.
+
+Note:
+
+1. Share Certificate is not a negotiable instrument.
+
+2. Company shall issue only one share certificate in all those cases where shares
+       are held by more than one person jointly with others and delivery of share
+       certificate to any one of them will amount to delivery to all of them.
+
+PUNISHMENT FOR ISSUING DUPLICATE CERTIFICATE OF SHARES WITH
+INTENT TO DEFRAUD [Sub-section 5]
+
+If a company with intent to defraud issues a duplicate certificate of shares, the
+punishment shall be as specified in table;
+
+             Liable        Minimum Fine               Maximum Fine
+           Company
+                                                      Higher of:
+     Every officer of the
+company who is in default  Five times the face value   Ten times the face
+                            of the shares involved    value of such shares
+
+                                                                  or
+
+                                                      Rupees ten crore
+
+                           And
+
+                           Liable for action under section 447
+
+                           Note ­ Provisions of Section 447 already explained
+
+                           as separate topic under chapter 3 of this module.
+SHARE CAPITAL AND DEBENTURES                           4.15
+
+Example 3 ­ It is observed that Golden Apple Transport Limited issued share
+certificates in duplicate with intend to defraud. The total shares in regard to which
+such certificates are issued are nearly 12,00,000. Face value of each share is ` 10.
+The maximum fine that can be imposed on company shall be ` 12,00,00,000.
+
+    4. VOTING RIGHTS [SECTION 47]
+
+VOTING RIGHTS OF MEMBERS HOLDING EQUITY SHARE CAPITAL [SUB-
+SECTION 1]
+
+Subject to the provisions of section 43, section 50 (2) and section 188 (1)
+
+a. Every member of a company limited by shares and holding equity share
+       capital therein, shall have a right to vote on every resolution placed before
+       the company; and
+
+b. His voting right on a poll shall be in proportion to his share in the paid-up
+       equity share capital of the company. But in case of Nidhi Company, no
+       member shall exercise voting rights on poll in excess of five per cent, of
+       total voting rights of equity shareholders.8
+
+Note:
+
+1. As per section 2(93) Voting right means the right of a member of a company
+       to vote in any meeting of the company or by means of postal ballot.
+
+2. Section 106 specify provisions regarding restriction on voting rights.
+
+3. Section 43 has overriding effect on section 47, hence holders of equity share
+       capital with differential rights will exercise voting right as per clauses of article
+       of association or terms of issue; rather on proportional basis.
+
+VOTING RIGHTS OF MEMBERS HOLDING PREFERENCE SHARE CAPITAL
+[SUB-SECTION 2]
+
+Every member of a company limited by shares who is holding any preference share
+capital shall, in respect of such capital, have a right to vote on resolution;
+
+a. Placed before the company which directly affect the rights attached to his
+       preference shares, and
+
+8 Notification No. GSR 465 (E), dated 5th June, 2015.
+4.16                         CORPORATE AND OTHER LAWS
+
+b. For the winding up of the company, or for the repayment or reduction of
+       its equity or preference share capital.
+
+Note:
+
+Voting right of preference share holder, on a poll shall be in proportion to his share
+in the paid-up preference share capital of the company.
+
+Second Proviso to section 47 (2) empowers preference shareholder with right to
+vote on all the resolutions placed before the company, in case where the dividend
+in respect of his class of preference shares has not been paid for a period of two
+years or more.
+
+First Proviso to section 47 (2), provides that in case of resolutions wherein both equity
+shareholders and preference shareholders are entitled to vote, the proportion of the
+voting rights of equity shareholders to the voting rights of the preference
+shareholders shall be in the same proportion as the paid-up capital in respect of the
+equity shares bears to the paid-up capital in respect of the preference shares.
+
+Summary of section 47
+
+                             Voting Rights
+
+        Equity Shares                                 Preference Shares (In
+                                                 proportion of paid-up capital)
+
+        On every resolution   Dividend not       Winding up                      Directly
+         placed before the   paid for 2 years                                    affecting
+                                                                                 interest
+              company            or more
+
+Normal                  Equity shares having
+                         Differential Rights
+
+In proportion of paid-  As defined in Articles/
+        up capital           Terms of issue
+
+Example 4 ­ Indswift Pharma Labs Limited raised the capital of 300 crore through
+issue of single series of 8% preference share apart from 1200 crore ordinary shares.
+Indswift last paid dividend to such preference share holder, for 2021-22.
+
+Preference shareholder w.e.f 1st April 2024 assume the right to vote on any
+resolution placed before company. But till 31st March 2024 they can vote only on
+that resolution which directly affect the rights attached to his preference shares or
+SHARE CAPITAL AND DEBENTURES  4.17
+
+involve matter of the winding up of the company, or for the repayment or reduction
+of its equity or preference share capital.
+
+The proportion of voting right of equity shareholders to the voting rights of the
+preference shareholders shall be 4:1.
+
+Section 47 shall not apply to:
+
+1. A Specified IFSC Public Company, where memorandum of association or
+       articles of association of such company provides for it.9
+
+2. A private company, where memorandum or articles of association of the
+       private company so provides.
+
+    5. VARIATION OF SHAREHOLDERS' RIGHTS
+
+          [SECTION 48]
+
+A shareholder who was given the right to purchase the shares of the company on
+a pre-emptive basis was held to constitute a special class distinguishing him from
+other shareholders who did not have any such right, and consequently, his right
+was not permitted to be taken away without his consent.10 If it is proposed to
+change the rights of any class, certain procedure has to be followed.
+
+Section 48 allows the variation, if three conditions (First two stated by sub-section
+1, while third and last one by sub-section 2) has been met.
+
+First - There should be a provision in the memorandum or articles of the
+company entitling it to vary such class rights, in absence of same; the terms of
+issue of the shares of that class not prohibiting such a variation.
+
+Second - The holders of at-least 75% of the issued shares of that class must have
+given their consent in writing or pass a special resolution sanctioning the
+variation at a separate class meeting.
+
+Proviso to sub-section 1, provides if variation by one class of shareholders affects
+the rights of any other class of shareholders, the consent of three-fourths of such
+other class of shareholders shall also be obtained and the provisions of this
+section shall apply to such variation.
+
+9 GSR 8 (E), dated 4th January, 2017
+10 Cumbrian Newspapers Group Ltd v. Cumberland Sf Westmorland Herald Newspaper &
+Printing Co Ltd (1987) 2 Comp LJ39.
+4.18  CORPORATE AND OTHER LAWS
+
+Third - The holders of at least 10 per cent of the shares of that class who did not
+consent to or vote in favour of the resolution may apply to the Tribunal and then
+variation shall not take effect unless and until it is confirmed by the Tribunal.
+
+Procedural Aspects for confirmation from tribunal
+
+An application should be made within 21 days of the date of consent or resolution.
+It can be made by one (or more of their number) as they may appoint in writing;
+on behalf of the shareholders entitled to make the application
+
+Sub-section 3 provides, the decision of the Tribunal have binding effect upon
+shareholders of the class. Further sub-section 4 requires the company to file a
+copy of the order with the Registrar within 30 days of the date of the order.
+
+Illustration - MCQ
+
+DBS Chemicals Limited issue ordinary share of different classes. DBS planned to vary
+rights of one the class wherein there were only 105 holders. 100 out of 105 holders
+own 0.5% shares of that class, whereas each of remaining 5 holders hold 10% shares
+of that class. Presuming 100 holder who own 0.5% shares already signed/authorised
+the consent letter sanctioning the variation, how many holders out of such 5 need to
+authorise the said letter to approve the variation.
+
+Options;
+
+a. 0
+
+b. 1
+
+c. 3
+
+d. 5
+
+Answer ­ c. (Refer section 48(1)
+
+The holders of at-least 75% of the issued shares of that class must have given
+their consent in writing or pass a special resolution sanctioning the variation at a
+separate class meeting.
+
+Mind it is 75% of issued shares' holders not 75% of holders.
+SHARE CAPITAL AND DEBENTURES                            4.19
+
+Crux of some of landmark judgements ­ to better understand the `variation'
+
+New issue of preference shares ranking pari-passu with the existing shares does
+not amount to variation so as to require the consent of preference shareholders.11
+
+Cancellation of shares and reduction of capital also do not amount to variation of
+class rights.12
+
+    6. CALLS ON SHARE [SECTION 49 TO SECTION 51]
+
+The liability of a shareholder to pay the full value of the shares held by him, which
+is currently partly paid-up is enforced by making "calls" for payment.
+
+It is worth noting here that every shareholder is under a statutory liability to pay
+the full amount of his shares as section 10(2) declares that "all money payable by
+any member to the company under the memorandum or articles shall be a debt
+due from him to the company".
+
+But the liability to pay this debt arises only when a valid call has been made. Section
+49 lay down the principle of uniformity, whereas section 50 deals with calls in
+advance and section 51 contains the provisions regarding dividend rights on paid-
+up amount.
+
+CALL SHALL BE ON UNIFORM BASIS [SECTION 49]
+
+Calls shall be made on a uniform basis on all shares that are falling under the same
+class.
+
+Note:
+
+1. Usually share with same nominal value are considered as same class, but
+       shares of the same nominal value on which different sums have been paid
+       shall not be deemed, for this purpose, to fall under the same class.
+
+2. A shareholder on whom a regular call for payment has been served may
+       choose to pay only a part of the sum due.
+
+11 White v. Bristol Aeroplane Co Ltd (1953) 2 WLR 144.
+12 Essar Steel Ltd, re, (2005) 59 SCL457 (Guj)
+4.20  CORPORATE AND OTHER LAWS
+
+       Here it is important to consider the debt (of calls made) is not an entire and
+       indivisible debt, therefore, the company may be bound to accept the
+       amount tendered by the shareholder
+
+3. How much to call on partly-paid share?
+
+       This will be the decision of board, subject to clauses to Article and terms of issue.
+
+Example 6 ­ Prism Glass Limited issued three series of equity shares, all carry the
+nominal value of ` 100, and the paid-up value for each series is 100, 80 and 55
+respectively.
+
+All will be considered as different class of shares. Since for first class share is fully paid-
+up, no call can be made, whereas in case of remaining two classes call can be made.
+
+Illustration ­ Q&A
+
+Where a shareholder paid the first two calls after a great delay and neglected to pay
+the third call and the directors, being annoyed, and called upon him to pay the whole
+amount due. In your opinion is call valid?
+
+Answer - A call can't be made on some of the members only, unless they constitute
+a separate class of shareholders, hence such a call shall be invalid.13
+
+CALLS-IN-ADVANCE [SECTION 50]
+
+As per Section 50, a company may, if so authorised by its articles, accept from any
+member the whole or a part of the amount remaining unpaid on any shares held
+by him, although no part of that amount has been called up.
+
+Note
+
+1. Such advance payment will not entitle the member to more voting rights as
+       compared with other members until all have been called upon to pay.
+
+2. Interest can be paid on such advance, if permitted by article. Here it is
+       worth nothing that, where the rate of interest is permitted by the articles on
+       such advance payment, same could be varied by shareholders in general
+       meeting. To illustrate; a rate 6 percent may increase to 10% by
+       shareholders.14
+
+Example 7 - Coriander Masale Limited has issued 10,00,000 equity shares of ` 10
+each on which ` 6 per share has been called till allotment and the first and final call
+
+13 Galloway v. Halle Concerts Society, (1915) 2 Ch 233
+14 CIT v. Manipal Industries Ltd, (1997) 12 SCL 15 (ITAT).
+SHARE CAPITAL AND DEBENTURES  4.21
+
+of ` 4 is yet to be made. Reena holds 10,000 shares on which she has paid whole
+of ` 10 per share. In the upcoming extra-ordinary general meeting of the company
+she wants to exercise her voting rights as the owner of fully paid-up shares.
+However, the company cannot permit her as she does not have voting right in
+respect of the `advance amount' paid by her in respect of first and final call. The
+restriction will continue till the amount is duly called up by the company.
+
+Illustration ­ Q&A
+
+Moon Star Machineries Limited is authorised by its articles to accept the whole or any
+part of the amount of remaining unpaid calls from any member even if no part of
+that amount has been called up by it. `Anand', a shareholder, deposits in advance the
+remaining amount due on his partly paid-up shares without any calls being made by
+the company. Advise the company about the validity of accepting money in advance.
+
+Answer - In view of the authorisation given by the Articles, Moon Star Machineries
+Limited is permitted to accept the advance amount received on unpaid calls from
+Anand. In other words, this is a valid transaction.
+
+PAYMENT OF DIVIDEND IN PROPORTION TO PAID-UP AMOUNT
+[SECTION 51]
+
+The company if so authorised by article, may be permitted to pay dividends in
+proportion to the amount paid-up on each share.
+
+The Board of Directors of a company may decide to pay dividends on pro rata basis
+if all the equity shares of the company are not equally paid-up. However, in the
+case of preference shares, dividend is always paid at a fixed rate.
+
+    7. ISSUE OF SHARES AT A PREMIUM OR
+
+          DISCOUNT [SECTION 52 & SECTION 53]
+
+ISSUE OF SHARES AT A PREMIUM & APPLICATION OF PREMIUM
+[SECTION 52]
+
+Since there is no restriction imposed by the Act on the sale of shares at a premium,
+hence if the market exists, a company may issue its shares at a price higher than
+their face/nominal value. But the Act does regulate the disbursement of the amount
+collected as premium through section 52.
+4.22  CORPORATE AND OTHER LAWS
+
+Note:
+
+1. The power to issue shares at premium need not be specifically provided by
+       AOA.
+
+2. SEBI guidelines have to be observed by listed entities, as regulations indicate
+       when an issue has to be at par and when premium is chargeable.
+
+When a company issues shares at a price higher than their face value, the shares
+are said to be issued at premium and the differential amount is termed as premium.
+
+Example 8 - A share having face value of ` 10 is issued at a price of ` 14. The
+amount over and above the face value of ` 10 i.e. ` 4 is called premium.
+
+Practical Insight
+
+XYZ Luxuries IPO opens on Sep 28, 2022, and closes on Sep 30, 2022. The date of
+listing on NSE SME was October 11, 2022 (Tuesday). Fixed issue price against the
+Face Value of  10 per share is  40 per share. Hence, premium charges is 30 per
+share.
+
+Transfer of premium to Securities Premium Account [Sub-section1]
+
+Sub-section 1 lay-down following principles that shall be observed in regards to
+premium;
+
+a. Premium may be received in cash or in kind.
+
+b. The amount of premium so received, whether in cash or kind, shall be carried
+       to a separate account to be known as the Securities Premium Account.
+
+c. The amount to the credit of share premium account has to be maintained
+       with the same sanctity as paid-up share capital
+
+d. It can be reduced only in the manner of paid-up share capital can be
+       reduced under this act. Liberty is, however, given to use the fund in the sub-
+       section 2 and 3.
+
+Note:
+1. The amount to the credit of the share premium account has to be shown as
+
+       a separate item in the Balance-sheet under Schedule III, Part B of the Act and
+       if it was disposed of either wholly or partly, then disclosure shall be made
+       `how it was disposed'?
+SHARE CAPITAL AND DEBENTURES                               4.23
+
+2. The DCA was of opinion that the amount of premium can't be treated as a
+       free reserve as it is in the nature of a capital reserve.15
+
+3. A reduction of the premium account was allowed under a scheme which
+       experts had approved as fair, just and proper.16
+
+Application of Premium received on Issue of Shares [sub-section 2 & 3]
+
+Sub-section 2 allow the companies to apply securities premium account for:
+
+a. Issue of fully paid bonus shares;
+
+b. Writing off the preliminary expenses;
+
+c. Writing off the issue expenses (expenses including commission paid or
+       discount allowed on any issue of shares or debentures);
+
+d. Premium payable on the redemption (of any preference shares or of any
+       debentures); or
+
+e. Buy-back (purchase of its own shares or other securities under section 68).
+
+Sub-section 3 has overriding effect over sub-section 1 and 2. It restricts the
+application of Securities Premium Account in case of;
+
+Such class of companies, as may be prescribed and whose financial statement
+comply with the accounting standards prescribed for such class of companies under
+Section 133
+
+For the purpose of:
+
+a. Issue of fully paid bonus shares;
+
+b. Writing off the issue expenses (expenses including commission paid or
+       discount allowed on any issue of shares);
+
+c. Buy-back (purchase of its own shares or other securities under section 68).
+
+PROHIBITION ON ISSUE OF SHARES AT DISCOUNT [SECTION 53]
+
+Where the issue price is lower than the face value of the shares, such issue of shares
+is regarded as being issued at discount and the differential amount is known as
+discount.
+
+15 Circular No 3/77 of 15-4-1977
+16 Zee Tele Films Ltd, re, (2005) 124 Comp Cas 102 (Bom).
+            4.24              CORPORATE AND OTHER LAWS
+
+Example 9 - A share having face value of ` 100 is issued at a lower price of ` 95. The
+differential amount of ` 5 is known as discount which is being allowed by the company.
+
+Though title of section used the word prohibited, but indeed issue of share at
+discount is not fully prohibited, it is only restricted especially after the enactment
+of the Companies (Amendment) Act, 2017 (effective from 09th February 2018).
+
+Sub-section 1, except the issue of `Sweat Equity Shares' under section 54 of this
+Act, a company shall not issue shares at discount.
+
+Further, sub-section 2, provides any share issued at discount by company is void.
+
+Sub-section 2A, is overriding provision (to sub-section 1 and 2) inserted though
+Companies (Amendment) Act, 2017 empowers the company to issue shares at
+discount to its creditors as result of converting their debt on company into
+shares as a result of:
+
+a. Statutory resolution plan or
+
+b. Debt restructuring scheme
+
+In accordance with any guidelines or directions or regulations specified by the
+Reserve Bank of India under the Reserve Bank of India Act, 1934 or the Banking
+(Regulation) Act, 1949.
+
+Sub-section 3 provides the penalties that can be imposed where any company fails to
+comply with the provisions of Section 53.
+
+Liable            Penalty
+
+Every officer who is Upto an amount equal to the amount raised through the
+
+in default        issue of shares at a discount or five lakh rupees, whichever
+
+                  is less
+
+Company           Refund all monies received with interest at the rate of twelve
+                  percent per annum from the date of issue of such shares
+
+Note:
+
+It is to be noted that the restrictions mentioned in Sections 52 and 53 shall apply
+only in respect of issue of shares (either equity or preference shares) but not to the
+issue of any debt related products like bonds or debentures whose pricing is mostly
+governed by YTM (yield to maturity) considerations.
+SHARE CAPITAL AND DEBENTURES  4.25
+
+    8. ISSUE OF SWEAT EQUITY SHARES [SECTION 54]
+
+MEANING OF `SWEAT EQUITY SHARES' [SECTION 2(88)]
+
+The term `sweat equity shares' means such equity shares as are issued by a
+company to its directors or employees at a discount or for consideration, other
+than cash, for providing their know-how or making available rights in the nature
+of intellectual property rights or value additions, by whatever name called.
+
+Hence one can say, sweat equity shares are issued to keep the employees of a
+company motivated by making them partner in the growth of the company. Mind
+it, Sweat equity shares is a different concept from Employee stock option in multiple
+ways.
+
+Section 54 lists out the conditions that shall be fulfilled by company prior to issue
+of sweat equity share apart from designates these at equal footing to equity shares.
+STATUS OF SWEAT EQUITY SHARES AND HOLDER THEREOF [SECTION
+54(2)]
+
+Sub-section 2 provides:
+
+a. The rights, limitations, restrictions and provisions as are for the time being
+       applicable to equity shares shall be applicable to the sweat equity shares
+       issued under section 54 of the Act.
+
+b. The holders of sweat equity shares shall rank pari-passu with other equity
+       shareholders.
+
+Pari-passu is a Latin phrase that means "on equal footing"
+
+CONDITIONS FOR ISSUE OF SWEAT EQUITY SHARES [SECTION 54(1)]
+
+According to Section 54 (1), a company may issue sweat equity shares if all of the
+following conditions are fulfilled;
+
+a. Share of that class must be already issued
+
+b. Issue is authorised by a special resolution passed by the company;
+
+c. Resolution specifies the details regarding the number of shares, the current
+       market price, consideration, if any, and the class or classes of directors or
+       employees to whom such equity shares are to be issued;
+          4.26     CORPORATE AND OTHER LAWS
+
+d. The issue of sweat equity shares must be in accordance with
+       regulations/rules as state in table;
+
+          Company  Applicable Provisions/Regulations
+
+Listed on Recognised Stock Regulations made by the Securities and Exchange
+
+Exchange           Board in this behalf
+
+Other than above   Rule 8 of the Companies (Share and Debentures)
+                   Rules, 2014
+
+Illustration ­ T&F
+
+A company that incorporated and commenced the business on 9th Nov 2022, can
+issue sweat equity share only after 8th Nov 2023.
+
+Answer - False. Currently there is no condition prescribed by section 54 (1)
+regarding age of company.
+
+Students are advised to take note;
+
+Clause c to section 54(1) omitted by the Companies (Amendment) Act, 2017 w.e.f
+7th May 2018 "not less than one year has, at the date of such issue, elapsed since
+the date on which the company had commenced business".
+
+SOME OF THE IMPORTANT PROVISIONS CONTAINED IN RULE 8 OF THE
+COMPANIES (SHARE AND DEBENTURES) RULES, 2014
+
+Meaning of Employee (Explanation I to sub-rule 1)
+Employee means
+a. a permanent employee of the company who has been working in India or
+
+       outside India; or
+
+b. a director of the company, whether a whole-time director or not; or
+
+c. an employee or a director as defined above, either of subsidiary or holding
+       company of concerned company; in India or outside India
+SHARE CAPITAL AND DEBENTURES  4.27
+
+Meaning of `Value additions (Explanation II to sub-rule 1)
+
+The expression `Value additions' means;
+
+a. Actual or anticipated economic benefits derived or to be derived by the
+       company from an expert or a professional
+
+b. For providing know-how or making available rights in the nature of
+       intellectual property rights,
+
+c. By such person to whom sweat equity is being issued
+
+d. For which the consideration is not paid or included in the normal
+       remuneration payable under the contract of employment (in the case of an
+       employee).
+
+Validity of Special Resolution (Sub-rule 3)
+
+The special resolution authorising the issue of sweat equity shares shall be valid for
+making the allotment within a period of not more than twelve months from the date
+of passing.
+
+Limit on issue of Sweat Equity Shares (Sub-rule 4)
+During a year, the maximum amount/limit for which sweat equity shares can be
+issued is higher of;
+
+a. Fifteen percent of the existing paid up equity share capital or
+
+b. Shares of the issue value of rupees five crore.
+
+The issuance of sweat equity shares (cumulative, including all previous issues, if
+any) shall not exceed twenty five percent, of the paid-up equity capital of the
+Company at any time. This limit for Startup companies is fifty percent of paid up
+capital upto ten years from the date of its incorporation or registration.
+
+Lock-in Period [Sub-rule 5]
+
+Sweat equity shares issued to directors or employees shall be locked in/non-
+transferable for a period of three years from the date of allotment.
+
+Valuation of Sweat Equity Shares [Sub-rule 6]
+
+Sweat equity shares to be issued shall be valued at a price determined by a
+registered valuer as the fair price giving justification for such valuation.
+4.28              CORPORATE AND OTHER LAWS
+
+Quoted market prices in an active market are the best evidence of fair value and
+should be used, where they exist, to measure the financial instrument.
+
+Valuation of IPR/know-how/value additions [Sub-rule 7]
+The valuation of intellectual property rights or of know how or value additions for
+which sweat equity shares are to be issued, shall be carried out by a registered valuer,
+who shall provide a proper report addressed to the Board of directors with
+justification for such valuation.
+
+Treatment of non-cash consideration [Sub-rule 9]
+
+Where the sweat equity shares are issued for a non-cash consideration on the basis of
+a valuation report in respect thereof obtained from the registered valuer, such non-
+cash consideration shall be treated in the following manner in the books of account of
+the company:
+
+Form of Non-cash consideration    Treatment
+
+Depreciable or amortizable asset  Carried to the balance sheet
+
+Other than above                  Shall be recorded as expense
+
+Disclosure in the Directors' Report [Sub-rule 13]
+
+The Board of Directors shall, inter alia, disclose in the Directors' Report for the year in
+which such shares are issued, the specified details of issue of sweat equity shares.
+
+Maintenance of Register [Sub-rule 14]
+
+The company shall maintain a Register of Sweat Equity Shares in Form No. SH. 3. It
+shall be maintained at the registered office of the company or such other place as the
+Board may decide.
+SHARE CAPITAL AND DEBENTURES  4.29
+
+    9. ISSUE AND REDEMPTION OF PREFERENCE
+          SHARES [SECTION 55]
+
+Following diagram depicts the types of preference shares:
+
+ Types of   On the basis of          Cumulative
+Preference    payment of          Non-cumulative
+                dividend
+  Shares                            Participatory
+            On the basis of
+            participation in     Non-participatory
+                                        Convertible
+                 surplus
+                              (mandatorily or optionally)
+            On the basis of         (partially or fully)
+               conversion
+                                  Non-convertible
+            On the basis of
+               redemption           Redeemable
+                                    Irredeemable
+                                 (cannot be issued)
+
+PROHIBITION ON ISSUE OF IRREDEEMABLE PREFERENCE SHARES [SUB-
+SECTION 1]
+
+A company limited by shares shall not issue any preference shares which are
+irredeemable.
+
+It worth noting that the amendment of 1988 to the Companies Act 1956, abolished
+the category of irredeemable preference shares.
+
+ISSUE AND REDEMPTION OF REDEEMABLE PREFERENCE SHARE [SUB-
+SECTION 2]
+
+From the sub-section 1, it can be constructed reasonably that only redeemable
+preference shares can be issued by company limited by shares, sub-section 2
+4.30  CORPORATE AND OTHER LAWS
+
+provides for conditions as applicable to the issue and redemption of redeemable
+preference shares.
+
+Authorised by Article of Association
+
+A company limited by shares may issue redeemable preference shares only if so
+authorised by its articles.
+
+Example 9 ­ Medanta Healthcare Limited is planning to raise the capital through
+issue of preference share. Its article is silent about this. Board of Directors are of
+opinion that redeemable share can be issued.
+
+Since in the given case article is silent, not authorise the issue of preference shares
+expressly, hence Medanta Healthcare Limited can't issue preference share. They
+may alter the article of association.
+
+Maximum Tenor of redeemable Preference Shares and exception thereto
+
+Sub-section 2 also provides preference shares shall be redeemed within a period
+not exceeding twenty years from the date of their issue subject to such
+conditions as are prescribed in Rule 9 of the Companies (Share Capital and
+Debentures) Rules, 2014.
+
+These conditions laid-down by sub-rule 1 are;
+
+a. A special resolution in the general meeting of the company shall be passed
+
+b. At the time of such issue of preference shares, the company should not have
+       subsisting default in the;
+
+       i. Redemption of preference shares or
+
+       ii. Payment of dividend due on any preference shares.
+
+Sub-rule 2 and 3 enumerates the matters to be specified in resolution and
+explanatory statement to be annexed to the notice of such general meeting in
+which resolution has to be passed respectively.
+
+Sub-rule 4 requires a company that issues preference shares, to maintain a Register
+of Members under Section 88, which shall contain the particulars in respect of such
+preference shareholder(s).
+
+Further sub-rule 5 provides that if company wish to list its preference shares on a
+recognized stock exchange, shall issue such shares in accordance with the
+regulations made by the SEBI in this behalf.
+SHARE CAPITAL AND DEBENTURES  4.31
+
+Exception to maximum tenor limit of twenty years (First proviso to section
+55(2) read with explanation to section 55 and Rule 9 of the Companies (Share
+Capital and Debentures) Rules, 2014).
+
+For infrastructure projects specified in schedule VI of this Act, a company may issue
+preference shares for a period exceeding twenty years but not exceeding thirty
+years subject to the redemption of at least 10% of such preference shares annually,
+beginning from 21st year onwards or earlier, on proportionate basis, at the option
+of preferential shareholders.
+
+Redemption of Preference Shares [Second proviso to section 55(2)]
+
+Second proviso to section 55(2) provide conditions for redemption and payment
+of premium on redemption, if any
+
+a. Preference shares shall be redeemed out of;
+
+       1. Profits of the company which would otherwise be available for dividend
+               or
+
+       2. Proceeds of a fresh issue of shares made for the purposes of such
+               redemption.
+
+b. Shares to be redeemed shall be fully paid.
+
+c. Where such shares are proposed to be redeemed out of the profits of the
+       company;
+
+       1. A sum equal to the nominal amount of the shares to be redeemed, out
+               of such profits (profit & free reserves, which otherwise is available for
+               dividend), shall be transferred to a reserve, called Capital Redemption
+               Reserve
+
+       2. The amount to the credit of Capital Redemption Reserve has to be
+               maintained with the same sanctity as paid-up share capital
+
+       3. Capital Redemption Reserve can be reduced only in the manner of
+               paid-up share capital can be reduced under this Act.
+
+For the purpose of this section
+
+1. Redemption of preference shares is not taken as reduction of the company's
+       authorised share capital.
+
+2. The company may issue new shares up to the nominal amount of the shares
+       redeemed and the capital shall not be deemed to have been increased.
+          4.32            CORPORATE AND OTHER LAWS
+
+Example 10 - During the current financial year, the Board of Directors of Vintee
+Lifestyles Garments Limited is to undertake redemption of 20,000 preference shares
+of ` 100 each at a premium of ` 20 per share. It is made out by the Accounts
+Department that the profits are sufficient to meet the ensuing liability arising out
+of redemption of preference shares at premium. In this case, the amount that needs
+to be transferred to Capital Redemption Reserve account out of profits which are
+otherwise available for dividend, is ` 20,00,000 being the sum equal to the nominal
+amount of the preference shares to be redeemed. There is no need to transfer to
+CRR account any amount paid towards premium.
+
+d. Source of premium, if any; payable at redemption of preference shares
+
+In case of such class of companies, as may be prescribed and whose financial
+statement comply with the accounting standards prescribed for such class of
+companies under section 133, the premium, if any, payable on redemption shall be
+provided for out of the profits of the company, before the shares are redeemed.
+
+Provided also that premium, if any, payable on redemption of any preference shares
+issued on or before the commencement of this Act by any such company shall be
+provided for out of the profits of the company or out of the company's securities
+premium account, before such shares are redeemed.
+
+In a case not falling under above scenario, the premium, if any, payable on
+redemption shall be provided for out of the profits of the company or out of the
+company's securities premium account, before such shares are redeemed.
+
+Summary of above provisions are tabled below;
+
+Category                  Source                     Timing (Shall be
+                                                     provided)
+
+Such class of companies,  Out of the profits of the  before such shares are
+                          company                    redeemed
+as may be prescribed
+
+and whose financial
+
+statement comply with
+
+the       accounting
+
+standards prescribed for
+
+such class of companies
+
+under section 133
+SHARE CAPITAL AND DEBENTURES                         4.33
+
+Premium payable on        Out of the profits of the
+redemption of any         company or out of the
+preference shares issued  company`s securities
+on or before the          premium account
+commencement of this
+Act
+
+Any other case
+
+Issue of further Redeemable Preference Shares (if a Company is unable to
+
+redeem existing preference shares or pay dividend) [Sub-section 3]
+
+Where a company is not in a position to redeem any preference shares or to pay
+dividend on such preference shares (called unredeemed preference shares) in
+accordance with the terms of issue; then such company may issue further
+redeemable preference shares to the holder of unredeemed preference shares;
+equal to the amount due, including the dividend thereon; with the consent of the
+holders of three-fourth in value of such unredeemed preference shares, and
+approval of the tribunal on a petition made by it in this behalf.
+
+In this way the unredeemed preference shares shall be deemed to have been
+redeemed.
+
+Where a company is not in a position to redeem any
+preference shares or to pay dividend on such
+preference shares (called unredeemed preference
+shares) in accordance with the terms of issue;
+
+Then such company may issue further redeemable
+preference shares to the holder of unredeemed
+preference shares;
+
+Equal to the amount due, including the dividend
+thereon;
+
+      With the consent of the holders of three-fourth in
+      value of such unredeemed preference shares, and
+      approval of the tribunal on a petition made by it in this
+      behalf.
+
+                In this way the unredeemed preference shares shall be
+                deemed to have been redeemed.
+4.34  CORPORATE AND OTHER LAWS
+
+Note:
+
+In regards to preference shares held by shareholder who have not consented to the
+issue of further redeemable preference shares, the tribunal shall order the
+redemption forthwith; while giving approval under section 55(3).
+
+Example 11 ­ Bell Homes Furnisher Limited (BHFL) unable to redeem the
+preference shares as they become due. Hence BHFL decided to issue further
+preference share against unredeemed preference shares. Holder holding 93% of
+such unredeemed preference shares in value, gave their consent; tribunal also
+assented to issue of further preference shares. The 18 holders who own remaining
+7% seek redemption of shares held by them.
+
+In this case while giving approval under section 55(3), tribunal shall order the
+redemption forthwith of shares (7% in value) held by dissenting 18 holders.
+
+Utilisation of CRR Account [Sub-section 4]
+
+The capital redemption reserve account may be applied in paying up unissued
+shares of the company to be issued to the members as fully paid bonus shares.
+
+    10. TRANSFER AND TRANSMISSION OF
+          SECURITIES AND THE ALLIED PROVISIONS
+          [SECTION 56 TO SECTION 59]
+
+The procedures and formalities for the transfer of the securities as laid down by
+sections 56-59 are largely applicable to securities that are in other form than demat
+form.
+
+TRANSFER AND TRANSMISSION OF SECURITIES OR INTEREST OF
+MEMBER IN COMPANY [SECTION 56]
+
+Requirement for Registering the Transfer of Securities [Sub-section 1]
+
+Except, where the transfer is between persons both of whose names are entered
+as holders of beneficial interest in the records of a depository
+
+A company shall register a transfer of;
+
+a. securities of the company, or
+SHARE CAPITAL AND DEBENTURES  4.35
+
+b. the interest of a member in the company in the case of a company having no
+       share capital,
+
+Only if, following conditions fulfilled prior to such registration;
+
+a. The instrument of transfer must be executed both by the transferor and
+       the transferee.
+
+b. The instrument must specify the name, address and occupation, if any, of
+       the transferee.
+
+c. The instrument of transfer should be duly stamped and dated.
+
+d. The instrument of transfer should be in the prescribed form. As per Rule 11
+       (1) of the Companies (Share Capital and Debentures) Rules, 2014, Form No.
+       SH-4 is to be used, in case securities are held in physical form
+
+e. The instrument should be delivered to the company along with the
+       certificate relating to the shares transferred within 60 days from the date
+       of execution. If the share certificate is not in existence, the letter of allotment
+       of securities should be filed.
+
+The proviso to Section 56(1) says that where the instrument of transfer has been
+lost or it has not been delivered within the prescribed period (i.e. 60 days from
+the date of Execution), the company may register the transfer on such terms as to
+indemnity as the Board may think fit.
+
+Transfer of partly paid Shares on an application of transferor alone (Sub-
+section 3 read with rule 11 (3) of the Companies (Share Capital and
+Debentures) Rules, 2014
+
+Where an application is made by the transferor alone and relates to partly paid
+shares, a company shall not register a transfer of partly paid shares, unless the
+company has given a notice in Form No. SH-5 to the transferee and the transferee
+has given no objection to the transfer within two weeks from the date of receipt
+of notice.
+
+Example 12 - Himanshu has received a notice from Chaitanya Progressive Books
+Private Limited on 7th August, 2023 intimating that Shefali has submitted a transfer
+deed duly signed by her for transfer of 500 partly paid shares (` 6 paid-up out of
+Face Value of ` 10 per share) in his name.
+
+Himanshu as transferee must raise his objection to the proposed transfer of partly
+paid shares latest by 21st August, 2023.
+4.36  CORPORATE AND OTHER LAWS
+
+Exemptions17 in case of government companies/securities
+
+Government Company, which has not committed a default in filing its financial
+statements under section 137 or Annual Return under section 92 with the Registrar
+given.
+
+Full exemption from conditions laid-down by section 56(1) in respect to transfer
+of securities held by nominees of the Government.
+
+Partial exemption in respect to transfer of bonds issued by a Government
+company. Only an intimation by the transferee specifying his name, address and
+occupation, if any, has been delivered to the company along with the certificate
+relating to the bond; and if no such certificate is in existence, along with the letter
+of allotment of the bond. There is no requirement of proper instrument of transfer,
+to be duly stamped and executed by or on behalf of the transferor and by or on
+behalf of the transferee.
+
+Power to Register Transmission not affected by section 56 (1) (Sub-section 2)
+
+The power of company to register transmission shall not be affected by the
+conditions imposed by Section 56 (1) for registration of transfer.
+
+Hence company is empowered to register transmission of right, if it receives an
+intimation from any person to whom such right has been transmitted. There is no
+need for submission of instrument of transfer in case of transmission.
+
+Transmission (vis-à-vis transfer).
+
+The word 'transmission' means devolution of title to securities otherwise than by
+transfer, for example, devolution by death, succession, inheritance, bankruptcy,
+marriage, etc. On registration of the transmission of securities, the person entitled
+to transmission of securities becomes the holder and is entitled to all rights and
+subject to all liabilities arising therefrom.
+
+While transfer of shares is brought about by delivery of a proper instrument of
+transfer (viz, transfer deed) duly stamped and executed, transmission of shares is
+done by forwarding the necessary documents (such as a notarised copy of death
+certificate) to the company.
+
+17 In terms of Notification No. GSR 463 (E), dated 5th June, 2015
+SHARE CAPITAL AND DEBENTURES  4.37
+
+Few cases of transmission for better understanding - In the following cases
+(mind it this list is not exhaustive, only illustrative), transmission of shares shall take
+place:
+
+1. Death: When a shareholder expires, his shares need to be transmitted to his
+       legal representative.
+
+2. Insolvency: When a shareholder becomes insolvent, his shares are to be
+       transmitted to his Official Receiver.
+
+3. Lunacy: When a shareholder becomes lunatic, his shares are to be
+       transmitted to his administrator appointed by the Court.
+
+Transfer of Security of the Deceased Person by his Legal Representative [Sub-
+section 5]
+
+The transfer of any security (or other interest in company) made by legal
+representative of a deceased person, shall be valid as if such legal representative is
+holder at the time of the execution of the instrument of transfer; even if, in actual
+such legal representative is not a registered holder.
+
+This sub-section is basically bringing ease to legal heir with deeming effect of being
+holder of security or other interest in company of a deceased person.
+
+Example 13 - Richa Daniel, after having obtained succession certificate, succeeded
+to 7,000 shares of ` 100 each allotted to her late father Alexender Daniel by Speed
+Software Limited. To pay off the debt of her cousin Stesley, she wants to transfer
+whole of the 7,000 shares to her on the basis of a duly stamped instrument of
+transfer which has been signed by her as well as Stesley. Accordingly, she has
+delivered the required documents to the company for transfer of shares.
+
+In terms of Section 56 (5), the company, on receipt of duly stamped instrument of
+transfer along with requisite share certificates and succession certificate, shall
+transfer the shares in favour of Stesley. Thus, even though Richa Daniel, the legal
+representative of Alexender Daniel, is not a holder of 7,000 shares as per the
+Register of Members of the company, the transfer effected by her in favour of her
+cousin Stesley is a valid transfer as if she had been the holder of securities at the
+time of executing the transfer deed.
+
+Note - As an alternative, Richa Daniel may choose to get herself registered as
+holder of the 7,000 shares in which case, she will make an application to Speed
+Software Limited. Such application shall be accompanied with share certificates and
+             4.38            CORPORATE AND OTHER LAWS
+
+succession certificate. There is no need to submit instrument of transfer or transfer
+deed in such a case of transmission. This is so because transfer deed cannot be
+signed by the deceased person as transferor.
+
+On receipt of these documents, the company will scrutinize them and if found in
+order, it shall proceed to enter the name of Richa Daniel in the Register of Members.
+Consequently, the name of the deceased person i.e. Alexender Daniel shall be
+deleted. Further, new share certificates will be issued in the name of Richa Daniel,
+the legal representative of Alexender Daniel.
+
+Time Period for Delivery of certificates [sub-section 4]
+
+Every company shall, unless prohibited by any provision of law or any order of
+Court, Tribunal or other authority, deliver the certificates of all securities allotted,
+transferred or transmitted;
+
+Particulars                            Time Period for delivering the
+                                       Certificates
+
+In the case of subscribers to the Within a period of two months from the
+
+memorandum.                            date of incorporation.
+
+In the case of any allotment of any Within a period of two months from the
+
+of its shares by a company.            date of allotment.
+
+In the case of a transfer of Within a period of one month from the
+
+securities.                            date of receipt of the instrument of
+
+                                       transfer by the company
+
+In the case of a transmission of Within a period of one month from the
+
+securities.                            date of receipt of the intimation of
+
+                                       transmission by the company
+
+In the case of any allotment of Within a period of six months from the
+
+debenture.                             date of allotment.
+
+In the case of all securities by Within a period of sixty days after
+
+specified IFSC public and private incorporation, allotment, transfer or
+
+company 18                             transmission.
+
+18 GSR 9 (E), dated 4th January, 2017
+SHARE CAPITAL AND DEBENTURES   4.39
+
+Note:
+
+In case where the securities are dealt with in a depository, the company shall
+intimate the details of allotment of securities to depository immediately on
+allotment of such securities. (Proviso to sub-section 4)
+
+Example 14 ­ A request for transfer of shares has been received by Ind-swift
+Pharma Labs Limited in form SH-4 along with instrument of transfer on
+25th November 2022. The company shall deliver the certificate to that effect by 24th
+December 2022.
+
+Penalty [Sub-section 6]
+
+                Liable                          Default          Penalty
+                                                                 ` 50,000
+Company and every officer of   In complying with the provisions
+the company who is in default     of sub-sections (1) to (5) to
+                                              section 56
+
+Liability of Depository [Sub-section 7]
+
+Where any depository or depository participant, with an intention to defraud a
+person, has transferred shares, it shall be liable under Section 447 along with the
+liability mentioned under the Depositories Act, 1996.
+
+Note:
+
+1. With the dematerialisation process becoming a necessity in case of unlisted
+public companies i.e. they are required to dematerialise all of their securities as per
+Rule 9A of the Companies (Prospectus and Allotment of Securities) Rules, 2014, the
+chances of forgery are very thin or almost negligible.
+
+2. The provisions contained in Section 447 which describe `punishment for fraud'
+are stated in the earlier Chapter 3 relating to `Prospectus and Allotment of
+Securities'.
+
+PUNISHMENT FOR PERSONATION OF SHAREHOLDER [SECTION 57]
+
+If any person deceitfully personates;
+
+a. as an owner of any security or
+
+b. interest in a company, or
+4.40          CORPORATE AND OTHER LAWS
+
+c. as an owner of any share warrant or coupon issued in pursuance of this Act,
+
+And, thereby obtains or attempts to obtain any such security or interest or any such
+share warrant or coupon, or receives or attempts to receive any money due to any such
+owner,
+
+Such person shall be punishable with;
+
+a. Imprisonment for a term which shall not be less than one year but which may
+       extend to three years and
+
+b. Fine which shall not be less than one lakh rupees but which may extend to five
+       lakh rupees.
+
+Penalty       Minimum                  Maximum up to
+Imprisonment  One year                 Three years
+
+Fine                        And        Five lakh
+              One Lakh
+
+Note:
+
+Personation for acquisition of securities is offence under section 38 punishable under
+section 447. Mind it section 447 is general provision.
+
+Gravity of offence committed by personation under section 38 and section 57 may be
+considered while imposing penalty out of range provided.
+
+It is worth noting, offence of cheating by personation under section 416 of Indian Penal
+Code, 1860 is punishable under section 419 of code, with punishment of either
+description which may extend upto three year or with fine or with both.
+
+Student may refer section 38 and section 447, both covered under chapter 3 of this
+module.
+
+Additional Reading on Forged Transfer
+
+A forged transfer is a `nullity' and is not legally binding. Forged transfer takes place
+when a company effects transfer of shares on the basis of an instrument of transfer
+containing forged signatures of transferor. Is it possible for a transferee of `forged
+transfer' to acquire ownership of shares contained in the instrument of transfer?
+The answer is `NO'. At the same time, the transferor who is the real owner continues
+SHARE CAPITAL AND DEBENTURES  4.41
+
+to be the shareholder and accordingly, the company can be forced by him to delete
+the name of the transferee and to restore his name as owner of shares in the
+Register of Members.
+
+What will happen if the transferee of `forged transfer' transfers the shares to
+another buyer who does not know about the forgery and the company also
+registers the transfer in the name of new buyer and endorses the share certificates.
+In fact, the company cannot deny the ownership rights of new genuine buyer but
+it can also not deny the ownership rights of original shareholder because `forged
+transfer' is void ab-initio and therefore, the company has to restore his name. While
+restoring the name of the original shareholder, the company may be asked to
+compensate the new genuine buyer who exercised good faith in purchasing the
+shares. As a remedy, the company may get itself indemnified by the first transferee
+who used the forged instrument of transfer to get the shares transferred in his
+name.
+
+REFUSAL OF REGISTRATION AND APPEAL AGAINST REFUSAL [SECTION 58]
+
+Shares are movable property, hence can be transferred by the shareholders in the
+manner prescribed by the Articles. The right to transfer shares is absolute in nature
+and inherently vested with the ownership of the shares. In no case Articles can take
+away the rights of members to transfer shares in absolute, by making shares non-
+transferable.
+
+Shares of a public company are freely transferable, whereas a private company is
+required under section 2(68)(i) to restrict the right of the members to transfer the
+shares. The articles of association of private companies contain certain kind of
+restrictions on the transferability of shares. Generally, the restriction put by a private
+company is that of pre-emption whereby the members are required to offer their
+shares first to the existing members of the company before offering them to the
+outsiders.
+
+Section 58 contains the procedure which needs to be followed by a company while
+refusing to register the transfer of securities. It also contains process of filing appeal
+against such refusal.
+4.42  CORPORATE AND OTHER LAWS
+
+Notice of Refusal to be sent [Sub-section 1]
+
+If a private company limited by shares refuses to register the transfer of, or the
+transmission by operation of law of the right to any securities or interest of a
+member in the company, then the company shall;
+
+Send notice of refusal to the transferor and the transferee or to the person giving
+intimation of such transmission and stating reasons thereto,
+
+Within a period of thirty days from the date on which the instrument of transfer,
+or the intimation of such transmission, was delivered to the company.
+
+Securities/other interest a Public Company [sub-section 2]
+
+The securities or other interest of any member in a public company are freely
+transferable.
+
+Any contract or arrangement between two or more persons in respect of transfer
+of securities shall be enforceable as a contract.
+
+Appeal to Tribunal against Refusal [Sub-section 3]
+
+The transferee may appeal to the Tribunal against the refusal by private company
+to register the transfer or transmission, within a period of;
+
+a. Thirty days from the date of receipt of the notice or
+
+b. Sixty days from the date on which the instrument of transfer or the
+       intimation of transmission, was delivered to the company, in case no notice
+       has been sent by the company.
+
+Example 15 ­ An application has been received by Private Company for transfer of
+share on 25th Nov 2022. The transferee didn't get any response from company,
+hence may advance an appeal to the tribunal by 24th January 2023.
+
+Appeal to Tribunal against Refusal by a Public Company without sufficient
+cause [Sub-section 4]
+
+If a public company without sufficient cause refuses to register the transfer of
+securities within a period of thirty days from the date on which the instrument of
+transfer or the intimation of transmission, is delivered to the company, the
+transferee may appeal to the tribunal, within, within a period of
+
+a. Sixty days of such refusal or
+SHARE CAPITAL AND DEBENTURES                                4.43
+
+b. Ninety days of the delivery of the instrument of transfer or intimation of
+       transmission, where no intimation has been received from the company.
+
+Example 16 ­ An application has been received by Public Company for transfer of
+share on 25th Nov 2022. The transferee didn't get any response from company,
+hence may advance an appeal to the tribunal by 23rd February 2023.
+
+Order of Tribunal [Sub-section 5]
+
+The Tribunal, while dealing with an appeal may, after hearing the parties, either
+dismiss the appeal, or by order direct;
+
+a. Transfer or transmission shall be registered by the company and the
+       company shall comply with such order within a period of ten days of the
+       receipt of the order; or
+
+b. Direct rectification of the register and also direct the company to pay
+       damages, if any, sustained by any party aggrieved.
+
+Contravention of the Order of the Tribunal [Sub-section 6]
+
+If a person contravenes the order of the Tribunal, he shall be punishable with
+imprisonment for a term not less than one year but may extend to three
+years and with fine not less than one lakh rupees which may extend to five lakh
+rupees.
+
+Summary of penalty
+
+    Penalty                        Minimum   Maximum up to
+Imprisonment                       One year     Three years
+
+       Fine                           And         Five lakh
+                                   One Lakh
+                   4.44  CORPORATE AND OTHER LAWS
+Summary of section 58
+                                           Refusal to transfer
+
+       Private company                   Public company
+
+Send notice of refusal with    Can't refuse without sufficient
+             reasons                           cause
+
+Appeal to Tribunal in 30/60  Appeal to Tribunal in 60/90
+               days                         days
+
+                                   Tribunal will either dismiss appeal or order:
+                                               1. Transfer within 10 days
+                                              2. Rectification of Register
+
+                                                    In case of contravention of order:
+                                                          Fine and impriosnment
+
+Illustration ­ T&F
+
+Notice of refusal to register transfer of shares by private company shall be sent
+only to the transferee within 30 days, stating reasons of refusal therein.
+
+Answer ­ False, notice of refusal shall be given to both transferee and transferor
+under section 58(1).
+
+RECTIFICATION OF REGISTER OF MEMBERS [SECTION 59]
+
+It is the duty of the company to keep the register up to date so as to give at all
+times the accurate and correct position as to particulars of shareholding, because
+If a person's name appears in the register of members, he is presumed to be the
+shareholder or member, even if, in fact, he is not so. Contrarily, if a person's name
+is absent from the register, apparently he is not a member, although he may have
+done everything to entitle him to become one.
+
+Section 59 entrust right to appeal with aggrieved person, apart from vesting power
+in tribunal to order for rectification of register of members.
+
+Appeal by Aggrieved Person [Sub-section 1]
+
+An aggrieved person, member of company or company may appeal to tribunal
+or to a competent court (outside India, specified by the Central Government by
+SHARE CAPITAL AND DEBENTURES  4.45
+
+notification, in respect of foreign members or debenture holders residing outside
+India), for rectification of the register if without sufficient cause,
+
+a. the name of any person is entered in the register of members of a company,
+       or
+
+b. the name of any person is omitted, after having been entered in the register,
+       or
+
+c. if a default is made, or unnecessary delay takes place in entering in the
+       register, the fact of any person having become or ceased to be a member.
+
+Note:
+
+The words "unnecessary delay" have not been defined in the Act and, therefore, it
+becomes a question of evidence to be decided on the facts of each case. A failure
+to register a transfer within one month of the application, which was contrary to
+the listing agreement, was held to be an unreasonable delay.
+
+Every shareholder has an interest in the proper maintenance of the company's
+register of members. Any member can make an application without showing any
+injury or prejudice to him. Personal grievance is not necessary for locus standi.
+
+Order of the Tribunal [Sub-section 2]
+
+Tribunal may, after hearing the parties to the appeal either dismiss the appeal or
+by order;
+
+a. Direct that the transfer or transmission shall be registered by the company
+   within a period of ten days of the receipt of the order, or
+
+b. Direct rectification of the records of the depository or the register and in the
+   latter case, direct the company to pay damages, if any, sustained by the party
+   aggrieved.
+
+Example 17­ After hearing both parties of appeal over removal of name of
+applicant from register of member without sufficient cause, tribunal pass an order
+to reinstate the name in register with payment of damages to holder as well cost
+of litigation. Company has to pay damages as ordered apart from rectification of
+the register.
+
+Rights of holder is protected [Sub-section 3]
+
+Sub-section 3 protects the right of a holder of securities, to transfer such securities.
+Further, any person acquiring such securities shall be entitled to voting rights
+4.46              CORPORATE AND OTHER LAWS
+
+unless the voting rights have been suspended by an order of the
+Tribunal.
+
+Transfer of Securities contravenes certain Acts and Direction of Tribunal [Sub-
+Section 4]
+
+Tribunal may, on an application (made by the depository, depository participant,
+company, the holder of the securities or the Securities and Exchange Board), direct
+any company or a depository to set right the contravention and rectify its
+register or records concerned, where the transfer of securities is in contravention
+of any of the provisions of the:
+
+a. The Securities Contracts (Regulation) Act, 1956
+
+b. The Securities and Exchange Board of India Act, 1992
+
+c. The Companies Act, 2013 or
+
+d. Any other law for the time being in force, the
+
+11. ALTERATION OF SHARE CAPITAL [SECTIONS
+      61-70]
+
+                  Bonus Issue
+                  (section 63)
+
+Rights Issue                     Reduction
+(section 62)                    (section 66)
+
+Power to limited  Alteration                  Buy back
+    companies      of Share                 (Section 68)
+   (section 61)     Capital
+SHARE CAPITAL AND DEBENTURES  4.47
+
+Definition:
+
+1. Authorised Capital or Nominal Capital
+
+Section 2(8) defines the term authorised capital or nominal capital to mean such
+capital as is authorised by the memorandum of a company to be the maximum
+amount of share capital of the company.
+
+2. Called-up Capital
+
+Section 2(15) states that the term called-up capital means such part of the capital,
+which has been called for payment.
+
+POWER OF LIMITED COMPANY TO ALTER ITS SHARE CAPITAL [SECTION
+61]
+
+A limited company with a share capital can alter the capital clause of its
+memorandum of association in any of the following ways, provided authority to
+alter is given by the articles.
+
+a. It may increase its authorised capital by such amount as it thinks expedient.
+
+b. Consolidate and divide the whole or any part of its share capital into shares
+       of larger amount.
+
+c. Convert all and any of its fully paid up shares into stock or vice-versa into
+       any denomination.
+
+d. Sub-divide the whole or any part of its share capital into shares of smaller
+       amount.
+
+       The proportion between the amount paid and unpaid (if any) on each reduced
+       share shall be the same as it was in the case of the share from which the
+       reduced share is derived.
+
+e. Cancel those shares which have not been taken up and reduce its capital
+       accordingly.
+
+Example 18 ­ A share with face value of ` 100, on which ` 80 is paid up, can be
+split into 10 shares of ` 10 nominal value each, with ` 8 being paid up.
+
+Note:
+
+Any of the above things can be done by the company by passing a resolution at
+a general meeting.
+4.48  CORPORATE AND OTHER LAWS
+
+Approval of the National Company Law Tribunal requires only in the case wherein
+consolidation and division [suggested in point (b)] results in changes in the voting
+percentage of shareholders.
+
+Within 30 days of alteration, a notice must be given in Form SH-7 to the Registrar
+who will record the same and make necessary alteration in the company's
+memorandum. (Section 64 read with Rule 15 of the Companies (Share Capital and
+Debentures) Rules, 2014).
+
+Further subsection 2 provides that the cancellation of shares shall not be deemed
+to be a reduction of share capital. Mind it, reduction of capital covered under
+section 66 of the Act.
+
+FURTHER ISSUE OF SHARE CAPITAL ­ RIGHTS ISSUE; PREFERENTIAL
+ALLOTMENT [SECTION 62]
+
+A rights issue involves pre-emptive subscription rights to buy additional securities
+in a company offered to the company's existing security holders. It is a non-dilutive
+prorata way to raise capital.
+
+Example 19 - If a company announces `1:10 rights issue', it means an existing
+shareholder can buy one extra share for every ten shares held by him/her. Usually
+the price at which the new shares are issued by way of rights issue is less than the
+prevailing market price of the stock to encourage subscription.
+
+Practical Insight
+
+Right Issue by Suzlon Energy Limited (October 2022)
+
+Suzlon Energy Limited (SEL) is among the world's leading renewable energy
+solutions provider in India operating in wind energy segment.
+
+To part finance its needs for repayment/prepayment of certain borrowings
+(` 900.00 crore) and general corporate purposes (` 283.50 crore), SEL is offering a
+rights issue of 240 crore equity shares (Face Value ` 2) each at a price of ` 5 per
+share (Current Market Price of Share was ` 8.47) to mobilize ` 200.00 crore.
+
+The company is offering the right shares in the ratio of 5 shares for every 21 shares
+held as of the record date of October 04, 2022. Rights entitlements can be
+renounced up till Oct 14, 2022 (Current Market Price of Rights Entitlement was
+` 1.32).
+SHARE CAPITAL AND DEBENTURES                         4.49
+
+The issue opens for subscription on October 11, 2022, and will close on October
+20, 2022.
+
+Only 50% amount (i.e. ` 2.50 per share) is to be paid on application and the balance
+on one or more calls by the company from time to time.
+
+Post allotment, shares will be listed on BSE and NSE.
+
+SEL is proposed to spend ` 16.50 crore for this Right Issue process.
+
+Class of companies     Power to Right Issue       Applicable Provisions
+                                23(1)(c)     Provisions of the Securities and
+Listed companies or             23(2)(a)
+companies intended                            Exchange Board of India Act,
+to get its securities                             1992 and the rules and
+
+          listed                              regulations made thereunder
+
+ Public companies                            Provisions of this Act and rules
+ not covered above                                    made thereunder
+
+ Private companies
+ not covered above
+
+Offering of issue of further Shares [Sub-section 1]
+
+                       Issue of Further
+                             Shares
+
+  To existing equity      To employees                   To any person
+     shareholders
+                        Employee Stock                 For cash or non-
+      Right Issue              Option                cash considerations
+
+     u/s 62(1)(a)          u/s 62(1)(b)                   u/s 62(1)(c)
+
+(Special Resolution +  (Special Resolution)          (Special Resolution)
+Offer through notice)
+4.50                                  CORPORATE AND OTHER LAWS
+
+Whenever a company having a share capital, proposes to increase its subscribed
+capital by the issue of further shares, such shares shall be offered;
+
+a. To persons who are holders of equity shares (existing on date of such offer),
+
+       1. in proportion to the paid-up capital on those shares held by them;
+
+       2. by sending a letter of offer in form of notice, such notice shall specify;
+
+               i. Specify the number of shares to be offered
+
+               ii. Specify the time period within which the offer must be accepted.
+                       The time period should not be less than 15 days or such lesser
+                       number of days as may be prescribed but not exceeding 30 days
+                       from the date of the offer
+
+                Note ­ Rule 12A inserted in the Companies (Share Capital and
+               Debentures) Rules, 2014, that provides the time period within which the
+               offer shall be made for acceptance shall be not less than seven days
+               from the date of offer19
+
+               iii. Specify, if the offer is not accepted within the specified time, it
+                       shall be deemed to have been declined.
+
+               iv. Confirm the right to renounce all or any of shares to existing
+                       holders, in favour of some other person; unless article otherwise
+                       provided.
+
+       Note:
+
+       1. If offer declined by existing holder, then at intimation of such decline
+               or after expiry of the specified time given to him for exercise the right,
+               the Board of Directors may dispose of them (such shares, in regard to
+               which offer is declined) in such manner which is not dis-advantageous
+               to the shareholders and the company.
+
+       2. While determining/checking proportion, then as nearly as the
+               circumstances admits shall be acceptable.
+
+19 G.S.R. 113(E) dated 11th Feb 2021
+SHARE CAPITAL AND DEBENTURES  4.51
+
+       3. In case of a Private Company20 and Specified IFSC Public Company21,
+               any shorter time periods to accept the offer may be provided, if ninety
+               percent of the members have given their consent in writing or in
+               electronic mode for such shorter period
+
+b. To employees under a scheme of employees' stock option, subject to:
+
+       1. Special resolution passed by company, and
+
+       2. Conditions as may be prescribed in Rule 12 of the Companies (Share
+               Capital and Debentures) Rules, 2014.
+
+       Note:
+
+       1. The term `employees' stock option' means the option given to the
+               directors, officers or employees of a company or of its holding company
+               or subsidiary company or companies, if any, which gives such directors,
+               officers or employees, the benefit or right to purchase, or to subscribe
+               for, the shares of the company at a future date at a pre-determined
+               price (Section 2(37)
+
+       2. Instead of special resolution, ordinary resolution will be sufficient, in
+               following cases;
+
+       a. Private company which has not defaulted in filing its financial
+                statements under Section 137 or Annual Return under Section 92.22
+
+       b. Specified IFSC Public Company.23
+       3. In case of a listed company, conditions prescribed by SEBI (Share
+
+               Based Employee Benefits) Regulations, 2014 shall be observed.
+
+c. To any persons, if so authorised by a special resolution even if they are not
+       within the two categories mentioned above.
+
+       Note:
+
+       1. Where further shares are offered through manner specified in point iii
+               above, then such offer can be for cash or for a consideration other
+               than cash.
+
+20 GSR 464 (E), dated 5th June, 2015 as amended by GSR 583 (E), dated 13th June, 2017
+21 GSR 8 (E), dated 4th January, 2017
+22 GSR 464 (E), dated 5th June, 2015 as amended by GSR 583 (E), dated 13th June, 2017
+23 GSR 8 (E), dated 4th January, 2017
+4.52  CORPORATE AND OTHER LAWS
+
+       2. Further, in case of non-cash consideration, price to be determined by
+               valuation report of a registered valuer subject to such conditions as
+               may be prescribed in Rule 13 of the Companies (Share Capital and
+               Debentures) Rules, 2014.
+
+Example 20- A company, listed at Bombay Stock Exchange, intends to offer its
+further shares to the non-members. The existing members of the company consider
+such offer as invalid in view of the provisions contained in section 62 (1) (a).
+However, the company is not prohibited in absolute terms while offering new
+shares to the non-members. It can do so after passing a special resolution as
+required in section 62 (1) (c). Thus, new shares of a company limited by shares may
+be issued to non-members under certain circumstances.
+
+Illustration­ Q&A
+
+What shall be length of period specified by notice of offer of further issue for giving
+acceptance?
+
+Answer ­ Notice of offer of further shares shall specify the time period within
+which the offer must be accepted. The time period should not be less than 15 days
+or such lesser number of days as may be prescribed but not exceeding 30 days
+from the date of the offer
+
+Note ­ Rule 12A inserted in the Companies (Share Capital and Debentures) Rules,
+2014, provides the time period within which the offer shall be made for acceptance
+shall be not less than seven days from the date of offer.
+
+Dispatch of Notice to the existing Shareholders [sub-section 2]
+
+Notice referred in sub-section (1) shall be dispatched through registered post or
+speed post or through electronic mode or courier or any other mode having proof
+of delivery to all the existing shareholders at least three days before the opening
+of the issue.
+
+In case of a Private Company24 any shorter length (less than 3 days) of notice
+period shall also be acceptable, if ninety percent of the members have given their
+consent in writing or in electronic mode for such shorter period.
+
+24 GSR 464 (E), dated 5th June, 2015 as amended by GSR 583 (E), dated 13th June, 2017
+SHARE CAPITAL AND DEBENTURES  4.53
+
+Example 21 ­ Notice of right issue dispatch to holders at their registered e-mail ID
+in two days advance to opening of issue. Out of 4230 members 3075 member
+holding 94% of shares acknowledges the mail and consented to shorter length of
+notice. Despite the mode of dispatching notice and furnishing consent by members
+to shorter length is valid, the notice stands invalid because at-least 90% of
+members shall give their consent to shorter length of notice; where as in given case
+nearly 72.70% (3075 out of 4230) given consent. Here number of members is to be
+considered not their holding.
+
+Exception ­ Section 62 shall not be applicable on conversion of debenture or
+loan into equity shares [Sub-section 3]
+
+Conversion of debenture (pursuant to conditions of issue) or loan (pursuant to
+conditions of grant of loan) into equity shares leads to increase in the subscribed
+capital of a company.
+
+Sub-section 3 states section 62 shall not be applicable to such increase in
+subscribed capital provided;
+
+a. Those terms and conditions under which such conversion took place,
+
+b. Must be approved by company in general meeting through special
+       resolution,
+
+c. Prior to issue of debenture and grant of loan.
+
+Compulsorily conversion of Debentures/Loan from government into Shares
+[Sub-section 4, 5 and 6]
+
+Sub-section 4 empowers the government to direct by order;
+
+a. Conversion of debentures (issued to government) or loans (issued by
+       government) to company, either full or in part thereof into shares of such
+       company,
+
+b. If that Government considers it necessary in the public interest so to do,
+
+c. on such terms and conditions as appear to the Government to be
+       reasonable in the circumstances of the case,
+
+d. even if terms of the issue of such debentures or the raising of such loans
+       do not providing for an option for such conversion.
+4.54  CORPORATE AND OTHER LAWS
+
+Proviso to sub-section 4 provides remedy to company against hostile
+conversion.
+
+Where the terms and conditions of such conversion are not acceptable to the
+company, it may appeal to the Tribunal, within sixty days from the date of
+communication of such order.
+
+Tribunal after hearing the company and the Government shall pass such order as it
+deems fit.
+
+Sub-section 5 requires, government shall consider following while determining
+the terms and conditions of conversion;
+
+a. the financial position of the company,
+
+b. the terms of issue of debentures or loans, as the case may be,
+
+c. the rate of interest payable on such debentures or loans, and
+
+d. such other matters as it may consider necessary.
+
+Sub-section 6 states pursuant to order of government for conversion of debenture
+and loan into equity shares, under sub-section 4, the authorised share capital of
+such company shall stand increased by an amount equal to the amount of the
+value of shares which such debentures or loans or part thereof has been converted
+into and memorandum shall stand altered.
+
+Section 62 shall not apply to Nidhi Company. While complying with such exception,
+the Nidhi Companies shall ensure that the interests of their shareholders are
+protected.25
+
+ISSUE OF BONUS SHARES [SECTION 63]
+
+The term bonus share is not defined anywhere in the Companies Act 2013. However,
+the characteristics of bonus shares along with condition and manner of issue of fully
+paid-up bonus share by a company to its member highlighted by section 63.
+
+In commercial parlance, the bonus shares are shares issued proportionately by a
+company to its current shareholders as fully paid-up shares free of cost.
+
+25 GSR 465 (E), dated 5th June, 2015
+SHARE CAPITAL AND DEBENTURES  4.55
+
+Example 23 ­ If a company decided to issue bonus share in ratio of 1:2 (one for
+every two shares held), then the holder of 100 shares of a company will get 50
+bonus share without making any payment. There his holding of shares will now be
+150 instead of 100.
+
+Status of Bonus Shares from lens of the Judiciary
+Hon'ble Supreme Court in case of Standard Chartered Bank v. Custodian26
+
+Bonus share is an accretion. A bonus share is issued when the company capitalises
+its profits by transferring an amount equal to the face value of the share from its
+reserve to the nominal capital.
+
+In other words, the undistributed profit of the company is retained by the company
+under the head of capital against the issue of further shares to its shareholders.
+Bonus shares have, therefore, been described as a distribution of capitalised
+undivided profit.
+
+In the case of issue of bonus share there is an increase in the capital of the company
+by transferring of an amount from its reserve to the capital account and thereby
+resulting in additional shares being issued to the shareholders.
+
+A bonus share is a property which comes into existence with an identity and value
+of its own and capable of being bought and sold as such.
+
+Sources for issue of Bonus Share [Sub-section 1]
+A company may issue fully paid-up bonus shares to its members out of;
+a. its free reserves (other than revaluation reserve);
+
+b. the securities premium account; or
+c. the capital redemption reserve account.
+
+Bonus shares shall not be issued by capitalising reserves created by the revaluation
+of assets [Proviso to section 63(1)]
+
+26 (2000) 6 SCC 427
+4.56  CORPORATE AND OTHER LAWS
+
+Bonus shares may be issued from  Bonus shares shall not be issued from
+             Free Reserves                   Revaluation Reserve
+
+    Securities Premium Reserve
+   Capital Redemption Reserve
+
+Pre-requisites for issue of bonus shares [Sub-section 2]
+
+No company may capitalise its profits or reserves for the purpose of issuing fully
+paid-up bonus shares, unless:
+
+a. it is authorised by its Articles,
+
+b. it has on the recommendation of the Board, been authorised in the general
+       meeting of the company;
+
+c. it has not defaulted in payment of interest or principal in respect of fixed
+       deposits or debt securities issued by it;
+
+d. it has not defaulted in respect of the payment of statutory dues of the
+       employees, such as, contribution to provident fund, gratuity and bonus;
+
+e. the partly paid-up shares, if any outstanding on the date of allotment, are
+       made fully paid-up;
+
+f. it complies with such conditions as prescribed by Rule 14 of the Companies
+       (Share capital and debenture) Rules, 2014, that a company which has once
+       announced the decision of its Board recommending a bonus issue, shall not
+       subsequently withdraw the same.
+
+Note:
+
+1. The bonus shares shall not be issued in lieu of dividend [section 63(3)]
+
+2. Proviso to sub-section 5 to section 123 of this act carries confirmatory
+provisions to those contained in section 63.
+
+According to the proviso to Section 123(5) of the Act, it is permissible for a
+company to capitalise its profits or reserves for the purpose of issuing fully paid
+up bonus shares or paying up any amount for the time being unpaid on any
+shares held by the members of the company.
+         SHARE CAPITAL AND DEBENTURES                    4.57
+
+Illustration ­ True/False
+Bonus share can be issued to partly paid shares in proportion to paid-up value.
+
+Answer ­ False, Bonus shares can only be issued against fully paid, the partly paid-
+up shares, if any outstanding on the date of allotment, are made fully paid-up.
+
+NOTICE TO BE GIVEN TO REGISTRAR FOR ALTERATION OF SHARE
+CAPITAL [SECTION 64]
+
+As and when, there is an alteration (including increase and decrease) of share
+capital, the company concerned shall notify the registrar. The provisions in this
+respect are contained in Section 64.
+
+Filing of Prescribed Notice [sub-section 1]
+
+Company shall file a notice in the Form No. SH-7 as per Rule 15 of the Companies
+(Share Capital and Debentures) Rules, 2014 with the Registrar, along with an
+altered memorandum; within thirty days of alteration (including increase or
+decrease) to its capital in case of:
+
+a. Alternation of capital in manner specified in section 61 (1),
+
+b. Order made by the Government under section 62(4) read with 62(6) has the
+        effect of increasing authorised capital of a company; or
+
+c. Redemption of any redeemable preference shares,
+
+Penalty for Default in Filing of Notice [Sub-section 2]
+
+Where any company fails to file notice as manner prescribed in sub-section 1 then
+such company and every officer who is in default shall be liable to a penalty of five
+hundred rupees for each day during which such default continues, subject to a
+maximum of five lakh rupees in case of a company and one lakh rupees in case of
+an officer who is in default.
+
+Summary of penalty
+
+Liable                                       Penalty
+
+Company  Five hundred rupees for each day during which such default
+         continues, subject to a maximum of five lakh rupees
+               4.58  CORPORATE AND OTHER LAWS
+
+Every officer who Five hundred rupees for each day during which such default
+
+is in default        continues, subject to a maximum of one lakh rupees
+
+REDUCTION OF SHARE CAPITAL [SECTION 66]
+
+Conservation of capital is one of the main principles of company law, because any
+reduction of capital diminishes the fund; out of which creditor and other debt
+holders are to be paid, therefore it adversely impact them. But sometimes it may
+become necessary for the company to bring about a reduction in its capital.
+Therefore, closely fenced power is given by section 66.
+
+Reduction of Share Capital by Special Resolution to be confirmed by Tribunal
+[Sub-section 1]
+
+A company being `company limited by shares' or `company limited by
+guarantee and having a share capital' may reduce the share capital in any
+manner and in particular manners as state below -
+
+a. Extinguish or reduce the liability on any of its shares in respect of the share
+       capital not paid-up; or
+
+b. Cancel any paid-up share capital which is lost or is unrepresented by any
+       available assets; or
+
+c. Pay off any paid-up share capital which is in excess of the wants of the
+       company
+
+       1. Subject to Passing a special resolution; and
+
+       2. Alter its memorandum by reducing the amount of its share capital and
+               of its shares accordingly; and
+
+       3. Repayment of any deposits accepted by it, either before or after the
+               commencement of this Act, or the interest payable thereon shall not be
+               in arrear.
+
+Example 24 - In respect of a share of ` 10, a company has called only ` 7 per share
+and the same has been paid by all the shareholders. The company decides not to
+call remaining ` 3 per share and reduces its shareholders' liability. If done, the
+company is said to have reduced its share of ` 10 to ` 7 as fully paid-up share.
+SHARE CAPITAL AND DEBENTURES  4.59
+
+Issue of Notice by the Tribunal [Sub-section 2]
+
+The Tribunal shall give notice of every application made to it;
+
+a. to the Central Government (power delegated to Regional Directors)
+
+b. to the Registrar and
+
+c. to the Securities and Exchange Board, in the case of listed companies, and
+
+d. the creditors of the company
+
+Tribunal shall consider the representations (if any) made by them within a period
+of three months from the date of receipt of the notice.
+
+Note:
+
+1. Where no representation has been received within the said period of three
+months, it shall be presumed that they have no objection to the reduction.
+
+2. Considering representations is statutorily required, not admitting it in full.
+
+Example 24 ­ An application for reduction of capital received by NCLT on 22nd
+November 2022 from a unlisted company, he send a notice of such application to
+concerned RD, RoC as well as to creditor on 28th November 2022. Notice to RD and
+RoC sent in registered post which reached to them on 1st December 2022. Hence
+in given case RD and RoC can make representation till 28th Feb 2023. If any
+representation made thereafter, Tribunal is not bound to consider that.
+
+Order of Tribunal [Sub-section 3]
+
+The Tribunal may make an order confirming the reduction of share capital on
+such terms and conditions as it deems fit only if it is satisfied that -
+
+a. The debt or claim of every creditor of the company has been either
+
+        i. Discharged or
+
+        ii. Determined or
+
+        iii. Has been secured or
+
+        iv. His consent is obtained.
+
+b. The accounting treatment, proposed by the company for such reduction is
+       in conformity with the accounting standards specified in Section 133 or any
+       other provision of this Act.
+4.60  CORPORATE AND OTHER LAWS
+
+How tribunal determine that, `whether accounting treatment, proposed by the
+company for such reduction is in conformity with the accounting standards
+specified in Section 133 or not'?
+
+While making an application, a certificate to that effect by the company's auditor
+has been filed with the Tribunal.
+
+Publication of Order of Confirmation of Tribunal [Sub-Section 4]
+
+The order of confirmation of the reduction of share capital by the Tribunal shall be
+published by the company in such manner as the Tribunal may direct.
+
+Delivery of Certified Copy of Order of Tribunal to Registrar [Sub-section 5]
+
+Within thirty days of the receipt of the copy of the order, the company shall
+deliver; to the Registrar, a certified copy of the tribunal order and minutes
+(containing special resolution) approved by the Tribunal showing;
+
+a. the amount of share capital;
+
+b. the number of shares into which it is to be divided;
+
+c. the amount of each share; and
+
+d. the amount, if any, at the date of registration deemed to be paid-up on each share,
+
+Registrar on receipt, shall register the same and issue a certificate to that effect.
+
+Exemption to Buy-Back [Sub-section 6]
+
+Nothing in this section shall apply to buy-back of its own securities by a company
+under Section 68.
+
+No Liability of Members [Sub-Section 7]
+
+A member (whether in past or present) shall be liable to pay the amount (call or
+contribution) maximum upto difference (if any) between the amount deemed to
+have been paid on his shares and the nominal value of the reduced shares.
+
+`Deemed to have been paid' here signify reduced amount against the amount that
+have been actually paid on the share.
+
+In case where Creditor is entitled to object but was not included in the list
+of Creditors [Sub-section 8]
+
+If a reduction of share capital took place; and where a creditor is entitled to object
+to a reduction of share capital, but his name and interest (his debt or claim on
+company) not entered on the list of creditors, either because of:
+SHARE CAPITAL AND DEBENTURES  4.61
+
+a. His ignorance of the proceedings for reduction or
+
+b. Nature of his interest (debt or claim)
+
+Then in respect of his interest, company commits a default, within the meaning
+of section 6 of the Insolvency and Bankruptcy Code, 2016.
+
+Action to make claim of creditor good (Remedy available to such unpaid
+creditor)
+
+If company is running its operation
+
+a. Every person, who was a member of the company on the date of the
+       registration of the order for reduction by the Registrar,
+
+b. Shall be liable to contribute to the payment of such debt or claim,
+
+c. But not exceeding the amount which he would have been liable to
+       contribute if the company had commenced winding up on the day
+       immediately before the said date.
+
+If company is wound up
+
+The Tribunal may, on the application of any such creditor and proof of his
+ignorance as aforesaid, if it thinks fit,
+
+a. Settle a list of persons so liable to contribute, and
+
+b. Make and enforce calls and orders on the contributories settled on the list,
+       as if they were ordinary contributories in a winding up.
+
+Example 25 ­ Name and Interest of Mr. Nilanjan Iyer, a creditor of Modern
+Furniture Limited has been kept outside the list of creditor while company went
+into reduction of its capital; later when Mr. Iyer came to know about this he wish
+to take legal action against company under IBC 2016, as limitation period is not
+expired yet. Mr. Iyer entitled to do so, exclusion of his name construe as offence
+under IBC as well.
+
+Note: Period of limitation is a maximum period set by statute within which a legal
+action can be brought or a right enforced. The Limitation Act 1963 governing the
+provisions regarding period of limitation.
+4.62  CORPORATE AND OTHER LAWS
+
+Rights of Contributories not affected [Sub-section 9]
+
+Sub-section 9 is overriding provision that prevent the rights of contributories
+inter-se. Nothing in sub-section 8 shall affect the rights of the contributories
+among themselves.
+
+Liability of Officers [Sub-section 10]
+
+Officer of the company shall be liable for punishment under section 447, if he:
+
+a. Knowingly conceals the name of any creditor entitled to object to the
+       reduction or abets or is privy to any such concealment; or
+
+b. Knowingly misrepresents the nature or amount of the debt or claim of any
+       creditor or abets or is privy to any such misrepresentation.
+
+Note:
+
+1. Abet means to encourage or incite another to commit a crime
+2. Privy signify a coparticipant; one who has an interest in a matter
+3. The provisions contained in section 447 which describe `punishment for
+
+       fraud' are stated in the earlier Chapter 3 relating to `Prospectus and
+       Allotment of Securities'.
+
+RESTRICTION ON PURCHASE BY COMPANY OR GIVING OF LOANS BY IT
+FOR PURCHASE OF ITS SHARES [SECTION 67]
+
+Conservation of capital is one of the main principles of company law, because the
+share capital of a company is the only security on which the creditors rely.
+
+Therefore, a company cannot buy its own shares because reduction of capital,
+results in diminishing of the fund out of which creditor are to be paid; hence
+adversely affect the creditors. However, this restriction is not absolute.
+
+Reduction according to the applicable Provisions [Sub-section 1]
+
+`Company limited by shares' or `company by guarantee that having a share capital'
+shall not buy its own shares unless the consequent reduction of share capital is
+effected under the provisions of this Act.
+SHARE CAPITAL AND DEBENTURES  4.63
+
+Restriction on giving Loan, Guarantee or provision of Security, etc. [Sub-
+section 2]
+
+Public company shall not give any financial assistance:
+
+a. Whether directly or indirectly and whether by means of a loan, guarantee, the
+       provision of security or otherwise
+
+b. For the purpose of, or in connection with, a purchase or subscription made
+       or to be made, by any person of or for any shares in the company or in its
+       holding company.
+
+Exceptions [Sub-section 3]
+
+Company may provide the financial assistance, in following case;
+
+a. Lending of money by a banking company in the ordinary course of its
+       business;
+
+Note:
+
+1. The words "lending in the ordinary course of business" are not defined
+
+2. Banks have to make loans in the ordinary course of their business and they
+       can hardly supervise the purpose for which the borrower uses the loan
+       money. Hence if a borrower from a bank uses the money for purchasing
+       the bank's shares, the bank and its officers will be protected from liability.
+
+3. An English court held that where money is given for the very purpose of
+       purchasing the bank's shares that would not be lending in the ordinary
+       course of business, then the provision would said to be violated.
+
+b. The provision of money for the purchase of fully paid shares in the company
+       or its holding company by trustees for and on behalf of the company's
+       employees in accordance with any scheme (Employee share schemes)
+       approved by company through special resolution with such requirements
+       as may be prescribed in Rule 16 of the Companies (Share Capital and
+       Debentures) Rules, 2014,
+4.64  CORPORATE AND OTHER LAWS
+
+Note:
+
+1. In case the shares of the company are listed - Such purchase of shares shall
+       be made only through a recognized stock exchange and not by way of private
+       offers or arrangements.
+
+2. Where shares of a company are not listed - the valuation at which shares are
+       to be purchased shall be made by a registered valuer.
+
+3. The value of shares to be purchased or subscribed in the aggregate shall
+       not exceed five percent of the aggregate of paid up capital and free reserves
+       of the company;
+
+4. Disclosures in respect of voting rights not exercised directly by the
+       employees in respect of shares to which the scheme relates shall be made in the
+       Board's report for the relevant financial year, namely:
+
+       (a) Names of the employees who have not exercised the voting rights
+               directly;
+
+       (b) Reasons for not voting directly;
+
+       (c) Name of the person who is exercising such voting rights;
+
+       (d) Number of shares held by or in favour of, such employees and the
+               percentage of such shares to the total paid up share capital of the
+               company;
+
+       (e) Date of the general meeting in which such voting power was exercised;
+
+       (f) Resolutions on which votes have been cast by persons holding such
+               voting power;
+
+       (g) Percentage of such voting power to the total voting power on each
+               resolution;
+
+       (h) Whether the votes were cast in favour of or against the resolution.
+
+c. Lending money by a company to its employees (other than its directors or key
+       managerial personnel), not exceeding six month salary of the employees to
+       enable them to buy or subscribe fully paid shares in the company or its holding
+       company and to hold them by way of beneficial ownership.
+SHARE CAPITAL AND DEBENTURES                               4.65
+
+Redemption of Preference Shares Permitted [Sub-section 4]
+
+Nothing in Section 67 shall affect the right of a company to redeem any preference
+shares issued under this Act or under any previous company law.
+
+Punishment for Contravention [Sub-section 5]
+
+If a company contravenes the provisions of this section, the punishment shall be:
+
+Liable            Penalty
+Company
+                  Fine which shall not be less than one lakh rupees but may
+Every officer of  extend to twenty-five lakh rupees
+the company
+who is in         Imprisonment for       Fine which shall not be less than
+default
+                  a term which      and  one lakh rupees but may extend to
+                  may extend to          twenty-five lakh rupees.
+
+                  three years
+
+1. Section 67 shall not apply to private companies27 (if not defaulted in filing
+       its financial statements under section 137 and Annual Return under Section
+       92) and Specified IFSC Public Company28 in whose case all of following 3
+       condition fulfilled:
+
+        a. in whose share capital no other body corporate has invested any
+                money;
+
+        b. if the borrowings of such a company from banks or financial institutions
+                or anybody corporate is less than twice its paid-up share capital or fifty
+                crore rupees, whichever is lower; and
+
+        c. such a company is not in default in repayment of such borrowings
+                subsisting at the time of making transactions under this section.
+
+2. Section 67 (1) shall not apply to Nidhi Companies, when shares are
+       purchased by the company from a member on his ceasing to be a depositor
+       or borrower and it shall not be considered as reduction of capital under
+       section 66 of the Companies Act, 2013. While complying with such exception,
+       the Nidhi Companies shall ensure that the interests of their shareholders are
+       protected.29
+
+27 GSR 464 (E), dated 5th June, 2015 as amended by GSR 583 (E), dated 13th June, 2017
+28 GSR 8 (E), dated 4th January, 2017
+29 GSR 465 (E), dated 5th June, 2015
+4.66  CORPORATE AND OTHER LAWS
+
+POWER OF COMPANY TO PURCHASE ITS OWN SECURITIES [SECTION 68] -
+BUY BACK OF SECURITIES
+
+Buy back is the re-acquisition by a company of its own securities. It is a way of
+returning money to its investors. Section 68 contains provisions which describe the
+power of a company to purchase its own securities subject to the applicable
+conditions.
+
+Sources of Funds for Buy-Back of Shares [Sub-section 1]
+
+A company may purchase its own shares or other specified securities. The purchase
+should be made out of its:
+
+a. Free reserves; or
+
+b. Securities premium account; or
+
+c. Proceeds of the issue of any shares or other specified securities.
+
+However, buy-back of shares or other specified securities cannot be made out of
+the proceeds of earlier issued shares or other specified securities of same kind.
+
+Specified securities includes employees' stock option or other securities as may be
+notified by the Central Government from time to time (Explanation I to section 68)
+
+Conditions for Buy-Back [Sub-section 2]
+
+A company may purchase its own shares or other specified securities, if met with
+following conditions, namely:
+
+a. The buy-back is authorised by its articles;
+
+b. A special resolution authorising the buy-back is passed in general meeting
+       of the company;
+
+A special resolution is not necessary where:
+
+1. The buy-back is, not exceeding ten percent of the total paid-up equity
+       capital and free reserves of the company; and
+
+2. Such buy-back has been authorised by the Board resolution passed at its
+       meeting;
+
+c. The amount involved in buy-back should not be more 25% of the aggregate
+       of paid-up capital and free reserves of the company; further in case of
+       buyback of equity shares, the maximum limit is 25% of its total paid-up
+       equity capital in any financial year.
+SHARE CAPITAL AND DEBENTURES  4.67
+
+d. After the buyback, the ratio between the debts (secured and unsecured)
+       owed by the company should not be more than twice the paid-up capital
+       and free resources of the company (Central Government may prescribe a
+       higher ratio for a class or classes of companies).
+
+e. Shares or other specified securities for buy-back shall be fully paid-up;
+f. The buy-back should be in accordance with the Rule 17 of the Companies
+
+       (Share Capital and Debentures), Rules, 2014; but in case of listed shares or
+       other specified securities should be in accordance with regulations made by
+       the Securities and Exchange Board of India in this behalf.
+
+No offer of buy-back shall be made within one year reckoned from the date of the
+closure of the preceding offer of buy back [Proviso to section 68(2)]
+
+Free reserves includes securities premium account (Explanation II to section 68)
+
+Illustration ­ MCQ
+
+Buy-back with board resolution is allowed, if amount involved is:
+
+a. Not exceeding twenty five percent of the total paid-up equity capital and free
+       reserves of the company
+
+b. Not exceeding twenty five percent of the total paid-up equity capital
+
+c. Not exceeding ten percent of the total paid-up equity capital and free reserves
+       of the company
+
+d. Not exceeding ten percent of the total paid-up equity capital
+
+Answer­ c [refer Section 68(2)]
+
+Procedure before Buy-Back [Sub-section 3]
+
+The notice of the meeting at which special resolution is proposed to be passed shall
+be accompanied by an explanatory statement stating -
+
+a. a full and complete disclosure of all the material facts;
+
+b. the necessity for the buy-back;
+
+c. the class of shares or securities intended to be purchased under the buy back;
+
+d. the amount to be invested under the buy-back; and
+
+e. the time limit for completion of buy-back.
+4.68  CORPORATE AND OTHER LAWS
+
+Rule 17(1) of the Companies (Share Capital and Debentures), Rules, 2014 specify
+list of 14 matters, regarding which particulars shall be stated in explanatory
+statement.
+
+Securities to be purchased under `Buy-Back' [Sub-section 5]
+
+The buy-back may be from;
+
+a. the existing shareholders or security holders on a proportionate basis; or
+
+b. the open market; or
+
+c. the securities issued to employees of the company pursuant to a scheme of
+       stock option or sweat equity.
+
+Declaration of Solvency [Sub-section 6]
+
+A declaration of solvency has to be filed, before the resolution for buying back is
+implemented; with the Registrar and also with SEBI, if such shares of such company
+are listed on any stock exchange.
+
+Declaration of solvency has to be on a Form SH-9 and verified by an affidavit,
+stating that the Board of directors has made a full inquiry into the affairs of the
+company and have found that it is capable of meeting all its liabilities and will not
+be rendered insolvent for a period of 12 months from the date of the declaration.
+
+It has to be signed by at least two directors of the company, one of whom should
+be the managing director, if any.
+
+Example 26 ­ Form SH-9 filed by a listed company, Rainbow Sports Limited with
+registrar as well as SEBI stating Board of directors has made a full inquiry into the
+affairs of the company and have found that it is capable of meeting all its liabilities
+and will not be rendered insolvent for a period of 6 months from the date of the
+declaration. Declaration was duly signed by 3 directors, none of them being MD, as
+MD is out of country to attend FIFA world cup event in Qatar (being one of the
+sponsors).
+
+There are two lacuna in compliance to sub-section 6, first being declaration shall
+be for period of 12 months; secondly if managing director is appointed then he
+shall sign the declaration of solvency.
+
+Time limit for Completion of Buy-Back [Sub-section 4]
+
+Every buy-back shall be completed within twelve months from the date of passing
+the special resolution or board resolution authorising the buy-back.
+SHARE CAPITAL AND DEBENTURES  4.69
+
+Time Check Points and Procedural aspects of Buy-Back
+
+The company before the buy-back of shares, file with the Registrar a letter of
+offer in Form No. SH.8, along with the fee. The letter of offer shall be dispatched
+to the shareholders or security holders immediately after filing the same with the
+Registrar of Companies but not later than twenty days from its filing with the
+Registrar of Companies.
+
+The offer for buy-back shall remain open for a period of not less than fifteen
+days and not exceeding thirty days from the date of dispatch of the letter of
+offer, but where all members of a company agree, the offer for buy-back may
+remain open for a period less than fifteen days.
+
+In case the number of shares or other specified securities offered by the
+shareholders or security holders is more than the total number of shares or
+securities to be bought back by the company, the acceptance per shareholder
+shall be on proportionate basis out of the total shares offered for being bought
+back.
+
+The company shall complete the verifications of the offers received within
+fifteen days from the date of closure of the offer and the shares or other
+securities lodged shall be deemed to be accepted unless a communication of
+rejection is made within twenty one days from the date of closure of the offer.
+
+The company shall make payment within seven days of verification process
+and make payment in cash to those shareholders or security holders whose
+securities have been accepted. Company will return the share certificates to the
+shareholders or security holders whose securities have not been accepted at all
+or the balance of securities in case of part acceptance.
+
+Extinguishment of Securities [Sub-section 7]
+
+Where a company buy's back its own securities or other specified securities, it shall
+extinguish and physically destroy the shares or securities so bought-back within
+seven days of the last date of completion of buy-back.
+
+Cooling Period ­ No fresh Issue [Sub-section 8]
+
+Where a company completes a buy-back of its shares or other specified securities,
+it shall not make further issue of same kind of shares or other specified securities
+within a period of six months.
+4.70  CORPORATE AND OTHER LAWS
+
+It may, however, make a bonus issue and discharge its existing obligations such as
+conversion of warrants, stock option schemes, sweat equity or conversion of
+preference shares or debentures into equity shares.
+
+Note: This restriction applies only to the type of securities bought back. The
+company is free to issue other types of security.
+
+Register of Buy Back [Sub-section 9]
+
+The company, shall maintain a register of shares or other securities which have
+been bought-back in Form No. SH.10 containing details of:
+
+a. Shares or securities so bought,
+
+b. Consideration paid for the shares or securities bought-back,
+
+c. Date of cancellation of shares or securities,
+
+d. Date of extinguishing and physically destroying the shares or securities and
+
+e. Such other particulars as may be prescribed.
+
+Note:
+1. This register shall be maintained at the registered office in the custody of the
+
+       secretary of the company or any other person authorized by the board in this
+       behalf.
+2. The entries in the register shall be authenticated by the secretary of the
+       company or by any other person authorized by the Board for the purpose.
+
+Filing of Return of Buy-back [Sub-section 10]
+A return of buy-back in Form No. SH.11 along with the fee shall be filled with:
+
+a. The Registrar and also SEBI, if shares of company are listed on any recognised
+       stock exchange
+
+b. Containing such particulars relating to the buy-back
+
+c. Within thirty days of such completion.
+
+Note: Along with return, a certificate in Form No. SH.15 signed by two directors of
+the company including the managing director, if any, certifying that the buy-back
+of securities has been made in compliance with the provisions of the Act and the
+rules made thereunder.
+SHARE CAPITAL AND DEBENTURES                    4.71
+
+Penalty for Default [Sub-section 11]
+
+If a company makes default in complying with the provisions of this section or any
+regulations made by Securities Exchange Board of India specified for the purposes
+of section 68(2)(f), the company shall be punishable with fine which shall not be
+less than one lakh rupees but which may extend to three lakh rupees and every
+officer of the company who is in default shall be punishable with fine which shall
+not be less than one lakh rupees but which may extend to three lakh rupees.
+
+Summary of punishment
+
+Liable                                          Minimum Fine Maximum Fine
+
+Company                                         One lakh rupee Upto three lakh
+
+Every officer of the company who is in default  rupee
+
+Illustration ­ True and False
+
+Passing an ordinary resolution is sufficient where the buy-back is, not exceeding ten
+percent of the total paid-up equity capital and free reserves of the company.
+
+Answer - False, such buy-back has to be authorised by the Board resolution passed
+at its meeting.
+
+TRANSFER OF CERTAIN SUMS TO CAPITAL REDEMPTION RESERVE ACCOUNT
+[SECTION 69]
+Section 69 requires certain amount to be transferred to the capital redemption
+reserve (CRR) account in case a company buys back its own shares.
+
+Amount to be transferred to CRR Account [Sub-section 1]
+
+Where a company purchases its own shares out of free reserves or securities
+premium account, then:
+
+a. Sum equal to the nominal value of the share so purchased shall be
+       transferred to the capital redemption reserve account; and
+
+b. Details of such transfer shall be disclosed in the balance sheet.
+Application of CRR Account [Section 2]
+
+The capital redemption reserve account may be applied by the company, in paying
+up unissued shares of the company to be issued to members of the company as
+fully paid bonus shares.
+4.72  CORPORATE AND OTHER LAWS
+
+Similar use of CRR is also specified under-section 55(4) of this Act, that created
+when preference shares redeemed out of profit, as provided under section 55(2)(c).
+
+Illustration ­ True/False
+CRR can be used to issue partly paid bonus shares or finance discount portion of
+sweat equity shares.
+
+Answer - False, the capital redemption reserve account may be applied by the
+company, in paying up unissued shares of the company to be issued to members
+of the company as fully paid bonus shares.
+PROHIBITION FOR BUY-BACK IN CERTAIN CIRCUMSTANCES [SECTION 70]
+Sub-section 1 states no company shall directly or indirectly purchase its own
+shares or other specified securities;
+a. Through any subsidiary company including its own subsidiary companies; or
+b. Through any investment company or group of investment companies; or
+c. If a default, is made by the company, in
+
+       i. repayment of deposits or interest thereon, or
+       ii. redemption of debentures, or
+       iii. redemption of preference shares or
+       iv. payment of dividend to any shareholder or
+
+       v. repayment of any term loan or interest thereon to any financial
+               institutions or banking company
+
+Note:
+
+1. Specified securities includes employees' stock option or other securities as
+       may be notified by the Central Government from time to time (Explanation I
+       to section 68)
+
+2. Where the default is remedied and a period of three years has lapsed after
+       such default ceased to subsist, such buy-back is not prohibited.
+
+Further sub-section 2 prohibit the company from directly or indirectly to purchase
+its own shares or other specified securities in case such company has not complied
+with provisions of
+SHARE CAPITAL AND DEBENTURES  4.73
+
+a. Section 92 (Annual Report),
+
+b. Section 123 (Declaration and Payment of Dividend),
+
+c. Section 127 (Punishment for failure to distribute dividends), and
+
+d. Section 129 (Financial Statement).
+
+Example 27 ­ Sigma Electronic Limited (SEL) was financial unstable in 2018 due to
+economic slowdown, finally it made default in repayment of loan that it has taken
+from public finance corporation in June 2020 pursuant to cash crunch caused by
+nation-wide lock down. SEL's account was marked in defaulters list by lender and
+classified in NPA category. But stimulus package helped SEL to pass the high
+turbulence phase, it able to repay the due amount on December 2020. In February
+2021 SEL account removed from NPA category. SEL won a tender in mid of 2021
+and become supplier to military retail canteens. SEL accumulate reasonable amount
+of reserve and attain the position cash surplus. SEL decided to Buy-back 10% of its
+equity shares in December 2022.
+
+Consider the facts stated in case, SEL shall not be allowed to buy-back it securities
+as 3 years has not been elapse since when default is remedied.
+
+12. DEBENTURE [SECTIONS 71]
+
+DEFINITION AND FEATURES OF DEBENTURE
+
+Definition [Section 2(30)]
+
+Debenture includes debenture stock, bonds or any other instrument of a company
+evidencing a debt, whether constituting a charge on the assets of the company
+or not.
+
+Provided that following shall not be treated as debenture
+
+a. the instruments referred to in Chapter III-D of the Reserve Bank of India Act,
+       1934; and
+
+b. such other instrument, as may be prescribed by the Central Government in
+       consultation with the Reserve Bank of India, issued by a company,
+4.74  CORPORATE AND OTHER LAWS
+
+Debenture Includes                Debenture Excludes
+
+           Debenture stock           Instruments referred to in
+                  Bonds            Chapter III-D of the Reserve
+
+     Any other instrument of a        Bank of India Act, 1934
+   company evidencing a debt
+                                                   and
+Whether constituting a charge on
+the assets of the company or not  Such other instrument, as may
+                                   be prescribed by the Central
+
+                                             Government
+
+Features of Debentures
+
+a. A debenture is the smallest unit of a sizeable amount of loan.
+
+b. When debentures are issued, the applicants are given certificates
+       representing the money they have lent to the company.
+
+c. A debenture certificate is issued by the company under its common seal, if
+       any, or under the signatures of two directors or a director and the company
+       secretary, if he has been appointed.
+
+d. The company pays periodic interest on the amount raised by issuing
+       debentures till they are fully redeemed.
+
+e. A debenture is generally pre-fixed with the rate of interest which the
+       company intends to pay.
+
+Example 28 - The name `10% Debentures' indicates that the company shall pay
+interest at the rate of 10% on the outstanding amount till maturity of such
+debentures.
+
+f. Voting rights are not available in case of debentures as section 71 (2) of
+       the Act, clearly states that no company shall issue any debentures carrying
+       any voting rights.
+SHARE CAPITAL AND DEBENTURES  4.75
+
+g. As per section 44 of the Act, a debenture is in the nature of movable
+       property which is transferable as per the provisions contained in the Articles
+       of the company issuing the debentures.
+
+h. A debenture may be secured or unsecured. In case of secured debentures, a
+       charge is created on the assets of the company in favour of debenture trustee.
+
+i. As per the terms of the issue of debentures, they may be redeemed (i.e.
+       repaid) at the end of full term or in installments, say yearly or bi-yearly or
+       any other period like in two installments.
+
+j. The terms of issue may also provide for conversion of debentures at maturity
+       into equity shares at the option of the debenture holders.
+
+k. The debenture certificates are required to be delivered within a period of
+       six months under section 56(4)(d) of the Act, from the date of allotment
+       of debentures, unless the company is prohibited by any provision of law or
+       any order of Court, Tribunal or any other authority.
+
+Example 29 - Sigma Computers Limited desires to borrow ` 50,00,000 from the
+public by issuing 7% debentures. It is intended that each unit of debenture shall be
+of ` 100. Thus, it can issue 50,000 debentures of ` 100 each carrying 7% rate of
+interest which can be paid at the end of every quarter. If such debentures (secured
+by a charge on the assets of the company) are issued for six-year duration, the
+principal amount shall be repaid by the end of sixth year. The terms of issue may
+even allow repayment of principal amount in equal yearly instalments, in which case
+a portion of debentures shall be redeemed on yearly basis and the company shall
+be required to pay interest only on the outstanding amount. The debenture holders
+may also be given the option of converting their debentures into equity shares at
+the time of maturity.
+
+Thus, Sigma Computers Limited is able to borrow a large sum of money from
+different borrowers with the help of debentures and it is not required to approach
+a single borrower for such a big amount.
+
+In other words, `issue of debentures' is the most convenient way of borrowing large
+sums of money and at the same time the debenture holders do not exert any
+influence over the ownership and working of the company unless their interest is
+jeopardized by certain decisions.
+4.76             CORPORATE AND OTHER LAWS
+
+                 Type of Debentures
+
+On the basis of  On the basis of      On the basis of
+    security     convertibility to    redeemability
+
+                       shares
+
+Secured             Convertible       Redeemable
+                 (mandatorily or
+
+                    optionally;
+                 partially or fully)
+
+Un-secured       Non-convertible      Irredeemable
+
+MANNER OF ISSUE OF DEBENTURES AND APPLICABLE PROVISION
+THERETO [SECTION 71]
+
+Issue of Debentures with an Option to Convert [Sub-section 1]
+A company if authorised by passing special resolution at general meeting, then IT
+may issue debentures with an option to convert such debentures into shares,
+either wholly or partly at the time of redemption.
+No Voting Rights [Sub-section 2]
+No company shall issue any debentures carrying any voting rights.
+
+Issue of Secured Debentures [Sub-Section 3]
+
+Secured debentures may be issued by a company subject to such terms and
+conditions as are prescribed in Rule 18 (1) of the Companies (Share Capital and
+Debentures) Rules, 2014; which are explained below.
+
+a. Maximum Period of Secured Debenture
+
+The tenor of secured debenture shall not be more than 10 years from the date of
+issue, except in following cases where tenor can be upto 30 years.
+
+i. Companies engaged in setting up of infrastructure projects;
+
+ii. Infrastructure Finance Companies as defined in clause (viia) of sub direction
+       (1) of direction 2 of Non-Banking Financial (Non-deposit accepting or
+       holding) Companies Prudential Norms (Reserve Bank) Directions, 2007;
+SHARE CAPITAL AND DEBENTURES  4.77
+
+iii. Infrastructure Debt Fund NBFCs' as defined in clause (b) of direction 3 of
+       Infrastructure Debt Fund Non-Banking Financial Companies (Reserve Bank)
+       Directions, 2011;
+
+iv. Companies permitted by a Ministry or Department of the Central
+       Government or by Reserve Bank of India or by the National Housing Bank
+       or by any other statutory authority to issue debentures for a period
+       exceeding ten years.
+
+b. Appointment of Debenture Trustee
+
+Debenture trustee shall be appointed by company before the issue of prospectus
+or letter of offer for subscription of its debentures.
+
+c. Security by Creation of Charge
+
+Security for the debenture can be provided by way of creating a charge or
+mortgage in favour of debenture trustee, on;
+
+i. Specified movable of the company or its subsidiaries or its holding
+       company or its associates companies, or
+
+ii. Specified immovable properties wherever situate, or any interest therein.
+
+Note:
+
+1. Value of such assets or properties upon which charge is created shall be
+       sufficient for the due repayment of the amount of debentures and interest
+       thereon.
+
+2. In case of NBFCs, the charge or mortgage may be created on any movable
+       property.
+
+3. In case of any issue of debentures by a Government company which is fully
+       secured by the guarantee, given by the Central Government or one or
+       more State Government or by both, as per the requirement for creation of
+       charge under rule 18(1) of the Companies (Share Capital and Debentures)
+       Rules, 2014 shall not apply.
+
+d. Debenture Trust Deed
+
+Debenture trust deed shall be executed in Form SH-12 to protect the interest of
+the debenture holders, within three months of closure of the issue or offer.
+           4.78             CORPORATE AND OTHER LAWS
+
+Creation of Debenture Redemption Reserve (DRR) Account [Sub-section 4
+read with Rule 18 (7) of the Companies (Share Capital and Debentures) Rules,
+2014]
+
+Company shall create a debenture redemption reserve (DRR) account out of the
+profits of the company available for payment of dividend.
+
+The amount credited to such DRR account shall not be utilised by the company
+except for the redemption of debentures.
+
+a. Requirement of DRR
+
+Category                    Publicly   placed         Privately  places
+                            debenture                 debenture
+All India Financial         Exempted                  Exempted
+Institutions (regulated by
+RBI)
+
+Banking Companies           Exempted                  Exempted
+
+Listed companies (other     Exempted                  Exempted
+
+than All India Financial    except                    except
+
+Institutions and Banking    NBFCs not registered      NBFCs not registered
+                            with RBI u/s 45IA of RBI  with RBI u/s 45IA of RBI
+Companies       covered     Act, and for              Act,
+
+above)
+
+                            House      Finance        House      Finance
+
+                            companies not registered  companies not registered
+
+                            with National Housing     with National Housing
+
+                            bank                      bank
+
+Unlisted   Companies        DRR equal to 10% of       DRR equal to 10% of
+                            Outstanding Debenture     Outstanding Debenture
+(other than All India
+                                                      Except
+Financial Institutions and
+                                                      NBFCs registered with
+Banking    Companies                                  RBI u/s 45IA of RBI
+
+covered above)
+
+                                                      House      Finance
+
+                                                      Companies registered
+
+                                                      with National Housing
+
+                                                      bank
+               SHARE CAPITAL AND DEBENTURES               4.79
+
+Note:
+
+1. The main purpose of these relaxations was introduced by the MCA for the
+       reduction of the cost of borrowings incurred by companies.
+
+2. Other Financial Institution covered under 2(72) of the Companies Act 2013
+       for purpose of creating and maintaining DRR shall be dealt in manner as Non­
+       Banking Finance Companies registered with Reserve Bank of India.
+
+3. In case of partly convertible debentures, Debenture Redemption Reserve shall
+       be created in respect of non-convertible portion of debenture.
+
+b. Amount and methods of Investment or deposits for debentures maturing
+       during the fiscal
+
+By 30th April of each year, the in case of:
+
+Company                    In case of
+
+Listed Company, other than All Publicly placed debenture
+India Financial Institutions and
+Banking Companies
+
+Unlisted companies, other  Publicly placed debenture
+
+than All India Financial   &
+
+Institutions,  Banking     Privately placed debenture (other than those by
+                           NBFCs registered with RBI u/s 45IA of RBI and
+Companies                  House Finance companies registered with
+                           National Housing bank)
+
+An amount equal to 15% of its debentures maturing during the financial year,
+ending on the 31st day of March of the next year, shall be invested or deposited in
+any of following methods of deposits or investments, namely:
+
+a. Deposits with any scheduled bank, free from any charge or lien;
+
+b. Unencumbered securities of the Central Government or any State Government;
+
+c. Unencumbered securities mentioned in sub-clause (a) to (d) and (ee) of section
+       20 or unencumbered bonds issued by any other company which is notified under
+       sub-clause (f) of section 20 of the Indian Trusts Act, 1882.
+4.80  CORPORATE AND OTHER LAWS
+
+The amount remaining invested or deposited, as the case may be, shall not any
+time fall below fifteen percent of the amount of the debentures maturing during
+the year ending on 31st day of March of that year. Meaning thereby that amount
+shall be invested or deposited by 30th April and maintained there after till end of
+financial year (or till maturity if fall earlier).
+
+Restrictions on the Issue of Prospectus/Offer/Invitation to the public [Sub-
+section 5]
+
+Prior to issue a prospectus or make an offer or invitation to the public or to its
+members exceeding five hundred for the subscription of its debentures, the
+company shall appoint one or more debenture trustees. Except in case of public
+offer of debenture, in all other cases appointment and removal of debenture trustee
+governed by provisions prescribed in Rule 18 (2) of the Companies (Share Capital
+and Debentures) Rules, 2014; namely:
+
+a. Name and Consent of Denture Trustee
+
+The names of the debenture trustees shall be stated in offer related letters and
+notices or subsequent thereto.
+
+Written consent before the appointment of debenture trustee must be obtain and
+statement to that effect shall appear in the letter of offer.
+
+b. Who can be denture trustee?
+
+Following persons shall not be appointed as a debenture trustee,
+
+i. A beneficiary holders of shares in the company;
+
+ii. A promoter, director or key managerial personnel or any other officer or
+       an employee of the company or its holding, subsidiary or associate
+       company;
+
+iii. Relative of any promoter, director or key managerial personnel of the
+       company;
+
+iv. A beneficiary entitled to moneys which are to be paid by the company
+       otherwise than as remuneration payable to the debenture trustee;
+
+v. Who is indebted to the company, or its subsidiary, holding or associate
+       company or a subsidiary of such holding company;
+SHARE CAPITAL AND DEBENTURES  4.81
+
+vi. Who has furnished any guarantee in respect of the principal debts secured
+       by the debentures or interest thereon;
+
+vii. Who has any pecuniary relationship with the company amounting to two
+       per cent or more of its gross turnover or total income or fifty lakh rupees
+       or such higher amount as may be prescribed, whichever is lower, during the
+       two immediately preceding financial years or during the current financial
+       year;
+
+c. Removal of debenture trustee prior to his term
+
+Any debenture trustee may be removed from office before the expiry of his term
+only if it is approved by the holders of not less than three fourth in value of the
+debentures outstanding, at their meeting.
+
+d. Filling of vacancy of debenture trustee
+
+     Nature of vacancy                               How to fill
+Casual Vacancy*            Board themselves may fill any casual vacancy
+
+Caused by the resignation  With the written consent of the majority of the
+                           debenture holders.
+
+*While any such vacancy continues, the remaining trustee or trustees, if any, may
+act till appointment made.
+
+Debenture Trustee to protect Interest of Debenture Holders [Sub-section 6]
+
+A debenture trustee shall take steps to protect the interests of the debenture-
+holders and redress their grievances. Duties of debenture trustee enumerated
+under rule 18(3) of the Companies (Share Capital and Debentures) Rules, 2014.
+Further, Rule 18 (4) of the Companies (Share Capital and Debentures) Rules, 2014
+requires debenture holders to convene the meeting of all the debenture holders
+on:
+
+a. Receiving a request (duly signed and in writing) from debenture holders
+       holding at least one-tenth in value of the debentures
+
+b. Happening of any such event, which constitutes a breach, default or which in
+       the opinion of the debenture trustees affects the interest of the debenture
+       holders.
+
+Note: Rule 18(3) and 18(4) are not applicable in case of public offer of debenture
+4.82  CORPORATE AND OTHER LAWS
+
+Example 30 ­ Roshan Bulb Limited took a bank loan in contravention to covenant
+regarding permissible debt-equity ratio, stated in offer document issued for
+subscription of its debentures. In this case debenture trustee bound to convene the
+meeting of all the debenture holder as decision of taking loan by company is not
+only breach but also a default that will affect the interest of the debenture holders.
+
+Liability of Debenture Trustee [Sub-section 7]
+
+Where debenture trustee fails to show the degree of care and due diligence
+required of him as a trustee.
+
+Any provision, that exempt or indemnify a debenture-trustee from any liability
+for breach of trust; as contained in:
+
+a. A trust deed for securing the issue of debentures or
+
+b. Any contract with debenture holders secured by a trust deed
+
+Shall be void.
+
+Note: Exemptions given to debenture trustee, shall be agreed upon by debenture
+holders holding at least 75% value of debentures at time of meeting held for this
+purpose.
+
+How to determine the reasonable degree of care and due diligence ­ Means a
+yardstick to determine failure ­ One have to determine in regard to the provisions
+of the trust deed conferring any power, authority or discretion on such debenture
+trustee.
+
+Example 31 ­ Debenture trustee fails in keeping a close watch on change in value
+of asset against which such debenture are secured, which is specified a preliminary
+responsibility marked upon him; it can be said debenture trustee fails to show
+degree of care and due diligence required of him as a trustee.
+
+To pay Interest and Redeem Debentures [Sub-section 8]
+
+A company shall pay interest and redeem the debentures in accordance with the
+terms and conditions of their issue.
+
+Filing of Petition before Tribunal by Debenture Trustee [Sub-section 9]
+
+Where debenture trustee reach to conclusion that the assets of the company are
+insufficient or are likely to become insufficient to discharge the principal amount
+as and when it becomes due, may file a petition before the Tribunal.
+SHARE CAPITAL AND DEBENTURES  4.83
+
+The tribunal may pass order:
+
+a. To impose restrictions on the incurring of any further liabilities by the
+       company as it may consider necessary in the interests of the debenture-
+       holders.
+
+b. After hearing the company and any other person interested in the matter
+
+Order of Tribunal on Failure to Redeem Debentures/Pay Interest [Sub-section 10]
+
+Tribunal may direct by order:
+
+a. On the company to redeem the debentures forthwith on payment of principal
+       and interest due thereon
+
+b. After hearing the parties concerned, on the application of any or all of the
+       debenture-holders, or debenture trustee
+
+c. Where a company fails to redeem the debentures on the date of their
+       maturity or fails to pay interest on the debentures when it is due.
+
+Specific Performance of the Contract [Sub-section 12]
+
+A contract with the company to take up and pay for any debentures of the company
+may be enforced by a decree for specific performance.
+
+Debenture holder has right to seek relief under the Specific Relief Act, 1963 for
+specific performance. Court may pass decree (in favour of denture holder in this
+case) under 2(2) of the Civil Procedure Code, 1908 (CPC) and same can be executed
+under order 21 of CPC.
+
+Specific performance means, forcing other party (company in this case) of contract
+to perform his part of contract (repayment of debenture) through court's decree.
+
+Decree is final order passed by court as outcome of adjudication, explaining right
+of parties.
+
+Procedure to be prescribed by Central Government [Sub-section 13]
+
+Sub-section 13 empowers the Central Government to prescribe the:
+
+a. Procedure for the securing the issue of debentures,
+
+b. Procedure for the debenture-holders to inspect the trust deed and to obtain
+       copies thereof
+4.84  CORPORATE AND OTHER LAWS
+
+c. Form of debenture trust deed,
+
+d. Quantum of debenture redemption reserve required to be created and
+
+e. Such other matters.
+
+Illustration ­ True/False
+
+If interest to debenture holder remain un-paid for two years then they may vote on
+resolution affecting their interests.
+
+Answer ­ False, no debenture holder can never assume voting right, unless their
+debenture is converted in equity as per terms of issue. Though similar provision exist
+in case of preference dividend remain unpaid for two year to preference shareholder.
+
+Note:
+
+1. If issue results in debt-equity ratio more than 1 - In case of company other
+       than private company, the Board of Directors of the company shall obtain
+       approval of the shareholders through special resolution, if the borrowings by
+       issuing debentures together with the amount already borrowed exceed the
+       aggregate of company's paid-up share capital, free reserves and securities
+       premium amount, then prior to the issue of debentures.
+
+       Note ­ Borrowing shall not include short term or temporary loan in nature.
+
+2. Pursuant to rule 12 (1) of the companies (Prospectus and allotment of
+       securities) Rules 2014, a company having share capital, when makes
+       allotment of any debentures (falls within the definition of `securities'), it is
+       required to file a Return of Allotment in form No. PAS-3 within thirty days
+       of such allotment with the jurisdictional Registrar.
+
+SUMMARY
+
+ There are two kinds of long-term capital to run a business viz., owners' capital
+
+       and lender's capital.
+
+ Each type of capital is denominated by different securities with applicable
+
+       rights which can be varied by following the legal procedure.
+
+ Most of the requirements applicable to a company are to be in accordance
+
+       with its Articles of Association and Memorandum of Association or with the
+SHARE CAPITAL AND DEBENTURES  4.85
+
+       decisions taken by the shareholders at the general meetings but they must
+       be legally valid as per the provisions of the Companies Act.
+
+ There are mandated provisions relating to the application of securities
+
+       premium amount.
+
+ Companies are not permitted to issue shares at a discount except when such
+
+       shares are issued as sweat equity.
+
+ No company can issue irredeemable preference shares. Maximum tenor of
+
+       redeemable share also capped upto twenty years with exception in case
+       infrastructure project, where it can be issued for maximum upto thirty years.
+
+ Only fully paid-up preference shares are eligible for redemption.
+
+ When preference shares are redeemed out of profits, the company is required
+
+       to create Capital Redemption Reserve Account.
+
+ Capital Redemption Reserve Account may be applied for issuing fully paid
+
+       bonus shares.
+
+ Power to alter share capital by a limited company having a share capital is
+
+       envisaged under section 61.
+
+ Companies can issue rights shares to their existing shareholders in
+
+       accordance with section 62.
+
+ Issue of bonus shares is governed by section 63.
+
+ After following the prescribed legal procedure, a company is permitted to
+
+       bring about reduction in its share capital.
+
+ A company is restricted to purchase or give loans for purchase of its shares
+
+       except where buy-back is resorted to in accordance with the applicable
+       provisions.
+
+ Buy-back of shares is prohibited under certain circumstances.
+
+ Debenture Redemption Reserve account is created to ring- fence funds
+
+       requirement for redemption of Debentures.
+4.86  CORPORATE AND OTHER LAWS
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions
+
+1. Mr. Bahu has received a notice from Mahishmati Private Limited on 2nd March,
+       2024 intimating that Mr. Bali has submitted a transfer deed duly signed by him for
+       transfer of 1000 partly paid shares (` 8 paid-up out of Face Value of ` 10 per share)
+       in his (Mr. Bahu) name. Mr. Bahu as transferee must raise his objection to the
+       proposed transfer of partly paid shares latest by
+       (a) 9th March, 2024
+       (b) 16th March, 2024
+       (c) 17th March, 2024
+       (d) 31st March, 2024
+
+2. Section 67 of the Companies Act, 2013 impose a restriction on public company
+       from giving any financial assistance whether directly or indirectly and whether by
+       means of a loan, guarantee, the provision of security or otherwise for the purpose
+       of, or in connection with, a purchase or subscription made or to be made, by any
+       person of or for any shares in the company or in its holding company. Star
+       Engineering Limited which is not covered by any of exemptions specified under
+       said section, contravene the restrictive provisions stated above. Every officer of the
+       company who is in default shall be liable for:
+
+       (a) Fine which shall not be less than one lakh rupees but may extend to twenty-
+               five lakh rupees
+
+       (b) Fine which shall not be less than one lakh rupees but may extend to twenty-
+               five lakh rupees or Imprisonment for a term which may extend to three years
+               or both
+
+       (c) Fine which may extend to twenty-five lakh rupees or Imprisonment for a
+               term which may extend to three years or both
+
+       (d) Fine which shall not be less than one lakh rupees but may extend to twenty-
+               five lakh rupees and Imprisonment for a term which may extend to three
+               years
+
+3. Modern Furniture an unlisted company receive a request for issue of duplicate
+       share certificate. Complete documents in this regards submitted with the company
+SHARE CAPITAL AND DEBENTURES  4.87
+
+       on 30th December 2022. Modern furniture shall issue the duplicate share
+       certificates by:
+
+       (a) 29th January 2023
+
+       (b) 13th February 2023
+
+       (c) 28th February 2023
+
+       (d) 29th March 2023
+
+Descriptive Questions
+
+1. VRS Company Ltd. is holding 45% of total equity shares in SV Company Ltd.
+       The Board of Directors of SV Company Ltd. (incorporated on January 1, 2019)
+       decided to raise the share capital by issuing further equity shares. The Board of
+       Directors resolved not to offer any shares to VRS Company Ltd., on the ground
+       that it was already holding a high percentage of the total number of shares
+       issued by SV Company Ltd. The Articles of Association of SV Company Ltd.
+       provided that the new shares should first be offered to the existing shareholders
+       of the company. On March 1, 2019 SV Company Ltd. offered new equity shares
+       to all the shareholders, except VRS Company Ltd.
+
+       Referring to the provisions of the Companies Act, 2013 examine the validity of
+       the decision of the Board of Directors of SV Company Ltd. of not offering any
+       further shares to VRS Company Limited.
+
+2. The Directors of Mars Motors India Ltd. desire to alter Capital Clause of the
+       Memorandum of Association of their company. Advise them about the ways in
+       which the said clause may be altered under the provisions of the Companies
+       Act, 2013.
+
+3. Ramesh, a resident of New Delhi, sent a transfer deed duly signed by him as
+       transferee and his brother Suresh as transferor, for registration of transfer of
+       shares to Ryan Entertainment Private Limited at its Registered Office in
+       Mumbai. He did not receive the transferred shares certificates even after the
+       expiry of four months from the date of dispatch of transfer deed. Is there any
+       liability of company and officer in default in the said matter?
+
+4. Due to insufficient profits, Silver Robotics Limited is unable to redeem its
+       existing preference shares amounting to ` 10,00,000 (10,000 preference shares
+       of ` 100 each) though as per the terms of issue they need to be redeemed within
+4.88  CORPORATE AND OTHER LAWS
+
+       next two months. It did not, however, default in payment of dividend as and
+       when it became due. What is the remedy available to the company in respect
+       of outstanding preference shares as per the Companies Act, 2013?
+
+5. Trisha Data Security Limited was incorporated just a year ago with a paid- up
+       share capital of ` 200 crore. Within such a small period of about year in
+       operation, it has earned sizeable profits and has topped the charts for its high
+       employee-friendly environment. The company wants to issue sweat equity to
+       its employees. A close friend of the CEO of the company has told him that the
+       company cannot issue sweat equity shares as minimum 2 years have not
+       elapsed since the time company commenced its business. The CEO of the
+       company has approached you to advise about the essential conditions to be
+       fulfilled before the issue of sweat equity shares especially since their company
+       is just about a year old.
+
+6. Walnut Foods Limited has an authorized share capital of 2,00,000 equity shares
+       of ` 100 per share and an amount of ` 2 crore in its Securities Premium Account
+       as on 31-3-2024. The Board of Directors seeks your advice about the
+       application of securities premium account for its business purposes. Please give
+       your advice.
+
+7. OLAF Limited, a subsidiary of PQR Limited, decides to give a loan of
+       ` 4,00,000 to its Human Resource Manager Mr. Surya Nayan, who does not fall
+       in the category of Key Managerial Personnel and draws a salary of
+       ` 40,000 per month, to buy 500 partly paid-up equity shares of ` 1000 each in
+       OLAF Limited. Examine the validity of company's decision under the provisions
+       of the Companies Act, 2013.
+
+8. Shilpi Developers India Limited owed to Sunil ` 10,000. On becoming this debt
+       payable, the company offered Sunil 100 shares of ` 100 each in full settlement
+       of the debt. The said shares were allotted to Sunil as fully paid-up in lieu of his
+       debt. Examine the validity of this allotment in the light of the provisions of the
+       Companies Act, 2013
+
+9. What are the provisions of the Companies Act, 2013 relating to the
+       appointment of `Debenture Trustee' by a company? Whether the following can
+       be appointed as `Debenture Trustee':
+
+       (i) A shareholder who has no beneficial interest.
+
+       (ii) A creditor whom the company owes ` 499 only.
+    SHARE CAPITAL AND DEBENTURES                 4.89
+
+       (iii) A person who has given a guarantee for repayment of amount of
+               debentures issued by the company?
+
+10. Mr. Nilesh has transferred 1000 equity shares of Perfect Vision Private Limited
+       to his sister, Ms. Mukta. The company did not register the transfer of shares and
+       also did not send a notice of refusal to Mr. Nilesh or Ms. Mukta within the
+       prescribed period. Discuss as per the provisions of the Companies Act, 2013,
+       whether aggrieved party has any right(s) against the company?
+
+11. Shankar Portland Cement Limited is engaged in the manufacture of different
+       types of cements and has got a good brand value. Over the years, it has built a
+       good reputation and its Balance Sheet as at March 31, 2024 showed the
+       following position:
+
+       1. Authorized Share Capital (25,00,000 equity shares of ` 10/- each)
+               ` 2,50,00,000
+
+       2. Issued, subscribed and paid-up Share Capital (10,00,000 equity shares of
+               ` 10/- each, fully paid-up) ` 1,00,00,000
+
+       3. Free Reserves ` 3,00,00,000
+
+       The Board of Directors are proposing to declare a bonus issue of 1 share for
+       every 2 shares held by the existing shareholders. The Board wants to know the
+       conditions and the manner of issuing bonus shares under the provisions of the
+       Companies Act, 2013.
+
+12. State the legal provisions in respect of `Declaration of Solvency', which an
+       unlisted public company needs to adhere to while taking steps to buy-back its
+       own shares.
+
+ANSWERS
+
+Answer to MCQ based Questions
+
+1.  (c) 16th March, 2024
+
+2.  (d) Fine which shall not be less than one lakh rupees but may
+
+         extend to twenty-five lakh rupees and Imprisonment for
+
+         a term which may extend to three years
+
+3.  (d) 29th March 2023
+4.90  CORPORATE AND OTHER LAWS
+
+Answer to Descriptive Questions
+
+1. The legal issues involved herein are covered under Section 62 (1) of the
+       Companies Act, 2013.
+
+       Section 62 (1) (a) of the Companies Act, 2013 provides that if, at any time, a
+       company having a share capital proposes to increase its subscribed capital by
+       issue of further shares, such shares should first be offered to the existing
+       equity shareholders of the company as at the date of the offer, in proportion
+       to the paid-up capital on those shares. Hence, the company cannot ignore
+       a section of the existing shareholders and must offer the shares to the existing
+       equity shareholders in proportion of their holdings.
+
+       As per facts of the case, the Articles of SV Company Ltd. provide that the new
+       shares should first be offered to the existing shareholders. However, the
+       company offered new shares to all shareholders excepting VRS Company Ltd.,
+       which held a major portion of its equity shares. It is to be noted that under
+       the Companies Act, 2013, SV Company Ltd. did not have any legal authority
+       to do so.
+
+       Therefore, in the given case, decision of the Board of Directors of SV Company
+       Ltd. not to offer any further equity shares to VRS Company Ltd. on the ground
+       that VRS Company Ltd. already held a high percentage of shareholding in SV
+       Company Ltd. is not valid. Such a decision violates the provisions of section
+       62 (1) (a) as well as Articles of the issuing company.
+
+2. Alteration of Capital: Under section 61 (1) a limited company having a share
+       capital may, if authorised by its Articles, alter its Memorandum in its general
+       meeting to:
+
+       (i) increase its authorized share capital by such amount as it thinks
+               expedient;
+
+       (ii) consolidate and divide all or any of its share capital into shares of a
+               larger amount than its existing shares;
+
+               However, no consolidation and division which results in changes in the
+               voting percentage of shareholders shall take effect unless it is approved
+               by the Tribunal on an application made in the prescribed manner.
+SHARE CAPITAL AND DEBENTURES  4.91
+
+       (iii) convert all or any of its paid- up shares into stock and reconvert that
+               stock into fully paid shares of any denomination.
+
+       (iv) sub-divide its shares, or any of them, into shares of smaller amount than
+               is fixed by the Memorandum;
+
+       (v) cancel shares which, at the date of the passing of the resolution in that
+               behalf, have not been taken or agreed to be taken by any person, and
+               diminish the amount of its share capital by the amount of the shares so
+               cancelled.
+
+       Further, under section 64 where a company alters its share capital in any of
+       the above-mentioned ways, the company shall file a notice in the Form No.
+       SH-7 as per Rule 15 of the Companies (Share Capital and Debentures) Rules,
+       2014 with the Registrar, along with an altered memorandum within thirty days
+       of alteration. The capital clause of memorandum, if authorised by the Articles,
+       shall be altered by passing an ordinary resolution as per section 61 (1) of the
+       Companies Act, 2013.
+
+3. According to section 56 (4) of the Companies Act, 2013, every company,
+       unless prohibited by any provision of law or of any order of court, Tribunal or
+       other authority, shall deliver the certificates of all shares transferred within a
+       period of one month from the date of receipt by the company of the
+       instrument of transfer.
+
+       Further, as per section 56 (6), where any default is made in complying with
+       the provisions of sub-sections (1) to (5), the company and every officer of the
+       company who is in default shall be liable to a penalty of fifty thousand rupees.
+
+4. According to section 55(3) of the Companies Act, 2013, where a company is
+       not in a position to redeem any preference shares or to pay dividend, if any,
+       on such shares in accordance with the terms of issue (such shares hereinafter
+       referred to as unredeemed preference shares), it may--
+
+        with the consent of the holders of three-fourths in value of such
+               preference shares, and
+
+        with the approval of the Tribunal on a petition made by it in this behalf,
+
+       issue further redeemable preference shares equal to the amount due,
+       including the dividend thereon, in respect of the unredeemed preference
+       shares, and on the issue of such further redeemable preference shares, the
+       unredeemed preference shares shall be deemed to have been redeemed.
+4.92  CORPORATE AND OTHER LAWS
+
+       Provided that the Tribunal shall, while giving approval under this sub-section,
+       order the redemption forthwith of preference shares held by such persons
+       who have not consented to the issue of further redeemable preference shares.
+
+       In view of the provisions of section 55 (3), Silver Robotics Limited can initiate
+       steps for the issue of further redeemable preference shares equal to the
+       amount due i.e. ` 10,00,000. For this purpose, it shall obtain the consent of
+       the holders of three-fourths in value of such preference shares and also seek
+       approval of the Tribunal by making a petition. In case, there are certain
+       preference shareholders who have not accorded their consent for the
+       proposal of issuing further redeemable preference shares, the Tribunal may
+       order the company to redeem forthwith such preference shares. Accordingly,
+       Silver Robotics Limited must be ready with sufficient funds for the redemption
+       of preference shares held by those who have not consented.
+
+       On the issue of such further redeemable preference shares by the company,
+       the unredeemed preference shares shall be deemed to have been redeemed.
+
+5. Sweat equity shares of a class of shares already issued.
+
+       According to section 54 of the Companies Act, 2013, a company may issue
+       sweat equity shares of a class of shares already issued, if the following
+       conditions are fulfilled, namely--
+
+       (i) the issue is authorised by a special resolution passed by the company;
+
+       (ii) the resolution specifies the number of shares, the current market price,
+               consideration, if any, and the class or classes of directors or employees
+               to whom such equity shares are to be issued;
+
+       (iii) where the equity shares of the company are listed on a recognised stock
+               exchange, the sweat equity shares are issued in accordance with the
+               regulations made by the Securities and Exchange Board in this behalf
+               and if they are not so listed, the sweat equity shares are issued in
+               accordance with such rules as prescribed under Rule 8 of the Companies
+               (Share and Debentures) Rules, 2014,
+
+       The rights, limitations, restrictions and provisions as are for the time being
+       applicable to equity shares shall be applicable to the sweat equity shares
+       issued under Section 54 and the holders of such shares shall rank pari passu
+       with other equity shareholders.
+SHARE CAPITAL AND DEBENTURES  4.93
+
+       Trisha Data Security Limited can issue Sweat equity shares by following the
+       conditions as mentioned above. It does not make any difference that the
+       company is just about a year old, because there is no such age (time since
+       commencement of business) requirement under section 54.
+
+6. Amount lying to the credit of Securities Premium Account is required to be
+       utilised for certain prescribed purposes.
+
+       According to section 52 of the Companies Act, 2013, where a company issues
+       shares at a premium, whether for cash or otherwise, a sum equal to the
+       aggregate amount of the premium received on those shares shall be
+       transferred to a "securities premium account" and the provisions of this Act
+       relating to reduction of share capital of a company shall, except as provided
+       in this Section, apply as if the securities premium account were the paid-up
+       share capital of the company.
+
+       The securities premium account may be applied by the company--
+
+       (a) towards the issue of unissued shares of the company to the members
+               of the company as fully paid bonus shares;
+
+       (b) in writing off the preliminary expenses of the company;
+
+       (c) in writing off the expenses of, or the commission paid or discount
+               allowed on, any issue of shares or debentures of the company;
+
+       (d) in providing for the premium payable on the redemption of any
+               redeemable preference shares or of any debentures of the company; or
+
+       (e) for the purchase of its own shares or other securities under section 68.
+
+       The securities premium account may be applied by such class of companies, as
+       may be prescribed and whose financial statement comply with the accounting
+       standards prescribed for such class of companies under section 133,--
+
+       (a) in paying up unissued equity shares of the company to be issued to
+               members of the company as fully paid bonus shares; or
+
+       (b) in writing off the expenses of or the commission paid or discount
+               allowed on any issue of equity shares of the company; or
+
+       (c) for the purchase of its own shares or other securities under section 68.
+4.94  CORPORATE AND OTHER LAWS
+
+       Keeping the above points in view Walnut Foods Limited should proceed to
+       utilise the amount of Securities Premium Account.
+
+7. Restrictions on purchase by company or giving of loans by it for
+       purchase of its share: As per section 67 (3) of the Companies Act, 2013 a
+       company is allowed to give a loan to its employees subject to the following
+       limitations:
+
+       (a) The employee must not be a director or Key Managerial Personnel;
+
+       (b) The amount of such loan shall not exceed an amount equal to six
+               months' salary of the employee.
+
+       (c) The loan must be extended for subscribing fully paid-up shares.
+
+       In the given instance, Human Resource Manager Mr. Surya Nayan is not a Key
+       Managerial Personnel of the OLAF Limited. Further, he is drawing a salary of
+       ` 40,000 per month and wants to avail loan for purchasing 500 partly paid-
+       up equity shares of ` 1000 each of OLAF Limited in which he is employed.
+
+       Keeping the above facts and legal provisions in view, the decision of OLAF
+       Limited in granting a loan of ` 4,00,000 for purchase of its partly paid-up
+       shares to Human Resource Manager is invalid due to the following reasons:
+
+       i. The amount of loan is more than 6 months' salary of Mr. Surya Nayan,
+               the HR Manager. It should have been restricted to ` 2,40,000 only.
+
+       ii. The loan to be given by OLAF Limited to its HR Manager Mr. Surya
+               Nayan is meant for purchase of partly paid shares.
+
+8. Under section 62 (1) (c) of the Companies Act, 2013 where at any time, a
+       company having a share capital proposes to increase its subscribed capital by
+       the issue of further shares, either for cash or for a consideration other than
+       cash, such shares may be offered to any persons, if it is authorised by a special
+       resolution and if the price of such shares is determined by a empowered to
+       allot the shares to Sunil in settlement of its debt to him. This valuation report
+       of a registered valuer, subject to the compliance with the applicable
+       provisions of Chapter III and any other conditions as may be prescribed.
+
+       In the present case, Shilpi Developers India Limited's allotment, to be
+       classified as shares issued for consideration other than cash, must be
+       approved by the members by a special resolution. Further, the valuation of
+       the shares must be done by a registered valuer, subject to the compliance
+SHARE CAPITAL AND DEBENTURES  4.95
+
+       with the applicable provisions of Chapter III and any other conditions as may
+       be prescribed.
+
+9. Appointment of Debenture Trustee: Under section 71 (5) of the Companies
+       Act, 2013, no company shall issue a prospectus or make an offer or invitation
+       to the public or to its members exceeding five hundred for the subscription
+       of its debentures, unless the company has, before such issue or offer,
+       appointed one or more debenture trustees and the conditions governing the
+       appointment of such trustees shall be such as may be prescribed.
+
+       Rule 18 (2) of the Companies (Share Capital and Debentures) Rules, 2014,
+       framed under the Companies Act for the issue of secured debentures provide
+       that before the appointment of debenture trustee or trustees, a written
+       consent shall be obtained from such debenture trustee or trustees proposed
+       to be appointed and a statement to that effect shall appear in the letter of
+       offer issued for inviting the subscription of the debentures.
+
+       Further according to the rules, no person shall be appointed as a debenture
+       trustee, if he-
+
+       (i) beneficially holds shares in the company;
+
+       (ii) is a promoter, director or key managerial personnel or any other officer
+               or an employee of the company or its holding, subsidiary or associate
+               company;
+
+       (iii) is beneficially entitled to moneys which are to be paid by the company
+               otherwise than as remuneration payable to the debenture trustee;
+
+       (iv) is indebted to the company, or its subsidiary or its holding or associate
+               company or a subsidiary of such holding company;
+
+       (v) has furnished any guarantee in respect of the principal debts secured
+               by the debentures or interest thereon;
+
+       (vi) Has any pecuniary relationship with the company amounting to two
+               percent. or more of its gross turnover or total income or fifty lakh
+               rupees or such higher amount as may be prescribed, whichever is lower,
+               during the two immediately preceding financial years or during the
+               current financial year;
+4.96  CORPORATE AND OTHER LAWS
+
+       (vii) is a relative of any promoter or any person who is in the employment
+               of the company as a director or key managerial personnel;
+
+       Thus, based on the above provisions answers to the given questions are as
+       follows:
+
+       (i) A shareholder who has no beneficial interest, can be appointed as a
+               debenture trustee.
+
+       (ii) A creditor whom company owes ` 499 cannot be appointed as a
+               debenture trustee. The amount owed is immaterial.
+
+       (iii) A person who has given guarantee for repayment of principal and
+               interest thereon in respect of debentures also cannot be appointed as
+               a debenture trustee.
+
+10. The problem given in the question is governed by Section 58 of the
+       Companies Act, 2013 dealing with the refusal to register transfer and appeal
+       against such refusal.
+
+       In the present case, the company has committed the wrongful act of not
+       sending the notice of refusal to register the transfer of shares.
+
+       Under section 58 (1), if a private company limited by shares refuses to register
+       the transfer of, or the transmission by operation of law of the right to any
+       securities or interest of a member in the company, then the company shall send
+       notice of refusal to the transferor and the transferee or to the person giving
+       intimation of such transmission, within a period of thirty days from the date on
+       which the instrument of transfer, or the intimation of such transmission, was
+       delivered to the company.
+
+       According to section 58 (3), the transferee may appeal to the Tribunal against
+       the refusal within a period of thirty days from the date of receipt of the notice or
+       in case no notice has been sent by the company, within a period of sixty days
+       from the date on which the instrument of transfer or the intimation of
+       transmission, was delivered to the company.
+
+       In this case, as the company has not sent even a notice of refusal, Ms. Mukta
+       being transferee can file an appeal before the Tribunal within a period of sixty
+       days from the date on which the instrument of transfer was delivered to the
+       company.
+SHARE CAPITAL AND DEBENTURES  4.97
+
+11. According to section 63 of the Companies Act, 2013, a company may issue
+       fully paid-up bonus shares to its members, in any manner whatsoever, out of:
+
+       (i) its free reserves;
+
+       (ii) the securities premium account; or
+
+       (iii) the capital redemption reserve account.
+
+       Provided that no issue of bonus shares shall be made by capitalising reserves
+       created by the revaluation of assets.
+
+       Conditions for issue of Bonus Shares: No company shall capitalise its profits
+       or reserves for the purpose of issuing fully paid-up bonus shares, unless:
+
+       (i) it is authorised by its Articles;
+
+       (ii) it has, on the recommendation of the Board, been authorised in the
+               general meeting of the company;
+
+       (iii) it has not defaulted in payment of interest or principal in respect of
+               fixed deposits or debt securities issued by it;
+
+       (iv) it has not defaulted in respect of payment of statutory dues of the
+               employees, such as, contribution to provident fund, gratuity and bonus;
+
+       (v) the partly paid-up shares, if any, outstanding on the date of allotment,
+               are made fully paid-up;
+
+       (vi) it complies with such conditions as are prescribed by Rule 14 of the
+               Companies (Share Capital and debentures) Rules, 2014 which states that
+               the company which has once announced the decision of its Board
+               recommending a bonus issue, shall not subsequently withdraw the
+               same.
+
+       Further, the company has to ensure that the bonus shares shall not be issued
+       in lieu of dividend.
+
+       For the issue of bonus shares Shankar Portland Cement Limited will require
+       reserves of ` 50,00,000 (i.e. half of ` 1,00,00,000 being the paid-up share
+       capital), which is readily available with the company. Hence, after following
+       the above conditions relating to the issue of bonus shares, the company may
+       proceed for a bonus issue of 1 share for every 2 shares held by the existing
+       shareholders.
+4.98  CORPORATE AND OTHER LAWS
+
+12. According to section 68 (6), where an unlisted public company has passed a
+       special resolution under section 68 (2) (b) or the Board has passed a
+       resolution under item (ii) of the proviso to section 68 (2) (b) to buy-back its
+       own shares, it shall, before making such buy-back, file with the Registrar a
+       `Declaration of Solvency' in Form SH-9.
+
+       The declaration shall be verified by an affidavit to the effect that the Board
+       has made a full inquiry into the affairs of the company as a result of which
+       they have formed an opinion that it is capable of meeting its liabilities and
+       will not be rendered insolvent within a period of one year from the date of
+       declaration of solvency adopted by the Board. The declaration shall be signed
+       by at least two directors of the company, one of whom shall be the managing
+       director, if any.
+

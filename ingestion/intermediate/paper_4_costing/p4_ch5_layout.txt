@@ -1,0 +1,2722 @@
+CHAPTER  a  5
+
+ACTIVITY BASED
+COSTING
+
+                                      LEARNING OUTCOMES
+
+After studying this chapter, you would be able to-
+ Discuss problem of Traditional Costing System.
+ Discuss usefulness of Activity Based Costing (ABC).
+ Discuss Cost Allocation under ABC.
+ Discuss Different level of activities under ABC.
+ Understand stages, advantages, and limitations of ABC.
+ Discuss various requirements in ABC implementation.
+ Explain the concept of Activity Based Management (ABM).
+ Explain the concept of Activity Based Budgeting (ABB).
+
+CHAPTER OVERVIEW
+
+            Activity Based Costing
+
+Concept     Usefulness                                Cost    Steps
+                                                   Hierarchy
+
+© The Institute of Chartered Accountants of India
+a  5.2  COST AND MANAGEMENT ACCOUNTING
+
+     1. INTRODUCTION
+
+As discussed in chapter 4 i.e. Overhead, in Traditional Costing System, overhead
+costs are grouped together under cost center and then absorbed into product
+costs on either of the basis such as direct labour hours, machine hours, volume
+etc. In certain cases, this traditional costing system gives inaccurate cost
+information. Though, it should not be assumed that all traditional absorption
+costing systems are not accurate enough to give adequate information for pricing
+purposes or other long-run management decision purposes. Some traditional
+systems treat overheads in a detailed way and relate them to service cost centres
+as well as production cost centres. The service centre overheads are then spread
+over the production cost centres before absorption rates are calculated. The main
+cause of inaccuracy is in the calculation of the overhead rate itself, which is usually
+based on direct labour hours or machine hours. These rates assume that products
+that take longer to make, generate more overheads and so on.
+
+Organisations, who do not wish to know how much it costs to make a product
+with precise accuracy, may be happy with traditional costing system. Others,
+however, fix their price on cost basis and need to determine it with reasonable
+accuracy. The latter organisations have been greatly benefitted from the
+development of activity-based costing (ABC), which is considered as a modern
+absorption costing method, and was evolved to give more accurate product costs.
+
+1.1 Factors prompting the development of ABC
+
+Various factors lead to the development of ABC include:
+
+1. Growing overhead costs because of increasingly automated production
+
+2. Increasing market competition, which necessitated more accurate product
+       costs.
+
+3. Increasing product diversity to secure economies of scope & increased
+       market share.
+
+4. Decreasing costs of information processing because of continual
+       improvements and increasing application of information technology.
+
+© The Institute of Chartered Accountants of India
+ACTIVITY BASED COSTING  5.35.3  a
+
+1.2 Usefulness/Suitability of ABC
+
+ABC is particularly needed by organisations for product costing in the following
+situations:
+
+1. High amount of overhead: When production overheads are high and form
+       significant costs, ABC is more useful than traditional costing system.
+
+2. Wide range of products: ABC is most suitable, when, there is diversity in
+       the product range or there are multiple products.
+
+3. Presence of non-volume related activities: When non-volume related
+       activities e.g. material handling, inspection set-up, are present significantly
+       and traditional system cannot be applied, ABC is a superior and better
+       option. ABC will identify non-value-adding activities in the production process
+       that might be a suitable focus for attention or elimination.
+
+4. Stiff competition: When the organisation is facing stiff competition and
+       there is an urgent requirement to compute cost accurately and to fix the
+       selling price according to the market situation, ABC is very useful. ABC can
+       also facilitate in reducing cost by identifying non-value-adding activities in the
+       production process that might be a suitable focus for attention or elimination.
+
+     2. MEANING AND DEFINITION
+
+Activity Based Costing is an accounting methodology that assigns costs to
+activities rather than products or services. This enables resources & overhead
+costs to be more accurately assigned to products & services that consume them.
+ABC is a technique which involves identification of cost with each cost
+driving activity and making it as the basis for apportionment of costs over
+different cost objects/ jobs/ products/customers or services.
+
+ABC assigns cost to activities based on their use of resources. It then assigns cost
+to cost objects, such as products or customers, based on their use of activities.
+ABC can track the flow of activities in organization by creating a link between the
+activity (resource consumption) and the cost object.
+
+© The Institute of Chartered Accountants of India
+a  5.4                     COST AND MANAGEMENT ACCOUNTING
+
+CIMA defines `Activity Based Costing' as "An approach to the costing and
+monitoring of activities which involves tracing resource consumption and costing
+final outputs. Resources are assigned to activities, and activities to cost objects
+based on consumption estimates. The latter utilise cost drivers to attach activity
+costs to outputs."
+
+3. MEANING OF TERMS USED IN ABC
+
+(i) Activity: Activity, here, refers to an event that incurs cost.
+
+(ii) Cost Object: It is an item for which cost measurement is required e.g. a
+       product or a customer.
+
+(iii) Cost Driver: It is a factor that causes a change in the cost of an activity.
+       There are two categories of cost driver.
+
+· Resource Cost Driver: It is a measure of the quantity of resources
+       consumed by an activity. It is used to assign the cost of a resource to an
+       activity or cost pool.
+
+· Activity Cost Driver: It is a measure of the frequency and intensity of
+       demand, placed on activities by cost objects. It is used to assign activity
+       costs to cost objects.
+
+(iv) Cost Pool: It represents a group of various individual cost items. It consists
+       of costs that have same cause and effect relationship. Example machine
+       set-up.
+
+Examples of Cost Drivers:
+
+   Business Functions                              Cost Driver
+
+Research and Development                           · Number of research projects
+
+                                                   · Personnel hours on a project
+
+Design of products, services · Number of products in design
+
+and procedures                                     · Number of parts per product
+
+                                                   · Number of engineering hours
+
+Customer Service                                   · Number of service calls
+
+© The Institute of Chartered Accountants of India
+              ACTIVITY BASED COSTING               5.55.5  a
+
+Marketing                                          · Number of products serviced
+Distribution                                       · Hours spent on servicing products
+                                                   · Number of advertisements
+                                                   · Number of sales personnel
+                                                   · Sales revenue
+                                                   · Number of units distributed
+                                                   · Number of customers
+
+     4. COST ALLOCATION UNDER ABC
+
+Under activity based cost allocation overheads are attributed to products on the
+activity base. Traditionally, overhead costs are grouped together under cost
+centre and then absorbed into product costs on some basis such as direct labour
+hours. Activity based costing identifies the activities which cause cost to be
+incurred and searches for fundamental cost drivers of these activities. Once the
+activities and there cost drivers have been identified this information can be used
+to assign overheads to cost objects (e.g. products) which have actually caused
+cost to be incurred.
+
+© The Institute of Chartered Accountants of India
+a  5.6              COST AND MANAGEMENT ACCOUNTING
+
+5. TRADITIONAL ABSORPTION COSTING VS
+    ABC
+
+ Cost Allocation under Traditional and Activity Based Costing system
+
+Cost Ascertainment                                 Direct Cost      Tracing of  Product/
+                                                   Indirect Cost    Cost         Service
+
+                                                                  Cost
+                                                                  Allocation
+
+                    Traditional Costing                           Activity based Costing
+
+                    Based on Machine                              Based on Cost Driver
+                    hours, labour Hours,
+                    Volume etc.
+
+Cost Allocation under Traditional and Activity Based Costing System
+
+In traditional absorption costing overheads are first related to cost centres
+(Production & Service Centres) and then to cost objects, i.e., products. In ABC
+overheads are related to activities or grouped into cost pools. Then they are
+related to the cost objects, e.g., products. The two processes are, therefore, very
+similar, but the first stage is different, as ABC uses activities instead of functional
+departments (cost centres). The problem with functional departments is that they
+tend to include a series of different activities, which incur a number of different
+costs that behave in different ways. Activities also tend to run across functions; for
+instance, procurement of materials often includes raising a requisition note in a
+manufacturing department or stores. It is not raised in the purchasing department
+where most procurement costs are incurred. Activity costs tend to behave in a
+similar way to each other i.e., they have the same cost driver. Therefore, ABC gives
+a more realistic picture of the way in which costs behave.
+
+© The Institute of Chartered Accountants of India
+                ACTIVITY BASED COSTING                                5.75.7  a
+
+Difference between Activity Based Costing and Traditional Absorption
+Costing
+
+Activity Based Costing                             Traditional Absorption Costing
+
+1. Overheads are related to 1. Overheads are related to cost
+
+activities and grouped into                        centers/departments.
+
+activity cost pools.
+
+2. Costs are related to activities 2               Costs are related to cost centers
+     and hence are more realistic.                 and hence not realistic of cost
+                                                   behaviour.
+
+3 Activity­wise cost drivers are 3. Time (Hours) are assumed to be
+
+determined.                                        the only cost driver governing
+
+                                                   costs in all departments.
+
+4. Activity­wise recovery rates are 4. Either multiple overhead recovery
+
+determined and there is no                         rates (for each department) or a
+
+concept of a single overhead                       single overhead recovery rate may
+
+recovery rate.                                     be determined for absorbing
+
+                                                   overheads.
+
+5. Cost are assigned to cost 5. Costs are assigned to Cost Units
+
+objects, e.g. customers,                           i.e. to products, or jobs or hours.
+
+products, services, departments,
+
+etc.
+
+6. Essential activities can be 6. Cost Centers/ departments cannot
+
+simplified and unnecessary                         be eliminated. Hence, not suitable
+
+activities can be eliminated.                      for cost control.
+
+Thus, the corresponding costs
+
+are also reduced/ minimized.
+
+Hence ABC aids cost control.
+
+© The Institute of Chartered Accountants of India
+a               5.8                COST AND MANAGEMENT ACCOUNTING
+
+6. LEVEL OF ACTIVITIES UNDER ABC METHO-
+    DOLOGY/COST HIERARCHY
+
+These categories are generally accepted today, but were first identified by Cooper
+(1990). The categories of activities help to determine the type of activity cost
+driver required.
+
+The categories of activities are:
+
+Level of                 Meaning                                 Example
+Activities
+
+1. Unit level   These are those activities ·                The  use  of               indirect
+    activities
+                for      which                     the      materials/consumables tends to
+
+                consumption of resources                    increase in proportion to the
+
+                can be identified with the                  number of units produced.
+
+                number of                          units ·  The inspection or testing of every
+                produced.
+                                                            item produced, if this was deemed
+
+                                                            necessary or, perhaps more likely,
+                                                            every 100th item produced.
+
+2. Batch        The activities such as ·                    Material ordering­where an order
+    level       setting up of a machine                     is placed for every batch of
+    activities  or processing a purchase                    production
+                order are performed each ·
+                time a batch of goods is                    Machine set-up costs­where
+                produced. The cost of                       machines need resetting between
+                batch related activities ·                  each different batch of production.
+                varies with number of
+                batches made, but is                        Inspection of products where the
+                common (or fixed) for all                   first item in every batch is
+                units within the batch.                     inspected rather than every 100th
+                                                            item quoted above.
+
+3. Product      These are the activities ·                  Designing the product,
+    level                                                   Producing parts specifications
+    activities  which are performed to ·                    Keeping technical drawings of
+                                                            products up to date.
+                support            different ·
+
+                products in product line
+
+© The Institute of Chartered Accountants of India
+                     ACTIVITY BASED COSTING        5.95.9                    a
+
+4. Facilities   These are the activities ·         Maintenance of buildings
+    level                                          Plant security
+    activities  which cannot be directly ·
+                attributed to individual
+
+                products. These activities
+
+                are necessary to sustain
+
+                the  manufacturing
+
+                process and are common
+
+                and joint to all products
+
+                manufactured
+
+     7. STAGES IN ACTIVITY BASED COSTING (ABC)
+
+The different stages in ABC calculations are listed below:
+
+(1) Identify the different activities within the organisation: Usually the
+       number of cost centres that a traditional overhead system uses is quite
+       small, say up to fifteen. In ABC, the number of activities will be much more,
+       say 200; the exact number will depend on how the management subdivides
+       the organisation's activities. It is possible to break the organisation down into
+       many very small activities. But if ABC is to be acceptable as practical system
+       it is necessary to use larger groupings, say, 40 activities may be used in
+       practice. The additional number of activities over cost centres means that
+       ABC should be more accurate than the traditional method regardless of
+       anything else. Some activities may be listed as follows:-
+
+       · Production schedule changes
+
+       · Customer liaison
+
+       · Purchasing
+
+       · Production process set up
+
+       · Quality control
+
+       · Material handling
+
+       · Maintenance
+
+© The Institute of Chartered Accountants of India
+a  5.10  COST AND MANAGEMENT ACCOUNTING
+
+(2) Relate the overheads to the activities, both support and primary, that
+       caused them. This creates `cost pools' or `cost buckets'. This will be done
+       using resource cost drivers that reflect causality.
+
+(3) Support activities are then spread across the primary activities on some
+       suitable base, which reflects the use of the support activity. The base is the
+       cost driver that is the measure of how the support activities are used.
+
+(4) Determine the activity cost drivers that will be used to relate the
+       overheads collected in the cost pools to the cost objects/products. This is
+       based on the factor that drives the consumption of the activity. The
+       question to ask is ­ what causes the activity to incur costs? In production
+       scheduling, for example, the driver will probably be the number of batches
+       ordered.
+
+(5) Calculate activity cost driver rates for each activity, just as an overhead
+       absorption rate would be calculated in the traditional system.
+
+                     Activity cost driver rate = Total cost of activity
+                                                                      Activity driver
+
+       The activity driver rate can be used not only to identify cost of products, as
+       in traditional absorption costing, but it can also be used for costing other
+       cost objects such as customers/customer segments and distribution
+       channels. The possibility of costing objects other than products is part of
+       the benefit of ABC. The activity cost driver rates will be multiplied by the
+       different amounts of each activity that each product/other cost object
+       consumes.
+
+                                     Cost allocation under ABC
+
+© The Institute of Chartered Accountants of India
+ACTIVITY BASED COSTING                                      5.151.11  a
+
+Let us take a small example to understand the steps stated above:
+
+Assume that a company makes widgets and the management decides to install an
+ABC system. The management decides that all overhead costs will have only three
+cost drivers viz. direct labour hours, machine hours and number of purchase
+orders. The general ledger of the company shows the following overhead costs ­
+
+                              General Ledger                               (`)
+Perquisite taxes                                                       1,000
+Machine maintenance
+Purchasing Dept. labour                                                   500
+Fringe benefits                                                        4,000
+Purchasing Dept. Supplies                                              2,000
+Equipment depreciation
+Electricity                                                               250
+Employees' group insurance                                                750
+Total                                                                  1,250
+                                                                       1,500
+                                                                      11,250
+
+So, which overheads do you think are driven by direct labour hours?
+The answer is
+
+Perquisite taxes                                   ` 1,000
+Fringe benefits                                    ` 2,000
+Employees' group insurance                         ` 1,500
+Total                                              ` 4,500
+
+Similarly, overheads driven by machine hours include Machine maintenance,
+depreciation and electricity, totaling ` 2,500 and finally overheads driven by
+number of purchase orders include purchasing department labour and purchasing
+department supplies, totaling ` 4,250.
+
+Now, overhead rate is calculated by the formula
+
+Total cost in the activity pool ÷ Base,
+
+base being the total number of labour hours, machine hours and total number of
+purchase orders in the given case.
+
+© The Institute of Chartered Accountants of India
+a             5.12             COST AND MANAGEMENT ACCOUNTING
+
+Assume that the total number of labour hours be 1,000 hours, machine hours be
+250 hours and total purchase orders be 100 orders.
+
+So, Cost driver rate would be
+
+Cost Driver Rate                                   (`)
+
+` 4,500/ 1,000                 ` 4.50 per labour hour
+
+` 2,500/ 250                   ` 10 per machine hour
+
+` 4,250/ 100                   ` 42.50 per purchase order
+
+Now, let's allocate the overheads between two widgets A and B the details of
+which are given below:
+
+                  Particulars                           Widget A  Widget B
+
+Labour hours                                            400       600
+
+Machine Hours                                           100       150
+
+Purchase Orders                                         50        50
+
+So, total overhead costs applied to widget A = (400 × ` 4.50) + (100 × ` 10) + (50
+× ` 42.50) = ` 4,925
+
+And total overheads applied to widget B = (600 × ` 4.50) + (150 × ` 10) + (50 ×
+` 42.50) = ` 6,325
+
+So total overheads = ` 4,925 + ` 6,325 = ` 11,250.
+
+Generally, in the traditional costing method, overheads are applied on the basis
+of direct labour hours (total 1,000 labour hours in the given case). So, in that case
+the overhead absorption rate would be ­ ` 11,250/1000 = ` 11.25 per hour and
+the total overheads applied to Widget A would have been = 400 × 11.25 =
+` 4,500 and to Widget B = 600 × ` 11.25 = ` 6,750.
+
+Hence Widget A would have been under-valued and Widget B over-valued by
+` 425.
+
+© The Institute of Chartered Accountants of India
+ACTIVITY BASED COSTING                             5.153.13                   a
+
+Examples of Cost Drivers
+
+Some of the examples of cost drivers for different activity pools in a production
+department are stated below:
+
+Activity Cost Pools                                Related Cost Drivers
+Ordering and Receiving Materials cost              Number of purchase orders
+Setting up machines costs                          Number of set-ups
+Machining costs                                    Machine hours
+Assembling costs                                   Number of parts
+Inspecting and testing costs                       Number of tests
+Painting costs                                     Number of parts
+Supervising Costs                                  Direct labour hours
+
+The process of calculating cost driver rate is illustrated in diagrammatic
+presentation as below:
+
+© The Institute of Chartered Accountants of India
+a  5.14                      COST AND MANAGEMENT ACCOUNTING
+
+ILLUSTRATION 1
+
+ABC Ltd. is a multiproduct company, manufacturing three products A, B and C. The
+budgeted costs and production for the year ending 31st March are as follows:
+
+                                                   A              B   C
+
+Production quantity (Units)                        4,000  3,000       1,600
+
+Resources per Unit:
+
+- Direct Materials (Kg.)                           4              6   3
+
+- Direct Labour (Minutes)                          30             45  60
+
+The budgeted direct labour rate was ` 10 per hour, and the budgeted material cost
+was ` 2 per kg. Production overheads were budgeted at ` 99,450 and were
+absorbed to products using the direct labour hour rate. ABC Ltd. followed the
+Absorption Costing System.
+
+ABC Ltd. is now considering to adopt an Activity Based Costing system. The
+following additional information is made available for this purpose.
+
+1. Budgeted overheads were analysed into the following:
+
+                                                          (`)
+
+Material handling                                         29,100
+
+Storage costs                                             31,200
+
+Electricity                                               39,150
+
+2. The cost drivers identified were as follows:
+
+Material handling Weight of material handled
+
+Storage costs        Number of batches of material
+
+Electricity          Number of Machine operations
+
+© The Institute of Chartered Accountants of India
+          ACTIVITY BASED COSTING                                5.155.15  a
+
+3. Data on Cost Drivers was as follows:
+
+                                                   A      B     C
+
+For complete production:
+
+Batches of material                                10     5     15
+
+Per unit of production:
+
+        Number of Machine operations               6      3     2
+You are requested to:
+
+1. PREPARE a statement for management showing the unit costs and total costs
+       of each product using the absorption costing method.
+
+2. PREPARE a statement for management showing the product costs of each
+       product using the ABC approach.
+
+3. STATE what are the reasons for the different product costs under the two
+       approaches?
+
+SOLUTION
+
+1. Traditional Absorption Costing
+
+                                                       A     B  C Total
+
+(a) Quantity (units)                                   4,000 3,000 1,600 8,600
+
+(b) Direct labour (minutes)                            30 45 60              -
+
+(c) Direct labour hours (a × b)/60 minutes 2,000 2,250 1,600 5,850
+Overhead rate per direct labour hour:
+
+= Budgeted overheads Budgeted labour hours
+
+= ` 99,450  5,850 hours
+
+= ` 17 per direct labour hour
+
+© The Institute of Chartered Accountants of India
+a  5.16                    COST AND MANAGEMENT ACCOUNTING
+
+Unit Costs:
+
+                                                   A (`)          B (`)            C (`)
+
+   Direct Costs:                                            5.00           7.50           10.00
+     - Direct Labour                                        8.00         12.00              6.00
+     - Direct Material                                      8.50         12.75
+                                                    ` 17×30        ` 17×45                17.00
+   Production Overhead:                             60             60               ` 17×60 
+                                                          21.50          32.25      60 
+   Total unit costs                                       4,000          3,000
+   Number of units                                      86,000         96,750             33.00
+   Total costs                                                                            1,600
+                                                                                        52,800
+
+2. Activity Based Costing
+
+                                                   A              B           C    Total
+                                                                            1,600     -
+Quantity (units)                                   4,000 3,000                        -
+Material Weight per unit (Kg.)                                                3
+Total material weight                              4              6         4,800  38,800
+Machine operations per unit                                                           -
+Total operations                                   16,000 18,000              2
+Total batches of Material                                                   3,200  36,200
+                                                   6              3                  30
+                                                                              15
+                                                   24,000 9,000
+
+                                                   10             5
+
+Material handling rate per kg.                            = ` 29,100  38,800 kg.
+
+                                                          = ` 0.75 per kg.
+
+Electricity rate per machine operations = ` 39,150  36,200
+
+                                                          = ` 1.081 per machine operations
+
+Storage rate per batch                                    = ` 31,200  30 batches
+
+                                                          = ` 1,040 per batch
+
+© The Institute of Chartered Accountants of India
+             ACTIVITY BASED COSTING                                               5.157.17  a
+
+Unit Costs:
+
+                                                   A (`)           B (`)            C (`)
+
+Direct Costs:                                      5.00            7.50             10.00
+Direct Labour                                                                       6.00
+Direct material                                    8.00            12.00
+Production Overheads:
+Material Handling                                     3.00            4.50             2.25
+
+Electricity                                        (`0.75  4)      (`0.75  6)       (`0.75  3)
+
+Storage                      6.49                                    3.24               2.16
+
+Total unit costs         (`1.081  6)                             (`1.081  3)        (`1.081  2)
+Number of units
+Total costs                                        2.60            1.73             9.75
+
+                         `10                       ` 1,040         `5×  `1,040      `15×    `1,040  
+                                                   4,000                3,000                       
+                                                                                            1,600
+
+                                                   25.09           28.97            30.16
+
+                                                   4,000           3,000            1,600
+
+                       ` 1,00,360                                ` 86,910           ` 48,256
+
+3. Comments: The difference in the total costs under the two systems is due
+       to the differences in the overheads borne by each of the products. The
+       Activity Based Costs appear to be more precise.
+
+     8. ADVANTAGES OF ACTIVITY BASED COSTING
+
+The main advantages of using Activity Based Costing are:
+(i) More accurate costing of products/services.
+(ii) Overhead allocation is done on logical basis.
+(iii) It enables better pricing policies by supplying accurate cost information.
+(iv) Utilizes unit cost rather than just total cost
+
+© The Institute of Chartered Accountants of India
+a  5.18  COST AND MANAGEMENT ACCOUNTING
+
+(v) Help to identify non-value added activities which facilitates cost reduction.
+(vi) It is helpful to the organizations with multiple products.
+(vii) It highlights problem areas which require attention of the management.
+
+     9. LIMITATIONS OF ACTIVITY BASED COSTING
+
+The main limitations using Activity Based Costing are:
+(i) It is more expensive, particularly in comparison with traditional costing
+
+       system.
+(ii) It is not helpful to the small organizations.
+(iii) It may not be applied to organizations with limited products.
+(iv) Selection of the most suitable cost driver may not be easy/ may be difficult
+
+       or complicated.
+
+     10. REQUIREMENTS IN ABC IMPLEMENTATION
+
+A number of distinct practical stages are required in the ABC implementation
+which are given as below:
+
+(1) Staff Training: The co-operation of the workforce is critical to the
+       successful implementation of ABC. Staff training should be done to create
+       an awareness on the purpose of ABC.
+
+(2) Process Specification: Informal, but structured interviews with key members
+       of personnel will identify the different stages of the production process, the
+       commitment of resources to each, processing times and bottlenecks.
+
+(3) Activity Definition: The activities must be defined clearly in the early stage in
+       order to manage the problems, if any, effectively. There might be overloading
+       of information from the new data, but the same is needed in codification.
+
+(4) Activity Driver Selection: Cost driver for each activity shall be selected.
+
+(5) Assigning Cost: A single representative activity driver can be used to assign
+       costs from the activity pools to the cost objects.
+
+© The Institute of Chartered Accountants of India
+ACTIVITY BASED COSTING                             5.159.19  a
+
+     11. PRACTICAL APPLICATIONS OF ACTIVITY
+          BASED COSTING
+
+11.1 As a Decision-Making Tool
+
+ABC can act as a decision making tool in the following ways:
+
+(i) ABC along with some other cost management technique can be utilized to
+       improve performance and profitability of an organization.
+
+(ii) Wholesale distributors can gain significant advantage in the decision-
+       making process through implementation of ABC concepts by correlating
+       costs to various activities. Introduction of new product or vendor can be
+       better decided through ABC.
+
+(iii) ABC can assist in decisions related to facility and resource expansion. Often
+       the basis for relocation or opening of a new distribution center is based on
+       cost associations. Reduction in freight or other logistic costs can offset the
+       expense of the new facility, staff or equipment. The ABC model can identify
+       the specific cost elements being targeted, providing a much clearer picture
+       which aids in management actions.
+
+(iv) ABC augments decision support for human resources. Since the activity
+       (and therefore costs) can be associated to an individual, new levels of
+       financial performance can be determined. This might be evident in the case
+       of branch management or sales.
+
+(v) Companies who wish to determine price based on cost plus markup basis
+       find ABC method of costing very relevant and are able to determine
+       competitive prices for their products.
+
+11.2 As Activity Based Management
+
+Meaning of Activity Based Management
+
+The term Activity Based Management (ABM) is used to describe the cost
+management application of ABC. The use of ABC as a costing tool to manage
+costs at activity level is known as Activity Based Management (ABM). ABM is
+a discipline that focuses on the efficient and effective management of activities as
+the route to continuously improving the value received by customers. ABM
+utilizes cost information gathered through ABC.
+
+© The Institute of Chartered Accountants of India
+a  5.20  COST AND MANAGEMENT ACCOUNTING
+
+Various analysis in Activity Based Management
+
+The various types of analysis involved in ABM are as follows:
+
+(1) Cost Driver Analysis: The factors that cause activities to be performed need
+       to be identified in order to manage activity costs. Cost driver analysis
+       identifies the causal factors.
+
+(2) Activity Analysis.
+
+       (a) Value-Added Activities (VA): The value-added activities are those
+               activities which are indispensable in order to complete the process.
+               The customers are usually willing to pay (in some way) for these
+               services. For example, polishing furniture by a manufacturer dealing in
+               furniture is a value added activity.
+
+       (b) Non-Value-Added Activities (NVA): The NVA activity represents work
+               that is not valued by the external or internal customer. NVA
+               activities do not improve the quality or function of a product or
+               service, but they can adversely affect costs and prices. Moving
+               materials and machine set up for a production run are examples of
+               NVA activities.
+
+(3) Performance Analysis: Performance analysis involves the identification of
+       appropriate measures to report the performance of activity centres or
+       other organisational units, consistent with each unit's goals and objectives.
+
+Activity Based Management in Business
+
+Activity Based Management can be used in the following ways
+
+(i) Cost Reduction: ABM helps the organisation to identify costs against
+       activities and to find opportunities to streamline or reduce the costs or
+       eliminate the entire activity, especially if there is no value added.
+
+(ii) Business Process Re-engineering: Business process re-engineering
+       involves examining business processes and making substantial changes
+       to how organisation currently operates. ABM is a powerful tool for
+       measuring business performance, determining the cost of business output
+       and is used as a means of identifying opportunities to improve process
+       efficiency and effectiveness.
+
+© The Institute of Chartered Accountants of India
+ACTIVITY BASED COSTING                             5.251.21  a
+
+(iii) Benchmarking: Benchmarking is a process of comparing of ABC-derived
+       activity costs of one segment of company with those of other
+       segments. It requires uniformity in the definition of activities and
+       measurement of their costs.
+
+(iv) Performance Measurement: Many organisations are now focusing on
+       activity performance as a means of facing competitors and managing costs
+       by monitoring the efficiency and effectiveness of activities.
+
+         Area                                               Measure
+Quality of purchased component                     Zero defects
+Quality of output                                  % yield
+Customer awareness                                 Orders; number of complaints
+
+11.3 Facilitate Activity Based Budgeting
+
+Meaning of Activity Based Budgeting (ABB)
+
+Activity based budgeting analyse the resource input or cost for each activity. It
+provides a framework for estimating the amount of resources required in
+accordance with the budgeted level of activity. Actual results can be compared
+with budgeted results to highlight both, in financial and non-financial terms,
+those activities with major discrepancies from budget for potential reduction in
+supply of resources. It is a planning and control system which seeks to support
+the objectives of continuous improvement. It means planning and controlling the
+expected activities of the organization to derive a cost-effective budget that meet
+forecast workload and agreed strategic goals. ABB is the reversing of the ABC
+process to produce financial plans and budgets.
+
+Key Elements of ABB
+
+The three key elements of activity based budgeting are as follows:-
+
+ Type of work to be done
+
+ Quantity of work to be done
+
+ Cost of work to be done
+
+© The Institute of Chartered Accountants of India
+a             5.22  COST AND MANAGEMENT ACCOUNTING
+
+Benefits of ABB
+
+Few benefits of activity based budgeting are as follows:-
+
+(i) Activity Based Budgeting (ABB) can enhance accuracy of financial forecasts
+       and increasing management understanding.
+
+(ii) When automated, ABB can rapidly and accurately produce financial plans
+       and models based on varying levels of volume assumptions.
+
+(iii) ABB eliminates much of the needless rework created by traditional
+       budgeting techniques.
+
+ILLUSTRATION 2
+MST Limited has collected the following data for its two activities. It calculates
+activity cost rates based on cost driver capacity.
+
+Activity            Cost Driver                    Capacity             Cost
+
+Power               Kilowatt hours                 50,000 kilowatt hours ` 2,00,000
+
+Quality Inspections Number of Inspections 10,000 Inspections          ` 3,00,000
+
+The company makes three products M, S and T. For the year ended March 31st, the
+following consumption of cost drivers was reported:
+
+Product             Kilowatt hours                 Quality Inspections
+
+       M            10,000                                     3,500
+
+           S        20,000                                     2,500
+
+           T        15,000                                     3,000
+
+Required:
+
+(i) COMPUTE the costs allocated to each product from each activity.
+
+(ii) CALCULATE the cost of unused capacity for each activity.
+
+(iii) DISCUSS the factors the management considers in choosing a capacity level
+       to compute the budgeted fixed overhead cost rate.
+
+© The Institute of Chartered Accountants of India
+                 ACTIVITY BASED COSTING                              5.253.23          a
+
+SOLUTION
+
+(i) Statement of cost allocation to each product from each activity
+
+                 M (`)                                  Product      T (`)              Total
+                                                   S (`)                                  (`)
+
+Power (Refer             40,000                             80,000            60,000   1,80,000
+to working       (10,000 kWh                        (20,000 kWh       (15,000 kWh
+note)                                                                                  2,70,000
+                          × `4)                                ×`4)              ×`4)
+Quality
+                      1,05,000                              75,000            90,000
+Inspections              (3,500                              (2,500            (3,000
+                                                   inspections ×     inspections ×
+(Refer       to   inspections
+                         × `30)                               ` 30)             ` 30)
+working note)
+
+Working note
+
+Rate per unit of cost driver:
+
+Power            (` 2,00,000 / 50,000 kWh)                           ` 4/kWh
+
+Quality Inspection (` 3,00,000 / 10,000 inspections) ` 30 per inspection
+
+(ii) Computation of cost of unused capacity for each activity:
+
+Power (` 2,00,000 ­ ` 1,80,000) or 5,000 x 4                                             (`)
+Quality Inspections (` 3,00,000 ­ ` 2,70,000) or 1,000 x 30                            20,000
+Total cost of unused capacity                                                          30,000
+                                                                                       50,000
+
+(iii) Factors management consider in choosing a capacity level to compute
+       the budgeted fixed overhead cost rate:
+
+· Effect on product costing & capacity management
+
+· Effect on pricing decisions.
+
+· Effect on performance evaluation
+
+· Effect on financial statements
+
+· Regulatory requirements.
+
+· Difficulties in forecasting.
+
+© The Institute of Chartered Accountants of India
+a      5.24                 COST AND MANAGEMENT ACCOUNTING
+
+ILLUSTRATION 3
+
+ABC Ltd. Manufactures two types of machinery equipment Y and Z and
+applies/absorbs overheads on the basis of direct-labour hours. The budgeted
+overheads and direct-labour hours for the month of December are
+` 12,42,500 and 20,000 hours respectively. The information about Company's
+products is as follows:
+
+                                                   Equipment      Equipment
+
+                                                   Y              Z
+
+Budgeted Production volume                         2,500 units    3,125 units
+
+Direct material cost                               ` 300 per unit ` 450 per unit
+
+Direct labour cost
+
+Y : 3 hours @ ` 150 per hour
+
+Z : 4 hours @ ` 150 per hour                       ` 450          ` 600
+
+ABC Ltd.'s overheads of ` 12,42,500 can be identified with three major activities:
+
+Order Processing (` 2,10,000), machine processing (` 8,75,000), and product
+inspection (` 1,57,500). These activities are driven by number of orders processed,
+machine hours worked, and inspection hours, respectively. The data relevant to
+these activities is as follows:
+
+  Y    Orders processed                            Machine hours  Inspection hours
+  Z                                                     worked
+Total           350                                      23,000           4,000
+                250                                      27,000          11,000
+                600                                      50,000          15,000
+
+Required:
+
+(i) Assuming use of direct-labour hours to absorb/apply overheads to production,
+       COMPUTE the unit manufacturing cost of the equipment Y and Z, if the
+       budgeted manufacturing volume is attained.
+
+(ii) Assuming use of activity-based costing, COMPUTE the unit manufacturing costs
+       of the equipment Y and Z, if the budgeted manufacturing volume is achieved.
+
+© The Institute of Chartered Accountants of India
+            ACTIVITY BASED COSTING                                          5.255.25  a
+
+(iii) ABC Ltd.'s selling prices are based heavily on cost. By using direct-labour
+       hours as an application base, CALCULATE the amount of cost distortion
+       (under-costed or over-costed) for each equipment.
+
+SOLUTION
+
+(i) Overheads application base: Direct labour hours
+
+                                                             Equipment Equipment
+
+                                                             Y (`)             Z (`)
+
+Direct material cost                                         300               450
+
+Direct labour cost                                           450               600
+
+Overheads*                                                   186.38            248.50
+
+                                                             936.38 1,298.50
+
+                        Budgeted overheads                           `12, 42,500      = `62.125
+
+*Pre-determined rate =                                            =
+                        Budgeted direct labour hours 20,000 hours
+
+(ii) Estimation of Cost-Driver rate
+
+Activity              Overhead cost Cost-driver level                          Cost driver
+                                         (`)                                        rate
+                                                                                             (`)
+Order processing                                   2,10,000  600                           350
+
+                                                             Orders processed            17.50
+
+Machine                                            8,75,000  50,000                      10.50
+processing
+                                                             Machine hours
+
+Inspection                                         1,57,500  15,000
+
+                                                             Inspection hours
+
+© The Institute of Chartered Accountants of India
+       a  5.26          COST AND MANAGEMENT ACCOUNTING
+
+                                                   Equipment Equipment
+
+                                                   Y (`)     Z (`)
+
+       Direct material cost                        300       450
+       Direct labour cost
+       Prime Cost                                  450       600
+       Overhead Cost
+       Order processing 350 : 250 or Rs 350 per    750       1,050
+       order
+       Machine processing 23,000 : 27,000 or `     1,22,500    87,500
+       17.5 per hour                               4,02,500  4,72,500
+       Inspection 4,000 : 11,000                             1,15,500
+       Total overhead cost                           42,000  6,75,500
+                                                   5,67,000
+
+       Per unit cost                                 Y (`)       Z (`)
+       5,67,000 /2,500                             226.80    ` 216.16
+       6,75,500/ 3,125
+       Unit manufacturing cost (Prime Cost +       ` 976.80 ` 1,266.16
+       Overhead per unit)
+
+(iii)
+
+                                                   Equipment Equipment
+
+                                                   Y (`)     Z (`)
+
+       Unit manufacturing cost­using direct        936.38    1,298.50
+       labour hours as an application base
+
+       Unit manufacturing cost-using activity      976.80    1,266.16
+       based costing
+
+       Cost distortion                             (-)40.42  + 32.34
+
+       Low volume product Y is under-costed and high volume product Z is over
+       costed using direct labour hours for overhead absorption.
+
+© The Institute of Chartered Accountants of India
+                ACTIVITY BASED COSTING                                           5.257.27  a
+
+ILLUSTRATION 4
+
+`Humara - Apna' bank offers three products, viz., deposits, Loans and Credit Cards.
+The bank has selected 4 activities for a detailed budgeting exercise, following
+activity based costing methods.
+
+The bank wants to know the product wise total cost per unit for the selected
+activities, so that prices may be fixed accordingly.
+
+The following information is made available to formulate the budget:
+
+Activity                                           Present    Estimation for the budget
+                                                   Cost (`)                    period
+
+ATM Services:                                      4,00,000   All fixed, no change.           during
+(a) Machine Maintenance                            2,00,000   Fully fixed, no change.
+(b) Rents                                          1,00,000   Expected to double
+(c) Currency Replenishment                                    budget period.
+
+       Cost                                        7,00,000 (This activity is driven by no. of
+                                                                 ATM transactions)
+Computer Processing
+                                                   5,00,000   Half this amount is fixed and no
+Issuing Statements                                            change is expected.
+
+                                                              The variable portion is expected
+                                                              to increase to three times the
+                                                              current level.
+
+                                                              (This activity is driven by the
+
+                                                              number         of        computer
+
+                                                              transactions)
+
+                                                   18,00,000  Presently, 3 lakh statements are
+                                                              made. In the budget period, 5
+                                                              lakh statements are expected.
+
+                                                              For every increase of one lakh
+                                                              statement, one lakh rupees is the
+                                                              budgeted increase.
+
+                                                              (This activity is driven by the
+                                                              number of statements)
+
+© The Institute of Chartered Accountants of India
+a           5.28                COST AND MANAGEMENT ACCOUNTING
+
+Computer Inquiries                                 2,00,000 Estimated to increase by 80%
+                                                                 during the budget period.
+
+                                                                 (This activity is driven by
+                                                                 telephone minutes)
+
+The activity drivers and their budgeted quantifies are given below:
+
+            Activity Drivers                                 Deposits  Loans         Credit
+                                                                                     Cards
+
+No. of ATM Transactions                                      1,50,000        ---     50,000
+
+No. of Computer Processing                                   15,00,000 2,00,000 3,00,000
+Transactions
+
+No. of Statements to be issued                               3,50,000 50,000 1,00,000
+
+Telephone Minutes                                            3,60,000 1,80,000 1,80,000
+
+The bank budgets a volume of 58,600 deposit accounts, 13,000 loan accounts, and
+14,000 Credit Card Accounts.
+
+Required:
+
+(i) CALCULATE the budgeted rate for each activity.
+
+(ii) PREPARE the budgeted cost statement activity wise.
+
+(iii) COMPUTE the budgeted product cost per account for each product using (i)
+       and (ii) above.
+
+SOLUTION
+
+            Statement Showing "Budgeted Cost per unit of the Product"
+
+  Activity    Activity  Activity                   No. of Activity Deposits   Loans  Credit
+                 Cost    Driver                                                 (`)  Cards
+ATM                                                Units of Rate
+Services    (Budgeted)                                                                 (`)
+                 (` )                              Activity (`)        (`)
+                                                                                     2,00,000
+                                                   Driver
+
+                                                   (Budget)
+
+            8,00,000 No. of ATM 2,00,000 4.00                          6,00,000 ---
+                        Transaction
+
+© The Institute of Chartered Accountants of India
+              ACTIVITY BASED COSTING                               5.259.29   a
+
+Computer    10,00,000 No. of                       20,00,000 0.50   7,50,000 1,00,000 1,50,000
+Processing
+                       Computer                                    14,00,000 2,00,000 4,00,000
+                                                                    1,80,000 90,000 90,000
+                       processing
+                                                                   29,30,000 3,90,000 8,40,000
+                       Transaction                                    58,600 13,000 14,000
+                                                                        (`) 50 (`) 30 (`) 60
+Issuing     20,00,000 No. of                       5,00,000 4.00
+Statements
+                       Statements
+
+Customer      3,60,000 Telephone                   7,20,000 0.50
+Inquiries                 Minutes
+
+Budgeted    41,60,000
+Cost
+
+Units of Product (as estimated in the budget period)
+
+Budgeted Cost per unit of the product
+
+Working Note
+
+          Activity               Budgeted                          Remark
+                                  Cost (` )
+ATM Services:
+(a) Machine                        4,00,000        - All fixed, no change.
+                                   2,00,000        -
+       Maintenance                                 - Fully fixed, no change.
+(b) Rents
+(c) Currency                       2,00,000 - Doubled during budget period.
+
+       Replenishment               8,00,000
+       Cost
+                                  2,50,000         - ` 2,50,000 (half of ` 5,00,000) is
+                        Total                         fixed and no change is
+Computer Processing               7,50,000            expected.
+                                 10,00,000
+                          Total                    - ` 2,50,000 (variable portion) is
+                                                      expected to increase to three
+                                                      times the current level.
+
+© The Institute of Chartered Accountants of India
+a  5.30                          COST AND MANAGEMENT ACCOUNTING
+
+Issuing Statements               18,00,000         - Existing.
+                                  2,00,000
+                          Total                    - 2 lakh statements are expected
+Computer Inquiries               20,00,000            to be increased in budgeted
+                                                      period. For every increase of
+                          Total                       one lakh statement, one lakh
+                                                      rupees is the budgeted
+                                                      increase.
+
+                                 3,60,000          - Estimated to increase by 80%
+                                 3,60,000             during the budget period.
+                                                       (` 2,00,000 x 180%)
+
+SUMMARY
+
+ Activity based costing is an accounting methodology that assigns costs to
+       activities rather than products or services. This enables resources &
+       overhead costs to be more accurately assigned to products & services that
+       consume them.
+
+ Unit level activities, batch level activities, product level activities and facility
+       level activities are the categories of activities that help to determine the
+       type of activity cost driver required.
+
+ ABC is very much useful to the organization with multiple products.
+
+ The limitations of ABC are that, it is very costly and cannot be applied to all
+       companies.
+
+ The use of ABC as a costing tool to manage costs at activity level is known
+       as Activity Based Cost Management (ABM). ABM is a discipline that focuses
+       on the efficient and effective management of activities as the route to
+       continuously improving the value received by customers. ABM utilizes cost
+       information gathered through ABC.
+
+ The value-added activities are those activities which are indispensable in
+       order to complete the process.
+
+© The Institute of Chartered Accountants of India
+ACTIVITY BASED COSTING                             5.351.31             a
+
+ NVA activity represents work that is not valued by the external or internal
+       customer. NVA activities do not improve the quality or function of a product
+       or service, but they can adversely affect costs and prices.
+
+ Activity-based budgeting is a process of planning and controlling the
+       expected activities for the organisation to derive a cost-effective budget
+       that meets forecast workload and agreed strategic goals.
+
+ Key elements of ABB are type of work/activity to be performed, quantity of
+       work/activity to be performed and cost of work/activity to be performed.
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1. A cost driver is:
+       (a) An item of production overheads
+       (b) A common cost which is shared over cost centres
+       (c) Any cost relating to transport
+       (d) An activity which generates costs
+
+2. In activity based costing, costs are accumulated by activity using:
+       (a) Cost drivers
+       (b) Cost objects
+       (c) Cost pools
+       (d) Cost benefit analysis
+
+3. A cost driver:
+       (a) Is a force behind the overhead cost
+       (b) Is an allocation base
+       (c) Is a transaction that is a significant determinant of cost
+       (d) All of the above
+
+© The Institute of Chartered Accountants of India
+a  5.32                   COST AND MANAGEMENT ACCOUNTING
+
+4. Which of the following is not a correct match:
+
+                    Activity                                 Cost Driver
+(a) Production Scheduling                          Number of Production runs
+(b) Despatching                                    Number of dispatch orders
+(c) Goods receiving                                Goods received orders
+(d) Inspection                                     Machine hours
+
+5. Transactions undertaken by support department personnel are the
+       appropriate cost drivers. Find the one which is not appropriate:
+
+(a) The number of purchase, supplies and customers' orders drives the cost
+       associated with new material inventory, work-in-progress and finished
+       goods inventory
+
+(b) The number of production runs undertaken drives production
+       scheduling, inspection and material handling
+
+(c) The quality of raw material issued drives the cost of receiving
+       department costs
+
+(d) The number of packing orders drives the packing costs
+
+6. Steps in ABC include:
+
+(a) Identification of activities and their respective costs
+
+       (b) Identification of cost driver of each activity and computation of an
+               allocation rate per activity
+
+       (c) Allocation of overhead cost to products/ services based on the activities
+               involved
+
+       (d) All of the above
+
+7. Which of the following is not a benefit of ABC?
+
+(a) Accurate cost allocation
+
+(b) Improved decision making
+
+(c) Better control on activity and costs
+
+(d) Reduction of prime cost
+
+© The Institute of Chartered Accountants of India
+ACTIVITY BASED COSTING                             5.353.33  a
+
+8. The steps involved for installation of ABC in a manufacturing company
+       include the following except:
+       (a) Borrowing fund
+       (b) Feasibility study
+       (c) Building up necessary IT infrastructure and training of line employees
+       (d) Strategy and value chain analysis
+
+9. Which of the following statements are true: (1) Activity based Management
+       involves activity analysis and performance measurement. (2) Activity based
+       costing serves as a major source of information in ABM.
+       (a) (1) True; (2) False
+       (b) (1) True; (2) True
+       (c) (1) False; (2) True
+       (d) (1) False; (2) False
+
+10. The key elements of activity based budgeting are:
+       (a) Type of activity to be performed
+       (b) Quantity of activity to be performed
+       (c) Cost of activity to be performed
+       (d) All of the above
+
+Theoretical Questions
+
+1. DEFINE the following terms:
+       (i) Cost driver
+       (ii) Activity cost pool
+
+2. EXPLAIN in brief the problems of traditional costing where overhead costs are
+       allocated based on volume.
+
+3. STATE what is Activity based costing. How are product costs determined in
+       ABC?
+
+© The Institute of Chartered Accountants of India
+a  5.34                       COST AND MANAGEMENT ACCOUNTING
+
+4. A manufacturing company in India wants to replace its traditional costing
+       system by ABC. It produces a number of products, each having complex
+       production process of different degree. SUGGEST various requirements for
+       installing activity based costing.
+
+5. DESCRIBE various levels of activities under ABC.
+6. STATE what are the benefits of ABC.
+7. STATE what are the limitations of ABC.
+8. STATE what are the practical applications of ABC.
+9. STATE what is Activity based Management. How does ABC help ABM?
+10. DEFINE Activity based Budgeting. STATE what are its key elements.
+
+Practical Problems
+
+1. Woolmark Ltd. manufactures three types of products namely P, Q and R. The
+       data relating to a period are as under:
+
+Particulars                                        P           Q         R
+
+Machine hours per unit                             10          18        14
+
+Direct Labour hours per unit                       4           12        8
+
+Direct Material per unit (`)                       90          80        120
+
+Production (units)                                 3,000       5,000     20,000
+
+Currently the company uses traditional costing method and absorbs all
+production overheads on the basis of machine hours. The machine hour rate
+of overheads is ` 6 per hour. Direct labour hour rate is ` 20 per hour.
+
+The company proposes to use activity based costing system and the activity
+analysis is as under:
+
+Particulars                                               P           Q  R
+Batch size (units)
+Number of purchase orders per batch                       150  500 1,000
+Number of inspections per batch
+                                                          3    10        8
+
+                                                          5           4  3
+
+© The Institute of Chartered Accountants of India
+ACTIVITY BASED COSTING                                                  5.355.35       a
+
+The total production overheads are analysed as under:
+
+Machine set up costs.............................................       20%
+
+Machine operation costs...........................................      30%
+
+Inspection costs......................................................  40%
+
+     Material procurement related costs............................. 10%
+Required
+
+(i) CALCULATE the cost per unit of each product using traditional method
+       of absorbing all production overheads on the basis of machine hours.
+
+(ii) CALCULATE the cost per unit of each product using activity based
+       costing principles.
+
+2. RST Limited specializes in the distribution of pharmaceutical products. It buys
+       from the pharmaceutical companies and resells to each of the three different
+       markets.
+
+(i) General Supermarket Chains
+
+(ii) Drugstore Chains
+
+(iii) Chemist Shops
+
+The following data for the month of April in respect of RST Limited has been
+reported:
+
+                                                          General       Drugstore      Chemist
+                                                   Supermarket              Chains        Shops
+
+                                                           Chains                 (`)         (`)
+
+                                                                 (`)
+
+Average revenue per delivery                       84,975               28,875         5,445
+
+Average cost of goods sold per                     82,500               27,500         4,950
+delivery
+
+Number of deliveries                               330                  825            2,750
+
+In the past, RST Limited has used gross margin percentage to evaluate the
+relative profitability of its distribution channels.
+
+© The Institute of Chartered Accountants of India
+a  5.36             COST AND MANAGEMENT ACCOUNTING
+
+The company plans to use activity­based costing for analysing the
+profitability of its distribution channels.
+
+The Activity analysis of RST Limited is as under:
+
+Activity Area                                      Cost Driver
+
+Customer purchase order processing Purchase orders by customers
+
+Line-item ordering                                 Line-items per purchase order
+
+Store delivery                                     Store deliveries
+
+Cartons dispatched to stores                       Cartons dispatched to a store per
+                                                   delivery
+
+Shelf-stocking at customer store                   Hours of shelf-stocking
+
+The April month's operating costs (other than cost of goods sold) of RST
+Limited are ` 8,27,970. These operating costs are assigned to five activity
+areas. The cost in each area and the quantity of the cost allocation basis u sed
+in that area for the month of April are as follows:
+
+   Activity Area                                   Total costs (`)  Total Units of Cost
+                                                                        Allocation Base
+
+Customer purchase order                            2,20,000          5,500 orders
+processing
+
+Line-item ordering                                 1,75,560          58,520 line items
+
+Store delivery                                     1,95,250 3,905 store deliveries
+
+Cartons dispatched to                              2,09,000          2,09,000 cartons
+store
+
+Shelf-stocking at customer                         28,160            1,760 hours
+store
+
+© The Institute of Chartered Accountants of India
+ACTIVITY BASED COSTING                                                5.357.37    a
+
+Other data for the month of April include the following:
+
+                                                   General Drugstore Chemist
+
+                                                   Supermarket        Chains Shops
+
+                                                   Chains
+
+ Total number of orders                                          385  990 4,125
+ Average number of line items
+ per order                                                       14   12             10
+ Total number of store deliveries
+ Average number of cartons                                       330  825 2,750
+ shipped per store delivery
+ Average number of hours of                                      300  80             16
+ shelf-stocking per store delivery
+Required:                                                        3    0.6            0.1
+
+(i) COMPUTE gross-margin percentage for each of its three distribution
+       channels and compute RST Limited's operating income.
+
+(ii) COMPUTE the rate per unit of the cost-allocation base for each of the
+       five activity areas.
+
+(iii) COMPUTE the operating income of each distribution channel using the
+       activity-based costing information. Comment on the results. What new
+       insights are available with the activity-based cost information?
+
+(iv) DESCRIBE four challenges one would face in assigning the total
+       operating costs of ` 8,27,970 to five activity areas.
+
+3. Family Store wants information about the profitability of individual product
+       lines: Soft drinks, Fresh produce and Packaged food. Family store provides the
+       following data for the current year for each product line:
+
+Revenues                                           Soft drinks             Fresh   Packaged
+Cost of goods sold                                                     produce             food
+Cost of bottles returned                           ` 39,67,500   ` 1,05,03,000
+                                                   ` 30,00,000     ` 75,00,000    ` 60,49,500
+                                                                                  ` 45,00,000
+                                                       ` 60,000               `0
+                                                                                            `0
+
+© The Institute of Chartered Accountants of India
+a         5.38             COST AND MANAGEMENT ACCOUNTING
+
+Number of purchase orders                                360          840                   360
+placed
+Number of deliveries received                            300       2,190                    660
+Hours of shelf-stocking time                             540       5,400                  2,700
+Items sold                                         1,26,000   11,04,000               3,06,000
+
+Family store also provides the following information for the current year:
+
+Activity        Description of activity Total Cost            Cost-allocation
+                                                                             base
+Bottles
+returns         Returning of empty                            ` 60,000 Direct tracing to
+Ordering        bottles                                                     soft drink line
+
+Delivery        Placing of orders for                         ` 7,80,000 1,560        purchase
+                purchases                                                     orders
+Shelf
+stocking        Physical delivery and ` 12,60,000 3,150 deliveries
+                receipt of goods
+Customer
+Support         Stocking of goods on                          ` 8,64,000 8,640 hours of
+                store shelves and on-                                         shelf-stocking time
+                going restocking
+
+                Assistance provided to                        ` 15,36,000 15,36,000   items
+                                                                                sold
+                customers                          including
+
+                check-out
+
+Required:
+
+(i) Family store currently allocates support cost (all cost other than cost of
+       goods sold) to product lines on the basis of cost of goods sold of each
+       product line. CALCULATE the operating income and operating income
+       as a % of revenues for each product line.
+
+(ii) If Family Store allocates support costs (all costs other than cost of goods
+       sold) to product lines using and activity-based costing system,
+       CALCULATE the operating income and operating income as a % of
+       revenues for each product line.
+
+© The Institute of Chartered Accountants of India
+                 ACTIVITY BASED COSTING                                  5.359.39  a
+
+4. Alpha Limited has decided to analyse the profitability of its five new
+       customers. It buys bottled water at ` 90 per case and sells to retail customers
+       at a list price of ` 108 per case. The data pertaining to five customers are:
+
+                                                          Customers
+
+                      A                            B      C              D            E
+                                                                                     8,775
+Cases sold            4,680 19,688 1,36,800 71,550                                   ` 108
+                                                                                   ` 97.20
+Listed Selling Price  ` 108 ` 108 ` 108 ` 108
+                                                                                         30
+Actual Selling Price  ` 108 ` 106.20                      ` 99 ` 104.40
+                                                                                           3
+Number            of     15                           25     30             25
+                                                                                         20
+Purchase orders
+                                                                                         30
+Number            of     2                            3      6               2
+                                                                                           1
+Customer visits
+
+Number            of     10                           30     60             40
+
+deliveries
+
+Kilometers               20                           6      5              10
+
+travelled        per
+
+delivery
+
+Number            of     0                            0      0               0
+
+expedited deliveries
+
+Its five activities and their cost drivers are:
+
+Activity                                           Cost Driver Rate
+
+Order taking                                       ` 750 per purchase order
+
+Customer visits                                    ` 600 per customer visit
+
+Deliveries                                         ` 5.75 per delivery Km travelled
+
+Product handling                                   ` 3.75 per case sold
+
+Expedited deliveries                               ` 2,250 per expedited delivery
+
+© The Institute of Chartered Accountants of India
+a          5.40             COST AND MANAGEMENT ACCOUNTING
+
+       Required:
+
+       (i) COMPUTE the customer-level operating income of each of five retail
+               customers now being examined (A, B, C, D and E). Comment on the results.
+
+       (ii) STATE what insights are gained by reporting both the list selling price
+               and the actual selling price for each customer.
+
+5. BABYSOFT is a global brand created by Bio-organic Ltd. The company
+       manufactures three ranges of beauty soaps i.e. BABYSOFT- Gold, BABYSOFT-
+       Pearl, and BABYSOFT- Diamond. The budgeted costs and production for the
+       month of December are as follows:
+
+                 BABYSOFT- Gold                    BABYSOFT- Pearl BABYSOFT- Diamond
+
+Production           4,000                                  3,000                 2,000
+of soaps
+(Units)
+
+Resources Qty        Rate                          Qty      Rate         Qty      Rate
+
+per Unit:
+
+Essential   60 ml ` 200 / 100 ml 55 ml ` 300 / 100 ml 65 ml ` 300 / 100 ml
+Oils
+
+Cocoa            20 g ` 200 / 100 g 20 g ` 200 / 100 g 20 g ` 200 / 100 g
+Butter
+
+Filtered    30 ml ` 15 / 100 ml 30 ml ` 15 / 100 ml 30 ml ` 15 / 100 ml
+Water
+
+Chemicals 10 g ` 30 / 100 g 12 g ` 50 / 100 g 15 g ` 60 / 100 g
+
+Direct           30  ` 10 / hour                   40       ` 10 / hour  60       ` 10 / hour
+Labour
+            minutes                                minutes               minutes
+
+Bio-organic Ltd. followed an Absorption Costing System and absorbed its
+production overheads, to its products using direct labour hour rate, which
+were budgeted at ` 1,98,000.
+
+Now, Bio-organic Ltd. is considering adopting an Activity Based Costing
+system. For this, additional information regarding budgeted overheads and
+their cost drivers is provided below:
+
+© The Institute of Chartered Accountants of India
+                  ACTIVITY BASED COSTING                                 5.451.41  a
+
+Particulars                                        (`) Cost drivers
+
+Forklifting cost       58,000 Weight of material lifted
+
+Supervising cost       60,000 Direct labour hours
+
+Utilities              80,000 Number of Machine operations
+
+The number of machine operations per unit of production are 5, 5, and 6 for
+BABYSOFT- Gold, BABYSOFT- Pearl, and BABYSOFT- Diamond respectively.
+
+(Consider (i) Mass of 1 litre of Essential Oils and Filtered Water equivalent to
+0.8 kg and 1 kg respectively (ii) Mass of output produced is equivalent to the
+mass of input materials taken together.)
+
+You are requested to:
+
+(i) PREPARE a statement showing the unit costs and total costs of each
+       product using the absorption costing method.
+
+(ii) PREPARE a statement showing the product costs of each product using
+       the ABC approach.
+
+(iii) STATE what are the reasons for the different product costs under the
+       two approaches.
+
+Case Scenarios
+
+1. The sales department of A Limited is analysing the customer profitability for
+       its Product Z. It has decided to analyse the profitability of its five new
+       customers using activity-based costing method. It buys Product Z at
+       ` 5,400 per unit and sells to retail customers at a listed price of ` 6,480 per
+       unit. The data pertaining to five customers are:
+
+                                                           Customers
+
+                                                   A   B             C   D            E
+
+Units sold                                         4,500 6,000 9,500 7,500 12,750
+
+Listed Selling Price   `6,480 `6,480 `6,480 `6,480 `6,480
+
+Actual Selling Price   `6,480 `6,372 `5,940 `6,264 `5,832
+
+Number of Purchase                                 15  25            30  25           30
+
+orders
+
+© The Institute of Chartered Accountants of India
+a       5.42              COST AND MANAGEMENT ACCOUNTING
+
+Number of Customer                                 2   3   6   2                         3
+
+visits
+
+Number of deliveries                               10  30  60  40                        20
+
+Kilometers travelled per                           20  6   5   10                        30
+
+delivery
+
+Number of expedited                                0   0   0   0                         1
+
+deliveries
+
+After a detailed analysis and computation, the following activities has been
+identified and respective cost has been calculated:
+
+Activity                                               Cost Driver Rate
+Order taking                                           `4,500 per purchase order
+Customer visits                                        ` 3,600 per customer visit
+Deliveries                                             ` 7.50 per delivery Km travelled
+Product handling                                       ` 22.50 per case sold
+Expedited deliveries                                   ` 13,500 per expedited delivery
+
+You have been assigned the following task of computing different cost
+information for managerial decision making:
+(i) How much cost on customer visit is incurred on customer E?
+
+       (a) ` 7,200
+       (b) ` 10,800
+       (c) ` 21,600
+       (d) ` 3,600
+(ii) What is the cost of goods sold for customer D?
+       (a) ` 2,43,00,000
+       (b) ` 3,24,00,000
+       (c) ` 5,13,00,000
+       (d) ` 4,05,00,000
+(iii) How much is the cost of expediting delivery for customer A?
+       (a) ` 13,500
+
+© The Institute of Chartered Accountants of India
+ACTIVITY BASED COSTING                             5.453.43  a
+
+       (b) ` 27,000
+       (c) ` 40,500
+       (d) ` 0
+(iv) Compute the customer-level operating income of each of customers A.
+       (a) ` 55,72,350
+       (b) ` 46,82,550
+       (c) ` 47,57,400
+       (d) ` 50,57,325
+(v) Compute the customer-level operating income of each of five retail
+       customers D and E.
+       (a) ` 46,82,550 & 50,65,720
+       (b) ` 55,72,350 & 46,85,500
+       (c) ` 47,57,400 & 55,72,350
+       (d) ` 61,88,550 & 50,57,325
+
+ANSWERS
+
+Answers to the MCQs
+
+  1. (d) 2. (c) 3. (d) 4. (d) 5. (c) 6. (d)
+  7. (d) 8. (a) 9. (b) 10. (d)
+
+Answers to the Theoretical Questions
+
+1. Please refer paragraph 3
+2. Please refer paragraph 1
+3. Please refer paragraph 2, 5 and 7
+4. Please refer paragraph 10
+5. Please refer paragraph 6
+6. Please refer paragraph 8
+
+© The Institute of Chartered Accountants of India
+a  5.44              COST AND MANAGEMENT ACCOUNTING
+
+7. Please refer paragraph 9
+8. Please refer paragraph 11
+9. Please refer paragraph 11.2
+10. Please refer paragraph 11.3
+
+Answers to the Practical Problems
+
+1. (i) Statement Showing "Cost per unit - Traditional Method"
+
+                  Particulars of Costs                     P      Q           R
+                                                                              (`)
+                                                           (`) (`)
+                                                                               120
+   Direct Materials                                           90       80      160
+
+   Direct Labour [(4, 12, 8 hours)  ` 20]                     80 240             84
+                                                                               364
+   Production Overheads [(10, 18, 14 hours)  ` 6]             60 108
+
+   Cost per unit                                           230 428
+
+(ii) Statement Showing "Cost per unit - Activity Based Costing"
+
+                        Products                   P          Q            R
+
+   Production (units)                              3,000 5,000 20,000
+
+   Direct Materials (90, 80, 120)                     (`)         (`)         (`)
+   Direct Labour (80, 240, 160)
+   Machine Related Costs @ ` 1.80 per              2,70,000 4,00,000 24,00,000
+   hour
+                                                   2,40,000 12,00,000 32,00,000
+   (30,000, 90,000, 2,80,000)
+                                                   54,000 1,62,000 5,04,000
+   Setup Costs @ ` 9,600 per setup
+                                                   1,92,000 96,000 1,92,000
+   (20, 10, 20)                                    4,80,000 1,92,000 2,88,000
+
+   Inspection Costs @ ` 4,800 per
+   inspection
+
+   (100, 40, 60)
+
+© The Institute of Chartered Accountants of India
+ACTIVITY BASED COSTING                                                 5.455.45  a
+
+             Products                                      P           Q               R
+
+Purchase Related Costs @ ` 750 per                         45,000 75,000 1,20,000
+purchase (60, 100, 160)
+
+Total Costs                                        12,81,000 21,25,000 67,04,000
+
+Cost per unit (Total Cost  Units)                          427.00 425.00 335.20
+
+   Workings
+Number of Batches, Purchase Orders, and Inspections-
+
+             Particulars                                   P      Q              R Total
+
+A. Production (units)                                      3,000 5,000 20,000
+
+B. Batch Size (units)                                      150 500 1,000
+
+C. Number of Batches (A÷B)                                    20       10         20 50
+
+D. Number of Purchase Order per
+
+batch                                                         3        10           8
+
+E. Total Purchase Orders [C  D]                               60 100 160 320
+
+F. Number of Inspections per                                  5        4            3
+      batch
+
+   G. Total Inspections [C  F]                             100         40         60 200
+Total Machine Hours-
+
+             Particulars                                        P          Q           R
+                                                                   10
+A. Machine Hours per unit                                                     18          14
+                                                               3,000
+B. Production (units)                                         30,000       5,000 20,000
+
+C. Total Machine Hours                             [A  B]              90,000 2,80,000
+
+Total Machine Hours = 4,00,000
+Total Production Overheads-
+= 4,00,000 hrs.  ` 6 = ` 24,00,000
+
+© The Institute of Chartered Accountants of India
+a              5.46               COST AND MANAGEMENT ACCOUNTING
+
+               Cost Driver Rates-
+
+               Cost Pool % Overheads Cost Driver Cost                                   Cost Driver
+                                                                                            Rate
+                                                        Basis             Driver
+                                                                                              (`)
+                                                   (`)                    (Units)
+
+             Setup    20% 4,80,000 Number of                              50            9,600 per
+
+                                                        batches                         Setup
+
+             Inspection 40% 9,60,000 Number of                            200           4,800 per
+
+                                                        inspections                     Inspection
+
+             Purchases 10% 2,40,000 Number of                             320            750 per
+                                                                                        Purchase
+                                                        purchases
+
+             Machine 30%           7,20,000             Machine 4,00,000                1.80 per
+             Operation
+                                                                   Hours                Machine Hour
+
+2. (i) RST Limited's
+
+   Statement of operating income and gross margin percentage
+                  for each of its three distribution channel
+
+Particulars    General Super      Drugstore                        Chemist Shops Total
+               Market             Chains
+               Chains
+
+Revenues: (`)        2,80,41,750                   2,38,21,875            1,49,73,750 6,68,37,375
+                                                                   (2,750 × ` 5,445)
+               (330 × ` 84,975) (825 × ` 28,875)
+
+Less: Cost of        2,72,25,000         2,26,87,500                       1,36,12,500  635,25,000
+                                  (825 × ` 27,500)                 (2,750 × ` 4,950)
+goods sold: (330 × ` 82,500)
+(`)
+
+Gross Margin:        8,16,750                           11,34,375         13,61,250 33,12,375
+(`)
+
+Less: Other                                                                             8,27,970
+operating
+costs: (`)
+
+© The Institute of Chartered Accountants of India
+              ACTIVITY BASED COSTING                         5.457.47     a
+
+Operating                                                                 24,84,405
+income: (`)
+
+Gross Margin  2.91%                                4.76 %    9.09%           4.96%
+
+Operating                                                                    3.72
+
+income %
+
+(ii) Computation of rate per unit of the cost allocation base for
+          each of the five activity areas for the month of April
+
+                                                             (`)
+
+             Customer purchase order processing                         40 per order
+             (` 2,20,000/ 5,500 orders)                      3 per line item order
+             Line item ordering
+             (` 1,75,560/ 58,520 line items)                        50 per delivery
+             Store delivery                                          1 per dispatch
+             (` 1,95,250/ 3,905 store deliveries)
+             Cartons dispatched                                          16 Per hour
+             (` 2,09,000/ 2,09,000 dispatches)
+
+             Shelf-stocking at customer store ( ` )
+
+             (` 28,160/ 1,760 hours)
+
+(iii) Operating Income Statement of each distribution channel
+            in April (Using the Activity based Costing information)
+
+             Gross margin (`) : (A)                General   Drugstore     Chemist
+             (Refer to (i) part of the answer)        Super       Chains      Shops
+             Operating cost (`): (B)
+             (Refer to working note)               Market     11,34,375   13,61,250
+                                                    Chains      1,90,410   4,74,650
+                                                   8,16,750
+
+                                                   1,62,910
+
+© The Institute of Chartered Accountants of India
+a  5.48            COST AND MANAGEMENT ACCOUNTING
+
+   Operating income (`): (A­B)                                 6,53,840 9,43,965 8,86,600
+
+   Operating income (in %)                                     2.33           3.96   5.92
+
+   (Operating income/ Revenue)
+   × 100
+
+   Comments and new insights: The activity-based cost information
+   highlights, how the `Chemist Shops' uses a larger amount of RST Ltd.'s
+   resources per revenue than do the other two distribution channels.
+   Ratio of operating costs to revenues, across these markets is:
+
+   General supermarket chains                                                 0.58%
+   (` 1,62,910/ ` 2,80,41,750) × 100                                          0.80%
+   Drug store chains                                                          3.17%
+   (` 1,90,410/ ` 2,38,21,875) × 100
+   Chemist shops
+   (` 4,74,650/ ` 1,49,73,750) ×100
+
+   Working note:
+   Computation of operating cost of each distribution channel:
+
+                                                      General  Drugstore            Chemist
+                                                        Super       Chains             Shops
+
+                                                      Market             (`)               (`)
+                                                   Chains (`)
+
+   Customer              15,400                                      39,600        1,65,000
+   purchase order  (` 40 × 385                                 (` 40 × 990    (` 40 ×4125
+   processing
+                        orders)                                     orders)          orders)
+   Line      item
+                         16,170                                      35,640        1,23,750
+   ordering         (` 3 × 14 x                                 (` 3 × 12 x     (` 3 × 10 ×
+
+   Store delivery           385)                                        990)           4125)
+
+                         16,500                                      41,250        1,37,500
+                   (` 50 × 330                                 (` 50 × 825    (` 50 × 2750
+
+                    deliveries)                                 deliveries)      deliveries)
+
+© The Institute of Chartered Accountants of India
+ACTIVITY BASED COSTING                                            5.459.49  a
+
+Cartons                                 99,000         66,000         44,000
+dispatched
+                                    ( ` 1× 300     ( ` 1 × 80      (` 1 × 16
+Shelf stocking
+                               cartons × 300       cartons ×      cartons ×
+Operating cost                      deliveries)            825          2,750
+
+                                        15,840     deliveries)    deliveries)
+                                  (` 16 × 330
+                               deliveries × 3              7,920            4,400
+                                                   (` 16 × 825    (` 16 × 2,750
+                                       Av. hrs.)   deliveries ×
+                                      1,62,910     0.6 Av. hrs)     deliveries ×
+                                                                    0.1 Av. hrs)
+
+                                                   1,90,410       4,74,650
+
+(iv) Challenges faced in assigning total operating cost of ` 8,27,970:
+
+· Choosing an appropriate cost driver for activity area.
+· Developing a reliable data base for the chosen cost driver.
+· Deciding, how to handle costs that may be common across
+
+       several activities.
+· Choice of the time period to compute cost rates per cost driver.
+· Behavioural factors
+
+3. Working notes:
+       1. Total support cost:
+
+Bottles returns                                            (`)
+Ordering                                              60,000
+Delivery                                            7,80,000
+Shelf stocking                                     12,60,000
+Customer support                                    8,64,000
+Total support cost                                 15,36,000
+                                                   45,00,000
+
+© The Institute of Chartered Accountants of India
+a  5.50            COST AND MANAGEMENT ACCOUNTING
+
+2. Percentage of support cost to cost of goods sold (COGS):
+       = Total support cost ×100
+           Total cost of goods sold
+
+      = ` 45,00,000 ×100 = 30%
+
+            ` 1,50,00,000
+3. Cost for each activity cost driver:
+
+   Activity        Total cost                         Cost     Cost driver rate
+      (1)               (`)                        allocation   (4)=[(2)÷(3)]
+                        (2)
+                                                      base
+                                                        (3)
+
+   Ordering        7,80,000 1,560 purchase                            ` 500 per
+                                            orders             purchase order
+
+   Delivery        12,60,000                            3,150 ` 400 per delivery
+                                                   deliveries
+
+   Shelf-stocking  8,64,000                        8,640 hours ` 100 per stocking
+                                                                                        hour
+
+   Customer        15,36,000                       15,36,000 ` 1 per item sold
+   support                                         items sold
+
+(i) Statement of Operating income and Operating income as a
+       percentage of revenues for each product line
+
+   (When support costs are allocated to product lines on the basis of cost of
+   goods sold of each product)
+
+                          Soft                         Fresh Packaged  Total (`)
+                   Drinks (`)                      Produce Foods (`)
+
+                                                          (`)
+
+Revenues: (A)      39,67,500 1,05,03,000 60,49,500 2,05,20,000
+
+Cost of Goods sold 30,00,000 75,00,000 45,00,000 1,50,00,000
+(COGS): (B)
+
+© The Institute of Chartered Accountants of India
+ACTIVITY BASED COSTING                                                   5.551.51  a
+
+Support cost (30% of     9,00,000                          22,50,000 13,50,000 45,00,000
+COGS): (C)
+(Refer working notes)
+
+Total cost: (D) = {(B) + 39,00,000                         97,50,000 58,50,000 1,95,00,000
+(C)}
+
+Operating income: E=                               67,500    7,53,000 1,99,500 10,20,000
+{(A)-(D)}
+
+Operating income as a                              1.70%     7.17%       3.30%        4.97%
+percentage of revenues:
+(E/A) × 100)
+
+(ii) Statement of Operating income and Operating income as a
+       percentage of revenues for each product line
+
+       (When support costs are allocated to product lines using an activity-
+       based costing system)
+
+                                                     Soft    Fresh Packaged           Total
+                                                   drinks                                (`)
+                                                             Produce     Food
+                                                        (`)
+                                                                    (`)  (`)
+
+Revenues: (A)                                      39,67,500 1,05,03,000 60,49,500 2,05,20,000
+Cost & Goods sold
+Bottle return costs                                30,00,000 75,00,000 45,00,000 1,50,00,000
+Ordering cost*
+(360:840:360)                                      60,000           0           0     60,000
+Delivery cost*
+(300:2190:660)                                     1,80,000 4,20,000 1,80,000 7,80,000
+Shelf stocking cost*
+(540:5400:2700)                                    1,20,000 8,76,000 2,64,000 12,60,000
+
+                                                   54,000 5,40,000 2,70,000 8,64,000
+
+© The Institute of Chartered Accountants of India
+a        5.52         COST AND MANAGEMENT ACCOUNTING
+
+   Customer Support cost*                          1,26,000  11,04,000    3,06,000  15,36,000
+   (1,26,000:11,04,000:
+   3,06,000)
+
+   Total cost: (B)                                 35,40,000 1,04,40,000 55,20,000 1,95,00,000
+
+   Operating          income 4,27,500                        63,000 5,29,500 10,20,000
+   C:{(A)- (B)}
+
+   Operating income as a 10.78%                              0.60% 8.75%            4.97%
+   % of revenues
+
+   * Refer to working note 3
+
+4. Working note:
+
+Computation of revenues (at listed price), discount, cost of goods sold
+               and customer level operating activities costs:
+
+                                                             Customers
+
+                      A                            B         C            D         E
+                       4,680                                              71,550    8,775
+   Cases sold:                                     19,688 1,36,800
+   (a)
+
+   Revenues (at       5,05,440 21,26,304 1,47,74,400 77,27,400 9,47,700
+   listed price)
+   (`): (b)
+
+   {(a) × ` 108)}
+
+   Discount           - 35,438 12,31,200 2,57,580 94,770
+
+   ( ` ): (c)                                      (19,688   (1,36,800    (71,550     (8,775
+                                                   cases ×     cases ×    cases ×   cases ×
+   {(a)           ×                                 ` 1.80)         ` 9)   ` 3.60)  ` 10.80)
+
+   Discount per
+
+   case}
+
+   Cost           of  4,21,200 17,71,920 1,23,12,000 64,39,500 7,89,750
+
+   goods sold
+
+   (`) : (d)
+
+   {(a) × ` 90}
+
+© The Institute of Chartered Accountants of India
+               ACTIVITY BASED COSTING                                     5.553.53  a
+
+Customer level operating activities costs
+
+Order taking   11,250 18,750                              22,500          18,750 22,500
+costs (`):
+
+(No.      of
+
+purchase ×
+
+`750)
+
+Customer       1,200                               1,800  3,600           1,200        1,800
+visits costs
+(`)
+
+(No.      of
+
+customer
+
+visits    ×
+
+` 600)
+
+Delivery       1,150 (5.75                         1,035         1,725    2,300        3,450
+
+vehicles       x 10x20) (5.75 x 30                        (5.75 x 60x     (5.75 x 40 (5.75 x 20
+travel costs                          x 6)                            5)
+(`)                                                                       x 10)        x 30)
+
+(` 5.75 per
+km)
+
+(Kms
+travelled by
+delivery
+vehicles ×
+` 5.75 per
+km.)
+
+Product        17,550 73,830 5,13,000 2,68,313 32,906
+handling
+costs (`)
+
+{(a) ×` 3.75}
+
+© The Institute of Chartered Accountants of India
+a         5.54                   COST AND MANAGEMENT ACCOUNTING
+
+     Cost        of                 -                         -             -         -  2,250
+
+     expediting
+
+     deliveries (`)
+
+     {No.        of
+
+     expedited
+
+     deliveries ×
+
+     ` 2,250}
+
+     Total cost of        31,150 95,415 5,40,825 2,90,563 62,906
+     customer
+     level
+     operating
+     activities (`)
+
+(i)          Computation of Customer level operating income
+
+                                                                 Customers
+
+                          A (`)                    B (`)         C (`)         D (`)     E (`)
+
+     Revenues             5,05,440                 21,26,304     1,47,74,400   77,27,400 9,47,700
+
+     (At list price)
+
+     (Refer           to
+
+     working note)
+
+     Less: Discount              -                 35,438 12,31,200 2,57,580 94,770
+
+     (Refer           to
+
+     working note)
+
+     Revenue              5,05,440 20,90,866 1,35,43,200 74,69,820 8,52,930
+
+     (At      actual
+
+     price)
+
+     Less: Cost of 4,21,200                        17,71,920     1,23,12,000   64,39,500 7,89,750
+     goods sold
+
+     (Refer           to
+
+     working note)
+
+     Gross margin 84,240 3,18,946 12,31,200 10,30,320 63,180
+
+© The Institute of Chartered Accountants of India
+               ACTIVITY BASED COSTING                      5.555.55  a
+
+Less:             31,150                           95,415  5,40,825 2,90,563 62,906
+Customer level
+operating
+activities costs
+
+(Refer     to
+
+working note)
+
+Customer level 53,090 2,23,531 6,90,375 7,39,757                        274
+
+operating
+
+income
+
+Comment on the results:
+
+Customer D is the most profitable customer. D's profits are even
+higher than C (whose revenue is the highest) despite having only
+52.30% of the unit volume of customer C. The main reason is that C
+receives a discount of ` 9 per case while customer D receives only a
+` 3.60 discount per case.
+
+Customer E is the least profitable. The profits of E is even less than A
+(whose revenue is least) Customer E received a discount of ` 10.80 per
+case, makes more frequent orders, requires more customer visits and
+requires more delivery kms. in comparison with customer A.
+
+(ii) Insight gained by reporting both the list selling price and the
+       actual selling price for each customer:
+
+Separate reporting of both-the listed and actual selling prices enables
+Alpha Ltd. to examine which customer has received what discount per
+case, whether the discount received has any relationship with the sales
+volume. The data given below provides us with the following
+information;
+
+© The Institute of Chartered Accountants of India
+a       5.56                COST AND MANAGEMENT ACCOUNTING
+
+        Sales volume                                      Discount per case (`)
+
+        C (1,36,800 cases)                                       9.00
+
+        D (71,550 cases)                                         3.60
+
+        B (19,688 cases)                                         1.80
+
+        E (8,775 cases)                                          10.80
+
+        A (4,680 cases)                                                     0
+
+        The above data clearly shows that the discount given to customers per
+        case has a direct relationship with sales volume, except in the case of
+        customer E. The reasons for ` 10.80 discount per case for customer E
+        should be explored.
+
+5. (i)              Traditional Absorption Costing
+
+                                                   BABYSOFT BABYSOFT- BABYSOFT- Total
+
+                                                   Gold   Pearl             Diamond
+
+        (a) Production      of 4,000                      3,000                2,000 9,000
+
+        soaps (Units)
+
+        (b) Direct        labour 30                       40                   60     -
+
+        (minutes)
+
+        (c) Direct        labour                   2,000  2,000                2,000 6,000
+
+        hours (a × b)/60
+
+        minutes
+
+        Overhead rate per direct labour hour:
+        = Budgeted overheads  Budgeted labour hours
+        = ` 1,98,000  6,000 hours
+        = ` 33 per direct labour hour
+        Unit Costs:
+
+                                                   BABYSOFT- BABYSOFT-          BABYSOFT-
+                                                        Gold (`) Pearl (`)     Diamond (`)
+
+        Direct Costs:                              5.00   6.67                 10.00
+
+        - Direct Labour
+
+© The Institute of Chartered Accountants of India
+             ACTIVITY BASED COSTING                                          5.557.57  a
+
+                                                    10×30     10×40             10×60 
+                                                    60        60                60 
+
+- Direct Material                                  167.50    215.50              248.50
+
+      (Refer working                                                              33.00
+      note1)                                                                    33×60 
+                                                                                60 
+Production Overhead                                  16.50     22.00
+                                                    33×30     33×40              291.50
+                                                    60        60                  2,000
+                                                                               5,83,000
+Total unit costs                                   189.00    244.17
+                                                                              BABYSOFT-
+Number of units                                    4,000     3,000           Diamond (`)
+
+Total costs                                        7,56,000  7,32,510          195.00
+                                                                              300×65 
+Working note-1                                                                100 
+Calculation of Direct material cost
+                                                                                40.00
+Essential oils        BABYSOFT-                              BABYSOFT-        200×20 
+                            Gold (`)                              Pearl (`)   100 
+Cocoa Butter
+Filtered                120.00                                 165.00            4.50
+water                  200×60                                 300×55           15×30 
+                       100                                    100              100 
+  Chemicals
+                         40.00                                  40.00            9.00
+ Total costs           200×20                                 200×20           60×15 
+                       100                                    100              100 
+                                                                               248.50
+                          4.50                                  4.50
+                        15×30                                  15×30 
+                        100                                    100 
+
+                          3.00                                  6.00
+                        30×10                                  50×12 
+                        100                                    100 
+                        167.50                                215.50
+
+© The Institute of Chartered Accountants of India
+a          5.58             COST AND MANAGEMENT ACCOUNTING
+
+(ii) Activity Based Costing
+
+                  BABYSOFT- BABYSOFT-                                 BABYSOFT-     Total
+                                                                       Diamond
+                  Gold                             Pearl
+
+Quantity (units)  4,000                            3,000              2,000         -
+
+Weight per unit   108                              106                117           -
+
+(grams)           {(60×0.8)+20+ {(55×0.8)+20 {(65×0.8)+20+
+
+                  30+10}                           +30+12}            30+15}
+
+Total weight      4,32,000                         3,18,000           2,34,000      9,84,000
+(grams)
+
+Direct labour     30                               40                      60       -
+
+(minutes)
+
+Direct labour         2,000                            2,000              2,000     6,000
+hours              4,000×30                         3,000×40           2,000×60 
+                   60                               60                 60 
+
+Machine           5                                5                       6        -
+
+operations per
+
+unit
+
+Total             20,000                           15,000             12,000        47,000
+operations
+
+Forklifting rate per gram                          = ` 58,000  9,84,000 grams
+
+                                                   = ` 0.06 per gram
+
+Supervising rate per direct = ` 60,000  6,000 hours
+
+labour hour                                        = ` 10 per labour hour
+
+Utilities rate per machine
+
+operations                                         = ` 80,000  47,000 machine operations
+
+                                                   = ` 1.70 per machine operations
+
+© The Institute of Chartered Accountants of India
+               ACTIVITY BASED COSTING                                   5.559.59  a
+
+Unit Costs under ABC:
+
+                                                   BABYSOFT-    BABYSOFT- BABYSOFT-
+                                                     Gold (`)     Pearl (`) Diamond (`)
+
+Direct Costs:
+
+- Direct Labour                                    5.00         6.67              10.00
+
+- Direct material                                  167.50       215.50            248.50
+
+Production Overheads:
+
+- Forklifting cost                                     6.48         6.36         7.02
+
+                                                   (0.06  108)  (0.06  106)  (0.06  117)
+
+- Supervising cost                                    5.00         6.67        10.00
+                                                    10×30        10×40        10×60 
+Utilities                                           60           60           60 
+
+Total unit costs                                      8.50         8.50        10.20
+Number of units
+Total costs                                        (1.70  5)    (1.70  5)    (1.70  6)
+
+                                                    192.48       243.70       285.72
+                                                     4,000        3,000        2,000
+                                                   7,69,920     7,31,100     5,71,440
+
+       (iii) Comments: The difference in the total costs under the two systems is
+               due to the differences in the overheads borne by each of the products.
+               The Activity Based Costs appear to be more accurate.
+
+Answers to the Case Scenarios
+
+1.
+          i. (b) ii. (d) iii. (c) iv. (b) v. (d)
+
+(i) (b) `10,800
+(ii) (d) ` 4,05,00,000
+
+© The Institute of Chartered Accountants of India
+a          5.60              COST AND MANAGEMENT ACCOUNTING
+
+(iii) (c) ` 0
+(iv) (b) ` 46,82,550
+(v) (d) ` 61,88,550 & 50,57,325
+Working note:
+1. Computation of revenues (at listed price), discount, cost of goods
+
+       sold and customer level operating activities costs:
+
+                                                              Customers
+
+                          A                        B          C          D         E
+
+Units sold: (a)              4,500                    6,000      9,500      7,500  12,750
+
+Revenues (at listed 2,91,60,000 3,88,80,000 6,15,60,000 4,86,00,000 8,26,20,000
+price) (`): (b)
+
+{(a) ×`6,480)}
+
+Revenues (at listed 2,91,60,000                    3,82,32,000 5,64,30,000 4,69,80,000 7,43,58,000
+
+price) (`): (c)           (4,500 ×                 (6,000 ×   (9,500 ×   (7,500 × (12,750 ×
+                                                      6,372)     5,940)
+{(a) ×Actual selling      6,480)                                         6,264)    5,832)
+price)}
+
+Discount (`) (d)             0                     6,48,000 51,30,000 16,20,000 82,62,000
+{(b) ­ (c)}
+
+Cost of goods sold 2,43,00,000                     3,24,00,000 5,13,00,000 4,05,00,000 6,88,50,000
+(`) : (e)
+{(a) x `5,400}
+
+Customer level operating activities costs
+
+Order taking costs        67,500                   1,12,500 1,35,000 1,12,500 1,35,000
+(`):
+
+(No. of purchase
+orders × ` 4,500)
+
+Customer          visits     7,200                 10,800     21,600        7,200  10,800
+costs (`)
+
+(No. of customer
+visits x ` 3,600)
+
+Delivery vehicles            1,500                    1,350      2,250      3,000     4,500
+travel costs (`)
+(Kms travelled by
+delivery vehicles x
+
+© The Institute of Chartered Accountants of India
+                     ACTIVITY BASED COSTING                                       5.651.61     a
+
+` 7.50 per km.)
+
+Product    handling     1,01,250                   1,35,000 2,13,750 1,68,750                  2,86,875
+costs (`)                         -                                                              13,500
+
+{(a) x ` 22.50}         1,77,450                                                               4,50,675
+
+Cost of expediting                                             -               -  -
+deliveries (`)
+{No. of expedited
+deliveries x ` 13,500}
+
+Total cost of
+
+customer         level
+
+operating activities
+
+(`)                                                2,59,650 3,72,600 2,91,450
+
+Computation of Customer level operating income
+
+                                                               Customers
+
+                        A                          B              C               D               E
+
+                        (`)                        (`)            (`)             (`)             (`)
+
+Revenues             2,91,60,000     3,82,32,000                  5,64,30,000     4,69,80,000  7,43,58,000
+
+(At list price)
+
+(Refer           to
+
+working note)
+
+Less: Cost of (2,43,00,000) (3,24,00,000) (5,13,00,000) (4,05,00,000) (6,88,50,000)
+goods sold
+
+(Refer           to
+
+working note)
+
+Gross margin            48,60,000 58,32,000 51,30,000 64,80,000 55,08,000
+
+Less: Customer          (1,77,450)                 (2,59,650)     (3,72,600)      (2,91,450)   (4,50,675)
+level operating
+activities costs
+
+(Refer to
+working note)
+
+Customer   level        46,82,550                  55,72,350      47,57,400       61,88,550    50,57,325
+operating
+income
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+

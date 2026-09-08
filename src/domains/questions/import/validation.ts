@@ -25,7 +25,7 @@ const VALID_SOURCE_TYPES: QuestionSourceType[] = [
   "OTHER",
 ];
 const SUPPORTED_SCHEMA_VERSIONS = ["1.0", "2.0"];
-const MAX_BATCH_SIZE = 500;
+const MAX_BATCH_SIZE = 1000;
 
 /**
  * Validates a single imported question payload (Schema v2.0 & v1.0).

@@ -24,7 +24,7 @@ import { validateImportBatch, validateImportQuestion } from "./validation";
 import { buildVersionCurriculumContext, resolveQuestionCurriculum } from "./mapping";
 import { fetchDuplicateCandidates, checkQuestionDuplicate } from "./duplicates";
 
-export async function withRetry<T>(fn: () => Promise<T>, maxRetries = 3, delayMs = 1000): Promise<T> {
+export async function withRetry<T>(fn: () => Promise<T>, maxRetries = 5, delayMs = 1000): Promise<T> {
   let lastError: unknown;
   for (let i = 0; i < maxRetries; i++) {
     try {
@@ -32,13 +32,21 @@ export async function withRetry<T>(fn: () => Promise<T>, maxRetries = 3, delayMs
     } catch (err: unknown) {
       lastError = err;
       const msg = (err as Error)?.message || String(err);
-      if (
+      const isNetwork =
         msg.includes("fetch failed") ||
         msg.includes("ConnectTimeout") ||
         msg.includes("ETIMEDOUT") ||
-        msg.includes("ECONNRESET")
-      ) {
-        console.warn(`[Neon Retry] Attempt ${i + 1}/${maxRetries} failed with network error, retrying in ${delayMs * (i + 1)}ms...`);
+        msg.includes("ECONNRESET") ||
+        msg.includes("UND_ERR_SOCKET") ||
+        msg.includes("wsarecv") ||
+        msg.includes("socket hung up") ||
+        msg.includes("Connection terminated") ||
+        msg.includes("network") ||
+        msg.includes("timeout") ||
+        msg.includes("EPIPE");
+
+      if (isNetwork && i < maxRetries - 1) {
+        console.warn(`[Neon Retry] Attempt ${i + 1}/${maxRetries} failed with network error (${msg.slice(0, 80)}), retrying in ${delayMs * (i + 1)}ms...`);
         await new Promise((r) => setTimeout(r, delayMs * (i + 1)));
         continue;
       }
@@ -58,6 +66,7 @@ export interface CreateImportBatchInput {
   sourceTitle?: string;
   sourceYear?: number;
   sourceMonth?: number;
+  examAttemptId?: string;
   adminEmail: string;
 }
 
@@ -126,6 +135,7 @@ export async function createImportBatch(input: CreateImportBatchInput) {
       academicLevelId: input.academicLevelId,
       curriculumVersionId: input.curriculumVersionId,
       subjectId: input.subjectId || null,
+      examAttemptId: input.examAttemptId || null,
       sourceType: batchSourceType,
       sourceTitle: batchSourceTitle,
       sourceYear: batchSourceYear,
@@ -994,6 +1004,7 @@ export async function publishApprovedQuestions(batchId: string, adminEmail: stri
           sourceYear: batch.sourceYear,
           sourceMonth: batch.sourceMonth,
           importBatchId: batch.id,
+          examAttemptId: batch.examAttemptId,
         })
         .returning()
     );
@@ -1055,6 +1066,9 @@ export async function publishApprovedQuestions(batchId: string, adminEmail: stri
     if (effectivePayload.source?.sourceReference || effectivePayload.sourceReference) {
       sourceMeta.sourceReference = effectivePayload.source?.sourceReference || effectivePayload.sourceReference;
     }
+    if (batch.examAttemptId) sourceMeta.examAttemptId = batch.examAttemptId;
+    if (batch.sourceYear) sourceMeta.sourceYear = batch.sourceYear;
+    if (batch.sourceMonth) sourceMeta.sourceMonth = batch.sourceMonth;
 
     // Insert live Question Version
     const [qv] = await withRetry(() =>

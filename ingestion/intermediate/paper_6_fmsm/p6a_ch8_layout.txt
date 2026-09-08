@@ -1,0 +1,2558 @@
+CHAPTER    8
+
+DIVIDEND DECISIONS
+
+                                  LEARNING OUTCOMES
+
+ Understand the Meaning of Dividend Decision.
+ Understand the importance of Dividend Decision.
+ Discuss various forms of Dividend.
+ Discuss various Determinants of Dividend.
+ Explain various theories of Dividend Decisions.
+
+CHAPTER OVERVIEW
+
+Financial  Financing Decision                                 Theories
+Decision   Investment Decision                     1. M. M. Approach
+                                                   2. Walter's Model
+            Dividend Decision                      3. Gordon's Model
+                                                   4. Lintner Model
+
+© The Institute of Chartered Accountants of India
+8.2  FINANCIAL MANAGEMENT
+
+    1. INTRODUCTION
+
+As we had already discussed in Chapter 1 (Scope and Objectives of Financial
+Management), Financial Management is the process of making financial decisions
+so as to increase the value of the firm.
+
+Long term Finance function decisions broadly covers three areas:
+
+i. Financing decision
+
+ii. Investment decision
+
+iii. Dividend decision
+
+So far, we had already discussed the first two decisions that are Financing and
+Investment decisions in earlier chapters. In this chapter, we will discuss the
+"Dividend decision" which is one of the most important areas of management
+decisions.
+
+Dividend Decision is easy to understand but difficult to implement. Let us
+understand this with the help of an example, suppose a company, say X limited,
+which is continuously paying the dividend at a normal growth rate, earns huge
+profits this year. Now the management have to decide whether it should continue
+to pay dividend at normal rate or to pay at an increasing rate. Why this dilemma?
+The reason is that, if the management decides to pay higher dividend, then it might
+be possible that next year, the company will not achieve such higher growth rate,
+resulting in lower dividend payment in comparison to previous year. However, if
+the company decides to stay on the normal rate of dividend, then surplus amount
+of retained earnings would remain idle which will result in over capitalization, if no
+other opportunity exist to utilize the idle funds.
+
+Further, there are some other factors also which will affect the dividend decision
+(will be discussed later).
+
+Furthermore, there are few Dividend theories which put light on the complexities
+involved in dividend decision. These theories have been discussed under the
+following two categories:
+
+Irrelevance Theory: MM Approach
+
+Relevance Theory: Walter's Model, Gordon's Model and Lintner Model
+
+© The Institute of Chartered Accountants of India
+              DIVIDEND DECISIONS                             8.3
+
+    2. MEANING OF DIVIDEND
+
+Dividend is that part of Profit After Tax (PAT) which is distributed to the
+shareholders of the company. Further, the profit earned by a company after paying
+taxes can be used for:
+
+i. Distribution of dividend, or
+
+ii. Retaining as surplus for future growth
+
+Profit After  Distributed                          Dividend
+     Tax       Retained
+                                                   Retained
+                                                   Earnings
+
+One of the important term to understand with regard to dividend is ex-
+dividend. Ex-dividend refers to shares that no longer carry the right to dividend.
+Price at which shares trades immediately on next day after declaration of
+dividend is referred to as Ex-dividend price.
+
+    3. FORMS OF DIVIDEND
+
+Generally, the dividend can be of the following forms (depending upon some
+factors that will be discussed later):
+
+1. Cash dividend: It is the most common form of dividend. Cash here means
+cash, cheque, warrant, demand draft, pay order or directly through Electronic
+Clearing Service (ECS) but not in kind.
+
+2. Share repurchases: A share repurchase is transaction in which company buys
+back its own shares using corporate cash. This is done by lot of corporates these
+days.
+
+The bought back shares as above can be classified as
+
+a. treasury shares which are kept for re-issuance in future or
+
+b. cancelled shares if they would be retired from issued share capital.
+
+Share repurchases are also viewed as one form dividend distribution
+
+© The Institute of Chartered Accountants of India
+8.4                      FINANCIAL MANAGEMENT
+
+Keeping other things same (such as tax considerations etc), the effect of cash
+dividend and share repurchases on shareholder's wealth is same.
+
+Following example explains the same:
+
+Suppose HM Ltd has 1 cr of equity shares outstanding and proposes to pay a
+dividend of ` 50 per share totalling ` 50 crores of dividend distribution.
+
+Market price of one share is ` 200 on the date of declaration of dividend.
+
+As an alternative if company wishes to repurchase ` 50 cr equivalent shares then
+company would be able to purchase 25 lakhs worth of shares.
+
+The impact on shareholder's wealth who holds 10 shares is explained as follows:
+
+Option 1: In case company pays cash dividend
+
+Ex-dividend price would be ` 150 (` 200 - ` 50), shareholder holding 10 shares
+would be left with ` 2000 worth of wealth after dividend is declared in form of cash
+as ` 500 (` 50 dividend on 10 shares) and shares worth ` 1500 (` 150 share for 10
+shares).
+
+Option 2: In case share repurchase is done, then in that case 25% (25 lakhs on 1
+crore) of the shares would be purchased i.e. 4 shares and amount paid out would
+be ` 800. After share repurchase the revised market price would be ` 200 only
+explained as follows:
+
+Market capitalisation before share repurchase                               ` 200 cr
+
+Less shares repurchased                                                     ` 50 cr
+
+Market capitalisation after shares repurchased                              ` 150 cr
+
+No of shares left after repurchase                 75 lakhs shares
+
+Market price after shares repurchase               ` 200 per share.
+
+Hence immediately after repurchase exercise done by company investor's wealth
+would be ` 2000 represented by ` 800 on account of cash received on shares
+repurchased and ` 1200 on account of market price of 6 shares left after
+repurchase.
+
+3. Stock dividend (Bonus Shares): It is a distribution of shares in lieu of cash
+dividend. When the company issues new shares to its existing shareholders without
+any consideration it is called bonus shares. Such shares are distributed
+proportionately thereby retaining proportionate ownership of the company. If a
+
+© The Institute of Chartered Accountants of India
+DIVIDEND DECISIONS                                 8.5
+
+shareholder owns 100 shares at a time and 10% dividend is declared, then he will
+have 10 (100 × 10%) additional shares thereby increasing the equity share capital
+and reducing reserves and surplus (retained earnings). The total net worth is not
+affected by bonus issue as retained earnings are only capitalised.
+
+Conditions of Stock Dividend or Bonus Issue
+
+To issue Bonus shares, a Company needs to fulfil all the conditions given by Security
+Exchange Board of India (SEBI). As per SEBI, the bonus shares are issued not in lieu
+of cash dividends. A bonus issue should be authorised by Article of Association
+(AOA) and not to be declared unless all partly paid-up shares have been converted
+into fully paid-up shares. The Company should not have defaulted in re-payment
+of loan, interest and any statutory dues. Bonus shares are to be issued only from
+share premium and free reserves and not from capital reserve on account of fixed
+assets revaluation.
+
+Bonus shares are used by companies to prevent investors from selling its shares as
+short term capital gains is 15% and long term capital gains is 10% and the period of
+holding for bonus shares starts from date of issue of bonus shares. In such a scenario
+an investor would not immediately sale bonus shares as they might lose 5% on
+account of taxation.
+
+This generally helps companies indirectly as their prices would not fall further due
+selling activity from investor's end.
+
+Advantages of Stock Dividend
+
+There are many advantages both to the shareholders and company. Some of the
+main advantages are listed as under:
+
+(1) To Shareholders:
+
+       (a) No tax is payable by shareholders on stock dividend received from
+               domestic company as it is not treated as dividend but as a capital asset
+               under Income Tax Act, 1961.
+
+       (b) The policy of paying fixed dividend per share and its continuation even
+               after declaration of stock dividend will increase total cash dividend of
+               the shareholders in future.
+
+       (c) Bonus shares improves liquidity in the hands of shareholders as bonus
+               shares leads to breaking down of higher priced shares into lower priced
+
+© The Institute of Chartered Accountants of India
+8.6  FINANCIAL MANAGEMENT
+
+               shares and hence give a choice to shareholders to sell some of the lower
+               priced shares and get some liquidity.
+
+(2) To Company:
+
+       (a) Conservation of cash for meeting profitable investment opportunities.
+
+       (b) Suitable in case of cash deficiency and restrictions imposed by lenders
+               to pay cash dividend.
+
+Limitations of Stock Dividend
+
+Limitations of stock dividend to shareholders and company are as follows:
+
+1. To Shareholders: Stock dividend does not affect the wealth of shareholders
+       and therefore it has no value for them. This is because the declaration of stock
+       dividend is a method of capitalising the past earnings of the shareholders and
+       is a formal way of recognising earnings which the shareholders already own.
+       It merely divides the company's ownership into a large number of share
+       certificates. James Porterfield regards stock dividends as a division of
+       corporate pie into a larger number of pieces. Stock dividend does not give any
+       extra or special benefit to the shareholder. His proportionate ownership in the
+       company does not change at all. Stock dividend creates a favourable
+       psychological impact on the shareholders and is greeted by them on the
+       ground that it gives an indication of the company's growth.
+
+2. To Company: Stock dividends are costlier to administer than cash dividends.
+       It is disadvantageous if periodic small stock dividends are declared by the
+       company as earnings.
+
+    4. SIGNIFICANCE OF DIVIDEND POLICY
+
+Dividend policy of a firm is governed by:
+
+(i) Long Term Financing Decision:
+
+       As we know that one of the financing options is `Equity'. Equity can either be
+       raised externally through issue of new equity shares or can be generated
+       internally through retained earnings. For Equity, retained earnings are
+       preferable because they do not involve any floatation costs (issue expenses).
+
+       But whether to retain or distribute the profits, forms the basis of this decision.
+       Further, payment of cash dividend reduces the amount of funds required to
+
+© The Institute of Chartered Accountants of India
+DIVIDEND DECISIONS                                 8.7
+
+       finance profitable investment opportunities thereby restricting its financing
+       options.
+
+       In this backdrop, the decision is based on the following:
+
+       1. Whether the organization has opportunities in hand to invest the profit,
+               if retained?
+
+       2. Whether the return on such investment (ROI) will be higher than the
+               expectations of shareholders i.e. Ke?
+
+(ii) Wealth Maximization Decision:
+
+       Under this decision, we are facing the problem as to what amount of dividend
+       shall be distributed i.e. the Dividend Payout ratio (D/P) in relation to Market
+       price of the shares (MPS)? This decision is based on the following:
+
+       1. Because of market imperfections and uncertainty, shareholders give
+               more importance to near dividends than future dividends and capital
+               gains. Payment of dividends influences the market price of the share
+               directly. Higher dividends increase the value of shares and low dividends
+               decrease it. A proper balance has to be struck between these two
+               approaches.
+
+       2. When the firm increases its retained earnings, shareholders' dividends
+               decreases and consequently market price is affected. Use of retained
+               earnings to finance profitable investments increases the future earnings
+               per share. This is because, shareholders expect that profitable
+               investments made by the company may lead to higher return for them
+               in future. On the other hand, increase in dividends may cause the firm
+               to forego investment opportunities for lack of funds and thereby
+               decrease the future earnings per share.
+
+       Thus, management should develop a dividend policy which divides net
+       earnings into dividends and retained earnings in an optimum way so as to
+       achieve the objective of wealth maximization for shareholders. Such a policy
+       will be influenced by investment opportunities available to the firm and value
+       of dividends as against capital gains to shareholders.
+
+© The Institute of Chartered Accountants of India
+        8.8             FINANCIAL MANAGEMENT
+
+    5. RELATIONSHIP BETWEEN RETAINED EARNINGS
+
+            AND GROWTH
+
+It can be illustrated with the help of the following equation:
+                                              Growth (g) = br
+
+Where,
+
+g = Growth rate of the firm
+
+b = Retention ratio
+
+r = Rate of return on investment
+
+Let us understand this relationship between retained earnings and growth with the
+help of following example:
+
+Example ­ 1
+Suppose there are two companies namely A Ltd. & B Ltd. having capital employed
+of ` 50,00,000 in terms of Equity shares (` 100 each are earning @ 20%. Both have
+same capital structure and same ROI but different dividend policy.
+
+A Ltd. distributes 100% of its earnings whereas B Ltd. distributes only 50%.
+
+Now, considering the other things to remain same, the position of both the
+companies during the next year will be:
+
+            A Ltd           (`)                                B Ltd           (`)
+Previous year                                      Previous year
+Earnings @ 20%          ` 10,00,000                Earnings @ 20%          ` 10,00,000
+Dividend                ` 10,00,000                Dividend                 ` 5,00,000
+Retained Earnings                                  Retained Earnings        ` 5,00,000
+Current year                       Nil             Current year
+Existing capital                                   Existing capital        ` 50,00,000
+Existing Retained       ` 50,00,000                Existing Retained        ` 5,00,000
+Earnings                           Nil             Earnings
+Total capital employed                             Total capital employed  ` 55,00,000
+Earnings @ 20%          ` 50,00,000                Earnings @ 20%          ` 11,00,000
+                        ` 10,00,000
+
+Hence with the help of above example, it is easy to understand that how retained
+earnings lead to growth.
+
+© The Institute of Chartered Accountants of India
+DIVIDEND DECISIONS                                 8.9
+
+    6. DETERMINANTS OF DIVIDEND DECISIONS
+
+The dividend policy is affected by the following factors:
+
+1. Availability of funds: If the business is in requirement of funds, then retained
+       earnings could be a good source. The reason being the saving of floatation
+       cost and prevention of dilution of control which happens in case of new issue
+       of equity shares to public.
+
+2. Cost of capital: If the financing requirements are to be executed through debt
+       (relatively cheaper source of finance), then it would be preferable to distribute
+       more dividend. On the other hand, if the financing is to be done through fresh
+       issue of equity shares, then it is better to use retained earnings as much as
+       possible.
+
+3. Capital structure: An optimum Debt Equity ratio should also be considered
+       for the dividend decision.
+
+4. Stock price: Stock price here means market price of the shares. Generally,
+       higher dividends increase market value of shares and low dividends decrease
+       the value.
+
+5. Investment opportunities in hand: The dividend decision is also affected if
+       there are investment opportunities in hand. In that situation, the company may
+       prefer to retain more earnings.
+
+6. Trend of industry: The investors depend on some industries for their regular
+       dividend income. Therefore, in such cases, the firms have to pay dividend in
+       order to survive in the market.
+
+7. Expectation of shareholders: The shareholders can be categorised into two
+       categories: (i) those who invests for regular income, & (ii) those who invests
+       for growth. Generally, the investor prefers current dividend over the future
+       growth.
+
+8. Legal constraints: Section 123 of the Companies Act, 2013 which provides
+       for declaration of dividend sates that Dividend shall be declared or paid by a
+       company for any financial year only:
+
+       (a) out of the profits of the company for that year arrived at after providing
+               for depreciation in accordance with the relevant provisions , or
+
+© The Institute of Chartered Accountants of India
+8.10  FINANCIAL MANAGEMENT
+
+       (b) out of the profits of the company for any previous financial year or years
+               arrived at after providing for depreciation in accordance with the
+               relevant provisions and remaining undistributed, or
+
+       (c) out of both, or
+
+       (d) out of money provided by the Central Government or a State
+               Government for the payment of dividend by the company in pursuance
+               of a guarantee given by that Government.
+
+               It may be noted that, while computing the profits for payment of
+               dividends any amount representing unrealised gains, notional gains or
+               revaluation of assets and any change in carrying amount of an asset or
+               of a liability on measurement of the asset or the liability at fair value
+               shall be excluded.
+
+9. Taxation: Before 1st April 2020, as per Section 115-O of Income Tax Act, 1961,
+       dividend was subject to dividend distribution tax (DDT) in the hands of the
+       company. Dividend on which DDT was paid, was to be exempted in the hands of
+       the shareholder u/s 10(34). However, as per amendment made by the Finance Act
+       2020, the exemption u/s 10(34) shall not apply to dividend received on or after 1st
+       April 2020 and the dividend income from shares held as investment shall be
+       taxable under the head of `Other income' at the applicable slab rate. In nutshell
+       dividend would be taxable in the hands of investor.
+
+    7. PRACTICAL CONSIDERATIONS IN DIVIDEND
+          POLICY
+
+A discussion on internal financing ultimately turns to practical considerations which
+determine the dividend policy of a company. The formulation of dividend policy
+depends upon answers to the following questions:
+
+· Whether there should be a stable pattern of dividends over the years? or
+
+· Whether the company should treat each dividend decision completely
+       independent?
+
+The practical considerations in dividend policy of a company are briefly discussed
+below:
+
+(a) Financial Needs of a Company: Retained earnings can be a source of finance
+for creating profitable investment opportunities. As we discussed earlier, when rate
+
+© The Institute of Chartered Accountants of India
+                     DIVIDEND DECISIONS            8.11
+
+of return of a company is greater than return required by shareholders, it would be
+advantageous for the shareholders to re-invest their earnings.
+
+Risk and financial obligations increase if a company raises capital through issue of
+new shares where floatation costs are involved.
+
+In this respect, a comparison between growth companies and mature companies
+has been given as follows:
+
+Mature Companies                                   Growth Companies
+
+1. Mature companies having few 1. Growth companies have low payout
+
+investment opportunities will show ratios. They are in need of funds to
+
+high payout ratios;                                finance fast growing fixed assets.
+
+2. Share prices of such companies are              2. Distribution of earnings reduces the
+sensitive to any changes in dividend               funds of the company. They retain all
+payout.                                            the earnings and declare bonus shares
+                                                   to offset the dividend requirements of
+                                                   the shareholders.
+
+3. A small portion of the earnings is              3. These companies increase the
+kept to meet emergent and occasional               amount of dividends gradually as the
+financial needs.                                   profitable investment opportunities
+                                                   start falling.
+
+(b) Constraints on Paying Dividends
+
+(i) Legal: Please see point no. (9) under the heading, "Determinants of Dividend
+       Decisions".
+
+(ii) Liquidity: Payment of dividends means outflow of cash. Ability to pay dividends
+       depends on cash and liquidity position of the firm. A mature company does not
+       have much investment opportunities, nor its funds tied up in permanent working
+       capital and, therefore has a sound cash position. A growth oriented company in
+       spite of having good profits need funds to expand its operations and permanent
+       working capital and therefore it is less likely to declare dividends.
+
+(iii) Access to the Capital Market: By paying large dividends, cash position is
+       affected. So, if new shares have to be issued to raise funds for financing
+       investment programmes and if the existing shareholders cannot buy
+       additional shares, then their control is diluted. In such a situation, payment of
+       dividends may be withheld and earnings are utilised for financing firm's
+       investment opportunities.
+
+© The Institute of Chartered Accountants of India
+8.12  FINANCIAL MANAGEMENT
+
+(iv) Investment Opportunities: If investment opportunities are inadequate, it is
+       better to pay dividends and raise external funds whenever necessary for such
+       opportunities.
+
+(c) Payout policies: Payout policies can be maintained by fixing the amount or
+rate of dividend irrespective of the earnings of the company. The policies may include:
+
+(i) Constant Dividend Policy: Shareholders are given fixed amount of dividend
+       irrespective of actual earnings. The amount of dividend may increase or
+       decrease later on depending upon the financial health of the company but it
+       is generally maintained for a considerable period of time.
+
+       To maintain a constant dividend amount, it is necessary to create a reserve
+       like Dividend Equalisation Reserve Fund earmarked by marketable securities
+       for accumulation of surplus earnings and to use it for paying dividends in
+       those years where the company's performance is not good. This policy treats
+       common shareholders at par with preference shareholders without giving
+       them any preferred opportunities within the firm. It is preferred by persons
+       and institutions that depend on dividend income to meet their living and
+       operating expenses.
+
+       Companies that use constant dividend policy, their dividend fluctuate with
+       earnings in short term.
+
+(ii) Stable Dividend Policy: The ratio of dividend to earnings is known as Payout
+       ratio. Some companies follow a policy of constant Payout ratio i.e. paying fixed
+       percentage on net earnings every year. To quote from Page 74 of the annual
+       report 2011 of Infosys Technologies Limited,
+
+       "The Dividend Policy is to distribute up to 30% of the Consolidated Profit after
+       Tax (PAT) of the Infosys Group as Dividend."
+
+© The Institute of Chartered Accountants of India
+DIVIDEND DECISIONS                                 8.13
+
+       Contrary to this, Warren Buffet (amongst the richest persons of the world)
+       says:
+
+       "We will either pay large dividends or none at all if we can't obtain more
+       money through re-investment (of those funds). There is no logic to regularly
+       paying out 10% or 20% of earnings as dividends every year."
+
+       Such a policy (as mentioned by Warren Buffet) envisages that the amount of
+       dividend fluctuates in direct proportion to earnings. If a company adopts 40%
+       payout ratio, then 40% of every rupee of net earnings will be paid out. If a
+       company earns ` 2 per share, dividend per share will be 80 paise and if it earns
+       ` 1.50 per share, dividend per share will be 60 paise.
+
+       Hence, such a policy is related to company's ability to pay dividends. For losses
+       incurred, no dividend shall be paid. Internal financing with retained earnings
+       is automatic. At any given payout ratio, amount of dividend and any addition
+       to retained earnings increase with increased earnings and decrease with
+       decreased earnings. This policy has a conservative approach and provides a
+       guarantee against over/underpayment.
+
+       Company that use a stable dividend policy base dividend on a long-term
+       forecast of sustainable earnings and increase dividends when earnings have
+       increased to a substantially higher level.
+
+       The detailed explanation of target payout ratio is covered under the Lintner's
+       model as below:
+
+Lintner's Model
+
+Lintner's model has two parameters:
+
+i. The target payout ratio,
+
+ii. The spread at which current dividends adjust to the target.
+
+John Lintner based his model on a series of interviews which he conducted with
+corporate managers in the mid 1950's. While developing the model, he considers
+the following assumptions:
+
+1. Firms have a long term dividend payout ratio. They maintain a fixed dividend
+       payout over a long term. Mature companies with stable earnings may have
+       high payouts and growth companies usually have low payouts.
+
+2. Managers are more concerned with changes in dividends than the absolute
+       amounts of dividends. A manager may easily decide to pay a dividend of ` 2
+
+© The Institute of Chartered Accountants of India
+            8.14      FINANCIAL MANAGEMENT
+
+       per share if last year too it was ` 2 but paying ` 3 dividend if last year dividend
+       was ` 2 is an important financial management decision.
+
+3. Dividend changes follow changes in long run sustainable earnings.
+
+4. Managers are reluctant to affect dividend changes that may have to be
+       reversed.
+
+Under Lintner's model, the current year's dividend is dependent on current year's
+earnings and last year's dividend.
+
+                       D = D + [(EPS ×Target payout) - D] × Af
+
+Where,      = Dividend in year 1
+       D    = Dividend in year 0 (last year dividend)
+       D    = Earnings per share
+       EPS  = Adjustment factor or Speed of adjustment
+       Af
+
+8. THEORIES OF DIVIDEND
+
+Theories of Dividend  Irrelevance Theory           MM Approach
+                          (Dividend is
+                           irrelevant)             Walter's Model
+
+                      Relevance Theory                Gordon's
+                          (Dividend is                  Model
+                            relevant)
+
+8.1 Dividend's Irrelevance Theory
+
+MODIGLIANI and MILLER (MM) HYPOTHESIS:
+
+Modigliani ­ Miller theory was proposed by Franco Modigliani and Merton Miller
+in 1961. MM approach is in support of the irrelevance of dividends i.e. firm's
+dividend policy has no effect on either the price of a firm's stock or its cost of
+capital.
+
+© The Institute of Chartered Accountants of India
+DIVIDEND DECISIONS                                 8.15
+
+According to MM Hypothesis
+
+· Market value of equity shares of a firm depends solely on its earning power and
+     is not influenced by the manner in which its earnings are split between
+     dividends and retained earnings.
+
+· Market value of equity shares is not affected by dividend size.
+
+· Under MM hypothesis there is no meaningful distinction between dividend and
+     share repurchases. They both are ways for a company to return cash to
+     shareholders.
+
+Assumptions of MM Hypothesis
+
+MM hypothesis is based on the following assumptions:
+
+· Perfect capital markets: The firm operates in a market in which all investors
+     are rational and information is freely available to all.
+
+· No taxes: There are no taxes or no tax discrimination between dividend income
+     and capital appreciation (capital gain). It means there is no difference in taxation
+     of dividend income or capital gain. This assumption is necessary for the
+     universal applicability of the theory, since the tax rates may be different in
+     different countries.
+
+· Fixed investment policy: It is necessary to assume that all investment should
+     be financed through equity only, since implication after using debt as a source
+     of finance may be difficult to understand. Further, the impact will be different
+     in different cases.
+
+· No floatation or transaction cost: Similarly, these costs may differ from
+     country to country or market to market.
+
+· Risk of uncertainty does not exist. Investors are able to forecast future prices
+     and dividend with certainty and one discount rate is appropriate for all
+     securities and all time periods.
+
+Situations under MM Hypothesis
+
+Keeping in mind assumptions under MM Hypothesis, firms may have three possible
+situations regarding the payment of dividend as follows:
+
+1. Firm pays cash dividends from Reserve & Surplus: In this situation, the
+       shareholders receive cash (dividend) from the firm, thereby, reducing the cash
+       balance of the firm. There is only transfer of asset (cash) from one pocket to
+
+© The Institute of Chartered Accountants of India
+8.16           FINANCIAL MANAGEMENT
+
+another pocket of the shareholders with no net gain or loss. So, payment of
+cash dividend will not affect the value of the firm.
+
+2. Firm pays cash dividends from new issue of shares: If the firm does not
+       have sufficient cash available for dividend, it will issue new shares and
+       therefore will use the amount received for the payment of dividend. Here,
+       shareholders receive cash (dividend) but suffer an equal amount of capital
+       loss due to dilution of control over the assets of the company and dilution in
+       earning per share. With the increase in the total number of shares, earning
+       per share will also reduce. Thus, there is no change in the wealth of
+       shareholders.
+
+3. Firm does not pay any dividend: When the firm doesn't pay any dividend,
+       but shareholder want to receive cash, then shareholder may sell part of
+       his/her shareholding in market. Therefore, the cash received in the hands of
+       the shareholder may be known as "home-made dividend". In this situation
+       also, the shareholder receives cash (capital receipt) but lose in the form of
+       capital loss due to dilution of control over the assets of the company among
+       the existing and new shareholders. Hence, there will be no gain or loss and
+       the value of the firm will remain unchanged.
+
+In all the above 3 cases, any new additional investment requirement as well as
+earnings done for the year are taken into account for assessing the financing needs
+for issue of new shares.
+
+Let us understand the different possible situations through an example as below:
+
+Example ­ 2:
+
+At the end of the current Financial Year, Dev Ltd. has 2 lakhs outstanding equity
+shares with market price of ` 10 per share with no other external borrowings since
+the company follows no borrowing policy. The company has used all its retained
+earnings for capital expenditure. The company also pays a constant dividend of ` 3
+per share and its cost of capital is 10%.
+
+Now analysing both situations i.e. when dividends are (i) not paid and (ii) paid.
+
+(i) If dividends are not paid, then the total no. of equity shares will remain same
+       as no new shares are issued.
+
+Market price per share (P1) = Po (1+ Ke) ­ D1
+
+                                                   = 10 (1+ 0.10) ­ 0 = ` 11
+
+Value of Firm                                      = ` 11 x 2,00,000 shares = ` 22,00,000
+
+© The Institute of Chartered Accountants of India
+               DIVIDEND DECISIONS                                            8.17
+
+(ii) As the company strictly follows the no borrowing policy, then to pay the
+       dividend of ` 3 per share, it will have to issue new shares to finance the
+       dividend payment as no retained earnings is available.
+
+Market price per share (P1) = Po (1+ Ke) ­ D1
+
+                                                   = 10 (1+ 0.10) ­ 3 = ` 8
+
+                                               Funds required (i.e. total dividend to be paid)
+No. of new shares to be issued =
+
+                                                                          P1
+
+                                                   =  2,00,000 shares× ` 3   = 75,000 shares
+
+                                                      `8
+
+Value of Firm                                      = ` 8 × 2,75,000 shares = ` 22,00,000
+
+Thus, it can be seen from the above example that the value of the firm remains
+the same in either case.
+
+MM hypothesis is primarily based on the arbitrage argument. Through the
+arbitrage process, MM hypothesis discusses how the value of the firm remains same
+whether the firm pays dividend or not. Here, market price of shares can be
+calculated as follows:
+
+                         P =                          P1 +D1
+                                                      1+Ke
+
+Where,
+
+P = Price in the beginning of the period
+
+P = Price at the end of the period
+
+D = Dividend at the end of the period
+
+Ke = Cost of equity/ rate of capitalization/ discount rate
+
+As per MM hypothesis, the value of firm will remain unchanged due to dividend
+decision. This can be computed with the help of the following formula:
+
+               Vf or nP                               = (n + n)P1- I+E
+
+                                                                    (1+Ke )
+
+Where,
+
+Vf = Value of firm in the beginning of the period
+
+n = Number of shares in the beginning of the period
+
+© The Institute of Chartered Accountants of India
+8.18                        FINANCIAL MANAGEMENT
+
+n = Number of shares issued to raise the funds required
+
+I = Amount required for investment
+
+E = Total earnings during the period
+
+For Understanding purpose:
+
+                               P                          =  P1 +D1
+                                                             1+Ke
+
+The above equation is for one share. Let's multiply it with n i.e. existing number of
+shares on both sides:
+
+                               nP                      =     nP1 +nD1
+                                                              1+Ke
+
+Now add nP1 and subtract nP1 at numerator of the right hand side equation
+
+                               nP = nP1 + nD1 + nP1 - nP1
+
+                                                           1+ Ke
+
+Further, retained earnings could be represented with the help of following:
+
+Retained earnings                                         = E ­ nD1
+
+n i.e. number of shares issued to raise the funds required can be represented as
+follows:
+
+      n   =                 Funds required                           =  I - (E - nD1)
+                            Price at end (P1)                                P1
+
+                            Or, nP1= I - (E - nD1)
+
+Now putting value of nP1 in the equation:
+
+      nP                    =  nD1+ (nP1+ nP1) - [I - (E - nD1)]
+                                                1 + Ke
+
+      nP  =                 nD1  +                 (n  +  n)P1 -  I  +  E  -  nD1
+                                                          1 + Ke
+
+      nP                    =  (n + n)P1 - I + E
+                                    (1 + Ke)
+
+© The Institute of Chartered Accountants of India
+                               DIVIDEND DECISIONS          8.19
+
+Advantages of MM Hypothesis
+
+1. This model is logically consistent.
+2. It provides a satisfactory framework on dividend policy with the concept of
+
+       Arbitrage process.
+
+Limitations of MM Hypothesis
+
+1. Validity of various assumptions is questionable.
+
+2. This model may not be valid under uncertainty.
+
+ILLUSTRATION 1
+
+AB Engineering Ltd. belongs to a risk class for which the capitalization rate is 10%. It
+currently has outstanding 10,000 shares selling at ` 100 each. The firm is
+contemplating the declaration of a dividend of ` 5 share at the end of the current
+financial year. It expects to have a net income of ` 1,00,000 and has a proposal for
+making new investments of ` 2,00,000. CALCULATE the value of the firm when
+dividends (i) are not paid (ii) are paid.
+
+SOLUTION
+
+CASE 1: Value of the firm when dividends are not paid.
+
+Step 1: Calculate price at the end of the period
+
+Ke= 10%,              P= 100,                      D= 0
+                                                   P= 110
+P         =  P1 +D1
+             1+Ke
+
+100 = P1 + 0                   »
+             1+ 0.10
+
+Step 2: Calculation of funds required for investment
+
+Earning                                            ` 1,00,000
+Dividend distributed                                  Nil
+Fund available for investment
+Total Investment                                   ` 1,00,000
+Balance Funds required                             ` 2,00,000
+                                                   ` 2,00,000 - ` 1,00,000 = ` 1,00,000
+
+© The Institute of Chartered Accountants of India
+    8.20            FINANCIAL MANAGEMENT
+
+Step 3: Calculation of No. of shares required to be issued for balance funds
+
+                     Funds required
+No. of shares =
+
+                     Price at end(P1)
+
+       n = 1,00,000
+                        110
+
+Step 4: Calculation of value of firm
+
+nP     =  (n+ n)P1 - I+E
+               1+ K e
+
+               10,  000  +  `  1,00,000                    ×`  110  -`  2, 00, 000  +`  1, 00, 000
+                                ` 110                    
+nP =
+                                                         (1+0.10)
+
+       =  ` 10,00,000
+
+CASE 2: Value of the firm when dividends are paid.
+
+Step 1: Calculate price at the end of the period
+
+Ke = 10%, P= 100,                                  D= 5
+
+P   =  P1 +D1
+       1+Ke
+
+100 = P1 +5 » P= 105
+         1+ 0.10
+
+Step 2: Calculation of funds required for investment
+
+Earning                                                  ` 1,00,000
+
+Dividend distributed                                     ` 50,000
+
+Fund available for investment ` 50,000
+
+Total Investment                                         ` 2,00,000
+
+Balance Funds required                                   ` 2,00,000 - ` 50,000 = `1,50,000
+
+© The Institute of Chartered Accountants of India
+            DIVIDEND DECISIONS                                                              8.21
+
+Step 3: Calculation of No. of shares required to be issued for balance fund
+
+No. of shares = Funds required
+                      Pr ice at end (P1)
+
+n           = ` 1,50,000
+                 ` 105
+
+Step 4: Calculation of value of firm
+
+nP = (n+ n)P1 - I+E
+                  1+ K e
+
+       10,  000  +                                 `  1,50,000    ×`  105  -`  2,  00, 000  +`  1, 00,  000
+                                                       ` 105    
+nP  =
+                                                                (1+0.10)
+
+                             = ` 10,00,000
+
+Thus, it can be seen from the above illustration that the value of the firm
+remains the same in either case.
+
+In real world, market imperfections create some problems for MM's dividend
+policy irrelevance proposition.
+
+8.2 Dividend's Relevance Theory
+
+1. WALTER'S MODEL
+
+Assumptions of Walter's Model
+
+Walter's approach is based on the following assumptions:
+
+· All investment proposals of the firm are to be financed through retained
+       earnings only.
+
+· `r' rate of return & `Ke' cost of capital are constant.
+
+· Perfect capital markets: The firm operates in a market in which all investors
+       are rational and information is freely available to all.
+
+· No taxes or no tax discrimination between dividend income and capital
+       appreciation (capital gain). It means there is no difference in taxation of
+       dividend income or capital gain. This assumption is necessary for the universal
+       applicability of the theory, since, the tax rates may be different in different
+       countries.
+
+© The Institute of Chartered Accountants of India
+        8.22             FINANCIAL MANAGEMENT
+
+· No floatation or transaction cost: Similarly, these costs may differ country
+       to country or market to market.
+
+· The firm has perpetual life
+
+The relationship between dividend and share price based on Walter's formula is
+shown below:
+
+                                                      D  +  r   (E  -  D)
+                                                            Ke
+                        Market Price (P)           =
+                                                            Ke
+
+Where,
+
+P = Market Price of the share.
+
+E = Earnings per share.
+
+D = Dividend per share.
+
+Ke = Cost of equity/ rate of capitalization/ discount rate.
+
+r = Internal rate of return/ return on investment
+
+The above formula is given by Prof. James E. Walter which shows how dividend can
+be used to maximise the wealth of equity holders. He argues that in the long run,
+share prices reflect only the present value of expected dividends. Retentions
+influence stock prices only through their effect on further dividends.
+
+A close study of the formula indicates that Professor Walter emphasises two factors
+which influence the market price of a share which are:
+
+(1) Dividend per share
+
+(2) Relationship between Internal Rate of Return (IRR) and Cost of capital (Ke) [i.e.
+       Market capitalization rate]
+
+If the internal return of retained earnings is higher than market capitalization rate,
+the value of ordinary shares would be high even if dividends are low. However, if
+the internal return within the business is lower than what the market expects, the
+value of the share would be low. In such a case, shareholders would prefer a higher
+dividend so that they can utilise the funds so obtained elsewhere in more profitable
+opportunities.
+
+Walter's Model explains why market prices of shares of growing companies are
+high even though the dividend paid out is low. It also explains why the market price
+
+© The Institute of Chartered Accountants of India
+                              DIVIDEND DECISIONS     8.23
+
+of shares of certain companies which pay higher dividends and retain very low
+profits is also high.
+
+As explained above, market price is dependent upon two factors; firstly, the
+quantum of dividend and secondly, profitable opportunities available to the
+company in investing the earnings retained. It is obvious that when a company
+retains a part of its profits, it has to think in terms of the cost of such retention.
+Retention of profits depends upon whether it is cheaper and more profitable for
+shareholders of the company to have corporate earnings retained in the business
+or get the same in the form of cash dividend. This involves a comparison between
+the cost of retained earnings and the cost of distributing them. The cost of retained
+earnings, therefore, involves an opportunity cost, i.e., the benefits which
+shareholders forego in terms of leaving the funds in the business.
+
+IRR, Ke and optimum payout
+
+As we know that Walter's approach considers two factors, following can be
+concluded from this model:
+
+Company Condition             Correlation between    Optimum       dividend
+                  of r vs Ke  Size of Dividend and   payout ratio
+                              Market Price of share
+Growth    r > Ke                                     Zero
+                                         Negative
+
+Constant  r = Ke              No correlation         Every payout ratio is
+Decline   r < Ke                  Positive           optimum
+
+                                                     100%
+
+Growth Oriented Company: In this condition, a company is able to invest/utilize
+the fund in a better manner. Therefore, shareholders can accept low dividend
+because their value of share would be higher.
+
+Declining Company: In this condition, a company is not in a position to cover the
+cost of capital. Therefore, shareholders would prefer a higher dividend so that they
+can utilize their funds elsewhere in more profitable opportunities.
+
+Advantages of Walter's Model
+
+1. The formula is simple to understand and easy to compute.
+
+© The Institute of Chartered Accountants of India
+          8.24                  FINANCIAL MANAGEMENT
+
+2. It can envisage different possible market prices in different situations and
+       considers internal rate of return, market capitalisation rate and dividend
+       payout ratio in the determination of market value of shares.
+
+Limitations of Walter's Model
+
+1. The formula does not consider all the factors affecting dividend policy and
+       share prices. Moreover, determination of market capitalisation rate is difficult.
+
+2. Further, the formula ignores such factors as taxation, various legal and
+       contractual obligations, management policy and attitude towards dividend
+       policy and so on.
+
+ILLUSTRATION 2
+
+XYZ Ltd. earns ` 10/ share. Capitalization rate and return on investment are 10% and
+12% respectively.
+
+DETERMINE the optimum dividend payout ratio and the price of the share at the payout.
+
+SOLUTION
+
+Since r > Ke , the optimum dividend pay-out ratio would `Zero' (i.e. D = 0),
+
+Accordingly, value of a share:
+
+P=  D + r (E - D)
+        Ke
+          Ke
+
+    0 + 0.12 (10 - 0)
+    0.10               = `120
+P=
+          0.10
+
+The optimality of the above payout ratio can be proved by using 25%, 50%, 75%
+and 100% as pay- out ratio:
+
+At 25% pay-out ratio
+
+    2.5+ 0.12 (10 - 2.5)
+          0.10
+P=                        = ` 115
+          0.10
+
+© The Institute of Chartered Accountants of India
+                                 DIVIDEND DECISIONS          8.25
+
+At 50% pay-out ratio
+
+    5+ 0.12 (10 - 5)
+    0.10
+P=                    = ` 110
+          0.10
+
+At 75% pay-out ratio
+
+    7.5+ 0.12 (10 - 7.5)
+          0.10
+P=                        = ` 105
+          0.10
+
+At 100% pay-out ratio
+
+    10 + 0.12 (10 -10)
+          0.10
+P=                        = ` 100
+          0.10
+
+ILLUSTRATION 3
+
+The following figures are collected from the annual report of XYZ Ltd.:
+
+Net Profit                                                    ` 30 lakhs
+Outstanding 12% preference shares                            ` 100 lakhs
+No. of equity shares
+Return on Investment                                              3 lakhs
+Cost of capital i.e. (Ke)                                             20%
+                                                                      16%
+
+COMPUTE the approximate dividend pay-out ratio so as to keep the share price at
+` 42 by using Walter's model?
+
+SOLUTION
+
+Net Profit                                               ` in lakhs
+Less: Preference dividend                                          30
+Earning for equity shareholders                                    12
+Earning per share                                                  18
+
+                                                     18/3 = ` 6.00
+
+Let, the dividend per share be D to get share price of ` 42
+
+                D + r (E - D)
+                      Ke
+P         =
+                      Ke
+
+© The Institute of Chartered Accountants of India
+           8.26             FINANCIAL MANAGEMENT
+
+                 D + 0.20 (6 - D)
+           = 0.16
+` 42                  0.16
+
+6.72       = 0.16D +1.2 - 0.20D
+
+                         0.16
+
+0.04D      = 1.2 ­ 1.0752
+
+D          = 3.12
+
+D/P ratio  = DPS ×100 = 3.12 ×100 = 52%
+                 EPS               6
+
+So, the required dividend payout ratio will be = 52%
+
+2. GORDON'S MODEL
+
+According to Gordon's model, dividend is relevant and dividend policy of a
+company affects its value.
+
+Assumptions of Gordon's Model
+
+This model is based on the following assumptions:
+
+· Firm is an all equity firm i.e. no debt.
+
+· IRR will remain constant, because change in IRR will change the growth rate
+       and consequently the value will be affected. Hence this assumption is
+       necessary.
+
+· Ke will remain constant, because change in discount rate will affect the
+       present value.
+
+· Retention ratio (b), once decide upon, is constant i.e. constant dividend
+       payout ratio will be followed.
+
+· Growth rate (g = br) is also constant, since retention ratio and IRR will
+       remain unchanged and growth, which is the function of these two variable
+       will remain unaffected.
+
+· Ke > g, this assumption is necessary and based on the principles of series of
+       sum of geometric progression for `n' number of years.
+
+· All investment proposals of the firm are to be financed through retained
+       earnings only.
+
+© The Institute of Chartered Accountants of India
+                DIVIDEND DECISIONS                 8.27
+
+The following formula is used by Gordon to find out price per share:
+
+                                                P0 = E1(1- b)
+                                                      Ke - br
+
+Where,
+       P0 = Price per share
+       E1 = Earnings per share
+       b = Retention ratio; (1 - b = Payout ratio)
+       Ke = Cost of capital
+       r = IRR
+       br = Growth rate (g)
+
+According to Gordon's model, when IRR is greater than cost of capital, the price
+per share increases and dividend pay-out decreases. On the other hand, when
+IRR is lower than the cost of capital, the price per share decreases and dividend
+pay-out increases.
+Following is the conclusion of Gordon's model:
+
+Company    Condition of r vs Ke                      Optimum dividend payout ratio
+  Growth          r > Ke                           Zero
+Constant          r = Ke                           There is no optimum ratio
+Declining         r < Ke                           100%
+
+ILLUSTRATION 4
+
+The following figures are collected from the annual report of XYZ Ltd.:
+
+Net Profit                                                                ` 30 lakhs
+Outstanding 12% preference shares                                        ` 100 lakhs
+No. of equity shares
+Return on Investment                                                          3 lakhs
+Cost of capital i.e. (Ke)                                                         20%
+                                                                                  16%
+
+CALCULATE price per share using Gordon's Model when dividend pay-out is (i) 25%;
+(ii) 50% and (iii) 100%.
+
+© The Institute of Chartered Accountants of India
+               8.28          FINANCIAL MANAGEMENT
+
+SOLUTION
+
+Net Profit                                                     ` in lakhs
+Less: Preference dividend                                                30
+Earning for equity shareholders                                          12
+Earning per share                                                        18
+
+                                                           18/3 = ` 6.00
+
+Price per share according to Gordon's Model is calculated as follows:
+
+P0 = E1(1- b)
+      Ke - br
+
+Here, E1 = 6, Ke = 16%
+
+(i) When dividend pay-out is 25%
+
+P0 =           6×0.25     =      1.5               =  150
+                             0.16 - 0.15
+      0.16 - (0.75×0.2)
+
+(ii) When dividend pay-out is 50%
+
+P0 =           6×0.5    =       3                  =  50
+                           0.16 - 0.10
+      0.16 - (0.5×0.2)
+
+(iii) When dividend pay-out is 100%
+
+P0 =           6×1     =    6 = 37.50
+                          0.16
+      0.16 - (0×0.2)
+
+The "Bird-in-hand theory" ­ Gordon's Revised Model
+
+Myron Gordon revised his dividend model and considered the risk and uncertainty
+in his model. The Bird-in-hand theory of Gordon has two arguments:
+
+(i) Investors are risk averse and
+
+(ii) Investors put a premium on certain return and discount on uncertain return.
+
+Gordon argues that what is available at present is preferable to what may be
+available in the future. As investors are rational, they want to avoid risk and
+uncertainty. They would prefer to pay a higher price for shares on which current
+dividends are paid. Conversely, they would discount the value of shares of a firm
+which postpones dividends. The discount rate would vary with the retention rate.
+
+© The Institute of Chartered Accountants of India
+                                      DIVIDEND DECISIONS                                         8.29
+
+The relationship between dividend and share price on the basis of Gordon's formula
+is shown as:
+
+Market  price  per  share  (P0)  =  D0 (1+g)       
+                                                   
+                                      Ke - g       
+
+Where,
+
+P0             = Market price per share (ex-dividend)
+
+Do             = Current year dividend
+
+g              = Constant annual growth rate of dividends
+
+Ke             = Cost of equity capital (expected rate of return).
+
+The formula given by Gordon shows that when the rate of return (r) is greater than
+the discount rate (Ke), the price per share increases as the dividend ratio decreases
+and the vice-versa. On the other hand, if the rate of return (r) is less than discount
+rate (Ke), the price per share increases as the dividend ratio increases and the vice-
+versa. The price per share remains unchanged where the rate of return and discount
+rate are equal.
+
+Dividend Discount Model (DDM)
+
+It is a financial model that values shares at the discounted value of the future
+dividend payments. Under this model, the price of a share that will be traded is
+calculated by the PV of all expected future dividend payment discounted by an
+appropriate risk- adjusted rate. The dividend discount model price is the intrinsic
+value of the stock i.e.
+
+Intrinsic value = Sum of PV of future cash flows
+
+Intrinsic value = Sum of PV of Dividends + PV of Stock Sale Price
+
+Stock Intrinsic Value =                              D1      +    D2      +  .....  +    Dn      +   RVn
+                                                   (1+ Ke)1     (1+ Ke)2               (1+ Ke)n
+                                                                                                    (1+ Ke)n
+
+In the above equation, it is assumed that dividend is paid at the end of each year
+and that the stock is sold at the end of the nth year.
+
+© The Institute of Chartered Accountants of India
+            8.30                     FINANCIAL MANAGEMENT
+
+There can three possible situations:
+                                     Dividend Discount Model
+
+            Zero Growth              Constant Growth          Variable Growth
+
+(a) Zero Growth Rate: assumes all dividend paid by a stock remains same. In
+this case the stock price would be equal to:
+
+                     Stock's intrinsic Value = Annual dividend
+                                                     Re quired rate of return
+
+                                                   D
+                               i.e.  P0            = Ke
+
+Where,
+
+    D = Annual dividend
+
+    Ke = Cost of capital
+
+    P0 = Current Market price of share
+
+ILLUSTRATION 5
+
+X Ltd. is a no growth company, pays a dividend of ` 5 per share. If the cost of capital
+is 10%, COMPUTE the current market price of the share?
+
+SOLUTION
+
+P0  =   D   =   5    =  `  50
+        Ke     0.10
+
+(b) Constant Growth Rate (Gordon's Growth Model): The relationship
+between dividend and share price on the basis of Gordon's formula is:
+
+                           Market price per share (P) = D0(1+ g)
+                                                                   Ke - g
+
+Where
+
+P = Market price per share
+
+D0 = current year dividend
+
+© The Institute of Chartered Accountants of India
+                              DIVIDEND DECISIONS                   8.31
+
+g = growth rate of dividends
+
+Ke = cost of equity capital/ expected rate of return
+
+Notes:
+
+g=b×r
+
+b = proportion of retained earnings or (1- dividend payout ratio)
+
+ILLUSTRATION 6
+
+XYZ is a company having share capital of ` 10 lakhs of ` 10 each. It distributed current
+dividend of 20% per annum. Annual growth rate in dividend expected is 2%. The
+expected rate of return on its equity capital is 15%. CALCULATE price of share applying
+Gordon's growth Model.
+
+SOLUTION
+
+P=  D0(1+ g)
+     Ke - g
+
+= 2(1+ 0.02) = ` 15.69
+   0.15 - 0.02
+
+(c) Variable Growth Rate : Variable-growth rate models (multi-stage growth
+models) can take many forms, even assuming the growth rate is different for every
+year. However, the most common form is one that assumes 3 different rates of
+growth: an initial high rate of growth, a transition to slower growth, and lastly, a
+sustainable, steady rate of growth. Basically, the constant-growth rate model is
+extended, with each phase of growth calculated using the constant-growth method
+but using 3 different growth rates of the 3 phases. The present values of each stage
+are added together to derive the intrinsic value of the stock. Sometimes, even the
+capitalization rate, or the required rate of return, may be varied if changes in the
+rate are projected. This is also referred to as 3 staged growth model.
+
+ILLUSTRATION 7
+
+A firm had paid dividend at ` 2 per share last year. The estimated growth of the
+dividends from the company is estimated to be 5% p.a. DETERMINE the estimated
+market price of the equity share if the estimated growth rate of dividends (i) rises to
+8%, and (ii) falls to 3%. Also FIND OUT the present market price of the share, given
+that the required rate of return of the equity investors is 15%.
+
+© The Institute of Chartered Accountants of India
+          8.32  FINANCIAL MANAGEMENT
+
+SOLUTION
+
+In the present situation, the current MPS is as follows:
+
+P         =     D0(1+ g)
+                 Ke - g
+
+P         =     2(1+ 0.05) = ` 21
+                0.15 - 0.05
+
+(i) The impact of changes in growth rate to 8% on MPS will be as follows:
+
+P         =     2(1+ 0.08) = ` 30.86
+                0.15 - 0.08
+
+(ii) The impact of changes in growth rate to 3% on MPS will be as follows:
+
+P         =     2(1+ 0.03) = ` 17.17
+                0.15 - 0.03
+
+So, the market price of the share is expected to vary in response to change in
+expected growth rate of dividends.
+
+Advantages of Gordon's Model
+
+1. The dividend discount model is a useful heuristic model that relates the
+       present stock price to the present value of its future cash flows.
+
+2. This Model is easy to understand.
+
+Limitations of Gordon's Model
+
+1. The dividend discount model depends on projections about company growth
+       rate and future capitalization rates of the remaining cash flows, which may be
+       difficult to calculate accurately.
+
+2. The true intrinsic value of a stock is difficult to determine realistically.
+
+Important considerations for Gordon's Model
+1. With dividends growing at constant rate of g, the share price also grows at g.
+
+       P0 = D1/(r-g)
+       Multiplying both sides by (1+g) gives as follows:
+       P0 (1+g) = D1 (1+g)/(r-g)
+
+© The Institute of Chartered Accountants of India
+DIVIDEND DECISIONS                                 8.33
+
+       P1 = D2/(r-g)
+       So both dividend and price have grown at the rate of g given r is constant.
+2. Growth rate g is also referred to as capital appreciation or capital yield.
+3. The dividend yield which is D1/P0 at t=0 will be constant as both dividend and
+       price are expected to grow at the same rate, leaving dividend yield unchanged.
+
+    9. STOCK SPLITS
+
+9.1 Meaning of Stock Split
+
+Stock split means splitting one share into many, say, one share of ` 500 into 5
+shares of ` 100. Stock splits is a tool used by the companies to regulate the prices
+of shares i.e. if a share price increases beyond a limit, it may become less tradable,
+for e.g. suppose a company's share price increases from ` 50 to ` 1000 over the
+years, it is possible that it might goes out of range of many investors.
+
+9.2 Advantages of Stock Splits
+
+1. It makes the share affordable to small investors.
+2. Number of shares may increase the number of shareholders; hence the
+
+       potential of investment may increase.
+
+9.3 Limitations of Stock Splits
+
+1. Additional expenditure needs to be incurred on the process of stock split.
+2. Low share price may attract speculators or short term investors, which are
+
+       generally not preferred by any company.
+
+    10. SHARE BUYBACK
+
+10.1 Meaning of Share Buyback
+
+Share buyback, in simple terms, means buying/repurchasing own shares by the
+company resulting into decrease in share capital of the company. Thus, the shares
+bought back are cancelled leading reduction in outstanding number of shares.
+
+© The Institute of Chartered Accountants of India
+          8.34                FINANCIAL MANAGEMENT
+
+Share buyback is also a form of shareholders' dividend. As the number of circulating
+shares in the market fall, amount of dividend per share in the future increases.
+
+There are two main types of buyback that can be performed by the companies. One
+is through an open market, and another is through tender offer. While company
+intending to buyback through open market, it need to go through secondary
+market. However, in case of tender offer, company offers a fixed price where all the
+shareholders can participate or sell their shares.
+
+Miscellaneous Illustrations
+
+ILLUSTRATION 8
+
+RST Ltd. has a capital of ` 10,00,000 in equity shares of ` 100 each. The shares are
+currently quoted at par. The company proposes to declare a dividend of ` 10 per
+share at the end of the current financial year. The capitalization rate for the risk class
+of which the company belongs is 12%. COMPUTE market price of the share at the
+end of the year, if
+
+(i) dividend is not declared
+
+(ii) dividend is declared
+
+Assuming that the company pays the dividend and has net profits of ` 5,00,000 and
+makes new investments of ` 10,00,000 during the period, CALCULATE number of new
+shares to be issued? Use the MM model.
+
+SOLUTION
+
+Given,
+
+Cost of Equity (Ke)                                    12%
+Number of shares in the beginning (n)               10,000
+
+Current Market Price (P0)                                       ` 100
+Net Profit (E)                                           ` 5,00,000
+Expected Dividend (D1)                              ` 10 per share
+Investment (I)                                         ` 10,00,000
+
+© The Institute of Chartered Accountants of India
+                                       DIVIDEND DECISIONS      8.35
+
+Computation of market price per share, when:
+
+(i) No dividend is declared:
+
+   P  =  P1 +D1
+         1+Ke
+
+   100 = P1 + 0
+             1+ 0.12
+
+   P1 =112 ­ 0 = ` 112
+
+(ii) Dividend is declared:
+       100 = P1 +10
+                  1+ 0.12
+
+   P1 = 112 ­ 10 = ` 102
+
+Calculation of number of shares required for investment
+
+                                                                     `
+
+Earning                                                                            5,00,000
+Dividend distributed                                                               1,00,000
+Fund available for investment                                                      4,00,000
+Total Investment                                                                 10,00,000
+Balance Funds required                             10,00,000 - 4,00,000 = 6,00,000
+
+                     Funds required
+No. of shares =
+
+                     Price at end(P1)
+
+n        = 6,00,000 = 5,882.35 or 5,883 Shares
+                102
+
+ILLUSTRATION 9
+
+The following information pertains to M/s XY Ltd.
+
+Earnings of the Company                            ` 5,00,000
+Dividend Payout ratio                              60%
+No. of shares outstanding                          1,00,000
+
+© The Institute of Chartered Accountants of India
+          8.36                FINANCIAL MANAGEMENT
+
+Equity capitalization rate                         12%
+
+Rate of return on investment                       15%
+
+CALCULATE:
+
+(i) Market value per share as per Walter's model.
+
+(ii) Optimum dividend payout ratio according to Walter's model and the market
+       value of Company's share at that payout ratio.
+
+SOLUTION
+
+(i) As per Walter's model:
+
+P=          D + r (E - D)
+                Ke
+                  Ke
+
+Where,
+
+P = Market price per share.
+
+E = Earnings per share = ` 5
+
+D = Dividend per share = ` 3
+
+R = Return earned on investment = 15%
+
+Ke = Cost of equity capital = 12%
+
+            3+ 0.15 (5 - 3)
+                0.12
+P=                           = ` 45.83
+                0.12
+
+(ii) According to Walter's model, when the return on investment is more than the
+       cost of equity capital, the price per share increases as the dividend pay-out
+       ratio decreases. Hence, the optimum dividend pay-out ratio in this case is nil.
+
+So, at a pay-out ratio of zero, the market value of the company's share will be:
+
+0+ 0.15 (5- 0)
+P = 0.12
+            0.12      = ` 52.08
+
+ILLUSTRATION 10
+
+Taking an example of three different firms i.e. growth, normal and declining,
+CALCULATE the share price using Gordon's model.
+
+                Factors                                 Growth Normal Declining
+
+© The Institute of Chartered Accountants of India
+                             DIVIDEND DECISIONS                             8.37
+
+r (rate of return on retained earnings)                     Firm    Firm    Firm
+Ke (Cost of Capital)                                        r > Ke  r = Ke  r < Ke
+E (Earning Per Share)                                        15%     10%
+b (Retained Earnings)                                        10%     10%      8%
+1- b (Dividend Payout)                                       ` 10    ` 10    10%
+                                                                             ` 10
+                                                              0.6     0.6     0.6
+                                                              0.4     0.4     0.4
+
+SOLUTION
+
+P0 = E1(1- b)
+      Ke - br
+
+(i) Situation-1: Growth Firm r > Ke
+
+P0 = 10(1- 0.6) =            4 = ` 400
+0.10 - 0.15×0.6 0.10 - 0.09
+
+(ii) Situation-2: Normal Firm r = Ke
+
+P0 = 10(1- 0.6) = 4                                = ` 100
+0.10 - 0.10×0.6 0.10-0.06
+
+(ii) Situation-2: Normal Firm r < Ke
+
+P0 = 10(1- 0.6) =            4                     = ` 76.92
+
+0.10 - 0.08×0.6 0.10 - 0.048
+
+If the retention ratio (b) is changed from 0.6 to 0.4, the new share price will be as
+follows:
+
+Growth Firm
+
+P0 = 10(1- 0.4) =  6 = ` 150
+0.10 - 0.15×0.4 0.10 - 0.06
+
+Normal Firm
+
+P0 = 10(1- 0.4) =  6 = ` 100
+0.10 - 0.10×0.4 0.10 - 0.04
+
+© The Institute of Chartered Accountants of India
+          8.38                       FINANCIAL MANAGEMENT
+
+Declining Firm
+
+P0 = 10(1- 0.4) =             6      = ` 88.24
+
+0.10 - 0.08×0.4 0.10 - 0.032
+
+From the above analysis, it can be concluded that:
+
+When r > k, the market value increases with retention ratio.
+
+When r < k, the market value of share stands to decrease.
+
+When r = k, the market value is not affected by dividend policy.
+
+The conclusion of the Gordon's model is similar to that of Walter's model.
+
+ILLUSTRATION 11
+
+The following information is given below in case of Aditya Ltd.:
+
+Earnings per share = ` 60
+
+Capitalisation rate = 15%
+
+Return on investment = 25%
+
+Dividend payout ratio = 30%
+
+(i) COMPUTE price per share using Walter's Model.
+
+(ii) WHAT would be optimum dividend payout ratio per share under Gordon's
+       Model.
+
+SOLUTION
+
+(i) As per Walter's Model, Price per share is computed by using the following
+       formula:
+
+                D  +  r   (E  -  D)
+                      Ke
+P         =
+                      Ke
+
+Where,
+
+          P = Market Price of the share.
+
+          E = Earnings per share.
+
+          D = Dividend per share.
+
+          Ke = Cost of equity/ rate of capitalization/ discount rate.
+
+          r = Internal rate of return/ return on investment
+
+© The Institute of Chartered Accountants of India
+                              DIVIDEND DECISIONS   8.39
+
+Applying the above formula, price per share
+
+         18  +  0.25  (60  -  18)
+                0.15
+P  =
+                0.15
+
+Or, P =  18+70 = ` 586.67
+           0.15
+
+(ii) As per Gordon's model, when r > Ke, optimum dividend payout ratio is
+       `Zero'.
+
+SUMMARY
+
+Dividend decision is one of the most important areas of management decisions. It is
+easy to understand but difficult to implement. Generally, the dividend can be in the
+form of Cash Dividend and Stock Dividend.
+Dividend policy is generally governed by long term financing decision and wealth
+maximization decision. Some other factors also play major role in this decision like
+growth opportunities, expectation of shareholders, trend of the industry, legal
+constraints etc.
+The three major theories of dividend decision are classified under irrelevance (M.M.
+Hypothesis) and relevance category (Walter's model & Gordon's Model). However, few
+other theories studied in this chapter are Graham & Dodd's model and Lintner model.
+According to the Graham & Dodd, the stock market places considerable weight on
+dividends than on retained earnings.
+
+                                           P=
+
+Where,
+       P = Market price per share
+       D = Dividend per share
+       E = Earnings per share
+       m = a multiplier
+
+Further, we studied stock splits as a tool to maintain price range so that it does not
+move too high to become unaffordable for a wide range of investors.
+
+© The Institute of Chartered Accountants of India
+8.40  FINANCIAL MANAGEMENT
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1. Which one of the following is the assumption of Gordon's Model:
+       (a) Ke > g
+       (b) Retention ratio, (b), once decide upon, is constant
+       (c) Firm is an all equity firm
+       (d) All of the above
+
+2. What should be the optimum Dividend pay-out ratio, when r = 15% & Ke = 12%:
+       (a) 100%
+       (b) 50%
+       (c) Zero
+       (d) None of the above.
+
+3. Which of the following is the irrelevance theory?
+       (a) Walter model
+       (b) Gordon model
+       (c) M.M. hypothesis
+       (d) Lintner's model
+
+4. If the company's D/P ratio is 60% & ROI is 16%, what should be the growth
+       rate?
+       (a) 5%
+       (b) 7%
+       (c) 6.4%
+       (d) 9.6%
+
+5. If the shareholders prefer regular income, how does this affect the dividend
+       decision:
+       (a) It will lead to payment of dividend
+       (b) It is the indicator to retain more earnings
+
+© The Institute of Chartered Accountants of India
+DIVIDEND DECISIONS                                 8.41
+
+       (c) It has no impact on dividend decision
+       (d) Can't say
+6. Mature companies having few investment opportunities will show high payout
+       ratios, this statement is:
+       (a) False
+       (b) True
+       (c) Partial true
+       (d) None of these
+7. Which of the following is the limitation of Lintner's model?
+       (a) This model does not offer a market price for the shares.
+       (b) The adjustment factor is an arbitrary number and not based on any
+
+               scientific criterion or methods.
+       (c) Both (a) & (b)
+       (d) None of the above.
+8. What are the different options other than cash used for distributing profits to
+       shareholders?
+       (a) Bonus shares
+       (b) Stock split
+       (c) Both (a) and (b)
+       (d) None of the above
+9. Which of the following statement is correct with respect to Gordon's model?
+       (a) When IRR is greater than cost of capital, the price per share increases and
+
+               dividend pay-out decreases.
+       (b) When IRR is greater than cost of capital, the price per share decreases and
+
+               dividend pay-out increases.
+       (c) When IRR is equal to cost of capital, the price per share increases and
+
+               dividend pay-out decreases.
+       (d) When IRR is lower than cost of capital, the price per share increases and
+
+               dividend pay-out decreases.
+
+© The Institute of Chartered Accountants of India
+8.42                    FINANCIAL MANAGEMENT
+
+10. Compute EPS according to Graham & Dodd approach from the given
+       information:
+
+Market price                                       ` 56
+
+Dividend pay-out ratio                             60%
+
+Multiplier                                         2
+
+(a) ` 30
+
+(b) ` 56
+
+(c) ` 28
+
+(d) ` 84
+
+11. Which among the following is not an assumption of Walter's Model?
+
+(a) Rate of return and cost of capital are constant
+
+(b) Information is freely available to all
+
+(c) There is discrimination in taxes
+
+(d) The firm has perpetual life
+
+Theoretical Questions
+
+1. STATE dividend decision. Briefly EXPLAIN the factors which govern this decision.
+2. EXPLAIN the advantages and disadvantages of the stock dividend.
+3. DISCUSS the practical considerations in dividend policy.
+4. LIST out the assumptions of irrelevance theory.
+5. State the meaning of stock split. Explain its advantages and disadvantages.
+
+Practical Problems
+
+1. M Ltd. belongs to a risk class for which the capitalization rate is 10%. It has
+       25,000 outstanding shares and the current market price is ` 100. It expects a
+       net profit of ` 2,50,000 for the year and the Board is considering dividend of
+       ` 5 per share.
+
+       M Ltd. requires to raise ` 5,00,000 for an approved investment expenditure.
+       ILLUSTRATE, how the MM approach affects the value of M Ltd. if dividends are
+       paid or not paid.
+
+© The Institute of Chartered Accountants of India
+                          DIVIDEND DECISIONS                  8.43
+
+2. The following information is supplied to you:
+
+Total Earnings                                             `
+No. of equity shares (of ` 100 each)               2,00,000
+Dividend paid
+Price/ Earnings ratio                                20,000
+                                                   1,50,000
+
+                                                        12.5
+
+Applying Walter's Model:
+
+(i) ANALYSE whether the company is following an optimal dividend policy.
+
+(ii) COMPUTE P/E ratio at which the dividend policy will have no effect on
+       the value of the share.
+
+(iii) Will your decision change, if the P/E ratio is 8 instead of 12.5? ANALYSE.
+
+3. With the help of following figures CALCULATE the market price of a share of a
+       company by using:
+
+(i) Walter's formula
+
+(ii) Dividend growth model (Gordon's formula)
+
+Earnings per share (EPS)                           ` 10
+
+Dividend per share (DPS)                           `6
+
+Cost of capital (Ke)                               20%
+
+Internal rate of return on investment              25%
+
+Retention Ratio                                    40%
+
+4. The annual report of XYZ Ltd. provides the following information:
+
+Particulars                                              Amount (`)
+Net Profit                                                    50 lakhs
+Outstanding 15% preference shares
+No. of equity shares                                        100 lakhs
+Return on Investment                                            5 lakhs
+Cost of capital i.e. (Ke)                                          20%
+                                                                   16%
+
+© The Institute of Chartered Accountants of India
+8.44  FINANCIAL MANAGEMENT
+
+       CALCULATE price per share using Gordon's Model when dividend pay-out is:
+
+       (i) 25%;
+
+       (ii) 50%;
+
+       (iii) 100%.
+
+5. A&R Ltd. is a large-cap multinational company listed in BSE in India with a face
+       value of ` 100 per share. The company is expected to grow @ 15% p.a. for next
+       four years then 5% for an indefinite period. The shareholders expect 20% return
+       on their share investments. Company paid ` 120 as dividend per share for the
+       current Financial Year. The shares of the company traded at an average price of
+       ` 3,122 on last day. FIND out the intrinsic value per share and state whether
+       shares are overpriced or underpriced.
+
+6. In the month of May of the current Financial Year, shares of RT Ltd. was sold
+       for ` 1,460 per share. A long term earnings growth rate of 7.5% is anticipated.
+       RT Ltd. paid dividend of ` 20 per share.
+
+       (i) CALCULATE rate of return an investor can expect to earn assuming that
+               dividends are expected to grow along with earnings at 7.5% per year in
+               perpetuity?
+
+       (ii) It is expected that RT Ltd. will earn about 10% on retained earnings and
+               shall retain 60% of earnings. In this case, STATE whether, there would be
+               any change in growth rate and cost of Equity?
+
+7. Aakash Ltd. has 10 lakh equity shares outstanding at the start of the accounting
+       year. The existing market price per share is  150. Expected dividend is  8 per
+       share. The rate of capitalization appropriate to the risk class to which the
+       company belongs is 10%.
+
+       (i) CALCULATE the market price per share when expected dividends are: (a)
+               declared, and (b) not declared, based on the Miller ­ Modigliani approach.
+
+       (ii) CALCULATE number of shares to be issued by the company at the end of
+               the accounting year on the assumption that the net income for the year is
+                3 crore, investment budget is  6 crores, when (a) Dividends are declared,
+               and (b) Dividends are not declared.
+
+© The Institute of Chartered Accountants of India
+                          DIVIDEND DECISIONS                 8.45
+
+(iii) PROOF that the market value of the shares at the end of the accounting
+       year will remain unchanged irrespective of whether (a) Dividends are
+       declared, or (ii) Dividends are not declared.
+
+8. Mr H is currently holding 1,00,000 shares of HM ltd, and currently the share of HM
+       ltd is trading on Bombay Stock Exchange at ` 50 per share. Mr A have a policy to
+       re-invest the amount of any dividend received into the shared back again of HM
+       ltd. If HM ltd has declared a dividend of ` 10 per share, please determine the no of
+       shares that Mr A would hold after he re-invests dividend in shares of HM ltd.
+
+9. Following information is given pertaining to DG ltd,
+
+No of shares outstanding                                 1 lakh shares
+
+Earnings Per share                                       25 per share
+
+P/E Ratio                                                20
+
+Book Value per share                                     400 per share
+
+If company decides to repurchase 25,000 shares, at the prevailing market price,
+what is the resulting book value per share after repurchasing.
+
+Case Scenarios
+
+1. KGF Chemicals Ltd., a prominent player in the chemical industry, faces the
+       challenge of determining its growth trajectory and dividend policy to maximize
+       shareholder value. With expectations of significant growth in the near term and
+       stabilization in the long run, the company must strategically manage its
+       resources to align with investor expectations.
+
+       KGF Chemicals Ltd. is a leading manufacturer and supplier of specialty
+       chemicals catering to diverse industries such as pharmaceuticals, agriculture,
+       and manufacturing. Established with a commitment to innovation and quality,
+       the company has garnered a strong market presence over the years.
+
+       The company is projected to experience robust growth at a rate of 14% per
+       annum for the next four years. Subsequently, the growth rate is expected to
+       stabilize at the national economy's rate of 7% indefinitely. This forecast reflects
+       both the company's expansion plans and the broader economic landscape.
+
+       KGF Chemicals Ltd. paid a dividend of  2 per share last year (Do = 2). The
+       management faces the crucial decision of balancing dividend payouts with
+       reinvestment opportunities to sustain growth and meet shareholders'
+
+© The Institute of Chartered Accountants of India
+8.46  FINANCIAL MANAGEMENT
+
+expectations. The dividend policy must strike a delicate balance between
+rewarding shareholders and retaining earnings for future investments.
+
+The required rate of return on equity shares is 12%, indicating investors'
+expected return given the company's risk profile and market conditions.
+Management must carefully assess investment opportunities to ensure they
+meet or exceed this threshold, thereby generating value for shareholders over
+the long term.
+
+In navigating the dynamic landscape of the chemical industry, KGF Chemicals
+Ltd. must adopt a proactive approach to managing growth and dividend policy.
+By aligning strategic decisions with investor expectations and market dynamics,
+the company can position itself for sustainable success while maximizing
+shareholder value. Continual evaluation and adaptation will be essential to
+capitalize on growth opportunities and maintain competitiveness in the evolving
+marketplace.
+
+You are required to answer the following on the basis of above information:
+(i) What is the expected dividend at the end of 4th Year?
+
+       (a) ` 2.1097
+
+       (b) ` 2.1483
+
+       (c) ` 2.9631
+
+       (d) ` 3.3779
+
+(ii) What is the present value of Expected Dividends to be received in next four
+       years?
+
+       (a) ` 11.2202
+
+       (b) ` 8.3655
+
+       (c) ` 9.8423
+
+       (d) ` 6.2176
+(iii) Determine the Market Price of shares at the end of 4th Year?
+
+       (a) ` 72.28
+
+       (b) ` 67.55
+
+       (c) ` 50.67
+
+       (d) ` 77.34
+
+© The Institute of Chartered Accountants of India
+                     DIVIDEND DECISIONS                                 8.47
+
+(iv) Determine the Present Value of Market Price of shares at the end of 4th
+       Year?
+       (a) ` 49.18
+       (b) ` 32.22
+       (c) ` 45.79
+       (d) ` 42.96
+
+(v) Calculate today's market price of the share.
+       (a) ` 59.03
+       (b) ` 54.33
+       (c) ` 57.01
+       (d) ` 57.54
+
+ANSWERS/SOLUTIONS
+
+Answers to the MCQs                                (c) 4. (c) 5. (a)    6. (b)
+                                                   (a) 10. (a) 11. (c)
+   1. (d) 2. (c) 3.
+   7. (c) 8. (a) 9.
+
+Answers to Theoretical Questions
+
+1. Please refer paragraph 1,2 and 6
+2. Please refer paragraph 3
+3. Please refer paragraph 7
+4. Please refer paragraph 8.1
+5. Please refer paragraph 9
+
+© The Institute of Chartered Accountants of India
+   8.48              FINANCIAL MANAGEMENT
+
+Answers to Practical Problems
+
+1. Given,
+
+Cost of Equity (Ke)                                10%
+
+Number of shares in the beginning (n) 25,000
+
+Current Market Price (P0)                          ` 100
+
+Net Profit (E)                                     ` 2,50,000
+
+Expected Dividend (D1)                             ` 5 per share
+
+Investment (I)                                     ` 5,00,000
+
+Case 1 - When dividends are paid Case 2 - When dividends are not
+                                                      paid
+
+Step 1                                             Step 1
+
+P  =       P1 +D1                                  P    =  P1 +D1
+           1+K e                                           1+K e
+
+100 = P1 +5                                        100 = P1 +0
+            1+ 0.10                                            1+ 0.10
+
+P1 = 110 ­ 5 = 105                                 P1 = 110 ­ 0 = 110
+
+Step 2                                             Step 2
+Calculation of funds required                      Calculation of funds required
+= [Total Investment ­ (Net profit -                = [Total Investment ­ (Net profit -
+
+    Dividend)]                                        Dividend)]
+= 5,00,000 - (2,50,000 - 1,25,000)                 = 5,00,000 - (2,50,000 - 0)
+= 3,75,000                                         = 2,50,000
+
+Step 3                                             Step 3
+
+No. of shares required to be issued                No. of shares required to be issued
+for balance fund                                   for balance fund
+
+                    Funds required                 No. of shares =      Funds required
+No. of shares = Price at end(P1)                                        Price at end(P1)
+
+n                  = 3,75,000                      n               = 2,50,000
+                                                                        110
+                     105
+
+                   = 3,571.4285                                    = 2,272.73
+
+© The Institute of Chartered Accountants of India
+                         DIVIDEND DECISIONS                                  8.49
+
+Step 4                                                   Step 4
+Calculation of value of firm
+                                                         Calculation of value of firm
+Vf = (n+n)P1 -I+E
+                                                         Vf = (n+n)P1 -I+E
+               (1+ke )
+                                                                       (1+ke )
+
+                                                         Vf =
+
+                                                                 2,50, 000 
+                                                          25, 000 + 110 110 - 5, 00, 000 + 2,50, 000
+Vf =
+                                                                 (1+ 0.10)
+      3,75,000 
+ 25, 000 + 105 105 - 5, 00, 000 + 2,50, 000              = ` 25,00,000
+
+               (1+ .10)
+
+= ` 25,00,000
+
+2. (i) The EPS of the firm is ` 10 (i.e., ` 2,00,000/ 20,000), r = ` 2,00,000/ (20,000
+               shares × ` 100) = 10%. The P/E Ratio is given at 12.5 and the cost of capital
+               (Ke) may be taken at the inverse of P/E ratio. Therefore, Ke is 8 (i.e., 1/12.5).
+               The firm is distributing total dividends of ` 1,50,000 among 20,000 shares,
+               giving a dividend per share of ` 7.50. the value of the share as per Walter's
+               model may be found as follows:
+
+      D + r (E - D)           7.5+ 0.1 (10 - 7.5)
+               Ke                                  0.08
+  P=                     =                                 = ` 132.81
+                 Ke                                0.08
+
+  The firm has a dividend payout of 75% (i.e., ` 1,50,000) out of total
+  earnings of ` 2,00,000. Since, the rate of return of the firm (r) is 10% and
+  it is more than the Ke of 8%, therefore, by distributing 75% of earnings,
+  the firm is not following an optimal dividend policy. The optimal
+  dividend policy for the firm would be to pay zero dividend and in such
+  a situation, the market price would be:
+
+  0 + 0.1 (10 - 0)
+  = 0.08
+      0.08               = ` 156.25
+
+  So, theoretically the market price of the share can be increased by
+  adopting a zero payout.
+
+(ii) The P/E ratio at which the dividend policy will have no effect on the value
+       of the share is such at which the Ke would be equal to the rate of return
+
+© The Institute of Chartered Accountants of India
+8.50                 FINANCIAL MANAGEMENT
+
+(r) of the firm. The Ke would be 10% (= r) at the P/E ratio of 10.
+Therefore, at the P/E ratio of 10, the dividend policy would have no effect
+on the value of the share.
+
+(iii) If the P/E is 8 instead of 12.5, then the Ke which is the inverse of P/E ratio,
+       would be 12.5 and in such a situation ke> r and the market price, as per
+       Walter's model would be:
+
+      D + r (E - D)                                7.5+ 0.1 (10 - 7.5)
+          Ke                                       0.125
+P=                   =                                                  = ` 76
+      Ke                                           0.125
+
+3. Market price per share by
+
+(i) Walter's model
+
+      D + r (E - D)           6 + 0.25 (10 - 6)
+      Ke                           0.20
+P=                   =                                    = ` 55
+      Ke                                           0.20
+
+(ii) Gordon's model
+
+Present market price per share (P0) = E(1- b)
+
+                                                           k - br
+
+P0 = 10 (1-0.40)
+
+        0.20 - (0.4 ×0.25)
+
+= 6 = ` 60
+   0.1
+
+4. Price per share according to Gordon's Model is calculated as follows:
+
+Particulars                                                                            Amount in `
+Net Profit                                                                                    50 lakhs
+Less: Preference dividend                                                                     15 lakhs
+Earnings for equity shareholders                                                              35 lakhs
+Earnings per share
+                                                                        35 lakhs/5 lakhs = ` 7.00
+
+Price per share according to Gordon's Model is calculated as follows:
+P0 = E1 (1- b)
+
+       Ke -br
+
+© The Institute of Chartered Accountants of India
+                                   DIVIDEND DECISIONS                                 8.51
+
+Here, E1 = 7, Ke = 16%
+(i) When dividend pay-out is 25%
+
+    P0 =            7×0.25         =     1.75 = ` 175
+                                      0.16 - 0.15
+             0.16 - (0.75×0.2)
+
+(ii) When dividend pay-out is 50%
+
+    P0 =            7 × 0.5        =      3.5 = ` 58.33
+                                      0.16- 0.10
+             0.16 - (0.5 × 0.2)
+
+(iii) When dividend pay-out is 100%
+
+    P0 =            7×1      =      7 = ` 43.75
+                                   0.16
+             0.16 - (0×0.2)
+
+5. As per Dividend discount model, the price of share is calculated as
+       follows:
+
+P=     D1    +      D2    +     D3                 +     D4    +    D5    ×      1
+    (1+Ke)1      (1+Ke)2     (1+Ke)3                  (1+Ke)4     (Ke-g)     (1+Ke)4
+
+Where,
+
+P = Price per share
+
+Ke = Required rate of return on equity
+
+g = Growth rate
+
+P=  `120x1.15    +  `138x1.15   +  `158.7x1.15        +  `182.5x1.15      +  `209.88x1.05   ×        1
+     (1 + 0.2)1     (1 + 0.2)2       (1 + 0.2)3           (1 + 0.2)4         (0.2 - 0.05)1           0.2)4
+                                                                                               (1 +
+
+P= 115 + 110.2 + 105.6 + 101.2 + 708.51 = ` 1,140.51
+
+Intrinsic value of share is ` 1,140.51 as compared to latest market price of
+` 3,122. Market price of a share is overpriced by ` 1,981.49.
+
+6. (i) According to Dividend Discount Model approach, the firm's expected or
+               required return on equity is computed as follows:
+
+    Ke  =    D1  +  g
+             P0
+
+    Ke = 20 (1+ 0.075) + 7.5%
+                1, 460
+
+        = 0.0147 +0.075 = 0.0897 or 8.97%
+
+© The Institute of Chartered Accountants of India
+8.52                      FINANCIAL MANAGEMENT
+
+(ii) With rate of return on retained earnings (r) is 10% and retention ratio
+       (b) is 60%, new growth rate will be as follows:
+
+g = br = 0.10 × 0.60 = 0.06
+
+Accordingly, dividend will also get changed and to calculate this, first we
+shall calculate previous retention ratio (b1) and then EPS assuming that
+rate of return on retained earnings (r) is same.
+
+With previous Growth Rate of 7.5% and r =10%, the retention ratio
+comes out to be:
+
+0.075 = b1 × 0.10
+
+b1 = 0.75 and payout ratio = 0.25
+
+With 0.25 payout ratio the EPS will be as follows:
+
+` 20 = ` 80
+0.25
+
+With new 0.40 (1 ­ 0.60) payout ratio, the new dividend will be
+
+D1 = ` 80 × 0.40 = ` 32
+
+Accordingly, new Ke will be
+
+K  e  =    32    +  6.0%
+         1, 460
+
+or, Ke = 8.19%
+
+7. (i) Calculation of market price per share
+
+According to Miller ­ Modigliani (MM) Approach:
+P0 = P1 + D1
+
+         1 + Ke
+
+Where,
+
+Existing market price (P0)                         = ` 150
+
+Expected dividend per share (D1)                   =` 8
+
+Capitalization rate (ke)                           = 0.10
+
+Market price at year end (P1)                      = to be determined
+
+(a) If expected dividends are declared, then
+
+© The Institute of Chartered Accountants of India
+                   DIVIDEND DECISIONS                             8.53
+
+` 150            = P1 + ` 8
+ P1                 1+ 0.10
+
+                 = ` 157
+
+(b) If expected dividends are not declared, then
+
+` 150            = P1 + 0
+                    1+ 0.10
+
+ P1              = ` 165
+
+(ii) Calculation of number of shares to be issued
+
+                                                          (a)            (b)
+                                                                  Dividends are
+                                                    Dividends     not Declared
+                                                   are declared
+                                                                      (` lakh)
+                                                      (` lakh)
+                                                                         300
+Net income                                                300              -
+
+Total dividends                                           (80)           300
+                                                                         600
+Retained earnings                                         220            300
+                                                                         165
+Investment budget                                         600           1.82
+
+Amount to be raised by new issues                         380
+
+Relevant market price (` per share)                       157
+
+No. of new shares to be issued                            2.42
+
+(in lakh)(` 380 ÷ 157; ` 300 ÷ 165)
+
+(iii) Calculation of market value of the shares
+
+                                                          (a)               (b)
+
+                                                   Dividends are  Dividends are not
+                                                      declared          Declared
+
+Existing shares (in lakhs)                         10.00          10.00
+New shares (in lakhs)                               2.42          1.82
+Total shares (in lakhs)                                           11.82
+Market price per share (`)                         12.42           165
+                                                    157
+
+© The Institute of Chartered Accountants of India
+    8.54                    FINANCIAL MANAGEMENT
+
+        Total market value of                                 12.42 × 157      11.82 × 165
+                                                                           = 1,950 (approx.)
+        shares at the end of the                      = 1,950 (approx.)
+        year (` in lakh)
+
+               Hence, it is proved that the total market value of shares remains
+               unchanged irrespective of whether dividends are declared, or not
+               declared.
+8. Ex-dividend price is ` 40 (50-10).
+       The total amount of dividend received is ` 10,00,000 which is re-invested at
+       the rate of ` 40 per share.
+       Hence additional shares purchased would be 25,000.
+       Total holding would be 1,25,000 shares (1,00,000 + 25,000)
+9. Current Market price = 20x25 = 500 per share
+       Book value of the company before repurchase = ` 4 cr (400x1 lakh shares)
+       Amount paid for repurchase = 1.25 cr (25,000 shares x 500 per share)
+       Book Value of company after repurchase = ` 2.75 cr (4cr ­ 1.25cr)
+       No of shares after repurchase = 75,000 shares
+       Book value per share = 367 per share.
+
+Answers to the Case Scenarios
+
+i. (d) ii. (b) iii. (a) iv. (c) v. (b)
+
+1. As per Dividend discount model, the price of share is calculated as
+       follows:
+
+P = Sum of PV of Expected Dividends + PV of Share Price at the end of the period
+
+P=     D1    +     D2    +     D3    +     D4      +    D5    ×      1
+    (1+Ke)1     (1+Ke)2     (1+Ke)3     (1+Ke)4       (Ke-g)     (1+Ke)4
+
+Where,
+
+P = Price per share
+
+Ke = Required rate of return on equity
+
+g = Growth rate
+
+© The Institute of Chartered Accountants of India
+                              DIVIDEND DECISIONS                       8.55
+
+Year   D1 = D0(1+g)                                       PV Discount    PV in
+                                                         Factor @ 12%       `
+1
+2      2(1+14%) =2.28                                           0.893   2.0364
+3                                                                       2.0715
+4      2.28(1+14%) =2.5992                                      0.797   2.1097
+                                                                        2.1483
+       2.5992(1+14%) =2.9631                                    0.712  ` 8.3655
+
+       2.9631(1+14%) =3.3779                                    0.636
+
+                 Total PV of Expected Dividend
+
+P4  =   D5    =  D4 (1+g)  =  3.3779(1+7%)         =  `  72.28
+       Ke -g       Ke -g         12% - 7%
+
+PV of share at the end of 4th Year =  72.28 x 0.636 =  45.97
+
+Market Price of shares =  8.3655 +  45.97 = ` 54.33
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+

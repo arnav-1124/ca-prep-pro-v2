@@ -1,0 +1,1392 @@
+CHAPTER     a  8
+
+UNIT & BATCH COSTING
+
+                                  LEARNING OUTCOMES
+
+ Describe Unit Costing method.
+ Prepare and calculate the cost under Unit Costing.
+ Describe Batch Costing methods.
+ Explain the accounting entries for cost elements under the
+
+      method.
+ Determine the cost for a batch
+ Differentiate between Job Costing and Batch Costing.
+
+CHAPTER OVERVIEW                                                           Meaning
+                                                   Process of Cost Accumulation and Calculation
+                                    Unit Costing
+
+Methods of                                         Meaning
+  Costing
+
+               Batch Costing                        Process of Cost Accumulation and Calculation
+                                                   Determination of Economic Batch Quantity (EBQ)
+
+                                                   Difference between Job and Batch Costing
+
+© The Institute of Chartered Accountants of India
+8.2  av  COST AND MANAGEMENT ACCOUNTING
+
+    1. INTRODUCTION
+
+So far, we have discussed in earlier chapters, the element wise cost collection,
+calculation and its accounting under integral and non- integral accounting systems.
+Now we will discuss how the cost accounting information can be presented and
+used according the needs of the management. To fulfil the need of the users of the
+cost accounting information, different methods of costing are followed. Costing
+methods enable the users to have customized information of any cost object
+according to the need and suitability. Different methods of costing have been
+developed according to the needs and nature of industries. For the sake of
+simplicity, industries can be grouped into two basic types i.e. Industries doing job
+work and industries engaged in mass production of a single product or identical
+products.
+
+1.1 For industry doing job work
+
+An entity which is engaged in the execution of special orders, each order being
+distinguishable from each other, such a concern is thought of involved in
+performing job works. Jobs are worked strictly in accordance with the customer's
+specifications and requirements, thus, each job order is unique. Examples of job
+order types of production are: ship building, construction of road and bridges,
+manufacturing of heavy electrical machineries and tools, wood and furniture works
+etc. Here, each job or unit of production is treated as a separate identity for the
+purpose of costing. The methods of costing for ascertaining cost of each job are
+known as a job costing, contract costing and batch costing.
+
+1.2 For continuous or process type of industries
+
+The continuous or process type of industries are characterised by the continuous
+production of uniform products according to the standard specifications. In such a
+case the successive lots are generally indistinguishable as to size and form and,
+even if there is some variation in specifications, it is of a minor character. Examples
+of continuous type of industries are chemical and pharmaceutical products,
+paper/food products, canning, paints and varnish oil, rubber, textile etc. Here the
+methods of costing used for the purpose of ascertaining costs are: process costing;
+single output costing; operating costing etc.
+
+© The Institute of Chartered Accountants of India
+UNIT & BATCH COSTING                               a  8.3  a
+
+                                                              v
+
+In this chapter two methods of costing are being discussed and distinguished from
+each type. Other methods will also be discussed in subsequent chapters.
+
+    2. UNIT COSTING
+
+Unit costing is that method of costing where the output produced is identical
+and each unit of output requires identical cost. Unit costing is synonymously
+known as single or output costing, but these are sub-division of unit costing
+method. This method of costing is followed by industries which produce single
+output or few variants of a single output. Under this method costs, are collected
+and analysed element wise and then total cost per unit is ascertained by dividing
+the total cost with the number of units produced. If we have to state it in the form
+of a formula, then
+
+                       Cost per unit = Total Cost of Production
+
+                                                      No. of units produced
+
+This method of costing, therefore finds its application in industries like paper,
+cement, steel works, mining, breweries etc. These types of industries produce
+identical products and therefore have identical costs.
+
+    3. COST COLLECTION PROCEDURE IN UNIT
+          COSTING
+
+The cost for production of output is collected element wise and posted in the cost
+accounting system for cost ascertainment. The element-wise collection is done as
+below:
+
+Collection of Materials Cost
+
+Cost of materials issued for production are collected from Material
+Requisition notes and accumulated for a certain period or volume of activity. The
+cost of material so accumulated is posted in cost accounting system. Through the
+cost accounting system, cost sheet for the period or activity is prepared to know
+cost for the period element-wise and functions-wise.
+
+© The Institute of Chartered Accountants of India
+8.4  av        COST AND MANAGEMENT ACCOUNTING
+
+Collection of Employees (Labour) Cost
+
+All direct employee (labour) cost is collected from job time cards or sheets and
+accumulated for a certain period or volume of activity. The time booked or recorded
+in the job time and idle time cards is valued at appropriate rates and entered in the
+cost accounting system. Other items of indirect employee (labour) costs are
+collected from the payrolls books for the purpose of posting against standing order
+or expenses code numbers in the overhead expenses ledger.
+
+Collection of Overheads
+
+Overheads are collected under suitable standing orders numbers, and selling and
+distribution overheads against cost accounts numbers. Total overhead expenses so
+collected are apportioned to service and production departments on some suitable
+basis. The expenses of service departments are finally transferred to production
+departments. The total overhead of production departments is then applied to
+products on some realistic basis, e.g. machine hour; labour hour; percentage of
+direct wages; percentage of direct materials; etc.
+
+3.1 Treatment of spoiled and defective work
+
+Circumstances                                      Treatment
+
+(1) Loss due to When a normal rate of defectives has already been
+       normal reasons established and actual number of defectives is
+                                    within the normal limit, the cost of rectification or
+                                    loss will be charged to the entire output. If, on
+                                    the other hand, the number of defective units
+                                    substantially exceeds the normal limits, the cost of
+                                    rectification or loss beyond normal limits are written
+                                    off in Costing Profit and Loss Account.
+
+(2) Loss due to In this case cost of rectification and loss is treated as
+       abnormal reasons abnormal cost and the cost of rectification or loss
+                                    is written off as loss in Costing Profit and Loss
+                                    Account.
+
+© The Institute of Chartered Accountants of India
+                            UNIT & BATCH COSTING   a          8.5  a
+
+                                                                                        v
+
+ILLUSTRATION 1
+
+The following data relate to the manufacture of a standard product during the 4-
+week ended 28th February:
+
+Raw Materials Consumed      ` 4,00,000
+Direct Wages                ` 2,40,000
+Machine Hours Worked        3,200 hours
+Machine Hour Rate           ` 40
+Office Overheads            10% of works cost
+Selling Overheads           ` 20 per unit
+Units produced and sold     10,000 at ` 120 each
+
+You are required to FIND OUT the cost per unit and profit for the 4-week ended 28th
+February.
+
+SOLUTION
+
+Statement of Cost per Unit                         No. of units produced: 10,000 units
+
+Particulars                                        Cost per        Amount
+                                                    unit (`)              (`)
+
+Raw Materials Consumed                             40.00 4,00,000
+
+Direct Wages                                       24.00 2,40,000
+
+Prime cost                                         64.00 6,40,000
+
+Add: Manufacturing Overheads (3,200 hours × ` 40)  12.80 1,28,000
+
+Works cost                                         76.80 7,68,000
+
+Add: Office Overheads (10% of Works Cost)          7.68            76,800
+
+Cost of goods sold                                 84.48 8,44,800
+
+Add: Selling Overheads (10,000 units × ` 20)       20.00 2,00,000
+
+Cost of sales / Total cost                         104.48 10,44,800
+
+Add: Profit (Bal Figure)                           15.52 1,55,200
+
+Sales                                              120.00 12,00,000
+
+© The Institute of Chartered Accountants of India
+       8.6        av  COST AND MANAGEMENT ACCOUNTING
+
+ILLUSTRATION 2
+
+Atharva Pharmacare Limited produced a uniform type of product and has a
+manufacturing capacity of 3,000 units per week of 48 hours. From the records of the
+company, the following data are available relating to output and cost of 3 consecutive
+weeks
+
+ Week                 Units                            Direct      Direct       Factory
+Number          Manufactured                       Material (`)  Wages (`)  Overheads (`)
+
+     1                1,200                            9,000        3,600        31,000
+     2                1,600                           12,000        4,800        33,000
+     3                1,800                           13,500        5,400        34,000
+
+Assuming that the company charges a profit of 20% on selling price, FIND OUT the
+selling price per unit when the weekly output is 2,000 units
+SOLUTION
+Statement of Cost and Selling price for 2,000 units of output
+
+Particulars                                                      Cost per unit Total Cost
+
+                                                                            (`)    (`)
+
+Direct Materials                                                            7.50   15,000
+
+Direct Labour                                                               3.00   6,000
+
+Prime cost                                                                  10.50  21,000
+
+Add: Factory Overheads (Refer working note-2)                               17.50  35,000
+
+Total cost                                                                  28.00  56,000
+
+Add: Profit (20% of Sales is equivalent to 25% of                           7.00   14,000
+Cost)
+
+Sales                                                                       35.00  70,000
+
+Working Notes:
+
+(1) Direct Material and Direct Labour cost is varying directly in proportion to units
+       produced and shall remain same per unit of output. Thus, direct material cost
+       is equal to ` 9000 ÷ 1200 units = ` 7.50 per unit and labour cost is equal to
+       ` 3600 ÷ 1200 units = ` 3 per unit.
+
+© The Institute of Chartered Accountants of India
+                   UNIT & BATCH COSTING            a  8.7  a
+
+                                                                            v
+
+(2) Calculation of Factory Overheads- An observation of cost related to different
+       output levels for factory overheads shall reveal 2 things
+
+a. Total cost increases from `31,000 to `34,000 along with increase in
+       output from 1,200 units to 1,800 units but cost per unit is not constant.
+       Thus it is not a variable cost.Cost per unit is reducing along with
+       increase in output from ` 25.83 (` 31,000 ÷ 1,200 units) to ` 18.89
+       (`34,000 ÷ 1,800 units)
+
+b. Since the cost is varying with the output, it is also not a fixed cost.
+
+Hence, we can see that the cost is a semi- variable cost and has to be
+calculated for 2,000 units by analysing its fixed and variable components
+
+Week Number        Units Manufactured              Factory Overheads
+             1                  1,200                         31,000
+             2                  1,600                         33,000
+                                 400                           2,000
+       Difference
+
+Therefore, Variable Cost per unit = Change in Factory Overheads ÷ Change
+in output
+= `2,000 ÷ 400 = `5
+Now total factory overheads for week 2 = `33,000
+Out of this, Variable Overheads = 1,600 units × `5 = ` 8,000
+Thus, fixed component = ` 33,000 ­ ` 8,000 = ` 25,000
+Therefore, Variable Cost for 2,000 units = 2,000 units × `5 = ` 10,000
+Fixed Cost will not change and hence will be = `25,000
+Therefore, Total Factory Cost = Variable Overheads + Fixed Overheads
+Overheads for 2,000 units = `10,000 + `25,000 = ` 35,000
+
+© The Institute of Chartered Accountants of India
+8.8                av         COST AND MANAGEMENT ACCOUNTING
+
+    4. BATCH COSTING
+
+Batch Costing is a type of specific order costing where articles are
+manufactured in predetermined lots, known as batch. Under this costing
+method, the cost object for cost determination is a batch for production rather
+output as seen in unit costing method.
+
+A batch consists of certain number of units which are processed simultaneously to
+be for manufacturing operation. Under this method of manufacturing, the inputs
+are accumulated in the assembly line till it reaches minimum batch size. Soon after
+a batch size is reached, all inputs in a batch is processed for further operations.
+Reasons for batch manufacturing may be either technical or economical or both.
+For example, in pen manufacturing industry, it would be too costly to manufacture
+one pen of a particular design at a time to meet the demand of one customer. On
+the other hand, the production, of say 10,000 pens, of the same design will reduce
+the cost to a sizeable extent.
+
+To initiate production process, an entity has to incur expenditures on engaging
+workers for production and supervision, setting-up of machine to run for
+production etc. These are the minimum level of expenditures which have to be
+incurred each time a batch is run irrespective of number of units produced.
+
+5. Costing Procedure in Batch Costing
+
+To facilitate convenient cost determination, one number is allotted for each batch.
+Material cost for the batch is arrived at on the basis of material requisitions for the
+batch and labour cost is arrived at by multiplying the time spent on the batch by
+direct workers as ascertained from time cards or job tickets. Overheads are
+absorbed on some suitable basis like machine hours, direct labour hours etc.
+
+ILLUSTRATION 3
+
+Arnav Confectioners (AC) owns a bakery which is used to make bakery items like
+pastries, cakes and muffins. AC use to bake at most 50 units of any item at a time.
+A customer has given an order for 600 muffins. To process a batch of 50 muffins,
+the following cost would be incurred:
+
+Direct materials-      ` 500
+
+© The Institute of Chartered Accountants of India
+                         UNIT & BATCH COSTING       a  8.9      a
+
+                                                                   v
+
+Direct wages-   ` 50
+
+Oven set- up cost ` 150
+
+AC absorbs production overheads at a rate of 20% of direct wages cost. 10% is
+added to the total production cost of each batch to allow for selling, distribution
+and administration overheads.
+
+AC requires a profit margin of 25% of sales value.
+
+DETERMINE the selling price for 600 muffins.
+SOLUTION
+
+Statement of cost per batch and per order
+
+No. of batch = 600 units ÷ 50 units = 12 batches
+
+Particulars                                         Cost per       Total
+                                                    batch (`)   Cost (`)
+Direct Material Cost
+Direct Wages                                           500.00      6,000
+Oven set-up cost                                         50.00        600
+Add: Production Overheads (20% of Direct wages)
+Total Production cost                                  150.00      1,800
+Add: S&D and Administration overheads                    10.00        120
+(10% of Total production cost)
+Total Cost                                             710.00      8,520
+Add: Profit (1/3rd of total cost)                        71.00        852
+Selling price
+Selling Price per unit = 1041.33÷ 50 = ` 20.83        781.00     9,372
+                                                      260.33     3,124
+                                                    1,041.33    12,496
+
+ILLUSTRATION 4
+
+A jobbing factory has undertaken to supply 200 pieces of a component per month for
+the ensuing six months. Every month a batch order is opened against which materials
+and labour hours are booked at actual. Overheads are levied at a rate equal to per
+labour hour. The selling price contracted for is ` 8 per piece. From the following data
+CALCULATE the cost and profit per piece of each batch order and overall position of
+the order for 1,200 pieces.
+
+© The Institute of Chartered Accountants of India
+            8.10 av           COST AND MANAGEMENT ACCOUNTING
+
+Month           Batch Output        Material cost               Direct wages  Direct labour
+
+January                 210               (`)                         (`)         hours
+                                          650                         120           240
+February                200               640                         140           280
+                                          680                         150           280
+March                   220               630                         140           270
+                                          700                         150           300
+April                   180               720                         160           320
+
+May                     200
+
+June                    220
+
+The other details are:
+
+Month                               Overheads                   Direct labour
+                                         (`)                         hours
+January                                                              4,800
+February                               12,000                        4,400
+March                                  10,560                        5,000
+April                                  12,000                         4,600
+May                                    10,580                        5,000
+June                                   13,000                        4,800
+                                       12,000
+
+SOLUTION
+
+Particulars                   Jan.                  Feb. March  April May June Total
+                               210                   200 220      180 200 220 1,230
+Batch           output
+(in units)                   1,680                 1,600 1,760
+                               650                   640 680
+Sale value (`)                 120                   140 150    1,440 1,600 1,760 9,840
+                               600                   672 672
+Material cost (`)                                               630 700 720 4,020
+                             1,370                 1,452 1,502
+Direct wages (`)               310                   148 258    140 150 160 860
+                              6.52                  7.26 6.83
+Overheads* (`)                1.48                  0.74 1.17   621 780 800 4,145
+
+Total cost (`)                                                  1,391 1,630 1,680 9,025
+
+Profit per batch (`)                                            49 (30)       80 815
+
+Total cost per unit (`)                                         7.73 8.15 7.64 7.34
+
+Profit per unit (`)                                             0.27 (0.15) 0.36 0.66
+
+© The Institute of Chartered Accountants of India
+             UNIT & BATCH COSTING              a                    8.11a
+                                                                                   v
+Overall position of the order for 1,200 units
+Sales value of 1,200 units @ ` 8 per unit                                 ` 9,600
+Total cost of 1,200 units @ ` 7.34 per unit                               ` 8,808
+Profit                                                                     ` 792
+
+  Overheads                          Direct labour hours for batch
+
+  Direct labour hour for the month
+
+    6. ECONOMIC BATCH QUANTITY (EBQ)
+
+As the product is produced in batches or lots, the lot size chosen will be critical in
+achieving least cost of operation. Primarily, the total production cost under batch
+production comprises of two main costs, namely,
+
+1. Machine Set Up Costs and
+
+2. Inventory holding costs.
+
+If the size is higher, the set up cost may decline due to lesser number of set ups
+required; but units in inventory will go up leading to higher holding costs. If the lot
+size is lower, lower inventory holding costs are accomplished but only with higher
+set up costs. Economic batch quantity is the size of a batch where total cost of
+set-up and holding costs are at minimum.
+
+This relationship is explained with the help of following diagram
+
+As can be seen in the above diagram, costs are shown on the Y axis and Batch size
+or batch quantity is shown on the X axis. With the higher batch size, holding cost
+shows a tendency to increase whereas set-up costs show a declining trend. The
+point where both the cost lines intersect each other represents the lowest cost
+combination.
+
+© The Institute of Chartered Accountants of India
+          8.12 av       COST AND MANAGEMENT ACCOUNTING
+
+The economic batch size or Economic Batch Quantity may be determined by
+calculating the total cost for a series of possible batch sizes and checking which
+batch size gives the minimum cost. Alternatively, a formula can be derived which is
+similar to determination of Economic Order Quantity (EOQ). The objective here
+being to determine the production lot (Batch size) that optimizes on both set up
+and inventory holding cots formula. The mathematical formula usually used for its
+determination is as follows:
+
+EBQ = 2DS
+            C
+
+Where,  D = Annual demand for the product
+        S = Setting up cost per batch
+        C = Carrying cost per unit of production
+
+ILLUSTRATION 5
+
+Monthly demand for a product                                500 units
+Setting-up cost per batch                                   ` 60
+Cost of manufacturing per unit                              ` 20
+Rate of interest                                            10% p.a.
+DETERMINE economic batch quantity.
+
+SOLUTION
+
+EBQ =          2DS      2  500 12  60 = 600 units.
+                     =  0.1 20
+               C
+
+ILLUSTRATION 6
+
+M/s. KBC Bearings Ltd. is committed to supply 48,000 bearings per annum to M/s.
+KMR Fans on a steady daily basis. It is estimated that it costs ` 1 as inventory holding
+cost per bearing per month and that the set up cost per run of bearing manufacture
+is ` 3,200
+
+(i) DETERMINE the optimum run size of bearing manufacture.
+
+(ii) STATE what would be the interval between two consecutive optimum runs.
+
+(iii) FIND OUT the minimum inventory holding cost.
+
+© The Institute of Chartered Accountants of India
+                      UNIT & BATCH COSTING                    a 8.13  a
+
+                                                                         v
+
+SOLUTION
+
+(i) Optimum batch size or Economic Batch Quantity (EBQ):
+
+EBQ       =  2DS =    2 48,0003,200
+                                              = 5,060 units.
+             C        12
+
+(ii) Number of Optimum runs = 48,000 ÷ 5,060 = 9.49 or 10 run
+
+Interval between 2 runs (in days) = 365 days ÷ 10 = 36.5 days
+
+(iii) Minimum Inventory Cost = Average Inventory × Inventory Carrying Cost per
+       unit per annum
+
+Average Inventory = 5,060 units ÷ 2 = 2,530 units
+
+Carrying Cost per unit per annum= `1 × 12 months = ` 12
+
+Minimum Inventory Holding Costs = 2,530 units × ` 12 = ` 30,360
+
+ILLUSTRATION 7
+
+A Company has an annual demand from a single customer for 50,000 litres of a paint
+product. The total demand can be made up of a range of colour to be produced in a
+continuous production run after which a set-up of the machinery will be required to
+accommodate the colour change. The total output of each colour will be stored and
+then delivered to the customer as single load immediately before production of the
+next colour commences.
+
+The Set up costs are ` 100 per set up. The Service is supplied by an outside company
+as required.
+
+The Holding costs are incurred on rented storage space which costs ` 50 per sq. meter
+per annum. Each square meter can hold 250 Litres suitably stacked.
+
+You are required to:
+
+(i) CALCULATE the total cost per year where batches may range from 4,000 to
+       10,000 litres in multiples of 1,000 litres and hence choose the production batch
+       size which will minimize the cost.
+
+(ii) Use the economic batch size formula to CALCULATE the batch size which will
+       minimise total cost.
+
+© The Institute of Chartered Accountants of India
+          8.14 av      COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION
+
+(i)
+
+     Production Batch Set-up costs Holding Costs Total Costs
+
+     Size (Lt.)        per annum (`) per annum (`) per annum (`)
+
+          4,000           1,250                           400             1,650
+
+          5,000           1,000                           500             1,500
+
+          6,000                                    833    600             1,433
+
+          7,000                                    714    700             1,414
+
+          8,000                                    625    800             1,425
+
+          9,000                                    556    900             1,456
+
+          10,000                                   500    1000            1,500
+
+     As the total cost is minimum at 7,000 ltr. i.e. ` 1,414, thus economic production
+     lot would be 7,000 Litres
+
+(ii) Economic Batch Quantity (EBQ):
+
+     EBQ            =  2 DS
+
+                       C
+
+     Where, D = Annual demand for the product = 50,000 Litres
+
+                 S = Setting up cost per batch = `100 per set-up
+
+                 C = Carrying cost per unit of production
+
+                    = ` 50 / 250 litres = 0.20 per litre per annum
+
+                    =  2  50,000 100                      = 7,071 Litres
+
+                                                   0.2 1
+
+     Working Note:
+
+     1. For Production batch size of 7,000 litres
+
+          Number of set ups per year = 50,000 ÷ 7,000 = 7.14 or 8 set-ups
+
+          Hence, annual set up cost per year = 8 × `100 = `800
+
+          Average Quantity = 7,000 ÷ 2 = 3,500 litres
+
+          Holding Costs = 3,500 ltr. ÷250 × 50 = ` 700
+
+© The Institute of Chartered Accountants of India
+                    UNIT & BATCH COSTING            a 8.15  a
+
+                                                               v
+
+   2. It can be seen that EBQ determined with mathematical formula (7,071
+          litres) slightly varies from the one determined by trial and error method
+          (7,000 Litres)
+
+   7. DIFFERENCE BETWEEN JOB AND BATCH
+         COSTING
+
+Sr. No Job Costing                 Batch Costing
+
+1  Method of costing used for Homogeneous products produced in
+
+   non- standard and non- a continuous production flow in lots.
+
+   repetitive products produced
+
+   as per customer specifications
+
+   and against specific orders.
+
+2  Cost determined for each Job Cost determined in aggregate for the
+
+                                   entire Batch and then arrived at on
+
+                                   per unit basis.
+
+3  Jobs are different from each Products produced in a batch are
+
+   other and independent of each homogeneous and lack of
+
+   other. Each Job is unique.      individuality
+
+SUMMARY
+
+ Unit Costing: Unit costing is that method of costing where the output produced
+       by an entity is identical and each unit of output require identical cost.
+
+ Job Costing: Job costing is the method of costing required to be done for
+       unique products manufacturing done against specific orders.
+
+ Batch Costing: Batch Costing is a type of specific order costing where articles
+       are manufactured in predetermined lots, known as batch. Under this costing
+       method, the cost object for cost determination is a batch for production rather
+       output as seen in unit costing.
+
+ Economic Batch Quantity (EBQ): Economic batch quantity is the size of a batch
+       where total cost of set-up and holding costs are at minimum.
+
+                    2DS
+
+       EBQ =
+
+                      C
+
+© The Institute of Chartered Accountants of India
+8.16 av  COST AND MANAGEMENT ACCOUNTING
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQ)
+
+1. Different businesses in order to determine cost of their product or service
+       offering follow:
+       (a) Different methods of Costing
+       (b) Uniform Costing
+       (c) Different techniques of costing
+       (d) None of the above
+
+2. In order to determine cost of the product or service, following are used:
+       (a) Techniques of costing like Marginal, Standard etc.
+       (b) Methods of Costing
+       (c) Comparatives
+       (d) All of the above
+
+3. Unit Costing is applicable where:
+       (a) Product produced are unique and no 2 products are same
+       (b) Dissimilar articles are produced as per customer specification
+       (c) homogeneous articles are produced on large scale
+       (d) Products made require different raw materials
+
+4. In case product produced or jobs undertaken are of diverse nature, the system
+       of costing to be used should be:
+       (a) Process costing
+       (b) Operating costing
+       (c) Job costing
+       (d) None of the above
+
+© The Institute of Chartered Accountants of India
+                      UNIT & BATCH COSTING         a 8.17       a
+
+                                                                              v
+
+5. Job Costing is:
+
+(a) Applicable to all industries regardless of the products or services provided
+
+(b) Technique of costing
+
+(c) Suitable where similar products are produced on mass scale
+
+(d) Method of costing used for non- standard and non- repetitive products.
+
+6. The production planning department prepares a list of materials and stores
+       required for the completion of a specific job order, this list is known as:
+
+(a) Bin card
+
+(b) Bill of material
+
+(c) Material requisition slip
+
+(d) None of the above
+
+7. Batch costing is a type of:
+
+(a) Process costing
+
+(b) Job Costing
+
+(c) Differential costing
+
+(d) Direct costing
+
+8. Batch costing is similar to that under job costing except with the difference that
+       a:
+
+(a) Job becomes a cost unit.
+
+(b) Batch becomes the cost unit instead of a job
+
+(c) Process becomes a cost unit
+
+(d) None of the above
+
+9. The main points of distinction between job and contract costing includes:
+
+(a) Length of time to complete.
+
+(b) Big jobs
+
+© The Institute of Chartered Accountants of India
+8.18 av  COST AND MANAGEMENT ACCOUNTING
+
+       (c) Activities to be done outside the factory area
+       (d) All of the above
+10. Economic batch quantity is that size of the batch of production where:
+       (a) Average cost is minimum
+       (b) Set-up cost of machine is minimum
+       (c) Carrying cost is minimum
+       (d) Both (b) and (c)
+
+Theoretical Questions
+
+1. DESCRIBE Unit Costing and Batch Costing giving example of industries where
+       these are used.
+
+2. DISTINGUISH between Job Costing & Batch Costing.
+3. In Batch Costing, STATE how is Economic Batch Quantity determined.
+4. Z Ltd. produces product ZZ in batches, management of the Z Ltd. wants to know
+
+       the number of batches of product ZZ to be produced where the cost incurred
+       on batch setup and carrying cost of production is at optimum level. How will
+       they DETERMINE the optimum batch number?
+
+Practical Problems
+
+1. Wonder Ltd. has a capacity of 120,000 units per annum as its optimum
+       capacity. The production costs are as under:
+       Direct Material ­ ` 90 per unit
+       Direct Labour- ` 60 per unit
+       Overheads:
+       Fixed: ` 30,00,000 per annum
+       Variable: ` 100 per unit
+       Semi Variable: ` 20,00,000 per annum up to 50% capacity and an extra amount
+       of ` 4,00,000 for every 25% increase in capacity or part thereof
+       The production is made to order and not for stocks.
+
+© The Institute of Chartered Accountants of India
+                UNIT & BATCH COSTING                              a 8.19  a
+
+                                                                             v
+
+If the production programme of the factory is as indicated below and the
+management desires a profit of `20,00,000 for the year DETERMINE the
+average selling price at which each unit should be quoted.
+
+First 3 months: 50% capacity
+
+Remaining 9 months: 80% capacity
+
+Ignore Administration, Selling and Distribution overheads.
+
+2. Rio Limited undertakes to supply 1000 units of a component per month for the
+       months of January, February and March. Every month a batch order is opened
+       against which materials and labour cost are booked at actual. Overheads are
+       levied at a rate per labour hour. The selling price is contracted at ` 15 per unit.
+
+From the following data, CALCULATE the profit per unit of each batch order
+and the overall position of the order for the 3,000 units.
+
+    Month       Batch Output                       Material Cost    Labour Cost
+                  (Numbers)                               (`)             (`)
+January               1,250
+February              1,500                              6,250           2,500
+March                 1,000                              9,000           3,000
+                                                         5,000           2,000
+
+Labour is paid at the rate of ` 2 per hour. The other details are:
+
+         Month                                     Overheads (`)  Total Labour Hours
+January                                                 12,000              4,000
+February                                                 9,000              4,500
+March                                                   15,000              5,000
+
+3. X Ltd. is committed to supply 24,000 bearings per annum to Y Ltd. on steady
+       basis. It is estimated that it costs 10 paise as inventory holding cost per bearing
+       per month and that the set-up cost per run of bearing manufacture is ` 324.
+
+(a) COMPUTE what would be the optimum run size for bearing manufacture?
+
+(b) Assuming that the company has a policy of manufacturing 6,000 bearings
+       per run, CALCULATE how much extra costs the company would be
+       incurring as compared to the optimum run suggested in (a) above?
+
+(c) CALCULATE the holding cost at optimum inventory level?
+
+© The Institute of Chartered Accountants of India
+8.20 av  COST AND MANAGEMENT ACCOUNTING
+
+4. A customer has been ordering 90,000 special design metal columns at the rate
+       of 18,000 columns per order during the past years. The production cost per unit
+       comprises ` 2,120 for material, ` 60 for labour and ` 20 for fixed overheads. It
+       costs ` 1,500 to set up for one run of 18,000 column and inventory carrying cost
+       is 5%.
+
+       (i) FIND the most economic production run.
+
+       (ii) CALCULATE the extra cost that company incur due to processing of 18,000
+               columns in a batch.
+
+5. XYZ Ltd. has obtained an order to supply 48000 bearings per year from a
+       concern. On a steady basis, it is estimated that it costs ` 0.20 as inventory
+       holding cost per bearing per month and the set-up cost per run of bearing
+       manufacture is ` 384.
+
+       You are required to:
+
+       (i) compute the optimum run size and number of runs for bearing
+               manufacture.
+
+       (ii) compute the interval between two consecutive runs.
+
+       (iii) find out the extra costs to be incurred, if company adopts a policy to
+               manufacture 8000 bearings per run as compared to optimum run Size.
+
+       (iv) give your opinion regarding run size of bearing manufacture.
+
+       Assume 365 days in a year.
+
+Case Scenarios
+
+1. Arnav Ltd. operates in beverages industry where it manufactures soft-drink in
+       three sizes of Large (3 litres), Medium (1.5 litres) and Small (600 ml) bottles. The
+       products are processed in batches. The 5,000 litres capacity processing plant
+       consumes electricity of 90 Kilowatts per hour and a batch takes 1 hour 45
+       minutes to complete. Only symmetric size of products can be processed at a
+       time. The machine set-up takes 15 minutes to get ready for next batch
+       processing. During the set-up power consumption is only 20%.
+
+       (i) The current price of Large, Medium and Small are `150, `90 and `50
+               respectively.
+
+© The Institute of Chartered Accountants of India
+          UNIT & BATCH COSTING                       a 8.21       a
+
+                                                                     v
+
+(ii) To produce a litre of beverage, 14 litres of raw material-W and 25 ml of
+       Material-C are required which costs `0.50 and `1,000 per litre respectively.
+
+(iii) 20 direct workers are required. The workers are paid `880 for 8 hours shift
+       of work.
+
+(iv) The average packing cost per bottle is `3
+
+(v) Power cost is `7 per Kilowatt -hour (Kwh)
+
+(vi) Other variable cost is `30,000 per batch.
+
+(vii) Fixed cost (Administration and marketing) is `4,90,00,000.
+
+(viii) The holding cost is `1 per bottle per annum.
+
+The marketing team has surveyed the following demand (bottle) of the product:
+
+Large     Medium                                     Small
+3,00,000  7,50,000                                   20,00,000
+
+The following information has been sought from you for the purpose of
+performance review meeting:
+(i) Number of large size bottles that can be processed in a batch?
+
+       (a) 5,000 bottles
+       (b) 1,666 bottles
+       (c) 3,333 bottles
+       (d) 8,333 bottles
+(ii) Total number of batches to be run to process medium size bottles
+       (a) 180
+
+       (b) 225
+       (c) 240
+       (d) 645
+(iii) Material -W required for small size bottles
+       (a) 1,26,00,000 ltrs
+
+(b) 1,68,00,000 ltrs
+(c) 1,57,50,000 ltrs
+
+© The Institute of Chartered Accountants of India
+8.22 av  COST AND MANAGEMENT ACCOUNTING
+
+       (d) 1,51,50,000 ltrs
+(iv) Calculate total profit/ loss per batch.
+
+       (a) ` 3,46,28,460
+       (b) ` 2,56,28,360
+       (c) ` 2,82,17,370
+       (d) ` 1,88,56,360
+(v) Compute Economic Batch Quantity (EBQ) for small size bottles.
+       (a) 1,34,234 ltrs
+       (b) 2,12,243 ltrs
+       (c) 1,57,882 ltrs
+       (d) 3,46,592 ltrs
+
+ANSWERS/ SOLUTIONS
+
+Answers to the MCQs
+
+  1. (a) 2. (b) 3. (c) 4. (c) 5. (d) 6. (b)
+  7. (b) 8. (b) 9. (d) 10. (d)
+
+Answers to the Theoretical Questions
+
+1. Please refer paragraph 2 & 4
+2. Please refer paragraph 7
+3. Please refer paragraph 6
+4. Please refer paragraph 6
+
+© The Institute of Chartered Accountants of India
+                  UNIT & BATCH COSTING                                 a 8.23      a
+
+                                                                                      v
+
+Answers to the Practical Problems
+
+1. Statement of Cost and Total Sales                                   Amount (`)
+
+Particulars           First 3 months                  Next 9 months                     Total
+Capacity                                                                              87,000
+Utilisation (No   120,000x3/12x50%                 120,000x9/12x80%
+of units)                       =15,000                          =72,000           78,30,000
+Direct Material                                                                    52,20,000
+Direct Labour           13,50,000                            64,80,000
+Add:                     9,00,000                            43,20,000
+Overheads:
+                                7,50,000                                22,50,000    30,00,000
+   - Fixed (1:3)              15,00,000                                 72,00,000    87,00,000
+   - Variable     5,00,000 (For first 3                        21,00,000 (at the     26,00,000
+Semi Variable     months at the rate                         rate of ` 28,00,000
+                       of ` 20,00,000)                             for 9 months)   2,73,50,000
+Total cost                                                                           20,00,000
+Add: Profit                   50,00,000                               2,23,50,000
+Sales                                                                              2,93,50,000
+
+     Average Selling Price = `2,93,50,000 ÷ 87,000 units = ` 337.356
+2. Statement of Cost and Profit per unit of each batch
+
+                                                   January February    March        Total
+                                                                        1,000       3,750
+a) Batch Output (Nos.)                             1,250     1,500          (`)
+                                                                                        (`)
+b) Sales Value (@ ` 15 per                              (`)       (`)  15,000      56,250
+     unit)                                         18,750    22,500
+
+Cost
+
+Material                                           6,250     9,000      5,000      20,250
+                                                                        2,000       7,500
+Wages                                              2,500     3,000      3,000       9,750
+                                                                       10,000
+Overheads                                          3,750     3,000      5,000      37,500
+                                                                                   18,750
+c) Total                                           12,500 15,000
+
+d) Profit per batch (b) ­ (c)                      6,250     7,500
+
+© The Institute of Chartered Accountants of India
+8.24 av                   COST AND MANAGEMENT ACCOUNTING
+
+e) Cost per unit (c) ÷ (a)                                  10  10                10
+f) Profit per unit (d) ÷ (a)
+                                                            5   5                  5
+
+Overall Position of the Order for 3,000 Units
+
+Sales value (3,000 units × ` 15)                                                   `45,000
+Less: Total cost (3,000 units × ` 10)                                               30,000
+Profit                                                                              15,000
+
+Calculation of overhead per hour:
+
+i. Labour hours:             January                              February           March
+         Labour cost      `2,500 = 1,250                        `3,000 = 1,500    `2,000 = 1,000
+
+=                            2                                     2                 2
+  Labour rates per hour
+                            `12,000 = ` 3                         `9,000 = ` 2     `15,000 = ` 3
+ii. Overhead per hour:       4,000                                 4,500            5,000
+   = Total Overheads
+                                    ` 3,750                              ` 3,000           ` 3,000
+       Total labour hour
+
+iii. Overhead for batch
+   (i) × (ii)
+
+                                                          2DS
+
+3. (a) Optimum production run size (Q) =
+
+                                                            C
+
+where,   No. of units to be produced within one year.
+D=       Set-up cost per production run
+S=       Carrying cost per unit per annum.
+C=
+
+=       2DS 2×24,000×`324                                       = 3,600 bearings.
+           =
+        C                                          0.10×12
+
+(b) Total Cost (of maintaining the inventories) when production run size (Q)
+       are 3,600 and 6,000 bearings respectively
+
+© The Institute of Chartered Accountants of India
+                     UNIT & BATCH COSTING                        a 8.25              a
+
+                                                                                        v
+
+Total cost = Total set-up cost + Total carrying cost.
+
+Total set up cost     When run size is 3,600                     When run size is 6,000
+                                bearings                                   bearings
+Total Carrying cost
+Total Cost            = 24,000 ×` 324 = `2,160                    = 24,000  ` 324= ` 1,296
+                         3,600                                       6,000
+
+                     Or,                                         1/2 × 6,000 × 0.10P × 12
+                                       No. of setups                                  = ` 3,600
+                                                                                         ` 4,896
+                                  = 6.67 (7 setups)
+                              = 7 x 324 = ` 2,268
+
+                        1/2×3,600 × 0.10P × 12
+                                            = ` 2,160
+
+                                   ` 4,320/ ` 4,428
+
+` 576/ ` 468 is the excess cost borne by the firm due to run size not
+being economic batch quantity.
+
+(c) Inventory holding cost at EBQ = 1/2 Q × C
+
+(when Q = 3,600 bearings)                             = 1/2 × 3,600 bearings × 0.10P × 12
+
+                                                      = ` 2,160
+
+4. (i) Total Cost of production                       = ` 2,120 + 60 + 20 = ` 2,200
+
+Calculation of Economic Batch Quantity (EBQ):
+
+       2×90,000×`1,500 27,00,00,000
+EBQ =                                              =             = 1,567 columns.
+       5%of `2,200                                    `110
+
+(ii) Calculation of Extra Cost due to processing of 18,000 columns in a batch
+
+                     When run size is 1,567                      When run size is
+                               columns                           18,000 columns
+
+Total set up cost                     No. of setups              =  90,000  × ` 1,500
+                     = 90,000/1567 = 57.43(58
+                                                                    18,000
+                                              setups)
+                               = 90,000 × ` 1,500                           = ` 7,500
+
+                                  1,567
+                                          = ` 87,000
+
+© The Institute of Chartered Accountants of India
+8.26 av              COST AND MANAGEMENT ACCOUNTING
+
+Total Carrying cost                                     ½ × 1,567 × ` 110 ½ × 18,000 × ` 110
+Total Cost
+                                                        = ` 86,185  = ` 9,90,000
+
+                                                        ` 1,73,185  ` 9,97,500
+
+Thus, extra cost = ` 9,97,500 ­ ` 1,73,185 = ` 8,24,315
+
+5. (i) Optimum batch size or Economic Batch Quantity (EBQ):
+
+EBQ  =  2DS =        2 48,000384
+                                        = 3919.18 or 3,920 units
+         C                                         2.4
+
+       Number of Optimum runs = 48,000 ÷ 3,920 = 12.245 or 13 run
+(ii) Interval between 2 runs (in days) = 365 days ÷ 13 = 28 days
+
+       Or 365÷12.24=29.82 days
+
+(iii) Statement showing Total Cost at Production Run size of 3,600 and 8,000
+       bearings
+
+A. Annual requirement                                    48,000     48,000
+B. Run Size                                                3,920      8,000
+C. No. of runs (A/B)                                                        6
+D. Set up cost per run                                   12.245       ` 384
+E. Total set up cost (CxD)                                 ` 384
+F. Average inventory (B/2)                                          ` 2,304
+G. Carrying cost per unit p.a.                          `. 4,702      4,000
+H. Total Carrying cost (FxG)                               1,960        2.40
+I. Total cost (E+H)                                         2.40      9,600
+                                                           4,704
+                                                           9,406    11,904
+
+       Extra cost incurred, if run size is of 8,000=`11,904-9,406= `. 2,498
+
+(iv) To save cost the company should run at optimum batch size ie 3,920
+       Units. It saves ` 2,498. Run size should match with the Economic
+       production run of bearing manufacture. When managers of a
+       manufacturing operation make decisions about the number of units to
+       produce for each production run, they must consider the costs related
+       to setting up the production process and the costs of holding inventory
+
+© The Institute of Chartered Accountants of India
+                             UNIT & BATCH COSTING                      a 8.27      a
+
+                                                                                          v
+
+Answers to the Case Scenarios
+
+1.
+
+    i.  (b) ii. (b) iii. (b) iv. (c) v. (d)
+
+    (i) (b) Working note 1: Maximum number of bottles that can be
+                   processed in a batch:
+
+                       5,000 ltrs
+                    Bottle volume
+
+                   Large                                Medium              Small
+
+        Qty (ltr)     Max                          Qty (ltr)   Max     Qty (ml)    Max
+                      bottles                                 bottles             bottles
+             3
+                        1,666                      1.5        3,333    600         8,333
+
+        *For simplicity of calculation small fractions has been ignored.
+
+    (ii) (b) Working note 2: Number of batches to be run:
+
+                                                   Large Medium Small              Total
+                                                                                    645
+        A Demand                                   3,00,000 7,50,000 20,00,000
+
+        B Bottles per batch 1,666                               3,333  8,333
+             (Refer WN-1)
+
+        C No. of batches [A÷B] 180                              225    240
+
+        *For simplicity of calculation small fractions has been ignored.
+
+    (iii) (b) Working note 3:
+
+        Quantity of Material-W and Material C required to meet demand:
+
+        Particulars            Large                    Medium         Small       Total
+                                3,00,000                   7,50,000    20,00,000
+        A Demand
+             (bottle)
+
+        B Qty          per                         3            1.5    0.6
+
+        bottle (Litre)
+
+        C Output (Litre)       9,00,000 11,25,000                      12,00,000 32,25,000
+             [A×B]
+
+        D Material-W                               14           14     14
+             per litre of
+             output (Litre)
+
+© The Institute of Chartered Accountants of India
+8.28 av             COST AND MANAGEMENT ACCOUNTING
+
+E Material-W        1,26,00,000 1,57,50,000                              1,68,00,000  4,51,50,000
+     required                                                                  25        80,625
+     (Litre) [C×D]
+                                                                            30,000
+F Material-C                                       25          25
+
+required per
+
+litre         of
+
+output (ml)
+
+G Material-C        22,500                                     28,125
+     required
+     (Litre)
+     [(C×F)÷1000]
+
+(iv) (c) Workings:
+
+4. No. of Man-shift required:
+
+A No. of batches                                       Large       Medium     Small   Total
+B Hours required per batch                              180           225      240     645
+                                                                        2
+     (Hours)                                              2                      2    1,290
+C Total hours required (Hours)                                                         162
+                                                        360            450    480     3,240
+     [A×B]
+D No. of shifts required [C÷8]                           45              57     60
+E Total manshift [D×20                                  900            1,140  1,200
+
+     workers]
+
+5. Power consumption in Kwh
+
+For processing                                         Large   Medium         Small      Total
+A No. of batches
+B Hours required per                                    180       225          240        645
+                                                        1.75      1.75         1.75      1.75
+     batch (Hours)                                      315     393.75         420     1,128.75
+C Total hours required                                   90        90           90         90
+                                                       28,350  35,437.5       37,800  1,01,587.5
+     (Hours) [A×B]
+D Power consumption per
+
+     hour
+E Power consumption in
+
+     Kwh [C×D]
+
+© The Institute of Chartered Accountants of India
+                       UNIT & BATCH COSTING                             a 8.29        a
+
+                                                                                             v
+
+  F Per batch consumption 157.5                             157.5       157.5         157.5
+        (Kwh) [E÷A]
+                                                            0.25        0.25    0.25
+  For set-up                                                56.25        60    161.25
+  G Hours required per 0.25                                              18
+                                                              18        1,080     18
+        batch (Hours)                                      1,012.5       4.5   2,902.5
+  H Total hours required 45
+                                                             4.5                 4.5
+        (Hours) [A×G]
+  I Power consumption per 18
+
+        hour [20%×90]
+  J Power consumption in 810
+
+        Kwh [H×I]
+  K Per batch consumption 4.5
+
+        (Kwh) [J÷A]
+
+Calculation of Profit/ loss per batch:
+
+Particulars            Large                       Medium      Small           Total
+
+A Demand (bottle) 3,00,000                         7,50,000    20,00,000       30,50,000
+
+B Price per bottle     150                         90               50
+
+(`)
+
+C Sales value (`) 4,50,00,000 6,75,00,000 10,00,00,000 21,25,00,000
+      [A×B]
+
+Direct Material
+cost:
+
+E Material-W (`)       63,00,000                   78,75,000   84,00,000       2,25,75,000
+      [Qty in WN-3 ×
+      `0.50]
+
+F Material-C (`) 2,25,00,000 2,81,25,000                       3,00,00,000     8,06,25,000
+      [Qty in WN-3 ×
+      `1,000]
+
+G [E+F]                2,88,00,000 3,60,00,000 3,84,00,000 10,32,00,000
+
+H Direct Wages (`)     7,92,000                    10,03,200   10,56,000       28,51,200
+      [Man-shift in
+      WN-4 × × `880]
+
+I Packing cost (`)     9,00,000                    22,50,000   60,00,000       91,50,000
+      [A×`3]
+
+Power cost (`)
+
+J For processing       1,98,450                    2,48,062.5  2,64,600        7,11,112.5
+      (`) [WN-5 × `7]
+
+© The Institute of Chartered Accountants of India
+8.30 av                 COST AND MANAGEMENT ACCOUNTING
+
+K For set-up time       5,670                      7,087.5          7,560           20,317.5
+      (`) [WN-5 × `7]                                             2,72,160         7,31,430
+                                                                 72,00,000      1,93,50,000
+L [J+K]                 2,04,120 2,55,150
+                                                                5,29,28,160  13,52,82,630
+M Other variable        54,00,000                  67,50,000
+      cost (`) [No. of                                          4,70,71,840   7,72,17,370
+      batch in WN-2 ×
+      `30,000]                                                                  4,90,00,000
+                                                                              2,82,17,370
+N Total Variable 3,60,96,120 4,62,58,350
+      cost per batch
+
+[G+H+I+L+M]
+
+O Profit/ loss          89,03,880                  2,12,41,650
+      before fixed
+      cost [C-N]
+
+P Fixed Cost
+
+Q Total Profit [O-
+      P]
+
+(v) (d) Computation of Economic Batch Quantity (EBQ):
+
+         EBQ = 2 D  S
+                       C
+
+         D = Annual Demand for the Product = Refer A below
+         S = Set-up cost per batch = Refer D below
+         C = Carrying cost per unit per annum =Refer E below
+
+Particulars                                        Large Medium              Small
+                                                                             20,00,000
+A Annual Demand (bottle)                           3,00,000 7,50,000
+                                                                                31.50
+Set-up Cost:
+                                                                               30,000
+B Power cost for set-up time (`)                   31.50        31.50        30,031.50
+     [Consumption per batch in WN-
+     5 × `7]                                                                     1.00
+                                                                              3,46,592
+C Other variable cost (`)                          30,000 30,000
+
+D Total Set-up cost [B+C]                          30,031.50 30,031.50
+
+E Holding cost:                                    1.00         1.00
+
+F EBQ (Bottle)                                     1,34,234 2,12,243
+
+© The Institute of Chartered Accountants of India
+

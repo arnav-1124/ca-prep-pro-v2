@@ -1,0 +1,2661 @@
+CHAPTER  4
+
+COST OF CAPITAL
+
+                                    LEARNING OUTCOMES
+
+After studying this chapter, you would be able to -
+ Discuss the need and sources of finance of a business entity.
+ Discuss the meaning of cost of capital for raising fund from
+
+      different sources of finance.
+ Measure cost of individual components of capital.
+ Calculate weighted cost of capital and marginal cost of
+
+      capital.
+
+CHAPTER OVERVIEW
+
+                                                   Cost of
+                                                   Capital
+
+Cost of    Cost of                                          Cost of   Cost of
+ Debt    Preference                                         Equity   Retained
+                                                                     Earning
+            Share
+
+         Combination of Cost and Weight of
+                 each sources of Capital
+
+         Weighted Average Cost of
+                Capital (WACC)
+
+© The Institute of Chartered Accountants of India
+4.2  FINANCIAL MANAGEMENT
+
+     1. INTRODUCTION
+
+We know that the basic task of a finance manager is procurement of funds and its
+effective utilization in business. Whereas objective of financial management is
+maximization of wealth of shareholders. Here wealth or value is equal to
+performance divided by expectations.
+
+Therefore, the finance manager is required to select such a capital structure in
+which expectation of investors is minimum hence shareholders' wealth is
+maximum. For that purpose, first he needs to calculate the cost of various sources
+of finance. In this chapter, we will learn to calculate cost of debt, cost of
+preference shares, cost of equity shares, cost of retained earnings and also the
+overall cost of capital.
+
+     2. MEANING OF COST OF CAPITAL
+
+Cost of capital is the return expected by the providers of capital (i.e.
+shareholders, lenders and the debt-holders) to the business as a compensation
+for their contribution to the total capital. When an entity (corporate or others)
+procures finances from either source as listed above, it has to pay some
+additional amount of money besides the principal amount. The additional money
+paid to these financiers may be either one off payment or regular payment at
+specified intervals. This additional money paid is said to be the cost of using the
+capital and it is called the cost of capital. This cost of capital expressed in rate is
+used to discount/ compound the cash flow or stream of cash flows. Cost of capital
+is also known as `cut-off' rate, `hurdle rate', `minimum rate of return', etc. It is
+used as a benchmark for:
+
+ Framing debt policies of an entity
+
+ Taking Capital budgeting decisions.
+
+     3. SIGNIFICANCE OF COST OF CAPITAL
+
+It is important to determine the correct amount of cost of capital as it helps
+management and investors to take an appropriate decision.
+The correct cost of capital helps in the following decision making:
+
+© The Institute of Chartered Accountants of India
+COST OF CAPITAL                                    4.3
+
+(i) Evaluation of investment options: The estimated benefits (future cash
+       flows) from available investment opportunities (business or project) are
+       converted into the present value of benefits by discounting them with the
+       relevant cost of capital. Here it is pertinent to mention that every
+       investment option may have different cost of capital hence it is very
+       important to use the cost of capital which is relevant to the options
+       available.
+
+(ii) Financing Decision: When a finance manager has to choose between one
+       of the two sources of finance, he can simply compare their cost and choose
+       the source which has lower cost. Besides cost, he may also consider financial
+       risk and control.
+
+(iii) Designing of optimum credit policy: While appraising the credit period to
+       be allowed to the customers, the cost of allowing credit period is compared
+       against the benefit/ profit earned by providing credit to customers or
+       segments of customers. Here cost of capital is used to arrive at the present
+       value of costs and benefits received.
+
+     4. DETERMINATION OF COST OF CAPITAL
+
+Cost is not the amount which the company plans to pay or actually pays,
+rather it is the expectations of stakeholders. Here, stakeholders includes
+providers of capital (shareholders, debenture holder, money lenders etc.),
+intermediaries (brokers, underwriters, merchant bankers etc.), and Government
+(for taxes).
+
+For example, if the company issues 9% coupon debentures but expectation of
+investors is 10% then investors will subscribe it at discount and not at par. Hence
+cost to the company will not be 9%, rather than it will be 10%. Besides giving
+return to investors, company will also have to give commission, brokerage, fees
+etc. to intermediaries for issue of debentures. It will increase cost of capital above
+10%. On the other hand, payment of interest is a deductible expense under the
+Income Tax Act hence, it will reduce cost of capital to the company. Cost of any
+sources of finance is expressed in terms of percentage per annum. To calculate
+cost first of all we should identify various cash flows like:
+
+1. Inflow of amount received at the beginning.
+
+© The Institute of Chartered Accountants of India
+4.4               FINANCIAL MANAGEMENT
+
+2. Outflows of payment of interest, dividend, redemption amount etc.
+
+3. Inflow of tax benefit on interest or Outflow of payment of dividend tax.
+
+Thereafter we can use trial & error method to arrive at a rate where present value
+of outflows is equal to present value of inflows. That rate is basically IRR. In
+investment decisions, IRR indicates income because there we have initial outflow
+followed by series of inflows. In cost of capital chapter, this IRR represents cost,
+because here we have initial inflow followed by series of net outflows.
+
+Alternatively, we can use shortcut formulas. Though these shortcut formulas are
+easy to use but they give approximate answer and not the exact answer. We will
+discuss the cost of capital of each source of finance separately.
+
+                  Cost of Equity
+
+Cost of Retained  Weighted Average   Cost of Preference
+     Earnings       Cost of Capital     Share Capital
+                         (WACC)
+
+                                                        Cost of Long
+                                                          Term Debt
+
+Factors of Cost of Capital:
+In General, some of the factors may affect the Cost of Capital:
+ Supply and Demand: Just like any good, the cost of capital is influenced by
+
+       supply and demand. When there are lots of exciting business opportunities,
+       there's more competition for funding, driving the cost of capital up. On the
+       other hand, when opportunities are scarce, investors are more willing to
+       lend at lower rates.
+ Investor Preferences: Cultural factors and personal savings habits play a
+       role. Some societies save more than others, affecting the overall pool of
+       available capital. Additionally, the potential returns offered by investments
+
+© The Institute of Chartered Accountants of India
+COST OF CAPITAL                                    4.5
+
+       influence how much people save and invest. Higher returns generally lead
+       to more savings.
+
+ Risk and Return: There's always a trade-off between risk and reward.
+       Businesses with high-risk ventures need to offer investors a higher potential
+       return to compensate for the risk they're taking. However, if the cost of
+       capital becomes too high, it can make the project unprofitable.
+
+ Inflation: Investors want their money to grow, not shrink. To keep pace with
+       inflation, they look for investments that offer returns that outpace inflation,
+       so their money retains its buying power.
+
+ Exchange Rates: For multinational companies, fluctuations in exchange
+       rates can add an extra layer of risk and affect the overall cost of capital.
+
+     5. COST OF LONG-TERM DEBT (KD)
+
+External borrowings or debt instruments do no confers ownership to the
+providers of finance. The providers of the debt fund do not participate in the
+affairs of the company but enjoys the charge on the profit before taxes. Long
+term debt includes long term loans from the financial institutions, capital from
+issuing debentures or bonds etc. (In Chapter-2, we had already discussed in detail
+about the sources of long-term debt.)
+
+The calculation of cost of loan from a financial institution is similar to that of
+redeemable debentures. Here, we will confine our discussion of cost of debt to
+debentures or bonds only.
+
+5.1 Features of Debentures or Bonds
+
+(i) Face Value: Debentures or bonds are denominated with some value, this
+       denominated value is called face value of the debenture. Interest is
+       calculated on the face value of the debenture. E.g. if a company issue 9%
+       non- convertible debentures of `100 each, this means the face value is
+       ` 100 and the interest @ 9% will be calculated on this face value.
+
+(ii) Interest (Coupon) Rate: Each debenture bears a fixed interest (coupon)
+       rate (except Zero coupon bond and Deep discount bond). Interest (coupon)
+       rate is applied to face value of debenture to calculate interest, which is
+
+© The Institute of Chartered Accountants of India
+4.6  FINANCIAL MANAGEMENT
+
+       payable to the holders of debentures periodically (annually, semi-annually,
+       etc.).
+
+(iii) Maturity period: Debentures or Bonds has a fixed maturity period for
+       redemption. However, in case of irredeemable debentures maturity period is
+       not defined and it is taken as infinite.
+
+(iv) Redemption Value: Redeemable debentures or bonds are redeemed on its
+       specified maturity date. Based on the debt covenants, the redemption value
+       is determined. Redemption value may vary from the face value of the
+       debenture.
+
+(v) Benefit of tax shield: The payment of interest to the debenture holders are
+       allowed as expenses for the purpose of corporate tax determination. Hence,
+       interest paid to the debenture holders save the tax liability of the company.
+       Saving in the tax liability is also known as tax shield. The example given
+       below will show you how interest paid by a company reduces the tax
+       liability:
+
+Example - 1: There are two companies namely X Ltd. and Y Ltd. The capital of the
+X Ltd. is fully financed by the equity shareholders whereas Y Ltd. uses debt fund
+as well. Given below is the profitability statement of both the companies:
+
+Earnings before interest and taxes (EBIT)             X Ltd.       Y Ltd.
+Interest paid to debenture holders                 (` in lakh)  (` in lakh)
+Profit before tax (PBT)
+Tax @ 35%                                              100          100
+Profit after tax (PAT)                                   -          (40)
+                                                                     60
+                                                       100          (21)
+                                                       (35)          39
+                                                        65
+
+A comparison of the two companies shows that an interest payment of ` 40 by
+the Y Ltd. results in a tax shield (tax saving) of `14 lakh (` 40 lakh paid as interest
+× 35% tax rate). Therefore, the effective interest is ` 26 lakh only.
+
+Based on redemption (repayment of principal) on maturity the debts can be
+categorised into two types (i) Irredeemable debts and (ii) Redeemable debts.
+
+© The Institute of Chartered Accountants of India
+                                COST OF CAPITAL                       4.7
+
+        Cost of long term Debt                                    Cost of Irredeemable Debt
+                                                                  Cost of Redeemable Debt
+
+5.2 Cost of Irredeemable Debentures
+
+The debentures which are not redeemed by the issuer of the debentures is known
+as irredeemable debentures. Cost of debentures not redeemable during the life
+time of the company is calculated as below:
+
+                                                   Kd =   I  (1-  t)
+                                                         NP
+
+Where,
+
+        Kd =  Cost of debt after tax
+        I=    Annual interest payment
+
+        NP = Net proceeds of debentures or Current market price
+
+        t = Tax rate
+
+Net proceeds means issue price less issue expenses or floatation cost (defined
+below). If issue price is not given, then students can assume it to be equal to
+current market price. If issue expenses are not given, then simply assume it to be
+equal to zero.
+
+Floatation Cost: The new issue of a security (debt or equity) involves some
+expenditure in the form of underwriting or brokerage fees, legal and
+administrative charges, registration fees, printing expenses etc. The sum of all
+these costs is known as floatation cost. This expenditure is incurred to make the
+securities available to the investors. Floatation cost is adjusted to arrive at net
+proceeds for the calculation of cost of capital.
+
+Suppose a company issues 1,000, 15% debentures of the face value of `100 each
+at a discount of `5. Further suppose that the under-writing and other costs are
+` 5,000 for the total issue. Thus ` 90,000 is actually realised, i.e., ` 1,00,000 minus
+` 5,000 as discount and ` 5,000 as under-writing expenses. The interest amount
+payable per annum of `15,000 is therefore the cost of obtaining ` 90,000 actually
+received by the company. This is because interest is charged on profit and every
+
+© The Institute of Chartered Accountants of India
+                  4.8            FINANCIAL MANAGEMENT
+
+year the company will save ` 7,500 as tax, assuming that the income tax rate is
+50%. Hence the after-tax cost of ` 90,000 is ` 7,500 which comes to 8.33%.
+
+ILLUSTRATION 1
+
+Five years ago, Sona Limited issued 12 per cent irredeemable debentures at ` 103,
+at ` 3 premium to their par value of ` 100. The current market price of these
+debentures is ` 94. If the company pays corporate tax at a rate of 35 per cent
+CALCULATE its current cost of debenture capital?
+
+SOLUTION
+
+Cost of irredeemable debenture:
+
+Kd      =   I (1- t)
+
+           NP
+
+Kd =       `  12  (1-  0.35)  =  0.08297  or       8.30%
+           `  94
+
+5.3 Cost of Redeemable Debentures (using approximation
+      method)
+
+The cost of redeemable debentures will be calculated as below:
+
+                                                   I(1- t)+ (RV-NP)
+                                                            n
+Cost of Redeemable Debenture (Kd) =
+                                                   (RV+NP)
+
+                                                          2
+
+Where,
+
+I = Interest payment
+
+NP = Net proceeds or Current market price
+
+RV = Redemption value of debentures
+
+t = Tax rate applicable to the company
+
+n = Remaining life of debentures
+
+The above formula to calculate cost of debt is used where only interest on debt is
+tax deductible. Sometime, debts are issued at discount and/ or redeemed at a
+
+© The Institute of Chartered Accountants of India
+                                         COST OF CAPITAL           4.9
+
+premium. If discount on issue and/ or premium on redemption are tax deductible,
+the following formula can be used to calculate the cost of debt:
+
+                                                            I+  (RV -NP )  (1-     )
+
+          Cost of Redeemable Debenture ( Kd ) =                     n           t
+                                                               (RV+NP)
+
+                                                                2
+
+In absence of any specific information, students may use any of the above
+formulae to calculate the Cost of Debt (Kd) with logical assumption.
+
+Above formulas give approximate value of cost of debt. In these formulas, higher
+the difference between RV and NP, lower the accuracy of answer. Therefore, one
+should not use these formulas if difference between RV and NP is very high. Also,
+these formulas are not suitable in case of gradual redemption of debentures/
+bonds.
+
+ILLUSTRATION 2
+
+A company issued 10,000, 10% debentures of ` 100 each at a premium of 10% on
+1.4.2023 to be matured on 1.4.2028. The debentures will be redeemed at par on
+maturity. COMPUTE the cost of debentures assuming 35% as tax rate.
+
+SOLUTION
+
+The cost of debenture (Kd) will be calculated as below:
+
+                              I(1-  t)+  (RV -NP )
+
+Cost  of  debenture  (Kd)  =                 n
+                                    (RV+NP)
+
+                                         2
+
+I = Interest on debenture = 10% of `100 = `10
+
+NP = Net Proceeds = 110% of `100                    = `110
+
+RV = Redemption value                               = `100
+
+n = Period of debenture                             = 5 years
+
+t = Tax rate                                        = 35% or 0.35
+
+© The Institute of Chartered Accountants of India
+                     4.10                FINANCIAL MANAGEMENT
+
+          `   10(1-  0.35)+  (`  100- `110)
+
+Kd  =                             5 years
+
+              ( `100+ `110)
+
+                           2
+
+Or, Kd =  (` 10 × 0.65)-      `2   =  `  4.5       =  0.0428 or 4.28%
+                 ` 105                `  105
+
+ILLUSTRATION 3
+
+A company issued 10,000, 10% debentures of ` 100 each at par on 1.4.2018 to be
+matured on 1.4.2028 at par. The company wants to know the cost of its existing
+debt on 1.4.2023 when the market price of the debentures is ` 80. COMPUTE the
+cost of existing debentures assuming 35% tax rate.
+
+SOLUTION
+
+                                 I(1- t)+ (RV-NP)
+                                               n
+Cost of debenture (Kd) =
+                                      (RV+NP)
+
+                                           2
+
+I = Interest on debenture = 10% of `100 = `10
+
+NP = Current market price                             = `80
+
+RV = Redemption value                                 = `100
+
+n = Period of debenture                               = 5 years
+
+t = Tax rate                                          = 35% or 0.35
+
+         ` 10(1- 0.35)+ (` 100-` 80)
+                          5 years
+Kd =
+              (` 100+` 80)
+
+                     2
+
+Or, Kd=   (`  10×0.65)+ `    4  =  ` 10.5  = 0.1166 or 11.67%
+                  ` 90              ` 90
+
+© The Institute of Chartered Accountants of India
+                         COST OF CAPITAL                       4.11
+
+5.3.1 Cost of Debt using Present value method [Yield to maturity
+         (YTM) approach]
+
+The cost of redeemable debt (Kd) is also calculated by discounting the relevant cash
+flows using Internal rate of return (IRR). (The concept of IRR is discussed in the
+Chapter 7 - Investment Decisions). Here, YTM is the annual return of an investment
+from the current date till maturity date. So, YTM is the internal rate of return at
+which current price of a debt equals to the present value of all cash-flows.
+
+The relevant cash flows are as follows:
+
+Year                                               Cash flows
+
+0 Net proceeds in case of new issue/ Current market price in case of
+        existing debt (NP or P0)
+
+1 to n Interest net of tax[I(1-t)]
+
+n Redemption value (RV)
+
+Steps to calculate relevant cash flows:
+
+Step-1: Identify the cash flows.
+
+Step-2: Calculate NPVs of cash flows as identified above using two discount rates
+(guessing).
+
+Step-3: Calculate IRR.
+
+Example-2: A company issued 10,000, 10% debentures of ` 100 each on
+1.4.2023 to be matured on 1.4.2028. The company wants to know the current
+cost of its existing debt if the market price of the debentures is ` 80, assuming
+35% tax rate.
+
+Step-1: Identification of relevant cash flows
+
+Year                                            Cash flows
+   0    Current market price (P0) = `80
+        Interest net of tax [I(1-t)] = 10% of `100 (1-0.35) = `6.5
+1 to 5  Redemption value (RV) = Face value i.e. `100
+   5
+
+© The Institute of Chartered Accountants of India
+          4.12               FINANCIAL MANAGEMENT
+
+Step- 2: Calculation of NPVs at two discount rates
+
+Year Cash flows     Discount                       Present         Discount  Present
+                    factor @                        Value          factor @   Value
+          (`)       10% (L)                                        15% (H)
+                                                      (`)                       (`)
+0         80          1.000                                          1.000
+                      3.791                        (80.00)           3.352   (80.00)
+1 to 5    6.5         0.621                         24.64            0.497    21.79
+                                                    62.10                     49.70
+5         100                                       +6.74                      -8.51
+
+NPV
+
+Step- 3: Calculation of IRR
+
+IRR = L+ NPVL (H-L) = 10%+ `6.74 (15%-10%) = 12.21%
+        NPVL -NPVH                                 `6.74-(`-8.51)
+
+YTM or present value method is a superior method of determining cost of debt of
+company to approximation method and it is also preferred in the field of finance.
+We may keep in mind that in the above formula, higher the difference between
+H and L, lower the accuracy of answer.
+
+ILLUSTRATION 4
+
+Institutional Development Bank (IDB) issued Zero interest deep discount bonds of
+face value of `1,00,000 each issued at `2,500 & repayable after 25 years. COMPUTE
+the cost of debt if there is no corporate tax.
+
+SOLUTION
+
+Here,
+Redemption Value (RV)= `1,00,000
+Net Proceeds (NP) = ` 2,500
+Interest = 0
+Life of bond = 25 years
+There is huge difference between RV and NP, therefore, in place of approximation
+method, we should use trial & error method.
+FV = PV x (1+r)n
+
+© The Institute of Chartered Accountants of India
+                                     COST OF CAPITAL                                 4.13
+
+` 1,00,000 = ` 2,500 x (1+r)25
+` 40 = (1+r)25
+Trial 1: r = 15%, (1.15)25 = 32.919
+Trial 2: r = 16%, (1.16)25 = 40.874
+
+Here:
+
+L = 15%, H = 16%
+
+NPVL = ` 32.919- ` 40 = ` -7.081
+
+NPVH = ` 40.874-40 = + ` 0.874
+
+                        IRR     =L+                    NPVL        (H-L)
+                                                   NPVL- NPVH
+
+                                = 15% +                           ` ­ 7.081          × (16% ­ 15%)
+                                                           ` ­ 7.081­ (` 0.874)
+
+                                     = 15.89%
+
+5.3.2 Amortisation of Bond
+
+A bond may be amortised every year i.e., principal is repaid every year rather than
+at maturity. In such a situation, the principal will go down with annual payments
+and interest will be computed on the outstanding amount. The cash flows of the
+bonds will be uneven.
+
+The formula for determining the value of a bond or debenture that is amortised
+every year is as follows:
+
+                  VB =     C1                      +     C2    +.......  +     Cn
+
+                        (1+Kd)1                       (1+Kd)2               (1+Kd)n
+
+                                                      n      Ct
+                                                      t=1  1+Kd t
+                                      ( ) VB =
+
+ILLUSTRATION 5
+
+RBML is proposing to sell a 5-year bond of ` 5,000 at 8 per cent rate of interest per
+annum. The bond amount will be amortised equally over its life. CALCULATE the bond's
+present value for an investor if he expects a minimum rate of return of 6 per cent?
+
+© The Institute of Chartered Accountants of India
+                 4.14             FINANCIAL MANAGEMENT
+
+SOLUTION
+
+The amount of interest will go on declining as the outstanding amount of bond
+will be reducing due to amortisation. The amount of interest for five years will be:
+
+First year:                     `5,000 × 0.08 = ` 400;
+
+Second year:        (`5,000 ­ `1,000) × 0.08 = ` 320;
+
+Third year:         (`4,000 ­ `1,000) × 0.08 = ` 240;
+
+Fourth year:        (`3,000 ­ `1,000) × 0.08 = ` 160; and
+
+Fifth year:         (`2,000 ­ `1,000) × 0.08 = ` 80
+
+The outstanding amount of bond will be zero at the end of fifth year.
+
+Since RBML will have to return `1,000 every year, the outflows every year will
+consist of interest payment and repayment of principal as follows:
+
+First year:         `1,000 + ` 400                 = `1,400;
+Second year:        `1,000 + ` 320                 = `1,320;
+Third year:         `1,000 + ` 240                 = `1,240;
+Fourth year:        `1,000 + ` 160                 = `1,160; and
+
+Fifth year:         `1,000 + `80                   = ` 1,080
+
+The above cash flows of all five years will be discounted with the cost of capital.
+Here, cost of capital will be the minimum expected rate of return of investor i.e.
+6%.
+
+Value of the bond is calculated as follows:
+
+VB  =  ` 1, 400  +  ` 1,320  +  ` 1,240  +         ` 1,160  +  ` 1,080
+
+       (1.06)1      (1.06)2     (1.06)3            (1.06)4     (1.06)5
+
+    =  `1, 400  +  ` 1,320  +  ` 1,240  +          ` 1,160  +  ` 1,080
+        1.06       1.1236      1.1910              1.2624      1.3382
+
+    = `1,320.75 + `1,174.80 + `1,041.14 + `918.88 + `807.05 = ` 5,262.62
+
+5.4 Cost of Convertible Debentures
+
+The holders of the convertible debentures has the option to either get the
+debentures redeemed into the cash or get specified numbers of company's shares
+
+© The Institute of Chartered Accountants of India
+                                   COST OF CAPITAL                  4.15
+
+in lieu of cash. The calculation of cost of convertible debentures are very much
+similar to that of redeemable debentures. While determining the redemption
+value of the debentures, it is assumed that all the debenture holders will choose
+the option which has the higher value and accordingly, it will be considered to
+calculate the cost of debentures.
+
+Example ­ 3 : A company issued 10,000, 15% Convertible debentures of `100
+each with a maturity period of 5 years. At maturity, the debenture holders will
+have an option to convert the debentures into equity shares of the company in
+the ratio of 1:10 (10 shares for each debenture). The current market price of the
+equity shares is `12 each and historically the growth rate of the shares is 5% per
+annum. Compute the cost of debentures assuming 35% corporate tax rate.
+
+Determination of Redemption value:
+
+Higher of
+
+(i) The cash value of debentures = `100
+
+(ii) Value of equity shares                           = 10 shares × `12 (1+0.05)5
+
+                                                      = 10 shares × 15.312 = `153.12
+
+`153.12 will be taken as redemption value as it is higher than the cash option
+and is more attractive to the investors.
+
+Calculation of Cost of Convertible debenture (using approximation
+method):
+
+       I(1-  t  )+  (RV -NP  )     15(1- 0.35)+    (153.12-100)
+
+Kd  =                   n       =                         5      =  9.75+10.62  =  16.09%
+             (RV+NP)               (153.12+100)                       126.53
+
+                    2                              2
+
+Alternatively:
+
+Calculation of Cost of Convertible debenture (using present value method):
+
+*Post Tax Interest per annum = (100 x 15%) X 0.65 = 9.75
+
+© The Institute of Chartered Accountants of India
+        4.16         FINANCIAL MANAGEMENT
+
+Year Cash flows      Discount                      Present         Discount  Present
+                (`)  factor @                       Value          factor @   Value
+                     15% (L)                                       20% (H)
+                                                      (`)                       (`)
+
+0       100          1.000                         (100.00)        1.000     (100.00)
+
+1 to 5  9.75*        3.352                         32.68           2.991     29.16
+
+5       153.12       0.497                         76.10           0.402     61.55
+
+NPV                                                +8.78                     -9.29
+
+IRR = L+ NPVL (H-L) = 15%+ `8.78 (20%-15%) = 0.17429 or 17.43%
+        NPVL -NPVH                                 `8.78-(`-9.29)
+
+   6. COST OF PREFERENCE SHARE CAPITAL (KP)
+
+The preference shareholders are paid dividend at a specified rate on face value of
+preference shares. Payment of dividend to the preference shareholders are not
+mandatory but are given priority over the equity shareholder. The payment of
+dividend to the preference shareholders are not charged as expenses but treated
+as an appropriation of after-tax profit. Hence, dividend paid to preference
+shareholders does not reduce the tax liability of the company. Like the
+debentures, preference share capital can also be categorised as redeemable and
+irredeemable.
+
+        Cost of Preference Share                                     Cost of Irredeemable
+                    Capital                                        Preference Share Capital
+
+                                                                     Cost of Redeemable
+                                                                   Preference Share Capital
+
+6.1 Cost of Irredeemable Preference Shares
+
+The cost of irredeemable preference shares is similar to the calculation of
+perpetuity. The cost of irredeemable preference share is calculated by dividing
+the preference dividend with the current market price or net proceeds from the
+issue. The cost of irredeemable preference share calculation is as below:
+
+© The Institute of Chartered Accountants of India
+                                         COST OF CAPITAL           4.17
+
+                 Cost of Irredeemable Preference Shares (KP) =     PD
+                                                                   P0
+
+Where,
+
+       PD = Annual preference dividend
+
+       P0= Net proceeds from issue of preference shares
+
+Net proceeds means issue price less issue expenses or floatation cost. If issue
+price is not given, then students can assume it to be equal to current market
+price. If issue expenses are not given, then simply assume it to be equal to zero.
+
+ILLUSTRATION 6
+
+XYZ Ltd. issues 2,000 10% preference shares of ` 100 each at ` 95 each.
+CALCULATE the cost of preference shares.
+
+SOLUTION
+
+KP  =  PD
+       P0
+
+KP =   (10  ×  2,000)  =  10  =  0.1053  or        10.53%
+       (95  ×  2,000)     95
+
+ILLUSTRATION 7
+
+If R Energy Ltd. is issuing preferred stock at `100 per share, with a stated dividend
+of `12, and a floatation cost of 3% then, CALCULATE the cost of preference share?
+
+SOLUTION
+
+Here, Net Proceeds (Po) will be issue price less floatation cost.
+
+Po = ` 100 - 3% of ` 100 = `97
+
+Kp     = PD
+           Po
+
+       =  `  12  =  0.1237 or    12.37%
+          `  97
+
+© The Institute of Chartered Accountants of India
+               4.18    FINANCIAL MANAGEMENT
+
+6.2 Cost of Redeemable Preference Shares
+
+Preference shares issued by a company which are redeemed on its maturity is
+called as redeemable preference shares. Cost of redeemable preference share is
+similar to the cost of redeemable debentures with the exception that the
+dividends paid to the preference shareholders are not tax deductible. Cost of
+preference capital is calculated as follows:
+
+                                                         PD+ (RV -NP)
+                                                                n
+            Cost of Redeemable Preference Shares (Kp) =
+                                                         (RV +NP)
+
+                                                         2
+
+Where,
+
+            PD = Annual preference dividend
+
+            RV = Redemption value of preference shares
+
+            NP = Net proceeds from issue of preference shares
+
+            n = Remaining life of preference shares
+
+Net proceeds mean issue price less issue expenses or floatation cost. If issue price
+is not given, then students can assume it to be equal to current market price. If
+issue expenses are not given, then simply assume it to be equal to zero.
+
+The cost of redeemable preference share may also be calculated as the
+discount rate that equates the net proceeds of the sale of preference shares
+with the present value of the future dividends and principal payments.
+
+ILLUSTRATION 8
+
+XYZ Ltd. issues 2,000 10% preference shares of ` 100 each at ` 95 each. The
+company proposes to redeem the preference shares at the end of 10th year from the
+date of issue. CALCULATE the cost of preference share?
+
+SOLUTION
+
+       PD+  (RV -NP )
+
+Kp  =           n
+        (RV+NP)
+
+            2
+
+© The Institute of Chartered Accountants of India
+                             COST OF CAPITAL              4.19
+
+       10  +    100 -  95  
+                   10      
+Kp  =                        = 0.1077 or10.77% (approx.)
+        100 + 95 
+        2 
+
+     7. COST OF EQUITY SHARE CAPITAL (KE)
+
+Just like any other source of finance, cost of equity is expectation of equity
+shareholders. We know that the value is performance divided by expectations. If
+we know the value and performance, then we can calculate expectation as a
+balancing figure.
+
+Here, performance means the amount paid by the company to investors, like
+interest, dividend, redemption price etc. In case of debentures and preference
+shares, amount of interest or dividend is fixed but in case of equity shares it is
+uncertain.
+
+Therefore, there is not a single method to calculate cost of equity but different
+methods which depends on various factors like:
+
+(1) If dividend is expected to be constant, then dividend price approach
+       should be used.
+
+(2) If earning per share is expected to be constant, then earning price
+       approach should be used.
+
+(3) If dividend and earning are expected to grow at a constant rate, then
+       growth approach (Gordon's model) should be used.
+
+(4) If it is difficult to forecast future dividend or EPS, then realised yield
+       approach should be used, which looks into past.
+
+(5) All the above methods calculate the cost of equity as a balancing figure.
+       When the cost of equity or expectation of investors is dependent on risk
+       i.e., Higher the risk, higher the expectations and vice versa, then Capital
+       asset pricing model (CAPM)should be used, which is based on risk.
+
+© The Institute of Chartered Accountants of India
+        4.20                  FINANCIAL MANAGEMENT
+
+Different methods employed to compute the cost of equity share capital are:
+                                                                  Dividend Price Approach
+
+        Cost of Equity Share                                   Earning Price Approach
+                 Capital                                          Growth Approach
+
+                                                              Realized Yield Approach
+                                                       Capital Asset Pricing Model (CAPM)
+
+7.1 Dividend Price Approach
+
+This is also known as Dividend Valuation Model. This model makes an
+assumption that the dividend per share is expected to remain constant forever.
+Here, cost of equity capital is computed by dividing the expected dividend by
+market price per share as follows:
+
+                              Cost                 of  Equity  (Ke)=  D
+                                                                      P0
+
+Where,
+
+        Ke= Cost of equity
+        D = Expected dividend (also written as D1)
+        P0 = Market price of equity (ex- dividend)
+
+7.2 Earnings Price Approach
+
+The advocates of this approach co-relate the earnings of the company with the
+market price of its share. Accordingly, the cost of equity share capital would be
+based upon the expected rate of earnings of a company. The argument is that
+each investor expects a certain amount of earnings, whether distributed or not
+from the company in whose shares he invests. Thus, if an investor expects that the
+company in which he is going to subscribe for shares should have at least a 20%
+rate of earning, the cost of equity share capital can be construed on this basis.
+
+© The Institute of Chartered Accountants of India
+                                      COST OF CAPITAL                       4.21
+
+Suppose the company is expected to earn 30% the investor will be prepared to
+
+pay  `  150    30  ×100    for  each  share        of  `   100.
+               20        
+
+Earnings Price Approach:
+
+                                Cost      of       Equity  (Ke    )  =  E
+                                                                        P
+
+Where,
+
+               E = Current earnings per share
+
+               P = Market price per share
+
+This approach assumes that the earnings per share will remain constant forever.
+The Earning Price Approach is similar to the dividend price approach; only it seeks
+to nullify the effect of changes in the dividend policy.
+
+7.3 Growth Approach or Gordon's Model
+
+As per this approach, the rate of dividend growth remains constant. Where,
+earnings, dividends and equity share price all grow at the same rate, the cost of
+equity capital may be computed as follows:
+
+                                Cost  of           Equity  (Ke)=     D1 +g
+                                                                     P0
+
+Where,
+
+               D1 = [D0 (1+ g)] i.e. next expected dividend
+
+               P0 = Current Market price per share
+
+               g = Constant Growth Rate of Dividend
+
+In case of newly issued equity shares where floatation cost is incurred, the cost of
+equity share with an estimation of constant dividend growth is calculated as
+below:
+
+                                Cost  of           Equity  (Ke)=   D1 +g
+                                                                  P0 -F
+
+Where, F = Flotation cost per share
+
+© The Institute of Chartered Accountants of India
+               4.22              FINANCIAL MANAGEMENT
+
+Dividend Discount Model with variable growth rate is explained in chapter 8 -
+Dividend Decisions.
+
+ILLUSTRATION 9
+
+A company has paid dividend of ` 1 per share (of face value of ` 10 each) last year
+and it is expected to grow @ 10% every year. CALCULATE the cost of equity if the
+market price of share is ` 55.
+
+SOLUTION
+
+Ke  =  D1 +g  = ` 1(1+0.1) +0.1  = 0.12 or12%
+       P0            ` 55
+
+Estimation of Growth Rate
+
+The calculation of `g' (the growth rate) is an important factor in calculating cost
+of equity share capital. Generally, two methods are used to determine the
+growth rate, as discussed below:
+
+(i) Average Method
+                                  Current Dividend (D0) =Dn(1+g)n
+
+                                                   or
+
+                                 Growth rate = n D0 -1
+                                                        Dn
+
+       Where,
+
+               D0 = Current dividend,
+
+               Dn = Dividend in n years ago
+
+© The Institute of Chartered Accountants of India
+COST OF CAPITAL                                    4.23
+
+       Growth rate can also be found as follows:
+
+       Step-I: Divide D0 by Dn, find out the result, then refer the FVIF table.
+
+       Step-II: Find out the result found at Step-I in corresponding year's row.
+
+       Step-III: See the interest rate for the corresponding column. This is the
+       growth rate.
+
+       Example - 4: The current dividend (D0) is `16.10 and the dividend 5 year
+       ago was `10. The growth rate in the dividend can found out as follows:
+
+       Step-I: Divide D0 by Dn i.e. `16.10 ÷ `10 = 1.61
+
+       Step-II: Find out the result found at Step-I i.e. 1.61 in corresponding year's
+       row i.e. 5th year.
+
+       Step-III: See the interest rate for the corresponding column which is 10%.
+       Therefore, growth rate (g) is 10%.
+
+(ii) Gordon's Growth Model
+
+       Unlike the Average method, Gordon's growth model attempts to derive a
+       future growth rate. As per this model, increase in the level of investment
+       will give rise to an increase in future dividends. This model takes Earnings
+       retention rate (b) and rate of return on investments (r) into account to
+       estimate the future growth rate.
+
+       It can be calculated as below:
+
+                                           Growth (g) = b × r
+
+       Where,
+
+                       b = earnings retention rate*
+
+                       r = rate of return on fund invested
+
+       *Proportion of earnings available to equity shareholders which is not
+       distributed as dividend.
+
+       (This Model is discussed in detail in chapter 8 - Dividend Decisions.)
+
+© The Institute of Chartered Accountants of India
+          4.24          FINANCIAL MANAGEMENT
+
+7.4 Realized Yield Approach
+
+According to this approach, the average rate of return realized in the past few
+years is historically regarded as `expected return' in the future. It computes cost
+of equity based on the past records of dividends actually realised by the equity
+shareholders. Though, this approach provides a single mechanism of calculating
+cost of equity, it has unrealistic assumptions like risks faced by the company
+remain same; the shareholders continue to expect the same rate of return; and
+the reinvestment opportunity cost (rate) of the shareholders is same as the
+realised yield. If the earnings do not remain stable, this method is not practical.
+
+ILLUSTRATION 10
+
+Mr. Mehra had purchased a share of Alpha Limited for ` 1,000. He received
+dividend for a period of five years at the rate of 10 per cent. At the end of the fifth
+year, he sold the share of Alpha Limited for ` 1,128. You are required to COMPUTE
+the cost of equity as per realised yield approach.
+
+SOLUTION
+
+We know that as per the realised yield approach, cost of equity is equal to the
+realised rate of return. Therefore, it is important to compute the internal rate of
+return by trial and error method. This realised rate of return is the discount rate
+which equates the present value of the dividends received in the past five years
+plus the present value of sale price of ` 1,128 to the purchase price of `1,000. The
+discount rate which equalises these two is 12 per cent approximately. Let us look
+at the table given for a better understanding:
+
+Year      Dividend      Sale Proceeds              Discount Factor @             Present
+                   (`)                  (`)                            12%     Value (`)
+  1                                                                            89.3
+  2          100                -                           0.893              79.7
+  3          100                -                           0.797              71.2
+  4          100                -                           0.712              63.6
+  5          100                -                           0.636              56.7
+  5          100                -                           0.567            639.576
+             End             1,128                          0.567           1,000.076
+
+© The Institute of Chartered Accountants of India
+                                COST OF CAPITAL                                   4.25
+
+We find that the purchase price of Alpha Limited's share was ` 1,000 and the
+present value of the past five years of dividends plus the present value of the sale
+price at the discount rate of 12 per cent is `1,000.076. Therefore, the realised rate
+of return may be taken as 12 per cent. This 12 per cent is the cost of equity.
+
+ILLUSTRATION 11
+
+CALCULATE the cost of equity from the following data using realized yield
+approach:
+
+Year                                                        1       2    3        4     5
+
+Dividend per share(`)                                 1.00 1.00 1.20 1.25 1.15
+
+Price per share (at the beginning) (`) 9.00 9.75 11.50 11.00 10.60
+
+SOLUTION
+
+In this question, we will first calculate the yield for last 4 years and then will
+calculate it's geometric mean.
+
+Yield for last 4 years:
+
+                         1+Y1=  D1+P1                 =  `  1+ ` 9.75   =1.1944
+                                  P0                          `9
+
+                         1+Y2=  D2+P2              =     `  1+ ` 11.50  =1.2821
+                                  P1                          9.75
+
+                         1+Y3=  D3+P3                 =  `  1.2+ `  11  =1.0609
+                                  P2                         11.5
+
+                       1+Y4=  D4+P4                =  `  1.25+ `  10.60  =1.0772
+                                P3                            11
+
+Geometric mean:
+
+                   Ke=[(1+Y1)×(1+Y2)×......(1+Yn)]1/n-1
+          Ke=[1.1944×1.2821×1.0609×1.0772]1/4-1=0.15=15%
+
+7.5 Capital Asset Pricing Model (CAPM) Approach
+
+CAPM model describes the risk-return trade-off for securities. It describes the
+linear relationship between risk and return of securities.
+
+© The Institute of Chartered Accountants of India
+4.26  FINANCIAL MANAGEMENT
+
+The risk to which a security is exposed, can be classified into two groups:
+
+(i) Unsystematic Risk: This is also called company specific risk as the risk is
+       related with the company's performance. This type of risk can be reduced or
+       eliminated by diversification of the securities portfolio. This is also known as
+       diversifiable risk. The examples are strike or lockdown in company, labour
+       not available, etc.
+
+(ii) Systematic Risk: It is the macro-economic or market specific risk under
+       which a company operates. This type of risk cannot be eliminated by the
+       diversification hence, it is non-diversifiable. The examples are inflation,
+       government policy, interest rate etc.
+
+As diversifiable risk can be eliminated by an investor through diversification, the
+non-diversifiable risk is the risk which cannot be eliminated; therefore, a business
+should be concerned as per CAPM method, solely with non-diversifiable risk.
+
+The non-diversifiable risks are assessed in terms of beta coefficient (b or )
+through fitting regression equation between return of a security and the return
+on a market portfolio.
+
+                                    Cost of Equity under CAPM
+Thus, the cost of equity capital can be calculated under this approach as:
+
+                              Cost of Equity (Ke)= Rf + ß (Rm - Rf)
+
+© The Institute of Chartered Accountants of India
+                     COST OF CAPITAL                               4.27
+
+Where,               Cost of equity capital
+               Ke =  Risk free rate of return
+               Rf =  Beta coefficient
+               ß=    Rate of return on market portfolio
+               Rm =  Market risk premium
+
+       (Rm ­ Rf) =
+
+10
+
+         5                                                 Equity
+Risk                                                       Shares
+
+         0
+               Govt. Bonds Corp. Debts Pref. Shares
+
+                                                   Return
+
+                       Risk Return relationship of various securities
+Therefore, Required rate of return = Risk free rate + Risk premium
+
+ The idea behind CAPM is that the investors need to be compensated in two
+       ways- (i) Time value of money and (ii) Risk.
+
+ The time value of money is represented by the risk-free rate in the formula
+       and compensates the investors for placing money in any investment over a
+       period of time.
+
+ The other half of the formula represents risk and calculates the amount of
+       compensation the investor needs for taking on additional risk. This is
+       calculated by taking a risk measure (beta) which compares the returns of the
+       asset to the market over a period of time and compares it with the market
+       premium.
+
+The CAPM says that the expected return of a security or a portfolio equals the
+rate on a risk-free security plus risk premium. If this expected return does not
+meet or beat the required return, then the investment should not be undertaken.
+
+© The Institute of Chartered Accountants of India
+4.28  FINANCIAL MANAGEMENT
+
+The shortcomings of this approach are:
+(a) Estimation of beta with historical data is unrealistic; and
+
+(b) Market imperfections may lead investors to unsystematic risk.
+
+Despite these shortcomings, the CAPM is useful in calculating cost of equity,
+even when the entity is suffering losses.
+
+The basic factor behind determining the cost of equity share capital is to
+measure the expectation of investors from the equity shares of that particular
+company. Therefore, the whole question of determining the cost of equity
+shares hinges upon the factors which go into the expectations of particular
+group of investors in a company of a particular risk class.
+
+ILLUSTRATION 12
+
+CALCULATE the cost of equity capital of H Ltd., whose risk-free rate of return equals
+10%. The firm's beta equals 1.75 and the return on the market portfolio equals to
+15%.
+
+SOLUTION
+
+Ke = Rf + ß (Rm - Rf)
+
+Ke = 0.10 + 1.75 (0.15 - 0.10)
+
+       = 0.10 + 1.75 (0.05)= 0.1875 or 18.75%
+
+     8. COST OF RETAINED EARNINGS (KR)
+
+Like other sources of fund, retained earnings also involves cost. It is the
+opportunity cost of dividends foregone by shareholders.
+
+The given below figure depicts how a company can either keep or reinvest cash
+or return it to the shareholders as dividends. (Arrows represent possible cash
+flows or transfers.) If the cash is reinvested, the opportunity cost is the expected
+rate of return that shareholders could have obtained by investing in financial
+assets.
+
+© The Institute of Chartered Accountants of India
+                 COST OF CAPITAL                                           4.29
+
+                 Cost of Retained Earnings
+
+The cost of retained earnings is often used interchangeably with the cost of
+equity, as cost of retained earnings is nothing but the expected return of the
+shareholders from the investment in shares of the company. However, normally
+cost of equity remains higher than the cost of retained earnings, due to issue of
+shares at a price lower than current market price and floatation cost.
+
+Formulas used for calculation of cost of retained earnings are same as formulas
+used for calculation of cost equity:
+
+                 Dividend                          Price  method:  Kr=  D
+                                                                        P
+
+                 Earning  Price                    method:       Kr=  EPS
+                                                                       P
+
+                 Growth                            method:  Kr=  D1  +g
+                                                                 P0
+
+For the calculation of Ke : P = net proceeds realized = issue price less floatation
+cost. But for calculation of Kr : P = current market price. However, sometimes
+issue price may also be used. The concept of Floatation cost is not used for the
+calculation of cost of retained earnings.
+
+ILLUSTRATION 13
+
+Face value of equity shares of a company is `10, while current market price is
+`200 per share. Company is going to start a new project, and is planning to
+finance it partially by new issue and partially by retained earnings. You are
+
+© The Institute of Chartered Accountants of India
+             4.30                    FINANCIAL MANAGEMENT
+
+required to CALCULATE cost of equity shares as well as cost of retained earnings if
+issue price will be `190 per share and floatation cost will be`5 per share. Dividend
+at the end of first year is expected to be `10 and growth rate will be 5%.
+
+SOLUTION                        Kr=  D1  +g=          10      +0.05=10%
+ILLUSTRATION 14                      P0               200
+
+                        Ke=     D1  +g=            `   ` 10   5  +0.05=10.41%
+                                P0                    190- `
+
+ABC Company provides the following details:
+
+D0 = ` 4.19                     P0 = ` 50                        g = 5%
+
+CALCULATE the cost of retained earnings.
+
+SOLUTION
+
+Kr  = D1+g = D0(1+g) +g
+       P0    P0
+
+    =  ` 4.19(1+ 0.05)  + 0.05
+             ` 50
+
+    =0.088 + 0.05=13.8%
+
+ILLUSTRATION 15
+
+ABC Company provides the following details:
+
+    Rf = 7%             ß = 1.20                      Rm - Rf = 6%
+
+CALCULATE the cost of retained earnings based on CAPM method.
+
+SOLUTION
+
+Kr = Rf + ß (Rm ­ Rf)
+       = 7% + 1.20 (6%)=7% + 7.20
+
+Kr = 14.2%
+
+© The Institute of Chartered Accountants of India
+                                 COST OF CAPITAL                        4.31
+
+9. WEIGHTED AVERAGE COST OF CAPITAL
+    (WACC)
+
+To balance financial risk, ownership control over the company and cost of capital,
+a company usually does not procure entire fund from a single source, rather it
+makes a mix of various sources of finance. Hence, cost of total capital will be
+equal to weighted average of cost of individual sources of finance.
+
+WACC is also known as the overall cost of capital which includes the cost of
+different sources of capital as explained above. WACC of a company depends on
+the capital structure of a company. It weighs the cost of capital of a particular
+source of capital with its proportion to the total capital. Thus, weighted average
+cost of capital is the weighted average after-tax costs of the individual
+components of firm's capital structure. That is, the after-tax cost of each debt and
+equity is calculated separately and added together to a single overall cost of
+capital:
+
+The steps to calculate WACC is as follows:
+
+Step 1: Calculate the total capital from all the sources of capital.
+
+(Long-term debt capital + Pref. Share Capital + Equity Share Capital
+      + Retained Earnings)
+
+Step 2:   Calculate the proportion (or %) of each source of capital to the total
+capital.
+
+            Equity Share Capital (for example)                        
+                                                                      
+            Total  Capital  (as  calculated        in  Step1  above)  
+
+Step 3: Multiply the proportion as calculated in Step 2 above with the
+             respective cost of capital.
+
+             (Ke × Proportion (%) of equity share capital (for example) calculated
+              in Step 2 above)
+
+Step 4: Aggregate the cost of capital as calculated in Step 3 above. This is the
+             WACC.
+
+             (Ke + Kd + Kp + Ks as calculated in Step 3 above)
+
+© The Institute of Chartered Accountants of India
+              4.32    FINANCIAL MANAGEMENT
+
+Example - 5:
+Calculation of WACC
+
+Source of Capital     Cost of                      % of total  Total
+                      capital                        capital
+
+Retained Earnings     10% (Kr)                     25% (Wr)    2.50% (Kr × Wr)
+
+Equity Share Capital  11% (Ke)                     10% (We)    1.10%(Ke× We)
+
+Preference Share Capital 9% (Kp)                   15% (Wp)    1.35%(Kp× Wp)
+
+Long term debts       6% (Kd)                      50% (Wd)    3.00%(Kd× Wd)
+
+Total (WACC)                                                   7.95%
+
+The cost of weighted average method is preferred because the proportions of
+various sources of funds in the capital structure are different. To be
+representative, therefore, cost of capital should take into account the relative
+proportions of different sources of finance.
+
+Securities analysts employ WACC all the time when valuing and selecting
+investments. In discounted cash flow analysis, WACC is used as the discount rate
+applied to future cash flows for deriving a business' net present value. WACC can
+be used as a hurdle rate against which to assess return on investment capital
+performance. Investors use WACC as a tool to decide whether or not to invest.
+The WACC represents the minimum rate of return at which a company produces
+value for its investors. Let's say, if a company produces a return of 20% and has a
+WACC of 11%, value produced for investor's is 9% approximately. By contrast, the
+company's return is less than WACC meaning the company is shedding value,
+which indicates that investors should put their money elsewhere.
+
+Therefore, WACC serves as a useful reality check for investors.
+
+© The Institute of Chartered Accountants of India
+                       COST OF CAPITAL             4.33
+
+9.1 Choice of Weights
+
+There is a choice of weights between the Book Value (BV) and Market Value(MV).
+
+Book Value (BV): Book value weight is operationally easy and convenient. While
+using BV, reserves such as share premium and retained profits are included in the
+BV of equity, in addition to the nominal value of share capital. Here, the value of
+equity will generally not reflect historic asset values, as well as the future
+prospects of an organisation.
+
+Market Value (MV): Market value weight is more correct and represent a firm's
+capital structure. It is preferable to use MV weights for the equity. While using
+MV, reserves such as share premium and retained profits are ignored as they are
+in effect incorporated into the value of equity. It represents existing conditions
+and also take into consideration the impacts of changing market conditions and
+the current prices of various security. Similarly, in case of debt, MV is better to be
+used rather than the BV of the debt, though the difference may not be very
+significant.
+
+There is no separate market value for retained earnings. Market value of equity
+shares represents both paid up equity capital and retained earnings. But cost of
+equity is not same as cost of retained earnings. Hence to give market value
+weights, market value of equity shares should be apportioned in the ratio of book
+value of paid up equity capital and book value of retained earnings.
+
+The following is a comparative analysis of Book Value (BV) and Market Value(MV)
+choice of weights:
+
+POINT OF              BOOK VALUE (BV)                 MARKET VALUE (MV)
+COMPARISON
+1. Definition  Based on the historical cost        Based on the current
+               of assets and liabilities           market price of equity and
+2.  Reflects   recorded on the balance             debt.
+               sheet.
+Current        May not accurately reflect          More accurately reflects
+               current market conditions or        the current market
+Conditions     the true economic value.            conditions and the value
+                                                   investors place on the
+                                                   company.
+
+© The Institute of Chartered Accountants of India
+               4.34  FINANCIAL MANAGEMENT
+
+3. Stability     Generally more stable, as it            Can be volatile and
+                 doesn't fluctuate with market           fluctuate with market
+4. Relevance     conditions.                             conditions.
+for Investors    Less relevant for investors as          More relevant for investors
+                 it doesn't consider current             as it reflects the market's
+5. Ease of       market perceptions.                     view of the company's
+Calculation                                              value.
+                 Easier to calculate using               Requires market data
+                 financial statements.                   which can be more
+                                                         complex to gather and
+                                                         calculate.
+
+ILLUSTRATION 16
+
+Cost of equity of a company is 10.41% while cost of retained earnings is 10%. There
+are 50,000 equity shares of `10 each and retained earnings of `15,00,000. Market
+price per equity share is `50. Calculate WACC using market value weights if there
+are no other sources of finance.
+
+SOLUTION
+
+Book value of paid up equity capital = ` 5,00,000
+
+Book value of retained earnings = ` 15,00,000
+
+Ratio of Paid up equity capital & retained earnings = 5,00,000:15,00,000 = 1:3
+
+Market value of paid up equity capital & retained earnings = ` 50,000 x ` 50
+
+                                                         = ` 25,00,000
+
+Market value of paid up equity capital = ` 25,00,000 x ¼ = ` 6,25,000
+
+Market value of retained earnings = ` 25,00,000 x ¾ = `18,75,000
+
+Calculation of WACC using market value weights
+
+Source of capital Market Value Weights                   Cost of        WACC (Ko)
+                                                         capital
+
+                               (`) (a)                   (b)            (c) = (a)×(b)
+
+Equity shares        6,25,000                      0.25  0.1041         0.0260
+
+© The Institute of Chartered Accountants of India
+                         COST OF CAPITAL                          4.35
+
+Retained earnings 18,75,000                        0.75   0.1000        0.0750
+
+                         25,00,000                 1.000                0.1010
+
+WACC (Ko) = 0.1010 or 10.10%                                                    (`)
+ILLUSTRATION 17
+CALCULATE the WACC using the following data by using:                    5,00,000
+(a) Book value weights                                                   5,00,000
+(b) Market value weights                                                10,00,000
+The capital structure of the company is as under:                       20,00,000
+
+ Debentures (` 100 per debenture)
+ Preference shares (` 100 per share)
+ Equity shares (` 10 per share)
+
+The market prices of these securities are:
+
+Debentures               ` 105 per debenture
+
+Preference shares        ` 110 per preference share
+
+Equity shares            ` 24 per equity share
+
+Additional information:
+
+(1) ` 100 per debenture redeemable at par, 10% coupon rate, 4% floatation costs,
+       10-year maturity.
+
+(2) ` 100 per preference share redeemable at par, 5% coupon rate, 2% floatation
+       cost and 10-year maturity.
+
+(3) Equity shares has ` 4 floatation cost and market price of ` 24 per share.
+
+The next year expected dividend is ` 1 with annual growth of 5%. The firm has
+practice of paying all earnings in the form of dividend.
+
+© The Institute of Chartered Accountants of India
+         4.36            FINANCIAL MANAGEMENT
+
+Corporate tax rate is 30%.Use YTM method to calculate cost of debentures and
+preference shares.
+
+SOLUTION
+
+(i) Cost of Equity (Ke)
+
+= D1 +g = `1 +0.05 = 0.1 or 10%
+P0 -F    `24 -`4
+
+(ii) Cost of Debt (Kd)
+       Current market price (P0) ­ floatation cost
+                                 = I(1-t) × PVAF (r,10) + RV × PVIF (r,10)
+       `105 ­ 4% of `105 = `10 (1-0.3) × PVAF (r,10) + `100 × PVIF (r,10)
+       Calculation of NPV at discount rate of 5% and 7%
+
+ Year    Cash            Discount                     Present            Discount          Present
+         flows           factor @                      Value             factor @           Value
+    0
+1 to 10       (`)            5%                               (`)            7%                    (`)
+                                                      (100.8)                              (100.8)
+   10    100.8             1.000                       54.05               1.000            49.17
+ NPV        7              7.722                       61.40               7.024            50.80
+                           0.614                      +14.65               0.508             -0.83
+          100
+
+Calculation of IRR
+
+IRR  =  5%+14.651-4(.6-05.83) (7%-5%)              =  5%  +  14.65  (7%  -5%  )  =  6.89%
+                                                             15.48
+
+       Cost of Debt (Kd) = 6.89%
+(iii) Cost of Preference shares (Kp)
+
+       Current market price (P0) ­ floatation cost = PD × PVAF (r,10) + RV × PVIF (r,10)
+       `110 ­ 2% of `110 = `5×PVAF (r,10) + `100×PVIF (r,10)
+       Calculation of NPV at discount rate of 3% and 5%
+
+© The Institute of Chartered Accountants of India
+                                COST OF CAPITAL                                      4.37
+
+ Year          Cash        Discount                          Present              Discount      Present
+               flows       factor @                           Value               factor @       Value
+    0
+1 to 10               (`)      3%                                      (`)            5%                 (`)
+               107.8                                         (107.8)                            (107.8)
+   10                        1.000                            42.65                 1.000        38.61
+ NPV              5          8.530                            74.40                 7.722        61.40
+                100          0.744                            +9.25                 0.614         -7.79
+
+Calculation of IRR
+
+IRR  =  3%+       9.25     (5%  -  3%)             =  3%  +  9.25   (5%  - 3%  )  =  4.08%
+             9.25-(-7.79)                                    17.04
+
+       Cost of Preference Shares (Kp) = 4.08%
+(a) Calculation of WACC using book value weights
+
+Source of capital          Book Weights After tax cost WACC (Ko)
+
+                           Value                                    of capital
+
+                                                   (`) (a)               (b)         (c) = (a)×(b)
+
+10% Debentures             5,00,000 0.25                                 0.0689             0.01723
+
+5% Preference shares 5,00,000 0.25                                       0.0408             0.0102
+
+Equity shares              10,00,000 0.50                                0.10               0.05000
+
+                           20,00,000 1.00                                                   0.07743
+
+WACC (Ko) = 0.07743 or 7.74%
+
+(b) Calculation of WACC using market value weights
+
+Source of capital                                         Market         Weights After          WACC
+                                                           Value                      tax cost   (Ko)
+                                                                                          of
+                                                                                       capital
+
+                                                             (`)         (a)         (b) (c) =
+
+                                                                                                (a)×(b)
+
+10% Debentures (`105× 5,000)                          5,25,000 0.151 0.0689 0.0104
+
+© The Institute of Chartered Accountants of India
+4.38  FINANCIAL MANAGEMENT
+
+5% Preference shares (`110× 5,000) 5,50,000                   0.158  0.0408  0.0064
+                                                              0.691   0.10   0.0691
+Equity shares (`24× 1,00,000)                      24,00,000  1.000          0.0859
+
+                                                   34,75,000
+
+WACC (Ko) = 0.0859 or 8.59%
+
+     10. MARGINAL COST OF CAPITAL
+
+The marginal cost of capital may be defined as the cost of raising an additional
+rupee of capital. Since the capital is raised in substantial amount in practice,
+marginal cost is referred to as the cost incurred in raising new funds (over and
+above the existing). Marginal cost of capital is derived, when the average cost of
+capital is calculated using the marginal weights.
+
+The marginal weights represent the proportion of funds the firm intends to
+employ. Thus, the problem of choosing between the book value weights and the
+market value weights does not arise in the case of marginal cost of capital
+computation.
+
+To calculate the marginal cost of capital, the intended financing proportion
+should be applied as weights to marginal component of costs. The marginal cost
+of capital should, therefore, be calculated in the composite sense. When a firm
+raises funds in a proportional manner and the component's cost remains
+unchanged, there will be no difference between average cost of capital (of the
+total funds) and the marginal cost of capital. The component costs may remain
+constant upto certain level of funds raised and then start increasing with amount
+of funds raised.
+
+For example, the cost of debt may remain 7% (after tax) till `10 lakhs of debt is
+raised, between `10 lakhs and `15 lakhs, the cost may be 8% and so on. Similarly,
+if the firm has to use the external equity when the retained profits are not
+sufficient, the cost of equity will be higher because of the floatation costs. When
+the components cost start rising, the average cost of capital will rise and the
+marginal cost of capital will however, rise at a faster rate.
+
+© The Institute of Chartered Accountants of India
+                               COST OF CAPITAL                     4.39
+
+ILLUSTRATION 18
+
+ABC Ltd. has the following capital structure, which is considered to be optimum as
+on 31st March, 2023.
+
+                                                         (`)
+
+14% Debentures                                           30,000
+
+11% Preference shares                                    10,000
+
+Equity Shares (10,000 shares)                            1,60,000
+
+                                                         2,00,000
+
+The company share has a market price of ` 23.60. Next year dividend per share is
+50% of year 2022 EPS. Following is the uniform trend of EPS for the preceding 10
+years which is expected to continue in future:
+
+Year            EPS (`)                            Year  EPS (`)
+2013              1.00                             2018    1.61
+2014              1.10                             2019    1.77
+2015              1.21                             2020    1.95
+2016              1.33                             2021    2.15
+2017              1.46                             2022    2.36
+
+The company issued new debentures carrying 16% rate of interest and the current
+market price of debenture is ` 96.
+Preference shares of` 9.20 (with annual dividend of ` 1.1 per share) were also
+issued. The company is in 50% tax bracket.
+(A) CALCULATE after tax:
+
+       (i) Cost of new debt
+       (ii) Cost of new preference shares
+       (iii) Cost of new equity share (assuming new equity from retained earnings)
+(B) CALCULATE marginal cost of capital when no new shares are issued.
+
+© The Institute of Chartered Accountants of India
+             4.40              FINANCIAL MANAGEMENT
+
+(C) DETERMINE the amount that can be spent for capital investment before new
+       ordinary shares must be sold. Assuming that the retained earnings for next
+       year's investment is 50 percent of 2022.
+
+(D) COMPUTE marginal cost of capital when the fund exceeds the amount
+       calculated in (C), assuming new equity is issued at ` 20 per share.
+
+SOLUTION
+
+(A) (i) Cost of new debt
+
+Kd           = I(1- t)
+                  P0
+
+             =  `16 (1- 0.5)   =  0.0833
+                    `96
+
+(ii) Cost of new preference shares
+
+Kp           = PD = `1.1 = 0.12
+                P0 `9.2
+
+(iii) Cost of new equity shares
+
+Ke =         D1 + g
+             P0
+
+          =  `1.18   +0.10  =  0.05  +             0.10  =  0.15
+             `23.60
+
+Calculation of g when there is a uniform trend (on the basis of EPS)
+
+=         EPS (2014) ­ EPS (2013)
+                  EPS (2013)
+
+= ` 1.10- ` 1.00 = 0.10 or 10%
+        ` 1.00
+
+Calculation of D1
+
+D1 = 50% of 2022EPS = 50% of 2.36 = ` 1.18
+
+(B) Calculation of marginal cost of capital
+
+ Type of Capital            Proportion                      Specific Cost      Product
+          (1)                    (2)                               (3)     (2) × (3) = (4)
+                                 0.15
+Debenture                                                       0.0833          0.0125
+
+© The Institute of Chartered Accountants of India
+                               COST OF CAPITAL                                  4.41
+
+Preference Share               0.05                        0.1200                   0.0060
+                                                           0.1500                   0.1200
+Equity Share                   0.80                                                 0.1385
+
+Marginal cost of capital
+
+(C) The company can spend the following amount without increasing marginal
+       cost of capital and without selling the new shares:
+
+Retained earnings = 50% of EPS of 2022 × outstanding equity shares
+
+               = 0.50×`2.36 × 10,000 shares = ` 11,800
+
+The ordinary equity (Retained earnings in this case) is 80% of total capital
+
+So, `11,800 = 80% of Total Capital
+
+ Capital  investmentbeforeissuingequity shares =                         `  11,800  =   `  14,750
+                                                                            0.80
+
+(D) If the company spends in excess of ` 14,750, it will have to issue new equity
+       shares at `20 per share.
+
+The  cost  of  new  issue  of  equity              shares  will  be  =  D1+g =  ` 1.18  +  0.10  =  0.159
+                                                                        P0       `20
+
+The marginal cost of capital will be:
+
+Type of Capital            Proportion                      Specific Cost            Product
+         (1)                    (2)                               (3)           (2) × (3) = (4)
+
+Debentures                     0.15                              0.0833             0.0125
+                                                                 0.1200             0.0060
+Preference Shares              0.05                              0.1590             0.1272
+
+Equity Shares (New)            0.80
+
+                                                                                    0.1457
+
+© The Institute of Chartered Accountants of India
+4.42  FINANCIAL MANAGEMENT
+
+SUMMARY
+
+ Cost of Capital: In simple terms, Cost of capital refers to the discount rate
+       that is used in determining the present value of the estimated future cash
+       proceeds of the business/new project and eventually deciding whether the
+       business/new project is worth undertaking or not. It is also the minimum
+       rate of return that a firm must earn on its investment which will maintain the
+       market value of share at its current level. It can also be stated as the
+       opportunity cost of an investment, i.e., the rate of return that a company
+       would otherwise be able to earn at the same risk level as the investment
+       that has been selected.
+
+ Measurement of Specific Cost of Capital for each source of Capital: The
+       first step in the measurement of the cost of the capital of the firm is the
+       calculation of the cost of raising funds from individual sources. From the
+       viewpoint of capital budgeting decisions, the long term sources of funds are
+       relevant as they constitute the major sources of financing the fixed assets. In
+       calculating the cost of capital, therefore the focus is on long-term funds and
+       which are:-
+
+       Long term debt (including Debentures)
+
+       Preference Shares
+
+       Equity Capital
+
+       Retained Earnings
+
+ Weighted Average Cost of Capital: WACC (weighted average cost of
+       capital) represents the investors' opportunity cost of taking on the risk of
+       putting money into a company. Since every company has a capital structure
+       i.e. what percentage of funds comes from retained earnings, equity shares,
+       preference shares, debt and bonds, so by taking a weighted average, it can
+       be seen how much cost/interest the company has to pay for every rupee it
+       borrows/invest. WACC can be calculated on the basis of Book Value (BV)
+       weights or Market Value (MV) weights.
+
+ Marginal cost of capital: It may be defined as the cost of raising an
+       additional rupee of capital. Since the capital is raised in substantial amount
+       in practice, marginal cost is referred to as the cost incurred in raising new
+       funds. Marginal cost of capital is derived, when the average cost of capital is
+       calculated using the marginal weights. The marginal weights represent the
+       proportion of funds the entity intends to employ.
+
+© The Institute of Chartered Accountants of India
+COST OF CAPITAL                                    4.43
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1. Which of the following is not an assumption of the capital asset pricing model
+       (CAPM)?
+       (a) The capital market is efficient.
+       (b) Investors lend or borrow at a risk-free rate of return.
+       (c) Investors do not have the same expectations about the risk and return.
+       (d) Investor's decisions are based on a single-time period.
+
+2. Given: risk-free rate of return = 5 %; market return = 10%; cost of equity = 15%;
+       value of beta () is:
+       (a) 1.9
+       (b) 1.8
+       (c) 2.0
+       (d) 2.2
+
+3. ................ may be defined as the cost of raising an additional rupee of capital:
+       (a) Marginal cost of capital
+       (b) Weighted Average cost of capital
+       (c) Simple Average cost of capital
+       (d) Liquid cost of capital
+
+4. Which of the following cost of capital requires to adjust taxes?
+       (a) Cost of Equity Share
+       (b) Cost of Preference Shares,
+       (c) Cost of Debentures
+       (d) Cost of Retained Earnings
+
+5. Marginal Cost of capital is the cost of:
+       (a) Additional Revenue
+
+© The Institute of Chartered Accountants of India
+4.44  FINANCIAL MANAGEMENT
+
+       (b) Additional Funds
+       (c) Additional Interests
+       (d) None of the above
+6. In order to calculate Weighted Average Cost of Capital, weights may be based
+       on:
+       (a) Market Values
+       (b) Target Values
+       (c) Book Values
+       (d) Anyone of the above
+7. Firm's Cost of Capital is the average cost of:
+       (a) All sources of finance
+       (b) All Borrowings
+       (c) All share capital
+       (d) All Bonds & Debentures
+8. A company has a financial structure where equity is 70% of its total debt plus
+       equity. Its cost of equity is 10% and gross loan interest is 5%. Corporation tax is
+       paid at 30%. What is the company's weighted average cost of capital (WACC)?
+       (a) 7.55%
+       (b) 7.80%
+       (c) 8.70%
+       (d) 8.05%
+9. The cost of equity capital is all of the following except:
+       (a) The minimum rate that a firm should earn on the equity-financed part of
+
+               an investment.
+       (b) A return on the equity-financed portion of an investment that, at worst,
+
+               leaves the market price of the stock unchanged.
+       (c) By far, the most difficult component cost to estimate.
+       (d) Generally, lower than the before-tax cost of debt.
+
+© The Institute of Chartered Accountants of India
+                      COST OF CAPITAL              4.45
+
+10. What is the overall (weighted average) cost of capital when the firm has ` 20
+       crores in long-term debt, ` 4 crores in preferred stock, and ` 16 crores in
+       equity shares? The before-tax cost for debt, preferred stock, and equity capital
+       are 8%, 9%, and 15%, respectively. Assume a 50% tax rate.
+
+       (a) 7.60%
+
+       (b) 6.90%
+
+       (c) 7.30%
+
+       (d) 8.90%
+
+Theoretical Questions
+
+1. DISCUSS the meaning of weighted average cost of capital. ILLUSTRATE with
+       an example.
+
+2. DISCUSS the dividend price approach and earnings price approach to
+       estimate cost of equity share capital.
+
+3. What is the DIFFERENCE between Book Value and Market Value weights for
+       calculating weighted average cost of capital?
+
+4. DISCUSS Marginal Cost of Capital.
+5. EXPLAIN YTM approach of calculating Cost of Debt.
+6. DISCUSS the meaning of Amortisation of Bond.
+
+Practical Problems
+
+1. Gamma Limited has 5,00,000,` 1 ordinary shares whose current ex-dividend
+       market price is ` 1.50 per share. The company has just paid a dividend of 27
+       paise per share, and dividends are expected to continue at this level for some
+       time. If the company has no debt capital, COMPUTE the weighted average
+       cost of capital?
+
+2. The following details are provided by the GPS Limited:
+
+Equity Share Capital                                       (`)
+                                                   65,00,000
+
+© The Institute of Chartered Accountants of India
+4.46  FINANCIAL MANAGEMENT
+
+12% Preference Share Capital                       12,00,000
+15% Redeemable Debentures                          20,00,000
+10% Convertible Debentures
+                                                    8,00,000
+
+       The cost of equity capital for the company is 16.30% and income tax rate for
+       the company is 30%.
+
+       You are required to CALCULATE the Weighted Average Cost of Capital
+       (WACC) of the company.
+
+3. ABC Company's equity share is quoted in the market at `25 per share
+       currently. The company pays a dividend of ` 2 per share and the investor's
+       market expects a growth rate of 6% per year.
+
+       You are required to:
+
+       (i) CALCULATE the company's cost of equity capital.
+
+       (ii) If the company issues 10% debentures of face value of `100 each and
+               realises ` 96 per debenture while the debentures are redeemable after
+               12 years at a premium of 12%, CALCULATE cost of debenture using
+               YTM?
+
+       Assume Tax Rate to be 50%.
+
+4. Masco Limited wishes to raise additional finance of ` 10 lakhs for meeting its
+       investment plans. It has ` 2,10,000 in the form of retained earnings available
+       for investment purposes. Further details are as following:
+
+(1) Debt / Equity mix                                                3:7
+(2) Cost of debt:
+                                                   10% (before tax)
+        Upto` 1,80,000                             16% (before tax)
+         Beyond ` 1,80,000
+(3) Earnings per share                                              `4
+(4) Dividend pay out                               50% of earnings
+(5) Expected growth rate of dividend
+(6) Current market price per share                                 10%
+(7) Tax rate                                                      ` 44
+                                                                   50%
+
+© The Institute of Chartered Accountants of India
+                   COST OF CAPITAL                              4.47
+
+       You are required to:
+       (a) DETERMINE the pattern for raising the additional finance.
+       (b) DETERMINE the post-tax average cost of additional debt.
+       (c) DETERMINE the cost of retained earnings and cost of equity.
+       (d) COMPUTE the overall weighted average after tax cost of additional
+
+               finance.
+5. DETERMINE the cost of capital of Best Luck Limited using the book value (BV)
+
+       and market value (MV) weights from the following information:
+
+Sources                                            Book Value   Market Value
+                                                         (`)           (`)
+Equity shares
+Retained earnings                                  1,20,00,000    2,00,00,000
+Preference shares                                   30,00,000            -
+Debentures                                          36,00,000
+                                                     9,00,000      33,75,000
+                                                                   10,40,000
+
+Additional information:
+
+I. Equity: Equity shares are quoted at `130 per share and a new issue
+       priced at `125 per share will be fully subscribed; flotation costs will be `
+       5 per share.
+
+II. Dividend: During the previous 5 years, dividends have steadily increased
+       from ` 10.60 to ` 14.19 per share. Dividend at the end of the current
+       year is expected to be ` 15 per share.
+
+III. Preference shares: 15% Preference shares with face value of ` 100
+       would realise `105 per share.
+
+IV. Debentures: The company proposes to issue 11-year 15% debentures
+       but the yield on debentures of similar maturity and risk class is 16%;
+       flotation cost is 2%.
+
+V. Tax: Corporate tax rate is 35%.Ignore dividend tax.
+
+Floatation cost would be calculated on face value.
+
+© The Institute of Chartered Accountants of India
+      4.48      FINANCIAL MANAGEMENT
+
+6. Kalyanam Ltd. has an operating profit of ` 34,50,000 and has employed Debt
+       which gives total Interest Charge of ` 7,50,000. The firm has an existing Cost of
+       Equity and Cost of Debt as 16% and 8% respectively. The firm has a new
+       proposal before it, which requires funds of ` 75 Lakhs and is expected to bring an
+       additional profit of ` 14,25,000. To finance the proposal, the firm is expecting to
+       issue an additional debt at 8% and will not be issuing any new equity shares in
+       the market. Assume no tax culture.
+
+       You are required to CALCULATE the Weighted Average Cost of Capital (WACC)
+       of Kalyanam Ltd.:
+
+       (i) Before the new Proposal
+
+       (ii) After the new Proposal.
+
+7. A company issues:
+
+       · 15% convertible debentures of ` 100 each at par with a maturity period
+               of 6 years. On maturity, each debenture will be converted into 2 equity
+               shares of the company. The risk-free rate of return is 10%, market risk
+               premium is 18% and beta of the company is 1.25. The company has
+              paid dividend of ` 12.76 per share. Five years ago, it paid dividend of
+              ` 10 per share. Flotation cost is 5% of issue amount.
+
+       · 5% preference shares of ` 100 each at premium of 10%. These shares
+               are redeemable after 10 years at par. Flotation cost is 6% of issue
+               amount.
+
+       Assuming corporate tax rate is 40%.
+
+       (i) CALCULATE the cost of convertible debentures using the approximation
+               method.
+
+       (ii) Use YTM method to CALCULATE cost of preference shares.
+
+Year        12  3                                  4  5  6  7  8  9 10
+
+PVIF 0.03, t 0.971 0.943 0.915 0.888 0.863 0.837 0.813 0.789 0.766 0.744
+
+PVIF 0.05, t 0.952 0.907 0.864 0.823 0.784 0.746 0.711 0.677 0.645 0.614
+
+PVIFA 0.03, t 0.971 1.913 2.829 3.717 4.580 5.417 6.230 7.020 7.786 8.530
+
+PVIFA 0.05, t 0.952 1.859 2.723 3.546 4.329 5.076 5.786 6.463 7.108 7.722
+
+© The Institute of Chartered Accountants of India
+               COST OF CAPITAL                     4.49
+
+Interest rate     1% 2% 3% 4% 5% 6% 7% 8% 9%
+FVIF i, 5      1.051 1.104 1.159 1.217 1.276 1.338 1.403 1.469 1.539
+FVIF i, 6      1.062 1.126 1.194 1.265 1.340 1.419 1.501 1.587 1.677
+FVIF i, 7      1.072 1.149 1.230 1.316 1.407 1.504 1.606 1.714 1.828
+
+Case Scenarios
+
+1. MNP Ltd. is a multinational company having its operations spread mostly in
+       India and neighbouring countries of India. The promotors of the company
+       believed that capital structure of a company must be kept flexible and balanced,
+       where proper mix should always be maintained between debt and equity. Such
+       mix of debt and equity should be reviewed from time to time keeping in mind the
+       changing situation of India and the global scenario.
+
+       The capital structure of MNP Ltd. is as under:
+
+       9% Debentures ` 2,75,000
+
+       11% Preference shares ` 2,25,000
+
+       Equity shares (face value: ` 10 per share) ` 5,00,000
+
+       Total capital of the company ` 10,00,000
+
+       The following are some of the additional information provided by MNP Ltd.
+       relating to the above mentioned capital structure.
+
+       (i) ` 100 per debenture redeemable at par has 2% floatation cost and 10
+              years of maturity. The market price per debenture is ` 105.
+
+       (ii) ` 100 per preference share redeemable at par has 3% floatation cost and
+              10 years of maturity. The market price per preference share is ` 106.
+
+       (iii) Equity share has ` 4 floatation cost and market price per share of ` 24. The
+               next year expected dividend is ` 2 per share with an annual growth of 5%.
+               The firm has a practice of paying all earnings in the form of dividends.
+
+       (iv) Corporate Income-tax rate is 35%.
+
+       Since the company is a multinational company market value weights are
+       preferred over book value weights when calculating the Weighted Average Cost
+       of Capital (WACC) for several reasons. The company believes that market values
+
+© The Institute of Chartered Accountants of India
+4.50  FINANCIAL MANAGEMENT
+
+reflect the current market perception of a company's financial health and future
+prospects. This is more relevant for calculating the cost of capital today, as
+investors base their decisions on current market conditions. Book values, based
+on historical accounting principles, may not accurately represent the true
+economic value of the company's capital components. Market values capture the
+actual cost that a company would incur if it were to raise new capital in the
+current market. Book values might not reflect the true cost of debt due to factors
+like changes in interest rates or creditworthiness. Similarly, book value of equity
+might not reflect the current investor expectations for future dividends and
+growth. Market values are readily available through stock prices and market
+interest rates. Obtaining accurate book values, especially for intangible assets,
+can be a complex and time-consuming process.
+
+Being a Finance manager of the company, you are required to provide the
+answer to the following questions to the top management:
+
+i. Calculate the cost of equity and choose the correct answer from the
+       following?
+
+       (a) 14%
+
+       (b) 15%
+
+       (c) 16%
+
+       (d) 17%
+ii. Calculate the cost of debt and choose the correct answer from the
+
+       following?
+
+       (a) 6.11%
+
+       (b) 5.11%
+
+       (c) 5.48%
+
+       (d) 10.55%
+iii. Calculate the cost of preference shares and choose the correct answer from
+
+       the following?
+
+       (a) 10.57 %
+
+       (b) 5.11%
+
+       (c) 9%
+
+       (d) 10.55%
+
+© The Institute of Chartered Accountants of India
+COST OF CAPITAL                                    4.51
+
+iv. Calculate the WACC using market value weights and choose the correct
+       answer from the following?
+
+       (a) 12.80 %
+       (b) 5.11%
+       (c) 9%
+       (d) 10.55%
+v. What will be the current market price of MNP Ltd.'s equity shares if Ke =
+       10%, expected dividend is ` 2 per share and annual growth rate is 5% from
+       the following options:
+
+       (a) ` 40 per share
+       (b) ` 20 per share
+       (c) ` 30 per share
+       (d) ` 45 per share
+
+ANSWERS/SOLUTION
+
+Answers to the MCQs
+
+  1. (c) 2. (c) 3. (a) 4. (c) 5. (b) 6. (d)
+  7. (a) 8. (d) 9. (d) 10. (d)
+
+Answers to the Theoretical Questions
+
+1. Please refer paragraph 9
+2. Please refer paragraph 7.1 & 7.2
+3. Please refer paragraph 9.1
+4. Please refer paragraph 10
+5. Please refer paragraph 5.3.1
+6. Please refer paragraph 5.3.2
+
+© The Institute of Chartered Accountants of India
+            4.52        FINANCIAL MANAGEMENT
+
+Answers to the Practical Problems
+
+1. Market value of equity, E = 5,00,000 shares × `1.50 = `7,50,000
+
+Market value of debt, D = Nil
+
+Cost of equity capital, Ke =  D1                   =  `0.27   = 0.18
+                              P0                      `1.50
+
+Since there is no debt capital, WACC = Ke = 18 per cent.
+
+2. Calculation of Weighted Average Cost of Capital (WACC)
+
+         Source                                       (`) Weight        Cost of   WACC
+                                                                        Capital
+Equity Capital                                     65,00,000  0.619    after tax  0.1009
+                                                   12,00,000  0.114               0.0137
+12% Preference Capital                             20,00,000  0.190      0.163    0.020
+
+15%         Redeemable                                                   0.120
+
+Debentures                                                              0.105*
+
+10% Convertible                                    8,00,000   0.076 0.070** 0.0053
+Debentures
+                                                   1,05,00,000 1.0000             0.1399
+Total
+
+* Cost of 15% Redeemable Debentures (after tax) = 15 (1 ­ 0.30)
+
+                                                                       = 10.5% or0.105
+
+** Cost of 10% Convertible Debentures (after tax) = 10 (1 ­ 0.30)= 7% or 0.070
+
+Weighted Average Cost of Capital (WACC) = 0.1399 = 13.99%
+
+(Note: In the above solution, the Cost of Debentures has been computed
+without considering the impact of special features i.e. redeemability and
+convertibility in absence of requisite information.)
+
+3. (i) Cost of Equity Capital (Ke):
+
+     Ke  =  Expected dividend per share(D1)                   +Growth  rate(g)
+               Market price per share(P0)
+
+© The Institute of Chartered Accountants of India
+                        COST OF CAPITAL                                         4.53
+
+=  `  2×1.06  +0.06  =  0.1448                     or  14.48%
+      ` 25
+
+(ii) Cost of Debenture (Kd):
+       Using Present Value method (YTM)
+       Identification of relevant cash flows
+
+    Year      Cash flows
+       0      Current market price (P0) = ` 96
+              Interest net of tax [I(1-t)] = 10% of ` 100 (1 ­ 0.5) = ` 5
+   1 to 12    Redemption value (RV) = ` 100 (1.12) = ` 112
+      12
+
+Calculation of Net Present Values (NPV) at two discount rates
+
+    Year      Cash      Discount                          Present Discount Present
+            flows(`)    factor @                          Value(`) factor @ Value(`)
+       0
+   1 to 12     (96)       5%(L)                                          10% (H)
+                 5
+      12                  1.000                           (96.00) 1.000 (96.00)
+    NPV        112
+                          8.863                           44.32          6.814        34.07
+
+                          0.557                           62.38          0.319        35.73
+
+                                                          +10.7                       -26.2
+
+Calculation of IRR
+
+IRR = L+ NPVL (H-L)
+
+            NPVL -NPVH
+
+=  5%+ `10.7 (10%-5%)                                  =  5%+  `53.5  =  6.45%
+                                                               `36.9
+         `10.7-(`-26.2)
+
+Therefore, Kd = 6.45%
+
+4. (a) Pattern for raising the additional finance:
+
+Equity 70% of ` 10,00,000                              = ` 7,00,000
+Debt 30% of ` 10,00,000                                = ` 3,00,000
+
+© The Institute of Chartered Accountants of India
+       4.54                 FINANCIAL MANAGEMENT
+
+The capital structure after raising additional finance:
+
+                                                                          (`)
+
+Shareholders' funds
+
+Equity Capital                                     (`7,00,000­`2,10,000)  4,90,000
+Retained earnings                                                         2,10,000
+Debt (Interest at 10% p.a.)                                               1,80,000
+
+        (Interest at 16% p.a.) (`3,00,000­`1,80,000)                      1,20,000
+
+Total Funds                                                               10,00,000
+
+(b) Determination of post-tax average cost of additional debt:
+
+Kd = I (1 ­ t)
+Where,
+
+        I = Interest Rate
+
+        t = Corporate tax-rate
+
+        On ` 1,80,000 =10% (1 ­ 0.5)=5% or 0.05
+
+        On ` 1,20,000 =16% (1 ­ 0.5)=8% or 0.08
+
+Average Cost of Debt
+
+=  (`  1,80,  000  ×0.05)+(` 1,20,000×0.08)        ×100  =  6.2%
+                      ` 3,00,000
+
+(c) Determination of cost of retained earnings and cost of equity by
+       applying Dividend growth model:
+
+Ke  or  Kr  =  D1  +  g  =  D0(1+ g) + g
+               P0               P0
+
+Where,
+
+        D0 = Dividend paid = 50% of EPS = 50% × ` 4 = ` 2
+
+        g = Growth rate =10%
+
+        P0 = Current market price per share = `44
+
+© The Institute of Chartered Accountants of India
+                                  COST OF CAPITAL                                            4.55
+
+                           `  2  (1+0.10)          +  0.10  =  `     2.2  +0.10  =  0.05  +  0.10  =  0.15  or  15%
+           So, Ke or Kr =        ` 44                          `     44
+
+    (d) Computation of overall weighted average after tax cost of additional
+           finance:
+
+           Particulars                             Amount Weights Cost of Weighted
+
+                                                            (`)                     funds Cost (%)
+
+           Equity (including 7,00,000 0.70                                             15%              10.5
+
+           retained earnings)
+
+           Debt                                    3,00,000 0.30                       6.2%             1.86
+
+           WACC                                    10,00,000                                            12.36
+
+5.  (i)    Cost of Equity (Ke) =   D1 +g                    =  `    `15   `  5  +0.06  *
+                                  P0 -F                           125-
+
+           Ke = 0.125 + 0.06 = 0.185
+
+           *Calculation of g:
+
+           ` 10.6(1+g)5 = ` 14.19
+           Or, (1+g)5= 14.19 =1.338
+
+                            10.6
+
+           Table (FVIF) suggests that `1 compounds to `1.338 in 5 years at the
+           compound rate of 6 percent. Therefore, g is 6 per cent.
+
+    (ii)   Cost of Retained Earnings (Kr) =                    D1 + g     =  ` 15   +0.06    = 0.18
+                                                               P0            ` 125
+
+    (iii)  Cost of Preference Shares (Kp) =                      PD  =    ` 15      = 0.1429
+                                                                 P0       ` 105
+
+                                                      I(1-  t)+   RV  - NP   
+                                                                      n      
+    (iv)   Cost  of  Debentures   (Kd)             =
+                                                            RV +NP
+
+                                                                  2
+
+                                                   `  15(1-    0.35)+        `  100- ` 91.75       *  
+                                                                                   11years            
+                                  =                                                                   
+
+                                                                  ` 100+ ` 91.75 *
+
+                                                                             2
+
+© The Institute of Chartered Accountants of India
+       4.56              FINANCIAL MANAGEMENT
+
+                         =                         ` 15 × 0.65 + ` 0.75  =   ` 10.5   = 0.1095
+                                                         ` 95.875           ` 95.875
+
+*Since yield on similar type of debentures is 16 per cent, the company
+would be required to offer debentures at discount.
+
+Market price of debentures (approximation method)
+
+= ` 15 ÷ 0.16 = ` 93.75
+
+Sale proceeds from debentures = `93.75 ­ ` 2 (i.e., floatation cost) = `91.75
+
+Market value (P0) of debentures can also be found out using the present
+value method:
+
+P0 = Annual Interest × PVIFA (16%, 11 years) + Redemption value × PVIF
+(16%, 11 years)
+P0 = `15 × 5.029 + `100 × 0.195
+P0 = `75.435 + `19.5 = ` 94.935
+Net Proceeds = `94.935 ­ 2% of `100 = ` 92.935
+Accordingly, the cost of debt can be calculated
+
+       Total Cost of capital [BV weights and MV weights]
+                                                          (Amount in (`) lakh)
+
+Source of capital    Weights                       Specific                     Total cost
+                   BV MV                           Cost (K)              (BV × K) (MV × K)
+
+Equity Shares      120   160*                      0.1850                22.2         29.6
+                          40*                      0.1800                 5.4          7.2
+Retained Earnings 30     33.75                     0.1429                5.14         4.82
+                         10.4                      0.1095                0.986        1.139
+Preference Shares 36
+
+Debentures         9
+
+Total              195 244.15                                            33.73        42.76
+
+*Market Value of equity has been apportioned in the ratio of Book Value of
+equity and retained earnings i.e., 120:30 or 4:1.
+
+© The Institute of Chartered Accountants of India
+                             COST OF CAPITAL                                        4.57
+
+Weighted Average Cost of Capital (WACC):
+
+Using Book Value =        ` 33.73  =               0.1729  or  17.29%
+                           ` 195
+
+Using Market Value =      ` 42.76                  =   0.1751  or  17.51%
+                          ` 244.15
+
+6. Workings:
+
+                                          Interest
+(a) Value of Debt = Cost of debt (Kd)
+
+                          =  ` 7,50,000                =  93,75,000
+                                 0.08
+
+(b)  Value of equity capital =                         Operating profit ­ Interest
+                                                           Cost of equity (Ke )
+
+                                                   =   ` 34,50,000 - ` 7,50,000  =  1,68,75,000
+                                                                   0.16
+
+(c) New Cost of equity (Ke) after proposal
+
+     =  Increased Operating profit ­ Interest on Increased debt
+                                  Equity capital
+
+     =  (` 34,50,000 + ` 14,25,000) ­ (` 7,50,000 + ` 6,00,000)
+                                   ` 1,68,75,000
+
+     =  ` 48,75,000 ­ ` 13,50,000
+                ` 1,68,75,000
+
+     =  ` 35,25,000       =  0.209                 or  20.9%
+        ` 1, 68, 75, 000
+
+(i) Calculation of Weighted Average Cost of Capital (WACC) before the
+       new proposal
+
+        Sources              ()                        Weight      Cost of Capital          WACC
+                                                       0.6429             0.160             0.1029
+        Equity 1,68,75,000                             0.3571             0.080             0.0286
+                                                                                          0.1315 or
+        Debt        93,75,000                              1                               13.15 %
+
+        Total 2,62,50,000
+
+© The Institute of Chartered Accountants of India
+    4.58               FINANCIAL MANAGEMENT
+
+(ii) Calculation of Weighted Average Cost of Capital (WACC) after the
+       new proposal
+
+    Sources                                        () Weight Cost of Capital WACC
+
+    Equity     1,68,75,000 0.5000                     0.209  0.1045
+
+    Debt       1,68,75,000 0.5000                     0.080  0.0400
+
+    Total      3,37,50,000                         1         0.1445 or
+                                                              14.45 %
+
+7. (i) Calculation of Cost of Convertible Debentures:
+
+Given that,
+
+RF = 10%
+
+Rm ­ Rf = 18%
+
+ = 1.25
+
+D0 = 12.76
+
+D5 = ` 10
+
+Flotation Cost = 5%
+
+Using CAPM,
+
+Ke = Rf +  (Rm ­ Rf)
+
+       = 10%+1.25 (18%)
+
+       = 32.50%
+
+Calculation of growth rate in dividend
+
+12.76        = 10 (1+g)5
+
+1.276        = (1+g)5
+
+(1+5%)5 = 1.276 .............. from FV Table
+
+       g = 5%
+
+Price of share after 6 years = D 7 = 12.76(1.05)7
+                                        ke - g 0.325 - 0.05
+
+P6     = 12.76×1.407
+               0.275
+
+© The Institute of Chartered Accountants of India
+                                  COST OF CAPITAL                         4.59
+
+P6 = 65.28
+
+Redemption Value of Debenture (RV) = 65.28 × 2 = 130.56 (RV)
+
+NP = 95
+
+n          =6
+
+              INT(1­  t)  +    RV  ­               NP 
+                                   n                   
+Kd         =                                             ×100
+               (RV ­ NP)
+
+                          2
+
+              15 (1- 0.4) + (130.56 - 95)
+                              6
+           =   (130.56 + 95)                             ×100
+
+                               2
+
+           = 9+5.93 ×100
+              112.78
+
+    Kd = 13.24%
+
+(ii) Calculation of Cost of Preference Shares:
+
+   Net Proceeds = 100 (1.1) - 6% of 100 (1.1)
+
+                          = 110 - 6.60
+
+                          = 103.40
+
+   Redemption Value = 100
+
+    Year Cash Flows PVF @                                      PV (`) PVF @ PV (`)
+                          (`) 3%                                              5%
+
+       0       103.40                                    1 103.40  1 103.40
+
+    1-10                  -5 8.530 -42.65 7.722 -38.61
+
+       10             -100 0.744 -74.40 0.614 -61.40
+
+                                                         -13.65           3.39
+
+   Kp      = 3% + 5% - 3% X -13.65= 3% + 2% ×13.65
+               [(-13.65)- 3.39]                                    17.04
+
+   Kp = 4.6021%
+
+© The Institute of Chartered Accountants of India
+       4.60                     FINANCIAL MANAGEMENT
+
+Answers to the Case Scenarios
+
+1.
+
+i.     (b) ii. (c) iii. (a) iv. (a) v.                                               (a)
+
+Working Notes:
+
+          D1 + g
+Ke = P0
+
+    = 2/20 + 0.05 = 15%
+
+       PD+ (RV-NP)              =  + -.
+              n
+Kp  =                                    +.                   = 10.57%
+       (RV+NP)
+
+                  2
+
+       I(1-  t)+     (RV -NP )  = = 5.48% (-.)+(-.)
+                                               (+.)
+Kd  =                    n                              
+             (RV+NP)
+
+                     2
+
+Calculation of WACC using market value weights
+
+Source of capital               Market Weights                After tax  WACC (Ko)
+                                 Value                         cost of
+                                                               capital       (c) =
+                                                   (`) (a)                 (a)×(b)
+                                                                  (b)       0.0092
+Debentures (` 105 2,88,750                            0.1672                0.0146
+per debenture)                                        0.1381   0.0548
+                                                                            0.1042
+Preference shares 2,38,500                            0.6947   0.1057        0.128
+(` 106 per preference                                  1.00
+share)                                                         0.1500
+
+Equity shares (` 24) 12,00,000
+
+                               17,27,250
+
+WACC (Ko)               = 12.8%
+
+Current Market Price    =         D1               =       2       = ` 40 per share
+                                Ke - g                0.10 - 0.05
+
+© The Institute of Chartered Accountants of India
+

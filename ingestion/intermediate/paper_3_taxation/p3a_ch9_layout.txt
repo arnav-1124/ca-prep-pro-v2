@@ -1,0 +1,3905 @@
+CHAPTER  a  9
+
+INCOME TAX
+LIABILITY -
+COMPUTATION AND
+OPTIMISATION
+
+                                   LEARNING OUTCOMES
+
+After studying this chapter, you would be able to­
+
+ compute the tax liability of an individual under the default tax regime
+       under section 115BAC;
+
+ compute the tax liability of an individual as per the regular provisions
+       of the Income-tax Act, 1961;
+
+ examine the applicability of the provisions of Alternate Minimum Tax
+       (AMT), if applicable and compute the tax liability applying such
+       provisions and determine the tax credit, if any, to be carried forward;
+
+ compare the tax liability computed under the default tax regime under
+       section 115BAC with the tax liability under the regular provisions of the
+       Act (including provisions relating to AMT, if applicable) and determine
+       which is more beneficial to the individual.
+
+© The Institute of Chartered Accountants of India
+a         9.2             INCOME TAX LAW
+
+CHAPTER OVERVIEW
+
+                           COMPUTATION OF TOTAL INCOME
+
+               Determination of residential status
+
+               Classification of Income under
+                              5 heads
+
+Salaries   Income from    Profits and gains        Capital          Income from
+          house property   of business or           gains           other sources
+                              profession
+
+                Compute income under each head applying the
+               charging & deeming provisions and providing for
+                permissible deductions/exemptions thereunder
+
+                          Apply the clubbing provisions
+
+                               Set-off/carry forward and
+                set-off of losses as per the provisions of the Act
+
+                          Compute Gross Total Income (GTI)
+
+                 Less: Deductions from Gross Total Income
+
+                                  Total Income (TI)
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                      9.3                       a
+                              AND OPTIMISATION
+
+1. MEANING OF TOTAL INCOME
+
+The total income of an individual is arrived at after making deductions under
+Chapter VI-A from the Gross Total Income. As we have learnt earlier, Gross Total
+Income is the aggregate of the income computed under the 5 heads of income,
+after giving effect to the provisions for clubbing of income and set-off and carry
+forward & set-off of losses.
+
+2. INCOME TO                                       BE CONSIDERED WHILE
+      COMPUTING
+      INDIVIDUALS                                  TOTAL  INCOME                       OF
+
+ Capacity in which   Treatment of income earned in each capacity
+income is earned by
+
+     an individual
+
+(1) In his personal Income from salaries, Income from house property,
+
+capacity (under the 5 Profits and gains of business or profession, Capital
+
+heads of income)     gains and Income from other sources.
+
+(2) As a partner of a (i) Salary, bonus etc. received by a partner is
+
+firm/LLP                                           taxable as his business income.
+
+                     (ii) Interest on capital and/or loans to the
+                            firm/LLP is taxable as business income of the
+                            partner.
+
+                     The income mentioned in (i) and (ii) above are
+                     taxable to the extent they are allowed as
+                     deduction to the firm.
+
+                     (iii) Share of profit in the firm is exempt in the
+                            hands of the partner [Section 10(2A)]. The
+                            profit credited to the partners' accounts in the
+                            firm would be exempt from tax in the hands
+                            of such partners, even if the income
+                            chargeable to tax becomes Nil in the hands of
+                            the firm on account of any exemption or
+                            deduction available under the provisions of
+                            the Act [Circular No. 8/2014 dated
+                            31.03.2014].
+
+© The Institute of Chartered Accountants of India
+a  9.4                  INCOME TAX LAW
+
+(3) As a member of HUF  (i) Share of income of HUF is exempt in the
+                               hands of the member [Section 10(2)].
+
+                        (ii) Income from an impartible estate of HUF is
+                               taxable in the hands of the holder of the
+                               estate who is the eldest member of the HUF.
+
+                        (iii) Income from self-acquired property
+                               converted into joint family property, without
+                               adequate consideration.
+
+(4) Income of other (i)                            Transferee's income, where there is a
+                                                   transfer of income without transfer of assets
+      persons included in
+                                                   Income arising to transferee from a
+      the income of the (ii)                       revocable transfer of an asset.
+      individual
+
+                        In cases (i) and (ii), income is includible in the
+                        hands of the transferor.
+
+                        (iii) Income of spouse as mentioned in section
+                               64(1)(ii)/(iv)
+
+                        (iv) Income from assets transferred otherwise
+                               than for adequate consideration to any
+                               person for the benefit of spouse [Section
+                               64(1)(vii)].
+
+                        (v) Income from assets transferred otherwise
+                               than for adequate consideration to son's
+                               wife or to any person for the benefit of son's
+                               wife [Section 64(1)(vi)/(viii)].
+
+                        (vi) Income of minor child as mentioned in
+                               section 64(1A).
+
+    3. COMPUTATION OF TOTAL INCOME AND TAX
+          PAYABLE BY AN INDIVIDUAL
+
+Income-tax is levied on an assessee's total income. Such total income has to be
+computed as per the provisions contained in the Income-tax Act, 1961. Steps 1 to
+8 given hereunder have to be followed for computing total income of an
+individual assessee. Thereafter, steps 9 to 15 have to be followed for computing
+the tax payable.
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                     9.5  a
+                              AND OPTIMISATION
+
+Step 1 ­ Determination of residential status
+
+ The residential status of an individual has to be determined to ascertain
+       which income is to be included in computing the total income.
+
+ In the case of an individual, the duration for which he is present in
+       India in the relevant previous year or relevant previous year and the
+       earlier previous years, as the case may be, determine his residential
+       status.
+
+ An individual can be either a ­
+
+- Resident and ordinarily resident
+
+- Resident but not ordinarily resident
+
+- Non-resident
+
+ An individual who is a citizen of India, having total income, other than the
+       income from foreign sources, exceeding ` 15 lakh during the previous year,
+       would be deemed resident in India in that previous year, if he is not liable to
+       tax in any other country or territory by reason of his domicile or residence or
+       any other criteria of similar nature. Such deemed resident would, by default,
+       be a resident but not ordinarily resident in India in that previous year.
+
+ The residential status of an individual determines the scope of his taxable
+       income.
+
+ For example, income which accrues outside India and is received outside
+       India is taxable in the hands of a resident and ordinarily resident but is not
+       taxable in the case of a non-resident. In the case of a resident but not
+       ordinarily resident, such income would be taxable only if it is derived from a
+       business controlled in India or profession set up in India.
+
+Step 2 ­ Classification of income under different heads
+
+ An individual may earn income from different sources. Under the Income-
+       tax Act, 1961, for computation of total income, all income of an individual
+       assessee can be classified into five different heads of income.
+
+ There are five heads of income, namely, -
+
+- Salaries,
+
+- Income from house property,
+
+© The Institute of Chartered Accountants of India
+a  9.6  INCOME TAX LAW
+
+       - Profits and gains of business or profession
+
+       - Capital Gains
+
+       - Income from other sources
+
+ The income of an assessee should be identified and grouped under the
+       respective head of income.
+
+ Each head of income has a charging section (for example, section 15 for
+       salaries, section 22 for income from house property).
+
+ Deeming provisions are also contained under certain heads, by which
+       specific items are sought to be taxed under those heads.
+
+       For example, unrealized rent and arrears of rent from house property would
+       be deemed to be income from house property in the hands of the recipient
+       individual even if he is not the owner of the house property at the time of
+       receipt of such amount.
+
+ The charging section and the deeming provisions would help you to
+       determine the scope of income chargeable under a particular head.
+
+Step 3 ­ Computation of income under each head
+
+ Income is to be computed in accordance with the provisions governing a
+       particular head of income.
+
+ Assess the income under each head by -
+
+       - applying the charging and deeming provisions,
+
+       - excluding items of income relating to that head in respect of which
+               specific exemptions are provided in section 10.
+
+               There are certain incomes which are wholly exempt from income-tax.
+               These incomes have to be excluded and will not form part of Gross
+               Total Income. For e.g. agricultural income which is exempt under both
+               the tax regimes.
+
+               Also, some incomes are partially exempt from income-tax. These
+               incomes are excluded while computing income under the relevant
+               head only to the extent of the limits specified in the Act. For e.g. House
+               Rent Allowance, Children Education Allowance are exempt upto
+               prescribed limits under the optional tax regime as per normal provisions
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                     9.7  a
+                              AND OPTIMISATION
+
+of the Act. However, there is no exemption for these allowances under
+the default tax regime under section 115BAC.
+
+- allowing the permissible deductions under that head, and
+
+For example, while calculating income from house property of a
+rented house property, municipal taxes paid by the owner and interest
+on loan are allowed as deduction. Standard deduction of upto
+` 50,000 (under optional regime) and ` 75,000 (under default regime)
+is allowed under salaries. Similarly, deductions and allowances are
+prescribed under other heads of income.
+
+- disallowing the non-permissible deductions.
+
+For example, while computing income under the head "Profits and
+gains from business or profession" expenditure of personal nature and
+expenditure which is in the nature of offence are not allowable as
+deduction. Hence, such expenditure, if any, debited to profits and loss
+account, has to be added back while computing income under this
+head.
+
+Likewise, while computing net consideration for capital gains,
+brokerage is a permissible deduction from gross sale consideration
+but securities transaction tax paid is not permissible.
+
+ In this step, it is necessary to consider whether the individual is paying tax
+       under the default tax regime or exercising the option to shift out of the
+       default tax regime and pay tax under the optional tax regime as per the
+       normal provisions of the Act. Certain deductions which are allowable under
+       the normal provisions of the Act are not permissible under the default tax
+       regime, for example, additional depreciation, investment linked tax
+       deduction under section 35AD, contribution to scientific research
+       association, national laboratory, IIT etc. However, expenditure on in-house
+       scientific research related to the business of the assessee is allowable as
+       deduction under both the tax regimes.
+
+Step 4 ­ Clubbing of income of spouse, minor child etc.
+
+ An individual in a higher tax bracket may have a tendency to divert his
+       income to another person who is not subject to tax or who is in a lower tax
+       bracket.
+
+© The Institute of Chartered Accountants of India
+a  9.8  INCOME TAX LAW
+
+       For example, an individual may make a fixed deposit in the name of his
+       minor son, so that income from such deposit would accrue to his son, who
+       does not have any other income.
+
+ In order to prevent evasion of income-tax by such means, clubbing
+       provisions have been incorporated in the Income-tax Act, 1961, under which
+       income arising to certain persons (like spouse, son's wife etc.) have to be
+       included in the income of the person who has diverted his income to such
+       persons for the purpose of computing tax liability.
+
+       Further, income of a minor child, not being a minor child suffering from any
+       disability of the nature specified in section 80U (other than income derived
+       from exercise of special skills/talent or manual work done by him) is
+       includible in the hands of the parent whose total income is higher before
+       including minor's income. Such income will be included in the hands of the
+       parent and if that parent has exercised the option to shift out of the default
+       tax regime and pays tax under normal provisions of the Act, exemption of
+       up to ` 1,500 under section 10(32) would be provided from that income.
+
+Step 5 ­ Set-off or carry forward and set-off of losses
+
+An individual may have different sources of income under the same head of
+income. He may have profit from one source and loss from the other. Similarly, he
+can have loss under one head of income and profits under another head of
+income. There are provisions in the Act for allowing inter-source and inter-head
+adjustment.
+
+ Inter-source set-off of losses
+
+       - A person may have income from one source and loss from another
+               source under the same head of income. For instance, a person may
+               have profit from wholesale trade of merchandise and loss from the
+               business of plying vehicles.
+
+               The loss of one business can be set-off against the profits of another
+               business to arrive at the net income under the head "Profits and gains
+               of business or profession". However, loss from speculation business
+               can be set-off only against profits from speculation business and not
+               any other business.
+
+       - Set-off of loss from one source against income from another source
+               within the same head of income is permissible, subject to certain
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a               9.9  a
+                              AND OPTIMISATION
+
+exceptions, like long-term capital loss cannot be set-off against short-
+term capital gains though short-term capital loss can be set-off
+against long-term capital gains.
+
+ Inter-head set-off of losses
+
+- Likewise, set-off of loss from one head against income from another
+       head is also permissible, subject to certain exceptions, like business
+       loss cannot be set-off against salary income; loss under the head
+       "Capital Gains" cannot be set-off against any other head of income.
+
+- Loss from house property cannot be set-off against any other head of
+       income, if the individual pays tax under the default tax regime under
+       section 115BAC.
+
+If the individual exercises the option to shift out of the default tax
+regime and pays tax under normal provisions of the Act, loss from
+house property can be set-off against income under any other head
+only to the extent of ` 2 lakhs. The remaining loss from house
+property has to be carried forward to the subsequent year to be set-
+off against income from house property in that year.
+
+ Carry forward and set-off of losses
+
+- Unabsorbed losses of the current year can be carried forward to the
+       next year for set-off only against the respective head of income.
+
+- Here again, if there are any restrictions relating to inter-source set-off,
+       the same will apply, like long-term capital loss which is carried forward
+       can be set-off only against long-term capital gains and not short-term
+       capital gains of a later year.
+
+- The maximum number of years up to which any particular loss can be
+       carried forward is also provided under the Act.
+
+For example, business loss can be carried forward for a maximum of 8
+assessment years to be set-off against business income. However, loss
+from specified business referred to in section 35AD can be carried
+forward indefinitely for set-off against profits of any specified
+business.
+
+© The Institute of Chartered Accountants of India
+a    9.10            INCOME TAX LAW
+
+It must be noted that loss from an exempt source cannot be set-off against
+profits from a taxable source of income.
+
+Example: Share of loss from a partnership firm cannot be set-off against sole
+proprietary business income of the partner, since share of income of the firm is
+
+exempt under section 10(2A).
+
+Step 6 ­ Computation of Gross Total Income
+
+ The income computed under each head, after giving effect to the clubbing
+       provisions and provisions for set-off and carry forward and set-off of losses,
+       have to be aggregated to arrive at the gross total income.
+
+ The process of computing GTI is depicted hereunder -
+
+Add         income   Apply                          Apply the provisions for
+                     clubbing                            set-off and carry forward
+computed under       provisions                          of losses
+
+each head
+
+Step 7 ­ Deductions from Gross Total Income
+
+Certain deductions are allowable from gross total income to arrive at the total
+income. These deductions are contained in Chapter VI-A. These deductions are
+allowable if the individual exercises the option to shift out of the default tax
+regime and pay tax under normal provisions of the Act, subject to satisfaction of
+the conditions prescribed in the relevant sections.
+
+ Deduction in respect of certain payments, for example,
+
+   Section                         Nature of Payment/Deposit
+     80C
+            Payment of life insurance premium, tuition fees of children,
+            deposit in public provident fund, repayment of housing loan
+            etc.
+
+   80D Medical insurance premium paid by an individual/HUF for the
+              specified persons/ contribution to CGHS etc.
+
+     80E Payment of interest on educational loan taken for self or
+                relative
+
+ Deduction in respect of certain incomes, for example,
+
+   Section                                         Nature of Income
+
+   80QQB Royalty income of authors of certain books other than text books
+
+   80RRB Royalty on patents
+
+© The Institute of Chartered Accountants of India
+          INCOME TAX LIABILITY ­ COMPUTATION a              9.11  a
+                                        AND OPTIMISATION
+
+ Deduction in respect of other incomes
+
+Section                                Nature of Income
+ 80TTA   Interest on savings account with a bank, co-operative society
+         and post office.
+
+80TTB Interest on deposit with a bank, co-operative society and post
+             office in case of senior citizens
+
+ Other Deductions
+
+Deduction under section 80U in case of a person with disability
+
+In addition, deduction is also allowable under section 10AA in respect of an
+assessee who derives profits and gains from an undertaking which manufactures
+or produces articles or things or provides any service in any SEZ on or before
+31.3.2021 if the individual exercises the option to shift out of the default tax
+regime and pay tax under normal provisions of the Act.
+
+There are limits in respect of deduction under certain sections. The
+payments/incomes are allowable as deduction subject to such limits. For example,
+the maximum deduction under section 80RRB is ` 3 lakhs; under section 80TTA is
+` 10,000 and under section 80TTB is ` 50,000.
+
+Note - Deduction under section 80CCD(2) [Employer's contribution to pension
+scheme of Central Government], section 80CCH(2) [Central Government's
+contribution to assessee's account in Agniveer Corpus Fund] and section 80JJAA
+would be available even if the eligible assessee pays tax at concessional rates of tax
+u/s 115BAC under the default tax regime.
+
+Step 8 ­ Computation of Total income
+
+ The gross total income as reduced by the above deductions under Chapter
+       VI-A and section 10AA is the total income.
+
+Total income = GTI ­ Deductions under Chapter VI-A and section 10AA
+
+ It should be rounded off to the nearest multiple of ` 10.
+
+ Tax is calculated on the total income of the assessee.
+
+© The Institute of Chartered Accountants of India
+a  9.12  INCOME TAX LAW
+
+Step 9 ­ Application of the rates of tax on the total income in case of an
+individual
+
+ Concessional tax rates under default tax regime under section 115BAC
+       of the Income-tax Act, 1961
+
+       For individuals, there is a slab rate and basic exemption limit. At present, the
+       basic exemption limit is ` 4,00,000 under the default tax regime. The rates of
+       tax and level of total income are as under ­
+
+                         Total income (in `)       Rate of Tax
+   (i) Upto ` 4,00,000                                   NIL
+   (ii) From ` 4,00,001 to ` 8,00,000                    5%
+   (iii) From ` 8,00,001 to ` 12,00,000                 10%
+   (iv) From ` 12,00,001 to ` 16,00,000                 15%
+   (v) From ` 16,00,001 to ` 20,00,000                  20%
+   (vi) From ` 20,00,001 to ` 24,00,000                 25%
+   (vii) Above ` 24,00,000                              30%
+
+ Tax rates prescribed by the Annual Finance Act under the optional tax
+       regime (regular provisions of the Act)
+
+       The slab rates for A.Y. 2026-27 applicable to Individual under normal
+       provisions of the Act are as follows:
+
+                             Total income (in `)                Rate of
+                                                                  Tax
+(i) Upto ` 2,50,000 (below 60 years)                               Nil
+(ii) Upto ` 3,00,000 (60 years or above but less than 80 years
+                                                                   5%
+     and resident in India)
+(iii) Upto ` 5,00,000 (above 80 years and resident in India)      20%
+` 2,50,001/ ` 3,00,001, as the case may be, to ` 5,00,000 [in     30%
+cases (i) and (ii) above, respectively]
+` 5,00,001 to ` 10,00,000
+Above ` 10,00,000
+
+ The rates of tax have to be applied on the total income to compute the tax
+       liability.
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                     9.13  a
+                              AND OPTIMISATION
+
+ Rates of tax in respect of certain incomes are provided under the Income-
+       tax Act, 1961 itself. Slab rates are not applicable under both the tax regimes
+       in respect of such incomes. For instance, the rates of tax for long term
+       capital gains on certain assets, long term capital gain on other assets,
+       certain short term capital gains, winnings from lotteries, crossword puzzles,
+
+races and winnings from online games etc. are prescribed in sections 112A,
+
+112, 111A, 115BB and 115BBJ, respectively.
+
+ The special rates of tax have to be applied on the respective component of
+       total income and the general slab rates have to be applied on the balance
+       of total income as per the tax regime in which he pays tax.
+
+ The unexhausted basic exemption limit can, however, be adjusted against
+       long-term capital gains taxable under section 112/112A and short-term
+       capital gains taxable under section 111A in case of resident individual in
+       both the tax regime.
+
+Step 10 ­ Surcharge/ Rebate under section 87A
+
+Surcharge: Surcharge is an additional tax payable over and above the income-
+tax. Surcharge is levied as a percentage of income-tax.
+
+In case the assessee pays tax under default tax regime under section 115BAC
+
+The rates of surcharge applicable for A.Y.2026-27, in case the individual assessee
+pays tax under default regime under section 115BAC, are as follows:
+
+                   Particulars                           Rate of surcharge
+                                                           on income-tax
+
+(i) Where the total income (including dividend income          10%
+
+and capital gains chargeable to tax u/s 111A, 112
+
+and 112A) >` 50 lakhs but  ` 1 crore
+
+(ii) Where total income (including dividend income and         15%
+
+capital gains chargeable to tax u/s 111A, 112 and
+
+112A) > ` 1 crore but  ` 2 crore
+
+(iii) Where total income (excluding dividend income and        25%
+
+capital gains chargeable to tax u/s 111A, 112 and
+
+112A) > ` 2 crore
+
+The rate of surcharge on the income-tax payable on       Not exceeding
+the portion of dividend income and capital gains                15%
+chargeable to tax u/s 111A, 112 and 112A included
+in total income
+
+© The Institute of Chartered Accountants of India
+a         9.14           INCOME TAX LAW
+
+(iv) Where total income (including dividend income and          15%
+
+   capital gains chargeable to tax u/s 111A, 112 and
+
+   112A) > ` 2 crore in cases not covered under (iii)
+
+   above
+
+In case the assessee exercises the option to shift out of the default regime
+
+The rates of surcharge applicable for A.Y.2026-27, in case the individual assessee
+exercises the option to shift out of the default regime, are as follows:
+
+                         Particulars                                Rate of
+                                                                surcharge on
+                                                                 income-tax
+
+(i) Where the total income (including dividend income and       10%
+
+   capital gains chargeable to tax u/s 111A, 112 and 112A) >
+
+   ` 50 lakhs but  ` 1 crore
+
+(ii) Where total income (including dividend income and capital  15%
+
+   gains chargeable to tax u/s 111A, 112 and 112A) > ` 1
+
+   crore but  ` 2 crore
+
+(iii) Where total income (excluding dividend income and         25%
+
+   capital gains chargeable to tax u/s 111A, 112 and 112A) >
+
+   ` 2 crore but  ` 5 crore
+
+   The rate of surcharge on the income-tax payable on the           Not
+   portion of dividend income and capital gains chargeable to   exceeding
+   tax u/s 111A, 112 and 112A included in total income
+                                                                    15%
+
+(iv) Where total income (excluding dividend income and          37%
+
+   capital gains chargeable to tax u/s 111A, 112 and 112A) >
+
+   ` 5 crore
+
+   The rate of surcharge on the income-tax payable on the           Not
+   portion of dividend income and capital gains chargeable to   exceeding
+   tax u/s 111A, 112 and 112A included in total income
+                                                                    15%
+
+(v) Where total income (including dividend income and capital   15%
+
+   gains chargeable to tax u/s 111A, 112 and 112A) > ` 2
+
+   crore in cases not covered under (iii) and (iv) above
+
+Marginal relief would also be available under both the tax regimes to ensure that
+the increase in amount of tax payable (including surcharge) due to increase in
+total income of an assessee beyond the prescribed limit should not exceed the
+amount of increase in total income.
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                     9.15  a
+                              AND OPTIMISATION
+
+Rebate under section 87A: Section 87A provides a rebate from the tax payable
+by an assessee, being an individual resident in India.
+
+Rebate to resident individual paying tax under default regime u/s 115BAC
+
+(i) If the total income of the resident individual is chargeable to tax under
+       section 115BAC and the total income of such individual does not exceed
+       ` 12,00,000, the rebate shall be equal to the amount of income-tax payable
+       on his total income for any assessment year or an amount of ` 60,000,
+       whichever is less.
+
+(ii) If the total income of the resident individual is chargeable to tax under
+       section 115BAC and the total income of such individual exceeds
+       ` 12,00,000 and income-tax payable on such total income exceeds the
+       amount by which the total income is in excess of ` 12,00,000, the rebate
+       would be as follows.
+
+       Step 1 ­ Total income (-) ` 12 lakhs (A)
+       Step 2 - Compute income-tax payable on total income (B)
+       Step 3 - If B>A, rebate under section 87A would be a B ­ A.
+In both the above situations, rebate shall not exceed the amount of income-tax
+computed as per the rates provided in section 115BAC.
+
+Rebate to resident individual paying tax under optional tax regime (normal
+provisions of the Act
+
+If total income of such individual does not exceed ` 5,00,000, the rebate shall be
+equal to the amount of income-tax payable on the total income for any
+assessment year or an amount of ` 12,500, whichever is less.
+
+However, rebate under section 87A is not available in respect of tax payable on
+long-term capital gains taxable under section 112A.
+
+Step 11 ­ Health and Education cess (HEC) on Income-tax
+
+The amount of income-tax as increased by the union surcharge, if applicable,
+should be further increased by an additional surcharge called the "Health and
+Education cess on income-tax", calculated at the rate of 4% of such income-tax
+and surcharge, if applicable. Health and education cess is leviable in the case of
+all assessees i.e. individuals, HUF, AOP/BOI, firms, local authorities, co-operative
+societies and companies.
+
+© The Institute of Chartered Accountants of India
+a             9.16  INCOME TAX LAW
+
+It is leviable to fulfill the commitment of the Government to provide and finance
+quality health services and universalised quality basic education and secondary
+and higher education
+
+Total Tax = Tax on total (+)              Surcharge, at      (+) HEC@
+                                       applicable rates, if            4%
+Liability of        income at
+                                         total income >
+an individual applicable rates              ` 50 lakhs,
+
+                                       or
+
+                                (-)    Rebate u/s 87A
+
+Step 12 ­ Alternate Minimum Tax (AMT)
+
+The Income-tax Act, 1961 contains profit-linked and investment-linked
+deductions in order to encourage investment in various industries and
+infrastructure facilities. Taxpayers who exercise the option to shift out of the
+default tax regime under section 115BAC and are eligible to claim such
+deductions end up paying no income-tax or marginal income-tax though they are
+capable of paying higher taxes. It has to be kept in mind that our Government
+also needs regular/consistent inflow of tax, which is one of its major source of
+revenue, to fund various expenses for the welfare of the country. Hence, in order
+to ensure payment of reasonable tax by such zero-tax paying/marginal-tax paying
+entities, the concept of alternate minimum tax has been introduced in the
+Income-tax Act, 1961.
+
+Chapter XII-BA contains special provisions for levy of alternate minimum tax in
+case of persons other than a company1. Any person other than a company, who
+has claimed deduction under any section (other than section 80P) included in
+Chapter VI-A under the heading "C ­ Deductions in respect of certain incomes" or
+under section 10AA or investment-linked deduction under section 35AD would be
+subject to AMT [Section 115JEE(1)].
+
+The provisions of AMT would, however, not be applicable to an individual, HUF,
+AOPs, BOIs, whether incorporated or not, or artificial juridical person, if the
+adjusted total income of such person does not exceed ` 20 lakh [Section
+115JEE(2)].
+
+1 Since in respect of companies, minimum alternate tax (MAT) provisions are applicable, which will be
+dealt with at the Final level.
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a               9.17  a
+                              AND OPTIMISATION
+
+Individual/ HUF/ AoP/ BoI and artificial juridical person, paying tax under default
+tax regime under section 115BAC, are also not liable to alternate minimum tax
+under section 115JC.
+
+Note - At intermediate level, since profit-linked deductions provided under section
+80-IA to 80-IE, section 80JJA, 80LA, 80M and 80P have been excluded from the
+scope of syllabus by way of Study Guidelines and computation of total income and
+tax liability is restricted to individual assessees only, the discussion in relation to
+AMT in this chapter is limited with respect to deduction under section 10AA, section
+35AD and deduction under section 80JJAA, 80QQB & 80RRB only.
+
+Accordingly, where the regular income-tax payable by a person for a previous
+year computed as per the normal provisions of the Income-tax Act, 1961 is less
+than the AMT payable for such previous year, the adjusted total income shall be
+deemed to be the total income of the person. Such person shall be liable to pay
+income-tax on the adjusted total income @18.5% plus surcharge, if applicable,
+and HEC @4% [Section 115JC].
+
+"Adjusted total income" would mean the total income before giving effect to
+Chapter XII-BA as increased by
+
+(i) the deductions claimed, if any, under section 10AA;
+
+(ii) the deduction claimed under section 35AD, as reduced by the depreciation
+       allowable under section 32, as if no deduction under section 35AD was
+       allowed in respect of the asset for which such deduction is claimed; and
+
+(iii) deduction under any section included in Chapter VI-A under the heading C-
+       Deductions in respect of certain incomes [For Intermediate level, the
+       relevant sections are 80JJAA, 80QQB & 80RRB].
+
+Tax credit for AMT [Section 115JD]
+
+Tax credit is the excess of AMT paid over the regular income-tax payable under
+the provisions of the Income-tax Act, 1961 for the year. Such tax credit shall be
+carried forward and set-off against income-tax payable in the later year to the
+extent of excess of regular income-tax payable under normal the provisions of the
+Act over the AMT payable in that year. The balance tax credit, if any, shall be
+carried forward to the next year for set-off in that year in a similar manner.
+
+© The Institute of Chartered Accountants of India
+a  9.18  INCOME TAX LAW
+
+AMT credit can be carried forward for set-off upto a maximum period of 15
+assessment years succeeding the assessment year in which the credit becomes
+allowable.
+
+Tax Credit allowable even if Adjusted Total Income does not exceed ` 20 lakh in
+the year of set-off [Section 115JEE(3)]
+
+In case where the assessee has not claimed any deduction under section 10AA or
+section 35AD or deduction under section 80JJAA, 80QQB & 80RRB in any previous
+year and the adjusted total income of that year does not exceed ` 20 lakh, it
+would still be entitled to set-off his brought forward AMT credit in that year.
+
+Tax credit not allowable to the assessee paying tax under the default tax
+regime
+
+A person who is paying tax under the default tax regime under section 115BAC
+would not be eligible to claim AMT credit.
+
+Step 13 ­ Examine whether to pay tax under default regime under section
+115BAC or pay tax under the optional tax regime as per the regular provisions
+of the Act
+
+In case of an assessee not having income from business or profession:
+
+In case of individuals not having income from business or profession, the total
+income and tax liability may be computed every year, both in accordance with
+default tax regime under section 115BAC and regular provisions of the Act
+(including provisions relating to AMT, if applicable), in order to determine which
+is more beneficial and accordingly, decide whether or not to shift out of the
+default regime under section 115BAC.
+
+In effect, such individual can choose whether or not to exercise the option of
+shifting out in each previous year. He may choose to pay tax under default regime
+under section 115BAC in one year and exercise the option to shift out of default
+tax regime in another year.
+
+In case of an assessee having income from business or profession:
+
+In case of individuals having income from business or profession, the total income
+and tax liability may be computed, both in accordance with default tax regime
+under section 115BAC and regular provisions of the Act (including provisions
+relating to AMT, if applicable), in order to determine which is more beneficial.
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a               9.19           a
+                              AND OPTIMISATION
+
+Such individual has an option to shift out/opt out of the default tax regime under
+this section and the option has to be exercised on or before the due date
+specified under section 139(1) for furnishing the return of income for such
+previous year and once such option is exercised, it would apply to subsequent
+assessment years.
+
+Such person who has exercised the above option of shifting out of the default
+regime for any previous year shall be able to withdraw such option only once and
+pay tax under the default regime under section 115BAC for a previous year other
+than the year in which it was exercised.
+
+Thereafter, such person shall never be eligible to exercise option under this
+section, except where such person ceases to have any business income
+
+Step 14 ­ Credit for advance tax, TDS and TCS
+
+ Tax is deductible at source at the time of payment of salary, rent, interest,
+       fees for professional services, royalty etc.
+
+ The payer has to deduct tax at source at the rates specified in the respective
+       sections.
+
+ Such tax deducted at source has to be reduced by the payee to determine
+       his net tax liability.
+
+ Tax is collectible by the seller in case of certain goods at the rate specified
+       in the respective section. Credit of such tax collection at source is allowable
+       to determine the tax liability.
+
+ The Income-tax Act, 1961 also requires payment of advance tax in
+       instalments during the previous year itself on the basis of estimated income,
+       if the tax payable, after reducing TDS/TCS, is ` 10,000 or more.
+
+ An individual is required to pay advance tax in four instalments, on or
+       before 15th June, 15th September, 15th December and 15th March of the
+       financial year.
+
+ Assessees declaring profits under presumptive taxation provisions under
+       section 44AD or under section 44ADA can, however, pay the entire advance
+       tax on or before 15th March of the financial year.
+
+ From the total tax due, deduct the TDS, TCS and advance tax paid for the
+       relevant assessment year to arrive at the tax payable.
+
+Tax Payable = Total tax liability ­ TDS ­ TCS - Advance tax paid
+
+© The Institute of Chartered Accountants of India
+a  9.20  INCOME TAX LAW
+
+Step 15 - Tax Payable/ Tax Refundable
+
+After adjusting the advance tax, tax deducted and collected at source, the
+assessee would arrive at the amount of net tax payable or refundable. Such
+amount should be rounded off to the nearest multiple of ` 10. The assessee has
+to pay the amount of tax payable (called self-assessment tax) before or at the
+time of filing of the return. Similarly, if any refund is due, assessee will get the same
+after filing the return of income.
+
+Note: Students are advised to read the above steps carefully and follow the given
+procedure while solving problems on computation of total income and tax liability.
+
+    4. TAX PLANNING IN RESPECT OF SALARY
+          INCOME
+
+The definition of salary is very wide and includes not only monetary salary but
+also benefits and perquisites in kind. Under the default tax regime under section
+115BAC, the only deduction available under section 16 in respect of salary income
+is the standard deduction of upto ` 75,000. However, under the optional tax
+regime as per normal provisions of the Act, the deductions available under
+section 16 in respect of salary income are the standard deduction upto ` 50,000,
+deduction for entertainment allowance (only for government employees) and
+deduction for professional tax. The following are some of the aspects which can
+be considered for tax planning in regard to salary income -
+
+(1) Salary Structure: An employer may plan the salary structure of employees
+       keeping in view the deductions and exemptions available under the Act. If
+       salary is paid as a consolidated amount, without any break-up, the amount
+       of salary after providing standard deduction of upto ` 50,000 (under
+       optional regime) and ` 75,000 (under default regime), would become
+       taxable without any further exemption and deduction. Therefore, the
+       employer may structure the salary by including various allowances and
+       perquisites in addition to basic salary, so as to enable the employee to
+       optimise his tax liability.
+
+       For example, the employer may include allowances as part of the salary
+       structure of the employees for which exemption can be claimed under Rule
+       2BB if the employee exercises the option to shift out of the default tax
+       regime, e.g. Children education allowance, hostel allowance, house rent
+       allowance. The employer will get a deduction of all the above amounts paid
+       while computing his profits and gains of business or profession.
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a               9.21  a
+                              AND OPTIMISATION
+
+Further, if the employee exercises the option to shift out of the default tax
+regime, the employer can give such allowances like special compensatory
+allowance, border area allowance or remote area allowance or difficult area
+allowance or disturbed area allowance depending upon the place of posting
+of the employee. Some exemptions are available in respect of these
+allowances. In this connection, Rule 2BB specifies the exempt allowances.
+The employer has to make a careful study and fix the salary structure in
+such a manner that it will include allowances which are exempt.
+
+(2) Employees' welfare schemes: There are several employees' welfare
+       schemes such as recognised provident fund, approved superannuation fund,
+       gratuity fund. Payments received from such funds by the employees are
+       totally exempt or exempt upto significant amounts.
+
+For example, gratuity received by an employee covered under the Payment
+of Gratuity Act, 1972 is exempt upto ` 20 lakh. The provident fund received
+by the employee from recognised provident fund is exempt, subject to
+limits and conditions. The employer can institute such welfare schemes for
+the benefit of the employees. Such amount contributed by the employer
+towards the above funds is deductible. However, a note of caution is
+necessary here in view of the restrictive provisions of section 40A(9) which
+disallows any contribution made to any welfare funds except where such
+contributions are covered by section 36(1)(iv)/(iva)/(v) or as required by or
+under any other law for the time being in force. Further, the employer can
+contribute to recognized provident fund account of the employee upto 12%
+of salary, and the same would not be taxable in the hands of the employees.
+The amount or aggregate of amounts of any contribution made in a
+recognised provident fund, in NPS referred to in section 80CCD(1) and in an
+approved superannuation fund by the employer to the account of the
+assessee, to the extent it exceeds ` 7,50,000, would be taxable as perquisite
+in the hands of the employee. Likewise, if an employee's contribution to RPF
+exceeds ` 2,50,000 p.a. or ` 5,00,000 p.a. (on or after 1.4.2021), as the case
+may be, depending on whether the employer contributes to RPF, then,
+interest accured on the amount exceeding the specified threshold would be
+taxable. The detailed provisions have been dealt with in Unit 1 of Chapter 3.
+
+(3) Insurance policies: Any payment made by an employer on behalf of an
+       employee to maintain a life policy will be treated as perquisite in the hands
+
+       of the employee. Further, payments received from the employer in respect
+
+© The Institute of Chartered Accountants of India
+a  9.22  INCOME TAX LAW
+
+       of key man insurance policies constitute income in the hands of the
+       employees. However, any sum reimbursed by the employer in respect of any
+       mediclaim premium paid by the employee to keep in force an insurance on
+       his health or the health of any member of his family under any scheme
+       approved by the Central Government or IRDA for the purpose of section
+       80D is not a perquisite in the hands of the employee.
+
+       Further, the payment of premium by the employer on behalf of the
+       employee will not be treated as a perquisite in the case of accident
+       insurance policies. This is due to the fact that the employer has a vested
+       interest in the safety of the life of his employee who is engaged in such
+       dangerous occupations.2
+
+       In respect of accident insurance policies, the term perquisite applies to only
+       such sums in regard to which there was an obligation on the part of the
+       employer to pay and a vested right on the part of the employee. If the
+       employee has no vested interest in the policy, it cannot be considered as a
+       perquisite. In cases where an employer takes out accident insurance policy
+       covering all workmen and staff members and pays insurance premium and
+       whenever any worker/staff member meets with an accident and the amount
+       of claim is received from the insurance company and the same is paid away
+       by the employer to the said worker or his family members, the premium
+       paid by the employer in respect of group accident policies could not be
+       considered as a perquisite, under section 17 to be added in the salary
+       income of any employee3. The amount received from insurance company on
+       accident or death by employee or his dependents will not also be in the
+       nature of income but a capital receipt and therefore the same will not be
+       taxable.
+
+(4) Dearness allowance, dearness pay: The employer should ensure that
+       dearness allowance and dearness pay should form part of "salary". This is
+       because certain items like employer's contribution to the recognised
+       provident fund, commuted pension etc. are calculated on the basis of salary.
+       Therefore, if dearness allowance, dearness pay etc. are included in salary,
+       the above benefits will also increase leading to higher terminal benefits in
+       the hands of the employee.
+
+2CIT v Lala Shri Dhar (1972) 84 ITR 192 (Del) and CIT v Vinay Bharat Ram (1981) 129 ITR 128 (Del)
+3CIT v. Lala Shri Dhar (1972) 84 ITR 192 (Delhi)
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a               9.23  a
+                              AND OPTIMISATION
+
+Also, for determining the exemption in respect of employer's contribution
+to provident fund, house rent allowance etc., dearness allowance forming
+part of pay for retirement benefits is included within the meaning of
+"Salary".
+
+(5) Leave travel facility: If the employee exercises the option to shift out of
+       the default tax regime, the employer should avail leave travel facility. Under
+       section 10(5) of the Income-tax Act, 1961, exemption is provided in the
+       hands of the employee in respect of leave travel concession. Such
+       exemption is available for the employee, spouse, children (upto a maximum
+       of 2 children), dependent parents, dependent brothers and dependent
+       sisters.
+
+However, if the employee pays tax under the default tax regime under
+section 115BAC, exemption under section 10(5) would not be available.
+
+(6) Rent free accommodation / House Rent Allowance (HRA): An employee
+       should analyse the tax incidence of a perquisite and an allowance, whenever
+       he is given an option, in order to choose the one which is more beneficial to
+       him. In the case of Rent Free Accommodation vs. HRA, it must be noted that
+       the perquisite of rent free accommodation is taxed as per Rule 3(1) of the
+       Income-tax Rules, 1962 and HRA is exempt to the extent mentioned in
+       section 10(13A) read with Rule 2A. However, exemption for HRA would be
+       available only if the employee exercises the option to shift out of the default
+       tax regime. The employee should therefore work out his tax liability and net
+       cash flow under both the options and then, decide on whether to receive
+       HRA or choose a rent free accommodation.
+
+(7) Uncommuted/Commuted pension: Uncommuted pension is fully taxable.
+       Therefore, the employees should get their pension commuted. Commuted
+       pension is fully exempt from tax in the case of government employees and
+       partly exempt from tax in the case of non-government employees.
+
+(8) Provident Fund: Accumulated balance due and becoming payable to an
+       employee participating in a Recognized Provident Fund (RPF) would be
+       exempt, where an employee who is a member of a recognised provident
+       fund and who resigns after completing five years of continuous service.
+       However, if he resigns before completing five years of continuous service he
+       should ensure that he joins an organisation which maintains a recognised
+
+© The Institute of Chartered Accountants of India
+a  9.24  INCOME TAX LAW
+
+       provident fund. The accumulated balance of the provident fund with the
+       previous employer will be exempt from tax provided the same is transferred
+       to the new employer who also maintains a recognised provident fund.
+
+       It may be noted the exemption would not be available in respect of income
+       by way of interest accrued during the previous year to the extent it relates
+       to the amount or the aggregate of amounts of contribution made by the
+       employee exceeding ` 2,50,000/` 5,00,000, as the case may be, in any
+       previous year in that fund, on or after 1st April, 2021 and computed in
+       prescribed manner.
+
+(9) Other retirement benefits: Incidence of tax on retirement benefits like
+       leave encashment, commuted pension, accumulated balance of
+       unrecognized provident fund is lower if they are paid in the beginning of
+       the financial year.
+
+       The employer and the employees may mutually plan in such a way that
+       retirement takes place in the beginning of a financial year.
+
+(10) Tax free perquisites: The following are the perquisites which are exempt
+       from tax­
+
+       (i) Use of computers and laptop by employee;
+
+       (ii) Medical facility in employer's own hospital or a public hospital or
+               Government or other approved hospital;
+
+       (iii) Educational benefit in a school run by employer provided value of
+               benefit does not exceed ` 1,000 per month per child.
+
+(11) Considerations for salary structuring: The perquisite valuation rules
+       prescribe the method for valuing the various perquisites provided by the
+       employer to his employees on the basis of the cost of such perquisites to
+       the employee. For a detailed study, students are advised to refer to the Unit
+       1 of Chapter 3 - `Salaries'. Accordingly, the entire salary structuring for
+       employees will have to be done after carefully weighing the pros and cons
+       of paying salary in monetary terms or allowing the benefit of perquisites in
+       kind to the employees.
+
+       It may be noted that a salaried person has an option to choose whether to pay
+       tax under the default tax regime under section 115BAC or shift out of the
+       default tax regime and pay tax under normal provisions of the Act in each
+       previous year.
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a               9.25  a
+                              AND OPTIMISATION
+
+Under section 115BAC, in respect of his total income, he can not avail
+certain exemptions/deductions like Leave Travel Concession, HRA,
+exemption under section 10(14) (other than those allowable under this
+section), interest on housing loan on self-occupied property, deductions
+under Chapter VI-A [other than under section 80CCD(2), 80CCH(2) and
+section 80JJAA] etc. The exemptions allowable under section 10(14) under
+the default tax regime under section 115BAC include travelling allowance,
+daily allowance, conveyance allowance and transport allowance to
+blind/deaf and dumb/orthopedically handicapped employee.
+
+Therefore, a salaried taxpayer not availing the above deductions/
+exemptions or availing a lesser amount of such deductions/ exemptions can
+analyse his tax liability under default tax regime under section 115BAC vis-
+à-vis the regular provisions of the Income-tax Act, 1961 in each year. An
+employee intending to shift out of the default tax regime under section
+115BAC has to intimate the same to the employer.
+
+ILLUSTRATION 1
+
+Mr. A, aged 32 years, is employed with XYZ (P) Ltd. on a basic salary of ` 80,000
+p.m. He has received transport allowance of ` 15,000 p.m. and house rent
+allowance of ` 20,000 p.m. from the company for the P.Y. 2025-26. He has paid
+rent of ` 25,000 p.m. for an accommodation in Delhi. Mr. A has paid interest of
+` 2,10,000 for housing loan taken for the construction of his house in Mumbai. The
+construction of the house is completed in March, 2026 and his parents live in that
+house.
+
+Other Information
+
+- Contribution to PPF - ` 1,50,000
+
+- Contribution to pension scheme referred to in section 80CCD - ` 50,000
+
+- Payment of medical insurance premium for father, who is of the age of 65 -
+       ` 55,000
+
+- Payment of medical insurance premium for self and spouse - ` 32,000
+
+Compute the total income and tax liability of Mr. A for the A.Y. 2026-27 in the most
+beneficial manner.
+
+© The Institute of Chartered Accountants of India
+a            9.26             INCOME TAX LAW
+
+SOLUTION
+
+Computation of total income and tax liability of Mr. A for A.Y. 2026-27
+                 under default tax regime under section 115BAC
+
+                     Particulars                            `
+
+Salaries                                                    9,60,000
+Basic Salary [` 80,000 x 12]
+
+Transport allowance [` 15,000 x 12]                         1,80,000
+
+HRA received [` 20,000 x 12]                                2,40,000
+
+Gross salary                                                13,80,000
+Less: Standard deduction u/s 16(ia)                            (75,000)
+
+Income from house property                                  13,05,000
+Interest on housing loan                                                 -
+
+Gross Total Income                                          13,05,000
+Less: Deductions under Chapter VI- A
+
+Section 80C
+
+Contribution in PPF                                            -
+
+Section 80CCD
+
+Contribution to pension scheme                                 -
+
+Section 80D
+
+Mediclaim insurance premium for self and parents               -
+
+Total Income                                                13,05,000
+
+Tax liability                                       20,000
+Tax @5% on ` 4,00,000 [` 8,00,000 - ` 4,00,000]
+
+Tax @10% on ` 4,00,000 [` 12,00,000 - ` 8,00,000]   40,000  75,750
+Tax @15% on ` 1,05,000 [` 13,05,000 - ` 12,00,000]  15,750
+
+Add: Health & Education cess @ 4%                           3,030
+
+Total Tax Liability                                         78,780
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                9.27           a
+                              AND OPTIMISATION
+
+Computation of total income and tax liability of Mr. A for A.Y. 2026-27
+                          under normal provisions of the Act
+
+                                      Particulars                    `
+Salaries                                                           9,60,000
+Basic Salary [` 80,000 x 12]
+
+Transport allowance [` 15,000 x 12]                                1,80,000
+
+HRA received                                        2,40,000
+
+Less: Least of the following exempt u/s 10(13A)     2,04,000          36,000
+
+HRA Received                                        2,40,000
+
+Actual rent paid ­ 10% of salary [` 3,00,000 ­ ` 96,000] 2,04,000
+
+50% of salary (Since he is staying in Delhi being a 4,80,000
+metro city)
+
+Gross salary                                                       11,76,000
+Less: Standard deduction u/s 16(ia)                                   (50,000)
+
+                                                                   11,26,000
+
+Income from house property                                         (2,00,000)
+[Annual Value is Nil. Deduction u/s 24(b) for interest on housing
+loan would be restricted to ` 2,00,000, in case of self-occupied
+property, which would represent loss from house property]
+
+Gross Total Income                                                 9,26,000
+Less: Deductions under Chapter VI-A
+
+Section 80C                                                        1,50,000
+Contribution to PPF
+
+Section 80CCD(1B)                                                     50,000
+Own contribution to pension scheme
+
+Section 80D
+Mediclaim insurance premium
+
+For self and spouse, restricted to                  25,000
+
+For father, who is a senior citizen, restricted to  50,000
+
+                                                                      75,000
+
+Total Income                                                       6,51,000
+
+© The Institute of Chartered Accountants of India
+a  9.28  INCOME TAX LAW
+
+Tax liability                                        12,500              42,700
+Tax @ 5% on ` 2,50,000 [` 5,00,000 - ` 2,50,000]     30,200                1,708
+Tax @ 20% on ` 1,51,000 [` 6,51,000 - ` 5,00,000]
+Add: Health & Education cess @ 4%                                        44,408
+                                                                         44,410
+Total Tax Liability
+Total Tax Liability (Rounded Off)
+
+Since tax liability as per the normal provisions of the Act is lower than the tax
+liability under the default tax regime under section 115BAC, it would be beneficial
+for Mr. A to shift out of the default tax regime under section 115BAC for
+A.Y. 2026-27.
+
+Note: In this case, Mr. A is entitled to exemption u/s 10(13A), benefit of interest
+on housing loan in respect of self-occupied property and Chapter VI-A
+deductions, owing to which his total income is reduced by ` 6,54,000. Hence, in
+this case, it is beneficial for Mr. A to shift out of the default tax regime under
+section 115BAC for A.Y. 2026-27.
+
+ILLUSTRATION 2
+
+Mr. Kadam is entitled to a salary of ` 41,000 per month. He is given an option by
+his employer either to take house rent allowance or a rent free accommodation
+which is owned by the company. The HRA amount payable was ` 7,000 per month.
+The rent for the hired accommodation was ` 6,000 per month at New Delhi. Advice
+Mr. Kadam whether it would be beneficial for him to avail HRA or Rent Free
+Accommodation. Give your advice on the basis of "Net Take Home Cash benefits".
+Assume Mr. Kadam exercises the option to shift out of the default tax regime under
+section 115BAC.
+
+SOLUTION
+           Computation of tax liability of Kadam under both the options
+
+                             Particulars             Option I ­  Option II ­
+Basic Salary (` 41,000 x 12 Months)                     HRA          RFA
+                                                          (`)
+                                                                      (`)
+
+                                                     4,92,000 4,92,000
+
+Perquisite value of rent-free accommodation (10% of  N.A.                49,200
+` 4,92,000)
+
+© The Institute of Chartered Accountants of India
+        INCOME TAX LIABILITY ­ COMPUTATION a                                       9.29     a
+                                      AND OPTIMISATION
+
+House rent Allowance (` 7,000 x 12 Months) ` 84,000
+
+Less: Exempt u/s 10(13A) ­ least of the following -
+
+- 50% of Basic Salary                              ` 2,46,000
+
+- Actual HRA received                              ` 84,000
+
+- Rent paid less 10% of salary ` 22,800 ` 22,800               61,200
+
+Gross Salary                                                   5,53,200 5,41,200
+
+Less: Standard deduction u/s 16(ia)                            50,000                          50,000
+
+Net Salary                                                     5,03,200 4,91,200
+
+Less: Deduction under Chapter VI-A                                                       -     -
+
+Total Income                                                   5,03,200                     4,91,200
+Tax on total income                                               13,140                       12,060
+
+Less: Rebate under section 87A - Lower of ` 12,500 or                              Nil         12,060
+income-tax of ` 12,060, since total income does not
+exceed ` 5,00,000
+
+                                                               13,140                          Nil
+
+Add: Health and Education cess@4%                                                  526         Nil
+
+Tax liability                                                  13,666                          Nil
+Tax liability (Rounded off)
+                                                               13,670                          Nil
+
+                                 Cash Flow Statement
+
+                    Particulars                                Option I ­ HRA      Option II ­ RFA
+Inflow: Salary                                                           5,76,000             4,92,000
+Less: Outflow: Rent paid                                                 (72,000)                       -
+Tax on total income                                                      (13,670)                     Nil
+
+Net Inflow                                                     4,90,330                     4,92,000
+
+Since the net cash inflow under option II (RFA) is higher than in Option I (HRA), it
+is beneficial for Mr. Kadam to avail Option II, i.e., Rent Free Accommodation.
+
+© The Institute of Chartered Accountants of India
+a  9.30               INCOME TAX LAW
+
+         TEST YOUR KNOWLEDGE
+
+1. Compute the tax liability of Mr. Gupta (aged 61) under default tax regime,
+       having total income of ` 1,01,50,000 for the A.Y.2026-27. Assume that his
+       total income comprises of salary income, income from house property and
+       interest on fixed deposit.
+
+2. Miss Charlie, an American national, got married to Mr. Radhey of India in
+       USA on 02.03.2025 and came to India for the first time on 16.03.2025. She left
+       for USA on 19.9.2025. She returned to India again on 27.03.2026. While in
+       India, she had purchased a show room in Mumbai on 30.04.2025, which was
+       leased out to a company on a rent of ` 25,000 p.m. from 01.05.2025. She had
+       taken loan from a bank for purchase of this show room on which bank had
+       charged interest of ` 97,500 upto 31.03.2026. She had received the following
+       cash gifts from her relatives and friends during 1.4.2025 to 31.3.2026:
+
+- From parents of husband ` 51,000
+
+- From married sister of husband ` 11,000
+
+- From two very close friends of her husband (` 1,51,000 and ` 21,000)
+
+(a) Determine her residential status and compute the total income
+       chargeable to tax along with the amount of tax liability on such income
+       for the A.Y. 2026-27 if she opts out of the default tax regime under
+       section 115BAC.
+
+(b) Would her residential status undergo any change, assuming that she is
+       a person of Indian origin and her total income from Indian sources is
+       ` 18,00,000 and she is not liable to tax in USA?
+
+3. Dr. Niranjana, a resident individual, aged 60 years is running a clinic in Surat.
+       Her Income and Expenditure Account for the year ending March 31st, 2026 is
+       as under:
+
+        Expenditure                                `   Income      `
+To Medicine consumed
+                                                   1B                                                           2B
+
+                      35,38,400 By Consultation and            58,85,850
+                                          medical charges
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a               9.31                                  a
+                              AND OPTIMISATION
+
+To Staff salary           13,80,000 By Income-tax refund                                    5,450
+                                             (principal ` 5,000,
+                                             interest ` 450)
+
+To Clinic consumables     1,10,000 By Dividend from units                                   10,500
+                                             of UTI (Gross)
+
+To Rent paid                                       90,000 By Winning from game
+                                                                   show on T.V. (net of
+                                                                  TDS of ` 15,000)          35,000
+
+To Administrative         2,55,000 By Rent                                                  27,000
+     expenses
+
+To Amount paid to         1,50,000
+     scientific research
+     association
+     approved u/s 35
+
+To Net profit             4,40,400
+
+                          59,63,800                                                      59,63,800
+
+(i) Rent paid includes ` 30,000 paid by cheque towards rent for her
+       residential house in Surat.
+
+(ii) Clinic equipments are:
+
+       1.4.2025 Opening W.D.V. - ` 5,00,000
+
+       7.12.2025 Acquired (cost) by cheque - ` 2,00,000
+
+(iii) Rent received relates to residential house property situated at Surat.
+       Gross Annual Value ` 27,000. The municipal tax of ` 2,000, paid in
+       December, 2025, has been included in "administrative expenses".
+
+(iv) She received salary of ` 7,500 p.m. from "Full Cure Hospital" which has
+       not been included in the "consultation and medical charges".
+
+(v) Dr. Niranjana availed a loan of ` 5,50,000 from a bank for higher
+       education of her daughter. She repaid principal of ` 1,00,000, and
+       interest thereon ` 55,000 during the previous year 2025-26.
+
+(vi) She paid ` 1,00,000 as tuition fee (not in the nature of development
+       fees/ donation) to the university for full time education of her daughter.
+
+© The Institute of Chartered Accountants of India
+a         9.32         INCOME TAX LAW
+
+(vii) An amount of ` 28,000 has also been paid by cheque on 27th March,
+       2026 for her medical insurance premium.
+
+From the above, compute the total income of Dr. Niranjana for the
+A.Y. 2026-27 under the default tax regime and optional tax regime as per the
+normal provisions of the Act.
+
+4. Ms. Purvi, aged 55 years, is a Chartered Accountant in practice. She maintains
+       her accounts on cash basis. Her Income and Expenditure account for the year
+       ended March 31, 2026 reads as follows:
+
+    Expenditure        (`)                             Income         (`)           (`)
+Salary to staff
+Stipend to articled    15,50,000 Fees earned:                                    55,98,300
+Assistants                                                                           10,524
+                       1,37,000 Audit                                 27,88,000       7,600
+Incentive to articled                                                                15,800
+Assistants                                         Taxation           15,40,300
+                                                   services                          85,600
+
+                       13,000 Consultancy                             12,70,000
+
+                                                   Dividend on
+
+                                                   shares of X Ltd.,
+
+                                                   an        Indian
+
+                                                   company (Gross)
+
+Office rent            12,24,000 Income from UTI
+                                       (Gross)
+
+Printing        and    12,22,000                   Honorarium
+                                                   received from
+stationery                                         various
+                                                   institutions for
+                                                   valuation of
+                                                   answer papers
+
+Meeting, seminar       31,600 Rent received
+and conference                     from residential
+                                   flat let out
+Purchase of car (for
+official use)          80,000
+Repair,
+maintenance            4,000
+and petrol of car
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a               9.33  a
+                              AND OPTIMISATION
+
+Travelling expenses 5,25,000
+
+Municipal tax paid   3,000
+in respect of house
+property
+
+Net Profit           9,28,224
+
+                     57,17,824                           57,17,824
+
+       Other Information:
+
+       (i) Allowable rate of depreciation on motor car is 15%.
+
+       (ii) Value of benefits received from clients during the course of profession is
+              ` 10,500.
+
+       (iii) Incentives to articled assistants represent amount paid to two articled
+               assistants for passing CA Intermediate Examination at first attempt.
+
+       (iv) Repairs and maintenance of car include ` 2,000 for the period from
+               1-10-2025 to 30-09-2026.
+
+       (v) Salary includes ` 30,000 to a computer specialist in cash for assisting
+               Ms. Purvi in one professional assignment.
+
+       (vi) The travelling expenses include expenditure incurred on foreign tour of
+              ` 32,000 which was within the RBI norms.
+
+       (vii) Medical Insurance Premium on the health of dependent brother and
+              major son dependent on her amounts to ` 5,000 and ` 10,000,
+               respectively, paid in cash.
+
+       (viii) She invested an amount of ` 10,000 in National Saving Certificate.
+
+       Compute the total income and tax liability of Ms. Purvi for the A.Y. 2026-27 in a
+       most beneficial manner.
+
+5. Mr. Y carries on his own business. An analysis of his trading and profit & loss
+       for the year ended 31-3-2026 revealed the following information:
+
+       (1) The net profit was ` 11,20,000.
+
+       (2) The following incomes were credited in the profit and loss account:
+
+              (a) Income from UTI ` 22,000 (Gross)
+
+© The Institute of Chartered Accountants of India
+a  9.34  INCOME TAX LAW
+
+   (b) Interest on debentures ` 17,500 (Gross)
+
+   (c) Winnings from horse races ` 15,000 (Gross)
+
+(3) It was found that some stocks were omitted to be included in both the
+       opening and closing stocks, the value of which were:
+
+   Opening stock ` 8,000.
+
+   Closing stock ` 12,000.
+
+(4) ` 1,00,000 was debited in the profit and loss account, being contribution
+       to a University approved and notified under section 35(1)(ii).
+
+(5) Salary includes ` 20,000 paid to his brother which is unreasonable to
+       the extent of ` 2,500.
+
+(6) Advertisement expenses include 15 gift packets of dry fruits costing
+       ` 1,000 per packet presented to important customers.
+
+(7) Total expenses on car was ` 78,000. The car was used both for business
+       and personal purposes. ¾th is for business purposes.
+
+(8) Miscellaneous expenses included ` 30,000 paid to A & Co., a goods
+       transport operator in cash on 31-1-2026 for distribution of the
+       company's product to the warehouses.
+
+(9) Depreciation debited in the books was ` 55,000. Depreciation allowed
+       as per Income-tax Rules, 1962 was ` 50,000.
+
+(10) Drawings of ` 10,000 debited in the books.
+
+(11) Investment in NSC ` 15,000 debited in the books.
+
+Compute the total income of Mr. Y for the assessment year 2026-27 under
+optional tax regime as per normal provisions of the Act.
+
+6. Balamurugan furnishes the following information for the year ended
+       31-03-2026:
+
+                                  Particulars              `
+Income from textile business                           (1,35,000)
+Income from house property
+Lottery winning (Gross)                                  (15,000)
+Speculation business income                             5,00,000
+                                                        1,00,000
+
+© The Institute of Chartered Accountants of India
+ INCOME TAX LIABILITY ­ COMPUTATION a                                    9.35     a
+                               AND OPTIMISATION
+                                                                                  3,70,000
+Income by way of salary (Computed)                                                  70,000
+
+Long term capital gain u/s 112
+
+Compute his total income, tax liability and advance tax obligations under
+default tax regime under section 115BAC.
+
+7. Mr. Rajiv aged 50 years, a resident individual and practicing Chartered
+       Accountant, furnishes you the receipts and payments account for the financial
+       year 2025-26.
+
+                  Receipts and Payments Account
+
+      Receipts      `                                       Payments                  `
+                                                                                  21,50,000
+Opening           balance 12,000 Staff salary, bonus and
+                                                                                  11,48,000
+(1.4.2025) Cash on                                 stipend to articled clerks         30,000
+hand and at Bank
+                                                                                   1,88,000
+Fee from professional 59,38,000 Other                        administrative
+                                                                                      24,000
+services (Gross)                                   expenses                        4,25,000
+
+Rent                50,000 Office rent                                                18,000
+
+Motor car loan from 2,50,000 Housing loan repaid to SBI                               20,000
+
+Canara Bank (@ 9%                                  (includes interest of              30,000
+p.a.)                                              ` 88,000)
+                                                                                   2,72,000
+                                                   Life insurance premium             20,000
+
+                                                   (10% of sum assured)
+
+                                                   Motor car (acquired in Jan.
+                                                   2026 by A/c payee cheque)
+
+                                                   Medical   insurance
+
+                                                   premium (for self and wife)
+
+                                                   (paid by A/c Payee
+                                                   cheque)
+
+                                                   Books bought on 1.07.2025
+
+                                                   (annual publications by
+                                                   A/c payee cheque)
+
+                                                   Computer acquired on
+
+                                                   1.11.2025 by A/c payee
+                                                   cheque (for professional use)
+
+                                                   Domestic drawings
+
+                                                   Public provident fund
+                                                   subscription
+
+© The Institute of Chartered Accountants of India
+a  9.36       INCOME TAX LAW
+
+                                                   Motor car maintenance          10,000
+                                                                              19,15,000
+                                                   Closing      balance
+                                                                             62,50,000
+                                                   (31.3.2026) Cash on hand
+
+                                                   and at Bank
+
+              62,50,000
+
+Following further information is given to you:
+
+(1) He occupies 50% of the building for own residence and let out the
+       balance for residential use at a monthly rent of ` 5,000. The building
+       was constructed during the year 2010-11, when the housing loan was
+       taken.
+
+(2) Motor car was put to use both for official and personal purpose. One-
+       fifth of the motor car use is for personal purpose. No car loan interest
+       was paid during the year.
+
+(3) The written down value of assets as on 1-4-2025 are given below:
+
+   Furniture & Fittings                                                   ` 60,000
+   Plant & Machinery                                                      ` 80,000
+
+   (Air-conditioners, Photocopiers, etc.)
+
+   Computers                                                              ` 50,000
+
+Note: Mr. Rajiv follows regularly the cash system of accounting.
+
+Compute the total income of Mr. Rajiv for the A.Y. 2026-27 assuming that he
+has shifted out of the default tax regime under section 115BAC.
+
+8. From the following details, compute the total income and tax liability of
+       Mr. Siddhant, aged 31 years, of Delhi both as per section 115BAC and as per
+       the regular provisions of the Income-tax Act, 1961 for the A.Y.2026-27. Advise
+       Mr. Siddhant in which regime he should pay tax for A.Y. 2026-27:
+
+                                 Particulars                                    `
+Salary including dearness allowance                                          4,35,000
+Bonus
+Salary of servant provided by the employer                                     15,000
+Rent paid by Siddhant for his accommodation                                    12,000
+Bills paid by the employer for gas, electricity and water                      49,600
+provided free of cost at the above flat                                        11,000
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                   9.37       a
+                              AND OPTIMISATION
+
+Siddhant purchased a flat in a co-operative housing society in Delhi for
+` 4,75,000 in April, 2016, which was financed by a loan from Life Insurance
+Corporation of India of ` 1,60,000@15% interest, his own savings of ` 65,000
+and a deposit from a nationalized bank for ` 2,50,000 to whom this flat was
+given on lease for ten years. The rent payable by the bank was ` 3,500 per
+month. The following particulars are relevant:
+
+(a) Municipal taxes paid by Mr. Siddhant              ` 4,300 (per annum)
+
+(b) House Insurance                                   ` 860
+
+(c) He earned ` 2,700 in share speculation business and lost ` 4,200 in
+       cotton speculation business.
+
+(d) In the year 2021-22, he had gifted ` 30,000 to his wife and ` 20,000 to
+       his son who was aged 11. The gifted amounts were advanced to
+       Mr. Rajesh, who was paying interest@19% per annum.
+
+(e) Siddhant received a gift of ` 30,000 each from four friends.
+
+(f) He contributed ` 50,000 to Public Provident Fund.
+
+9. Ramdin, aged 33 years, working as Manager (Sales) with Frozen Foods Ltd.,
+       provides the following information for the year ended 31.03.2026:
+
+- Basic Salary                                               ` 15,000 p.m.
+
+- DA (50% of it is meant for retirement benefits)            ` 12,000 p.m.
+
+                                                             0B
+
+- Commission as a percentage of turnover of the Company              0.5 %
+
+- Turnover of the Company                                    ` 50 lakhs
+
+- Bonus                                                           ` 50,000
+
+- Gratuity                                                        ` 30,000
+
+- Own Contribution to R.P.F.                                      ` 30,000
+
+- Employer's contribution to R.P.F.                   20% of basic salary
+
+- Interest credited in the R.P.F. account @ 15% p.a.              ` 15,000
+
+- Gold Ring worth ` 10,000 was given by employer on his 25th wedding
+       anniversary.
+
+- Music System purchased on 01.04.2025 by the company for ` 85,000
+       and was given to him for personal use.
+
+© The Institute of Chartered Accountants of India
+a  9.38  INCOME TAX LAW
+
+       - Two old light goods vehicles owned by him were leased to a transport
+              company against the fixed charges of ` 6,500 p.m. Books of account are
+               not maintained.
+
+       - Received interest of ` 5,860 on bank FDRs on 24.4.2025 and interest of
+              ` 7,540 from the debentures of Indian Companies on 5.5.2025.
+
+       - Made payment by cheques of ` 15,370 towards premium on Life
+              Insurance policies and ` 22,500 for Mediclaim Insurance policy for self
+               and spouse.
+
+       - Invested in NSC ` 30,000 and in FDR of SBI for 5 years ` 50,000.
+
+       - Donations of ` 11,000 to an institution approved u/s 80G and of
+              ` 5,100 to Prime Minister's National Relief Fund were given during the
+               year by way of cheque.
+
+       Compute his total income and tax liability thereon for the A.Y. 2026-27.
+       Assume that Mr. Ramdin has exercised the option to shift out of the default
+       tax regime under section 115BAC.
+
+10. From the following particulars furnished by Mr. X for the year ended
+       31.3.2026, you are requested to compute his total income and tax payable for
+       the assessment year 2026-27, assuming that he opts out of the default tax
+       regime under section 115BAC.
+
+       (a) Mr. X retired on 31.12.2025 at the age of 58, after putting in 26 years
+               and 1 month of service, from a private company at Mumbai.
+
+       (b) He was paid a salary of ` 25,000 p.m. and house rent allowance of
+              ` 6,000 p.m. He paid rent of ` 6,500 p.m. during his tenure of service.
+
+       (c) On retirement, he was paid a gratuity of ` 3,50,000. He was covered by
+               the payment of Gratuity Act. Mr. X had not received any other gratuity
+               at any point of time earlier, other than this gratuity.
+
+       (d) He had accumulated leave of 15 days per annum during the period of
+               his service; this was encashed by Mr. X at the time of his retirement. A
+              sum of ` 3,15,000 was received by him in this regard. His average salary
+              for last 10 months may be taken as ` 24,500. Employer allowed 30 days
+               leave per annum.
+
+       (e) After retirement, he ventured into textile business and incurred a loss of
+              ` 80,000 for the period upto 31.3.2026.
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                   9.39    a
+                              AND OPTIMISATION
+
+(f) Mr. X has deposited ` 1,00,000 in public provident fund.
+
+11. Rosy and Mary are sisters, born and brought up at Mumbai. Rosy got married
+        in 1982 and settled at Canada since 1982. Mary got married and settled in
+        Mumbai. Both of them are below 60 years. The following are the details of
+        their income for the previous year ended 31.3.2026:
+
+S.                   Particulars                       Rosy       Mary
+                                                         `          `
+No.
+
+1. Pension received from State Government                     -- 60,000
+
+2. Pension received from Canadian Government           20,000     --
+
+3. Long-term capital gain on sale of land on 1,00,000 1,00,000
+      15.5.2025 at Mumbai taxable
+
+4. Short-term capital gain on sale of shares on        20,000 2,50,000
+      23.4.2025 of Indian listed companies in respect
+      of which STT was paid
+
+5. LIC premium paid                                           -- 10,000
+
+6. Premium paid to Canadian Life Insurance 40,000                 --
+
+     Corporation at Canada
+
+7. Mediclaim policy premium paid by A/c Payee                 -- 25,000
+      Cheque
+
+8. Deposit in PPF                                             -- 20,000
+
+9. Rent received in respect of house property at       60,000     30,000
+      Mumbai
+
+       Compute the total income and tax liability of Mrs. Rosy and Mrs. Mary for the
+       A.Y. 2026-27 and tax thereon assuming both exercised the option to shift out
+       of the default tax regime.
+
+12. Mr. Rishabh, a resident individual, aged 54 years, is engaged in the business
+       of manufacturing clothes. He earned profit of ` 82,45,000 as per profit and
+       loss account after debiting and crediting the following items:
+
+       (i) Depreciation ` 15,40,000
+
+       (ii) Short term capital gains on transfer of listed equity shares in a company
+              on which STT is paid ` 10,00,000
+
+© The Institute of Chartered Accountants of India
+a  9.40  INCOME TAX LAW
+
+       (iii) He received income-tax refund of ` 15,550 which includes interest on
+              refund of ` 4,550.
+
+       (iv) Dividend income from Indian companies ` 15,00,000
+
+       Additional information ­
+
+       (i) Mr. Rishabh installed new plant and machinery for ` 65 lakhs on
+               1.10.2025 which was put to use on 1.1.2026. Depreciation (including
+              additional depreciation) on this amount of ` 65 lakhs is included in the
+               depreciation debited to profit and loss account which has been
+               computed as per Income-tax Rules, 1962.
+
+       (ii) Mr. Rishabh took a loan from SBI of ` 50 lakhs on 15.9.2025 @10.5%
+               p.a. to purchase such plant and machinery. Total interest upto
+               31.3.2026 has been paid on 31.3.2026 and the same has been debited
+               to profit and loss account.
+
+       (iii) Advance tax paid during the year is ` 17,50,000
+
+       (iv) Rishabh purchased goods for ` 40 lakhs from Mr. Ram, his brother. The
+              market value of the goods is ` 35 lakhs.
+
+       (v) He paid ` 40,000 as life insurance premium taken on the life of his
+               married daughter who is not dependent on him. The sum assured is
+              ` 5,00,000 and the policy was taken on 1.4.2020.
+
+       (vi) He paid ` 45,000 by cheque towards health insurance policy covering
+               himself, his spouse and his children.
+
+       (vii) On 1.7.2025, Mr. Rishabh withdrew ` 1.5 crores in cash from three
+               current accounts maintained by him with HSBC. There are no other
+               withdrawals during the year. He regularly files his return of income.
+
+       You are required to compute the total income and tax payable after adjusting
+       TDS/TCS/advance tax, if any, by Mr. Rishabh for the A.Y. 2026-27, in the
+       manner so that he can make maximum tax savings.
+
+13. Mr. Sunil, aged 48 years, a resident Indian has furnished the following
+       particulars for the year ended 31.03.2026:
+
+       (i) He occupies ground floor of his residential building and has let out first
+              floor for residential use at an annual rent of ` 2,95,000. He has paid
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a               9.41  a
+                              AND OPTIMISATION
+
+municipal taxes of ` 25,000 for the current financial year. Both these
+floors are of equal size.
+
+(ii) As per interest certificate from HDFC bank, he paid ` 1,50,000 as
+       interest and ` 80,000 towards principal repayment of housing loan
+       borrowed for the above residential building in the year 2020.
+
+(iii) He owns an industrial undertaking established in a SEZ and which had
+       commenced operation during the financial year 2019-20. Total turnover
+       of the undertaking was ` 400 lakhs, which includes ` 150 lakhs from
+       export turnover. Out of ` 150 lakhs, only ` 120 lakhs have been received
+       in India in convertible foreign exchange on or before 30.9.2026. This
+       industrial undertaking fulfills all the conditions of section 10AA of the
+       Income-tax Act, 1961. Profit from this industry is ` 40 lakhs.
+
+(iv) He employed 20 new employees for the said industrial undertaking
+       during the previous year 2025-26. Out of 20 employees, 12 were
+       employed on 1st May 2025 for monthly emoluments of ` 18,000 and
+       remaining were employed on 1st September 2025 on monthly
+       emoluments of ` 12,000. All these employees participate in recognised
+       provident fund and they are paid their emoluments directly to their bank
+       accounts.
+
+(v) He earned ` 30,000 and ` 40,000 as interest on saving bank deposits
+       and fixed deposits, respectively.
+
+(vi) He also sold his vacant land on 01.12.2025 for ` 16 lakhs. The stamp
+       duty value of land at the time of transfer was ` 17 lakhs. This land was
+       acquired by him on 15.10.1998 for ` 2.80 lakhs. The FMV of the land as
+       on 1st April, 2001 was ` 4.8 lakhs and Stamp duty value on the said date
+       was ` 4 lakhs. He had incurred registration expenses of ` 12,000 at that
+       time.
+
+CII ­ F.Y. 2001-02: 100; F.Y. 2025-26: 376.
+
+(vii) He paid insurance premium of ` 40,000 towards life insurance policy of
+       his son, who is not dependent on him.
+
+You are requested to compute total income and tax liability of Mr. Sunil for the
+Assessment Year 2026-27 under default tax regime.
+
+© The Institute of Chartered Accountants of India
+    a  9.42  INCOME TAX LAW
+
+14. Mr. X, an individual set up a unit in Special Economic Zone (SEZ) in the
+       financial year 2019-20 for production of washing machines. The unit fulfills
+       all the conditions of section 10AA of the Income-tax Act, 1961. During the
+       financial year 2024-25, he has also set up a warehousing facility in a district
+       of Tamil Nadu for storage of agricultural produce. It fulfills all the conditions
+       of section 35AD. Capital expenditure in respect of warehouse amounted to
+       ` 75 lakhs (including cost of land ` 10 lakhs). The warehouse became
+       operational with effect from 1st April, 2025 and the expenditure of ` 75 lakhs
+       was capitalized in the books on that date.
+
+    Relevant details for the F.Y. 2025-26 are as follows:
+
+                                    Particulars                     `
+    Profit of unit located in SEZ                               40,00,000
+    Export turnover received in India in convertible foreign    80,00,000
+    exchange on or before 30.9.2026
+    Domestic sales of above unit                                20,00,000
+    Profit from operation of warehousing facility (before     1,05,00,000
+    considering deduction under Section 35AD)
+
+    Compute income-tax (including AMT under Section 115JC) liability of Mr. X
+    for A.Y. 2026-27 both as per section 115BAC and as per regular provisions of
+    the Income-tax Act, 1961 for A.Y. 2026-27. Advise Mr. X whether he should
+    pay tax under default tax regime or normal provisions of the Act.
+
+             ANSWERS
+
+1.     Computation of tax liability of Mr. Gupta for the A.Y.2026-27
+
+             under default tax regime
+
+    (A) Income-tax (including surcharge) computed on total income of
+           ` 1,01,50,000
+
+       ` 4,00,000 ­ ` 8,00,000 @5%                 ` 20,000
+
+       ` 8,00,001 ­ ` 12,00,000 @10%               ` 40,000
+
+       ` 12,00,001 ­ ` 16,00,000 @15% ` 60,000
+
+       ` 16,00,001 ­ ` 20,00,000 @20% ` 80,000
+
+       ` 20,00,001 ­ ` 24,00,000 @25% ` 1,00,000
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                            9.43  a
+                              AND OPTIMISATION
+
+     ` 24,00,001 ­ ` 1,01,50,000 @30% ` 23,25,000
+
+Total                                              ` 26,25,000
+
+Add: Surcharge @15%                                ` 3,93,750         ` 30,18,750
+
+(B) Income-tax computed on total income of ` 1crore
+
+(` 3,00,000 plus ` 22,80,000)                                         ` 25,80,000
+
+Add: Surcharge@10%                                                    ` 2,58,000
+
+                                                                      ` 28,38,000
+
+(C) Total Income Less ` 1crore                                        ` 1,50,000
+
+(D) Income-tax computed on total income of ` 1 crore
+
+plus the excess of total income over ` 1 crore (B +C) ` 29,88,000
+
+(E) Tax liability: lower of (A) and (D)                               ` 29,88,000
+
+Add: Health and education cess @4%                                    ` 1,19,520
+
+Tax liability (including cess)                                        ` 31,07,520
+
+(F) Marginal Relief (A ­ D)                                           ` 30,750
+
+Alternative method -
+
+(A) Income-tax (including surcharge) computed on total income of
+       ` 1,01,50,000
+
+` 4,00,000 ­ ` 8,00,000 @5%                        ` 20,000
+
+` 8,00,001 ­ ` 12,00,000 @10%                      ` 40,000
+
+` 12,00,001 ­ ` 16,00,000 @15% ` 60,000
+
+` 16,00,001 ­ ` 20,00,000 @20% ` 80,000
+
+` 20,00,001 ­ ` 24,00,000 @25% ` 1,00,000
+
+` 24,00,001 ­ ` 1,01,50,000 @30% ` 23,25,000
+
+                                                   ` 26,25,000
+
+Add: Surcharge @15%                                ` 3,93,750         ` 30,18,750
+
+(B) Income-tax computed on total income of ` 1 crore
+
+[(` 3,00,000 plus ` 22,80,000) plus surcharge@10%] ` 28,38,000
+
+(C) Excess tax payable (A)-(B)                                        ` 1,80,750
+
+© The Institute of Chartered Accountants of India
+a  9.44                    INCOME TAX LAW
+
+(D) Marginal Relief (` 1,80,750 ­ ` 1,50,000, being the amount
+
+   of income in excess of ` 1,00,00,000)                        ` 30,750
+
+(E) Tax liability (A)-(D)                                       ` 29,88,000
+
+   Add: Health and education cess @4%                           ` 1,19,520
+
+   Tax liability (including cess)                               ` 31,07,520
+
+2. (a) Under section 6(1), an individual is said to be resident in India in any
+               previous year, if he/she satisfies any one of the following conditions:
+
+   (i) He/she has been in India during the previous year for a total period
+          of 182 days or more, or
+
+   (ii) He/she has been in India during the 4 years immediately preceding
+          the previous year for a total period of 365 days or more and has
+          been in India for at least 60 days in the previous year.
+
+   If an individual satisfies any one of the conditions mentioned above,
+   he/she is a resident. If both the above conditions are not satisfied, the
+   individual is a non-resident.
+
+   Therefore, the residential status of Miss Charlie, an American National,
+   for A.Y.2026-27 has to be determined on the basis of her stay in India
+   during the P.Y.2025-26 and in the preceding four previous years.
+
+   Her stay in India during the P.Y.2025-26 and in the preceding four
+   years are as under:
+
+   P.Y. 2025-26
+
+   01.04.2025 to 19.09.2025                        -  172 days
+
+   27.03.2026 to 31.03.2026                        -  5 days
+
+   Total                                              177 days
+
+   Four preceding previous years
+
+   P.Y. 2024-25 [1.4.2024 to 31.3.2025] -             16 days
+
+   P.Y. 2023-24 [1.4.2023 to 31.3.2024] -             Nil
+
+   P.Y. 2022-23 [1.4.2022 to 31.3.2023] -             Nil
+
+   P.Y. 2021-22 [1.4.2021 to 31.3.2022] -             Nil
+
+   Total                                              16 days
+
+   The total stay of the assessee during the previous year in India was less
+   than 182 days and during the four years preceding this year was for 16
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                       9.45        a
+                              AND OPTIMISATION
+
+days. Therefore, due to non-fulfillment of any of the two conditions for a
+resident, she would be treated as non-resident for the A.Y.2026-27.
+
+Computation of total income of Miss Charlie for the A.Y. 2026-27
+
+              Particulars                                      `            `
+                                                           2,75,000       95,000
+Income from house property
+Show room located in Mumbai remained on                           Nil  1,72,000
+rent from 01.05.2025 to 31.03.2026@                        2,75,000    2,67,000
+` 25,000/- p.m.                                            1,80,000
+
+Gross Annual Value [` 25,000 x 11] (See Note                      Nil
+1 below)
+                                                                  Nil
+Less: Municipal taxes                                      1,72,000
+
+Net Annual Value (NAV)
+
+Less: Deduction under section 24
+
+30% of NAV                                         82,500
+
+Interest on loan                                   97,500
+
+Income from other sources
+Cash gifts received from non-relatives is
+chargeable to tax as per section 56(2)(x), if the
+aggregate value of such gifts exceeds ` 50,000.
+
+- ` 50,000 received from parents of
+     husband would be exempt, since parents
+     of husband fall within the definition of
+     `relative' and gifts from a relative are not
+     chargeable to tax.
+
+- ` 11,000 received from married sister of
+     husband is exempt, since sister-in-law falls
+     within the definition of relative and gifts
+     from a relative are not chargeable to tax.
+
+- Gift received from two friends of husband
+     ` 1,51,000 and ` 21,000 aggregating to
+     ` 1,72,000 is taxable under section
+     56(2)(x) since the aggregate of ` 1,72,000
+     exceeds ` 50,000. (See Note 2 below)
+
+Total income
+
+© The Institute of Chartered Accountants of India
+a  9.46  INCOME TAX LAW
+
+   Computation of tax liability by Miss Charlie for the A.Y. 2026-27
+                        under normal provisions of the Act
+
+                                    Particulars    `
+    Tax on total income of ` 2,67,000               850
+    Add: Health and Education cess@4%                 34
+    Total tax liability                             884
+    Total tax liability (rounded off)               880
+   Notes:
+
+   1. Actual rent received has been taken as the gross annual value in
+          the absence of other information (i.e. Municipal value, fair rental
+          value and standard rent) in the question.
+
+   2. If the aggregate value of taxable gifts received from non-relatives
+          exceed ` 50,000 during the year, the entire amount received (i.e.
+          the aggregate value of taxable gifts received) is taxable. Therefore,
+          the entire amount of ` 1,72,000 is taxable under section 56(2)(x).
+
+   3. Since Miss Charlie is a non-resident for the A.Y. 2026-27, rebate
+          under section 87A would not be available to her, even though her
+          total income does not exceed ` 5 lakhs.
+
+(b) Residential status of Miss Charlie in case she is a person of Indian
+       origin and her total income from Indian sources is ` 18,00,000.
+
+   If she is a person of Indian origin and her total income from Indian
+   sources exceeds ` 15,00,000 (` 18,00,000, in her case), the condition of
+   stay in India for a period exceeding 120 days during the previous year
+   and 365 days during the four immediately preceding previous years
+   would be applicable for being treated as a resident. Since her stay in
+   India exceeds 120 days in the P.Y.2025-26 but the period of her stay in
+   India during the four immediately preceding previous years is less
+   than 365 days (only 16 days), her residential status as per section 6(1)
+   would continue to be same i.e., non-resident in India.
+
+   Further, since she is not a citizen of India, the provisions of section
+   6(1A) deeming an individual to be a citizen of India would not get
+   attracted in her case, even though she is a person of Indian origin and
+
+© The Institute of Chartered Accountants of India
+    INCOME TAX LIABILITY ­ COMPUTATION a                   9.47      a
+                                  AND OPTIMISATION
+
+    her total income from Indian sources exceeds ` 15,00,000 and she is
+    not liable to pay tax in USA.
+
+    Therefore, her residential status would be non-resident in India for the
+    previous year 2025-26.
+
+3.  Computation of total income of Dr. Niranjana for A.Y. 2026-27
+
+    under default tax regime
+
+                          18BParticulars           `       `            `
+    I Income from Salary
+                                                           90,000
+         Basic Salary (` 7,500 x 12)
+
+    Less: Standard deduction u/s 16(ia)                    75,000 15,000
+
+    II19B Income from house property                       27,000
+         Gross Annual Value (GAV)
+
+    Less: Municipal taxes paid                             2,000
+
+    Net Annual Value (NAV)                                 25,000       17,500
+                                                            7,500
+    Less: Deduction u/s 24@30% of
+    ` 25,000
+
+    III 20B Income from profession                         4,40,400
+
+          Net profit as per Income and
+          Expenditure account
+
+    Less: Items of income to be treated
+    separately
+
+    (i) Rent received (taxable under               27,000
+         the head "Income from house
+         property")
+
+    (ii) Dividend from units of UTI                10,500
+         (taxable under the head "Income
+         from other sources")
+
+    (iii) Winning from game show on                35,000
+         T.V. (net of TDS) (taxable under
+         the head "Income from other
+         sources")
+
+© The Institute of Chartered Accountants of India
+a  9.48    INCOME TAX LAW
+
+   (iv) Income tax refund                          5,450 77,950
+
+                                                             3,62,450
+
+   Less: Allowable expenditure
+
+   Depreciation on clinic equipments
+
+   on ` 5,00,000@15%                               75,000
+
+   on ` 2,00,000@7.5%                              15,000    90,000
+
+   (On equipments acquired during
+   the year in December 2025, she is
+   entitled to depreciation @50% of
+   normal depreciation, since the
+   same are put to use for less than
+   180 days during the year)
+
+                                                             2,72,450
+
+   Add: Items of expenditure not
+   allowable while computing
+   business income
+
+   (i) Amount paid to scientific                   1,50,000
+        research association approved
+        u/s 35 (not allowed under
+        default tax regime)
+
+   (i) Rent for her residential                    30,000
+        accommodation included in
+        Income and Expenditure A/c
+
+   (ii) Municipal tax paid relating to             2,000 1,82,000 4,54,450
+        residential house at Surat
+        included in administrative
+        expenses
+
+   IV Income from other sources
+
+   (a) Interest on income-tax                                450
+
+   refund
+
+   (b) Dividend from UTI (taxable in                         10,500
+           the hands of unit holders)
+
+   (c) Winnings from TV game show                            50,000 60,950
+          (` 35,000 + ` 15,000)
+
+   Gross Total Income                                                  5,47,900
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                  9.49    a
+                              AND OPTIMISATION
+                                                                      Nil
+      Less: Deductions under Chapter                                  Nil
+              VI-A:                                                   Nil
+                                                              5,47,900
+      (a) Section 80C [Not allowed under
+           default tax regime]
+
+      (b) Section 80D [Not allowed under
+           default tax regime]
+
+      (c) Section 80E [Not allowed under
+           default tax regime]
+
+      Total income
+
+Computation of total income of Dr. Niranjana for A.Y. 2026-27
+                    under normal provisions of the Act
+
+              18BParticulars                          `           `
+
+Gross Total Income as per default tax regime                  5,47,900
+                                                                 25,000
+Add: Standard deduction of ` 25,000, being the
+
+excess amount allowed u/s 115BAC
+
+Less: Items of expenditure allowable while
+computing business income under normal
+provisions of the Act
+
+100% deduction is allowable in respect of the                    1,50,000
+amount paid to scientific research association
+allowable under normal provisions of the Act.
+
+Gross Total Income as per normal provisions                           4,22,900
+of the Act                                            1,00,000
+Less: Deductions under Chapter VI-A:
+(a) Section 80C - Tuition fee paid to university for
+
+     full time education of her daughter
+
+(b) Section 80D - Medical insurance premium           28,000
+     (fully allowed since she is a senior citizen)
+
+(c) Section 80E - Interest on loan taken for          55,000 1,83,000
+     higher education is deductible
+
+Total income                                                  2,39,900
+
+© The Institute of Chartered Accountants of India
+            9.50         INCOME TAX LAW
+
+    Notes:
+
+    (i) The principal amount received towards income-tax refund will be
+           excluded from computation of total income. Interest received will be
+           taxed under the head "Income from other sources".
+
+    (ii) Winnings from game show on T.V. should be grossed up for the
+           chargeability under the head "Income from other sources" (` 35,000 +
+           ` 15,000). Thereafter, while computing tax liability, TDS of ` 15,000
+           should be deducted to arrive at the tax payable. Winnings from game
+           show are subject to tax @30% as per section 115BB.
+
+    (iii) Dr. Niranjana would not be eligible for deduction u/s 80GG under
+           normal provisions of the Act, as she owns a house in Surat, a place
+           where she is residing as well as carrying on her profession.
+
+4.  Computation of total income and tax liability of Ms. Purvi for
+
+    the A.Y. 2026-27 under default tax regime under section 115BAC
+
+                         Particulars                    `          `
+                                                                  57,820
+    Income from house property (See Working Note 1)             9,20,200
+
+    Profit and gains of business or profession
+    (See Working Note 2)
+
+    Income from other sources (See Working Note 3)                  33,924
+
+    Gross Total Income                                          10,11,944
+
+    Less: Deductions under Chapter VI-A [not allowable              -
+
+    under default tax regime]
+
+    Total Income                                                10,11,944
+
+    Total Income (rounded off)                                  10,11,940
+
+    Tax on total income
+
+    Upto ` 4,00,000                                        Nil
+
+    ` 4,00,001 - ` 8,00,000 @5%                         20,000
+
+    ` 8,00,001 - ` 10,11,940 @10%                       21,194      41,194
+
+    Less: Rebate under section 87A, since the total                 41,194
+            income does not exceed ` 12 lakhs
+
+    Tax liability                                                   Nil
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                  9.51      a
+                              AND OPTIMISATION
+
+Computation of total income and tax liability
+       under normal provisions of the Act
+
+                     Particulars                      `            `
+
+Gross Total Income                                              10,11,944
+[Income under the "Income from house property"
+"Profits and gains from business or profession" and
+"Income from other sources" would remain the same
+even if Ms. Purvi opts out of the default tax regime
+under section 115BAC]
+
+Less: Deductions under Chapter VI-A (See Working                   10,000
+
+Note 4)
+
+Total Income                                                    10,01,944
+
+Total Income (rounded off)                                      10,01,940
+
+Tax on total income
+
+Upto ` 2,50,000                                          Nil
+
+` 2,50,001 ­ ` 5,00,000 @5%                           12,500
+
+` 5,00,000 - ` 10,00,000 @20%                         1,00,000
+
+` 10,00,000 ­ ` 10,01,940 @ 30%                          582 1,13,082
+
+Add: Health and Education cess @ 4%                                4,523
+
+Total tax liability                                             1,17,605
+
+Total tax liability (rounded off)                               1,17,610
+
+Since tax liability under default tax regime under section 115BAC is less as
+compared to tax liability under the regular provisions of the Income-tax Act,
+1961, it would be beneficial for Ms. Purvi to pay tax under default tax
+regime under section 115BAC.
+
+© The Institute of Chartered Accountants of India
+a  9.52  INCOME TAX LAW
+
+Working Notes:                                       `          `
+(1) Income from House Property                       85,600  57,820
+
+                              Particulars             3,000
+        Gross Annual Value under section 23(1)       82,600
+        Less: Municipal taxes paid                   24,780
+        Net Annual Value (NAV)
+        Less: Deduction u/s 24@30% of NAV
+
+   Note - Rent received has been taken as the Gross Annual Value in the
+   absence of other information relating to Municipal Value, Fair Rent
+
+   and Standard Rent.
+
+(2) Income under the head "Profits & Gains of Business or
+       Profession"
+
+         Particulars                                 `            `
+                                                              9,28,224
+   Net profit as per Income and Expenditure account
+                                                              1,13,000
+   Add: Expenses debited but not allowable                   10,41,224
+
+   (i) Salary paid to computer specialist in cash 30,000         10,500
+        disallowed u/s 40A(3), since such cash               10,51,724
+        payment exceeds ` 10,000
+
+   (ii) Amount paid for purchase of car is not 80,000
+        allowable under section 37(1) since it is a
+        capital expenditure
+
+   (ii) Municipal taxes paid in respect of 3,000
+        residential flat let out
+
+   Add: Value of benefit received from clients
+   during the course of profession [taxable as
+   business income under section 28(iv)]
+
+   Less: Income credited but not taxable under
+   this head:
+
+   (i) Dividend on shares of X Ltd., an Indian 10,524
+        company (taxable under the head "Income
+        from other sources")
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a               9.53           a
+                              AND OPTIMISATION
+
+(ii) Income from UTI (taxable under the head 7,600
+     "Income from other sources")
+
+(iii) Honorarium for valuation of answer papers 15,800
+
+(iv) Rent received from letting out of 85,600                     1,19,524
+     residential flat
+                                                                  9,32,200
+Less: Depreciation on motor car @15% (See                            12,000
+Note (i) below)
+                                                                  9,20,200
+
+Notes :
+
+(i) It has been assumed that the motor car was put to use for more
+       than 180 days during the previous year and hence, full
+       depreciation @ 15% has been provided for under section
+       32(1)(ii).
+
+Note: Alternatively, the question can be solved by assuming that
+motor car has been put to use for less than 180 days and
+accordingly, only 50% of depreciation would be allowable as per
+the second proviso below section 32(1)(ii).
+
+(ii) Incentive to articled assistants for passing CA Intermediate
+       examination in their first attempt is deductible under section
+       37(1).
+
+(iii) Repairs and maintenance paid in advance for the period 1.4.2026
+       to 30.9.2026 i.e. for 6 months amounting to ` 1,000 is allowable
+       since Ms. Purvi is following the cash system of accounting.
+
+(iv) ` 32,000 expended on foreign tour is allowable as deduction
+       assuming that it was incurred in connection with her
+       professional work. Since it has already been debited to income
+       and expenditure account, no further adjustment is required.
+
+(3) Income from other sources                                         `
+                                                                     10,524
+                                        Particulars
+        Dividend on shares of X Ltd., an Indian company (taxable
+        in the hands of shareholders)
+
+© The Institute of Chartered Accountants of India
+    a  9.54         INCOME TAX LAW
+
+            Income from UTI (taxable in the hands of unit holders)      7,600
+            Honorarium for valuation of answer papers                 15,800
+                                                                      33,924
+    (4) Deduction under Chapter VI-A:
+                                        Particulars                     `
+                                                                      10,000
+            Deduction under section 80C (Investment in NSC)
+            Deduction under section 80D (See Notes (i) & (ii) below)       Nil
+            Total deduction under Chapter VI-A                        10,000
+
+       Notes:
+
+       (i) Premium paid to insure the health of brother is not eligible for
+              deduction under section 80D, even though he is a dependent, since
+              brother is not included in the definition of "family" under section 80D.
+
+       (ii) Premium paid to insure the health of major son is not eligible for
+              deduction, even though he is a dependent, since payment is made in cash.
+
+5.     Computation of total income of Mr. Y for the A.Y. 2026-27
+
+                    Particulars                                       `
+
+    Profits and gains of business or profession (See Working          11,21,500
+    Note 1 below)                                                         54,500
+
+    Income from other sources (See Working Note 2 below)
+
+    Gross Total Income                                                11,76,000
+    Less: Deduction under section 80C (Investment in NSC)                  15,000
+
+    Total Income                                                      11,61,000
+
+    Working Notes:
+
+    1. Computation of profits and gains of business or profession
+
+                               Particulars                 `          `
+
+       Net profit as per profit and loss account                      11,20,000
+
+       Add: Expenses debited to profit and loss            2,500
+                account but not allowable as
+                deduction
+                Salary paid to brother disallowed to the
+                extent considered unreasonable [Section
+                40A(2)]
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                     9.55    a
+                              AND OPTIMISATION           19,500
+
+              Motor car expenses attributable to         55,000
+              personal use not allowable (` 78,000 × ¼)
+                                                         10,000
+              Depreciation debited in the books of
+              account                                    15,000   1,02,000
+                                                                 12,22,000
+              Drawings (not allowable since it is
+              personal in nature) [See Note (iii)]                   12,000
+              Investment in NSC [See Note (iii)]                 12,34,000
+
+Add: Under statement of closing stock                                 8,000
+
+Less: Under statement of opening stock
+
+Less:  Contribution to a University approved
+       and notified u/s 35(1)(ii) is eligible for
+       100% deduction. Since whole of the                                   -
+       actual contribution (100%) has been                       12,26,000
+       debited to profit and loss account, no
+       further adjustment is required.
+
+Less: Incomes credited to profit and loss                22,000
+         account but not taxable as business             17,500
+         income
+         Income from UTI [taxable under the head         15,000     54,500
+         "Income from other sources"]
+
+         Interest on debentures (taxable under
+         the head "Income from other sources")
+
+         Winnings from horse races (taxable under
+         the head "Income from other sources")
+
+                                                                 11,71,500
+
+Less: Depreciation allowable under the                                50,000
+         Income-tax Rules, 1962                                  11,21,500
+
+© The Institute of Chartered Accountants of India
+    a  9.56  INCOME TAX LAW
+
+       Notes:
+       (i) Advertisement expenses of revenue nature, namely, gift of dry
+
+              fruits to important customers, is incurred wholly and exclusively
+              for business purposes. Hence, the same is allowable as
+              deduction under section 37.
+
+       (ii) Disallowance under section 40A(3) is not attracted in respect of
+              cash payment exceeding ` 10,000 to A & Co., a goods transport
+              operator, since, in case of payment made for plying, hiring or
+              leasing goods carriages, an increased limit of ` 35,000 is
+              applicable (i.e. payment of upto ` 35,000 can be made in cash
+              without attracting disallowance under section 40A(3))
+
+       (iii) Since drawings and investment in NSC have been given effect to
+              in the profit and loss account, the same have to be added back
+              to arrive at the business income.
+
+       (iv) In point no. 9 of the question, it has been given that
+              depreciation as per Income-tax Rules, 1962 is ` 50,000. It has
+              been assumed that, in the said figure of ` 50,000, only the
+              proportional depreciation (i.e., 75% for business purposes) has
+              been included in respect of motor car.
+
+    2. Computation of "Income from Other Sources"
+
+                                      Particulars                 `
+       Dividend from UTI                                         22,000
+       Interest on debentures                                    17,500
+       Winnings from races                                       15,000
+
+                                                                 54,500
+
+6.           Computation of total income of Balamurugan
+
+             for the A.Y. 2026-27
+
+             Particulars                               `         `
+
+    Salaries                                           3,70,000
+    Less: Loss from house property (Cannot be set off            - 3,70,000
+    against income under any other head)
+
+    Profits and gains of business or profession        1,00,000
+    Speculation business income
+
+© The Institute of Chartered Accountants of India
+ INCOME TAX LIABILITY ­ COMPUTATION a                     9.57       a
+                               AND OPTIMISATION        (1,00,000)
+
+Less: Business loss of ` 1,35,000 set-off to the                Nil
+extent of ` 1,00,000
+                                                           70,000
+Balance current year business loss of ` 35,000 to        (35,000)
+be set-off against long-term capital gain
+Capital Gains                                                           35,000
+Long term capital gain
+Less: Balance current year business loss set-off                     5,00,000
+Long term capital gain after set off of business loss                9,05,000
+Income from other sources
+Lottery winnings (Gross)
+Total Income
+
+Computation of tax liability for A.Y.2026-27
+
+                                   Particulars                           `
+On total income of ` 3,70,000 (excluding lottery winning and                Nil
+LTCG)
+                                                                           625
+On LTCG of ` 5,000 @12.5% (balance unexhausted basic                 1,50,000
+exemption limit of ` 30,000 can be adjusted against LTCG
+taxable u/s 112)
+
+On lottery winnings of ` 5,00,000 @ 30%
+
+                                                                     1,50,625
+
+Add: Health and Education cess @ 4%                                     6,025
+
+Total tax liability                                                  1,56,650
+
+The assessee need not pay advance tax since the total income (excluding
+lottery income) liable to tax is below the basic exemption limit. Further, in
+respect of lottery income, tax would have been deducted at source @ 30%
+under section 194B. Since the remaining tax liability of ` 6,650 (` 1,56,650 ­
+` 1,50,000) is less than ` 10,000, advance tax liability is not attracted.
+
+Note - The first proviso to section 234C(1) provides that since it is not
+possible for the assessee to estimate his income from lotteries and capital
+gains, the entire amount of tax payable (after considering TDS, if any) on
+such income should be paid in the remaining instalments of advance tax
+
+© The Institute of Chartered Accountants of India
+    a  9.58                  INCOME TAX LAW
+
+    which are due. Where no such instalment is due, the entire tax should be
+    paid by 31st March, 2026. The first proviso to section 234C(1) would be
+    attracted only in case of non-deduction or short-deduction of tax at source
+    under section 194B. In this case, it has been assumed that tax deductible at
+    source under section 194B has been fully deducted from lottery income.
+    Since the remaining tax liability of ` 6,650 (` 1,56,650 ­ ` 1,50,000) is less
+    than ` 10,000, advance tax liability is not attracted.
+
+7.     Computation of total income of Mr. Rajiv for the A.Y.2026-27
+
+                 Particulars                               `          `              `
+                                                                                   (46,000)
+    Income from house property                                  Nil
+    Self-occupied
+    Annual value                                           44,000
+                                                                         (44,000)
+    Less: Deduction under section 24(b)
+    Interest on housing loan                               60,000
+    50% of ` 88,000 = 44,000
+
+    Loss from self-occupied property
+
+    Let out property
+    Annual value (Rent receivable has been
+    taken as the annual value in the absence
+    of other information)
+
+    Less: Deductions u/s 24
+
+    30% of Net Annual Value                        18,000
+
+    Interest on housing loan
+
+    (50% of ` 88,000)                              44,000  62,000 (2,000)
+
+    Loss from house property
+
+    Profits and gains of business or                                  59,38,000
+    profession
+
+    Fees from professional services
+
+    Less: Expenses allowable as deduction
+
+    Staff salary, bonus and stipend                        21,50,000
+
+    Other administrative expenses                          11,48,000
+
+    Office rent                                            30,000
+
+    Motor car maintenance (10,000 x 4/5)                   8,000
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                         9.59       a
+                              AND OPTIMISATION
+
+Car loan interest ­ not allowable (since           Nil 33,36,000
+the same has not been paid and the
+assessee follows cash system of
+accounting)
+
+Less: Depreciation                                           26,02,000
+
+Motor car ` 4,25,000 x 7.5% x 4/5                  25,500
+
+Books being annual publications@40%                8,000
+
+Furniture and fittings@10% of ` 60,000             6,000
+
+Plant and machinery@15% of ` 80,000                12,000
+
+Computer@40% of ` 50,000                           20,000
+
+Computer (New) ` 30,000 @ 40% x 50%                6,000 77,500 25,24,500
+
+Gross Total income                                                      24,78,500
+Less: Deductions under Chapter VI-A
+
+Deduction under section 80C                        1,00,000
+Housing loan principal repayment
+
+PPF subscription                                   20,000
+
+Life insurance premium                             24,000
+
+Total amount of ` 1,44,000 is allowed as                     1,44,000
+deduction since it is within the limit of
+` 1,50,000
+
+Deduction under section 80D
+
+Medical insurance premium paid                               18,000 1,62,000
+
+Total income                                                            23,16,500
+
+8. Computation of total income and tax liability of Siddhant under default
+                    tax regime under section 115BAC for the A.Y. 2026-27
+
+                              Particulars                    `             `
+Salary Income
+Salary including dearness allowance                                        4,35,000
+Bonus                                                                        15,000
+Value of perquisites:
+(i) Salary of servant                                        12,000
+(ii) Free gas, electricity and water                         11,000 23,000
+
+                                                                         4,73,000
+
+© The Institute of Chartered Accountants of India
+a  9.60                 INCOME TAX LAW
+
+Less: Standard deduction under section 16(ia)                        75,000
+
+                                                                     3,98,000
+
+Income from house property                                   42,000
+Gross Annual Value (GAV) (Rent receivable is taken as
+GAV in the absence of other information) (` 3,500 × 12)
+
+Less: Municipal taxes paid                                   4,300
+
+Net Annual Value (NAV)                                       37,700
+
+Less: Deductions under section 24
+
+(i) 30% of NAV                                     ` 11,310
+
+(ii) Interest on loan from LIC @15%                ` 24,000 35,310 2,390
+       of ` 1,60,000 [See Note 2]                                   2,700
+
+Income from speculative business
+Income from share speculation business
+
+Less: Loss of ` 4,200 from cotton speculation business
+
+set-off to the extent of ` 2,700                             2,700   Nil
+
+Balance loss of ` 1,500 from cotton speculation
+business has to be carried forward to the next year as
+it cannot be set off against any other head of income.
+
+Income from Other Sources                                    3,800
+(i) Income on account of interest earned from advancing
+
+     money gifted to his minor son is includible in the
+     hands of Siddhant as per section 64(1A) [Exemption
+     under section 10(32) would not be available]
+
+(ii) Interest income earned from advancing money             5,700
+     gifted to wife has to be clubbed with the income
+     of the assessee as per section 64(1)
+
+(iii) Gift received from four friends (taxable under
+
+   section 56(2)(x) as the aggregate amount received
+
+   during the year exceeds ` 50,000)                         1,20,000 1,29,500
+
+Gross Total Income                                                   5,29,890
+Deduction under section 80C [No deduction under                              Nil
+Chapter VI-A would be allowed as per section
+115BAC(2)]
+
+Total Income                                                         5,29,890
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                       9.61  a
+                              AND OPTIMISATION
+
+                                   Particulars                      `
+Tax on total income [5% of ` 1,29,890 (` 5,29,890 -                 6,495
+` 4,00,000]
+Less: Rebate u/s 87A, since total income does not exceed            6,495
+` 12,00,000                                                            Nil
+
+Tax liability
+
+Computation of total income and tax liability of Siddhant
+ for the A.Y. 2026-27 under normal provisions of the Act
+
+              Particulars                                  `         `
+                                                                 5,29,890
+Gross total income (as per default scheme)
+Add: Standard Deduction [` 25,000 being excess                      25,000
+amount allowed under section 115BAC]
+                                                                      1,500
+Less: Exemption u/s 10(32) in respect of interest                5,53,390
+income of minor son included in the hands of
+Siddhant                                                            50,000
+                                                                 5,03,390
+Gross total income (under the                      normal
+provisions of the Act)
+
+Less: Deductions under Chapter VI-A
+
+Under section 80C [Contribution to PPF]
+
+Total Income
+
+                                   Particulars                         `
+Tax on total income [5% of ` 2,50,000 + 20% of ` 3,390]
+Add: HEC @4%                                                        13,178
+                                                                        527
+Tax liability
+Tax liability (Rounded off)                                         13,705
+                                                                    13,710
+
+Since his total income as per the normal provisions of the Act exceeds
+` 5,00,000, he would not be eligible for rebate under section 87A.
+
+Since Mr. Siddhant is not liable to pay any tax under default tax regime
+
+under section 115BAC, it would be beneficial for him to not to exercise the
+option of shift out of the default tax regime for A.Y.2026-27.
+
+© The Institute of Chartered Accountants of India
+a       9.62  INCOME TAX LAW
+
+Notes:
+
+(1) It is assumed that the entire loan of ` 1,60,000 is outstanding as on
+       31.3.2026;
+
+(2) Since Siddhant's own flat in a co-operative housing society, which he
+       has rented out to a nationalized bank, is also in Delhi, he is not
+       eligible for deduction under section 80GG in respect of rent paid by
+       him for his accommodation in Delhi, since one of the conditions to be
+       satisfied for claiming deduction under section 80GG is that the
+       assessee should not own any residential accommodation in the same
+       place.
+
+9. Computation of Total Income and tax liability of Mr. Ramdin for
+                      the A.Y.2026-27 under normal provisions of the Act
+
+                             Particulars                 `       `
+   Income from Salaries
+   Basic Salary (` 15,000 x 12)                                  1,80,000
+   Dearness Allowance (` 12,000 x12)                             1,44,000
+   Commission on Turnover (0.5% of ` 50 lakhs)
+   Bonus                                                           25,000
+                                                                   50,000
+
+   Gratuity (See Note 1)                                         30,000
+   Employer's contribution to recognized provident fund
+
+   Actual contribution [20% of ` 1,80,000]               36,000           2,760
+                                                         33,240
+   Less: Exempt (See Note 2)                             15,000
+   Interest credited in recognized provident fund
+   account @15% p.a.
+
+   Less: Exempt upto 9.5% p.a.                           9,500    5,500
+                                                                 10,000
+   Gift of gold ring worth ` 10,000 on 25th wedding
+   anniversary by employer (See Note 3)                           8,500
+   Perquisite value of music system given for
+   personal use (being 10% of actual cost) i.e. 10%
+   of ` 85,000
+
+   Less: Standard deduction under section 16(ia)                 4,55,760
+                                                                   50,000
+
+                                                                 4,05,760
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                   9.63    a
+                              AND OPTIMISATION                       1,80,000
+
+Profits and Gains of Business or Profession            5,860      13,400
+Lease of 2 light goods vehicles on contract basis      7,540   5,99,160
+against fixed charges of ` 6,500 p.m. In this case,
+presumptive tax provisions of section 44AE will        15,370  1,25,370
+apply i.e. ` 7,500 p.m. for each of the two light      30,000
+goods vehicle (` 7,500 x 2 x 12). He cannot claim      50,000
+lower profits and gains since he has not               30,000
+maintained books of account.
+                                                                  22,500
+Income from Other Sources                                         10,600
+Interest on bank FDRs                                          4,40,690
+
+Interest on debentures                                            9,535
+
+Gross total Income                                                9,535
+Less: Deductions under Chapter VI-A                                  Nil
+
+14BSection 80C
+Premium on life insurance policy
+
+Investment in NSC
+
+FDR of SBI for 5 years
+
+Employee's contribution to recognized provident
+fund
+
+Section 80D ­ Mediclaim Insurance
+Section 80G (See Note 4)
+Total Income
+Tax on total income
+Income-tax [5% of ` 1,90,690 (i.e., ` 4,40,690 ­
+` 2,50,000)
+
+Less: Rebate u/s 87A, since total income does not
+exceed ` 5,00,000
+
+Tax liability
+
+Notes:
+1. Gratuity received during service is fully taxable.
+
+2. Employer's contribution in the recognized provident fund is exempt
+       up to 12% of the salary i.e. 12% of (Basic Salary + DA for retirement
+       benefits + Commission based on turnover)
+
+© The Institute of Chartered Accountants of India
+     a  9.64             INCOME TAX LAW
+
+        = 12% of (` 1,80,000+ (50% of ` 1,44,000) + ` 25,000)
+
+        = 12% of 2,77,000 = ` 33,240
+
+     3. An alternate view possible is that only the sum in excess of ` 5,000 is
+            taxable in view of the language of Circular No.15/2001 dated
+            12.12.2001 that such gifts upto ` 5,000 in the aggregate per annum
+            would be exempt, beyond which it would be taxed as a perquisite. As
+            per this view, the value of perquisite would be ` 5,000. In such a case
+            the Income from Salaries would be ` 4,00,760.
+
+     4. Deduction under section 80G is computed as under:
+
+                                        Particulars                `
+        Donation to PM National Relief Fund (100%)                5,100
+
+        Donation to institution approved under section 80G (50%   5,500
+        of ` 11,000) (amount contributed ` 11,000 or 10% of
+        Adjusted Total Income i.e. ` 45,129, whichever is lower)
+
+        Total deduction                                           10,600
+
+        Adjusted Total Income = Gross Total Income - Deductions under
+        section 80C and 80D = ` 5,99,160 - ` 1,47,870 = ` 4,51,290.
+
+10.     Computation of total income of Mr. X for A.Y.2026-27
+
+                                Particulars             `         `
+     Income from Salaries
+     Basic salary (` 25,000 x 9 months)                           2,25,000
+     House rent allowance:
+     Actual amount received (` 6,000 x 9 months)        54,000    18,000
+     Less : Exemption under section 10(13A)(Note 1)     36,000
+     Gratuity:
+     Actual amount received                             3,50,000
+     Less: Exemption under section 10(10)(ii) (Note 2)
+     Leave encashment:                                  3,50,000     -
+     Actual amount received
+     Less : Exemption under section 10(10AA) (Note 3)   3,15,000     70,000
+     Gross Salary                                       2,45,000  3,13,000
+     Less: Standard deduction under section 16(ia)
+                                                                     50,000
+                                                                  2,63,000
+
+© The Institute of Chartered Accountants of India
+ INCOME TAX LIABILITY ­ COMPUTATION a                 9.65       a
+                               AND OPTIMISATION
+                                                                    Nil
+Profits and gains of business or profession                 2,63,000
+Business loss of ` 80,000 to be carried forward as
+the same cannot be set off against salary income            1,00,000
+                                                            1,63,000
+Gross Total income
+Less : Deduction under section 80C                                  Nil
+
+Deposit in Public Provident Fund
+
+Total income
+Tax on total income (Nil, since it is lower than the
+basic exemption limit of ` 2,50,000)
+
+Notes:
+(1) As per section 10(13A), house rent allowance will be exempt to the
+
+       extent of least of the following three amounts:
+
+(i) HRA actually received (` 6,000 x 9)                             `
+(ii) Rent paid in excess of 10% of salary (` 6,500 ­               54,000
+                                                                   36,000
+     ` 2,500) x 9 months
+(iii) 50% of salary                                              1,12,500
+
+(2) Gratuity of ` 3,50,000 is exempt under section 10(10)(ii), being the
+       minimum of the following amounts:
+
+(i) Actual amount received                                            `
+(ii) Half month salary for each year of completed                 3,50,000
+                                                                  3,75,000
+     service [(` 25,000 x 15/26) x 26 years]
+(iii) Statutory limit                                            20,00,000
+
+(3) Leave encashment is exempt upto the least of the following:
+
+(i) Actual amount received                                            `
+                                                                  3,15,000
+(ii) 10 months average salary (` 24,500 x 10)                     2,45,000
+(iii) Cash equivalent of unavailed leave calculated on the
+                                                                  3,18,500
+     basis of maximum 30 days for every year of actual           25,00,000
+     service rendered to the employer from whose
+     service he retired (See Note 4 below)
+(iv) Statutory limit
+
+© The Institute of Chartered Accountants of India
+a      9.66  INCOME TAX LAW
+
+(4) Since the leave entitlement of Mr. X as per his employer's rules is 30
+       days credit for each year of service and he had accumulated 15 days
+       per annum during the period of his service, he would have
+       availed/taken the balance 15 days leave every year.
+
+       Leave entitlement of Mr. X on the           = 30 days/year x 26 = 780 days
+       basis of 30 days for every year of
+       actual service rendered by him to
+       the employer
+
+       Less: Leave taken /availed by Mr. X
+
+       during the period of his service            = 15 days/year x 26 = 390 days
+
+       Earned leave to the credit of Mr. X                                 390 days
+       at the time of his retirement
+
+       Cash equivalent of earned leave =390  ` 24,500/30 = ` 3,18,500
+       to the credit of Mr. X at the time
+       of his retirement
+
+11. Computation of total income of Mrs. Rosy and Mrs. Mary for the A.Y.2026-27
+
+   S.        Particulars                                           Mrs.    Mrs. Mary
+                                                                   Rosy          (ROR)
+No.                                                              (Non-                  `
+                                                             resident)
+   (I) Salaries                                    ` 60,000                     10,000
+          Pension recd from State Govt.                                 `               -
+
+       Less: Standard deduction u/s                ` 50,000             -       10,000
+       16(ia)                                                           -       30,000
+
+       Pension received from Canadian                                   -
+       Government is not taxable in the case of a                60,000
+       non-resident since it is earned and
+       received outside India
+
+(II) Income from house property
+
+       Rent received from house property at
+       Mumbai (assumed to be the annual value in
+       the absence of other information i.e.
+       municipal value, fair rent and standard rent)
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a               9.67       a
+                              AND OPTIMISATION
+
+Less: Deduction u/s 24(a)@30%                      18,000          9,000
+                                                                21,000
+                                                   42,000     1,00,000
+
+(III) Capital gains                                1,00,000   2,50,000
+        Long-term capital gain on sale of land at             3,50,000
+        Mumbai                                                3,81,000
+
+Short term capital gain on sale of shares of       20,000        10,000
+Indian listed companies in respect of which                              -
+STT was paid
+                                                                 20,000
+                                                   1,20,000     30,000
+                                                                 25,000
+(A) Gross Total Income [(I)+(II)+(III)]            1,62,000     55,000
+        Less: Deductions under Chapter VIA
+                                                                 31,000
+1. Deduction u/s 80C                                          3,50,000
+
+1. LIC Premium paid                                      -
+
+2. Premium paid to Canadian Life                   40,000
+     Insurance Corporation
+
+3. Deposit in PPF                                        -
+
+2. Deduction u/s 80D ­ Mediclaim premium           40,000
+      paid                                                 -
+
+(B) Total deduction under Chapter VI-A is          40,000
+        restricted to income other than capital    40,000
+
+        gains taxable under sections 111A & 112
+
+(C) Total income (A-B)                             1,22,000
+
+Tax liability of Mrs. Rosy for A.Y.2026-27         12,500
+Tax on long-term capital gains @12.5% of
+` 1,00,000
+
+Tax on short-term capital gains @20% of            4,000
+` 20,000
+
+Tax on balance income of ` 2,000                   Nil
+
+                                                   16,500
+
+© The Institute of Chartered Accountants of India
+a       9.68  INCOME TAX LAW
+
+        Tax liability of Mrs. Mary for A.Y.2026-27              12,500
+        Tax on LTCG @12.5% of ` 1,00,000                             Nil
+
+        Tax on STCG of ` 2,50,000 (unexhausted
+        basic exemption limit of ` 2,50,000 is
+        adjusted)
+
+        Less: Rebate u/s 87A would be lower of                  12,500
+        ` 12,500 or tax liability, since total income           12,500
+        does not exceed ` 5,00,000
+                                                                     Nil
+        Add: Health and Education cess@4%                  660       Nil
+        Total tax liability                            17,160       Nil
+
+Notes:
+
+(1) In case of resident individuals, if the basic exemption limit is not fully
+       exhausted against other income, then the long-term capital gains u/s
+       112/short-term capital gains u/s 111A will be reduced by the
+       unexhausted basic exemption limit and only the balance will be taxed
+       as per rates u/s 112/111A. However, this benefit is not available to
+       non-residents. Therefore, while Mrs. Mary can adjust unexhausted
+       basic exemption limit against long-term capital gains taxable under
+       section 112 and short-term capital gains taxable under section 111A,
+       Mrs. Rosy cannot do so.
+
+(2) Since long-term capital gains is taxable at the rate of 12.5% and short-
+       term capital gains is taxable at the rate of 20%, it is more beneficial for
+       Mrs. Mary to exhaust her basic exemption limit of ` 2,50,000 against
+       short-term capital gains of ` 2,50,000.
+
+(3) Rebate under section 87A would not be available to Mrs. Rosy even
+       though her total income does not exceed ` 5,00,000, since she is non-
+       resident for the A.Y. 2026-27.
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                                9.69       a
+                              AND OPTIMISATION
+
+12. Computation of total income of Mr. Rishabh for A.Y. 2026-27
+                      (under default tax regime under section 115BAC)
+
+     Particulars                                          `         `             `
+
+I Income from business or                                           82,45,000
+      profession
+
+      Net profit as per profit and
+      loss account
+
+Add: Items of expenditure
+
+not  allowable                                     while
+
+computing business income
+
+(i) Interest on loan taken for                            1,53,125
+
+purchase of plant &
+machinery
+
+[Interest from the date on
+
+which capital was
+borrowed till the date on
+
+which asset was first put
+to use, not allowable as
+
+deduction under section
+
+36(1)(iii).       Accordingly,
+
+interest of ` 1,53,125
+
+[` 50,00,000 x 10.5% x
+
+3.5/12] has to be added
+
+back, since the same is
+
+debited to the profit and
+
+loss account]
+
+(ii) Purchase of goods at a                               5,00,000 6,53,125
+    price higher than the fair
+    market value
+
+    [The difference between
+    the purchase price (` 40
+    lakhs) and the fair market
+    value (` 35 lakhs) has to
+    be added back as per
+    section 40A(2) since the
+    purchase is from a related
+    party, i.e., his brother and
+
+© The Institute of Chartered Accountants of India
+a  9.70              INCOME TAX LAW
+
+   at a price higher than the
+   fair market value]
+
+                                                                   88,98,125
+
+   Less: Items of income to be
+   treated separately under the
+   respective head of income
+
+   (i) Income-tax                                  refund  15,550
+
+   including interest on
+
+   refund of ` 4,550
+
+   (ii) Dividend from Indian 15,00,000
+       companies
+
+   (iii) Short term capital gains on                       10,00,000
+       transfer of listed equity                                           25,15,550
+       shares
+
+                                                                   63,82,575
+
+   Less: Depreciation on interest
+   on loan capitalized to plant
+   and machinery
+
+   ` 1,53,125, being the amount of
+   interest on loan taken for
+   purchase of plant and machinery
+   from the date on which capital
+   was borrowed till the date on
+   which asset was first put to use,
+   shall be capitalized
+
+   Normal depreciation @15% x                                      11,484
+   50% on such interest
+
+                                                                   63,71,091
+
+   Add: Additional depreciation                                    6,50,000
+   on newly plant and
+   machinery [Not allowable
+   under default tax regime]
+
+   [` 65,00,000 x 20% x 50%]
+
+                                                                                      70,21,091
+
+   II Capital Gains
+
+   Short term capital gains on                                                        10,00,000
+   transfer of listed equity shares
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION                         a  9.71      a
+                              AND OPTIMISATION
+
+III Income from Other Sources                                      4,550
+      Interest on income-tax refund                           15,00,000 15,04,550
+
+Dividend         from                              Indian                     95,25,641
+
+companies
+
+Gross Total Income
+Less: Deductions under Chapter
+VI-A
+
+- Deduction under section 80C                                                 Nil
+[Not allowable under default                                                  Nil
+tax regime]
+
+- Deduction under section 80D
+[Not allowable under default
+tax regime]
+
+Total Income
+
+Total Income (Rounded off)                                              95,25,641
+                                                                        95,25,640
+
+Computation of tax payable under default tax regime
+
+                          Particulars                         `            `
+Tax on total income of ` 95,25,640
+Tax on STCG of ` 10,00,000@20% u/s 111A                                 2,00,000
+
+Tax on remaining total income of ` 85,25,640
+
+Upto ` 4,00,000                                                  Nil
+
+` 4,00,001 ­ ` 8,00,000 [@5% of ` 4 lakhs]                    20,000
+
+` 8,00,001 ­ ` 12,00,000 [@10% of ` 4 lakhs]                  40,000
+
+` 12,00,001 ­ ` 16,00,000 [@15% of ` 4 lakhs]                 60,000
+
+` 16,00,001 ­ ` 20,00,000 [@20% of ` 4 lakhs]                 80,000
+
+` 20,00,001 ­ ` 24,00,000 [@25% of ` 4 lakhs]                 1,00,000
+
+` 24,00,001 ­ ` 85,25,640 [@30% of ` 61,25,640] 18,37,692 21,37,692
+
+                                                                        23,37,692
+
+Add: Surcharge @10%, since total income                                  2,33,769
+exceeds ` 50,00,000 but does not exceed ` 1                             25,71,461
+crore
+
+© The Institute of Chartered Accountants of India
+a  9.72                 INCOME TAX LAW
+
+Add: Health and education cess@4%                                1,02,858
+                                                                26,74,319
+Total tax liability                                  1,00,000
+Less: TDS u/s 194N @ 2% on ` 50 lakhs, being                    18,50,000
+the cash withdrawals exceeding ` 1 crore                        8,24,319
+                                                                8,24,320
+Less: Advance tax paid                               17,50,000
+
+Tax payable
+
+Tax payable (rounded off)
+
+Computation of total income of Mr. Rishabh under optional tax regime
+                                        for A.Y. 2026-27
+
+             Particulars                             `              `
+                                                                95,25,641
+Gross Total Income as per default tax regime
+
+Less: Additional depreciation on plant and
+machinery
+
+- On interest which is capitalised                   15,313
+
+- On cost of plant and machinery [` 65 lakhs x 6,50,000 6,65,313
+      20% x 50%]
+
+Gross Total Income as per normal provisions of                   88,60,328
+the Act                                              40,000
+
+- Deduction under section 80C
+Life insurance premium for married daughter
+[Allowable as deduction though she is not
+dependent, since child of an individual whether
+dependent or not falls within the meaning of term
+"Person". Accordingly, whole of the amount of
+` 40,000 is allowable as it does not exceed 10% of
+the ` 5, 00,000, being the sum assured]
+
+- Deduction under section 80D                        25,000     65,000
+Health insurance premium for self, spouse and
+children [Allowable as deduction, since it is paid
+otherwise than by way of cash. However, it is to be
+restricted to ` 25,000
+
+Total Income                                                    87,95,328
+Total Income (Rounded off)                                      87,95,330
+
+© The Institute of Chartered Accountants of India
+     INCOME TAX LIABILITY ­ COMPUTATION a                   9.73       a
+                                   AND OPTIMISATION
+
+     Computation of tax payable under optional tax regime
+
+                      Particulars                           `              `
+                                                                        2,00,000
+     Tax on total income of ` 87,95,330
+     Tax on short term capital gains on transfer of listed             21,51,099
+                                                                       23,51,099
+     equity shares @20% u/s 111A
+                                                                        2,35,110
+     Tax on other Income of ` 77,95,330                                25,86,209
+
+     Upto ` 2,50,000                                           Nil      1,03,448
+                                                                       26,89,657
+     ` 2,50,001 ­ ` 5,00,000 [@5% of ` 2.50 lakh]           12,500
+                                                                       18,50,000
+     ` 5,00,001 ­ ` 10,00,000 [@20% of ` 5,00,000]          1,00,000
+
+     ` 10,00,001- ` 77,95,330 [@30% of ` 67,95,330]         20,38,599
+
+     Add: Surcharge @10%, since total income exceeds
+     ` 50,00,000 but does not exceed ` 1 crore
+
+     Add: Health and education cess@4%
+
+     Total tax liability                                    1,00,000
+     Less: TDS u/s 194N @ 2% on ` 50 lakhs, being the
+     cash withdrawals exceeding ` 1 crore
+
+     Less: Advance tax paid                                 17,50,000
+
+     Tax payable                                                       8,39,657
+     Tax payable (rounded off)                                         8,39,660
+
+     Since tax payable as per section 115BAC is lower than the tax payable as per
+     normal provisions of the Income-tax Act, 1961, it is beneficial for
+     Mr. Rishabh to pay tax under default tax regime under section 115BAC for
+     A.Y. 2026-27.
+
+13.  Computation of total income of Mr. Sunil for A.Y. 2026-27
+
+     (under default tax regime under section 115BAC)
+
+                      Particulars                   `       `             `
+
+     I Income from house property
+
+     Let out portion [First floor]
+
+     Gross Annual Value [Rent received is                   2,95,000
+     taken as GAV, in the absence of
+
+     other information]
+
+© The Institute of Chartered Accountants of India
+a  9.74           INCOME TAX LAW
+
+   Less: Municipal taxes paid by him in                                   12,500
+   the P.Y. 2025-26 pertaining to let out                               2,82,500
+   portion [` 25,000/2]                                     84,750
+                                                            75,000 1,59,750
+   Net Annual Value (NAV)                                               1,22,750
+   Less: Deduction u/s 24
+                                                                                Nil
+   (a) 30% of ` 2,82,500
+                                                                                Nil
+   (b) Interest on housing loan                                                 Nil
+        [` 1,50,000/2]
+                                                                                         1,22,750
+   Self-occupied  portion                          [Ground                              40,00,000
+   Floor]
+                                                                      16,00,000
+   Annual Value
+                                                                        4,00,000 12,00,000
+   [No deduction is allowable in respect
+   of municipal taxes paid]
+
+   Less: Interest on housing loan [Not
+   allowable under section 115BAC]
+
+     Income from house property
+
+II Profits and gains of business or
+     profession
+     Income from SEZ unit
+
+III Capital Gains
+     Long-term capital gains on sale of
+     land (since held for more than 24
+     months)
+     Full Value of Consideration [Actual
+     consideration of ` 16 lakhs, since
+     stamp duty value of ` 17 lakhs does
+     not exceed 110% of actual
+     consideration of ` 16 lakhs]
+
+     Less: Cost of acquisition [` 4,00,000]
+     (As transfer is on or after 23.07.2024,
+     the indexation benefit would not be
+     available)
+
+© The Institute of Chartered Accountants of India
+    INCOME TAX LIABILITY ­ COMPUTATION a               9.75    a
+                                  AND OPTIMISATION
+                                                       30,000       70,000
+     Cost of acquisition                               40,000  53,92,750
+
+     Higher of -                                               7,12,800
+     - Actual cost ` 2.80 lakhs + ` 0.12
+                                                               46,79,950
+        lakhs = ` 2.92 lakhs and
+
+     - Fair Market Value (FMV) as on
+        1.4.2001 = ` 4.8 lakhs but cannot
+        exceed stamp duty value of ` 4
+        lakhs.
+
+IV Income from Other Sources
+     Interest on savings bank deposits
+
+     Interest on fixed deposits
+
+     Gross Total Income
+     Less: Deduction under Chapter
+     VI-A
+     Deduction under section 80JJAA
+     30% of the employee cost of the new
+     employees employed during the P.Y.
+     2025-26 for 240 days or more during
+     the P.Y. 2025-26 allowable as
+     deduction [30% of ` 23,76,000 (12 x
+     18,000 x 11)]
+     As per section 115BAC, no deduction
+     under section 10AA or under Chapter
+     VI-A is allowable except u/s 80JJAA
+
+     Total Income
+
+Computation of tax liability of Mr. Sunil under section 115BAC
+
+Particulars                                            `          `
+
+Tax on total income of ` 46,79,950
+
+Tax on LTCG on sale of vacant land
+
+As the asset is a long-term capital asset, being land
+
+acquired before 23.07.2024 and transferred on or
+
+after 23.07.2024 by a resident individual, the tax
+
+shall be computed @20% with indexation benefit or
+
+@12.5% without indexation benefit, whichever is
+
+more beneficial to the assessee.
+
+© The Institute of Chartered Accountants of India
+a  9.76  INCOME TAX LAW
+
+Tax @20% with indexation                                     Nil     19,200
+Sale consideration = ` 16,00,000                        20,000
+Indexed cost of acquisition = ` 4,00,000 x 376/100 =    40,000    6,23,985
+` 15,04,000                                             60,000    6,43,185
+Gain = ` 96,000                                         80,000
+Tax @20% = ` 96,000 x 20% = ` 19,200                  1,00,000       25,727
+Tax @12.5% without indexation                         3,23,985    6,68,912
+Tax @12.5% = ` 12,00,000 x 12.5% = ` 1,50,000                     6,68,910
+Tax on LTCG on sale of vacant land @20% with
+indexation
+Tax on remaining total income of ` 34,79,950
+Upto ` 4,00,000
+
+` 4,00,001 ­ ` 8,00,000 [@5% of ` 4 lakhs]
+
+` 8,00,001 ­ ` 12,00,000 [@10% of ` 4 lakhs]
+
+` 12,00,001 ­ ` 16,00,000 [@15% of ` 4 lakhs]
+
+` 16,00,001 ­ ` 20,00,000 [@20% of ` 4 lakhs]
+
+` 20,00,001 ­ ` 24,00,000 [@25% of ` 4 lakhs]
+
+` 24,00,001 ­ ` 34,79,950 [@30% of ` 10,79,950]
+
+Add: Health and education cess@4%
+Total tax liability
+Tax liability (Rounded off)
+
+Note - An individual paying tax u/s 115BAC is not liable to alternate
+minimum tax u/s 115JC.
+
+14. Computation of total income and tax liability of Mr. X for A.Y.2026-27
+                      (under default tax regime under section 115BAC)
+
+                         Particulars                  `           `
+Profits and gains of business or profession
+Profit from unit in SEZ                                           40,00,000
+
+Profit from operation of warehousing facility      1,05,00,000
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                                                9.77  a
+                              AND OPTIMISATION
+
+Less: Depreciation under section 32               6,50,000                                98,50,000
+
+      On building @10% of ` 65 lakhs4 (normal
+     depreciation under section 32 is allowable)
+
+Total Income                                                                              1,38,50,000
+
+Computation of tax liability as per section                                               37,35,000
+115BAC                                                                                     5,60,250
+
+Tax on ` 1,38,50,000
+
+Add: Surcharge@15%
+
+                                                                                          42,95,250
+
+Add: Health and Education cess@4%                                                            1,71,810
+
+Total tax liability                                                                       44,67,060
+
+Notes:
+
+(1) Deductions u/s 10AA and 35AD are not allowable as per section
+       115BAC(2). However, normal depreciation u/s 32 is allowable.
+
+(2) Mr. X is not liable to alternate minimum tax u/s 115JC under default
+       tax regime under section 115BAC.
+
+Computation of total income and tax liability of Mr. X for A.Y.2026-27
+        (under the regular provisions of the Income-tax Act, 1961)
+
+                         Particulars                                                `        `
+Profits and gains of business or profession
+Profit from unit in SEZ                           40,00,000
+
+Less: Deduction u/s 10AA [See Note (1) below]     16,00,000
+Business income of SEZ unit chargeable to tax                      24,00,000
+
+Profit from operation of warehousing facility     1,05,00,000
+
+Less: Deduction u/s 35AD [See Note (2) below]     65,00,000
+Business income of warehousing facility                            40,00,000
+chargeable to tax
+                                                                  64,00,000
+Total Income
+
+4 Assuming the capital expenditure of ` 65 lakhs is incurred entirely on buildings
+
+© The Institute of Chartered Accountants of India
+a  9.78  INCOME TAX LAW
+
+Computation of tax liability (under the normal/                                      17,32,500
+regular provisions)                                                                   1,73,250
+Tax on ` 64,00,000
+Add: Surcharge @ 10% (since the total income                                         19,05,750
+exceeds ` 50 lakhs but does not exceed ` 1 core)                                         76,230
+
+Add: Health and Education cess@4%                                                   19,81,980
+Total tax liability
+
+   Computation of adjusted total income and AMT liability of Mr. X
+
+                           Particulars             `                                `
+   Total Income (computed above as per
+   regular provisions of income tax)                                                64,00,000
+   Add: Deduction under section 10AA
+                                                                                    16,00,000
+   Add: Deduction under section 35AD                                                80,00,000
+   Less: Depreciation under section 32
+                                                   65,00,000
+           On building @10% of `65 lakhs5
+                                                   6,50,000 58,50,000
+
+   Adjusted Total Income                                                            1,38,50,000
+   Alternate Minimum Tax@18.5%                                                         25,62,250
+   Add: Surcharge@15% (since adjusted total                                              3,84,338
+   income > ` 1 crore)
+
+   Add: Health and Education cess@4%                                                29,46,588
+                                                                                     1,17,863
+
+                                                                                    30,64,451
+
+   Tax liability u/s 115JC (rounded off)                                            30,64,450
+
+Since the regular income-tax payable is less than the alternate minimum tax
+payable, the adjusted total income shall be deemed to be the total income
+and tax is leviable @18.5% thereof plus surcharge@15% and cess@4%.
+Therefore, tax liability as per section 115JC is ` 30,64,450.
+
+Since the tax liability of Mr. X under section 115JC is lower than the tax
+liability as computed u/s 115BAC, it would be beneficial for him to opt out
+of the default tax regime under section 115BAC for A.Y. 2026-27.
+
+5 Assuming the capital expenditure of ` 65 lakhs is incurred entirely on buildings
+
+© The Institute of Chartered Accountants of India
+INCOME TAX LIABILITY ­ COMPUTATION a                                  9.79               a
+                              AND OPTIMISATION
+
+Moreover, benefit of alternate minimum tax credit is also available to the
+extent of tax paid in excess over regular tax.
+
+AMT Credit to be carried forward under section 115JEE
+
+                                                                                            `
+
+Tax liability under section 115JC                                            30,64,450
+Less: Tax liability under the regular provisions of the                      19,81,980
+Income-tax Act, 1961
+                                                                            10,82,470
+
+Notes:
+
+(1) Deduction under section 10AA in respect of Unit in SEZ =
+
+Profit of the Unit in SEZ× ETxoptoarltttuurrnnoovveerroofftthheeUUnnititininSSEEZZx 50%
+
+40,00,000×   80,00,000   x                         50% = ` 16,00,000
+            1,00,00,000
+
+(2) Deduction@100% of the capital expenditure is available under section
+       35AD for A.Y.2026-27 in respect of specified business of setting up
+       and operating a warehousing facility for storage of agricultural
+       produce which commences operation on or after 01.04.2009.
+
+Further, the expenditure incurred, wholly and exclusively, for the
+purposes of such specified business, shall be allowed as deduction
+during the previous year in which he commences operations of his
+specified business if the expenditure is incurred prior to the
+commencement of its operations and the amount is capitalized in the
+books of account of the assessee on the date of commencement of its
+operations.
+
+Deduction under section 35AD would, however, not be available on
+expenditure incurred on acquisition of land.
+
+In this case, since the capital expenditure of ` 65 lakhs (i.e., ` 75 lakhs
+­ ` 10 lakhs, being expenditure on acquisition of land) has been
+incurred in the F.Y.2024-25 and capitalized in the books of account on
+1.4.2025, being the date when the warehouse became operational,
+` 65,00,000, being 100% of ` 65 lakhs would qualify for deduction
+under section 35AD.
+
+© The Institute of Chartered Accountants of India
+

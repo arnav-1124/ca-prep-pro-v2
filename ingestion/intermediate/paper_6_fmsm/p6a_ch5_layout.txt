@@ -1,0 +1,3270 @@
+CHAPTER  5
+
+FINANCING
+DECISIONS-
+CAPITAL STRUCTURE
+
+                                     LEARNING OUTCOMES
+
+After studying this chapter, you would be able to -
+
+ State the meaning and significance of Capital Structure.
+
+ Discuss the various capital structure theories i.e., Net Income (NI)
+       Approach, Traditional Approach, Net Operating Income (NOI)
+       Approach, Modigliani and Miller (MM) Approach, Trade- off Theory
+       and Pecking Order Theory.
+
+ Describe concepts and factors for designing an optimal capital
+       structure.
+
+ Discuss essential features of capital structure of an entity.
+
+ Discuss optimal capital structure.
+
+ Analyse the relationship between the performance of a company and
+       its impact on the earnings of the shareholders i.e., EBIT-EPS-MPS
+       analysis.
+
+ Discuss the meaning, causes and consequences of over and under
+       capitalisation to an entity.
+
+© The Institute of Chartered Accountants of India
+5.2  FINANCIAL MANAGEMENT
+
+CHAPTER OVERVIEW
+
+                             Capital Structure Decision
+
+Capital Structure Theories  Designing an Optimal Capital Structure
+                                      EBIT- EPS-MPS Analysis
+ Net Income (NI) Approach
+
+ Traditional Approach
+
+ Net Operating Income(NOI)
+   Approach
+
+ Modigliani-Miller (MM)
+   Approach
+
+ Trade-off Theory
+
+ Pecking Order Theory
+
+     1. MEANING OF CAPITAL STRUCTURE
+
+Capital structure is the combination of capitals from different sources of finance.
+The capital of a company consists of equity share holders' fund, preference share
+capital and long term external debts. The source and quantum of capital is
+decided keeping in mind the following factors:
+
+   i. Control: Capital structure should be designed in such a manner that
+         existing shareholders continue to hold majority stake.
+
+  ii. Risk: Capital structure should be designed in such a manner that financial
+         risk of a company does not increase beyond tolerable limit.
+
+ iii. Cost: Overall cost of capital remains minimum.
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE            5.35.3
+
+Practically, it is difficult to achieve all of the above three goals together, hence, a
+finance manager has to make a balance among these three objectives.
+
+However, the objective of a company is to maximise the value of the company
+and it is prime objective while deciding the optimal capital structure. Capital
+Structure decision refers to deciding the forms of financing (which sources to be
+tapped); their actual requirements (amount to be funded) and their relative
+proportions (mix) in total capitalisation.
+
+                                                        EBIT
+Value of the firm = Overall cost of capital / Weighted average cost of capital
+
+Ko = (Cost of debt × weight of debt) + (Cost of equity × weight of equity)
+
+Ko = [{Kd × D/ (D+S)} + {Ke × S/(D+S)}]
+
+Where:
+
+ Ko is the weighted average cost of capital (WACC)
+
+ Kd is the cost of debt
+
+ D is the market value of debt
+
+ S is the market value of equity
+
+ Ke is the cost of equity
+
+Capital structure decision will decide weight of debt and equity and ultimately
+overall cost of capital as well as Value of the firm. So capital structure is relevant
+in maximizing value of the firm and minimizing overall cost of capital.
+
+Whenever funds are to be raised to finance investments, capital structure decision
+is involved. A demand for raising funds generates a new capital structure since a
+decision has to be made as to the quantity and forms of financing. The process of
+financing or capital structure decision is depicted in the figure below.
+
+© The Institute of Chartered Accountants of India
+5.4  FINANCIAL MANAGEMENT
+
+                                     Financing Decision Process
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE            5.55.5
+
+     2. CAPITAL STRUCTURE THEORIES
+
+The following approaches explain the relationship between cost of capital, capital
+structure and value of the firm:
+
+ Capital    Capital Structure                       Net Income (NI) Approach
+Structure   Relevance Theory
+Theories                                               Traditional Approach
+            Capital Structure
+           Irrelevance Theory                      Modigliani and Miller (MM)
+                                                     Approach- 1963: with tax
+
+                                                   Net Operating Income (NOI)
+                                                               Approach
+
+                                                   Modigliani and Miller (MM)
+                                                   Approach -1958: without tax
+
+(a) Net Income (NI) approach
+(b) Traditional approach.
+(c) Net Operating Income (NOI) approach
+(d) Modigliani-Miller (MM) approach
+However, the following assumptions are made to understand this relationship:
+ There are only two kinds of funds used by a firm i.e. debt and equity.
+ The total assets of the firm are given. The degree of leverage can be
+
+       changed by selling debt to purchase shares or selling shares to retire debt.
+ Taxes are not considered.
+ The dividend payout ratio is 100%.
+ The firm's total financing remains constant.
+ Business risk is constant over time.
+ The firm has perpetual life.
+
+© The Institute of Chartered Accountants of India
+5.6  FINANCIAL MANAGEMENT
+
+2.1 Net Income (NI) Approach
+
+According to this approach, capital structure decision is relevant to the value of
+the firm. An increase in financial leverage will lead to decline in the weighted
+average cost of capital (WACC), while the value of the firm as well as market price
+of ordinary share will increase. Conversely, a decrease in the leverage will cause
+an increase in the overall cost of capital and a consequent decline in the value as
+well as market price of equity shares.
+
+      Cost of                                                     Ke
+     Capital %                                               Kw
+
+                                                                  Kd
+
+                                                   Leverage
+
+Where, Ke is Cost of Equity, Kw is Weighted Average Cost of Capital and Kd is Cost
+of Debt.
+From the above diagram, Ke and Kd are assumed not to change with leverage. As
+debt increases, it causes weighted average cost of capital (WACC) to decrease.
+The value of the firm on the basis of Net Income (NI) Approach can be
+ascertained as follows:
+
+                                       Value of Firm (V) = S + D
+Where,
+
+       V = Value of the firm
+       S = Market value of equity
+       D = Market value of debt
+
+© The Institute of Chartered Accountants of India
+        FINANCING DECISIONS ­ CAPITAL STRUCTURE                            5.75.7
+
+                Market          value              of  equity  (S)  =  NI
+                                                                       Ke
+
+Where,
+
+NI = Earnings available for equity shareholders
+
+Ke = Equity Capitalisation rate
+
+Under NI approach, the value of the firm will be maximum at a point where
+weighted average cost of capital (WACC) is minimum. Thus, the theory suggests
+total or maximum possible debt financing for minimising the cost of capital. The
+overall cost of capital under this approach is:
+
+                Overall cost of capital =                           EBIT
+
+                                                       Value of the firm
+
+Thus, according to this approach, the firm can increase its total value by
+decreasing its overall cost of capital through increasing the degree of leverage.
+The significant conclusion of this approach is that it pleads for the firm to employ
+as much debt as possible to maximise its value.
+
+ILLUSTRATION 1
+
+Rupa Ltd.'s EBIT is ` 5,00,000. The company has 10%, ` 20 lakh debentures. The
+equity capitalization rate (Ke) is 16%.
+
+You are required to CALCULATE:
+
+(i) Market value of equity and value of firm
+
+(ii) Overall cost of capital
+
+SOLUTION
+
+(i) Statement showing Market value of equity and value of firm
+
+EBIT                                                                                  `
+Less: Interest on debentures (10% of ` 20,00,000)                           5,00,000
+Earnings available for equity holders i.e. Net Income (NI)                 (2,00,000)
+                                                                            3,00,000
+
+© The Institute of Chartered Accountants of India
+      5.8                FINANCIAL MANAGEMENT
+
+      Equity capitalization rate (Ke)                                                     16%
+
+      Market value of equity (=S)    N=I             3,00,000  ×  100              18,75,000
+                                     Ke                 16                         20,00,000
+                                                                                   38,75,000
+
+      Market value of debt (D)
+
+      Total value of firm V = S + D
+
+(ii)  Overall  cost  of  capital  =        EBIT    firm  = ` 5,00,000    = 12.90%
+                                     Value of              ` 38,75,000
+
+2.2 Traditional Approach
+
+This approach favours that as a result of financial leverage up to some point, cost
+of capital comes down and value of firm increases. However, beyond that point,
+reverse trends emerges. The principle implication of this approach is that the cost
+of capital is dependent on the capital structure and there is an optimal capital
+structure which minimises cost of capital.
+
+Under this approach:
+
+   i. The rate of interest on debt remains constant for a certain period and
+         thereafter with an increase in leverage, it increases.
+
+  ii. The expected rate by equity shareholders remains constant or increase
+         gradually. After that, the equity shareholders starts perceiving a financial
+         risk and then from the optimal point, the expected rate increases speedily.
+
+ iii. As a result of the activity of rate of interest and expected rate of return,
+         the WACC first decreases and then increases. The lowest point on the
+         curve is optimal capital structure.
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE                             5.95.9
+
+Optimum capital structure occurs at the point where value of the firm is highest
+and the cost of capital is the lowest.
+
+According to net operating income approach, capital structure decisions are
+totally irrelevant. Modigliani-Miller supports the net operating income approach
+but provides behavioural justification. The traditional approach strikes a balance
+between these extremes.
+
+Main Highlight of Traditional Approach
+
+The firm should strive to reach the optimal capital structure and its total valuation
+through a judicious use of both the debt and equity in capital structure. At the
+optimal capital structure, the overall cost of capital will be minimum and the value
+of the firm will be maximum.
+
+ILLUSTRATION 2
+
+Indra Ltd. has an EBIT of ` 1,00,000. The company makes use of both the debt and
+equity capital. The firm has 10% debentures of ` 5,00,000 and the firm's equity
+capitalization rate is 15%.
+
+You are required to COMPUTE:
+
+(i) Total value of the firm
+
+(ii) Overall cost of capital.
+
+SOLUTION
+
+(i) Calculation of total value of the firm
+
+                                                                            `
+
+EBIT                                                                1,00,000
+                                                                      50,000
+Less: Interest (@10% on ` 5,00,000)                                   50,000
+                                                                         15%
+Earnings available for equity holders
+
+Equity capitalization rate i.e. Ke
+
+Value of equity (S) = Earnings available for equity holders
+                                                 Ke
+
+      =  `50, 000  =                               `  3,  33,  333
+           0.15
+
+© The Institute of Chartered Accountants of India
+           5.10                FINANCIAL MANAGEMENT
+
+      Value of Debt (D) (given)                                                  ` 5,00,000
+                                                                                 ` 8,33,333
+      Total value of the firm (V) = D + S (5,00,000 + 3,33,333)
+
+(ii)  Overall cost of capi= tal (Ko )    Ke          S    +  Kd    D  
+                                                     V             V  
+                                                                      
+
+=     0.15    `3,33,333     +  0.10    `5, 00, 000           
+              `8,33,333                `8,33,333             
+
+=          1     `50,000       +  `50,  000          =  12.00%
+      `8,33,333
+
+      Or,  K0 =  EBIT  =  `1, 00, 000 =  12.00%
+                  V       `8, 33, 333
+
+ILLUSTRATION 3
+
+DETERMINE the optimal capital structure of a company from the following
+information:
+
+Options       Cost of Debt           Cost of Equity                     Percentage of Debt on total
+                (Kd) in %               (Ke) in %                           value (Debt +Equity)
+    1               11.0                    13.0                                          0.0
+    2               11.0                    13.0                                          0.1
+    3               11.6                    14.0                                          0.2
+    4               12.0                    15.0                                          0.3
+    5               13.0                    16.0                                          0.4
+    6               15.0                    18.0                                          0.5
+    7               18.0                    20.0                                          0.6
+
+SOLUTION
+
+Note that the ratio given in this question is not debt to equity ratio. Rather it is
+the debt to total value ratio. Therefore, if the ratio is 0.6, it means that capital
+employed comprises 60% debt and 40% equity.
+
+                                         KO          =  Kd   ×   D  +  Ke  ×  S
+                                                                 D  +  S
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE            5.151.11
+
+In this question total of weight is equal to 1 in all cases, hence we need not to
+divide by it.
+
+1) K0 = 11% x 0 + 13% x 1 = 13.00%
+
+2) K0 = 11% x 0.1 + 13% x 0.9 = 12.80%
+
+3) K0 = 11.6% x 0.2 + 14% x 0.8= 13.52%
+
+4) K0 = 12% x 0.3 + 15% x 0.7 = 14.10%
+
+5) K0 = 13% x 0.4 + 16% x 0.6 = 14.80%
+
+6) K0 = 15% x 0.5 + 18% x 0.5 = 16.50%
+
+7) K0 = 18% x 0.6 + 20% x 0.4 = 18.80%
+Decision: 2nd option is the best because it has lowest WACC.
+
+2.3 Net Operating Income (NOI) Approach
+
+NOI means Earnings before interest and tax (EBIT). According to this approach,
+capital structure decisions of the firm are irrelevant.
+
+Any change in the leverage will not lead to any change in the total value of the
+firm and the market price of shares, as the overall cost of capital is independent
+of the degree of leverage. As a result, the division between debt and equity is
+irrelevant.
+
+As per this approach, an increase in the use of debt which is apparently cheaper is
+offset by an increase in the equity capitalisation rate. This happens because equity
+investors seek higher compensation as they are opposed to greater risk due to
+the existence of fixed return securities in the capital structure.
+
+© The Institute of Chartered Accountants of India
+     5.12  FINANCIAL MANAGEMENT
+
+The above diagram shows that Kw (Weighted Average Cost of Capital) and Kd (debt
+capitalisation rate) are constant and Ke (Cost of equity) increases with leverage.
+ILLUSTRATION 4
+Amita Ltd.'s operating income (EBIT) is ` 5,00,000. The firm's cost of debt is 10%
+and currently the firm employs ` 15,00,000 of debt. The overall cost of capital of the
+firm is 15%.
+You are required to CALCULATE:
+(i) Total value of the firm
+(ii) Cost of equity
+
+SOLUTION
+(i) Statement showing total value of the firm
+
+Net operating income (EBIT)                                                                  `
+                                                                                   5,00,000
+Less: Interest on debentures (10% of ` 15,00,000)                                 (1,50,000)
+                                                                                   3,50,000
+Earnings available for equity holders
+                                                                                         15%
+Total cost of capital (K0) (given)
+                                                                                  33,33,333
+Value of the firm (V) = EBIT = ` 5,00,000
+           k0                                      0.15
+
+(ii) Calculation of cost of equity
+
+Market value of debt (D)                                                                     `
+Market value of equity (S) = V - D = ` 33,33,333 ­ ` 15,00,000                    15,00,000
+                                                                                  18,33,333
+
+Ke = Earnings available for equity holders
+                     Value of equity (S)
+
+Or,  =  EBIT - Interest paid  on debt              =     ` 3,50,000     = 19.09%
+           Market value of    equity                     ` 18, 33, 333
+
+© The Institute of Chartered Accountants of India
+         FINANCING DECISIONS ­ CAPITAL STRUCTURE                                 5.153.13
+
+            OR
+
+Ko = Ke VS + Kd DV
+Ke = Ko VS - Kd DS
+
+         =  0.15     ` 33,33,333    -  0.10          ` 15,00,000  
+
+                     ` 18,33,333                     ` 18,33,333
+
+         =        1     (0.15  ×  `33,33,333)        -  (0.10  ×  `15,00,  000)
+            `18,33,333
+
+         =        1     5,00,000 - 1,50,000
+
+            `18,33,333
+
+         = 19.09%
+
+ILLUSTRATION 5
+
+Alpha Ltd. and Beta Ltd. are identical except for capital structure. Alpha Ltd. has 50
+per cent debt and 50 per cent equity, whereas Beta Ltd. has 20 per cent debt and 80
+per cent equity (All percentages are in market-value terms). The borrowing rate for
+both the companies is 8 per cent in a no-tax world, and capital markets are
+assumed to be perfect.
+
+(a) (i)     If you own 2 per cent of the shares of Alpha Ltd., DETERMINE your
+            return if the company has net operating income of ` 3,60,000 and the
+            overall capitalisation rate of the company (K0) is 18 per cent.
+
+(ii) CALCULATE the implied required rate of return on equity of Alpha Ltd.
+
+(b) Beta Ltd. has the same net operating income as Alpha Ltd.
+
+(i) CALCULATE the implied required rate of return on equity of Beta Ltd.
+
+(ii) ANALYSE why does it differ from that of Alpha Ltd.
+
+© The Institute of Chartered Accountants of India
+5.14                  FINANCIAL MANAGEMENT
+
+SOLUTION
+
+(a) Value of the Alpha Ltd. = NOI = ` 3,60,000 = ` 20,00,000
+                      K0                           18%
+
+(i) Return on Equity shares of Alpha Ltd.
+
+Value of the company                                                   `
+Market value of debt (50% × ` 20,00,000)                    20,00,000
+Market value of equity (50% × ` 20,00,000)                  10,00,000
+                                                            10,00,000
+Net operating income
+Less: Interest on debt (8% × ` 10,00,000)                              `
+Earnings available to equity shareholders                    3,60,000
+Return on 2% equity shares (2% × ` 2,80,000)
+                                                                80,000
+                                                             2,80,000
+
+                                                                 5,600
+
+(ii) Implied required rate of return on equity of Alpha Ltd.
+
+          = Earnings  available for equity shareholders  =  ` 2,80,000   =  28%
+                       Market value of Equity               ` 10,00,000
+
+(b) (i) Calculation of Implied rate of return on equity of Beta Ltd.
+
+          Total value of company                                       `
+          Market value of debt (20% × ` 20,00,000)          20,00,000
+          Market value of equity (80% × ` 20,00,000)
+                                                             4,00,000
+          Net operating income                              16,00,000
+          Less: Interest on debt (8%× `4,00,000)
+          Earnings available to shareholders                           `
+                                                             3,60,000
+
+                                                                32,000
+                                                             3,28,000
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE           5.155.15
+
+Implied required rate of return on equity
+
+= Earnings  available for equity shareholders  =  ` 3,28,000   =  20.5%
+             Market value of Equity               ` 16,00,000
+
+(ii) Implied required rate of return on equity of Beta Ltd. is lower than
+       that of Alpha Ltd. because Beta Ltd. uses less debt in its capital
+       structure. As the equity capitalisation is a linear function of the debt-
+       to-equity ratio when we use the net operating income approach, the
+       decline in required equity return offsets exactly the disadvantage of
+       not employing so much in the way of "cheaper" debt funds.
+
+2.4 Modigliani-Miller (MM) Approach
+
+The NOI approach is definitional or conceptual and lacks behavioural significance.
+It does not provide operational justification for irrelevance of capital structure.
+However, Modigliani-Miller (MM) approach provides behavioural justification for
+constant overall cost of capital and therefore, total value of the firm.
+
+Modigliani-Miller (MM)  MM Approach -1958: without tax
+         Approach       MM Approach- 1963: with tax
+
+MM Approach ­ 1958: without tax:
+This approach describes, in a perfect capital market where there is no transaction
+cost and no taxes, the value and cost of capital of a company remain unchanged
+irrespective of change in the capital structure. This approach is based on further
+following additional assumptions:
+ Capital markets are perfect. All information is freely available and there are
+
+       no transaction costs.
+ All investors are rational.
+ Firms can be grouped into `Equivalent risk classes' on the basis of their
+
+       business risk.
+ Non-existence of corporate taxes.
+
+© The Institute of Chartered Accountants of India
+5.16  FINANCIAL MANAGEMENT
+
+Based on the above assumptions, Modigliani-Miller approach derived the
+following three propositions:
+
+(i) Total market value of a firm is equal to its expected net operating income
+       divided by the discount rate appropriate to its risk class decided by the
+       market.
+
+                  Value of levered firm (Vg) = Value of unlevered firm (Vu)
+                        Value of a firm = Net Operating Income (NOI)
+                                                                    K0
+
+(ii) A firm having debt in its capital structure has higher cost of equity than an
+       unlevered firm. The cost of equity will include risk premium for the financial
+       risk. The cost of equity in a levered firm is determined as under:
+                                       Ke = Ko + (Ko ­ Kd) Debt
+
+                                                                       Equity
+
+(iii) The structure of the capital (financial leverage) does not affect the overall
+       cost of capital. The cost of capital is only affected by the business risk.
+
+It is evident from the above diagram that the average cost of the capital (Kw) is
+constant and is not affected by leverage.
+The operational justification of Modigliani-Miller hypothesis is explained through
+the functioning of the arbitrage process and substitution of corporate leverage by
+personal leverage. Arbitrage refers to buying asset or security at lower price in
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE            5.157.17
+
+one market and selling it at a higher price in another market. As a result,
+equilibrium is attained in different markets. This is illustrated by taking two
+identical firms of which one has debt in the capital structure while the other does
+not. Investors of the firm whose value is higher will sell their shares and instead
+buy the shares of the firm whose value is lower. They will be able to earn the
+same return at lower outlay with the same perceived risk or lower risk. They
+would, therefore, be better off.
+
+The value of the levered firm can neither be greater nor lower than that of an
+unlevered firm according to this approach. The two must be equal. There is
+neither advantage nor disadvantage in using debt in the firm's capital structure.
+
+This approach considers capital structure of a firm as a whole pie divided into
+equity, debt and other securities. No matter how the capital structure of a firm is
+divided (among debt, equity etc.), there is a conservation of investment value.
+Since the total investment value of a corporation depends upon its underlying
+profitability and risk, it is invariant with respect to relative changes in the firm's
+financial capitalisation.
+
+According to MM hypothesis, since the sum of the parts must be equal to the
+whole, therefore, regardless of the financing mix, the total value of the firm stays
+the same.
+
+The shortcoming of this approach is that the suggested arbitrage process will
+fail to work because of imperfections in capital market, existence of transaction
+cost and presence of corporate income taxes.
+
+MM Approach-1963: with tax
+
+In 1963, MM model was amended by incorporating tax, they recognised that the
+value of the firm will increase, or cost of capital will decrease where corporate
+taxes exist. As a result, there will be some difference in the earnings of equity and
+debt-holders in levered and unlevered firm and value of levered firm will be
+greater than the value of unlevered firm by an amount equal to amount of debt
+multiplied by corporate tax rate.
+
+MM has developed the following formulae for computation of cost of capital (Ko),
+cost of equity (Ke) for the levered firm.
+
+© The Institute of Chartered Accountants of India
+            5.18               FINANCIAL MANAGEMENT
+
+(i) Value of a levered company = Value of an unlevered company + Tax benefit
+
+      Or,                               Vg = Vu + TB
+
+(ii)  Cost  of  equity  in  a  levered  company    (Keg)  =  Keu  +  (Keu  ­  Kd)       Debt
+                                                                                   Debt +Equity
+
+Where,
+
+      Keg = Cost of equity in a levered company
+
+      Keu = Cost of equity in an unlevered company
+
+      Kd = Cost of debt
+
+      TB = Present Value of Tax Shields
+
+(iii) WACC in a levered company (Kog) = Keu (1 - tL)
+
+Where,
+
+      Kog = WACC of a levered company
+
+      Keu = Cost of equity in an unlevered company
+
+      t = Tax rate
+
+      L     =     Debt
+
+                Debt+Equity
+
+ILLUSTRATION 6
+(When value of levered firm is more than the value of unlevered firm)
+
+There are two companies N Ltd. and M Ltd., having same earnings before interest
+and taxes (EBIT) of ` 20,000. M Ltd. is a levered company having a debt of
+`1,00,000 @ 7% rate of interest. The cost of equity of N Ltd. is 10% and of M Ltd. is
+11.50%.
+
+COMPUTE how arbitrage process will be carried on?
+
+© The Institute of Chartered Accountants of India
+    FINANCING DECISIONS ­ CAPITAL STRUCTURE                      5.159.19
+
+SOLUTION
+
+                             Company
+
+                       M Ltd.                      N Ltd.
+
+EBIT (NOI)             ` 20,000                    ` 20,000
+
+Debt (D)               ` 1,00,000                          --
+
+Ke                     11.50%                      10%
+
+Kd                           7%                            --
+
+Value of equity (S)    = NOI - Interest
+
+                            Cost of equity
+
+                   SM  = `20,000 - `7,000 = ` 1,13,043
+                                 11.50%
+
+                   SN  = `20,000                   = ` 2,00,000
+                             10%
+
+Value of Firm (V)      =S+D
+
+                   VM = ` 1,13,043 + ` 1,00,000 = ` 2,13,043
+
+                   VN = ` 2,00,000
+
+Arbitrage Process:
+
+If you have 10% shares of M Ltd., your value of investment in equity shares is 10%
+of ` 1,13,043 i.e. ` 11,304.30 and return will be 10% of (`20,000 ­ ` 7,000) =
+` 1,300.
+
+Alternate Strategy will be:
+
+Sell your 10% shares of levered firm for ` 11,304.30 and borrow 10% of levered
+firm's debt i.e. ` 10,000 (10% of ` 1,00,000) and invest the money i.e. 10% in
+unlevered firm's stock:
+
+Total resources /Money we have = ` 11,304.30 + ` 10,000 = ` 21,304.3 and you
+invest 10% of ` 2,00,000 = ` 20,000
+
+Surplus cash available with you is = ` 21,304.3 ­ ` 20,000 = ` 1,304.3
+
+Your return = 10% EBIT of unlevered firm ­ Interest to be paid on borrowed funds
+
+i.e. = 10% of ` 20,000 ­ 7% of ` 10,000 = ` 2,000 ­ ` 700 = ` 1,300
+
+© The Institute of Chartered Accountants of India
+5.20                   FINANCIAL MANAGEMENT
+
+Now your return remains the same i.e. ` 1,300 which you are getting from N Ltd.
+before investing in M Ltd. but still you have ` 1,304.3 excess money available with
+you. Hence, you are better off by doing arbitrage.
+
+In the above example you have not invested entire amount received from "sale
+of shares of levered company plus amount borrowed". You maintained same level
+of earning and reduced investment. Alternatively, you could have invested entire
+amount in unlevered company. In that case your annual earnings would have
+increased. An example for the same is as follows:
+
+ILLUSTRATION 7
+
+Following data is available in respect of two companies having same business risk:
+
+Capital employed = ` 2,00,000, EBIT = ` 30,000 and Ke = 12.5%
+
+Sources      Levered Company (`) Unlevered Company (`)
+
+Debt (@10%)            1,00,000                       Nil
+    Equity             1,00,000                    2,00,000
+
+An investor is holding 15% shares in levered company. CALCULATE the increase in
+annual earnings of investor if he switches his holding from Levered to Unlevered
+company.
+
+SOLUTION
+
+1. Valuation of firms
+
+Particulars                                        Levered   Unlevered
+                                                   Firm (`)     Firm (`)
+EBIT
+Less: Interest on debt (10% × ` 1,00,000)            30,000       30,000
+Earnings available to Equity shareholders            10,000             Nil
+Ke                                                   20,000
+Value of Equity (S)                                   12.5%       30,000
+(Earnings available to Equity shareholders/Ke)     1,60,000        12.5%
+Debt (D)                                                        2,40,000
+Value of Firm (V) = S + D
+                                                   1,00,000         Nil
+                                                   2,60,000  2,40,000
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE            5.251.21
+
+Value of Levered company is more than that of unlevered company.
+Therefore, investor will sell his shares in levered company and buy shares in
+unlevered company. To maintain the level of risk he will borrow
+proportionate amount and invest that amount also in shares of unlevered
+company.
+
+2. Investment & Borrowings
+
+                                                   `
+
+Sell shares in Levered company (` 1,60,000 x 15%)  24,000
+
+Borrow money (` 1,00,000 x 15%)                    15,000
+
+Buy shares in Unlevered company                    39,000
+
+3. Change in Return
+
+                                                   `
+
+Income from shares in Unlevered company
+
+(` 39,000 x 12.5%)                                 4,875
+
+Less: Interest on loan (` 15,000 x 10%)            1,500
+
+Net Income from unlevered firm                     3,375
+
+Less: Income from Levered firm (` 24000 x 12.5%)   3,000
+
+Incremental Income due to arbitrage                375
+
+ILLUSTRATION 8
+
+(When value of unlevered firm is more than the value of levered firm.)
+
+There are two companies U Ltd. and L Ltd., having same NOI of ` 20,000 except
+that L Ltd. is a levered company having a debt of ` 1,00,000 @ 7% and cost of
+equity of U Ltd. & L Ltd. are 10% and 18% respectively.
+
+COMPUTE how arbitrage process will work.
+
+© The Institute of Chartered Accountants of India
+          5.22            FINANCIAL MANAGEMENT
+
+SOLUTION
+
+Particulars                                                    Company
+
+                                                   U Ltd.                 L Ltd.
+
+NOI (EBIT)                                         ` 20,000                       ` 20,000
+
+Debt (D)                                                   -              ` 1,00,000
+
+Kd                                                         -                      7%
+
+Ke                                                 10%                            18%
+
+Value of equity capital (S)                        ` 2,00,000                     ` 72,222
+
+    EBIT  - Interest                                20,000               20,000 - 7,000 
+           Ke                                       0.10                          
+                                                                          0.18    
+
+Total value of the firm (V) = S + D                ` 2,00,000             ` 1,72,222
+
+                                                               (` 72,222 + `1,00,000)
+
+Arbitrage Process:
+
+If you have 10% shares of unlevered firm i.e. investment of 10% of ` 2,00,000 =
+` 20,000 and Return @ 10% on ` 20,000. Investment will be 10% of earnings
+available for equity i.e. 10% × ` 20,000 = ` 2,000.
+
+Alternative strategy will be:
+
+Sell your shares in unlevered firm for ` 20,000 and buy 10% shares of levered
+firm's equity plus debt.
+
+10% equity of levered firm                                     ` 7,222
+
+10% debt of levered firm                                       ` 10,000
+
+Total investment in levered firm                               ` 17,222
+
+Your resources are ` 20,000
+
+Surplus cash available = Surplus ­ Investment = ` 20,000 ­ ` 17,222 = ` 2,778
+
+Your return on investment is:
+
+7% on debt of ` 10,000                                                              ` 700
+10% on equity i.e. 10% of earnings available for equity holders (10% × `          ` 1,300
+13,000)
+Total return                                                                      ` 2,000
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE                      5.253.23
+
+In both the cases the return received is ` 2,000 and still you have excess cash of
+`2,778.
+
+Hence, you are better off by doing arbitrage i.e. you will start selling unlevered
+company shares and buy levered company's shares thereby pushing down the
+value of shares of unlevered firm and increasing the value of levered firm till
+equilibrium is reached.
+
+In the above example we have not invested entire amount received from "sale of
+shares of Unlevered company". We also have the same level of earning along with
+reduced investment. Alternatively, we could have invested entire amount in
+Levered company. In that case annual earnings would have increased. An example
+for the same is as follows:
+
+ILLUSTRATION 9
+
+Following data is available in respect of two companies having same business risk:
+
+Capital employed = ` 2,00,000, EBIT = ` 30,000
+
+Sources      Levered Company (`) Unlevered Company (`)
+
+Debt (@10%)  1,00,000                              Nil
+
+Equity       1,00,000                              2,00,000
+
+Ke           20%                                   12.5%
+
+An investor is holding 15% shares in Unlevered company. CALCULATE the increase in
+annual earnings of investor if he switches his holding from Unlevered to Levered Company.
+SOLUTION
+1. Valuation of firms
+
+Particulars                                        Levered   Unlevered
+                                                   Firm (`)   Firm (`)
+EBIT
+Less: Interest on debt (10% × ` 1,00,000)          30,000    30,000
+Earnings available to Equity shareholders
+                                                   10,000              Nil
+
+                                                   20,000    30,000
+
+© The Institute of Chartered Accountants of India
+5.24             FINANCIAL MANAGEMENT
+
+Ke                                                      20%     12.5%
+Value of Equity (S)                                1,00,000  2,40,000
+(Earnings available to Equity shareholders/Ke)
+Debt (D)                                           1,00,000         Nil
+Value of Firm (V) = S + D                          2,00,000  2,40,000
+
+Value of Unlevered company is more than that of Levered company
+therefore investor will sell his shares in Unlevered company and buy shares
+in Levered company. Market value of Debt and Equity of Levered company
+are in the ratio of ` 1,00,000 : ` 1,00,000 i.e. 1:1. To maintain the level of risk
+he will lend proportionate amount (50%) and invest balance amount (50%)
+in shares of Levered company.
+
+2. Investment & Borrowings                                   `
+
+       Sell shares in Unlevered company (` 2,40,000 x 15%)  36,000
+       Lend money (` 36,000 x 50%)                          18,000
+       Buy shares in Levered company (` 36,000 x 50%)       18,000
+       Total                                                36,000
+3. Change in Return
+                                                                   `
+
+Income from shares in Levered company                        3,600
+(` 18,000 x 20%)                                             1,800
+Interest on money lent (` 18,000 x 10%)                      5,400
+Total Income after switch over                               4,500
+Less: Income from Unlevered firm (` 36,000 x 12.5%)
+Incremental Income due to arbitrage                            900
+
+ILLUSTRATION 10
+
+Blue Ltd., an all equity financed company is considering the repurchase of ` 275
+lakhs equity shares and to replace it with 15% debentures of the same amount.
+Current market value of the company is ` 1,750 lakhs with its cost of capital of
+20%. The company's Earnings before Interest and Taxes (EBIT) are expected to
+remain constant in future years. The company also has a policy of distributing its
+entire earnings as dividend.
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE                                           5.255.25
+
+Assuming the corporate tax rate as 30%, you are required to CALCULATE the
+impact on the following on account of the change in the capital structure as per
+Modigliani and Miller (MM) Approach:
+
+(i) Market value of the company
+(ii) Overall Cost of capital
+(iii) Cost of equity
+
+SOLUTION
+
+Workings:                                          =  Net income (NI) for equity  holders
+Market Value of Equity                                                  Ke
+
+` 1,750 lakhs                                      =  Net income (NI) for equity holders
+Net Income to equity holders/EAT
+Therefore, EBIT                                                   0.20
+
+                                                   = ` 350 lakhs
+
+                                                   = EAT = ` 350 lakhs = ` 500 lakhs
+                                                      (1- t) (1 ­ 0.3)
+
+          Income Statement
+
+EBIT (as calculated above)                             All Equity       Equity & Debt
+Interest on ` 275 lakhs @ 15%                         (` In lakhs)          (` In lakhs)
+EBT
+Tax @ 30%                                                        500               500.00
+Income available to equity holders                                  -                41.25
+
+                                                                 500               458.75
+                                                                 150               137.63
+                                                                 350               321.12
+
+(i) Market value of the company
+
+Market value of levered firm = Value of unlevered firm + Tax Advantage
+                                         = ` 1,750 lakhs + (` 275 lakhs x 0.3)
+                                         = ` 1,832.5 lakhs
+
+Change in market value of the company = ` 1,832.5 lakhs ­ ` 1,750 lakhs
+                                                         = ` 82.50 lakhs
+
+© The Institute of Chartered Accountants of India
+   5.26               FINANCIAL MANAGEMENT
+
+The impact is that the market value of the company has increased by ` 82.50
+lakhs due to replacement of equity with debt.
+
+(ii) Overall Cost of Capital
+
+Market Value of Equity = Market value of levered firm - Equity repurchased
+
+                      = ` 1,832.50 lakhs ­ ` 275 lakhs = ` 1,557.50 lakhs
+
+Cost of Equity (Ke)   =          Net Income to equity holders           ×100
+                                     Market value of equity
+
+                              =  ` 321.12 lakhs    ×100  =  20.62%
+                                 ` 1,557.50 lakhs
+
+Cost of debt (Kd)     = I (1 - t) = 15 (1 - 0.3) = 10.50%
+
+Components                Amount                   Cost of Capital      Weight      WACC (Ko)
+                      (` In lakhs)                                   %                          %
+Equity                                                                      0.85
+Debt                      1,557.50                               20.62      0.15            17.53
+                             275.00                              10.50                       1.58
+                                                                                 1
+                          1,832.50                                                          19.11
+
+The impact is that the Overall Cost of Capital or Ko has fallen by 0.89% (20% -
+19.11%) due to the benefit of tax relief on debt interest payment.
+
+(iii) Cost of Equity
+
+The impact is that cost of equity has risen by 0.62% (20.62% - 20%) due to
+the presence of financial risk i.e. introduction of debt in capital structure.
+
+Note: Cost of Capital and Cost of equity can also be calculated with the help
+of following formulas, though there will be no change in the final answers.
+
+Cost of Capital (Ko) = Keu [1 ­ (t x L)]
+
+Where,
+
+Keu = Cost of equity in an unlevered company
+
+t = Tax rate
+
+L  =       Debt
+      Debt + Equity
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE                                      5.257.27
+
+So, Ko = 0.20 1- 0.3 × ` `1,823725.5laklahkshs= 0.191 or 19.10% (approx.)
+
+Cost       of  Equity  (Ke)  =  Keu    +           (Keu  ­  Kd)  Debt (1-t)
+                                                                   Equity
+
+Where,
+
+Keu = Cost of equity in an unlevered company
+
+Kd = Cost of debt
+
+t = Tax rate
+
+So, Ke  =  0.20  +    (0.20  -  0.15)  ×           `  275 lakhs  (1- 0.3)    = 0.2062 or 20.62%
+                                                      ` 1,557.5  lakhs     
+                                                                           
+
+2.5 The Trade-off Theory
+
+The trade-off theory of capital structure refers to the idea that a company
+chooses how much debt finance and how much equity finance to use by
+balancing the costs and benefits. Trade-off theory of capital structure basically
+entails offsetting the costs of debt against the benefits of debt.
+
+Trade-off theory of capital structure primarily deals with two concepts - cost of
+financial distress and agency costs. An important purpose of the trade-off theory
+of capital structure is to explain the fact that corporations usually are financed
+partly with debt and partly with equity.
+
+It states that there is an advantage to financing with debt, the tax benefits of
+debt and there is a cost of financing with debt, the costs of financial distress
+including bankruptcy costs of debt and non-bankruptcy costs (e.g. staff leaving,
+suppliers demanding disadvantageous payment terms, bondholder/ stockholder
+infighting, etc).
+
+The marginal benefit of further increases in debt declines as debt increases, while
+the marginal cost increases, so that a firm that is optimizing its overall value will
+focus on this trade-off when choosing how much debt and equity to use for
+financing. Modigliani and Miller in 1963 introduced the tax benefit of debt. Later
+work led to an optimal capital structure which is given by the trade-off theory.
+According to Modigliani and Miller, the attractiveness of debt decreases with the
+personal tax on the interest income. A firm experiences financial distress when the
+
+© The Institute of Chartered Accountants of India
+5.28  FINANCIAL MANAGEMENT
+
+firm is unable to cope with the debt holders' obligations. If the firm continues to
+fail in making payments to the debt holders, the firm can even be insolvent.
+
+The first element of Trade-off theory of capital structure, considered as the cost
+of debt is usually the financial distress costs or bankruptcy costs of debt. The
+direct cost of financial distress refers to the cost of insolvency of a company.
+Once the proceedings of insolvency start, the assets of the firm may be needed to
+be sold at distress price, which is generally much lower than the current values of
+the assets. A huge amount of administrative and legal costs is also associated
+with the insolvency. Even if the company is not insolvent, the financial distress of
+the company may include a number of indirect costs like - cost of employees,
+cost of customers, cost of suppliers, cost of investors, cost of managers and cost
+of shareholders.
+
+The firms may often experience a dispute of interests among the management of
+the firm, debt holders and shareholders. These disputes generally give birth to
+agency problems that in turn give rise to the agency costs. The agency costs may
+affect the capital structure of a firm. There may be two types of conflicts -
+shareholders-managers conflict and shareholders-debt holders conflict. The
+introduction of a dynamic Trade-off theory of capital structure makes the
+predictions of this theory a lot more accurate and reflective of that in practice.
+
+          Value of Firm
+
+As the Debt-equity ratio (i.e. leverage) increases, there is a trade-off between the
+interest tax shield and bankruptcy, causing an optimum capital structure.
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE                    5.259.29
+
+2.6 Pecking Order Theory
+
+This theory is based on Asymmetric information, which refers to a situation in
+which different parties have different information. In a firm, managers will have
+better information than investors. This theory states that firms prefer to issue
+debt when they are positive about future earnings. Equity is issued when they are
+doubtful and internal finance is insufficient.
+
+The pecking order theory argues that the capital structure decision is affected by
+manager's choice of a source of capital that gives higher priority to sources that
+reveal the least amount of information.
+
+Myers has given the name `PECKING ORDER' theory as here is no well-defined
+debt-equity target and there are two kind of equity internal and external. Now
+Debt is cheaper than both internal and external equity because of interest. Further
+internal equity is less than external equity particularly because of no
+transaction/issue cost, no tax etc.
+
+Pecking order theory suggests that managers may use various sources for raising
+of fund in the following order:
+
+1. Managers first choice is to use internal finance.
+
+2. In absence of internal finance, they can use secured debt, unsecured debt,
+       hybrid debt etc.
+
+3. Managers may issue new equity shares as a last option.
+
+Pecking Order Theory                               Trade-off Theory
+
+Internal Financing                                 Debt
+
+Debt                                               Equity
+
+Equity
+
+Financial Hierarchy
+
+© The Institute of Chartered Accountants of India
+5.30          FINANCIAL MANAGEMENT
+
+3. FACTORS DETERMINING CAPITAL STRUC-
+    TURE
+
+3.1 Choice of source of funds
+
+A firm has the choice to raise funds for financing its investment proposals from
+different sources in different proportions. It can:
+(a) Exclusively use debt (in case of existing company), or
+(b) Exclusively use equity capital, or
+(c) Exclusively use preference share capital (in case of existing company), or
+(d) Use a combination of debt and equity in different proportions, or
+(e) Use a combination of debt, equity and preference capital in different
+
+       proportions, or
+(f) Use a combination of debt and preference capital in different proportion (in
+
+       case of existing company).
+The choice of the combination of these sources is called capital structure mix. But
+the question is which of the pattern should the firm choose?
+
+3.2 Factors affecting capital structure
+
+ Financial                                         Flexibility           Other
+leverage or                                        Principle       Considerations
+Trading on
+
+   Equity
+
+Growth and                                         Control
+stability of                                       Principle
+
+     sales
+
+Cost Principle                                     Risk Principle
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE            5.351.31
+
+While choosing a suitable financing pattern, certain fundamental principles
+should be kept in mind, to design capital structure, which are discussed below:
+
+(1) Financial leverage or Trading on Equity: The use of long-term fixed
+       interest bearing debt and preference share capital along with equity share
+       capital is called financial leverage or trading on equity. The use of long-term
+       debt increases the earnings per share if the firm yields a return higher than
+       the cost of debt. The earnings per share also increase with the use of
+       preference share capital but due to the fact that interest is allowed to be
+       deducted while computing tax, the leverage impact of debt is much more.
+       However, leverage can operate adversely also if the rate of interest on long-
+       term loan is more than the expected rate of earnings of the firm. Therefore,
+       it needs caution to plan the capital structure of a firm.
+
+(2) Growth and stability of sales: The capital structure of a firm is highly
+       influenced by the growth and stability of its sales. If the sales of a firm are
+       expected to remain fairly stable, it can raise a higher level of debt. Stability
+       of sales ensures that the firm will not face any difficulty in meeting its fixed
+       commitments of interest repayments of debt. Similarly, the rate of the
+       growth in sales also affects the capital structure decision. Usually, greater
+       the rate of growth of sales, greater can be the use of debt in the financing
+       of firm. On the other hand, if the sales of a firm are highly fluctuating or
+       declining, it should not employ, as far as possible, debt financing in its
+       capital structure.
+
+(3) Cost Principle: According to this principle, an ideal pattern or capital
+       structure is one that minimizes cost of capital structure and maximizes
+       earnings per share (EPS). For e.g. Debt capital is cheaper than equity capital
+       from the point of its cost and interest being deductible for income tax
+       purpose, whereas no such deduction is allowed for dividends.
+
+(4) Risk Principle: According to this principle, reliance is placed more on
+       common equity for financing capital requirements than excessive use of
+       debt. Use of more and more debt means higher commitment in form of
+       interest payout. This would lead to erosion of shareholders' value in
+       unfavorable business situation. With increase in amount of Debt, financial
+       risk increase and vice versa.
+
+© The Institute of Chartered Accountants of India
+5.32  FINANCIAL MANAGEMENT
+
+(5) Control Principle: While designing a capital structure, the finance manager
+       may also keep in mind that existing management control and ownership
+       remains undisturbed. Issue of new equity will dilute existing control pattern
+       and it also involves higher cost. Issue of more debt causes no dilution in
+       control but causes a higher degree of financial risk.
+
+(6) Flexibility Principle: By flexibility, it means that the management chooses
+       such a combination of sources of financing which it finds easier to adjust
+       according to changes in need of funds in future too. While debt could be
+       interchanged (If the company is loaded with a debt of 18% and funds are
+       available at 15%, it can return old debt with new debt, at a lesser interest
+       rate), but the same option may not be available in case of equity
+       investment.
+
+(7) Other Considerations: Besides above principles, other factors such as
+       nature of industry, timing of issue and competition in the industry should
+       also be considered. Industries facing severe competition also resort to more
+       equity than debt.
+
+Thus, a finance manager in designing a suitable pattern of capital structure must
+bring about satisfactory compromise between the above principles. The
+compromise can be reached by assigning weights to these principles in terms of
+various characteristics of the company.
+
+     4. OPTIMAL CAPITAL STRUCTURE
+
+Objective of financial management is to maximize wealth. Therefore, one
+should choose a capital structure which maximizes wealth. For this purpose,
+following analysis should be done:
+
+(1) EBIT-EPS-MPS analysis: Chose a capital structure which maximizes market
+       price per share. For that, start with same EBIT for all capital structures and
+       calculate EPS. Thereafter, either multiply EPS by price earning ratio or divide
+       it by cost of equity to arrive at MPS.
+
+(2) Indifference Point analysis: In above analysis, we have considered value at a
+       given EBIT only. What will happen if EBIT changes? Will it change your
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE            5.353.33
+
+       decision also? To answer this question, you can do indifference point
+       analysis.
+
+(3) Financial Break-Even Point (BEP) analysis: With change in capital structure,
+       financial risk also changes. Though this risk has already been considered in
+       PE ratio or in cost of equity in point one above, but one may calculate and
+       consider it separately also by calculating Financial BEP.
+
+     5. EBIT-EPS-MPS ANALYSIS
+
+5.1 Relationship between EBIT-EPS-MPS
+
+The basic objective of financial management is to design an appropriate capital
+structure which can provide the highest wealth, i.e., highest MPS, which in turn
+depends on EPS.
+
+Given a level of EBIT, EPS will be different under different financing mix
+depending upon the extent of debt financing. The effect of leverage on the EPS
+emerges because of the existence of fixed financial charge i.e., interest on debt,
+financial fixed dividend on preference share capital. The effect of fixed financial
+charge on the EPS depends upon the relationship between the rate of return on
+assets and the rate of fixed charge. If the rate of return on assets is higher than
+the cost of financing, then the increasing use of fixed charge financing (i.e., debt
+and preference share capital) will result in increase in the EPS. This situation is
+also known as favourable financial leverage or Trading on Equity. On the other
+hand, if the rate of return on assets is less than the cost of financing, then the
+effect may be negative and, therefore, the increasing use of debt and preference
+share capital may reduce the EPS of the firm.
+
+The fixed financial charge financing may further be analysed with reference to the
+choice between the debt financing and the issue of preference shares. Theoretically,
+the choice is tilted in favour of debt financing for two reasons: (i) the explicit cost of
+debt financing i.e., the rate of interest payable on debt instruments or loans is
+generally lower than the rate of fixed dividend payable on preference shares, and (ii)
+interest on debt financing is tax-deductible and therefore the real cost (after-tax) is
+lower than the cost of preference share capital.
+
+© The Institute of Chartered Accountants of India
+5.34             FINANCIAL MANAGEMENT
+
+Thus, the analysis of the different types of capital structure and the effect of leverage
+on the expected EPS and eventually MPS will provide a useful guide to selection of a
+particular level of debt financing. The EBIT-EPS analysis is of significant importance
+and if undertaken properly, can be an effective tool in the hands of a financial
+manager to get an insight into the planning and designing of the capital structure of
+the firm.
+
+ILLUSTRATION 11
+
+Suppose that a firm has an all equity capital structure consisting of 1,00,000
+ordinary shares of ` 10 per share. The firm wants to raise ` 2,50,000 to finance its
+investments and is considering three alternative methods of financing ­ (i) to issue
+25,000 ordinary shares at ` 10 each, (ii) to borrow ` 2,50,000 at 8 per cent rate of
+interest, (iii) to issue 2,500 preference shares of ` 100 each at an 8 per cent rate of
+dividend. If the firm's earnings before interest and taxes after additional investment
+are ` 3,12,500 and the tax rate is 50 per cent, FIND the effect on the earnings per
+share under the three financing alternatives.
+
+SOLUTION
+
+EPS under alternative financing plans:
+
+Particulars                                          Equity             Debt           Preference
+                                                   Financing         Financing         Financing
+EBIT
+Less: Interest                                                 (`)               (`)                (`)
+PBT                                                     3,12,500          3,12,500           3,12,500
+Less: Taxes
+PAT                                                               0         20,000                     0
+Less: Preference dividend                               3,12,500          2,92,500           3,12,500
+Earnings available to ordinary                          1,56,250          1,46,250           1,56,250
+shareholders                                            1,56,250          1,46,250           1,56,250
+Shares outstanding
+EPS                                                               0                 0          20,000
+                                                        1,56,250          1,46,250            136,250
+
+                                                        1,25,000          1,00,000           1,00,000
+                                                              1.25              1.46               1.36
+
+© The Institute of Chartered Accountants of India
+          FINANCING DECISIONS ­ CAPITAL STRUCTURE                                       5.355.35
+
+The firm is able to maximize the earnings per share when it uses debt financing.
+Though the rate of preference dividend is equal to the rate of interest, EPS is high
+in case of debt financing because interest charges are tax deductible while
+preference dividends are not. With increasing levels of EBIT, EPS will increase at a
+faster rate with a high degree of leverage.
+
+We know that market price per share is equal to earning per share multiplied by
+price earning (PE) ratio. If PE ratio is same for all three plans, then the plan which
+has highest EPS will also have highest MPS and it will be selected. On the other
+hand, if PE ratio for equity plan is 10 times, for debt plan it is 8 times and for
+preference plan it is 7 times then:
+
+EPS                                                1.25               1.46                        1.36
+PE ratio
+MPS                                                x10                x8                          x7
+
+                                                   12.50              11.68                       9.52
+
+Now despite of lower EPS, equity plan will be selected because it has highest MPS.
+
+However, if a company is not able to earn a rate of return on its assets higher than
+the interest rate (or the preference dividend rate), debt (or preference financing) will
+have an adverse impact on EPS. Suppose the firm in illustration above has an EBIT of
+`75,000, then EPS under different methods will be as follows:
+
+EPS under alternative financing methods: Unfavourable EBIT:
+
+            Particulars                              Equity              Debt           Preference
+                                                   Financing          Financing         Financing
+EBIT
+Less: Interest                                                   (`)              (`)                (`)
+PBT
+Less: Taxes                                                 75,000           75,000             75,000
+PAT                                                                0         20,000                    0
+Less: Preference dividend                                                    55,000
+Earnings available to ordinary                              75,000           27,500             75,000
+shareholders                                                37,500           27,500             37,500
+Shares outstanding                                          37,500                              37,500
+EPS                                                                                  0          20,000
+                                                                   0         27,500             17,500
+                                                            37,500
+
+                                                   1,25,000           1,00,000          1,00,000
+                                                        0.30              0.275             0.175
+
+© The Institute of Chartered Accountants of India
+5.36  FINANCIAL MANAGEMENT
+
+It is obvious that under unfavourable conditions i.e.,] when the rate of return on
+the total assets is less than the cost of debt, the earnings per share will fall with
+the degree of leverage.
+
+5.2 Financial Break-Even Point (BEP) and Indifference
+      Point Analysis
+
+Financial break-even point is the minimum level of EBIT needed to satisfy all the
+fixed financial charges i.e. interests and preference dividends. It denotes the level
+of EBIT for which the company's EPS equals zero.
+
+Financial breakeven point (BEP) can be calculated as:
+
+      Financial Break-even point = Interest + Preference dividend/(1 - tax rate)
+
+If the EBIT is less than the financial break-even point, then the EPS will be
+negative but if the expected level of EBIT is more than the break-even point, then
+more fixed costs financing instruments can be taken in the capital structure,
+otherwise, equity would be preferred.
+EBIT-EPS break-even analysis is used for determining the appropriate amount of
+debt a company might carry.
+Another method of considering the impact of various financing alternatives on
+earnings per share is to prepare the EBIT chart or the range of Earnings chart. This
+chart shows the likely EPS at various probable EBIT levels. Thus, under one
+particular alternative, EPS may be ` 2 at a given EBIT level. However, the EPS may
+go down if another alternative of financing is chosen even though the EBIT
+remains at the same level. At a given EBIT, earnings per share under various
+
+© The Institute of Chartered Accountants of India
+        FINANCING DECISIONS ­ CAPITAL STRUCTURE                        5.357.37
+
+alternatives of financing may be plotted. A straight line representing the EPS at
+various levels of EBIT under the alternative may be drawn. Wherever this line
+intersects, it is known as break-even point. This point is a useful guide in
+formulating the capital structure. This is known as EPS equivalency point or
+indifference point since this shows that, between the two given alternatives of
+financing (i.e., regardless of leverage in the financial plans), EPS would be the
+same at the given level of EBIT.
+
+The equivalency or indifference point can also be calculated algebraically in the
+following manner:
+
+        (EBIT-I1)(1-t)                             =  (EBIT-I2)(1-t)
+               E1                                            E2
+
+Where,
+
+EBIT    = Indifference point
+
+E1      = Number of equity shares in Alternative 1
+
+E2      = Number of equity shares in Alternative 2
+
+I1      = Interest charges in Alternative 1
+
+I2      = Interest charges in Alternative 2
+
+t       = Tax-rate
+
+Just keep in mind that if amount of equity share capital is same under two
+
+financial plans, then one of the following two situations will arise:
+
+1. No indifference point: If after tax cost of the source other than equity
+       shares is not same under both plans then there will be no indifference point
+       between the two. Because one plan will be better than other at all levels of
+       EBIT. For example, if two plans have equity shares of ` 1,00,000 each. Plan 1
+       has 10% debentures of ` 50,000 while plan 2 has 8% Term loan of ` 50,000.
+       Then plan 2 will be better than plan 1 at any level of EBIT and there will be
+       no indifference point.
+
+© The Institute of Chartered Accountants of India
+5.38  FINANCIAL MANAGEMENT
+
+2. Many indifference points: If after tax cost of the source other than equity
+       shares is same under both plans then each EBIT will be an indifference
+       point.
+
+                                  Debt-Equity Indifference Point
+ILLUSTRATION 12
+Best of Luck Ltd., a profit making company, has a paid-up capital of ` 100 lakhs
+consisting of 10 lakhs ordinary shares of ` 10 each. Currently, it is earning an
+annual pre-tax profit of ` 60 lakhs. The company's shares are listed and are quoted
+in the range of ` 50 to ` 80. The management wants to diversify production and
+has approved a project which will cost ` 50 lakhs and which is expected to yield a
+pre-tax income of ` 40 lakhs per annum. To raise this additional capital, the
+following options are under consideration of the management:
+
+© The Institute of Chartered Accountants of India
+       FINANCING DECISIONS ­ CAPITAL STRUCTURE                              5.359.39
+
+(a) To issue equity share capital for the entire additional amount. It is expected
+       that the new shares (face value of ` 10) can be sold at a premium of ` 15.
+
+(b) To issue 16% non-convertible debentures of ` 100 each for the entire amount.
+
+(c) To issue equity capital for ` 25 lakhs (face value of ` 10) and 16% non-
+       convertible debentures for the balance amount. In this case, the company can
+       issue shares at a premium of ` 40 each.
+
+ADVISE which option is the most suitable to raise the additional capital, keeping in
+mind that the management wants to maximize the earnings per share to maintain
+its goodwill. The company is paying income tax at 50%.
+
+SOLUTION
+
+Calculation of Earnings per share under the three options:
+
+                                                              Options
+
+Particulars                Option I:                           Option II:     Option III:
+
+                         Issue Equity                          Issue 16%     Issue Equity
+                         shares only                          Debentures      Shares and
+
+                                                                   only            16%
+                                                                            Debentures of
+                                                                            equal amount
+
+Number of Equity Shares         10,00,000                     10,00,000     10,00,000
+- Existing
+- Newly issued                 2,00,000                                ---            50,000
+                          `50,00,000 
+                          `(10+15)                                           `25,00,000 
+                                                                             `(10+40) 
+
+Total                                              12,00,000  10,00,000     10,50,000
+
+16% Debentures (`)                                 ---        50,00,000     25,00,000
+
+© The Institute of Chartered Accountants of India
+           5.40      FINANCIAL MANAGEMENT
+
+                                              `                  `  `
+
+Profit Before Interest and         60,00,000       60,00,000        60,00,000
+Tax:                               40,00,000
+- Existing pre-tax profit       1,00,00,000        40,00,000        40,00,000
+
+- From new projects                         ---
+
+                                1,00,00,000        1,00,00,000      1,00,00,000
+                                   50,00,000
+Less: Interest on 16%              50,00,000           8,00,000         4,00,000
+Debentures                        4.17
+                                                        (16% ×           (16% ×
+                             ` 50,00,000           `50,00,000)      `25,00,000)
+                             12,00,000 
+Profit Before Tax                                  92,00,000        96,00,000
+
+Less: Tax at 50%                                   46,00,000        48,00,000
+
+Profit After Tax                                   46,00,000        48,00,000
+
+Earnings Per Share (EPS)                                 4.60             4.57
+
+ PAT                                                `46,00,000       `48,00,000 
+                                                    10,00,000        10,50,000 
+  No.  of  Shares  
+
+Advise: Option II i.e., issue of 16% Debentures is most suitable to maximize the
+earnings per share.
+
+ILLUSTRATION 13
+
+Shahji Steel Limited requires ` 25,00,000 for a new plant. This plant is expected to
+yield earnings before interest and taxes of ` 5,00,000. While deciding about the
+financial plan, the company considers the objective of maximizing earnings per
+share. It has three alternatives to finance the project - by raising debt of ` 2,50,000
+or ` 10,00,000 or ` 15,00,000 and the balance, in each case, by issuing equity
+shares. The company's share is currently selling at ` 150 but is expected to decline
+to ` 125 in case the funds are borrowed in excess of ` 10,00,000. The funds can be
+borrowed at the rate of 10 percent upto ` 2,50,000, at 15 percent over ` 2,50,000
+and upto ` 10,00,000 and at 20 percent over ` 10,00,000. The tax rate applicable to
+the company is 50 percent. ANALYSE which form of financing should the company
+choose?
+
+© The Institute of Chartered Accountants of India
+        FINANCING DECISIONS ­ CAPITAL STRUCTURE                               5.451.41
+
+SOLUTION
+
+Plan I        = Raising Debt of ` 2.5 lakh + Equity of ` 22.5 lakh
+
+Plan II = Raising Debt of ` 10 lakh + Equity of ` 15 lakh
+
+Plan III = Raising Debt of ` 15 lakh + Equity of ` 10 lakh
+
+Calculation of Earnings per share (EPS):
+
+                                                   FINANCIAL PLANS
+
+Particulars                 Plan I                             Plan II        Plan III
+
+                                                   `                       `              `
+
+Expected EBIT                                       5,00,000    5,00,000       5,00,000
+Less: Interest (a)                                   (25,000)  (1,37,500)     (2,37,500)
+Earnings before taxes                               4,75,000
+Less: Taxes @ 50%                                  (2,37,500)   3,62,500       2,62,500
+Earnings after taxes (EAT)                          2,37,500   (1,81,250)     (1,31,250)
+Number of shares (b)
+Earnings per share (EPS)                               15,000   1,81,250       1,31,250
+                                                        15.83      10,000          8,000
+                                                                    18.13          16.41
+
+Financing Plan II (i.e. Raising debt of ` 10 lakh and issue of equity share capital of
+` 15 lakh) is the option which maximises the earnings per share.
+
+Working Notes:
+(a) Calculation of interest on Debt
+
+        Plan  (` 2,50,000 × 10%)                                        `              `
+        I     (` 2,50,000 × 10%)                                                25,000
+        II    (` 7,50,000 × 15%)                                 25,000       1,37,500
+              (` 2,50,000 × 10%)                               1,12,500
+        III   (` 7,50,000 × 15%)                                              2,37,500
+              (` 5,00,000 × 20%)                                 25,000
+                                                               1,12,500
+                                                               1,00,000
+
+© The Institute of Chartered Accountants of India
+5.42             FINANCIAL MANAGEMENT
+
+(b) Number of equity shares to be issued
+
+Plan I    =      ` 22,50,000                               = 15,000 shares
+
+             ` 150 (Market price of share)
+
+Plan II   =  ` 15,00,000  =10,000                  shares
+Plan III        ` 150
+
+          =  ` 10,00,000  = 8,000                  shares
+                ` 125
+
+ILLUSTRATION 14
+
+The following data are presented in respect of Quality Automation Ltd.:
+
+Profit before interest and tax                                                      (`)
+Less: Interest on debentures @ 12%                                          52,00,000
+Profit before tax                                                           12,00,000
+Less: Income tax @ 50%                                                      40,00,000
+Profit After tax                                                            20,00,000
+No. of equity shares (of ` 10 each)                                         20,00,000
+EPS
+PE Ratio                                                                     8,00,000
+Market price per share                                                               2.5
+                                                                                     10
+                                                                                     25
+
+The company is planning to start a new project requiring a total capital outlay of
+` 40,00,000. You are informed that a debt equity ratio (D/D+E) higher than 35%,
+pushes the Ke up to 12.5%, means reducing the PE ratio to 8 and rises the interest
+rate on additional amount borrowed to 14%. FIND OUT the probable price of share
+if:
+
+(i) the additional funds are raised as a loan.
+
+(ii) the amount is raised by issuing equity shares.
+
+(Note: Retained earnings of the company is ` 1.2 crore)
+
+© The Institute of Chartered Accountants of India
+    FINANCING DECISIONS ­ CAPITAL STRUCTURE                         5.453.43
+
+SOLUTION
+
+In this question, EBIT after proposed extension is not given. Therefore, we can
+assume that existing return on capital employed will be maintained.
+
+Working notes:
+
+1.  Return  on  Capital  Employed       =           EBIT         =   ` 52,00,000 =17.33%
+                                           Capital Employed         ` 3,00,00,000
+
+    Capital Employed = Debt + Equity
+                            = ` 1,00,00,000 + (` 80,00,000 + ` 1,20,00,000)
+                            = ` 3,00,00,000
+
+2. Proposed EBIT = Proposed Capital Employed x Return on capital employed
+                             = (` 3,00,00,000 + ` 40,00,000) x 17.33%
+                             = ` 58,92,200
+
+    (If you take return on capital employed in full digits then accurate EBIT will
+    be ` 58,93,333.)
+
+3.  Debt  Equity  Ratio  =       Debt
+                            Debt+Equity
+
+    Option1: Loan option
+    Debt = ` 1,00,00,000 + ` 40,00,000 = ` 1,40,00,000
+
+    Equity = ` 2,00,00,000
+
+    Debt  Equity  ratio=       1.4 cr.  cr.        =  41.18%
+                            1.4 cr.+2
+
+    Debt equity ratio has crossed the limit of 35%, hence, PE ratio in this case
+    will be 8 times and additional borrowing will be at the rate of 14%.
+
+    Option2: Equity option
+
+    Debt = ` 1,00,00,000
+
+    Equity = ` 2,00,00,000 + ` 40,00,000 = ` 2,40,00,000
+
+    Debt  Equtiy  ratio=    `  1   ` 1 cr.         cr.  =29.41%
+                                  cr.+ ` 2.4
+
+© The Institute of Chartered Accountants of India
+       5.44            FINANCIAL MANAGEMENT
+
+       Debt equity ratio has not crossed the limit of 35% hence PE ratio in this case
+       will remain at 10 times.
+
+4. Number of equity shares to be issued in case of equity option @ ` 25 per
+       share = ` 40,00,000 / ` 25 = 1,60,000
+
+Calculation of EPS and MPS under two financial options
+
+                                                        Financial Options
+
+                                                   Option I      Option II
+
+                            14% additional                       8,00,000       equity
+                            loan of 40,00,000
+Particulars                                                      shares @ ` 10 i.e
+
+                                                                 1,60,000       equity
+
+                                                                 shares @ ` 25
+
+                                                   (`)                     (`)
+
+Profit before interest and                         58,92,200                    58,92,200
+Tax (PBIT)
+
+Less: Interest on old                              12,00,000                    12,00,000
+debentures @ 12%
+
+Less:        Interest  on                          5,60,000                     Nil
+
+additional loan (new) @
+
+14% on ` 40,00,000
+
+Profit before tax                                  41,32,200                    46,92,000
+
+Less: Taxes @ 50%                                  20,66,100                    23,46,100
+Earnings for equity                                20,66,100                    23,46,100
+shareholders (EAT/Profit
+after tax)                                          8,00,000                     9,60,000
+Number of Equity Shares                                   2.58                         2.44
+Earnings per Share (EPS)                                      8                          10
+Price/ Earnings ratio
+Market price per share                                  20.66                        24.44
+(MPS)
+
+Decision: Though loan option has higher EPS but equity option has higher
+MPS therefore company should raise additional fund through equity option.
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE            5.455.45
+
+     6. OVER-CAPITALISATION AND UNDER-CAPIT-
+          ALISATION
+
+6.1 Over-Capitalisation
+
+It is a situation where a firm has more capital than it needs or in other words
+assets are worth less than its issued share capital, and earnings are insufficient to
+pay dividend and interest. This situation mainly arises when the existing capital is
+not effectively utilized on account of fall in earning capacity of the company while
+company has raised funds more than its requirements. The chief sign of over-
+capitalisation is the fall in payment of dividend and interest leading to fall in value
+of the shares of the company.
+
+Causes of Over-Capitalisation: Over-capitalisation arises due to following
+reasons:
+
+(i) Raising more money through issue of shares or debentures than company
+       can employ profitably.
+
+(ii) Borrowing huge amount at higher rate than rate at which company can
+       earn.
+
+(iii) Excessive payment for the acquisition of fictitious assets such as goodwill
+       etc.
+
+(iv) Improper provision for depreciation, replacement of assets and distribution
+       of dividends at a higher rate.
+
+(v) Wrong estimation of earnings and capitalisation.
+Consequences of Over-Capitalisation: Over-capitalisation results in the
+following consequences:
+
+(i) Considerable reduction in the rate of dividend and interest payments.
+
+(ii) Reduction in the market price of shares.
+
+(iii) Resorting to "window dressing".
+
+(iv) Some companies may opt for reorganization. However, sometimes the
+       matter gets worse and the company may go into liquidation.
+
+© The Institute of Chartered Accountants of India
+5.46  FINANCIAL MANAGEMENT
+
+Remedies for Over-Capitalisation: Following steps may be adopted to avoid the
+negative consequences of over-capitalisation:
+
+(i) Company should go for thorough reorganization.
+
+(ii) Buyback of shares.
+
+(iii) Reduction in claims of debenture-holders and creditors.
+
+(iv) Value of shares may also be reduced. This will result in sufficient funds for
+       the company to carry out replacement of assets.
+
+6.2 Under-Capitalisation
+
+It is just reverse of over-capitalisation. It is a state, when its actual capitalisation is
+lower than its proper capitalisation as warranted by its earning capacity. This
+situation normally happens with companies which have insufficient capital but
+large secret reserves in the form of considerable appreciation in the values of the
+fixed assets not brought into the books.
+
+Consequences of Under-Capitalisation: Under-capitalisation results in the
+following consequences:
+
+(i) The dividend rate will be higher in comparison to similarly situated
+       companies.
+
+(ii) Market value of shares will be higher than value of shares of other similar
+       companies because their earning rate being considerably more than the
+       prevailing rate on such securities.
+
+(iii) Real value of shares will be higher than their book value.
+
+Effects of Under-Capitalisation: Under-capitalisation has the following effects:
+
+(i) It encourages acute competition. High profitability encourages new
+       entrepreneurs to come into same type of business.
+
+(ii) High rate of dividend encourages the workers' union to demand high wages.
+
+(iii) Normally common people (consumers) start feeling that they are being
+       exploited.
+
+(iv) Management may resort to manipulation of share values.
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE            5.457.47
+
+(v) Invite more government control and regulation on the company and higher
+       taxation also.
+
+Remedies for Under-Capitalisation: Following steps may be adopted to avoid
+the negative consequences of under-capitalization:
+
+(i) The shares of the company should be split up. This will reduce dividend per
+       share, though EPS shall remain unchanged.
+
+(ii) Issue of Bonus Shares is the most appropriate measure as this will reduce
+       both dividend per share and the average rate of earning.
+
+(iii) By revising upward the par value of shares in exchange of the existing
+       shares held by them.
+
+6.3 Over-Capitalisation vis-à-vis Under-Capitalisation
+
+From the above discussion it can be said that both over-capitalisation and under-
+capitalisation are not good. However, over-capitalisation is more dangerous to
+the company, shareholders and the society than under-capitalisation. The
+situation of under-capitalisation can be handled more easily than the situation of
+over-capitalisation. Moreover, under-capitalisation is not an economic problem
+but a problem of adjusting capital structure. Thus, under-capitalisation should be
+considered less dangerous but both situations are bad and every company should
+strive to have a proper capitalisation.
+
+SUMMARY
+
+ Capital Structure: Capital structure refers to the mix of a firm's
+       capitalisation (mix of long term sources of funds such as debentures,
+       preference share capital, equity share capital and retained earnings for
+       meeting total capital requirement). While choosing a suitable financing
+       pattern, certain factors like cost, risk, control, flexibility and other
+       considerations like nature of industry, competition in the industry etc.
+       should be considered.
+
+ Capital Structure Theories: The following approaches explain the
+       relationship between cost of capital, capital structure and value of the firm:
+
+       Net income (NI) approach
+
+© The Institute of Chartered Accountants of India
+5.48  FINANCIAL MANAGEMENT
+
+       Net operating income (NOI) approach
+       Modigliani-Miller (MM) approach
+       Traditional approach
+       Trade-off Theory
+       Pecking Order Theory
+ Optimal Capital Structure (EBIT-EPS Analysis): The basic objective of
+       financial management is to design an appropriate capital structure which
+       can provide the highest earnings per share (EPS) over the firm's expected
+       range of earnings before interest and taxes (EBIT). EPS measures a firm's
+       performance for the investors. The level of EBIT varies from year to year and
+       represents the success of a firm's operations. EBIT-EPS analysis is a vital tool
+       for designing the optimal capital structure of a firm. The objective of this
+       analysis is to find the EBIT level that will equate EPS regardless of the
+       financing plan chosen.
+
+ Over-capitalisation: It is a situation where a firm has more capital than it
+       needs or in other words assets are worth less than its issued share capital,
+       and earnings are insufficient to pay dividend and interest.
+
+ Under-capitalisation: It is just reverse of over-capitalisation. It is a state,
+       when its actual capitalization is lower than its proper capitalization as
+       warranted by its earning capacity.
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1. The assumptions of MM hypothesis of capital structure do not include the
+       following:
+
+       (a) Capital markets are imperfect
+
+       (b) Investors have homogeneous expectations
+
+       (c) All firms can be classified into homogeneous risk classes
+
+       (d) The dividend-payout ratio is cent percent, and there is no corporate tax
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE            5.459.49
+
+2. Which of the following is irrelevant for optimal capital structure?
+       (a) Flexibility
+       (b) Solvency
+       (c) Liquidity
+       (d) Control
+
+3. Financial Structure refers to:
+       (a) All financial resources
+       (b) Short-term funds
+       (c) Long-term funds
+       (d) None of these
+
+4. An EBIT-EPS indifference analysis chart is used for:
+       (a) Evaluating the effects of business risk on EPS
+       (b) Examining EPS results for alternative financial plans at varying EBIT
+               levels
+       (c) Determining the impact of a change in sales on EBIT
+       (d) Showing the changes in EPS quality over time
+
+5. The term "capital structure" means:
+       (a) Long-term debt, preferred stock, and equity shares
+       (b) Current assets and current liabilities
+       (c) Net working capital
+       (d) Shareholder's equity
+
+6. The cost of monitoring management is considered to be a (an):
+       (a) Bankruptcy cost
+       (b) Transaction cost
+       (c) Agency cost
+       (d) Institutional cost
+
+© The Institute of Chartered Accountants of India
+5.50  FINANCIAL MANAGEMENT
+
+7. The traditional approach towards the valuation of a firm assumes:
+       (a) That the overall capitalization rate changes in financial leverage.
+       (b) That there is an optimum capital structure.
+       (c) That the total risk is not changed with the changes in the capital
+               structure.
+       (d) That the markets are perfect.
+
+8. Market values are often used in computing the weighted average cost of
+       capital because:
+       (a) This is the simplest way to do the calculation.
+       (b) This is consistent with the goal of maximizing shareholder value.
+       (c) This is required by SEBI.
+       (d) This is a very common mistake.
+
+9. A firm's optimal capital structure:
+       (a) Is the debt-equity ratio that results in the minimum possible weighted
+               average cost of capital
+       (b) 40 percent debt and 60 percent equity
+       (c) When the debt-equity ratio is 0.50
+       (d) When Cost of equity is minimum
+
+10. Capital structure of a firm influences the:
+       (a) Risk
+       (b) Return
+       (c) Both Risk and Return
+       (d) Return but not Risk
+
+11. Consider the below mentioned statements:
+       1. A company is considered to be over-capitalised when its actual
+               capitalisation is lower than the proper capitalisation as warranted by
+               the earning capacity.
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE            5.551.51
+
+       2. Both over-capitalisation and under-capitalisation are detrimental to the
+               interests of the society.
+
+       State True or False:
+       (a) 1-True, 2-True
+       (b) 1-False, 2-True
+       (c) 1-False, 2-False
+       (d) 1-True, 2-False
+12. A critical assumption of the Net Operating Income (NOI) approach to
+       valuation is:
+       (a) That debt and equity levels remain unchanged.
+       (b) That dividends increase at a constant rate.
+       (c) That ko remains constant regardless of changes in leverage.
+       (d) That interest expense and taxes are included in the calculation.
+13. Which of the following steps may be adopted to avoid the negative
+       consequences of over-capitalisation?
+       (a) The shares of the company should be split up. This will reduce dividend
+
+               per share, though EPS shall remain unchanged.
+       (b) Issue of Bonus Shares.
+       (c) Revising upward the par value of shares in exchange of the existing
+
+               shares held by them.
+       (d) Reduction in claims of debenture-holders and creditors.
+
+Theoretical Questions
+
+1. DESCRIBE Capital Structure.
+2. EXPLAIN in brief the assumptions of Modigliani-Miller theory.
+3. DESCRIBE Net Operating Income (NOI) theory of capital structure? EXPLAIN
+
+       the assumptions of Net Operating Income approach theory of capital
+       structure.
+
+© The Institute of Chartered Accountants of India
+5.52  FINANCIAL MANAGEMENT
+
+4. EXPLAIN the principles of "Trading on equity".
+5. DISCUSS the concept of Debt-Equity or EBIT-EPS indifference point, while
+
+       determining the capital structure of a company.
+6. DISCUSS financial break-even and EBIT-EPS indifference analysis.
+
+Practical Problems
+
+1. Aaina Ltd. is considering a new project which requires a capital investment of
+       ` 9 crores. Interest on term loan is 12% and Corporate Tax rate is 30%.
+       CALCULATE the point of indifference for the project considering the Debt
+       Equity ratio insisted by the financing agencies being 2 : 1.
+
+2. Xylo Ltd. is considering two alternative financing plans as follows:
+
+Particulars                                        Plan ­ A (`)      Plan ­ B (`)
+Equity shares of ` 10                                   8,00,000          8,00,000
+each
+Preference Shares of `                                            -       4,00,000
+100 each
+12% Debentures                                          4,00,000                    -
+                                                      12,00,000         12,00,000
+
+The indifference point between the plans is ` 4,80,000. Corporate tax rate is
+30%. CALCULATE the rate of dividend on preference shares.
+
+3. Ganesha Limited is setting up a project with a capital outlay of ` 60,00,000. It
+       has two alternatives in financing the project cost.
+       Alternative-I: 100% equity finance by issuing equity shares of ` 10 each
+       Alternative-II: Debt-equity ratio 2:1 (issuing equity shares of ` 10 each)
+
+The rate of interest payable on the debts is 18% p.a. The corporate tax rate is
+40%. CALCULATE the indifference point between the two alternative methods
+of financing.
+
+4. Ganapati Limited is considering three financing plans. The key information is
+       as follows:
+
+(a) Total investment to be raised is ` 2,00,000.
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE                  5.553.53
+
+(b) Plans of Financing Proportion:
+
+Plans             Equity                           Debt  Preference Shares
+   A              100%                               -               -
+   B               50%                                               -
+   C               50%                             50%
+                                                     -             50%
+
+(c) Cost of debt                                   8%
+
+Cost of preference shares                          8%
+
+(d) Tax rate                                       50%
+
+(e) Equity shares of the face value of ` 10 each will be issued at a premium
+       of ` 10 per share.
+
+(f) Expected EBIT is ` 80,000.
+
+You are required to DETERMINE for each plan:
+
+(i) Earnings per share (EPS)
+
+(ii) The financial break-even point
+
+(iii) Indicate if any of the plans dominate and compute the EBIT range
+       among the plans for indifference.
+
+5. Yoyo Limited presently has ` 36,00,000 in debt outstanding bearing an
+       interest rate of 10 per cent. It wishes to finance a ` 40,00,000 expansion
+       programme and is considering three alternatives: additional debt at 12 per
+       cent interest, preference shares with an 11 per cent dividend, and the issue of
+       equity shares at ` 16 per share. The company presently has 8,00,000 shares
+       outstanding and is in a 40 per cent tax bracket.
+
+(a) If earnings before interest and taxes are presently ` 15,00,000,
+       DETERMINE earnings per share for the three alternatives, assuming no
+       immediate increase in profitability.
+
+(b) ANALYSE which alternative do you prefer. COMPUTE how much would
+       EBIT need to increase before the next alternative would be best.
+
+© The Institute of Chartered Accountants of India
+5.54         FINANCIAL MANAGEMENT
+
+6. Alpha Limited requires funds amounting to ` 80 lakh for its new project. To
+       raise the funds, the company has following two alternatives:
+
+(i) To issue Equity Shares of ` 100 each (at par) amounting to ` 60 lakh
+       and borrow the balance amount at the interest of 12% p.a., or
+
+(ii) To issue Equity Shares of ` 100 each (at par) and 12% Debentures in
+       equal proportion.
+
+The Income-tax rate is 30%.
+
+IDENTIFY the point of indifference between the available two modes of
+financing and state which option will be beneficial in different situations.
+
+7. One-third of the total market value of Sanghmani Limited consists of loan
+       stock, which has a cost of 10 per cent. Another company, Samsui Limited, is
+       identical in every respect to Sanghmani Limited, except that its capital
+       structure is all-equity, and its cost of equity is 16 per cent. According to
+       Modigliani and Miller, if we ignored taxation and tax relief on debt capital,
+       COMPUTE the cost of equity of Sanghmani Limited?
+
+8. The following data relates to two companies belonging to the same risk class:
+
+Particulars                                        A Ltd.       B Ltd.
+
+Expected Net Operating Income                      ` 18,00,000  ` 18,00,000
+
+12% Debt                                           ` 54,00,000  -
+
+Equity Capitalization Rate                         -            18
+
+REQUIRED:
+
+(a) Determine the total market value, Equity capitalization rate and
+       weighted average cost of capital for each company assuming no taxes
+       as per M.M. Approach.
+
+(b) Determine the total market value, Equity capitalization rate and
+       weighted average cost of capital for each company assuming 40% taxes
+       as per M.M. Approach.
+
+9. Leo Ltd. has a net operating income of ` 21,60,000 and the total
+       capitalisation of ` 120 lakhs. The company is evaluating the options to
+       introduce debt financing in the capital structure and the following
+       information is available at various levels of debt value.
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE                   5.555.55
+
+Debt value (`) Interest rate (%) Equity Capitalisation rate (%)
+
+0          N.A.                                    12.00
+
+10,00,000  7.00                                    12.50
+                                                   13.00
+20,00,000  7.00
+
+30,00,000  7.50                                    13.50
+
+40,00,000  7.50                                    14.00
+
+50,00,000  8.00                                    15.00
+                                                   16.00
+60,00,000  8.50                                    17.00
+
+70,00,000  9.00
+
+80,00,000  10.00                                   20.00
+
+You are required to COMPUTE the equity capitalization rate if MM approach
+is followed. Assume that the firm operates in zero tax regime and calculations
+to be based on book values.
+
+10. Axar Ltd. has a Sales of ` 68,00,000 with a Variable cost Ratio of 60%.
+
+The company has fixed cost of `16,32,000. The capital of the company
+comprises of 12% long term debt, ` 1,00,000 Preference Shares of ` 10 each
+carrying dividend rate of 10% and 1,50,000 equity shares.
+
+The tax rate applicable for the company is 30%.
+
+At current sales level, DETERMINE the Interest, EPS and amount of debt for
+the firm if a 25% decline in Sales will wipe out all the EPS.
+
+11. The financial advisor of Sun Ltd. is confronted with following two alternative
+       financing plans for raising ` 10 lakhs that is needed for plant expansion and
+       modernization
+
+Alternative I: Issue 80% of funds with 14% Debenture [Face value (FV) ` 100]
+
+at par and redeem at a premium of 10% after 10 years and balance by
+issuing equity shares at 33 1 % premium.
+
+                                    3
+
+Alternative II: Raise 10% of funds required by issuing 8% Irredeemable
+Debentures [Face value (FV) ` 100] at par and the remaining by issuing equity
+shares at current market price of `125.
+
+© The Institute of Chartered Accountants of India
+5.56  FINANCIAL MANAGEMENT
+
+Currently, the firm has an Earnings per share (EPS) of ` 21
+
+The modernization and expansion programme is expected to increase the
+firm's Earnings before Interest and Taxation (EBIT) by ` 200,000 annually.
+
+The firm's condensed Balance Sheet for the current year is given below:
+
+      Balance Sheet as on 31.3.2022
+
+Liabilities                                                (`) Assets                        (`)
+Current Liabilities                                 5,00,000 Current Assets          16,00,000
+
+10% Long Term Loan                                                 Plan & Equipment  34,00,000
+                                                   15,00,000 (Net)
+Reserves & Surplus                                 10,00,000
+Equity Share Capital
+(FV: ` 100 each)                                   20,00,000
+TOTAL
+                                                   50,00,000 TOTAL                   50,00,000
+
+However, the finance advisor is concerned about the effect that issuing of debt
+might have on the firm. The average debt ratio for firms in industry is 35%.
+He believes if this ratio is exceeded, the P/E ratio of the company will be 7
+because of the potentially greater risk.
+
+If the firm increases its equity capital by more than 10 %, he expects the P/E
+ratio of the company will increase to 8.5 irrespective of the debt ratio.
+
+Assume Tax Rate of 25%. Assume target dividend pay-out under each
+alternative to be 60% and growth rate to be 10% for the purpose of
+calculating Cost of Equity.
+
+SUGGEST with reason which alternative is better on the basis of each of the
+below given criteria:
+
+I. Earnings per share (EPS) & Market Price per share (MPS)
+II. Financial Leverage
+III. Weighted Average Cost of Capital & Marginal Cost of Capital (using Book
+
+     Value weights)
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE  5.557.57
+
+Case Scenarios
+
+1. XYZ Industries Ltd., a renowned player in the manufacturing sector, has been
+       contemplating an ambitious expansion program. To finance this growth, the
+       company scrutinizes its current capital structure, which is a blend of equity,
+       retained earnings, preference shares, and debentures.
+
+       The equity base of XYZ Industries Ltd., is robust with 40,000 equity shares
+       valued at ` 100 each, amounting to a substantial ` 40,00,000. This equity
+       foundation is bolstered by retained earnings of ` 10,00,000, reflecting the
+       company's prudent profit reinvestment strategy.
+
+       In addition to equity, XYZ Industries Ltd., has diversified its financing through
+       9% preference shares and 7% debentures, each contributing
+       ` 25,00,000 to the capital pool. This strategic mix of debt and equity
+       showcases the company's balanced approach to leveraging and risk
+       management.
+
+       The company's capital yields a healthy return rate of 12% on capital
+       employed, indicative of its operational efficiency and market competitiveness.
+       However, it operates in a high-tax environment with an income-tax rate of
+       50%, which significantly impacts its net earnings and available reinvestment
+       capital.
+
+       Faced with the need to raise an additional ` 25,00,000 for its expansion
+       program, XYZ Industries Ltd., stands at a crossroads. The decision to fund this
+       venture will require careful consideration of the cost of capital, tax
+       implications, and the impact on shareholder value.
+
+       The management must evaluate whether to issue more equity shares,
+       preference shares or debentures. Issuing equity could dilute current
+       shareholders' value but would not increase the company's debt burden.
+       Preference shares offer a fixed return to investors and have priority over
+       equity in profit distribution but come at a higher cost than debt. Debentures
+       are less expensive due to tax-deductible interest expenses but increase
+       financial risk. XYZ Industries Ltd.'s journey towards expansion is not just about
+       raising funds but also about maintaining a delicate balance between growth
+       aspirations and financial stability. The company's choice will set a precedent
+       for its future financial strategies and market reputation.
+
+       Faced with the challenge of capital structure decision making to finance the
+       expansion programme the finance manager is considering the following
+       alternatives:
+
+© The Institute of Chartered Accountants of India
+5.58  FINANCIAL MANAGEMENT
+
+(i) Issue of 20,000 equity shares at a premium of ` 25 per share.
+
+(ii) Issue of 10% preference shares.
+
+(iii) Issue of 8% debentures
+
+The manufacturing company has estimated that the PE ratios in the cases of
+equity preference and debenture financing would be 20, 17 and 16
+respectively. You are required to evaluate the various financial alternatives
+considering three plans proposed i.e. Plan I (Equity), Plan II (Preference
+Shares) and Plan III (Debentures).
+
+Based on the information provided above you are required to answer the
+following MCQ's:
+
+i. What will be the amount of PAT under the three plans i.e. Plan I
+       (Equity), Plan II (Preference Shares) and Plan III (Debentures)
+       respectively from the following?
+
+       (a) ` 13,25,000, ` 13,25,000 and ` 11,25,000
+       (b) ` 8,62,500, ` 9,62,500 and ` 10,62,500
+       (c) ` 15,00,000, ` 15,00,000 and ` 15,00,000
+       (d) ` 6,62,500, ` 6,62,500 and ` 5,62,500
+ii. What will be the amount of total preference dividend under the three
+       plans i.e. Plan I (Equity), Plan II (Preference Shares) and Plan III
+       (Debentures) respectively from the following?
+
+       (a) ` 3,25,000, ` 3,25,000 and ` 5,25,000
+       (b) ` 8,62,500, ` 9,62,500 and ` 10,62,500
+       (c) ` 2,25,000, ` 4,75,000 and ` 2,25,000
+       (d) ` 2,25,000, ` 2,25,000 and ` 2,25,000
+iii. What will be the amount of earnings available for equity shareholders
+       under the three plans i.e. Plan I (Equity), Plan II (Preference Shares) and
+       Plan III (Debentures) respectively from the following?
+
+       (a) ` 3,47,500, ` 5,77,500 and ` 3,98,000
+       (b) ` 9,37,500, ` 8,87,500 and ` 7,37,500
+       (c) ` 4,37,500, ` 1,87,500 and ` 3,37,500
+       (d) ` 5,37,500, ` 2,87,500 and ` 4,37,500
+
+© The Institute of Chartered Accountants of India
+    FINANCING DECISIONS ­ CAPITAL STRUCTURE                          5.559.59
+
+       iv. What will be the EPS under the three plans i.e. Plan I (Equity), Plan II
+               (Preference Shares) and Plan III (Debentures) respectively from the
+               following?
+               (a) 4.44, 7.66 and 7.29
+               (b) 7.00, 6.88 and 7.29
+               (c) 7.29, 4.69 and 8.44
+               (d) 8.44, 9.88 and 6.78
+
+       v. What will be the market price per share under the three plans i.e. Plan I
+               (Equity), Plan II (Preference Shares) and Plan III (Debentures)
+               respectively from the following?
+               (a) 134.50, 123.45 and 78.98
+               (b) 145.80, 79.73 and 135.04
+               (c) 148.8, 187.96 and 118.48
+               (d) 168.8, 167.96 and 108.48
+
+ANSWERS/SOLUTION
+
+Answers to the MCQs
+
+1.  (a)  2.  (b)     3.                            (a)  4.  (b)  5.  (a)       6. (c)
+
+7.  (b)  8.  (b)     9.                            (a) 10. (c) 11. (b) 12. (c)
+
+13. (d)
+
+Answers to the Theoretical Questions
+
+1. Please refer paragraph 1
+2. Please refer paragraph 2.4
+3. Please refer paragraph 2.3
+4. Please refer paragraph 3.2
+5. Please refer paragraph 5
+6. Please refer paragraph 5.2
+
+© The Institute of Chartered Accountants of India
+     5.60            FINANCIAL MANAGEMENT
+
+Answers to the Practical Problems
+
+1. The capital investment can be financed in two ways i.e.
+       (i) By issuing equity shares only worth ` 9 crore or
+
+(ii) By raising capital through taking a term loan of ` 6 crores and ` 3
+       crores through issuing equity shares (as the company has to comply
+       with the 2 : 1 Debt Equity ratio insisted by financing agencies).
+
+In first option interest will be Zero and in second option the interest will be
+` 72,00,000
+
+Point of Indifference between the above two alternatives =
+
+         EBIT×(1- t)     =                            (EBIT -Interest)×(1-t)
+No.of equity shares(N1)
+                                                   No.of equity shares(N2 )
+
+Or,  EBIT (1- 0.30)      =                         (EBIT -` 72,00,000)x (1- 0.30)
+
+     90,00,000 shares                                 30,00,000 shares
+
+Or, 0.7 EBIT             = 2.1 EBIT ­ ` 1,51,20,000
+       EBIT              = ` 1,08,00,000
+
+EBIT at point of Indifference will be ` 1.08 crore.
+
+(The face value of the equity shares is assumed as ` 10 per share. However,
+indifference point will be same irrespective of face value per share).
+
+2. Computation of Rate of Preference Dividend
+
+  (EBIT -Interest) (1- t)                          =  EBIT (1- t)-Preference Dividend
+No. of Equity Shares (N1)
+                                                      No. of Equity Shares (N2 )
+(` 4,80,000 - ` 48,000) x (1- 0.30)
+          80,00,000 shares                         = ` 4,80,000 (1- 0.30)- Preference Dividend
+
+                                                                       80,00,000 shares
+
+     ` 3,02, 400                                   = ` 3,36,000 - Preference Dividend
+80,00,000 shares
+                                                                80,00,000 shares
+
+` 3,02,400                                         = ` 3,36,000 ­ Preference Dividend
+Preference Dividend
+Rate of Dividend                                   = ` 3,36,000 ­ ` 3,02,400 = ` 33,600
+
+                                                   =    Preference Dividend     × 100
+                                                      Preference share capital
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE                   5.651.61
+
+                                                       = ` 33,600 ×100 = 8.4%
+                                                               4, 00, 000
+
+3. Calculation of Indifference point between the two alternatives of
+       financing
+       Alternative-I By issue of 6,00,000 equity shares of ` 10 each amounting
+                               to ` 60 lakhs. No financial charges are involved.
+       Alternative-II By raising the funds in the following way:
+                               Debt = ` 40 lakhs
+                               Equity = ` 20 lakhs (2,00,000 equity shares of ` 10 each)
+                               Interest payable on debt = 40,00,000× 18 = ` 7,20,000
+                                                                                    100
+
+       The difference point between the two alternatives is calculated by:
+
+                (EBIT - I1) (1- T) = (EBIT - I2 ) (1- T)
+                E1                                 E2
+
+Where,
+
+          EBIT = Earnings before interest and taxes
+
+          I1 = Interest charges in Alternative-I
+
+          I2 = Interest charges in Alternative-II
+
+          T = Tax rate
+
+          E1 = Equity shares in Alternative-I
+
+          E2 = Equity shares in Alternative-II
+
+Putting the values, the break-even point would be as follows:
+
+(EBIT - 0)(1- 0.40) = (EBIT - 7,20,000)(1- 0.40)
+      6,00,000          2,00,000
+
+(EBIT)(0.60) = (EBIT - 7,20,000)(0.60)
+6,00,000        2,00,000
+
+EBIT(0.60) = 0.60(EBIT - 7,20,000)
+      3             1
+
+EBIT      = 3EBIT-21,60,000
+
+© The Institute of Chartered Accountants of India
+      5.62         FINANCIAL MANAGEMENT
+
+- 2 EBIT = -21,60,000
+
+EBIT        =  21,60,000
+                    2
+
+EBIT        = ` 10,80,000
+
+Therefore, at EBIT of ` 10,80,000 earnings per share for the two alternatives
+is equal.
+
+4. (i) Computation of Earnings per share (EPS)
+
+Plans                                              A (`)       B (`)           C (`)
+
+Earnings         before                            80,000      80,000          80,000
+
+interest and tax (EBIT)
+
+Less: Interest charges                                    ---  (8,000)                ---
+
+                                                               (8% × `1 lakh)
+
+Earnings before tax                                80,000      72,000          80,000
+(EBT)
+
+Less: Tax (@ 50%)                                  (40,000)    (36,000)        (40,000)
+
+Earnings after tax                                 40,000      36,000          40,000
+(EAT)
+
+Less:          Preference                                 ---         ---      (8,000)
+
+dividend                                                                       (8% × `1 lakh)
+
+Earnings available for                             40,000      36,000          32,000
+Equity shareholders
+(A)
+
+No. of Equity shares                               10,000      5,000           5,000
+
+(B)                        (`2 lakh ÷ `20) (`1 lakh ÷ `20) (`1 lakh ÷ `20)
+
+EPS [(A) ÷ (B)]                                           4           7.20            6.40
+
+(ii) Calculation of Financial Break-even point
+
+       Financial break-even point = Interest + Preference Dividend/(1-t)
+
+      Plan A:    Under this plan there is no interest or preference dividend
+                 payment hence, the Financial Break-even point will be
+                 zero.
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE                                       5.653.63
+
+Plan B:  Under this plan there is an interest payment of ` 8,000 and
+         no preference dividend, hence, the Financial Break-even
+         point will be ` 8,000 (Interest charges).
+
+Plan C:  Under this plan there is no interest payment but an after
+         tax preference dividend of ` 8,000 is paid. Hence, the
+         Financial Break- even point will be before tax earnings of
+         ` 16,000 (i.e. ` 8,000÷(1 - 0.5)= ` 16,000)
+
+(iii) Computation of indifference point between the plans
+
+The indifference between two alternative methods of financing is
+calculated by applying the following formula:
+
+           (EBIT - I1 )(1- T) = (EBIT - I2 )(1- T)
+                    E1                             E2
+
+I. Indifference point where EBIT of Plan A and Plan B is equal.
+
+(EBIT - 0)(1- 0.5) =                               (EBIT - 8,000)(1- 0.5)
+      10,000                                                5,000
+
+0.5 EBIT (5,000) = (0.5 EBIT ­ 4,000) (10,000)
+
+0.5 EBIT            = EBIT ­ 8,000
+
+0.5 EBIT            = 8,000
+
+EBIT                = ` 16,000
+
+II. Indifference point where EBIT of Plan A and Plan C is equal.
+
+(EBIT - 0)(1- 0.5)  =                              (EBIT - 0)(1- 0.5)- 8,000
+     10, 000                                                  5, 000
+
+0.5 EBIT            =                              0.5 EBIT - 8,000
+10,000
+                                                   5, 000
+
+0.25 EBIT           = 0.5 EBIT ­ 8,000
+
+0.25 EBIT           = 8,000
+
+EBIT                = ` 32,000
+
+© The Institute of Chartered Accountants of India
+        5.64           FINANCIAL MANAGEMENT
+
+        III. Indifference point where EBIT of Plan B and Plan C are equal.
+
+              (EBIT -`8,000)(1- 0.5) =                         (EBIT - 0)(1- 0.5)-`8,000
+                        5,000                                             5,000
+
+              0.5 EBIT ­ 4,000                     = 0.5 EBIT ­ ` 8,000
+
+        There is no indifference point between the financial plan B and C.
+
+        It can be seen that Financial Plan B dominates Plan C. Since, the
+        financial break-even point of the former is only ` 8,000 but in case of
+        latter it is ` 16,000. Further EPS of plan B is the highest.
+
+5. (a)
+
+                                                               Alternatives
+
+        Particulars          Alternative-I:                    Alternative-II:      Alternative-III:
+                                         Take                        Issue 11%        Issue further
+                                                                   Preference        Equity Shares
+                                 additional                              Shares
+                                         Debt                                                          `
+                                                                                 `
+                                              `
+
+        EBIT                                       15,00,000   15,00,000                  15,00,000
+
+        Interest on Debts:
+
+        - on      existing                         (3,60,000)  (3,60,000)                 (3,60,000)
+
+            debt @10%
+
+        - on new debt @                            (4,80,000)  ---                        ---
+
+            12%
+
+        Profit before taxes                        6,60,000    11,40,000                  11,40,000
+
+        Taxes @ 40%                                (2,64,000)  (4,56,000)                 (4,56,000)
+
+        Profit after taxes                         3,96,000    6,84,000                   6,84,000
+
+        Preference shares                          ---         (4,40,000)                 ---
+
+        dividend
+
+        Earnings available                         3,96,000    2,44,000                   6,84,000
+
+        to           equity
+
+        Shareholders
+
+        Number of shares                           8,00,000    8,00,000                   10,50,000
+
+        Earnings per share                         0.495       0.305                      0.651
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE                        5.655.65
+
+(b) For the present EBIT level, equity shares are clearly preferable. EBIT
+       would need to increase by ` 2,376 -` 1,500 = ` 876 before an
+       indifference point with debt is reached. One would want to be
+       comfortably above this indifference point before a strong case for
+       debt should be made. The lower the probability that actual EBIT will
+       fall below the indifference point, the stronger the case that can be
+       made for debt, all other things remain the same.
+
+Working Note:
+
+Calculation of indifference point between debt and equity shares (in
+thousands)-
+
+EBIT ­ `    840  =  EBIT ­ ` 360
+     800                1,050
+
+EBIT (1,050) ­ ` 840(1,050) = EBIT (800) ­ ` 360 (800)
+
+250EBIT = ` 5,94,000
+
+EBIT = ` 2,376
+
+6. (i) Amount = ` 80,00,000
+
+Plan I         = Equity of ` 60,00,000 + Debt of ` 20,00,000
+
+Plan II = Equity of ` 40,00,000 + 12% Debentures of ` 40,00,000
+
+Plan I: Interest Payable on Loan
+
+= 12% × ` 20,00,000 = ` 2,40,000
+
+Plan II: Interest Payable on Debentures
+
+= 12% × ` 40,00,000 = ` 4,80,000
+
+Computation of Point of Indifference
+
+( ) ( ) EBIT-I (1-t) EBIT-I (1-t)12
+                 =
+        E                    E
+         1                    2
+
+(EBIT -     `  2, 40,000  )  (1-  0.3 )            =  (EBIT -  `4,80,000) (I- 0.3)
+               60,000
+                                                                 40,000
+
+2 (EBIT ­ ` 2,40,000) = 3 (EBIT ­ ` 4,80,000)
+
+© The Institute of Chartered Accountants of India
+5.66         FINANCIAL MANAGEMENT
+
+2 EBIT ­ ` 4,80,000 = 3 EBIT ­ ` 14,40,000
+
+2 EBIT ­ 3 EBIT       = - ` 14,40,000 + ` 4,80,000
+
+EBIT                  = ` 9,60,000
+
+(ii) Earnings per share (EPS) under Two Situations for both the Plans
+
+      Situation A (EBIT is assumed to be ` 9,50,000)
+
+Particulars                                        Plan I      Plan II
+                                                         `            `
+
+EBIT                                               9,50,000    9,50,000
+
+Less: Interest @ 12%                               (2,40,000)  (4,80,000)
+
+EBT                                                7,10,000    4,70,000
+
+Less: Taxes @ 30%                                  (2,13,000)  (1,41,000)
+
+EAT                                                4,97,000    3,29,000
+
+No. of Equity Shares                               60,000      40,000
+
+EPS                                                8.28        8.23
+
+Comment: In Situation A, when expected EBIT is less than the EBIT at
+indifference point then, Plan I is more viable as it has higher EPS. The
+advantage of EPS would be available from the use of equity capital
+and not debt capital.
+
+      Situation B (EBIT is assumed to be ` 9,70,000)
+
+Particulars                                        Plan I      Plan II
+                                                         `            `
+
+EBIT                                               9,70,000 9,70,000
+
+Less: Interest @ 12%                               (2,40,000) (4,80,000)
+
+EBT                                                7,30,000 4,90,000
+
+Less: Taxes @ 30%                                  (2,19,000) (1,47,000)
+
+EAT                                                5,11,000 3,43,000
+
+No. of Equity Shares                               60,000      40,000
+
+EPS                                                8.52        8.58
+
+Comment: In Situation B, when expected EBIT is more than the EBIT at
+indifference point then, Plan II is more viable as it has higher EPS. The
+use of fixed-cost source of funds would be beneficial from the EPS
+viewpoint. In this case, financial leverage would be favourable.
+
+© The Institute of Chartered Accountants of India
+    FINANCING DECISIONS ­ CAPITAL STRUCTURE                        5.657.67
+
+    (Note: The problem can also be worked out assuming any other figure
+    of EBIT which is more than ` 9,60,000 and any other figure less than
+    ` 9,60,000. Alternatively, the answer may also be based on the
+    factors/governing the capital structure like the cost, risk, control, etc.
+    Principles).
+
+7. Here we are assuming that MM Approach 1958: Without tax, where capital
+       structure has no relevance with the value of company and accordingly
+       overall cost of capital of both levered as well as unlevered company is same.
+       Therefore, the two companies should have similar WACCs. Because Samsui
+       Limited is all-equity financed, its WACC is the same as its cost of equity
+       finance, i.e. 16 per cent. It follows that Sanghmani Limited should have
+       WACC equal to 16 per cent also.
+
+Therefore, Cost of equity in Sanghmani Ltd. (levered company) will be
+
+calculated as follows:
+
+Ko  =    2 ×Ke + 1 ×Kd  = 16% (i.e. equal to WACC of Samsui Ltd.)
+         33
+
+Or, 16%  =  2 ×Ke + 1 ×10%  Or, Ke = 19
+            33
+
+8. (a) Assuming no tax as per MM Approach.
+
+    Calculation of Value of Firms `A Ltd.' and `B Ltd' according to MM
+    Hypothesis
+
+    Market Value of `B Ltd' [Unlevered(u)]
+
+    Total Value of Unlevered Firm (Vu) = [NOI/ke] = 18,00,000/0.18 =
+    ` 1,00,00,000
+
+    Ke of Unlevered Firm (given) = 0.18
+    Ko of Unlevered Firm (Same as above = ke as there is no debt) = 0.18
+    Market Value of `A Ltd' [Levered Firm (I)]
+
+    Total Value of Levered Firm (VL) = Vu + (Debt× Nil)
+
+                                                   = ` 1,00,00,000 + (54,00,000 × nil)
+
+                                                   = `1,00,00,000
+
+© The Institute of Chartered Accountants of India
+5.68  FINANCIAL MANAGEMENT
+
+      Computation of Equity Capitalization Rate and
+            Weighted Average Cost of Capital (WACC)
+
+                     Particulars                       A Ltd.           B Ltd.
+A. Net Operating Income (NOI)                        ` 18,00,000      ` 18,00,000
+B. Less: Interest on Debt (I)
+C. Earnings of Equity Shareholders                     ` 6,48,000                   -
+                                                     ` 11,52,000      ` 18,00,000
+     (NI)
+D Overall Capitalization Rate (ko)                            0.18             0.18
+E Total Value of Firm (V = NOI/ko)                 ` 1,00,00,000    ` 1,00,00,000
+F Less: Market Value of Debt
+G Market Value of Equity (S)                         ` 54,00,000                    -
+H Equity Capitalization Rate                         ` 46,00,000    ` 1,00,00,000
+
+     [ke = NI /S]                                          0.2504              0.18
+I Weighted Average Cost of Capital
+                                                              0.18             0.18
+     [WACC (ko)]*ko = (ke×S/V) +
+     (kd×D/V)
+
+*Computation of WACC A Ltd
+
+Component of                                       Amount Weight  Cost of   WACC
+Capital                                                           Capital
+Equity        ` 46,00,000                          0.46            0.2504   0.1152
+Debt                                                                        0.0648
+Total         ` 54,00,000                          0.54              0.12*
+                                                                               0.18
+              ` 1,00,00,000
+
+        *Kd = 12% (since there is no tax)
+
+       WACC = 18%
+(b) Assuming 40% taxes as per MM Approach
+
+       Calculation of Value of Firms `A Ltd.' and `B Ltd' according to MM
+       Hypothesis
+       Market Value of `B Ltd' [Unlevered(u)]
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE            5.659.69
+
+Total Value of unlevered Firm (Vu) = [NOI (1 - t)/ke] = 18,00,000 (1 ­ 0.40)] / 0.18
+                                            = ` 60,00,000
+
+Ke of unlevered Firm (given) = 0.18
+Ko of unlevered Firm (Same as above = ke as there is no debt) = 0.18
+Market Value of `A Ltd' [Levered Firm (I)]
+Total Value of Levered Firm (VL) = Vu + (Debt× Tax)
+
+                                                = ` 60,00,000 + ( ` 54,00,000 × 0.4)
+                                                = ` 81,60,000
+Computation of Weighted Average Cost of Capital (WACC) of `B Ltd.'
+= 18% (i.e. Ke = Ko)
+         Computation of Equity Capitalization Rate and
+      Weighted Average Cost of Capital (WACC) of A Ltd
+
+                          Particulars              A Ltd. (`)
+Net Operating Income (NOI)                         18,00,000
+Less: Interest on Debt (I)
+Earnings Before Tax (EBT)                           6,48,000
+Less: Tax @ 40%                                    11,52,000
+Earnings for equity shareholders (NI)
+Total Value of Firm (V) as calculated above         4,60,800
+Less: Market Value of Debt                          6,91,200
+Market Value of Equity (S)                         81,60,000
+Equity Capitalization Rate [ke = NI/S]             54,00,000
+Weighted Average Cost of Capital (ko)*             27,60,000
+ko = (ke×S/V) + (kd×D/V)
+                                                       0.2504
+                                                         13.23
+
+*Computation of WACC A Ltd
+
+© The Institute of Chartered Accountants of India
+  5.70              FINANCIAL MANAGEMENT
+
+  Component of                                                       ` Weight             Cost of WACC
+  Capital                                                                                 Capital
+  Equity                                           27,60,000                0.338          0.2504 0.0846
+  Debt                                             54,00,000                0.662          0.072* 0.0477
+  Total                                            81,60,000
+                                                                                                       0.1323
+
+  *Kd= 12% (1- 0.4) = 12% × 0.6 = 7.2%
+
+  WACC = 13.23%
+
+9. As per MM approach, cost of the capital (Ko) remains constant, and
+       cost of equity increases linearly with debt.
+
+                                NOI
+       Value of a Firm = K0
+
+  1,20,00,000 =  21,60,000
+                     K0
+
+ K0 =   21,60,000   = 18%
+       1,20,00,000
+
+Under  MM      approach,  ke  =  k  0              +  D  (  k  0  -  kd  )
+                                                      E
+
+Statement of equity capitalization under MM approach
+
+  Debt          Equity        Debt/                              Kd           Ko   Ko-kd  Ke = Ko+(Ko-Kd)
+Value (`)      Value (`)      Equity                            (%)          (%)    (%)       (D/E) (%)
+
+            -  1,20,00,000    0.0000                            NA          18.00  18.00         18.00
+10,00,000      1,10,00,000    0.0909                           7.00         18.00  11.00         19.00
+20,00,000      1,00,00,000    0.2000                           7.00         18.00  11.00         20.20
+30,00,000                     0.3333                           7.50         18.00  10.50         21.50
+40,00,000        90,00,000    0.5000                           7.50         18.00  10.50         23.25
+50,00,000        80,00,000    0.7143                           8.00         18.00  10.00         25.14
+60,00,000        70,00,000    1.0000                           8.50         18.00  9.50          27.50
+70,00,000        60,00,000    1.4000                           9.00         18.00  9.00          30.60
+80,00,000        50,00,000    2.0000                           10.00        18.00  8.00          34.00
+                 40,00,000
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE                             5.751.71
+
+10. Break Even Sales = ` 68,00,000×0.75 = ` 51,00,000
+
+Income Statement
+
+                                                   Original       Calculation of                Now at
+                                                             `   Interest at BEP                present
+
+                                                                       (backward                    level
+                                                                     calculation)
+                                                                                                         `
+                                                                                     `        68,00,000
+                                                                                              40,80,000
+Sales                                              68,00,000                   51,00,000      27,20,000
+Less: Variable Cost                                40,80,000                   30,60,000      16,32,000
+Contribution                                       27,20,000                   20,40,000      10,88,000
+Less: Fixed Cost                                   16,32,000                   16,32,000      3,93,714
+EBIT                                               10,88,000
+Less: Interest (EBIT-PBT)                                                       4,08,000       6,94,286
+PBT                                                           ?                3,93,714        2,08,286
+Less: Tax @ 30% (or PBT-                                      ?  14,286(10,000/70%)
+PAT)                                                          ?                                4,86,000
+PAT                                                                                 4,286         10,000
+Less: Preference Dividend                                     ?
+Earnings for Equity share                              10,000     10,000(Nil+10,000)           4,76,000
+holders                                                                            10,000
+Number of Equity Shares                                       ?                                1,50,000
+EPS                                                                        Nil (at BEP)           3.1733
+                                                    1,50,000
+                                                              ?                 1,50,000
+                                                                                           -
+
+So Interest = ` 3,93,714, EPS = ` 3.1733, Amount of debt = 3,93,714/12%
+= ` 32,80,950
+
+11. Calculation of Equity Share capital and Reserves and surplus:
+
+Alternative 1:
+
+Equity Share capital = ` 20,00,000+ ` 2,00,000 x 100 = ` 21,50,000
+                                                           133.3333
+
+Reserves=  ` 10, 00, 000 +  ` 2,00,000 x 33.3333 =               `  10,50,000
+                                   133.3333
+
+© The Institute of Chartered Accountants of India
+5.72            FINANCIAL MANAGEMENT
+
+Alternative 2:
+
+Equity  Share  capital  =  `  20,00,000 +          `  9, 00, 000  x 100  =`   27,20,000
+                                                            125
+
+Reserves=  `10,00,000 + `     9, 00, 000           x  25  =  `  11,80,000
+                                   125
+
+                           Capital Structure Plans
+
+                                                                              (Amount in `)
+
+Capital                                                   Alternative 1        Alternative 2
+                                                                           `                    `
+Equity Share capital
+Reserves and surplus                                           21,50,000            27,20,000
+10% long term debt                                             10,50,000            11,80,000
+14% Debentures                                                 15,00,000            15,00,000
+8% Irredeemable Debentures
+Total Capital Employed                                           8,00,000                       -
+                                                                           -          1,00,000
+                                                                                    55,00,000
+                                                               55,00,000
+
+Computation of Present Earnings before interest and tax (EBIT)
+
+EPS (`)                                                                                21
+No. of equity shares                                                             20,000
+Earnings for equity shareholders (I x II) (`)                                  4,20,000
+Profit Before Tax (III/75%) (`)                                                5,60,000
+Interest on long term loan (1500000 x 10%) (`)                                 1,50,000
+EBIT (IV + V) (`)                                                              7,10,000
+
+EBIT after expansion = ` 7,10,000 + ` 2,00,000 = ` 9,10,000
+
+   Evaluation of Financial Plans on the basis of EPS, MPS and Financial
+                                              Leverage
+
+                                                                                     (Amount in `)
+
+                     Particulars                                Alternative I  Alternate II
+EBIT                                                                 9,10,000     9,10,000
+Less: Interest: 10% on long term loan
+                                                                   (1,50,000)   (1,50,000)
+
+© The Institute of Chartered Accountants of India
+FINANCING DECISIONS ­ CAPITAL STRUCTURE                                         5.753.73
+
+                     14% on Debentures                            (1,12,000)                  Nil
+                     8% on Irredeemable                                   Nil.            (8000)
+                     Debentures
+PBT                                                                6,48,000      7,52,000
+Less: Tax @25%                                                    (1,62,000)    (1,88,000)
+PAT
+No. of equity shares                                               4,86,000      5,64,000
+EPS                                                                   21,500        27,200
+Applicable P/E ratio (Working Note 1)                                  22.60         20.74
+MPS (EPS X P/E ratio)                                                        7           8.5
+Financial Leverage EBIT/PBT                                            158.2       176.29
+                                                                         1.40          1.21
+
+Working Note 1
+
+Debt:                                              Alternative I                Alternative II
+`15,00,000 +`8,00,000
+`15,00,000 +`1,00,000                                   23,00,000                               -
+Total capital Employed (`)                                         -                16,00,000
+Debt Ratio (Debt/Capital employed)                                                  55,00,000
+                                                        55,00,000
+Change in Equity: `21,50,000-`20,00,000                   =0.4182                     =0.2909
+                         `27,20,000-`20,00,000                                      =29.09%
+                                                        =41.82%
+Percentage change in equity                              1,50,000                     7,20,000
+Applicable P/E ratio                                                                       36%
+                                                              7.5%                           8.5
+                                                                   7
+
+Calculation of Cost of equity and various type of debt
+
+A) Cost of equity                                  Alternative I      Alternative II
+EPS `
+DPS (EPS X 60%) `                                       22.60              20.74
+Growth (g)                                              13.56              12.44
+                                                         10%                10%
+
+© The Institute of Chartered Accountants of India
+5.74                    FINANCIAL MANAGEMENT
+
+Po (MPS)                                                       158.2          176.29
+                                                        13.56 (1.1) +10%
+Ke=   Do  (1 +  g)  +g                                                        12.44 (1.1)  +10%
+                                                           158.2                176.29
+          Po
+
+                                                        =19.43%               =17.76%
+
+B) Cost of Debt:
+
+10% long term debt                                      10% + (1-0.25)        10% +(1-0.25)
+
+14% redeemable debentures                                    = 7.5%           = 7.5%
+                                                                                 nil
+                                                   14(1-0.25) + (110-100/10)
+                                                            110+100/2
+
+                                                      = 10.5 + 1 / 10.5
+
+                                                        = 10.95%
+
+8% irredeemable debenture                               NA                    8000
+
+                                                                              (1-0.25)/1,00,00
+
+                                                                              = 6%
+
+         Calculation of Weighted Average cost of capital (WACC)
+
+                           Alternative 1                                  Alternative 2
+
+      Capital           Weight Cost WACC Weights Cost WACC
+
+                        s                          (%)                        (%)
+
+Equity          Share                                   7.60%     0.4945 17.76             8.78%
+Capital                   0.3909 19.43
+
+Reserves        and                                     3.71%     0.2145 17.76             3.81%
+Surplus                 0.1909 19.43
+
+10% Long term
+
+Debt                    0.2727 7.50 2.05% 0.2727 7.50 2.05%
+
+14% Debenture           0.1455 10.95 1.59%
+
+8% Irredeemable
+
+Debentures                 -                                      0.0182 6                 0.11%
+
+                                                        14.94%                     14.75%
+
+© The Institute of Chartered Accountants of India
+    FINANCING DECISIONS ­ CAPITAL STRUCTURE                                            5.755.75
+
+                Calculation Marginal Cost of Capital (MACC)
+
+                                                   Alternative 1         Alternative 2
+
+        Capital                (weight) Cost MACC                        (weight) Cost MACC
+                                                (%)                                      (%)
+
+                               ` 1,50,000                                ` 7,20,000
+                                     (0.15) 19.43
+    Equity Share Capital                                          2.91%  (0.72) 17.76 12.79%
+
+    Reserves and Surplus       ` 50,000                                  ` 1,80,000
+                                  (0.05) 19.43
+                                                                  0.97%  (0.18) 17.76            3.20%
+
+    14% Debenture              ` 8,00,000
+                                     (0.80) 10.95
+                                                                  8.76%       -                  0.00%
+
+    8%  Irredeemable                                                     ` 1,00,000
+                                                                               (0.10)
+    Debentures                                           -                                 6 0.60%
+
+    Total          Capital                                       12.64% `10,00,000               16.59%
+    Employed                  ` 10,00,000
+
+    Summary of solution:
+
+                                                                         Alternate I Alternate II
+
+    Earning per share (EPS) `                                            22.60                   20.74
+    Market price per share (MPS) `
+    Financial leverage                                                   158.20                  176.29
+    Weighted Average cost of capital (WACC)
+    Marginal cost of capital (MACC)                                      1.4043                  1.2101
+
+                                                                         14.94%                  14.75%
+
+                                                                         12.64%                  16.59%
+
+    Alternative 1 of financing will be preferred under the criteria of EPS and
+    marginal cost of capital, whereas Alternative II of financing will be preferred
+    under the criteria of MPS, Financial leverage and WACC.
+
+Answers to the Case Scenarios
+
+1.
+
+    i. (d) ii.            (c)                      iii.     (c)   iv.    (c)           v.        (b)
+
+© The Institute of Chartered Accountants of India
+5.76                   FINANCIAL MANAGEMENT
+
+Evaluation of various                                  Plan I    Plan II       Plan III
+financial alternatives                              (Equity)
+                                                                 (Preference (Debentures)
+                                                            (`)
+                                                                 Shares) (`)   (`)
+                                                   15,00,000
+1. EBIT**                                                        15,00,000     15,00,000
+
+2. Interest:
+
+Existing                                            1,75,000      1,75,000      1,75,000
+                                                              -             -   2,00,000
+Additional                                                                      3,75,000
+                                                    1,75,000      1,75,000     11,25,000
+Total Interest                                     13,25,000     13,25,000      5,62,500
+                                                                                5,62,500
+3. PBT (1-2)                                        6,62,500      6,62,500
+                                                    6,62,500      6,62,500
+4. TAX 50%
+
+5. PAT (3-4)
+
+6. Preference dividend
+
+Existing                                           2,25,000      2,25,000      2,25,000
+                                                             -   2,50,000                -
+Additional                                                       4,75,000
+                                                   2,25,000                    2,25,000
+Total           Preference                                       1,87,500
+Dividend                                           4,37,500        40,000      3,37,500
+                                                    *60,000           4.69       40,000
+7. Equity earnings (5-6)                                                 17         8.44
+                                                        7.29         79.73             16
+8. No. of equity shares                                    20                    135.04
+
+9. EPS [7/8]                                         145.80
+
+10. P/E Ratio (Given)
+
+11. Market Price per share
+
+*40,000 + 20,000 new shares = 60,000 shares
+**EBIT = 12% of (100 lakhs existing + new 25 lakhs) = ` 15,00,000
+
+© The Institute of Chartered Accountants of India
+

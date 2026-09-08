@@ -1,0 +1,4588 @@
+CHAPTER  3
+
+FINANCIAL ANALYSIS
+
+AND      PLANNING­
+
+RATIO ANALYSIS
+
+                                     LEARNING OUTCOMES
+
+. After studying this chapter, you would be able to -
+  Discuss Sources of financial data for Analysis.
+  Discuss financial ratios and its types.
+  Discuss use of financial ratios to analyse the financial
+
+       statement.
+  Analyse the ratios from the perspective of investors, lenders,
+
+       suppliers, managers etc. to evaluate the profitability and
+       financial position of an entity.
+  Describe the users and objective of Financial Analysis - A
+       Birds Eye View
+  Discuss Du Pont analysis.
+  State the limitations of Ratio Analysis.
+
+  © The Institute of Chartered Accountants of India
+3.2                    FINANCIAL MANAGEMENT
+
+CHAPTER OVERVIEW
+
+                                          RATIO ANALYSIS
+
+Types of Ratios               Application of Ratio Analysis
+                                    in decision making
+ Liquidity Ratios/Short-term
+   Solvency Ratios              Relationship of Financial
+                                Management with other
+ Leverage  Ratio/Long-term      disciplines of accounting
+
+Solvency Ratios
+
+ Activity  Ratios/Efficiency
+
+Ratios/Performance Ratios/
+
+Turnover Ratios
+
+ Profitability Ratios
+
+     1. INTRODUCTION
+
+The basis for financial analysis, planning and decision making is financial
+statements which mainly consist of Balance Sheet and Profit and Loss Account.
+The profit & loss account shows the operating activities of the concern over a
+period of time and the balance sheet depicts the balance value of the acquired
+assets and of liabilities or in other words, financial position of an organization at a
+particular point of time.
+
+However, the above statements do not disclose all of the necessary and relevant
+information. For the purpose of obtaining the material and relevant information
+necessary for ascertaining the financial strengths and weaknesses of an
+enterprise, it is necessary to analyse the data depicted in the financial statement.
+
+The financial manager has certain analytical tools which help in financial analysis
+and planning. One of the main tools is Ratio Analysis. Let us discuss the Ratio
+Analysis in this chapter.
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                   3.3 3.3
+                               RATIO ANALYSIS
+
+     2. RATIO AND RATIO ANALYSIS
+
+Let us first understand the definition of ratio and meaning of ratio analysis.
+
+2.1 Definition of Ratio
+
+A ratio is defined as "the indicated quotient of two mathematical expressions
+and as the relationship between two or more things." Here, ratio means
+financial ratio or accounting ratio which is a mathematical expression of the
+relationship between two accounting figures.
+
+2.2 Ratio Analysis
+
+The term financial ratio can be explained by defining how it is calculated and
+what the objective of this calculation is?
+
+a. Calculation Basis (Basis of Calculation):
+        A relationship expressed in mathematical terms
+        Between two individual figures or group of figures
+        Connected with each other in some logical manner
+        Selected from financial statements of the concern
+
+b. Objective for financial ratios is that all stakeholders (owners, investors,
+       lenders, employees etc.) can draw conclusions about the:
+        Performance (past, present and future)
+        Strengths & weaknesses of a firm
+        Can take decisions in relation to the firm
+
+Ratio analysis is based on the fact that a single accounting figure by itself may
+not communicate any meaningful information but when expressed relative to
+some other figure, it may definitely provide some significant information.
+
+Ratio analysis is not just comparing different numbers from the balance sheet,
+income statement, and cash flow statement. It is comparing the number against
+previous years (intra-firm comparison) and, other companies (inter-firm
+comparison), the industry, or even the economy in general for the purpose of
+financial analysis.
+
+© The Institute of Chartered Accountants of India
+3.4              FINANCIAL MANAGEMENT
+
+2.3 Sources of Financial Data for Analysis
+
+The sources of information for financial statement analysis are:
+ i. Annual Reports
+ii. Interim financial statements
+iii. Notes to Accounts
+iv. Statement of cash flows
+v. Business periodicals.
+vi. Credit and investment advisory services
+
+3. TYPES OF RATIOS
+
+Types of Ratios    Liquidity Ratios*/               Capital Structure Ratios
+                 Short-term Solvency
+                                                         Coverage Ratios
+                          Ratios
+                                                         Related to Sales
+                   Leverage Ratios/
+                 Long-term Solvency                Related to overall Return
+                                                     on Investment (Assets/
+                          Ratios                   Capital Employed/ Equity)
+                                                     Required for analysis
+                    Activity Ratios/                 from Owner's point of
+                   Efficiency Ratios/
+                                                                 view
+                     Performance                      Related to Market/
+                   Ratios/ Turnover                  Valuation/ Investors
+
+                         Ratios*
+
+                  Profitability Ratios
+
+                                        Classification of Ratios
+
+*Liquidity ratios should be examined taking relevant turnover ratios into
+consideration.
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                       3.5 3.5
+                               RATIO ANALYSIS
+
+3.1 Liquidity Ratios
+
+The terms `liquidity' and `short-term solvency' are used synonymously.
+
+Liquidity or short-term solvency means ability of the business to pay its short-
+term liabilities. Inability to pay-off short-term liabilities affects its credibility as
+well as its credit rating. Continuous default on the part of the business leads to
+commercial bankruptcy. Eventually such commercial bankruptcy may lead to its
+sickness and dissolution. Short-term lenders and creditors of a business are very
+much interested to know its state of liquidity because of their financial stake. Both
+lack of sufficient liquidity and excess liquidity is bad for the organization.
+
+Various Liquidity Ratios are:
+(a) Current Ratio
+(b) Quick Ratio or Acid test Ratio
+(c) Cash Ratio or Absolute Liquidity Ratio
+(d) Basic Defense Interval or Interval Measure Ratios
+(e) Net Working Capital
+
+(a) Current Ratio: The Current Ratio is one of the best known measures of
+       short-term solvency. It is the most common measure of short-term liquidity.
+
+       The main question this ratio addresses is: "Does your business have
+       enough current assets to meet the payment schedule of its current
+       debts with a margin of safety for possible losses in current assets?" In
+       other words, current ratio measures whether a firm has enough resources to
+       meet its current obligations.
+
+                                 Current Ratio = Current Assets
+                                                           Current Liabilities
+
+       Where,
+
+       Current Asset = Inventories + Sundry Debtors + Cash and Bank Balances +
+                                Receivables/ Accruals + Loans and Advances + Disposable
+                                Investments + Any other current assets.
+
+© The Institute of Chartered Accountants of India
+3.6             FINANCIAL MANAGEMENT
+
+Current Liabilities = Creditors for goods and services + Short-term Loans +
+                            Bank Overdraft + Cash Credit + Outstanding Expenses
+                            + Provision for Taxation + Proposed Dividend +
+                            Unclaimed Dividend + Any other current liabilities.
+
+Interpretation
+
+A generally acceptable current ratio is 2:1. But whether or not a specific
+ratio is satisfactory depends on the nature of the business and the
+characteristics of its current assets and liabilities.
+
+(b) Quick Ratio: The Quick Ratio is sometimes called the "acid-test" ratio and
+       is one of the best measures of liquidity.
+
+        Quick   Ratio or Acid Test Ratio =            Quick Assets
+                                                   Current Liabilities
+
+Where,
+
+Quick Assets    = Current Assets - Inventories - Prepaid expenses
+
+Current Liabilities = As mentioned under Current Ratio.
+
+The Quick Ratio is a much more conservative measure of short-term
+liquidity than the Current Ratio. It helps answer the question: "If all sales
+revenues should disappear, could my business meet its current obligations
+with the readily convertible quick funds on hand?"
+
+Quick Assets consist of only cash and near cash assets. Inventories are
+deducted from current assets on the belief that these are not `near cash
+assets' and also because in times of financial difficulty, inventory may be
+saleable only at liquidation value. But in a seller's market, inventories are
+also near cash assets.
+
+Interpretation
+
+An acid-test of 1:1 is considered satisfactory unless the majority of "quick
+assets" are in accounts receivable, and the pattern of accounts receivable
+collection lags behind the schedule for paying current liabilities.
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                   3.7 3.7
+                               RATIO ANALYSIS
+
+(c) Cash Ratio/ Absolute Liquidity Ratio: The cash ratio measures the absolute
+       liquidity of the business. This ratio considers only the absolute liquidity
+       available with the firm. This ratio is calculated as:
+
+Cash Ratio = Cash and Bank balances +Marketable Securities
+                                         Current Liabilities
+                                       Or,
+
+              = Cash and Bankbalances + Current Investments
+                                    Current Liabilities
+
+Interpretation
+
+The Absolute Liquidity Ratio only tests short-term liquidity in terms of cash
+and marketable securities/ current investments.
+
+(d) Basic Defense Interval/ Interval Measure:
+
+                          Cash and Bank balances + Net Receivables
+
+Basic Defense Interval =                           + Marketable Securities
+
+                          Operating Expenses÷No. of days (say 360)
+
+                                  Or
+                = Current Assets ­ Prepaid expenses ­ Inventories
+
+                                  Daily Operating Expenses
+
+                           Cost of Goods Sold + Selling Administartion and
+
+                           other General expenses - Depreciationand other
+
+Daily Operating Expenses=  non cash expenditure
+                                             No. of days in a year
+
+Interpretation
+
+If for some reason all the company's revenues were to suddenly cease, the
+Basic Defense Interval would help determine the number of days for which
+the company can cover its cash expenses without the aid of additional
+financing.
+
+© The Institute of Chartered Accountants of India
+3.8  FINANCIAL MANAGEMENT
+
+(e) Net Working Capital: Net working capital is more a measure of cash flow
+       than a ratio. The result of this calculation must be a positive number.
+       However, in certain business models it may be negative. It is calculated as
+       shown below:
+         Net Working Capital = Current Assets - Current Liabilities (Excluding
+                                            short-term bank borrowing)
+       Interpretation
+       Bankers look at Net Working Capital over time to determine a company's
+       ability to weather financial crises. Loans are often tied to minimum working
+       capital requirements.
+
+3.2 Long-term Solvency Ratios/ Leverage Ratios
+
+The leverage ratios may be defined as those financial ratios which measure the
+long-term stability and capital structure of the firm. These ratios indicate the
+mix of funds provided by owners and lenders and assure the lenders of the long-
+term funds with regard to:
+(i) Periodic payment of interest during the period of the loan and
+(ii) Repayment of principal amount on maturity.
+
+Leverage ratios are of two types:
+1. Capital Structure Ratios
+
+       (a) Equity Ratio
+       (b) Debt Ratio
+       (c) Debt to Equity Ratio
+       (d) Debt to Total Assets Ratio
+       (e) Capital Gearing Ratio
+       (f) Proprietary Ratio
+
+© The Institute of Chartered Accountants of India
+              FINANCIAL ANALYSIS AND PLANNING­                              3.9 3.9
+                                             RATIO ANALYSIS
+
+2. Coverage Ratios
+       (a) Debt-Service Coverage Ratio (DSCR)
+       (b) Interest Coverage Ratio
+       (c) Preference Dividend Coverage Ratio
+       (d) Fixed Charges Coverage Ratio
+
+3.2.1 Capital Structure Ratios
+
+These ratios provide an insight into the financing techniques used by a business
+and focus, as a consequence, on the long-term solvency position.
+
+From the balance sheet, one can get only the absolute fund employed and its
+sources but only capital structure ratios show the relative weight of different
+sources.
+
+Various capital structure ratios are:
+
+(a) Equity Ratio:
+
+Equity  Ratio                                      =  Shareholder's Equity
+                                                            Net Assets
+
+The shareholder's equity is Equity share capital and Reserves & Surplus
+(excluding fictitious assets etc).
+Net Assets or Capital employed includes Net Fixed Assets and Net Current
+Assets (Current Assets ­ Current Liabilities).
+
+       This ratio indicates proportion of owner's fund to total fund invested in the
+       business. Traditionally, it is believed that higher the proportion of owner's
+       fund, lower is the degree of risk for potential lenders.
+
+(b) Debt Ratio:
+
+                                       Debt Ratio = Total Debt
+                                                              Net Assets
+
+© The Institute of Chartered Accountants of India
+3.10            FINANCIAL MANAGEMENT
+
+Total debt or total outside liabilities includes short and long term
+borrowings from financial institutions, debentures/bonds, deferred payment
+arrangements for buying capital equipment, bank borrowings, public
+deposits and any other interest bearing loan.
+
+Interpretation
+
+This ratio is used to analyse the long-term solvency of a firm. A ratio greater
+than 1 would mean greater portion of company assets are funded by debt
+and could be a risky scenario.
+
+(c) Debt to Equity Ratio:
+
+Debt to Equity Ratio       = Total Outside Liabilities           =       Total Debt*
+                                 Shareholders' Equity               Shareholder's Equity
+
+                           = Long- term Debt * *
+                              Shareholders' equity
+
+*Not merely long-term debt i.e. both current & non-current liabilities.
+
+** Sometimes only interest-bearing, long-term debt is used instead of total
+liabilities (exclusive of current liabilities)
+
+Interpretation
+
+A high debt to equity ratio here means less protection for creditors, a low
+ratio, on the other hand, indicates a wider safety cushion (i.e., creditors feel
+the owner's funds can help absorb possible losses of income and capital).
+This ratio indicates the proportion of debt fund in relation to equity. This
+ratio is very often used for making capital structure decisions such as issue
+of shares and/ or debentures. Lenders are also very keen to know this ratio
+since it shows relative weights of debt and equity. Debt equity ratio is the
+indicator of firm's financial leverage.
+
+(d) Debt to Total Assets Ratio: This ratio measures the proportion of total
+       assets financed with debt and, therefore, the extent of financial leverage.
+
+Debt to Total Assets Ratio = Total Outside Liabilities Or = Total Debt
+                                                   Total Assets     Total Assets
+
+Higher the ratio, indicates that assets are less backed up by equity and
+hence higher financial leverage.
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                                        3.113.11
+                               RATIO ANALYSIS
+
+(e) Capital Gearing Ratio: In addition to debt-equity ratio, sometimes capital
+       gearing ratio is also calculated to show the proportion of fixed interest
+       (dividend) bearing capital to funds belonging to equity shareholders i.e.
+       equity funds or net worth. Again, higher ratio may indicate more risk.
+
+       Capital Gearing Ratio = Preference Share Capital+Debentures + Other Borrowed funds
+                                                Equity Share Capital + Reserves & Surplus - Losses
+
+(f) Proprietary Ratio:
+
+                Proprietary  Ratio                 =  Proprietary Fund
+                                                        Total Assets
+
+Proprietary fund includes Equity Share Capital, Preference Share Capital
+and Reserve & Surplus.
+
+Total assets exclude fictitious assets and losses.
+
+Interpretation
+
+It indicates the proportion of total assets financed by shareholders. Higher
+the ratio, less risky scenario it shall be.
+
+3.2.2 Coverage Ratios
+
+The coverage ratios measure the firm's ability to service the fixed liabilities.
+These ratios establish the relationship between fixed claims and what is normally
+available out of which these claims are to be paid. The fixed claims consist of:
+
+(i) Interest on loans
+
+(ii) Preference dividend
+
+(iii) Amortisation of principal or repayment of the instalment of loans or
+       redemption of preference capital on maturity.
+
+The following are important coverage ratios:
+
+(a) Debt Service Coverage Ratio (DSCR): Lenders are interested in debt
+       service coverage to judge the firm's ability to pay off current interest
+       and instalments.
+          Debt Service Coverage Ratio = Earnings available for debt services
+                                                                Interest + Installments
+
+© The Institute of Chartered Accountants of India
+3.12                FINANCIAL MANAGEMENT
+
+Earnings available for debt service*
+
+= Net profit (Earning after taxes) + Non-cash operating expenses like
+    depreciation and other amortizations + Interest + other adjustments like
+    loss on sale of Fixed Asset etc.
+
+*Fund from operations (or cash from operations) before interest and taxes
+also can be considered as per the requirement.
+
+Interpretation
+
+Normally DSCR of 1.5 to 2 is satisfactory. You may note that sometimes in
+both numerator and denominator lease rentals may also be added.
+
+(b) Interest Coverage Ratio: This ratio also known as "times interest earned
+       ratio" indicates the firm's ability to meet interest (and other fixed charges)
+       obligations. This ratio is computed as:
+
+Interest  Coverage  Ratio  =                       Earnings  before interest    and  taxes(EBIT)
+                                                                      Interest
+
+Interpretation
+
+Earnings before interest and taxes are used in the numerator of this ratio
+because the ability to pay interest is not affected by tax burden as interest
+on debt funds is deductible expense. It measures how many times a
+company can cover its current interest payment with its available earnings?
+In other words, it reflects the margin of safety a company has for paying
+interest on its debt during a given period.
+
+A high interest coverage ratio means that an enterprise can easily meet its
+interest obligations even if earnings before interest and taxes suffer a
+considerable decline. A lower ratio indicates excessive use of debt or
+inefficient operations.
+
+(c) Preference Dividend Coverage Ratio: This ratio measures the ability of a
+       firm to pay dividend on preference shares which carry a stated rate of
+       return. This ratio is computed as:
+
+      Preference Dividend Coverage Ratio = Net Profit/Earning after taxes (EAT)
+                                                                        Preference dividend
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                   3.133.13
+                               RATIO ANALYSIS
+
+Interpretation
+
+This ratio indicates margin of safety available to the preference
+shareholders. A higher ratio is desirable from preference shareholders point
+of view.
+
+Similarly, Equity Dividend coverage ratio can also be calculated as:
+
+Equity Dividend Coverage Ratio = Earning after taxes (EAT) - Preference dividend
+                                                               Equity dividend
+
+(d) Fixed Charges Coverage Ratio: This ratio shows how many times the cash
+       flow before interest and taxes covers all fixed financing charges. This ratio of
+       more than 1 is considered as safe.
+
+Fixed Charges Coverage Ratio =                     "EBIT + Depreciation"
+
+                                                   "Interest + Repayment of Loan"
+
+Notes for calculating Ratios:
+1. EBIT (Earnings before interest and taxes) = PBIT (Profit before interest and
+
+      taxes),
+
+      EAT (Earnings after taxes) = PAT (Profit after taxes)
+      EBT (Earnings before taxes) = PBT (Profit before taxes)
+2. Ratios shall be calculated based on requirement and availability of
+      information and may deviate from original formulae. If required,
+      assumptions should be given.
+3. Numerator should be taken in correspondence with the denominator and
+      vice-versa.
+
+3.3 Activity Ratios/ Efficiency Ratios/ Performance
+       Ratios/ Turnover Ratios
+
+These ratios are employed to evaluate the efficiency with which the firm
+manages and utilises its assets. For this reason, they are often called as 'Asset
+management ratios'. These ratios usually indicate the frequency of sales with
+
+© The Institute of Chartered Accountants of India
+3.14  FINANCIAL MANAGEMENT
+
+respect to its assets. These assets may be capital assets or working capital or
+average inventory.
+Activity Ratios/ Efficiency Ratios/ Performance Ratios/ Turnover Ratios:
+(a) Total Assets Turnover Ratio
+(b) Fixed Assets Turnover Ratio
+(c) Capital Turnover Ratio/ Net Assets Turnover Ratio
+(d) Current Assets Turnover Ratio
+(e) Working Capital Turnover Ratio
+
+       (i) Inventory/ Stock Turnover Ratio
+       (ii) Receivables (Debtors) Turnover Ratio
+       (iii) Payables (Creditors) Turnover Ratio
+
+These ratios are usually calculated with reference to sales/cost of goods sold
+and are expressed in terms of rate or times.
+(a) Total Asset Turnover Ratio: This ratio measures the efficiency with which
+
+       the firm uses its total assets. Higher the ratio, better it is. This ratio is
+       computed as:
+
+                   Total Asset Turnover Ratio = Sales/ Cost of GoodsSold
+                                                                      Total Assets
+
+       Interpretation
+       A high total assets turnover ratio indicates the efficient utilisation of total
+       assets in generation of sales. Similarly, a low asset turnover ratio indicates
+       total assets are not efficiently used to generate sales.
+(b) Fixed Assets Turnover Ratio: It measures the efficiency with which the firm
+       uses its fixed assets.
+
+                  Fixed Assets Turnover Ratio = Sales/ Costof Goods Sold
+                                                                       Fixed Assets
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                             3.153.15
+                               RATIO ANALYSIS
+
+Interpretation
+
+A high fixed assets turnover ratio indicates efficient utilisation of fixed
+assets in generating sales. A firm whose plant and machinery are old may
+show a higher fixed assets turnover ratio than the firm which has purchased
+them recently.
+
+(c) Capital Turnover Ratio/ Net Asset Turnover Ratio:
+
+Capital         Turnover  Ratio                    =  Sales/ Cost of Goods Sold
+                                                               Net Assets
+
+Interpretation
+
+Since Net Assets equals to capital employed it is also known as Capital
+Turnover Ratio. This ratio indicates the firm's ability of generating sales/
+Cost of Goods Sold per rupee of long-term investment. The higher the ratio,
+the more efficient is the utilisation of owner's and long-term creditors'
+funds.
+
+(d) Current Assets Turnover Ratio: It measures the efficiency of using the
+       current assets by the firm.
+
+Current  Assets  Turnover                          Ratio  =  Sales/ Cost of Goods   Sold
+                                                                    Current Assets
+
+       Interpretation
+
+       The higher the ratio, the more efficient is the utilisation of current assets in
+       generating sales.
+
+(e) Working Capital Turnover Ratio: It measures how effective a company is
+       at generating sales for every rupee of working capital put to use.
+               Working Capital Turnover Ratio = Sales/ Cost of Goods Sold
+                                                                       Working Capital
+
+Interpretation
+
+Higher the ratio, the more efficient is the utilisation of working capital in
+generating sales. However, a very high working capital turnover ratio
+indicates that the company needs to raise additional working capital for
+future needs.
+
+© The Institute of Chartered Accountants of India
+3.16            FINANCIAL MANAGEMENT
+
+Working Capital Turnover is further segregated into Inventory Turnover,
+Debtors Turnover, and Creditors Turnover.
+
+Note: Average of Total Assets/ Fixed Assets/ Current Assets/ Net Assets/
+Working Capital also can be taken in the denominator for the above ratios.
+
+(i) Inventory/ Stock Turnover Ratio: This ratio also known as stock turnover
+       ratio establishes the relationship between the cost of goods sold during
+       the year and average inventory held during the year. It measures the
+       efficiency with which a firm utilizes or manages its inventory. It is calculated
+       as follows:
+
+      Inventory Turnover Ratio =                   Cost of Goods Sold / Sales
+                                                        Average Inventory
+
+      Average Inventory =                          Opening Stock + Closing Stock
+                                                                     2
+
+In the case of inventory of raw material, the inventory turnover ratio is
+calculated using the following formula :
+
+Raw Material Inventory Turnover Ratio = Raw Material Consumed
+                                                           Average Raw Material Stock
+
+Interpretation
+
+This ratio indicates that how fast inventory is used or sold. A high ratio is
+good from the view point of liquidity and vice versa. A low ratio would
+indicate that inventory is not used/ sold/ lost and stays in a shelf or in the
+warehouse for a long time.
+
+(ii) Receivables (Debtors) Turnover Ratio: In case firm sells goods on credit,
+       the realization of sales revenue is delayed and the receivables are created.
+       The cash is realised from these receivables later on.
+
+The speed with which these receivables are collected affects the liquidity
+position of the firm. The debtor's turnover ratio throws light on the
+collection and credit policies of the firm. It measures the efficiency with
+which management is managing its accounts receivables. It is calculated
+as follows:
+
+© The Institute of Chartered Accountants of India
+   FINANCIAL ANALYSIS AND PLANNING­                                               3.173.17
+                                  RATIO ANALYSIS
+
+Receivables (Debtors) Turnover Ratio =                           Credit Sales
+
+                                                       Average Accounts Receivable
+
+A low debtors' turnover ratio reflects liberal credit terms granted to
+customers, while a high ratio shows that collections are made rapidly.
+
+Receivables (Debtors) Velocity/Average Collection Period: Debtor's
+turnover ratio indicates the average collection period. However, the average
+collection period can be directly calculated as follows:
+
+= Average Accounts Receivables                     Or  12 months/52 weeks/ 360 days
+       Average Daily Credit Sales                         Receivable Turnover Ratio
+
+Average Daily Credit Sales =                       Credit Sales
+
+                                                   No. of days in year (say 360)
+
+Interpretation
+
+The average collection period measures the average number of days it takes
+to collect an account receivable. This ratio is also referred to as the number
+of days of receivable and the number of day's sales in receivables. In
+determining the credit policy, debtor's turnover and average collection
+period provide a unique guidance.
+
+(iii) Payables Turnover Ratio: This ratio is calculated on the same lines as
+       receivable turnover ratio is calculated. It measures how fast a company
+       makes payment to its creditors. It shows the velocity of payables payment
+       by the firm. It is calculated as follows:
+
+   Payables Turnover Ratio =                       Annual Net Credit Purchases
+                                                   Average Accounts Payables
+
+A low creditor's turnover ratio reflects liberal credit terms granted by
+suppliers, while a high ratio shows that accounts are settled rapidly.
+
+Payable Velocity/ Average payment period can be calculated using:
+
+=     Average Accounts Payable                     Or  12months/52 weeks/ 360days
+   Average Daily Credit Purchases                          Payables TurnoverRatio
+
+© The Institute of Chartered Accountants of India
+3.18  FINANCIAL MANAGEMENT
+
+       Interpretation
+
+       The firm can compare what credit period it receives from the suppliers and
+       what it offers to the customers. Also, it can compare the average credit
+       period offered to the customers in the industry to which it belongs.
+
+The above three ratios i.e. Inventory Turnover Ratio/ Receivables Turnover
+Ratio/Payables Turnover Ratio are also relevant to examine liquidity of an
+organization.
+
+Notes for calculating Ratios:
+
+1. Only selling & distribution expenses differentiate Cost of Goods Sold (COGS)
+       and Cost of Sales (COS). In its absence, COGS will be equal to Cost of Sales.
+
+2. We can consider Cost of Goods Sold/ Cost of Sales to calculate turnover
+       ratios eliminating profit part.
+
+3. Average of Total Assets/ Fixed Assets/ Current Assets/ Net Assets/ Working
+       Capital also can be taken in denominator while calculating the above ratios.
+       In fact, when average figures of total assets, net assets, capital employed,
+       shareholders' fund etc. are available it may be preferred to calculate ratios
+       by using this information.
+
+4. Ratios shall be calculated based on requirement and availability of
+       information and may deviate from original formulae. If required,
+       assumptions should be given.
+
+3.4 Profitability Ratios
+
+The profitability ratios measure the profitability or the operational efficiency
+of the firm. These ratios reflect the final results of business operations. They are
+some of the most closely watched and widely quoted ratios. Management
+attempts to maximize these ratios to maximize the firm's value.
+
+The results of the firm can be evaluated in terms of its earnings with reference to
+a given level of assets or sales or owner's interest etc. Therefore, the profitability
+ratios are broadly classified in four categories:
+
+(i) Profitability Ratios related to Sales
+
+(ii) Profitability Ratios related to overall Return on Investment
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                   3.193.19
+                               RATIO ANALYSIS
+
+(iii) Profitability Ratios required for Analysis from Owner's Point of View
+(iv) Profitability Ratios related to Market/ Valuation/ Investors
+
+Profitability Ratios are as follows:
+(i) Profitability Ratios based on Sales
+
+       (a) Gross Profit Ratio
+       (b) Net Profit Ratio
+       (c) Operating Profit Ratio
+       (d) Expenses Ratio
+(ii) Profitability Ratios related to Overall Return on Assets/ Investments
+       (a) Return on Investments (ROI)
+
+               (i) Return on Assets (ROA)
+               (ii) Return of Capital Employed (ROCE)
+               (iii) Return on Equity (ROE)
+(iii) Profitability Ratios required for Analysis from Owner's Point of View
+       (a) Earnings per Share (EPS)
+       (b) Dividend per Share (DPS)
+       (c) Dividend Pay-out Ratio (DP)
+(iv) Profitability Ratios related to Market/ Valuation/ Investors
+       (a) Price Earnings (P/E) Ratio
+       (b) Dividend and Earning Yield
+       (c) Market Value/ Book Value per Share (MV/BV)
+       (d) Q Ratio
+
+© The Institute of Chartered Accountants of India
+3.20                   FINANCIAL MANAGEMENT
+
+3.4.1 Profitability Ratios based on Sales
+
+(a) Gross Profit (G.P) Ratio/ Gross Profit Margin: It measures the percentage
+       of each sale in rupees remaining after payment for the goods sold.
+
+                   Gross  Profit                   Ratio  =  Gross Profit  ×100
+                                                                 Sales
+
+Interpretation
+
+Gross profit margin depends on the relationship between sales price,
+volume and costs. A high Gross Profit Margin is a favourable sign of good
+management.
+
+(b) Net Profit Ratio/ Net Profit Margin: It measures the relationship between
+       net profit and sales of the business. Depending on the concept of net profit,
+       it can be calculated as:
+
+(i)   Net  Profit  Ratio  =  Net Profit            ×100
+                               Sales
+
+                                                             Or
+
+                          Earnings                 after taxes   (EAT)×100
+                                                    Sales
+
+(ii)  Pre-tax  Profit  Ratio  =  Earnings                    before taxes  (EBT)×100
+                                                               Sales
+
+Interpretation
+
+Net Profit ratio finds the proportion of revenue that finds its way into profits
+after meeting all expenses. A high net profit ratio indicates positive returns
+from the business.
+
+(c) Operating Profit Ratio:
+
+Operating profit ratio is also calculated to evaluate operating performance
+of business.
+
+           Operating      Profit                   Ratio  =  Operating Profit  ×100
+                                                                    Sales
+
+© The Institute of Chartered Accountants of India
+     FINANCIAL ANALYSIS AND PLANNING­                                        3.213.21
+                                    RATIO ANALYSIS
+
+                                                   or,
+
+           Earnings  before  interest                   and  taxes  (EBIT) ×100
+                               Sales
+
+Where,
+
+Operating Profit = Sales ­ Cost of Goods Sold (COGS) ­ Operating Expenses
+
+Interpretation
+
+Operating profit ratio measures the percentage of each sale in rupees
+that remains after the payment of all costs and expenses except for
+interest and taxes. This ratio is followed closely by analysts because it
+focuses on operating results. Operating profit is often referred to as
+earnings before interest and taxes or EBIT.
+
+(d) Expenses Ratio: Based on different concepts of expenses it can be
+       expresses in different variants as below:
+
+(i)  Cost  of  Goods Sold (COGS) Ratio =                COGS   ×100
+                                                        Sales
+
+                                                             Administrative exp. +
+
+(ii) Operating Expenses Ratio                      =    Selling  &  Distribution  OH×100
+(iii) Operating Ratio                                               Sales
+(iv) Financial Expenses Ratio
+                                                   =    COGS+Operating       expenses ×100
+                                                                      Sales
+
+                                                   =    Financial expenses   * ×100
+                                                                 Sales
+
+*It excludes taxes, loss due to theft, goods destroyed by fire etc.
+
+Administration Expenses Ratio and Selling & Distribution Expenses
+Ratio can also be calculated in similar ways.
+
+© The Institute of Chartered Accountants of India
+3.22              FINANCIAL MANAGEMENT
+
+3.4.2 Profitability Ratios related to Overall Return on
+          Assets/ Investments
+
+                  Return on Investment (ROI)
+
+Return on Assets      Return on Capital                              Return on Equity (ROE)
+       (ROA)          Employed (ROCE)
+
+      Return on Total Assets (ROTA)
+
+      Return on Net Assets (RONA)
+
+(a) Return on Investment (ROI): ROI is the most important ratio of all. It is the
+       percentage of return on funds invested in the business by its owners. In
+       short, this ratio tells the owner whether or not all the effort put into the
+       business has been worthwhile. It compares earnings/ returns/ profit with the
+       investment in the company. The ROI is calculated as follows:
+
+Return on Investment = ReturnIn/Pverostfmit/eEnatrnings×100
+
+                                                   Or,
+
+                            =                      Return/  Profit/  Earnings  ×     Sales
+                                                             Sales                Investment
+
+                                                   Or,
+
+                            = Profitability Ratio x Investment Turnover Ratio
+
+Since, Profitability Ratio  =                      Return/ Profit/   Earnings  ,  and
+                                                              Sales
+
+Investment  Turnover  Ratio=                           Sales
+                                                   Investments
+
+ROI can be improved either by improving Profitability Ratio or Investment
+Turnover Ratio or by both.
+
+The concept of investment varies and accordingly there are three broad
+categories of ROI i.e.
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                                            3.233.23
+                               RATIO ANALYSIS
+
+(i) Return on Assets (ROA),
+
+(ii) Return on Capital Employed (ROCE) and
+
+(iii) Return on Equity (ROE).
+
+We should keep in mind that investment may be Total Assets or Net Assets.
+Further, funds employed in net assets are also known as capital employed which
+is nothing but Net worth plus Debt, where Net worth is equity shareholders' fund.
+Similarly, the concept of returns/ earnings/ profits may vary as per the
+requirement and availability of information.
+
+(i) Return on Assets (ROA): The profitability ratio is measured in terms of
+       relationship between net profits and assets employed to earn that profit.
+       This ratio measures the profitability of the firm in terms of assets employed
+       in the firm. Based on various concepts of net profit (return) and assets, the
+       ROA may be measured as follows:
+
+ROA=  Net Profit after taxes   or                   Net Profit after taxes
+      * Average Total Assets                       Average Tangible Assets
+
+                               or Net Profit after taxes
+                                   Average Fixed Assets
+
+* Note: Sometimes, total assets may also be considered instead of average assets.
+
+Here, net profit is exclusive of interest. As Assets are also financed by
+lenders, hence ROA can be calculated as:
+
+RoA =                          Net Profit after taxes + Interest
+
+       Average Total Assets/Average Tangible Assets/Average Fixed Assets
+
+                                                   Or
+
+=            EBIT(1- t)        {also               known as Return on Total Assets     (ROTA)}
+      Average Total Assets
+
+                                                   Or
+
+=            EBIT(1- t)        {also               known  as  Return  on  Net  Assets  (RONA)}
+      Average Net Assets
+
+© The Institute of Chartered Accountants of India
+3.24             FINANCIAL MANAGEMENT
+
+(ii) Return on Capital Employed (ROCE): It is another variation of ROI.
+
+The ROCE is calculated as follows:
+
+ROCE  (Pre-tax)  =  Earnings                       before interest and  taxes  (EBIT)  ×100
+                                                     Capital Employed
+
+ROCE (Post-tax) = CapiEtaBlITE(m1-ptl)oyed×100
+
+Sometimes, it is also calculated as:
+
+                    =  Net                         Profit  after taxes (PAT/EAT)+Interest  ×100
+                                                            Capital Employed
+
+       Where,
+
+       Capital Employed = Total Assets ­ Current Liabilities
+
+                                               Or
+
+                                  = Fixed Assets + Working Capital
+
+                                               Or
+
+                                  = Equity + Long Term Debt
+
+       Interpretation
+
+       ROCE should always be higher than the rate at which the company borrows.
+
+       Intangible assets (assets which have no physical existence like goodwill,
+       patents and trade-marks) should be included in the capital employed. But
+       no fictitious asset (such as deferred expenses) should be included within
+       capital employed. If information is available, then average capital employed
+       shall be taken.
+
+(iii) Return on Equity (ROE): Return on Equity measures the profitability of
+       equity funds invested in the firm. This ratio reveals how profitably of the
+       owners' funds have been utilised by the firm. It also measures the
+       percentage return generated to equity shareholders. This ratio is computed
+       as:
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                            3.253.25
+                               RATIO ANALYSIS
+
+ROE  =  Net  Profit  after taxes - Preference dividend (if  any)  ×100
+               Net   Worth/ Equity Shareholders'Funds
+
+Interpretation
+
+Return on equity is one of the most important indicators of a firm's
+profitability and potential growth. Companies that boast a high return on
+equity with little or no debt are able to grow without large capital
+expenditures, allowing the owners of the business to withdraw cash and
+reinvest it elsewhere. Many investors fail to realize, however, that two
+companies can have the same return on equity, yet one can be a much
+better business. If return on total shareholders (i.e. equity and preference
+shareholder) is calculated, then Net Profit after taxes (before preference
+dividend) shall be divided by total shareholders' fund including preference
+share capital.
+
+Return on Equity using the Du Pont Model:
+
+A finance executive at E.I. Du Pont de Nemours and Co., of Wilmington, Delaware,
+created the DuPont system of financial analysis in 1919. That system is used
+around the world today and serves as the basis of components that make up
+return on equity.
+
+There are various components in the calculation of return on equity using the
+traditional DuPont model- the net profit margin, asset turnover, and the equity
+multiplier. By examining each input individually, the sources of a company's
+return on equity can be discovered and compared to its competitors. The
+components are as follows:
+
+(i) Profitability/Net Profit Margin: The net profit margin is simply the
+       after-tax profit a company generates for each rupee of revenue. Net
+       profit margin varies across industries, making it important to compare a
+       potential investment against its competitors. Although the general rule-of-
+       thumb is that a higher net profit margin is preferable, it is not uncommon
+       for management to purposely lower the net profit margin in a bid to attract
+       higher sales.
+
+     Profitability/ Net Profit margin=             Profit/ Net Income
+                                                     Sales/ Revenue
+
+© The Institute of Chartered Accountants of India
+3.26  FINANCIAL MANAGEMENT
+
+       Net profit margin is a safety cushion; the lower the margin, the less room
+       for an error. A business with 1% margin has no room for flawed execution.
+       Small miscalculations on management's part could lead to tremendous
+       losses with little or no warning.
+
+(ii) Investment Turnover/ Asset Turnover/ Capital Turnover: The asset
+       turnover ratio is a measure of how effectively a company converts its
+       assets into sales. It is calculated as follows:
+
+         Investment Turnover/ Asset Turnover/ Capital Turnover
+                                                   Sales/ Revenue
+
+                                        = Investment/ Assets/ Capital
+
+       The asset turnover ratio tends to be inversely related to the net profit
+       margin i.e. higher the net profit margin, lower the asset turnover and vice
+       versa. The result is that the investor can compare companies using different
+       models (low-profit, high-volume vs. high-profit, low-volume) and determine
+       which one is the more attractive business.
+
+(iii) Equity Multiplier: It is possible for a company with terrible sales and
+       margins to take on excessive debt and artificially increase its return on
+       equity. The equity multiplier, a measure of financial leverage, allows the
+       investor to see what portion of the return on equity is the result of debt.
+       The equity multiplier is calculated as follows:
+
+                        Equity Multiplier = Investment /Assets /Capital
+                                                         Shareholders' Equity
+
+Calculation of Return on Equity
+
+To calculate the return on equity using the DuPont model, simply multiply the
+three components (net profit margin, asset turnover, and equity multiplier.)
+
+ Return on Equity = (Profitability/ Net profit margin) x (Investment Turnover/
+                             Asset Turnover / Capital Turnover) x Equity Multiplier
+
+Example - 1: XYZ Company's details are as under:
+
+Revenue: ` 29,261; Net Income: ` 4,212; Assets: ` 27,987; Shareholders' Equity:
+` 13,572.
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                   3.273.27
+                               RATIO ANALYSIS
+
+Here, Return on Equity as per Du Pont Model will be calculated as follows:
+
+Net Profit Margin = Net Income (` 4,212) ÷ Revenue (` 29,261)
+
+                        = 0.14439 or 14.39%
+
+Asset Turnover = Revenue (` 29,261) ÷ Assets (` 27,987) = 1.0455
+
+Equity Multiplier = Assets (` 27,987) ÷ Shareholders' Equity (` 13,572) = 2.0621
+
+Finally, we multiply the three components together to calculate the return on
+equity:
+
+Return on Equity = Net Profit Margin x Asset Turnover x Equity Multiplier
+
+                        = (0.1439) x (1.0455) x (2.0621) = 0.3102, or 31.02%
+
+Analysis: A 31.02% return on equity is good in any industry. Yet, if you were to
+leave out the equity multiplier to see how much company would earn if it were
+completely debt-free, you will see that the ROE drops to 15.04% (0.1439 x 1.0455).
+15.04% of the return on equity was due to profit margins and sales, while
+remaining 15.98% was due to returns earned on the debt at work in the business.
+If you could find a company at a comparable valuation with the same return on
+equity yet a higher percentage arose from internally generated sales, it would be
+more attractive.
+
+3.4.3 Profitability Ratios Required for Analysis from
+               Owner's Point of View
+
+(a) Earnings per Share (EPS): The profitability of a firm from the point of view
+       of ordinary shareholders can be measured in terms of earnings per share
+       basis. It is calculated as follows:
+
+         Earnings per Share (EPS) = Net profit available to equity shareholders
+                                                    Number of equity shares outstanding
+
+(b) Dividend per Share (DPS): Earnings per share as stated above reflects the
+       profitability of a firm per share; it does not reflect how much profit is paid
+       as dividend and how much is retained by the business. Dividend per share
+       ratio indicates the amount of profit distributed to equity shareholders per
+       share. It is calculated as:
+
+       Dividend per Share (DPS) = Total Dividend paid to equity shareholders
+                                                   Number of equity shares outstanding
+
+© The Institute of Chartered Accountants of India
+3.28                 FINANCIAL MANAGEMENT
+
+(c) Dividend Pay-out Ratio (DP): This ratio measures the dividend paid in
+       relation to net earnings. It is determined to see to how much extent
+       earnings per share have been retained by the management for the business.
+       It is computed as:
+
+                Dividend pay-out Ratio = Dividend per equity share (DPS)
+                                                            Earning per Share (EPS)
+
+3.4.4 Profitability Ratios related to market/valuation/
+         Investors
+
+These ratios consider the market value of the company's shares in calculation.
+Frequently, share prices data are punched with the accounting data to generate
+new set of information. These are (a) Price- Earnings Ratio, (b) Dividend Yield, (c)
+Market Value/ Book Value per share, (d) Q Ratio.
+
+(a) Price- Earnings Ratio (P/E Ratio): The price earnings ratio indicates the
+       expectation of equity investors about the earnings of the firm. It relates
+       earnings to market price and is generally taken as a summary measure of
+       growth potential of an investment, risk characteristics, shareholders
+       orientation, corporate image and degree of liquidity. It is calculated as
+
+Price-Earnings  per  Share  (P/E                   Ratio)  =  Market Price per Share (MPS)
+                                                                  Earning per Share (EPS)
+
+Interpretation
+It indicates the payback period to the investors or prospective investors. A
+higher P/E ratio could either mean that a company's stock is over-valued or
+the investors are expecting high growth rates in future.
+
+(b) Dividend and Earning Yield:
+
+      Dividend  Yield  =  Dividend ± Change in share          price  ×100
+                                     Initial share price
+
+                                               Or,
+                       = MaDrikveidt ePnrdicepepreSr hSahraere(D(PMSP) S)×100
+
+Earnings Yield* or EP Ratio = MaErakrentinPgriscepeprerShSahraere(E(PMS)PS)×100
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                      3.293.29
+                               RATIO ANALYSIS
+
+        *Also known as Earnings Price (EP) Ratio.
+
+       Interpretation
+
+       This ratio indicates return on investment; this may be on average
+       investment or closing investment. Dividend (%) indicates return on paid up
+       value of shares. But yield (%) is the indicator of true return in which share
+       capital is taken at its market value.
+
+(c) Market Value/ Book Value per Share (MV/BV): It provides evaluation of
+       how investors view the company's past and future performance.
+
+       Market Value/ Book Value per Share (MV/BV) =
+                                                                             Average share price
+
+                                                                     Net worth ÷ No.of equity shares
+
+                                                      Or
+
+                                                   =  Closing share price
+
+                                                      Net worth ÷ No. of equity shares
+
+       Interpretation
+
+       This ratio indicates market response of the shareholders' investment.
+       Undoubtedly, higher the ratio, better is the shareholders' position in terms
+       of return and capital gains.
+
+(d) Q Ratio: This ratio is proposed by James Tobin, a ratio is defined as
+
+Q Ratio =  Market Value of equity and liabilities
+           Estimated replacement cost of assets
+
+                  Or
+   Market Value of a Company
+= Assets' Replacement Cost
+
+Thus, this ratio represents the relationship between market valuation and
+intrinsic value. Equilibrium is when Q Ratio = 1 because when it is less than
+1, it could mean that the stock is undervalued and when it is more than 1, it
+could mean that stock is overvalued.
+
+© The Institute of Chartered Accountants of India
+    3.30          FINANCIAL MANAGEMENT
+
+Notes for calculating Ratios:
+
+1. EBIT (Earnings before interest and taxes) = PBIT (Profit before interest and
+                                                                    taxes),
+
+       EAT (Earnings after taxes) = PAT (Profit after taxes),
+
+       EBT (Earnings before taxes) = PBT (Profit before taxes)
+
+2. In absence of preference dividend PAT can be taken as earnings available
+       to equity shareholders.
+
+3. If information is available then average capital employed shall be taken
+       while calculating ROCE.
+
+4. Ratios shall be calculated based on requirement and availability of
+       information and may deviate from original formulae. If required,
+       assumptions should be given.
+
+5. Numerator should be taken in correspondence with the denominator and
+       vice-versa.
+
+    4. USERS AND OBJECTIVE OF FINANCIAL
+         ANALYSIS - A BIRD'S EYE VIEW
+
+Financial Statement analysis is useful to various shareholders to obtain the
+derived information about the firm.
+
+S.No. Users       Objectives                       Ratios used in general
+
+1.  Shareholders  Being owners of Mainly Profitability Ratios
+
+                  the organisation [In particular Earning per
+
+                  they                             are share (EPS), Dividend per
+
+                  interested                       to share (DPS), Price Earnings
+
+                  know                             about (P/E), Dividend Payout
+
+                  profitability and ratio (DP)]
+
+                  growth of the
+
+                  organization
+
+2.  Investors     They                             are  Profitability Ratios
+                  interested                        to
+
+© The Institute of Chartered Accountants of India
+    FINANCIAL ANALYSIS AND PLANNING­                            3.313.31
+                                   RATIO ANALYSIS
+
+               know                                overall  Capital       structure
+
+               financial health of                              Ratios
+
+               the organisation                                 Solvency Ratios
+               particularly future
+               perspective of the  Turnover Ratios
+
+               organisations.
+
+3.  Lenders    They will keep an  Coverage Ratios
+
+               eye on the safety                                Solvency Ratios
+               perspective of
+               their money lent  Turnover Ratios
+
+               to                                  the  Profitability Ratios
+
+               organisation
+
+4.  Creditors  They                                are  Liquidity Ratios
+
+               interested                          to           Short term solvency
+
+               know                                liability    Ratios/   Liquidity
+
+               position of the                                  Ratios
+
+               organisation
+
+               particularly                        in
+
+               short                               term.
+
+               Creditors would
+
+               like to know
+
+               whether                             the
+
+               organisation will
+
+               be able to pay the
+
+               amount on due
+
+               date.
+
+5.  Employees  They will be  Liquidity Ratios
+
+               interested                          to           Long terms solvency
+                                                                Ratios
+               know the overall
+
+               financial wealth of
+               the organisation  Profitability Ratios
+
+               and compare it  Return on investment
+               with competitor
+
+               company.
+
+© The Institute of Chartered Accountants of India
+    3.32         FINANCIAL MANAGEMENT
+
+6.  Regulator /     They will analyse  Profitability Ratios
+
+    Government      the                            financial
+
+                    statements                     to
+
+                    determine
+
+                    taxations                      and
+
+                    other                          details
+
+                    payable to the
+
+                    government.
+
+7.  Managers
+
+    (a) Production  They                           are  Input output Ratio
+    Managers
+                    interested                     to  Raw              material
+
+                    know about data                             consumption ratio.
+                    regarding input
+
+                    output,
+
+                    production
+
+                    quantities etc.
+
+    (b) Sales       Data related to  Turnover                                    ratios
+    Managers
+                    units sold for                              (basically receivable
+
+                    various                        years,       turnover ratio)
+
+                    other associated                            Expenses Ratios
+
+                    figures                        and
+
+                    predicted future
+
+                    sales figure will be
+
+                    an area of interest
+
+                    for them
+
+    (c) Financial   They                           are  Profitability Ratios
+    Manager
+                    interested                     to           (particularly related to
+
+                    know                           various      Return on investment)
+
+                    ratios for their                            Turnover ratios
+                    future predictions
+                                                   financial  Capital   Structure
+                    of
+                                                                Ratios
+                    requirement.
+
+© The Institute of Chartered Accountants of India
+    FINANCIAL ANALYSIS AND PLANNING­                 3.333.33
+                                   RATIO ANALYSIS
+
+    (d) Chief           They will try to             All Ratios
+    Executive/ General
+    Manager             assess           the
+
+                        complete
+
+                        perspective of the
+
+                        company, starting
+
+                        from        Sales,
+
+                        Finance,
+
+                        Inventory, Human
+
+                        resources,
+
+                        Production etc.
+
+8.  Different Industry
+
+    (a) Telecom                                     Ratio related to `call'
+    (b) Bank
+    (c) Hotel                                       Revenue             and
+
+                                                     expenses           per
+
+                                                     customer
+
+                        Finance Manager/  Loan to deposit Ratios
+                        Analyst          will
+                        calculate ratios of  Operating expenses
+                                                     and income ratios
+                        their company
+
+                        and compare it               Room occupancy ratio
+
+                        with        Industry
+
+                        norms.                      Bed occupancy Ratios
+
+    (d) Transport                                   Passenger-kilometre
+
+                                                    Operating cost-per
+                                                        passenger kilometre
+
+     5. APPLICATION OF RATIO ANALYSIS IN
+          FINANCIAL DECISION MAKING
+
+A popular technique of analysing the performance of a business concern is that of
+financial ratio analysis. As a tool of financial management, they are of crucial
+significance.
+
+© The Institute of Chartered Accountants of India
+3.34  FINANCIAL MANAGEMENT
+
+The importance of ratio analysis lies in the fact that it presents facts on a
+comparative basis and enables drawing of inferences regarding the performance
+of a firm.
+
+Ratio analysis is relevant in assessing the performance of a firm in respect of
+following aspects:
+
+5.1 Financial Ratios for Evaluating Performance
+
+(a) Liquidity Position: With the help of ratio analysis one can draw conclusions
+       regarding liquidity position of a firm. The liquidity position of a firm would
+       be satisfactory if it is able to meet its obligations when they become due.
+       This ability is reflected in the liquidity ratios of a firm. The liquidity ratios are
+       particularly useful in credit analysis by banks and other suppliers of short-
+       term loans.
+
+(b) Long-term Solvency: Ratio analysis is equally useful for assessing the long-
+       term financial viability of a firm. This aspect of the financial position of a
+       borrower is of concern to the long term creditors, security analysts and the
+       present and potential owners of a business.
+
+       The long term solvency is measured by the leverage/capital structure and
+       profitability ratios which focus on earning power and operating efficiency.
+
+       The leverage ratios, for instance, will indicate whether a firm has a
+       reasonable proportion of various sources of finance or whether it is heavily
+       loaded with debt in which case its solvency is exposed to serious strain.
+
+       Similarly, the various profitability ratios would reveal whether or not the firm
+       is able to offer adequate return to its owners consistent with the risk
+       involved.
+
+(c) Operating Efficiency: Ratio analysis throws light on the degree of
+       efficiency in the management and utilisation of its assets.
+
+       The various activity ratios measure this kind of operational efficiency. In fact,
+       the solvency of a firm is, in the ultimate analysis, dependent upon the sales
+       revenues generated by the use of its assets ­ total as well as its
+       components.
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                   3.353.35
+                               RATIO ANALYSIS
+
+(d) Overall Profitability: Unlike the outside parties which are interested in one
+       aspect of the financial position of a firm, the management is constantly
+       concerned about the overall profitability of the enterprise. That is, they are
+       concerned about the ability of the firm to meet its short-term as well as
+       long-term obligations to its creditors, to ensure a reasonable return to its
+       owners and secure optimum utilisation of the assets of the firm. This is
+       possible if an integrated view is taken and all the ratios are considered
+       together.
+
+(e) Inter-firm Comparison: Ratio analysis not only throws light on the financial
+       position of a firm but also serves as a stepping stone to remedial measures.
+       This is made possible due to inter-firm comparison/comparison with
+       industry averages.
+
+       A single figure of particular ratio is meaningless unless it is related to some
+       standard or norm. One of the popular techniques is to compare the ratios of
+       a firm with the industry average. It should be reasonably expected that the
+       performance of a firm should be in broad conformity with that of the
+       industry to which it belongs.
+
+       An inter-firm comparison would demonstrate the relative position vis-a-vis
+       its competitors. If the results are at variance either with the industry average
+       or with those of the competitors, the firm can seek to identify the probable
+       reasons and, in the light, take remedial measures.
+
+       Ratios not only perform post mortem of operations, but also serve as
+       barometer for future. Ratios have predictor value and they are very helpful
+       in forecasting and planning the business activities for a future.
+
+       Conclusions are drawn on the basis of the analysis obtained by using ratio
+       analysis. The decisions affected may be whether to supply goods on credit
+       to a concern, whether bank loans will be made available, etc.
+
+(f) Financial Ratios for Budgeting: In this field ratios are able to provide a
+       great deal of assistance. Budget is only an estimate of future activity based
+       on past experience, in the making of which the relationship between
+       different spheres of activities are invaluable.
+
+       It is usually possible to estimate budgeted figures using financial ratios.
+
+© The Institute of Chartered Accountants of India
+3.36  FINANCIAL MANAGEMENT
+
+Ratios also can be made use of for measuring actual performance with
+budgeted estimates. They indicate directions in which adjustments should
+be made either in the budget or in performance to bring them closer to
+each other.
+
+     6. LIMITATIONS OF FINANCIAL RATIOS
+
+The limitations of financial ratios are listed below:
+
+(i) Diversified product lines: Many businesses operate a large number of
+       divisions in quite different industries. In such cases ratios calculated on the
+       basis of aggregate data cannot be used for inter-firm comparisons.
+
+(ii) Financial data are badly distorted by inflation: Historical cost values may
+       be substantially different from true values. Such distortions of financial data
+       are also carried in the financial ratios.
+
+(iii) Seasonal factors: It may also influence financial data.
+
+       Example: A company deals in cotton garments. It keeps a high inventory
+       during October - January every year. For the rest of the year its inventory
+       level becomes just 1/4th of the seasonal inventory level.
+
+       So, the liquidity ratios and inventory ratios will produce biased picture. Year
+       end picture may not be the average picture of the business. Sometimes it is
+       suggested to take monthly average inventory data instead of year end data
+       to eliminate seasonal factors. But for external users it is difficult to get
+       monthly inventory figures. (Even in some cases monthly inventory figures
+       may not be available).
+
+(iv) To give a good shape to the popularly used financial ratios (like current
+       ratio, debt-equity ratios etc.): The business may make some year-end
+       adjustments. Such window dressing can change the character of financial
+       ratios which would be different had there been no such change.
+
+(v) Differences in accounting policies and accounting period: It can make
+       the accounting data of two firms non-comparable as also the accounting
+       ratios.
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                   3.373.37
+                               RATIO ANALYSIS
+
+(vi) No standard set of ratios against which a firm's ratios can be
+       compared: Sometimes a firm's ratios are compared with the industry
+       average. But if a firm desires to be above the average, then industry average
+       becomes a low standard. On the other hand, for a below average firm,
+       industry averages become too high a standard to achieve.
+
+(vii) Difficulty to generalise whether a particular ratio is good or bad: For
+       example, a low current ratio may be said `bad' from the point of view of low
+       liquidity, but a high current ratio may not be `good' as this may result from
+       inefficient working capital management.
+
+(viii) Financial ratios are inter-related, not independent: Viewed in isolation
+       one ratio may highlight efficiency. But when considered as a set of ratios
+       they may speak differently. Such interdependence among the ratios can be
+       taken care of through multivariate analysis (analyzing the relationship
+       between several variables simultaneously).
+
+Financial ratios provide clues but not conclusions. These are tools only in the
+hands of experts because there is no standard ready-made interpretation of
+financial ratios.
+
+     7. FINANCIAL ANALYSIS
+
+It may be of two types: - Horizontal and vertical.
+
+Horizontal Analysis: When financial statement of one year are analysed and
+interpreted after comparing with another year or years, it is known as horizontal
+analysis. It can be based on the ratios derived from the financial information over
+the same time span.
+
+Vertical Analysis: When financial statement of single year is analyzed then it is
+called vertical analysis. This analysis is useful in inter firm comparison. Every item
+of Profit and loss account is expressed as a percentage of gross sales, while every
+item on a balance sheet is expressed as a percentage of total assets held by the
+firm.
+
+© The Institute of Chartered Accountants of India
+3.38                     FINANCIAL MANAGEMENT
+
+8. SUMMARY OF RATIOS
+
+Another way of categorizing the ratios is being shown to you in a tabular form. A
+summary of the ratios has been tabulated as under:
+
+Ratio                    Formulae                        Interpretation
+
+Liquidity Ratio
+
+Current Ratio              Current Assets            A simple measure that
+                         Current Liabilities         estimates whether the
+                                                     business can pay short term
+                                                     debts. Ideal ratio is 2.
+
+Quick Ratio                 Quick Assets             It measures the ability to
+                         Current Liabilities         meet current debt
+                                                     immediately. Ideal ratio is
+                                                     1.
+
+Cash Ratio        Cash and Bank balances +           It measures absolute
+                                                     liquidity of the business.
+Basic Defense      Marketable Securities           
+Interval Ratio
+                         Current Liabilities
+
+                         Cash and Bank balances +    It measures the ability of
+
+                 Net Reveivables +Marketable Securities the business to meet
+                         Opearing Expenses ÷ No. of days regular cash expenditures.
+
+Net Working        Current Assets ­ Current          It is a measure of cash flow
+Capital                      Liabilities             to determine the ability of
+                                                     business to survive
+                                                     financial crisis.
+
+Capital Structure Ratio
+
+Equity Ratio             Shareholders' Equity        It indicates owner's fund in
+                               Net Assets            companies to total fund
+                                                     invested.
+Debt Ratio               Total Debt
+                         Net Assets                  It is an indicator of use of
+                                                     outside funds.
+
+Debt to equity                 Total Debt            It  indicates       the
+Ratio                    Shareholders'Equity
+                                                     composition of capital
+
+                                                     structure in terms of debt
+
+                                                     and equity.
+
+© The Institute of Chartered Accountants of India
+         FINANCIAL ANALYSIS AND PLANNING­                           3.393.39
+                                        RATIO ANALYSIS
+
+Debt to Total       Total Debt                             It measures how much of
+Assets Ratio       Total Assets                            total assets is financed by
+                                                           the debt.
+
+Capital  Gearing  Preference Share Capital+                It shows the proportion of
+Ratio                  Debentures+ Other Borrowed funds
+                              Equity Share Capital+        fixed interest bearing
+                             Reserves & Surplus ­ Losses 
+                                                           capital       to     equity
+
+                                                           shareholders' fund. It also
+
+                                                           signifies the advantage of
+
+                                                           financial leverage to the
+
+                                                           equity shareholder.
+
+Proprietary Ratio  Proprietary Fund                        It measures the proportion
+                     Total Assets                          of total assets financed by
+                                                           shareholders.
+
+Coverage Ratios
+
+Debt Service       Earnings available for                  It measures the ability to
+Coverage Ratio          debt services                      meet the commitment of
+(DSCR)                                                     various debt services like
+                   Interest+Instalments                    interest, instalment etc.
+                                                           Ideal ratio is 2.
+
+Interest             EBIT                                  It measures the ability of
+Coverage Ratio     Interest                                the business to meet
+                                                           interest obligations. Ideal
+                                                           ratio is > 1.
+
+Preference         Net Profit / Earning after taxes (EAT It measures the ability to
+Dividend           Preference dividend liability pay
+Coverage Ratio                                                      the       preference
+
+Fixed Charges                                              shareholders' dividend.
+Coverage Ratio
+                                                           Ideal ratio is > 1.
+
+                         EBIT + Depreciation               This ratio shows how many
+                   Interest + Repayment of loan            times the cash flow before
+                                                           interest and taxes covers
+                                                           all fixed financing charges.
+                                                           The ideal ratio is > 1.
+
+Activity Ratio/ Efficiency Ratio/ Performance Ratio/ Turnover Ratio
+
+Total    Asset     Sales / Cost of Goods Sold              A measure of total asset
+                      Average Total Assets                 utilisation. It helps to
+Turnover Ratio                                             answer the question - What
+
+© The Institute of Chartered Accountants of India
+       3.40          FINANCIAL MANAGEMENT
+
+                                                      sales are being generated
+                                                      by each rupee's worth of
+                                                      assets invested in the
+                                                      business?
+
+Fixed        Assets     Sales / Cost of Goods Sold    This ratio is about fixed
+                                   Fixed Assets
+Turnover Ratio                                        asset capacity. A reducing
+                        Sales / Cost of Goods Sold
+                                     Net Assets       sales or profit being
+
+                                    Sales / COGS      generated from each rupee
+                                 Working Capital
+                                                      invested in fixed assets
+                                    COGS / Sales
+                               Average Inventory      may indicate overcapacity
+
+                                    Credit Sales      or  poorer-performing
+                      Average Accounts Receivable
+                                                      equipment.
+                      Average Accounts Receivables
+Capital Turnover          Average Daily Credit Sales  This indicates the firm's
+Ratio                                                 ability to generate sales
+                       Annual Net Credit Purchases    per rupee of long term
+Working Capital         Average Accounts Payables     investment.
+Turnover Ratio
+                         Average Accounts Payable     It measures the efficiency
+Inventory            Average Daily Credit Purchases   of the firm to use working
+Turnover Ratio                                        capital.
+
+Debtors Turnover                                      It measures the efficiency
+Ratio                                                 of the firm to manage its
+                                                      inventory.
+Receivables
+(Debtors')                                            It measures the efficiency
+Velocity                                              at which firm is managing
+Payables                                              its receivables.
+Turnover Ratio
+                                                      It measures the velocity of
+Payables Velocity                                     collection of receivables.
+
+                                                      It measures how fast a
+                                                      company makes payment
+                                                      to its creditors.
+
+                                                      It measures the velocity of
+                                                      payment of payables.
+
+© The Institute of Chartered Accountants of India
+        FINANCIAL ANALYSIS AND PLANNING­                                       3.413.41
+                                       RATIO ANALYSIS
+
+Profitability Ratios based on Sales
+
+Gross Profit Ratio  Gross Profit                          ×100        This ratio tells us
+                        Sales
+                                                                      something about the
+
+                                                                      business's         ability
+
+                                                                      consistently to control its
+
+                                                                      production costs or to
+
+                                                                      manage the margins it
+
+                                                                      makes on products it buys
+
+                                                                      and sells.
+
+Net Profit Ratio    Net Profit                     ×100               It       measures  the
+                       Sales
+                                                                      relationship between net
+
+                                                                      profit and sales of the
+
+                                                                      business.
+
+Operating Profit    Operating Profit                      ×100        It measures operating
+Ratio                      Sales                                      performance of business.
+
+Expenses Ratio
+
+Cost of Goods       COGS                           ×100
+                    Sales
+Sold    (COGS)
+
+Ratio
+
+Operating           SellinAgd&mDiniissttrriabtuivtieonexOpv. e+rhead      It measures portion of a
+Expenses Ratio                                                             particular expenses in
+                                                   Sales                    comparison to sales.
+Operating Ratio
+                    COGS+Operating                 expenses ×100
+                                   Sales
+
+Financial           FinanciSaal leexspenses ×100
+Expenses Ratio
+
+Profitability Ratios related to Overall Return on Assets/ Investments
+
+Return          on  Return /Profit /Earnings×100                      It measures overall return
+                            Investments
+Investment (ROI)                                                      of the business on
+
+                                                                      investment/        equity
+
+                                                                      funds/capital employed/
+
+                                                                      assets.
+
+Return on Assets    Net Profit after taxes                            It measures net profit per
+(ROA)               Average total assets                              rupee of average total
+                                                                      assets/average tangible
+                                                                      assets/average fixed assets.
+
+© The Institute of Chartered Accountants of India
+3.42                 FINANCIAL MANAGEMENT
+
+Return on Capital    EBIT                          ×100              It measures overall
+Employed ROCE                                                        earnings (either pre-tax or
+(Pre-tax)            Capital Employed                                post tax) on total capital
+                                                                     employed.
+Return on Capital
+Employed ROCE        CapiEtBaIlTEm(1p- tlo) yed×100                  It indicates earnings
+(Post-tax)                                                           available to equity
+Return on Equity
+(ROE)                                                                shareholders in comparison
+
+                    Net Profit after taxes-                          to equity shareholders' net
+
+                     Preference dividend           (if  any)         worth.
+                                Net worth
+                                                               ×100
+
+                     Equity shareholders' fund
+
+Profitability Ratios Required for Analysis from Owner's Point of View
+
+Earnings        per Net profit available to equity EPS measures the overall
+Share (EPS)
+                     shareholders                                    profit generated for each
+
+                   Number of equity shares outstanding share in existence over a
+
+                                                                     particular period.
+
+Dividend        per Dividend paid to equity shareholders Proportion          of          profit
+                   Number of equity shares outstanding distributed per equity
+Share (DPS)
+
+                                                                     share.
+
+Dividend payout      Dividend per equity share                       It shows % of EPS paid as
+Ratio (DP)            Earning per Share (EPS)                        dividend and retained
+                                                                     earnings.
+
+Profitability Ratios related to market/ valuation/ Investors
+
+Price-Earnings       Market Price per Share (MPS)                    At any time, the P/E ratio is
+per Share (P/E           Earning per Share (EPS)                     an indication of how highly
+Ratio)                                                               the market "rates" or
+                                                                     "values" a business. A P/E
+                                                                     ratio is best viewed in the
+                                                                     context of a sector or
+                                                                     market average to get a
+                                                                     feel for relative value and
+                                                                     stock market pricing.
+
+Dividend Yield       Dividend ± Change in                            It measures dividend paid
+                                                                     based on market price of
+                       share peice                      × 100        shares.
+                     Initial share price
+
+© The Institute of Chartered Accountants of India
+         FINANCIAL ANALYSIS AND PLANNING­                            3.433.43
+                                        RATIO ANALYSIS
+
+                                                   OR
+
+                   Dividend per Share (DPS)            ×100
+                 Market Price per Share (MPS)
+
+Earnings Yield   MaErakrentinPgrsicpeeprerShSahraere(E(PMSP) S)×100  It is the relationship of
+                                                                     earning per share and
+
+                                                                     market value of shares.
+
+Market Value     Market value per share                              It indicates market
+/Book Value per   Book value per share
+Share                                                                response  of             the
+
+                                                                     shareholders' investment.
+
+Q Ratio          Market Value of equity and liabilities It measures market value of
+                 Estimated replacement cost of assets equity as well as debt in
+
+                                                               comparison to all assets at
+                                                               their replacement cost.
+
+Students may note that now a company is also required to disclose the following
+ratios in the notes to accounts while preparing Financial Statements:
+
+(a) Current Ratio,
+(b) Debt-Equity Ratio,
+(c) Debt Service Coverage Ratio,
+(d) Return on Equity Ratio,
+(e) Inventory turnover ratio,
+(f) Trade Receivables turnover ratio,
+(g) Trade payables turnover ratio,
+(h) Net capital turnover ratio,
+(i) Net profit ratio,
+(j) Return on Capital employed,
+(k) Return on investment.
+
+© The Institute of Chartered Accountants of India
+3.44                       FINANCIAL MANAGEMENT
+
+ILLUSTRATION 1
+
+In a meeting held at Solan towards the end of 2021-22, the Directors of HPCL Ltd.
+have taken a decision to diversify. At present HPCL Ltd. sells all finished goods from
+its own warehouse. The company issued debentures on 01.04.2022 and purchased
+fixed assets on the same day. The purchase prices have remained stable during the
+concerned period. Following information is provided to you:
+
+                           INCOME STATEMENT
+
+Particulars                           2021-22 (`)                         2022-23 (`)
+Cash Sales                          30,000                               32,000
+Credit Sales                      2,70,000 3,00,000                    3,42,000 3,74,000
+Less: Cost of goods sold
+Gross profit                                       2,36,000                            2,98,000
+Less: Operating Expenses:                            64,000                              76,000
+Warehousing
+Transport                         13,000                     49,000    14,000    57,000
+Administrative                     6,000                     15,000    10,000    19,000
+Selling                                                                19,000
+Net Profit                        19,000                               14,000
+                                  11,000
+
+                                  BALANCE SHEET
+
+Assets & Liabilities                               2021-22 (`)         2022-23 (`)
+Fixed Assets (Net Block)
+Receivables                                        - 30,000                    - 40,000
+Cash at Bank
+Stock                                              50,000              82,000
+
+ Total Current Assets (CA)                         10,000              7,000
+Payables
+                                                   60,000              94,000
+  Total Current Liabilities (CL)
+Working Capital (CA - CL)                          1,20,000            1,83,000
+Net Assets
+                                                   50,000              76,000
+
+                                                   50,000              76,000
+
+                                                             70,000              1,07,000
+
+                                                             1,00,000            1,47,000
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                                           3.453.45
+                               RATIO ANALYSIS
+
+Represented by:                                                  75,000      75,000
+Share Capital                                                    25,000      42,000
+Reserve and Surplus                                                          30,000
+Debentures                                                              -  1,47,000
+                                                               1,00,000
+
+You are required to CALCULATE the following ratios for the years 2021-22 and
+2022-23:
+
+(i) Gross Profit Ratio
+
+(ii) Operating Expenses to Sales Ratio
+
+(iii) Operating Profit Ratio
+
+(iv) Capital Turnover Ratio
+
+(v) Stock Turnover Ratio
+
+(vi) Net Profit to Net Worth Ratio
+
+(vii) Receivables Collection Period
+
+Ratio relating to capital employed should be based on the capital at the end of the
+year. Give the reasons for change in the ratios for 2 years. Assume opening stock of
+` 40,000 for the year 2021-22. Ignore Taxation.
+
+SOLUTION
+
+                              Computation of Ratios
+
+          Ratio                                    2021-22 (`)                 2022-23 (`)
+                                                                           76,000 ×100 =20.3%
+1. Gross profit ratio (Gross 64,000 × 100 =21.3%
+profit/sales)                                      3, 00, 000                3,74,000
+
+2. Operating expense to sales                      49,000×100              57,000 ×100  =15.2%
+    ratio (Operating exp/ Total                      3,00,000                3,74,000
+    sales)                                           =16.3%
+
+3. Operating profit ratio                          15,000 ×100  =  5%      19,000 ×100  =5.08%
+    (Operating profit/ Total sales)                  3,00,000                3,74,000
+
+© The Institute of Chartered Accountants of India
+3.46                   FINANCIAL MANAGEMENT
+
+4. Capital turnover ratio (Sales /                 3,00,000     =    3     3,74,000      =  2.54
+    capital employed)                              1,00,000                1, 47,000
+
+5. Stock turnover ratio (COGS/                     2,36,000    =  4.72     2,98,000      =  3.87
+    Average stock) (Refer to W.N.                   50,000                  77,000
+    1)
+
+6. Net Profit to Net worth ratio                   15,000 ×100  =    15%   19, 000 ×100  =16.24%
+    (Net profit / Net worth)                         1,00,000                1,17,000
+
+7. Receivables collection period                   50, 000  =  67.6  days  66,000  = 70.44 days
+                                                   739.73                  936.99
+(Average           receivables/
+
+Average daily credit sales)
+
+(Refer to W.N. 2)
+
+Working notes (W.N.):
+
+1. Average Stock = (opening                        (40,000 + 60,000)/2     (60,000 + 94,000)/2
+    stock + closing stock)/2
+                                                   = 50,000                = 77,000
+
+2. Average daily sales = Credit                    2,70,000    = 739.73    3, 42, 000  = 936.99
+    sales / 365                                       365                     365
+
+Analysis: The decline in the Gross profit ratio could be either due to a reduction
+in the selling price or increase in the direct expenses (since the purchase price has
+remained the same). In this case, cost of goods sold have increased more than
+proportion of increment in sales & hence impacting gross profit ratio.
+
+Similarly, there is a decline in the ratio of operating expenses to sales. Further
+analysis reveals that in comparison to increase in sales, there has a lesser
+proportionate increase in operating expenses. As a result, even the operating
+profit ratio has remained the same approximately in spite of a decline in the
+Gross profit ratio.
+
+The company has not been able to deploy its capital efficiently. This is indicated
+by a decline in the Capital turnover ratio from 3 to 2.54 times.
+
+The decline in stock turnover ratio implies that the company has increased its
+investment in stock. Net Profit to Net worth ratio has increased indicating that the
+company's Net worth or Shareholders' capital is efficient in generating profits.
+
+© The Institute of Chartered Accountants of India
+         FINANCIAL ANALYSIS AND PLANNING­                            3.473.47
+                                        RATIO ANALYSIS
+
+The increase in the Receivables collection period indicates that the company has
+become liberal in extending credit on sales. There is a corresponding increase in
+the receivables also due to such credit policy.
+
+ILLUSTRATION 2
+
+Following is the abridged Balance Sheet of Alpha Ltd.:
+
+Liabilities                       ` Assets                                  `         `
+                                                                     50,000    80,000
+Share Capital               1,00,000 Land and Buildings
+
+Profit and Loss 17,000 Plant                                    and
+
+Account                                            Machineries
+
+Current Liabilities         40,000 Less: Depreciation                15,000 35,000
+                                                                                 1,15,000
+Total                                     Stock
+                                          Receivables                21,000
+                                          Bank                       20,000
+                            1,57,000 Total
+                                                                      1,000 42,000
+                                                                                 1,57,000
+
+With the help of the additional information furnished below, you are required to
+PREPARE Trading and Profit & Loss Account and Balance Sheet as at 31st March,
+2023:
+
+(i) The company went in for re-organisation of capital structure, with share
+       capital remaining the same as follows:
+
+       Share capital                                            50%
+
+       Other Shareholders' funds                                15%
+
+       5% Debentures                                            10%
+
+       Current Liabilities                                      25%
+
+       Debentures were issued on 1st April, interest being paid annually on 31st
+       March.
+
+(ii) Land and Buildings remained unchanged. Additional plant and machinery has
+       been bought and a further ` 5,000 depreciation was written off.
+
+© The Institute of Chartered Accountants of India
+3.48                      FINANCIAL MANAGEMENT
+
+       (The total fixed assets then constituted 60% of total fixed and current assets.)
+(iii) Working capital ratio was 8 : 5.
+(iv) Quick assets ratio was 1 : 1.
+(v) The receivables (four-fifth of the quick assets) to sales ratio revealed a credit
+
+       period of 2 months. There were no cash sales.
+(vi) Return on net worth was 10%.
+(vii) Gross profit was at the rate of 15% of selling price.
+(viii) Stock turnover was eight times for the year.
+Ignore Taxation.
+SOLUTION
+
+Particulars                                            %        (` )
+Share capital (given to be same)                    50%   1,00,000
+Other shareholders funds                            15%
+5% Debentures                                       10%     30,000
+Current Liabilities                                 25%     20,000
+Total (1,00,000 / 50%)                             100%     50,000
+                                                          2,00,000
+
+Calculation of Assets
+
+Total liabilities      =  Total Assets
+                          Total Assets
+` 2,00,000             =  60% of total fixed assets and current assets
+                          ` 2,00,000 × 60/100 = ` 1,20,000
+Fixed Assets           =  Total Assets ­ Fixed Assets
+                          ` 2,00,000 ­ ` 1,20,000 = ` 80,000
+                       =
+
+Current Assets         =
+
+                       =
+
+© The Institute of Chartered Accountants of India
+          FINANCIAL ANALYSIS AND PLANNING­                            3.493.49
+                                         RATIO ANALYSIS
+
+Calculation of additions to Plant & Machinery
+
+Total fixed assets                                                             `
+Less: Land & Buildings                                                1,20,000
+Plant and Machinery (after providing depreciation)
+Less: Existing Plant & Machinery (after extra                           80,000
+depreciation of  5,000) i.e. 50,000 ­ 20,000                            40,000
+Addition to the Plant & Machinery                                       30,000
+
+                                                                        10,000
+
+Calculation of stock
+
+Quick ratio:          =  Current assets - stock             =1
+                           Current liabilities
+
+                      =  `  80,000 - stock              =1
+                              ` 50,000
+
+` 50,000              =  ` 80,000 ­ Stock
+
+Stock                 =  ` 80,000 - ` 50,000
+
+                      =  ` 30,000
+
+Receivables           =  4/5th of quick assets
+
+                      =  (` 80,000 ­ ` 30,000) × 4/5
+
+                      =  ` 40,000
+
+Receivables turnover =   Receivables               ×12  Months  =  2  months
+                         Credit Sales
+
+                      =  40,000 ×12                = 2 months
+
+                         Credit Sales
+
+2×credit sales        = 4,80,000
+Credit sales
+                      = 4,80,000/2
+Gross profit
+                      = ` 2,40,000 = Total Sales (As there were no cash sales)
+
+                      = 15% of sales = ` 2,40,000 × 15/100 = ` 36,000
+
+© The Institute of Chartered Accountants of India
+3.50                   FINANCIAL MANAGEMENT
+
+Return on net worth (net profit)
+
+Net worth              = ` 1,00,000 + ` 30,000
+
+                       = ` 1,30,000
+
+Net profit             = ` 1,30,000 × 10/100 = ` 13,000
+
+Debenture interest = ` 20,000 × 5/100              = ` 1,000
+
+Projected profit and loss account for the year ended 31st March, 2023
+
+Particulars                                                 ` Particulars              `
+To cost of goods sold                              2,04,000 By sales          2,40,000
+To gross profit                                                               2,40,000
+                                                     36,000
+To debenture interest  other                       2,40,000                     36,000
+To administration and
+expenses (bal. fig.)                                   1,000 By gross profit    36,000
+To net profit                                        22,000
+
+                                                     13,000
+                                                     36,000
+
+            Projected Balance Sheet as at 31st March, 2023
+
+Liabilities                     ` Assets                                      `
+Share capital          1,00,000 Fixed assets:
+Profit and loss A/c                                     60,000                80,000
+(17,000+13,000)          30,000 Land & buildings        20,000                40,000
+5% Debentures                        Plant & machinery
+Current liabilities
+                         20,000 Less: Depreciation
+                         50,000 Current assets          30,000
+                                                        40,000
+                                     Stock              10,000 80,000
+                                     Receivables
+                                     Bank                           2,00,000
+                       2,00,000
+
+© The Institute of Chartered Accountants of India
+       FINANCIAL ANALYSIS AND PLANNING­                                  3.513.51
+                                      RATIO ANALYSIS
+
+ILLUSTRATION 3
+
+X Co. has made plans for the next year. It is estimated that the company will
+employ total assets of ` 8,00,000; 50 per cent of the assets being financed by
+borrowed capital at an interest cost of 8 per cent per year. The direct costs for the
+year are estimated at ` 4,80,000 and all other operating expenses are estimated at
+` 80,000. The goods will be sold to customers at 150 per cent of the direct costs. Tax
+rate is assumed to be 50 per cent.
+
+You are required to CALCULATE: (i) Operating profit margin (before tax); (ii) net
+profit margin (after tax); (iii) return on assets (on operating profit after tax); (iv)
+asset turnover and (v) return on owners' equity.
+
+SOLUTION
+
+The net profit is calculated as follows:
+
+Particulars                                                                                   `
+Sales (150% of ` 4,80,000)                                                          7,20,000
+Direct costs                                                                       (4,80,000)
+Gross profit                                                                        2,40,000
+Operating expenses                                                                   (80,000)
+Profit before Interest and Tax (EBIT)                                               1,60,000
+Interest changes (8% of ` 4,00,000)                                                  (32,000)
+Profit before taxes                                                                 1,28,000
+Taxes (@ 50%)                                                                        (64,000)
+Net profit after taxes
+                                                                                       64,000
+
+(i)    Operating profit margin =  EBIT             =  ` 1,60,000  = 0.2222 or 22.22%
+                                  Sales               ` 7,20,000
+
+(ii)   Net profit margin  = Net Profit after taxes    =   ` 64,000       = 0.89 or 8.9%
+                                        Sales            ` 7,20,000
+
+(iii)  Return on assets   =  EBIT (1 - T)          =  `1,60,000(1- 0.5)  = 0.10  or 10%
+                               Assets                      8,00,000
+
+© The Institute of Chartered Accountants of India
+      3.52                  FINANCIAL MANAGEMENT
+
+(iv) Asset turnover         =  Sales               =  ` 7,20,000  = 0.9 times
+                               Assets                 ` 8,00,000
+
+(v)   Return on equity      =  Net Profit after taxes             =        ` 64,000
+                                  Owners' equity                     50% of ` 8,00,000
+
+                            =     ` 64,000            = 0.16 or 16%
+                                  ` 4,00,000
+
+ILLUSTRATION 4
+
+From the following ratios and information given below, PREPARE Trading Account,
+Profit and Loss Account and Balance Sheet of Aebece Company:
+
+     Fixed Assets                                        ` 40,00,000
+     Closing Stock                                       ` 4,00,000
+     Stock turnover ratio
+     Gross profit ratio                                        10
+     Net profit ratio                                    25 percent
+     Net profit to capital                               20 percent
+     Capital to total liabilities
+     Fixed assets to capital                                  1/5
+     Fixed assets/Total current assets                        1/2
+                                                              5/4
+                                                              5/7
+
+SOLUTION
+
+Workings:
+
+(i)        Fixed Assets     =  5
+      Total Current Assets     7
+
+      Or, Total Current Assets    =     ` 40,00,000 × 7  = ` 56,00,000
+                                               5
+
+(ii)  Fixed Assets  =  5
+         Capital       4
+
+      Or, Capital   =  ` 40,00,000 × 4  = ` 32,00,000
+                              5
+
+© The Institute of Chartered Accountants of India
+            FINANCIAL ANALYSIS AND PLANNING­                                  3.533.53
+                                           RATIO ANALYSIS
+
+(iii)       Capital        =  1
+       Total Liabilities*     2
+
+       Or, Total liabilities = ` 32,00,000 × 2 = ` 64,00,000
+
+       *It is assumed that total liabilities do not include capital.
+
+(iv)   Net Profit  =  1
+        Capital       5
+
+       Or, Net Profit = ` 32,00,000 × 1/5 = ` 6,40,000
+
+(v)    Net Profit  =  1
+         Sales        5
+
+       Or, Sales = ` 6,40,000 × 5 = ` 32,00,000
+
+(vi) Gross Profit = 25% of ` 32,00,000 = ` 8,00,000
+
+(vii)  Stock  Turnover     =  Cost  of  Goods Sold ( i.e. Sales     -  Gross  profit)  =10
+                                                 Average Stock
+
+                           =  `  32,00,000 -       ` 8,00,000  =10
+                                    Average        Stock
+
+       Or, Average Stock                           = ` 2,40,000
+                                                   = ` 2,40,000
+       Or,  Opening Stock + ` 4,00,000             = ` 80,000
+                             2
+
+       Or, Opening Stock
+
+                                        Trading Account
+
+     Particulars                                   (`) Particulars                          (`)
+
+     To Opening Stock                              80,000 By Sales                          32,00,000
+
+     To Manufacturing            exp./  27,20,000
+     Purchase
+
+     (Balancing figure)
+
+     To Gross Profit b/d                8,00,000 By Closing Stock                           4,00,000
+
+                                        36,00,000                                           36,00,000
+
+© The Institute of Chartered Accountants of India
+3.54                     FINANCIAL MANAGEMENT
+
+                         Profit and Loss Account
+
+Particulars                                        (`) Particulars             (`)
+
+To Operating Expenses    1,60,000 By Gross Profit c/d                          8,00,000
+(Balancing figure)
+
+To Net Profit            6,40,000
+
+                         8,00,000                                              8,00,000
+
+                         Balance Sheet
+
+Capital and Liabilities                            (`) Assets                           (`)
+Capital                                                                        40,00,000
+Liabilities              32,00,000 Fixed Assets
+                                                                                4,00,000
+                         64,00,000 Current Assets:                             52,00,000
+                                                                               96,00,000
+                                                   Closing Stock
+
+                                                   Other            Current
+
+                                                   Assets
+
+                                                   (Bal. figure)
+
+                         96,00,000
+
+ILLUSTRATION 5
+
+ABC Company sells plumbing fixtures on terms of 2/10, net 30. Its financial
+statements over the last 3 years are as follows:
+
+Particulars                                         2020-21       2021-22       2022-23
+                                                              `             `             `
+Cash
+Accounts receivable                                    30,000        20,000         5,000
+Inventory                                           2,00,000      2,60,000      2,90,000
+                                                    4,00,000      4,80,000      6,00,000
+Net fixed assets                                    6,30,000      7,60,000      8,95,000
+                                                    8,00,000      8,00,000      8,00,000
+                                                   14,30,000     15,60,000     16,95,000
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                                               3.553.55
+                               RATIO ANALYSIS
+
+Accounts payable                                              `             `             `
+Accruals                                            2,30,000      3,00,000      3,80,000
+Bank loan (short-term)                              2,00,000      2,10,000      2,25,000
+                                                    1,00,000      1,00,000      1,40,000
+Long-term debt                                      5,30,000      6,10,000      7,45,000
+Common stock                                        3,00,000      3,00,000      3,00,000
+Retained earnings                                   1,00,000      1,00,000      1,00,000
+                                                    5,00,000      5,50,000      5,50,000
+Sales                                              14,30,000     15,60,000     16,95,000
+Cost of goods sold
+Net profit                                                    `             `             `
+                                                   40,00,000     43,00,000     38,00,000
+                                                   32,00,000     36,00,000     33,00,000
+
+                                                    3,00,000      2,00,000      1,00,000
+
+Considering opening balance of Accounts Receivable and Inventory as 2,00,000 and
+4,00,000 respectively as on 01.04.2020, ANALYSE the company's financial condition
+and performance over the last 3 years. Are there any problems?
+
+SOLUTION
+
+Ratios                             2020-21                         2021-22       2022-23
+
+Current ratio (Current Assets /       1.19                            1.25          1.20
+Current Liabilities)
+                                  ` 6,30,000                      `7,60,000     `8,95,000 
+                                  `5,30,000                       `6,10,000     `7, 45,000 
+
+Acid-test ratio (Quick Assets /       0.43                            0.46          0.40
+Current Liabilities)
+                                  `2,30,000                       `2,80,000     `2,95,000 
+                                  `5,30,000                       `6,10,000     `7, 45,000 
+
+© The Institute of Chartered Accountants of India
+3.56  FINANCIAL MANAGEMENT
+
+Receivables turnover ratio              20                            18.70           13.82
+(Sales/ Average Receivables)
+(Refer Working Notes)             `40,00,000                      `43,00,000      `38,00,000 
+                                  `2,00,000                       `2,30,000       `2,75,000 
+
+Average collection period                            18.25           19.52           26.41
+(365 / Receivables turnover                        (365/20)      (365/18.70)     (365/13.82)
+ratio)
+
+Inventory turnover ratio                           8               8.18            6.11
+(COGS / Average Inventory)
+(Refer Working Notes)                              ` 32,00,000     ` 36,00,000     ` 33,00,000 
+
+                                                   ` 4,00,000      ` 4,40,000      ` 5,40,000
+
+Total debt to net worth                            1.38            1.40            1.61
+(Short term + Long term
+Debt) / (Common stock +                            ` 8,30,000      ` 9,10,000      ` 10,45,000 
+Retained earnings)
+Long-term debt to total                            ` 6,00,000      ` 6,50,000      ` 6,50,000
+capitalization
+                                       0.33                            0.32            0.32
+Gross profit margin (Gross
+Profit / Sales)                   `3,00,000                       `3,00,000       `3,00,000 
+{Gross profit = Sales ­ Cost of   `9,00,000                       `9,50,000       `9,50,000 
+Goods sold}
+                                       0.20                            0.16            0.13
+Net profit margin (Net Profit /
+Sales)                            `8,00,000                       `7,00,000       `5,00,000 
+                                  `40,00,000                      `43,00,000      `38,00,000 
+Total Asset turnover (Sales /
+Total Assets)                         0.075                           0.047           0.026
+
+                                  `3,00,000                       `2,00,000       `1,00,000 
+                                  `40,00,000                      `43,00,000      `38,00,000 
+
+                                       2.80                            2.76            2.24
+
+                                  `40,00,000                      `43,00,000      `38,00,000 
+                                  `14,30,000                      `15,60,000      `16,95,000 
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                   3.573.57
+                               RATIO ANALYSIS
+
+Return on assets (Net profit/        0.21                0.13            0.06
+Total Assets)
+                                `3,00,000           `2,00,000       `1,00,000 
+                                `14,30,000          `15,60,000      `16,95,000 
+
+Working Notes                  ( ` 2,00,000 +      ( ` 2,00,000 +  ( ` 2,60,000 +
+Average receivables            ` 2,00,000)/2       ` 2,60,000)/2   ` 2,90,000)/2
+{(Opening + closing)/2}        = ` 2,00,000        = ` 2,30,000    = ` 2,75,000
+
+Average Inventory              ( ` 4,00,000 +      ( ` 4,00,000 +  ( ` 4,80,000 +
+{(Opening + closing)/2}        ` 4,00,000)/2       ` 4,80,000)/2   ` 6,00,000)/2
+                               = ` 4,00,000        = ` 4,40,000    = ` 5,40,000
+
+Analysis: The current ratio and quick ratio are less than the ideal ratio (2:1 and
+1:1 respectively) indicating that the company is not having enough resources to
+meet its current obligations.
+
+Receivables are growing slower, although the average collection period is still
+very reasonable relative to the terms given. Inventory turnover is slowing as well,
+indicating a relative build-up in inventories. The increase in receivables and
+inventories, coupled with the fact that net worth has increased very little, has
+resulted in the total debt-to-net worth ratio increasing to what would have to be
+regarded on an absolute basis as a high level.
+
+Long-term debt to total capitalization has not changed relatively coupled with the
+fact that retained earnings of only ` 50,000 is made in year 2019-20, and there is
+no issuance of new long-term debt in year 2019-20 and 2020-21.
+
+Both the gross profit and net profit margins have declined substantially. The
+relationship between the two suggests that the company has incurred more
+relative expenses. The build-up in inventories and receivables has resulted in a
+decline in the asset turnover ratio, and this, coupled with the decline in
+profitability, has resulted in a sharp decrease in the return on assets ratio.
+
+© The Institute of Chartered Accountants of India
+3.58                       FINANCIAL MANAGEMENT
+
+ILLUSTRATION 6
+
+Following information are available for Navya Ltd. along with various ratios
+relevant to the particular industry it belongs to. APPRAISE your comments on
+strength and weakness of Navya Ltd. comparing its ratios with the given industry
+norms.
+
+                                        Navya Ltd.
+                           Balance Sheet as at 31.3.2023
+
+Liabilities                        (`) Assets                           (`)
+Equity Share Capital       48,00,000 Fixed Assets               24,20,000
+10% Debentures
+Sundry Creditors            9,20,000 Cash                        8,80,000
+Bills Payable               6,60,000 Sundry debtors             11,00,000
+Other current Liabilities   8,80,000 Stock                      33,00,000
+Total                       4,40,000
+                           77,00,000 Total                                 -
+                                                                77,00,000
+
+                           Statement of Profitability
+
+                           For the year ending 31.3.2023
+
+                     Particulars                           (`)             (`)
+Sales                                                           1,10,00,000
+Less: Cost of goods sold:                          41,80,000
+Material                                           26,40,000      81,18,000
+Wages                                              12,98,000      28,82,000
+Factory Overhead
+Gross Profit                                       11,00,000      23,28,000
+Less: Selling and Distribution Cost                12,28,000        5,54,000
+Administrative Cost                                                   92,000
+Earnings before Interest and Taxes                                  4,62,000
+Less: Interest Charges                                              2,31,000
+Earning before Tax                                                  2,31,000
+Less: Taxes @ 50%
+Net Profit (PAT)
+
+© The Institute of Chartered Accountants of India
+             FINANCIAL ANALYSIS AND PLANNING­                           3.593.59
+                                            RATIO ANALYSIS
+                                                                                     Norm
+                                           Industry Norms                                 2.5
+                                                                                          8.0
+Ratios                                                                                    9.0
+Current Ratio                                                                             2.0
+Receivables Turnover Ratio
+Inventory Turnover Ratio (based on Sales)                                              3.5%
+Total Assets Turnover Ratio                                                            7.0%
+Net Profit Ratio                                                                     10.5%
+Return on Total Assets (on EBIT)                                                     60.0%
+Return on Net worth (Based on Net profit)
+Total Debt/Total Assets
+
+SOLUTION
+
+                   Ratios                                      Navya Ltd.            Industry
+                                                            `52, 80, 000 = 2.67       Norms
+1. Current Ratio = Current Assets                           `19, 80, 000
+                           Current Liabilities                                             2.50
+
+2 Receivable Turnover Ratio = Sales                         `1,10,00, 000   = 10.0   8.00
+                                            Debtors          `11, 00, 000
+
+3. Inventory turnover ratio = Sales                         `1,10,00, 000   =  3.33  9.00
+                                             Stock           `33, 00, 000
+
+4. Total Asset Turnover ratio = Sales                       `1,10, 00, 000  = 1.43   2.00
+                                            Total Assets    `77, 00, 000
+
+5 Net Profit Ratio = Net Profit                            `2, 31, 000    =  2.10%   3.50%
+                                 Sales                    `1,10, 00, 000
+
+6. Return on Total Asset =              EBIT              `5, 54, 000   =   7.19%              7%
+                                                          `77, 00, 000
+                            Total Assets
+
+7. Return on Net worth = Net Profit                        `2,31,000 = 4.81%         10.5%
+                                     Net Worth            `48, 00, 000
+
+8. Total Debt                                             `29,00,000 = 37.66%        60%
+     Total Assets
+                                                          `77, 00, 000
+
+Comments:
+
+© The Institute of Chartered Accountants of India
+3.60  FINANCIAL MANAGEMENT
+
+1. The position of Navya Ltd. is better than the industry norm with respect to
+       Current Ratio and Receivables Turnover Ratio.
+
+2. However, the Inventory turnover ratio and Total Asset Turnover ratio is poor
+       comparing to industry norm indicating that company is inefficient to utilize
+       its inventory and assets.
+
+3. The firm also has its net profit ratio and return on net worth ratio much
+       lower than the industry norm.
+
+4. Total debt to total assets ratio is lower that the industry standard which
+       suggests that the firm is less levered by debt and more by equity resulting
+       in less risky company.
+
+SUMMARY
+
+ Financial Analysis and its Tools: For the purpose of obtaining the material
+       and relevant information necessary for ascertaining the financial strengths
+       and weaknesses of an enterprise, it is necessary to analyze the data
+       depicted in the financial statement. The financial manager has certain
+       analytical tools which help in financial analysis and planning. The main tools
+       are Ratio Analysis and Cash Flow Analysis.
+
+ Ratio Analysis: The ratio analysis is based on the fact that a single
+       accounting figure by itself may not communicate any meaningful
+       information but when expressed as a relative to some other figure, it may
+       definitely provide some significant information. Ratio analysis is not just
+       comparing different numbers from the balance sheet, income statement,
+       and cash flow statement. It is comparing the number against previous years,
+       other companies, the industry, or even the economy in general for the
+       purpose of financial analysis.
+
+ Type of Ratios and Importance of Ratios Analysis: The ratios can be
+       classified into following four broad categories:
+
+       (i) Liquidity Ratios
+
+       (ii) Capital Structure/Leverage Ratios
+
+       (iii) Activity Ratios
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                             3.613.61
+                               RATIO ANALYSIS
+
+       (iv) Profitability Ratios
+
+ A popular technique of analyzing the performance of a business concern is
+       that of financial ratio analysis. As a tool of financial management, they are
+       of crucial significance. The importance of ratio analysis lies in the fact that it
+       presents facts on a comparative basis and enables drawing of inferences
+       regarding the performance of a firm.
+
+ Ratio analysis is relevant in assessing the performance of a firm in respect of
+       following aspects:
+
+       I Liquidity Position
+
+       II Long-term Solvency
+
+       III Operating Efficiency
+
+       IV Overall Profitability
+
+       V Inter-firm Comparison
+
+       VI Financial Ratios for Supporting Budgeting
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1. Ratio of Net sales to Net working capital is a:
+       (a) Profitability ratio
+       (b) Liquidity ratio
+       (c) Current ratio
+       (d) Working capital turnover ratio
+
+2. Long-term solvency is indicated by:
+       (a) Debt/equity ratio
+       (b) Current Ratio
+       (c) Operating ratio
+       (d) Net profit ratio
+
+3. Ratio of net profit before interest and tax to sales is:
+
+© The Institute of Chartered Accountants of India
+3.62  FINANCIAL MANAGEMENT
+
+       (a) Gross profit ratio
+       (b) Net profit ratio
+       (c) Operating profit ratio
+       (d) Interest coverage ratio.
+4. Observing changes in the financial variables across the years is:
+       (a) Vertical analysis
+       (b) Horizontal Analysis
+       (c) Peer-firm Analysis
+       (d) Industry Analysis.
+5. The Receivable-Turnover ratio helps management to:
+       (a) Managing resources
+       (b) Managing inventory
+       (c) Managing customer relationship
+       (d) Managing working capital
+6. Which of the following is a liquidity ratio?
+       (a) Equity ratio
+       (b) Proprietary ratio
+       (c) Net Working Capital
+       (d) Capital Gearing ratio
+7. Which of the following is not a part of Quick Assets?
+       (a) Disposable investments
+       (b) Receivables
+       (c) Cash and Cash equivalents
+       (d) Prepaid expenses
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                               3.633.63
+                               RATIO ANALYSIS
+
+8. Capital Gearing ratio is the fraction of:
+
+(a) Preference Share Capital and Debentures to Equity Share Capital and
+       Reserve & Surplus.
+
+(b) Equity Share Capital and Reserve & Surplus to Preference Share Capital
+       and Debentures.
+
+(c) Equity Share Capital to Total Assets.
+
+(d) Total Assets to Equity Share Capital.
+
+9. From the following information, calculate P/E ratio:
+
+Equity share capital of ` 10 each                  ` 8,00,000
+
+9% Preference share capital of ` 10 each ` 3,00,000
+
+Profit (after 35% tax)                             ` 2,67,000
+
+Depreciation                                       ` 67,000
+
+Market price of equity share                       ` 48
+
+(a) 15 times
+
+(b) 16 times
+
+(c) 17 times
+
+(d) 18 times
+
+10. Equity multiplier allows the investor to see:
+
+(a) What portion of interest on debt can be covered from earnings available
+       to equity shareholders?
+
+(b) How many times preference share interest be paid from earnings
+       available to equity shareholders?
+
+(c) What portion of return on equity is the result of debt?
+
+(d) How many times equity is multiplied to get the value of debt?
+
+© The Institute of Chartered Accountants of India
+3.64             FINANCIAL MANAGEMENT
+
+11. A company has average accounts receivable of ` 10,00,000 and annual credit
+       sales of ` 60,00,000. Its average collection period would be:
+
+(a) 60.83 days
+(b) 6.00 days
+
+(c) 1.67 days
+
+(d) 0.67 days
+
+12. A company has net profit margin of 5%, total assets of ` 90,00,000 and return
+       on assets of 9%. Its total asset turnover ratio would be:
+
+(a) 1.6
+
+(b) 1.7
+
+(c) 1.8
+
+(d) 1.9
+
+13. What does Q ratio measures?
+
+(a) Relationship between market value and book value per equity share.
+
+(b) Proportion of profit available per equity share.
+
+(c) Overall earnings on average total assets.
+
+(d) Market value of equity as well as debt in comparison to all assets at
+       their replacement cost.
+
+14. Calculate operating expenses from the information given below:
+
+Sales                                                 ` 75,00,000
+Rate of income tax                                             50%
+Net profit to sales                                              5%
+Cost of goods sold
+Interest on debentures                                ` 32,90,000
+                                                         ` 60,000
+
+(a) ` 41,00,000
+
+(b) ` 8,10,000
+
+(c) ` 34,00,000
+
+(d) ` 33,90,000
+
+© The Institute of Chartered Accountants of India
+              FINANCIAL ANALYSIS AND PLANNING­               3.653.65
+                                             RATIO ANALYSIS
+
+15. Which of the following is not a profitability ratio?
+       (a) P/E ratio
+       (b) Return on capital employed (ROCE)
+       (c) Q Ratio
+       (d) Preference Dividend Coverage Ratio
+
+Theoretical Questions
+
+1. DISCUSS any three ratios computed for investment analysis.
+2. DISCUSS the financial ratios for evaluating company performance on
+
+       operating efficiency and liquidity position aspects.
+3. DISCUSS Stock Turnover ratio and Gearing ratio.
+4. DISCUSS the composition of Return on Equity (ROE) using the DuPont model.
+5. EXPLAIN briefly the limitations of Financial ratios.
+6. DISCUSS DuPont Model.
+
+Practical Problems
+
+1. The total sales (all credit) of a firm are ` 6,40,000. It has a gross profit margin
+       of 15 per cent and a current ratio of 2.5. The firm's current liabilities are
+       ` 96,000; inventories ` 48,000 and cash ` 16,000.
+
+(a) DETERMINE the average inventory to be carried by the firm, if an
+       inventory turnover of 5 times is expected? (Assume 360 days a year).
+
+(b) DETERMINE the average collection period if the opening balance of
+       debtors is intended to be of ` 80,000? (Assume 360 days a year).
+
+2. The capital structure of Beta Limited is as follows:
+
+Equity share capital of ` 10 each                                      8,00,000
+
+9% preference share capital of ` 10 each                               3,00,000
+
+                                                                       11,00,000
+
+Additional information: Profit (after tax at 35 per cent) ` 2,70,000;
+Depreciation ` 60,000; Equity dividend paid 20 per cent; Market price of
+equity shares ` 40.
+
+© The Institute of Chartered Accountants of India
+    3.66                FINANCIAL MANAGEMENT
+
+       You are required to COMPUTE the following, showing the necessary workings:
+       (a) Dividend yield on the equity shares
+       (b) Cover for the preference and equity dividends
+       (c) Earnings per shares
+       (d) Price-earnings ratio
+3. The following accounting information and financial ratios of PQR Ltd. relates
+       to the year ended 31st March, 2023:
+
+I         Accounting Information:
+
+          Gross Profit                                    15% of Sales
+                                                            8% of sales
+          Net profit
+                                                   20% of works cost
+          Raw materials consumed                   10% of works cost
+
+          Direct wages                               3 months' usage
+                                                    6% of works cost
+          Stock of raw materials
+                                                                60 days
+          Stock of finished goods
+                                                                     1:3
+          Debt collection period                                  13 : 11
+
+          (All sales are on credit)                                  2:1
+                                                                     2:1
+II        Financial Ratios:                                          1:4
+
+          Fixed assets to sales
+
+          Fixed assets to Current assets
+
+          Current ratio
+
+          Long-term loans to Current liabilities
+
+          Share Capital to Reserves and Surplus
+
+       If value of Fixed Assets as on 31st March, 2022 amounted to ` 26 lakhs,
+       PREPARE a summarised Profit and Loss Account of the company for the year
+       ended 31st March, 2023 and also the Balance Sheet as on 31st March, 2023.
+
+4. Ganpati Limited has furnished the following ratios and information relating to
+       the year ended 31st March, 2023:
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                                   3.673.67
+                               RATIO ANALYSIS
+
+Sales                                                              ` 60,00,000
+Return on net worth                                                         25%
+Rate of income tax                                                          50%
+Share capital to reserves                                                     7:3
+Current ratio                                                                   2
+Net profit to sales
+Inventory turnover (based on cost of goods sold)                          6.25%
+Cost of goods sold                                                             12
+Interest on debentures
+Receivables                                                        ` 18,00,000
+Payables                                                              ` 60,000
+
+                                                                    ` 2,00,000
+                                                                    ` 2,00,000
+
+You are required to:
+(a) CALCULATE the operating expenses for the year ended 31st March, 2023.
+(b) PREPARE a Balance Sheet as on 31st March, 2023 in the following
+ format:
+
+                     Balance Sheet as on 31st March, 2023
+
+Liabilities                                        ` Assets                  `
+
+Share Capital                                      Fixed Assets
+
+Reserve and Surplus                                Current Assets
+
+15% Debentures                                     Stock
+
+Payables                                           Receivables
+
+                                                   Cash
+
+5. Using the following information, PREPARE the balance sheet:
+
+Long-term debt to net worth                                           0.5
+Total asset turnover                                                  2.5
+Average collection period*`                                        18 days
+
+© The Institute of Chartered Accountants of India
+3.68                 FINANCIAL MANAGEMENT
+
+Inventory turnover                                     9
+
+Gross profit margin                                    10%
+
+Acid-test ratio                                        1
+
+Assume a 360-day year and all sales on credit.
+
+                                                   `               `
+
+Cash                   ? Notes and payables            1,00,000
+
+Accounts receivable    ? Long-term debt                     ?
+
+Inventory              ? Common stock                  1,00,000
+
+Plant and equipment ? Retained earnings                1,00,000
+
+Total assets           ? Total liabilities and equity       ?
+
+6. Following information has been provided from the books of Laxmi Pvt. Ltd. for
+       the year ending on 31st March, 2023:
+
+Net Working Capital                                    ` 4,80,000
+Bank overdraft                                         ` 80,000
+Fixed Assets to Proprietary ratio                      0.75
+Reserves and Surplus                                   ` 3,20,000
+Current ratio                                          2.5
+Liquid ratio (Quick Ratio)                             1.5
+
+You are required to PREPARE a summarised Balance Sheet as at 31st March,
+2023 assuming that there is no long term debt.
+
+7. Manan Pvt. Ltd. gives you the following information relating to the year
+       ending 31st March, 2023:
+
+(1) Current Ratio                                              2.5 : 1
+
+(2) Debt-Equity Ratio                                          1 : 1.5
+
+(3) Return on Total Assets (After Tax)                             15%
+
+(4) Total Assets Turnover Ratio                                       2
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                                           3.693.69
+                               RATIO ANALYSIS
+
+(5) Gross Profit Ratio                                                               20%
+
+(6) Stock Turnover Ratio                                                             7
+
+(7) Net Working Capital                                                    ` 13,50,000
+
+(8) Fixed Assets                                                           ` 30,00,000
+
+(9) 1,80,000 Equity Shares of                                              ` 10 each
+
+(10) 60,000, 9% Preference Shares of                                       ` 10 each
+
+(11) Opening Stock                                                         ` 11,40,000
+
+You are required to CALCULATE:
+
+(a) Quick Ratio
+
+(b) Fixed Assets Turnover Ratio
+
+(c) Proprietary Ratio
+
+(d) Earnings per Share
+
+8. Gig Ltd. has furnished the following information relating to the year ended
+       31st March, 2022 and 31st March, 2023:
+
+Share Capital                                      31st March, 2022        31st March, 2023
+Reserve and Surplus                                                   (`)                     (`)
+Long term loan
+                                                             40,00,000               40,00,000
+                                                             20,00,000               25,00,000
+                                                             30,00,000               30,00,000
+
+  Net profit ratio: 8%
+  Gross profit ratio: 20%
+  Long-term loan has been used to finance 40% of the fixed assets.
+  Stock turnover with respect to cost of goods sold is 4.
+  Debtors represent 90 days sales.
+  The company holds cash equivalent to 1½ months cost of goods sold.
+  Ignore taxation and assume 360 days in a year.
+You are required to PREPARE Balance Sheet as on 31st March, 2023 in the
+following format:
+
+© The Institute of Chartered Accountants of India
+3.70                FINANCIAL MANAGEMENT
+
+Liabilities                                        (`) Assets                  (`)
+
+Share Capital                                      - Fixed Assets              -
+
+Reserve and Surplus                                - Sundry Debtors            -
+
+Long-term loan                                     - Closing Stock             -
+
+Sundry Creditors                                   - Cash in hand              -
+
+9. Following information relates to Temer Ltd.:
+
+Debtors Velocity                                                    3 months
+
+Creditors Velocity                                                  2 months
+
+Stock Turnover Ratio                                                 1.5
+
+Gross Profit Ratio                                                   25%
+
+Bills Receivables                                                   ` 25,000
+
+Bills Payables                                                      ` 10,000
+
+Gross Profit                                                       ` 4,00,000
+
+Fixed Assets turnover Ratio                                          4
+
+Closing stock of the period is ` 10,000 above the opening stock.
+
+DETERMINE:
+
+(i) Sales and cost of goods sold
+
+(ii) Sundry Debtors
+
+(iii) Sundry Creditors
+
+(iv) Closing Stock
+
+(v) Fixed Assets
+
+10. From the following information and ratios, PREPARE the Balance sheet as at
+       31st March, 2023 and lncome Statement for the year ended on that date for
+       M/s Ganguly & Co -
+
+Average Stock                                                                  `10 lakh
+Current Ratio                                                                         3:1
+Acid Test Ratio                                                                       1:1
+PBIT to PBT
+                                                                                    2.2:1
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                         3.713.71
+                               RATIO ANALYSIS
+
+Average Collection period (Assume 360 days in a year)                 30 days
+Stock Turnover Ratio (Use sales as turnover)                           5 times
+Fixed assets turnover ratio                                          0.8 times
+Working Capital                                                      `10 lakh
+Net profit Ratio
+Gross profit Ratio                                                         10%
+Operating expenses (excluding interest)                                    40%
+Long term loan interest                                               ` 9 lakh
+Tax                                                                        12%
+
+                                                                             Nil
+
+11. From the following information, you are required to PREPARE a summarised
+       Balance Sheet for Rudra Ltd. for the year ended 31st March, 2023:
+
+Debt Equity Ratio                                  1:1
+
+Current Ratio                                      3:1
+
+Fixed Asset Turnover (on the basis of sales) 4
+
+Stock Turnover (on the basis of sales)             6
+
+Cash in hand                                       ` 5,00,000
+
+Stock to Debtor                                    1:1
+
+Sales to Net Worth                                 4
+
+Capital to Reserve                                 1:2
+
+Gross Profit                                       20% of Cost
+
+COGS to Creditor                                   10:1
+
+Interest for entire year is yet to be paid on Long Term loan @ 10%.
+
+Case Scenarios
+
+1. RNOC Ltd is a listed company and has been facing a cash crunch situation since
+       a while. The CFO is of the opinion that excess stock maintained as per the
+       instructions of management of the company is the reason for cash crunch.
+
+© The Institute of Chartered Accountants of India
+3.72           FINANCIAL MANAGEMENT
+
+However, the management states that its product line requires larger amount of
+inventory due to greater variety of product line and customer may ask for any
+type of product. To maintain competitive advantage, the company should be able
+to cater to customer needs as and when required. The management is highly
+critical of the collection team as the management feels that they are not
+collecting the receivables within time as per industry standards.
+
+You have been hired by the company as a financial consultant. Management has
+provided you the latest audited financial statements and also relevant industry
+statistics. You are required to advice the company to improve its liquidity
+position.
+
+Statement of Profit and Loss                       `            `
+Sales
+Cost of goods sold                                              1,25,00,000
+Opening Stock
+Add: Purchases                                      23,00,000   (76,40,000)
+Add: Direct expenses                                80,00,000    48,60,000
+Less: Closing Stock                                 12,00,000
+Gross Profit                                       (38,60,000)
+Less: Operating Expenses
+Administrative Expenses                            13,20,000    (29,10,000)
+Selling and Distribution Expenses                  15,90,000     19,50,000
+Operating Profit                                                   3,28,000
+Add: Non-Operating Income                                        (1,27,000)
+Less: Non-Operating Expenses                                     21,51,000
+Profit before Interest and taxes                                 (4,39,000)
+Less: Interest                                                   17,12,000
+Profit before tax                                                (4,28,000)
+Less: Taxes                                                      12,84,000
+Profit after Tax
+
+Balance Sheet
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                             3.733.73
+                               RATIO ANALYSIS
+
+Sources of Funds                                          `            `
+Owned Funds
+                      Equity                       Share  30,00,000
+Borrowed Funds        Capital                        and  18,00,000 48,00,000
+
+                      Reserves
+                      Surplus
+
+                      Secured Loan                        10,00,000  14,30,000
+                      Unsecured Loan                       4,30,000  62,30,000
+
+Total Funds Raised
+
+Application of Funds
+Non-Current Assets
+
+                      Building                            7,50,000   17,90,000
+                      Machinery                           2,30,000
+                      Furniture                           7,60,000
+                      Intangible Assets
+                                                            50,000
+
+Current Assets
+
+                      Inventory                           38,60,000  83,87,000
+                      Receivables                         39,97,000
+                      ST investments
+                      Cash and Bank                        3,00,000
+                                                           2,30,000
+
+Less:           Current
+Liabilities                  Creditors
+
+                                                          25,67,000
+
+                                                                     (39,47,000
+
+                                   ST loans               13,80,000       )
+Total Funds Employed
+
+                                                                     62,30,000
+
+© The Institute of Chartered Accountants of India
+3.74                FINANCIAL MANAGEMENT
+
+Industry Standards
+
+Receivables Turnover                               = 90 Days
+
+Inventory Turnover                                 = 100 Days
+
+Payables turnover                                  = 90 Days
+
+Net Asset Turnover                                 = 4 Times
+
+The company has set certain standards for the upcoming year financial status.
+
+All the ratios are based on closing figures in financial statements.
+
+Equity SC to Reserves                              =1
+
+Net Profit Ratio                                   = 15%
+
+Gross Profit Ratio                                 = 50%
+
+loan Term Debt to Equity                           = 0.5
+
+Debtor Turnover                                    = 100 Days
+
+Creditor Turnover (based on COGS)                  = 100 Days
+
+Inventory                                          = 70% of Opening inventory
+
+Cash Balance is assumed to remain same for next year.
+
+(i) What is the inventory turnover ratio in days and whether assertion of CFO
+       is correct?
+
+       (a) 120 days; Assertion of CFO is correct.
+       (b) 100 days; Assertion of CFO is incorrect.
+       (c) 185 days; Assertion of CFO is correct.
+       (d) 150 days; Assertion of CFO is incorrect.
+(ii) What is the receivables turnover and whether assertion of management is
+       correct?
+
+       (a) 117 days; Assertion of management is correct.
+
+(b) 100 days; Assertion of management is correct.
+
+(c) 85 days; Assertion of management is correct.
+
+(d) 85 days; Assertion of management is not correct.
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                   3.753.75
+                               RATIO ANALYSIS
+
+(iii) What is the expense company needs to incur for earning ` 1 of revenue in
+       the last year?
+       (a) 0.844
+       (b) 0.754
+       (c) 0.962
+       (d) 0.824
+
+(iv) What is the projected net working capital of the company?
+       (a) ` 42,87,891
+       (b) ` 40,27,891
+       (c) ` 48,27,891
+       (d) ` 48,28,891
+
+(v) What is the projected Long-Term Debt of the company for the next year?
+       (a) ` 60,00,000
+       (b) ` 30,00,000
+       (c) ` 14,30,000
+       (d) ` 28,60,000
+
+ANSWERS/SOLUTION
+
+Answers to the MCQs
+
+1. (d) 2. (a) 3. (c) 4. (b) 5. (d) 6.                        (c)
+
+7. (d) 8. (a) 9. (b) 10. (c) 11. (a) 12. (c)
+
+13. (d) 14. (c) 15. (d)
+
+Answers to the Theoretical Questions
+
+1. Please refer paragraph 3.4.2
+2. Please refer paragraph 3.4
+3. Please refer paragraph 3.3 & 3.2
+
+© The Institute of Chartered Accountants of India
+    3.76               FINANCIAL MANAGEMENT
+
+4. Please refer paragraph 3.4.2
+5. Please refer paragraph 6
+6. Please refer paragraph 3.4.2
+
+Answers to the Practical Problems
+
+1.  (a)  Inventory  turnover  =  Cost of goods sold
+                                 Average inventory
+
+         Since gross profit margin is 15 per cent, the cost of goods sold should
+         be 85 per cent of the sales.
+
+         Cost of goods sold = 0.85 × ` 6,40,000 = ` 5,44,000.
+
+         Thus, =       ` 5, 44,000                 =  5
+                  Average inventory
+
+         Average inventory =     ` 5, 44,000                  = ` 1,08,800
+                                      5
+
+    (b)  Average collection   period               =  Average Receivables           ×360   days
+                                                           Credit Sales
+
+         Average  Receivables    =                 (Opening Receivables+Closing Receivables)
+                                                                              2
+
+         Closing balance of receivables is found as follows:
+
+                                                                                       `         `
+
+         Current assets (2.5 of current liabilities)                           48,000            2,40,000
+         Less: Inventories                                                     16,000
+                                                                                                   64,000
+                Cash                                                                             1,76,000
+          Receivables
+
+         Average Receivables =                     (` 1,76,000 + ` 80,000)     = ` 1,28,000
+                                                                2
+
+         So,  Average  collection                  period  =  `  1,28,000   ×  360  =  72  days
+                                                              `  6, 40,000
+
+2. (a) Dividend yield on the equity shares
+
+© The Institute of Chartered Accountants of India
+     FINANCIAL ANALYSIS AND PLANNING­                                         3.773.77
+                                    RATIO ANALYSIS
+
+     =     Dividend per share                      × 100 =    ` 2 (i.e.0.20 × ` 10)  × 100 = 5%
+          Market price per share                                      ` 40
+
+(b) Dividend coverage ratio
+
+                                                   Profit after taxes
+
+                            Dividend payable to preference
+
+     (i) Preference =                              shareholders
+
+                       =               ` 2,70,000                             = 10 times
+                          ` 27,000 (i.e. 0.09 × ` 3,00,000)
+
+     (ii) Equity          Profit after taxes - Preference share dividend
+                           Dividend payable to equity shareholders at
+                       = current rate of `2 per share
+
+                       =                           ` 2,70,000 - `27,000              = 1.52 times
+
+                            ` 1,60,000 (i.e. 80,000 shares × ` 2)
+
+(c) Earnings per equity share = Earnings available to equity shareholders
+                                                 Number of equity shares outstanding
+
+                                                   = ` 2, 43,000 = ` 3.04 per share
+                                                         80,000
+
+(d)  Price-earning (P/E) ratio =                   Profit after taxes ­ Preference shares dividend
+                                                     Dividend payable to equity shareholders at
+
+                                                   current rate of ` 2 per share
+
+                                                   Market price per share = ` 40 =13.2 times
+                                                     Earnings per share ` 3.04
+
+3. (a) Working Notes:
+
+     (i)  Calculation of Sales =                   Fixed Assets = 1
+                                                              Sales        3
+
+            26, 00, 000  =  1                      Sales  =`  78, 00, 000
+               Sales        3
+
+     (ii) Calculation of Current Assets
+               Fixed Assets = 13
+
+              Current Assets 11
+
+© The Institute of Chartered Accountants of India
+3.78           FINANCIAL MANAGEMENT
+
+            26, 00, 000    =                       13      Current   Assets  =  `  22, 00,  000
+         Current Assets                            11
+
+(iii) Calculation of Raw Material Consumption and Direct Wages
+
+                                                                                                             `
+
+         Sales                                                                                    78,00,000
+
+         Less: Gross Profit @ 15%                                                                 11,70,000
+
+         Works Cost                                                                               66,30,000
+
+      Raw Material Consumption (20% of Works Cost) = ` 13,26,000
+
+      Direct Wages (10% of Works Cost)                                          = ` 6,63,000
+
+(iv) Calculation of Stock of Raw Materials (= 3 months usage)
+
+      =  13,26,000  ×  3   =                       `  3,31,500
+                       12
+
+(v) Calculation of Stock of Finished Goods (= 6% of Works Cost)
+
+      =  66,30,000  ×   6                          =  `  3,97,  800
+                       100
+
+(vi) Calculation of Current Liabilities
+
+        Current Assets                             =  2
+      Current Liabilities
+
+             22, 00, 000                           =  2    Current   Liabilities   =  `  11, 00,  000
+         Current Liabilities
+
+(vii) Calculation of Receivables
+
+      Average  collection                          period       =  Receivables   ×365
+                                                                   Credit Sales
+
+                                                           =       Receivables  ×  365   =  60
+                                                                    78,00,000
+
+      Receivables = ` 12,82,191.78 or ` 12,82,192
+
+(viii) Calculation of Long term Loan
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                                                     3.793.79
+                               RATIO ANALYSIS
+
+Long term Loan = 2
+Current Liabilities 1
+
+Long term loan  =                                  2    Long  term  loan  =  `  22,  00,  000.
+   11, 00, 000                                     1
+
+(ix) Calculation of Cash Balance
+
+       Current assets                                                                                         `
+                                                                                                   22,00,000
+
+       Less: Receivables
+              12,82,192
+
+                Raw materials stock 3,31,500
+
+                Finished goods stock 3,97,800 20,11,492
+
+       Cash balance                                                                                1,88,508
+
+(x) Calculation of Net worth
+
+       Fixed Assets                                                                                26,00,000
+
+       Current Assets                                                                              22,00,000
+
+       Total Assets                                                                                48,00,000
+
+       Less: Long term Loan                                         22,00,000
+
+                Current Liabilities                                 11,00,000                      33,00,000
+
+       Net worth                                                                                   15,00,000
+
+Net worth = Share capital + Reserves = 15,00,000
+
+Also,  1     =                                     Share Capital
+       4
+                Reserves and Surplus
+
+So, Share capital                                       =15,00,000  ×     1  =  `  3,00,  000   ;
+Reserves and Surplus                                                      5
+
+                                                        =15,00,000 × 4 = ` 12,00,000
+                                                                           5
+
+       Profit and Loss Account of PQR Ltd.
+       for the year ended 31st March, 2023
+
+Particulars                                                   ` Particulars                                      `
+
+© The Institute of Chartered Accountants of India
+3.80                 FINANCIAL MANAGEMENT
+
+To Direct Materials                                13,26,000 By Sales            78,00,000
+
+"     Direct Wages                                 6,63,000                      78,00,000
+                                                                                 11,70,000
+"     Works (Overhead)                             46,41,000                     11,70,000
+
+      (Balancing figure)
+
+"     Gross Profit c/d                             11,70,000
+
+                                                   78,00,000
+
+"     Selling and Distribution 5,46,000 " Gross Profit b/d
+
+      Expenses (Balancing
+
+      figure)
+
+"     Net Profit (8% of Sales) 6,24,000
+
+                                                   11,70,000
+
+                     Balance Sheet of PQR Ltd.
+                       as at 31st March, 2023
+
+Liabilities                                        ` Assets                      `
+
+Share Capital             3,00,000 Fixed Assets                                  26,00,000
+
+Reserves and Surplus 12,00,000 Current Assets:
+
+Long term loans         22,00,000                  Stock of Raw Material         3,31,500
+
+Current liabilities     11,00,000                  Stock of            Finished  3,97,800
+                                                   Goods
+
+                                                   Receivables                   12,82,192
+
+                                                   Cash                          1,88,508
+
+                        48,00,000                                                48,00,000
+
+4. (a) Calculation of Operating Expenses for the year ended 31st March,
+               2023
+
+                                                                                 (`)
+
+   Net Profit [@ 6.25% of Sales]                                                 3,75,000
+
+   Add: Income Tax (@ 50%)                                                       3,75,000
+
+   Profit Before Tax (PBT)                                                       7,50,000
+
+   Add: Debenture Interest                                                       60,000
+
+© The Institute of Chartered Accountants of India
+     FINANCIAL ANALYSIS AND PLANNING­                                      3.813.81
+                                    RATIO ANALYSIS
+
+     Profit before interest and tax (PBIT)                          18,00,000    8,10,000
+     Sales                                                           8,10,000   60,00,000
+     Less: Cost of goods sold
+     PBIT                                                                       26,10,000
+     Operating Expenses                                                         33,90,000
+
+(b)                 Balance Sheet as on 31st March, 2023                                     `
+
+     Liabilities                                                ` Assets        17,00,000
+
+     Share Capital                                 10,50,000 Fixed Assets        1,50,000
+                                                                                 2,00,000
+     Reserve and Surplus                              4,50,000 Current Assets:
+                                                                                    50,000
+     15% Debentures                                   4,00,000 Stock            21,00,000
+
+     Payables                                         2,00,000 Receivables
+
+                                                                Cash
+
+                                                   21,00,000
+
+     Working Notes:
+
+     (i) Share Capital and Reserves and Surplus
+
+     The return on net worth is 25%. Therefore, the profit after tax of
+     ` 3,75,000 should be equivalent to 25% of the net worth.
+
+     Net       worth  ×  25   =                    `  3,75,000
+                         100
+
+      Net worth          =  ` 3,75,000×100                      = ` 15,00,000
+                                    25
+
+     The ratio of share capital to reserves is 7:3
+
+     Share Capital                                    =  15,00,000  ×7   =` 10,50,000
+                                                                     10
+
+© The Institute of Chartered Accountants of India
+3.82            FINANCIAL MANAGEMENT
+
+      Reserves and Surplus = 15,00,000 × 3 = ` 4,50,000
+                                                       10
+
+(ii) Debentures
+
+      Interest on Debentures @ 15% = ` 60,000
+
+       Debentures =                                60,000 ×100  = ` 4,00,000
+                                                         15
+
+(iii) Current Assets
+
+      Current Ratio = 2
+
+      Payables           = ` 2,00,000
+
+       Current Assets = 2 Current Liabilities = 2 × 2,00,000
+      = ` 4,00,000
+
+(iv) Fixed Assets
+
+                                                                              `
+
+      Share capital                                             10,50,000
+      Reserves and Surplus                                       4,50,000
+      Debentures                                                 4,00,000
+      Payables                                                   2,00,000
+
+      Less: Current Assets                                      21,00,000
+      Fixed Assets                                               4,00,000
+
+                                                                17,00,000
+
+(v) Composition of Current Assets
+
+      Inventory Turnover = 12
+
+      Cost of goods sold                           =  12
+          Closing stock
+
+      Closing stock   =  ` 18,00,000                      = ` 1,50,000
+                              12
+
+      Composition                                                                `
+
+      Stock                                                                   1,50,000
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                                              3.833.83
+                               RATIO ANALYSIS
+
+Receivables                                                            2,00,000
+
+Cash (balancing figure)                                                50,000
+
+Total Current Assets                                                   4,00,000
+
+5. Working Notes:
+
+(i) Long term Debt
+         0.5 = Long- term debt = Long- term debt
+                    Net worth `1,00,000 + `1,00,000
+
+ Long term debt = ` 1,00,000
+
+(ii) Total assets
+
+Total liabilities and Equity = Notes and payables + Long-term debt +
+Common stock + Retained earnings
+
+= ` 1,00,000 + ` 1,00,000 + ` 1,00,000 + ` 1,00,000 = ` 4,00,000
+
+Total assets = Total liabilities and Equity = ` 4,00,000
+
+(iii) Sales and Cost of Goods sold
+
+Total asset turnover = 2.5                         =      Sales     =     Sales
+                                                      Total assets     `4,00,000
+
+ Sales               = ` 10,00,000
+
+Cost of goods sold = (100% - Gross Profit margin) × Sales
+
+                     = (100% - 10%) × ` 10,00,000 = ` 9,00,000.
+
+(iv) Current Assets
+
+Inventory turnover = 9 = Cost of goods sold = `9,00,000
+                                                      Inventory        Inventory
+
+ Inventory = ` 1,00,000
+
+Average  collection  period                        =18  =  Receivables × 360  =  Receivables × 360
+                                                                   Sales             `10,00,000
+
+ Accounts receivables = ` 50,000
+
+Acid-test ratio = 1 = Cash+ Accounts Receivable = Cash+ `50,000
+                                                   Notes and Payables            `1,00,000
+
+© The Institute of Chartered Accountants of India
+3.84               FINANCIAL MANAGEMENT
+
+        Cash = ` 50,000
+(v) Plant and equipment
+
+       = Total Assets - Current Assets
+       = ` 4,00,000 - (` 1,00,000 + ` 50,000 + ` 50,000) = ` 2,00,000
+
+                                   Balance Sheet
+
+Cash                                `                                                     `
+Accounts receivable                                                              1,00,000
+Inventory                    50,000 Notes and payables                           1,00,000
+Plant and equipment          50,000 Long-term debt                               1,00,000
+Total assets               1,00,000 Common stock                                 1,00,000
+                           2,00,000 Retained earnings                            4,00,000
+                           4,00,000 Total liabilities and
+
+                                         equity
+
+6. Working notes:
+
+(i) Computation of Current Assets and Current Liabilities
+
+       Current assets      = 2.5
+      Current liabilities
+
+Current assets             = 2.5 Current liabilities
+
+Now, Working capital = Current assets - Current liabilities
+
+` 4,80,000                 = 2.5 Current liability - Current liability
+
+Or, 1.5 Current liability = ` 4,80,000
+
+ Current Liabilities = ` 3,20,000
+
+So, Current Assets = ` 3,20,000 × 2.5 = ` 8,00,000
+
+(ii) Computation of Inventories
+
+Liquid ratio         =                               Liquid assets
+1.5                                                Current liabilities
+
+                     =                             Current assets - Inventories
+                                                             ` 3,20,000
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                                             3.853.85
+                               RATIO ANALYSIS
+
+1.5 × ` 3, 20,000 = ` 8,00,000 - Inventories
+
+Inventories         = ` 8,00,000 ­ ` 4, 80,000 = ` 3,20,000
+
+(iii) Computation of Proprietary fund; Fixed assets; Capital and Sundry
+       creditors
+
+Fixed  Asset  to    Proprietary                    ratio=    Fixed assets    =  0.75
+                                                           Proprietary fund
+
+ Fixed Assets = 0.75 Proprietary fund
+
+       Proprietary fund = Fixed Assets + Net Working Capital ­
+                                 Long Term Debt
+
+                     = 0.75 Proprietary fund + ` 4,80,000 ­ 0
+
+ Proprietary fund = ` 19,20,000
+
+and Fixed Assets     = 0.75 proprietary fund
+
+                     = 0.75 × ` 19,20,000 = ` 14,40,000
+
+Capital              = Proprietary fund - Reserves & Surplus
+
+                     = ` 19,20,000 - ` 3,20,000 = ` 16,00,000
+
+Sundry Creditors     = Current liabilities - Bank overdraft
+
+                     = ` 3,20,000 - ` 80,000 = ` 2,40,000
+
+         Balance Sheet as on 31st March, 2023
+
+Liabilities                    `                   Assets                                  `
+Capital                                            Fixed Assets                 14,40,000
+Reserves & Surplus  16,00,000                      Inventories
+Bank overdraft       3,20,000                      Other Current Assets          3,20,000
+Sundry creditors        80,000                     (Balancing figure)            4,80,000
+                     2,40,000
+                                                                                22,40,000
+                    22,40,000
+
+7. Workings Notes:
+
+(i) Computation of Current Assets & Current Liabilities & Total
+       Assets
+
+Net Working Capital                                = Current Assets ­ Current Liabilities
+
+© The Institute of Chartered Accountants of India
+3.86          FINANCIAL MANAGEMENT
+
+                                                   = 2.5 ­ 1 = 1.5
+
+Thus, Current Assets  =                            Net  Working Capital×2.5
+                                                                 1.5
+
+                      =                            `13,50,000 x 25  =  ` 22,50,000
+                                                           1.5
+
+Current Liabilities (CL) = ` 22,50,000 ­ ` 13,50,000 = ` 9,00,000
+
+Total Assets          = Current Assets + Fixed Assets
+
+                      = ` 22,50,000 + ` 30,00,000 = ` 52,50,000
+
+(ii) Computation of Sales & Cost of Goods Sold
+
+Sales                 = Total Assets Turnover × Total Assets
+
+                      = 2 x (Fixed Assets + Current Assets)
+
+                      = 2 × (` 30,00,000 + ` 22,50,000)
+
+                      = ` 1,05,00,000
+
+Cost of Goods Sold = (100% ­ 20%) of Sales = 80% of Sales
+
+                      = 80% × ` 1,05,00,000 = ` 84,00,000
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                                                  3.873.87
+                               RATIO ANALYSIS
+
+(iii) Computation of Stock & Quick Assets
+
+Average Stock      =                                   Cost of Good Sold          =  ` 84,00,000
+                                                      Stock Turnover Ratio                  7
+
+                   = ` 12,00,000
+
+Closing Stock      = (Average Stock × 2) ­ Opening Stock
+
+                   = (` 12,00,000 × 2) ­ ` 11,40,000
+
+                   = ` 12,60,000
+
+Quick Assets       = Current Assets ­ Closing Stock
+
+                   = ` 22,50,000 ­ ` 12,60,000 = ` 9,90,000
+
+(iv) Computation of Proprietary Fund
+
+Debt-Equity Ratio  =                               Debt    =      1
+                                                   Equity        1.5
+
+Or, Equity         = 1.5 Debt
+
+Total Assets       = Equity + Preference capital + Debt + CL
+
+` 52,50,000        = 1.5 Debt+ ` 6,00,000 + Debt + ` 9,00,000
+Thus, Debt
+Equity             =                               `  37,50,000  =  `  15,00,000
+                                                         2.5
+
+                   = ` 15,00,000 × 1.5 = ` 22,50,000
+
+So, Proprietary Fund = Equity + Preference Capital
+
+                   = ` 22,50,000 + ` 6,00,000
+
+                   = ` 28,50,000
+
+(v) Computation of Profit after tax (PAT)
+
+                   = Total Assets × Return on Total Assets
+
+                   = ` 52,50,000 × 15%
+
+                   = ` 7,87,500
+
+© The Institute of Chartered Accountants of India
+3.88                FINANCIAL MANAGEMENT
+
+(a) Quick Ratio             =                        Quick Assets       =  `  9,90,000  = 1.1
+       Quick Ratio                                 Current Liabilities     `  9,00,000
+
+(b) Fixed Assets Turnover Ratio
+
+Fixed Assets Turnover       Ratio                     =      Sales      =  ` 1, 05, 00, 000  = 3.5
+                                                         Fixed Assets       ` 30,00,000
+
+(c) Proprietary Ratio                                 =  Proprietary fund     =  ` 28,50,000   = 0.54
+       Proprietary Ratio                                    Total Assets         ` 52,50,000
+
+(d) Earnings per Equity Share (EPS)
+
+Earnings    per     Equity  Share                  =  PAT - Preference Share Dividend
+                                                          Number of Equity Shares
+
+                                                   =  `  7,87,500  -  ` 54,000 (9%      of   ` 6,00,000)
+                                                                          1,80,000
+
+                                                   = ` 4.075 per share
+
+8. (i) Change in Reserve & Surplus = ` 25,00,000 ­ ` 20,00,000 = ` 5,00,000
+
+So, Net profit = ` 5,00,000
+
+Net Profit Ratio = 8%
+
+ Sales = 5,00,000 =` 62,50,000
+
+                   8%
+
+(ii) Cost of Goods sold
+       = Sales ­ Gross profit Margin
+       = ` 62,50,000 ­ 20% of ` 62,50,000
+
+= ` 50,00,000
+
+(iii) Fixed Assets  = ` 30, 00, 000 =` 75, 00, 000
+                             40%
+
+(iv) Stock          = Cost of Goods Sold = 50, 00, 000 = ` 12,50, 000
+                          Stock Turnover ratio                          4
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                                      3.893.89
+                               RATIO ANALYSIS
+
+(v) Debtors           = 62,50, 000 ×90 = ` 15, 62,500
+                              360
+
+(vi) Cash Equivalent = 50, 00, 000 ×1.5 = ` 6, 25, 000
+                                          12
+
+                      Balance Sheet as on 31st March 2023
+
+         Liabilities                               (`)        Assets                     (`)
+Share Capital                                                                   75,00,000
+                                40,00,000 Fixed Assets
+
+Reserve and Surplus             25,00,000 Sundry Debtors                        15,62,500
+
+Long-term loan                  30,00,000 Closing Stock                         12,50,000
+
+Sundry Creditors                14,37,500 Cash in hand                          6,25,000
+(Balancing Figure)
+
+                              1,09,37,500                                       1,09,37,500
+
+9. (i) Determination of Sales and Cost of goods sold:
+
+Gross Profit Ratio = Gross Profit ×100
+                                   Sales
+
+Or,  25      =  ` 4, 00, 000
+     100           Sales
+
+Or, Sales = 4, 00, 00, 000 = ` 16,00,000
+                        25
+
+Cost of Goods Sold = Sales ­ Gross Profit
+
+                      = ` 16,00,000 - ` 4,00,000 = ` 12,00,000
+
+(ii) Determination of Sundry Debtors:
+
+Debtors' velocity is 3 months or Debtors' collection period is 3
+months,
+
+So,  Debtors'         turnover  ratio=             12 months  =  4
+                                                   3 months
+
+Debtors' turnover ratio =                               Credit Sales
+
+                                                   Average Accounts Receivable
+
+© The Institute of Chartered Accountants of India
+3.90  FINANCIAL MANAGEMENT
+
+                                                   =     ` 16,00,000                   =4
+
+                                                      Bills Receivable+Sundry Debtors
+
+Or, Sundry Debtors + Bills receivable = ` 4,00,000
+
+Sundry Debtors = ` 4,00,000 ­ ` 25,000 = ` 3,75,000
+
+(iii) Determination of Sundry Creditors:
+
+Creditors' velocity of 2 months or credit payment period is 2 months.
+
+So, Creditors' turnover ratio = 12 months = 6
+
+                                                 2 months
+
+Creditors turnover ratio                              =  Credit Purchases *
+
+                                                         Average Accounts Payables
+
+                                                      =              ` 12,10,000           =6
+
+                                                         Sundry Creditors+Bills Payables
+
+So, Sundry Creditors + Bills Payable                                 = ` 2,01,667
+
+Or, Sundry Creditors + ` 10,000                                      = ` 2,01,667
+
+Or, Sundry Creditors = ` 2,01,667 ­ ` 10,000 = ` 1,91,667
+
+(iv) Determination of Closing Stock
+
+Stock Turnover Ratio = Cost of Goods Sold = `12,00,000 =1.5
+                                                      Average Stock     Average Stock
+
+So, Average Stock = ` 8,00,000
+
+Now Average Stock =                                Opening Stock+Closing Stock
+                                                                     2
+
+Or    Opening Stock+(Opening Stock+`10,000)                          =  `  8,00,000
+                                2
+
+Or, Opening Stock = ` 7,95,000
+
+So, Closing Stock = ` 7,95,000 + ` 10,000 = ` 8,05,000
+
+(v) Determination of Fixed Assets
+
+Fixed Assets Turnover Ratio = Cost of Goods Sold = 4
+                                                 Fixed Assets
+
+© The Institute of Chartered Accountants of India
+        FINANCIAL ANALYSIS AND PLANNING­                             3.913.91
+                                       RATIO ANALYSIS
+
+        Or,                                        = `12,00,000 = 4
+                                                   Fixed Assets
+
+        Or,  Fixed Asset = ` 3,00,000
+
+        Workings:
+        *Calculation of Credit purchases:
+        Cost of goods sold = Opening stock + Purchases ­ Closing stock
+
+        ` 12,00,000 = ` 7,95,000 + Purchases ­ ` 8,05,000
+
+        ` 12,00,000 + ` 10,000 = Purchases
+
+10. 1.  ` 12,10,000 = Purchases (credit)
+        Assumption:
+        (i) All sales are credit sales
+        (ii) All purchases are credit purchase
+        (iii) Stock Turnover Ratio and Fixed Asset Turnover Ratio may be
+
+               calculated either on Sales or on Cost of Goods Sold.
+        Current Ratio = 3:1
+        Current Assets (CA)/Current Liability (CL) = 3:1
+        CA = 3CL
+        WC = 10,00,000
+        CA ­ CL = 10,00,000
+        3CL ­ CL = 10,00,000
+        2CL = 10,00,000
+        CL = 10,00,000
+
+                    2
+        CL = `5,00,000
+        CA = 3 x 5,00,000
+        CA = `15,00,000
+
+© The Institute of Chartered Accountants of India
+3.92  FINANCIAL MANAGEMENT
+
+2. Acid Test Ratio = CA ­ Stock / CL = 1:1
+        = 15, 00, 000 ­ Stock =1
+                 5, 00, 000
+       15,00,000 ­ stock = 5,00,000
+       Stock = `10,00,000
+
+3. Stock Turnover ratio (on sales) = 5
+            Sales = 5
+
+         Avg stock
+            Sales = 5
+
+        10, 00, 000
+       Sales = `50,00,000
+4. Gross Profit = 50,00,000 x 40% = `20,00,000
+       Net profit (PBT) = 50,00,000 x 10% = `5,00,000
+5. PBIT/PBT = 2.2
+       PBIT = 2.2 x 5,00,000
+       PBIT= 11,00,000
+       Interest = 11,00,000 ­ 5,00,000 = `6,00,000
+       Long term loan = 6,00,000 = `50,00,000
+
+                                       0.12
+6. Average collection period = 30 days
+
+       Receivables = 30 x 50.00.000 = 4,16, 667
+                               360
+
+7. Fixed Assets Turnover Ratio = 0.8
+       50,00,000/ Fixed Assets = 0.8
+       Fixed Assets = `62,50,000
+
+© The Institute of Chartered Accountants of India
+     FINANCIAL ANALYSIS AND PLANNING­                              3.933.93
+                                    RATIO ANALYSIS
+
+                           Income Statement
+
+     Sales                                                                  (`)
+     Less: Cost of Goods Sold                                      50,00,000
+     Gross Profit                                                  30,00,000
+     Less: Operating Expenses                                      20,00,000
+     Less: Interest.
+     Net Profit                                                     9,00,000
+                                                                    6,00,000
+                                       Balance sheet                5,00,000
+
+     Liabilities                                   (`) Assets                             (`)
+                                                                                 62,50,000
+     Equity       share       22,50,000 Fixed asset
+     capital
+
+     Long term debt           50,00,000 Current assets:
+
+     Current liability                             5,00,000 Stock  10,00,000
+
+                                                   Receivables 4,16,667
+
+                                                   Other           83,333 15,00,000
+
+                              77,50,000                                          77,50,000
+
+11.                        Balance Sheet of Rudra Ltd.
+
+     Liabilities                                            (`) Assets                    (`)
+                                                   10,00,000 Fixed Assets        30,00,000
+     Capital                                       20,00,000 Current Assets:
+                                                   30,00,000 Stock in Trade      20,00,000
+     Reserves                                                                    20,00,000
+                                                                   Debtors
+     Long Term Loan @ 10%                          10,00,000 Cash                 5,00,000
+
+     Current Liabilities:                           2,00,000
+
+     Creditors
+
+     Other        Short-term
+
+© The Institute of Chartered Accountants of India
+3.94                  FINANCIAL MANAGEMENT
+
+Current Liability (Other
+STCL)
+
+Outstanding Interest                               3,00,000
+
+                                                   75,00,000                        75,00,000
+
+Working Notes:                                                                               (`)
+Let sales be ` x                                                                       x/4
+                                                                                       x/6
+                       Balance Sheet of Rudra Ltd.                                     x/6
+                                                                                    5,00,000
+Liabilities                                                   (`)   Assets
+
+Capital                                                            Fixed Assets
+
+Reserves                                                           Current Assets:
+
+       Net Worth                                   x/4             Stock in Trade
+
+Long Term Loan @ 10%                               x/4             Debtors
+
+                                                                   Cash
+
+Current liabilities:
+
+Creditors                                          x/12
+
+Other        Short-term
+
+Current Liability
+
+Outstanding Interest
+
+Total Current Liabilities x/9+5,00,000/3
+
+ Total                                                             Total
+1. Fixed Asset Turnover = 4
+                                                   =        x
+                                                      Fixed Assets
+
+Fixed Assets                                       =  x
+                                                      4
+
+2. Stock Turnover = 6                              =    x
+       Stock                                          stock
+
+                                                   =  x
+                                                      6
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                                      3.953.95
+                               RATIO ANALYSIS
+
+3. Sales to net worth = 4                          =        x
+
+                                                      net worth
+
+Net worth                                          =  x
+                                                      4
+
+4. Debt: Equity                                    =1:1
+
+Long Term Loan                                     =  1
+   Net worth                                          1
+
+Long term loan = Net worth                         =  x
+                                                      4
+
+5. Gross Profit to Cost                            = 20%
+
+    GP                                             = 20%
+Sales ­ G P
+
+ GP                                                = 20%
+x ­ GP
+
+GP                                                 = 0.2 x ­ 0.2 GP
+
+1.2 GP                                             = 0.2 x
+
+GP                                                 =  0.2x
+                                                      1.2
+
+GP                                                 = x/6
+
+Cost of Goods Sold                                 = x ­ x/6 = 5/6 x
+
+6. COGS to creditors                               = 10:1
+
+  COGS                                             =  10
+Creditors                                             1
+
+    5  x                                              10
+    6                                                 1
+                                                   =
+creditors
+
+Creditors                                          =  5x  =     x
+                                                      60       12
+
+© The Institute of Chartered Accountants of India
+    3.96                   FINANCIAL MANAGEMENT
+
+7.        Stock                                    =1
+
+    Debtor
+
+    Debtor = Stock                                 =  x
+                                                      6
+
+8. Current Ratio                                   =3:1
+
+        Stock +Debtors + Cash                      =  3
+            Current Liabilities                       1
+
+          x  +  x  +5,  00,000
+          6     6
+                                                   =3
+    Current Liabilities
+
+    x     +5,00,000
+    3
+                                                   = CL
+                3
+
+    CL                                             = x +5,00,000
+                                                      9             3
+
+9. CA                                              = 3CL
+
+                                                   =  3    x  +  `  5,00,000  
+                                                           9            3     
+
+    CA                                             =  x  +5,00,000
+                                                      3
+
+10. Net worth + Long Term Loan + Current Liability = Fixed Asset + Current
+       Assets
+
+    x     +  x  +  x    +  ` 5,00,000              =  x    +  x     +  ` 5,00,000
+    4        4     9            3                     4       3
+
+    x     +  x  ­  x                               =  `  5,00,000      ­  ` 5,00,000
+    4        9     3                                                           3
+
+    9x+4x ­12x                                     =  `15,00,000 ­ ` 5,00,000
+          36                                                        3
+
+          x                                        = ` 10,00,000
+
+    36                                                        3
+
+    x                                              = ` 1,20,00,000
+
+© The Institute of Chartered Accountants of India
+    FINANCIAL ANALYSIS AND PLANNING­                                      3.973.97
+                                   RATIO ANALYSIS
+
+11. Now, from above calculations, we get,
+
+    Fixed Asset =     x = `1,20,00,000                               = ` 30,00,000
+                      4                            4
+
+    Stock                   =  x  =                ` 1, 20, 00, 000  = ` 20,00,000
+                               6                          6
+
+    Debtor                  =  x  =                ` 1, 20, 00, 000  = ` 20,00,000
+                               6                          6
+
+    Net Worth = x / 4                                                = ` 30,00,000
+
+    Now, Capital to Reserve is 1 : 2
+
+    Capital                                                          = ` 10,00,000
+
+    and, Reserve                                                     = ` 20,00,000
+
+    Long Term Loan =           x                                     = 30,00,000
+                               4
+
+    Outstanding Interest = 30,00,000×10% = 3,00,000
+
+    Creditors    =     x    =     ` 1,20,00,000                      = ` 10,00,000
+                      12                12
+
+    Current Liabilities = Creditors + Other STCL + Outstanding Interest
+
+    x + ` 5,00,000    =     `  10,00,000+ Other STCL + ` 3,00,000
+
+    9        3
+
+    `  1,20,00,  000  +  `  5,00,  000                = ` 13,00,000+ Other STCL
+             9                 3
+
+    ` 15,00,000 = Other STCL + ` 13,00,000
+
+    Other STCL = ` 2,00,000
+
+Answers to the Case Scenarios
+
+1.
+
+    i. (c) ii. (a) iii. (a) iv. (b) v. (b)
+
+i.  (c)    Inventory     Turnover                  =  Inventory  ×365  =  38,60,000   ×365
+                                                        COGS              76, 40,000
+
+           = 184.41 days = 185 days (apx)
+
+© The Institute of Chartered Accountants of India
+     3.98            FINANCIAL MANAGEMENT
+
+           Inventory holding period of 185 days is significantly higher as
+           compared to industry standard of 100 days. This means a
+           significant amount of working capital is tied in inventory, which
+           may be leading to liquidity crunch.
+
+ii.  (a)   Receivables   Turnover                  =  Receivables ×365 =  39, 79, 000 × 365
+                                                          Sales             1,25,00,000
+
+           = 116.71 = 117 days (apx)
+
+           Receivables turnover of 117 days as compared to industry
+           standard of 90 days is a further delay of 27 days. This will lead to
+           good amount of money being tied up in debtors.
+
+iii. (a) Operating Ratio is the number which indicates cost incurred by
+               company for earning each rupee of revenue
+
+           Operating  Ratio  =                     COGS+Operating       Expenses  x100
+                                                                 Sales
+
+           = 76, 40,000+29,10,000 ×100 = 0.844
+                    1,25,00,000
+
+iv. (b) Equity to Reserves = 1
+
+           Reserves                                   = 1x30,00,000 = ` 30,00,000
+
+           Projected profit                           = 30,00,000 -18,00,000 = ` 12,00,000
+
+           Net Profit Margin = 15%
+
+           12,00,000/ Sales                           = 0.15
+
+           Sales                                      = ` 80,00,000
+
+           Gross Profit                               = 80,00,000 x 50% = ` 40,00,000
+
+           COGS                                       = 80,00,000 - 40,00,000 = ` 40,00,000
+
+           Projected Debtors Turnover = 100 days = closing Receivables/
+                                                      Sales x 365
+
+           100                                        = Closing Receivables/ 80,00,000
+
+                                                              x365
+
+© The Institute of Chartered Accountants of India
+FINANCIAL ANALYSIS AND PLANNING­                                  3.993.99
+                               RATIO ANALYSIS
+
+        Closing Receivables                        = 80,00,000x100/365 = ` 21,91,781
+
+        Projected Closing Inventory= 70% of opening inventory
+
+                                                   = 70% of 38,60,000 = ` 27,02,000
+
+        Projected Creditor Turnover = 100 days
+
+                                                   =closing creditors/COGSx365
+
+        Closing Creditors                          = COGSx100/365
+
+        Closing Creditor                           = 40,00,000x100/365 = ` 10,95,890
+
+        Net Working Capital                        = Cash+Debtors+Inventory-
+                                                          Creditors
+
+                                                   = 2,30,000+21,91,781+27,02,000-
+                                                          10,95,890
+
+        Net Working Capital                        = ` 40,27,891
+
+v. (b)  Equity Share Capital + Reserves            = 30,00,000+30,00,000
+        Long Term Debt to Equity                   = ` 60,00,000
+                                                   = 0.5
+
+        LTD/60,00,000                              = 0.5
+
+        Long Term Debt                             = 0.5x60,00,000
+
+        Long Term Debt                             = ` 30,00,000
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+

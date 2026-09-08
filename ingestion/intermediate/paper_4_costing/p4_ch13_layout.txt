@@ -1,0 +1,3910 @@
+CHAPTER  a  13
+
+STANDARD COSTING
+
+                                     LEARNING OUTCOMES
+
+ Discuss the meaning of standard cost and variances.
+ Differentiate between controllable and uncontrollable
+
+      variances.
+ Analyse and compute variances related to material, labour
+
+      and overheads.
+
+CHAPTER OVERVIEW                                   Meaning of Standard cost and Standard Costing
+                                                                      Types of Standards
+                  Standard Costing
+                                                             The Process of Standard Costing
+                                                                Setting-up of Standard Cost
+                                                                      Types of Variances
+                                                                  Classification of Variances
+                                                                  Computation of Variance
+
+                                                    Advantages and Criticism of Standard Costing
+
+© The Institute of Chartered Accountants of India
+13.2  a  COST AND MANAGEMENT ACCOUNTING
+
+    1. INTRODUCTION
+
+Cost control is one of the objectives of cost management. Management of an
+organisation setups predetermined cost to compare the actual cost with the
+predetermined cost. Predetermined costs are standardcosts used for cost control
+and performance evaluation. Standard costing is a method of cost and
+management accounting which starts with setting of standards and ends with
+reporting of variances to management for taking corrective actions. The Official
+Terminology of CIMA, London defines standard costing as "Control technique that
+reports variances by comparing actual costs to pre-set standards so facilitating
+action through management by exception."
+
+In this chapter we will learn how standards are set for each cost component i.e.
+material, labour and overheads of a cost object.
+
+1.1 What is a Standard or Standard Cost?
+
+Standard cost is defined in the CIMA Official Terminology as "'the planned unit cost
+of the product, component or service produced in a period. The standard cost may
+be determined on a number of bases. The main use of standard costs is in
+performance measurement, control, stock valuation and in the establishment of
+selling prices." From the above definition Standard costs can be said as
+
+· Planned cost
+
+· Determined on a base or number of bases.
+
+1.2 Why Standard Costing is Needed?
+
+Standards or Standard costs are established to evaluate performance of a
+responsibility centre. Apart from performance evaluation and cost control, standard
+costs are also used to value inventory where actual figures are not reliably available
+and to determine selling prices particularly while preparing quotations.
+
+Standard costing system is widely accepted as it serves different needs of an
+organisation. The standard costing is preferred for the following reasons:
+
+(a) Prediction of future cost for decision making: Standard costs are set after
+       taking all present conditions and future possibilities into consideration. Hence,
+
+© The Institute of Chartered Accountants of India
+STANDARD COSTING                                   a  13.3  a
+
+       standard cost is future cost for the purpose of cost estimation and profitability
+       from a proposed project/ order/ activity.
+
+(b) Provide target to be achieved: Standard costs are the target cost which
+       should not be crossed by the responsibility centres. Performance of a
+       responsibility centre is continuously monitored and measured against the set
+       standards. Any variance from the standard is noted and reported for
+       appropriate action.
+
+(c) Used in budgeting and performance evaluation: Standard costs are used
+       to set budgets and based on these budgets managerial performance is
+       evaluated. This is of two benefits, one managers of a responsibility centre will
+       not compromise with the quality to fulfill the budgeted quantity and second,
+       variances can be traced with the responsible department or person.
+
+(d) Interim profit measurement and inventory valuation: Actual profit can only
+       be known after the closure of the accounts. But an organisation may need to
+       prepare profitability statement for interim periods for managerial reporting
+       and decision making. To arrive at profit figure, standard costs are deducted
+       from the revenue.
+
+    2. TYPES OF STANDARDS
+
+Types of standards are as below:
+
+(i) Ideal Standards: These represent the level of performance attainable when
+prices for material and labour are most favourable, when the highest output is
+achieved with the best equipment and layout and when the maximum efficiency in
+utilisation of resources results in maximum output with minimum cost.
+
+These types of standards are criticised on three grounds:
+
+(a) Since such standards would be unattainable, no one would take these
+seriously.
+
+(b) The variances disclosed would be variances from the ideal standards. These
+would not, therefore, indicate the extent to which they could have been reasonably
+and practically avoided.
+
+(c) There would be no logical method of disposing of these variances.
+
+© The Institute of Chartered Accountants of India
+13.4  a  COST AND MANAGEMENT ACCOUNTING
+
+(ii) Normal Standards: These are standards that may be achieved under normal
+operating conditions. The normal activity has been defined as "the number of
+standard hours which will produce at normal efficiency sufficient good to meet the
+average sales demand over a term of years".
+
+These standards are, however, difficult to set because they require a degree of
+forecasting. The variances thrown out under this system are deviations from normal
+efficiency, normal sales volume, or normal production volume.
+
+If the actual performance is found to be abnormal, large variances may result and
+necessitate revision of standards.
+
+(iii) Basic or Bogey Standards: These standards are used only when they are
+likely to remain constant or unaltered over a long period. According to this
+standard, a base year is chosen for comparison purposes in the same way as
+statisticians use price indices. Since basic standards do not represent what should
+be attained in the present period, current standards should also be prepared if
+basic standards are used. Basic standards are, however, well suited to businesses
+having a small range of products and long production runs. Basic standards are set,
+on a long-term basis and are seldom revised. When basic standards are in use,
+variances are not calculated. Instead, the actual cost is expressed as a percentage
+of basic cost. The current cost is also similarly expressed and the two percentages
+are compared to find out how much the actual cost has deviated from the current
+standard. The percentages are next compared with those of the previous periods
+to establish the trend of actual and current standard from basic cost.
+
+(iv) Current Standards: These standards reflect the management's
+anticipation of what actual costs will be for the current period. These are the
+costs which the business will incur if the anticipated prices are paid for the goods
+and services and the usage corresponds to that believed to be necessary to produce
+the planned output.
+
+The variances arising from expected standards represent the degree of efficiency
+in usage of the factors of production, variation in prices paid for materials and
+services and difference in the volume of production.
+
+© The Institute of Chartered Accountants of India
+STANDARD COSTING                                   a  13.5  a
+
+    3. THE PROCESS OF STANDARD COSTING
+
+The process of standard cost is as below:
+
+(i) Setting of Standards: The first step is to set standards which are to be
+achieved, the process of standard setting is explained below.
+
+(ii) Ascertainment of actual costs: Actual cost for each component of cost is
+ascertained. Actual costs are ascertained from books of account, material invoices,
+wage sheet, charge slip etc.
+
+(iii) Comparison of actual cost with standard cost: Actual costs are compared
+with the standards costs and variances are determined.
+
+(iv) Investigate the reasons for variances: Variances arises are investigated for
+further action. Based on this, performance is evaluated and appropriate actions are
+taken.
+
+(v) Disposition of variances: Variances arise are disposed-off by transferring it
+the relevant accounts (costing profit and loss account) as per the accounting
+method (plan) adopted.
+
+    4. SETTING-UP OF STANDARD COST
+
+Standard cost is set on the basis of management's estimation. Cost is estimated on
+the basis of technical specification provided by the engineering department or
+other expert such as production engineer. Generally, while setting standards,
+consideration is given to historical data, current production plan and expected
+conditions of future. For the sake of detailed analysis and control, standard cost is
+set for each element of cost i.e. material, labour, variable overheads and fixed
+overheads. Standard are also set for the sales quantity and sales value; this is
+generally known as budgeted sales.
+
+Standards are set in both quantity (units or hours) and in cost (price or rate). It is
+thus measure in quantities, hours and value of the factors of production.
+
+Standard costs are divided into three main cost components, such as
+
+(a) Direct Material Cost
+
+(b) Direct Employee (Labour) Cost and
+
+© The Institute of Chartered Accountants of India
+13.6  a  COST AND MANAGEMENT ACCOUNTING
+
+(c) Overheads
+Standards are set in both physical and monetary terms for each cost components.
+Details are as follows:
+
+4.1 Physical Standards
+
+Physical standards refer to expression of standards in units or hours . At this
+stage standard quantity and standard hours are determined for a particular product
+or service. The purpose of setting standards is to secure economies in scale of
+production and to set selling price for quotation purpose.
+In manufacturing organisations, the task of setting physical standards is assigned
+to the industrial engineering department. While setting standards consideration is
+given to :
+· Company's operating plan i.e. budgets
+· Final output to be produced
+· Material specification, in both quantity and quality provided by the
+
+       engineering department.
+· Proportion of material to be used in case of multiple inputs.
+· Method of production i.e. fully automated, semi-automated or manual.
+· Skill set of workers and availability of workers.
+· Working conditions and internal factors.
+· External factors (such as Labour Law, Factories Act, Govt. policy etc.).
+
+PROCEDURE OF SETTING MATERIAL QUANTITY STANDARDS
+The following procedure is usually followed for setting material quantity standards.
+(a) Standardisation of products: At this phase, products to be produced are
+
+       decided based on production plan and customer's order. Generally following
+       questions are answered at this stage: (i) What to be produced? (ii) Which type
+       to be produced and (iii) How much to be produced?
+
+© The Institute of Chartered Accountants of India
+STANDARD COSTING                                   a  13.7  a
+
+(b) Product study: Product to be produced is analysed and studied for
+       developments and production. Product study is carried out by the engineering
+       department or product consultants. At this phase answers to the following
+       questions are satisfied: (i) How can it be produced? (ii) What are the pre-
+       requisites? (iii) Which type of materials to be used? (iv) How products can be
+       accepted in the market? etc.
+
+(c) Preparation of specification list: After the product study a list of material is
+       prepared. It specifies types (quality) and quantity of materials to be used,
+       substitute of the materials, quantity and proportion of materials to be used,
+       process to be followed, pre-requisites and condition required etc. While
+       preparing specification list consideration to expected amount of wastage is
+       given. It must be customised to adopt changes in the product.
+
+(d) Test runs: Sample or test runs under specified conditions are carried out and
+       sample products are tested for the desired quality and quantity. Any deviation
+       from the specification is noted down and specification list is updated.
+
+PROCEDURE OF SETTING LABOUR TIME STANDARDS
+
+The following are the steps involved in setting labour standards:
+
+(a) Standardisation of product and product study is carried out as explained
+       above.
+
+(b) Labour specification: Types of labour and labour time is specified. Labour
+       time specification is based on past records and it takes into account normal
+       wastage of time.
+
+(c) Standardisation of methods: Selection of proper machines to use proper
+       sequence and method of operations.
+
+(d) Manufacturing layout: A plan of operation for each product listing the
+       operations to be performed is prepared.
+
+(e) Time and motion study: It is conducted for selecting the best way of
+       completing the job or motions to be performed by workers and the standard
+       time which an average worker will take for each job. This also takes into
+       account the learning efficiency and learning effect.
+
+© The Institute of Chartered Accountants of India
+13.8  a  COST AND MANAGEMENT ACCOUNTING
+
+(f) Training and trial: Workers are trained to do the work and time spent at the
+       time of trial run is noted down.
+
+PROCEDURE OF SETTING OVERHEADS TIME/ QUANTITY STANDARDS
+
+Variable overhead time/ quantity is estimated based on specification made by the
+engineering departments. Variable overheads may either be based on direct
+material quantity or labour hour. Generally, it is based on labour time worked.
+
+Fixed overhead time is based on budgeted production volume.
+
+4.1.1 Problems faced while setting physical standards
+
+The problems involved while setting physical standards will vary from industry to
+industry and may be illustrated as under:
+
+(a) A situation may arise where the company is introducing the manufacture of a
+       new line of product. In such case, it may be necessary to employ workers who
+       have no experience in the job. This creates a problem of setting standard time
+       because it is necessary to make adjustment for the inexperience of workers.
+
+(b) Changes in technology may necessitate installation of sophisticated machines.
+       When such machines are installed, the precise estimation of output and
+       standard of efficiency achievable will pose a problem until after a long time
+       when the working conditions are settled. Thus, setting standards for these
+       machines and estimating the standard costs will need considerable amount of
+       work.
+
+(c) Often manufacturers prefer to product diversification to improve profitability.
+       One of the most important problems that arise with the proposed change in
+       product is re-setting of production facilities. For example, when an old copper
+       part is to be changed into one made of bronze to suit the new product, special
+       care has to be taken to order new tools which in turn, pose the problem of
+       setting up of standard time in respect of the new tools.
+
+(d) Standards of material specifications are established and if the materials are
+       not available as per specifications, the standards may not be achievable.
+
+© The Institute of Chartered Accountants of India
+STANDARD COSTING                                   a  13.9  a
+
+(e) Very often the cost accountant is confronted with the problem of choosing
+       the type of standards to be adopted. For example, the industrial engineer has
+       furnished the standard time for all direct labour operations as under:
+
+       1. Standard time attainable by the best operations is 2 hours per unit
+               of product including allowances for personal fatigue and delay.
+
+       2. Attainable good performance for the average trained operator is 2.10
+               hours per unit of product.
+
+       3. Average past performance is 2.60 hours per unit.
+
+The problem is, should direct labour standard hour be based on maximum
+efficiency or attainable good performance or average past performance? If costs
+are to represent maximum efficiency, the unit cost used in selling price will relatively
+be low but a high debit variance may arise if the standard efficiency is not achieved.
+
+If, however, the standard cost is based on attainable good performance, the
+variances may tend to be nil. If efficiency is to be gauged, maximum efficiency
+standard will reflect the off standard performance, thereby enabling the
+departmental head to exercise control.
+
+Similar problems as those mentioned above, may also arise in setting of waste
+standards. For example, the question may arise as to whether only absolutely
+unavoidable wastage should be provided or the past average level of wastage may
+be provided. This will again have different impact on the standard cost of
+production.
+
+4.2 Price or Rate Standards
+
+Broadly, the price or rate standards can be set on either of the following bases:
+
+(a) Actual average or mean price expected to prevail during the coming
+       period, say one year; or
+
+(b) Normal prices expected to prevail during a cycle of seasons which may be
+       of a number of years.
+
+© The Institute of Chartered Accountants of India
+13.10 a  COST AND MANAGEMENT ACCOUNTING
+
+PROCEDURES OF SETTING MATERIAL PRICE STANDARDS
+
+Material prices are not altogether within the control of the manufacturer; but
+the purchasing department, on being apprised of production quantities
+required, should be able, from its knowledge of current market conditions and
+trends, to state with reasonable accuracy price for the constituent items. The
+standards for prices of materials should be based on the following factors, if
+price fluctuations are small and are not serious.
+
+(a) Stock of materials on hand and the prices at which they are held;
+
+(b) The prices at which orders for future deliveries of materials (agreement
+       entered into) have already been placed,
+
+(c) Minimum support price fixed by the appropriate authority and
+
+(d) Anticipated fluctuation in price levels
+
+In case there are unsystematic fluctuations in the market price, it may be difficult
+to determine standard costs of materials; fluctuations in the market price may
+be of different sorts; prices may be different from month to month, from one
+season to another or from one year to another. There may be a secular trend
+which, on the whole, is pushing price upwards or downwards. The nature of
+difficulties encountered in fixing standard costs of materials will naturally be
+different in each case. In addition, the purchasing policy of the company and
+the objective to be achieved (from cost accounting) will make a difference.
+
+The difficulty in determining the standard cost of material in such a situation
+can be resolved as follows:
+
+(a) In case prices fluctuate from month to month, the average of prices of a
+       year corrected for the known secular changes and any other expected
+       change can very well serve as the standard price for the next year.
+
+(b) If the fluctuations are seasonal, but the whole year's requirements are
+       purchased at one time, the weighted average of the likely prices to be paid
+       should be treated as the standard price. But, if buying is also spread over
+       the whole year, the weighted average of the prices for the whole year
+       should be the standard price.
+
+© The Institute of Chartered Accountants of India
+STANDARD COSTING                                   a 13.11  a
+
+(c) If prices fluctuate from one year to another, a careful estimate of the price
+       likely to prevail next year, based on a statistical study, should be adopted
+       as the standard price.
+
+PROCEDURES OF SETTING WAGE RATE STANDARD
+
+The type of labour required for performing a specific job would be the most
+important factor for deciding the rate of wage to be paid to workers. Standard
+wage rate for skilled and unskilled workers are set based on the following basis:
+
+ Time taken by the workers to complete a unit of production.
+
+ Time or piece rate prevailing in the industry. It can be known from the
+       peers.
+
+ Wage agreement entered into between the management and workers'
+       union.
+
+ Law prevailing in the area of operation, law like Payment of minimum
+       wages Act, Payment of bonus Act etc.
+
+PROCEDURES OF SETTING OVERHEAD EXPENSE STANDARDS
+
+In computing the overhead expense standards, consideration should be given to
+the level of output and the budgeted expenses. A budgeted output is fixed
+considering practical manufacturing capacity and anticipated sales demand.
+Expenditures can be budgeted under different heads for the level of output chosen.
+These expenditures are classified as fixed and variable. Thus, the overhead expense
+standards are set by computing the optimum level of output for a production
+departments followed by budgets for fixed and variable overheads. If production is
+seasonal or it fluctuates during the year, a flexible budget may be prepared to
+facilitate comparison between the set target and actual expenditure for the period.
+
+    5. TYPES OF VARIANCES
+
+Controllable and un-controllable variances: For effective cost control it is
+necessary to investigate into the reasons for cost variances and to take corrective
+actions. For this purpose variances are classified as controllable and uncontrollable
+variances. Controllable variances are those which can be controlled under the
+
+© The Institute of Chartered Accountants of India
+13.12 a  COST AND MANAGEMENT ACCOUNTING
+
+normal operating conditions if a responsibility centre takes preventive measures
+and acts prudently. Uncontrollable variances are those which occurs due to
+conditions which are beyond the control of a responsibility centre and cannot
+be controlled even though all preventive measures are in place. Responsibility
+centres are answerable for all adverse variances which could have been controlled.
+Controllability is a subjective matter and varies from situation to situation. If the
+uncontrollable variances are of significant nature and are persistent, the standard
+may need revision.
+
+Favourable and Adverse variance: Favourable variances are those which
+are profitable for the company and adverse variances are those which causes
+loss to the company. While computing cost variances favourable variance means
+actual cost is less than standard cost. On the other hand, adverse variance means
+actual cost is exceeding standard cost. The situation will be reversed for sales
+variance. Favourable variances mean actual is more than budgeted and adverse
+when actual is less than budgeted. Favourable variance in short denoted by capital
+`F' and adverse variances by capital `A'.
+
+Students may note that signs of favourable and adverse variance may or may not match
+exactly with mathematical signs i.e. (+) or (-).
+
+    6. CLASSIFICATION OF VARIANCES
+
+Variances are broadly classified into two parts namely Revenue variance and Cost
+variance. At Revenue side variances is calculated by comparing actual sales from
+budgeted (standard) sales. On the other hand, Cost side reflects variances in cost
+components. Cost variance classification is shown below with the help of a
+structured diagram.
+
+© The Institute of Chartered Accountants of India
+                                 STANDARD COSTING                            a 13.13         a
+
+                                 Total Cost Variance
+
+Material Cost Variance           Labour Cost Variance                        Overhead Cost Variance
+
+Material Price  Material         Labour Rate        Labour     Idle Time
+   Variance      Usage             Variance        Efficiency  Variance
+                Variance                           Variance
+
+Material Mix     Material Yield  Labour Mix                    Labour Yield
+  Variance          Variance      Variance                       Variance
+
+Variable Overhead Cost Variance                                Fixed Overhead Cost Variance
+
+ Expenditure or           Efficiency Variance      Expenditure or Budget     Volume
+Budget Variance                                             Variance         Variance
+
+                                                   Efficiency  Capacity      Calendar
+                                                   Variance    Variance      Variance
+
+                          Fig 13.1. Classification of Variances
+
+    7. COMPUTATION OF VARIANCES
+
+As discussed earlier variances are classified into two parts. Here we will start from
+cost side and discuss all cost components one by one with the help of appropriate
+example and illustrations.
+
+© The Institute of Chartered Accountants of India
+13.14 a  COST AND MANAGEMENT ACCOUNTING
+
+7.1 Material Cost Variance
+
+Material cost variance is the difference between standard cost of materials
+used and the actual cost of materials. Mathematically it is written as.
+
+                    Material Cost Variance = [Standard Cost ­ Actual Cost]
+                                                       Or
+
+               [(Std. Quantity × Std. Price) ­ (Actual Quantity × Actual Price)]
+
+ (The difference between the Standard Material Cost of the actual production
+ volume and the Actual Cost of Material)
+
+Reasons for variance: Material cost variance arises mainly because of either
+difference in material price from the standard price or difference in material
+consumption from standard consumption or both the reasons. Analysis of material
+cost variance is done dividing it into two parts namely Material Price variance and
+Material Usage variance.
+
+© The Institute of Chartered Accountants of India
+STANDARD COSTING                                   a 13.15  a
+
+(A) Material Price Variance
+
+It measures variance arises in the material cost due to difference in actual
+material purchase price from standard material price. Mathematically it is
+written as:
+
+   Material Price Variance = [Standard Cost of Actual Quantity* ­ Actual Cost]
+                                                       Or
+
+                    Actual Quantity (AQ) × {Std. Price (SP) ­ Actual Price(A)}
+                                                       Or
+
+                                         [(SP × AQ) ­ (AP × AQ)]
+   (The difference between the Standard Price and Actual Price for the Actual
+   Quantity Purchased)
+
+*Here actual quantity means actual quantity of material purchased. If in the
+question material purchase is not given, it is taken as equal to material
+consumed.
+
+   Explanation: Material price variance can also be calculated taking material
+   used as actual quantity instead of material purchased. This method is also
+   correct but does not serve the purpose of variance computation. Material price
+   variance may arise from variety of reasons out of which some may be
+   controllable and some may be beyond the control of the purchase department.
+   If price variance arises due to inefficiency of purchase department or any other
+   reason within the control of the company, then it is very important to report
+   variance as early as possible and this can be done by taking purchase quantity
+   as actual quantity for price variance computation.
+
+Responsibility for Material Price Variance: Generally, purchase department
+purchases materials from the market. Purchase department is expected to perform
+its function very prudently so that company never suffers loss due to its inefficiency.
+Purchase department is held responsible for adverse price variance arises due to
+the factors controllable by the department.
+
+© The Institute of Chartered Accountants of India
+13.16 a  COST AND MANAGEMENT ACCOUNTING
+
+(B) Material Usage Variance
+
+It measures variance in material cost due to usage/ consumption of materials. It
+is computed as below:
+
+   Material Usage Variance = [Standard Cost of Standard Quantity for Actual
+                                            Production ­ Standard Cost of Actual Quantity*]
+                                                       Or
+
+                  Std. Price (SP)× {Std. Quantity (SQ) - Actual Quantity (AQ)}
+                                                       Or
+
+                                          [(SQ × SP) ­ (AQ × SP)]
+   (The difference between the Standard Quantity specified for actual production and
+   the Actual Quantity used, at Standard Price)
+
+   *Here actual quantity means actual quantity of material used.
+
+Responsibility for material usage variance: Material usage is the responsibility
+of production department and it is held responsible for adverse usage variance.
+
+Reasons for variance: Actual material consumption may differ from the standard
+quantity either due to difference in proportion used from standard proportion or
+due to difference in actual yield from standard yield.
+
+Material usage variance is divided into two parts (a) Material usage mix variance
+and (b) Material yield variance.
+
+(a) Material Mix Variance
+
+Variance in material consumption may arise due to difference in proportion
+actually used from the standard mix/ proportion. It only arises when two or
+more inputs are used to produce a product. Mathematically,
+
+   Material Mix Variance = [Standard Cost of Actual Quantity in Standard
+                                           Proportion ­ Standard Cost of Actual Quantity]
+                                                       Or
+
+           Std. Price (SP) × {Revised Std. Quantity (RSQ) ­ Actual Quantity (AQ)}
+                                                       Or
+
+                                        [(RSQ × SP) ­ (AQ × SP)]
+   (The difference between the Actual Quantity in standard proportion and Actual
+   Quantity in actual proportion, at Standard Price)
+
+© The Institute of Chartered Accountants of India
+                        STANDARD COSTING           a 13.17              a
+
+(b) Material Yield Variance (Material Sub-usage Variance)
+
+Variance in material consumption which arises due to yield or productivity of
+the inputs. It may arise due to use of sub- standard quality of materials, inefficiency
+of workers or due to wrong processing.
+
+Material Yield Variance = [Standard Cost of Standard Quantity for Actual
+                                        Production ­ Standard Cost of Actual Quantity in
+                                       standard proportion]
+
+                                                   Or
+
+     Std. Price (SP) × {Std. Quantity (SQ) ­ Revised Standard Quantity (RSQ)}
+
+                                                   Or
+
+                                     [(SQ × SP) ­ (RSQ × SP)]
+
+(The difference between the Standard Quantity specified for actual production and
+Actual Quantity in standard proportion, at Standard Purchase Price)
+
+Verification of the formulae:
+       Material Cost Variance= Material Usage Variance + Material Price Variance*
+
+Or, Material Cost Variance= (Material Mix Variance + Material Revised usage
+                                           Variance) + Material price variance
+
+*If material purchased quantity and material consumed quantity is same
+
+Meaning of the terms used in the formulae:
+
+Term                                               Meaning
+
+Standard Quantity (SQ)                             Quantity of inputs to be used to produce
+                                                   actual output.
+
+Actual Quantity (AQ)                               Quantity of inputs actually used to produce
+                                                   actual output.
+
+Revised Standard Quantity (RSQ) If Actual total quantity of inputs were used
+                                                 in standard proportion.
+
+© The Institute of Chartered Accountants of India
+            13.18 a      COST AND MANAGEMENT ACCOUNTING
+
+ILLUSTRATION 1
+
+The standard and actual figures of product `Z' are as under:
+
+                         Standard                  Actual
+
+Material quantity        50 units                  45 units
+
+Material price per unit  ` 1.00                    ` 0.80
+
+CALCULATE material cost variances.
+
+SOLUTION
+
+The variances may be calculated as under:
+
+(a) Standard cost =      Std. Qty × Std. price = 50 units ×`1.00 = `50
+
+(b) Actual cost =        Actual qty. × Actual price = 45 units ×`0.80 = ` 36
+
+Variances:
+
+(i) Price variance       = Actual qty (Std. price ­ Actual price)
+
+                         = 45 units (`1.00 ­ `0.80) = ` 9 (F)
+
+(ii) Usage variance      = Std. price (Std. qty ­ Actual qty.)
+
+                         = `1 (50 units ­ 45 units) = ` 5 (F)
+
+(iii) Material cost variance = Standard cost ­ Actual cost
+
+(Total variance)         = ` 50 ­ ` 36 = ` 14 (F)
+
+ILLUSTRATION 2
+
+NXE Manufacturing Concern furnishes the following information:
+
+Standard:   Material for 70 kg finished products                      100 kg
+Actual:     Price of material                                    ` 1 per kg
+            Output                                              2,10,000 kg
+            Material used                                       2,80,000 kg
+            Cost of Materials                                   ` 2,52,000
+
+CALCULATE: (a) Material usage variance, (b) Material price variance, (c) Material cost
+variance.
+
+© The Institute of Chartered Accountants of India
+                               STANDARD COSTING                             a 13.19                   a
+
+SOLUTION
+Standard Quantity of input for actual output (SQ) = 2,10,000 kg × 100 kg
+
+                                                                                               70 kg
+                                                                     = 3, 00,000 kg.
+Actual Price (AP) = (`2,52,000 ÷ 2, 80,000 kg) = ` 0.90 per kg.
+
+(a) Material Usage Variance                        = (SQ ­ AQ) × SP
+
+                                                   = (3,00,000 ­ 2,80,000) × 1= ` 20,000 (F)
+
+(b) Material Price Variance                        = (SP ­ AP) × AQ
+
+                                                   = (1 ­ 0.90) × 2,80,000= ` 28, 000 (F)
+
+(c) Material Cost Variance                         = (SQ × SP) ­ (AQ × AP)
+
+                                                   = (3, 00,000 × 1) ­ (2, 80,000 × 0.90)
+
+                                                   = ` 48, 000 (F)
+
+Check MCV                                          = MPV + MUV
+
+           ` 48, 000 (F)                           = ` 28, 000 (F) + `20, 000 (F)
+
+ILLUSTRATION 3
+
+The standard cost of a chemical mixture is as follows:
+
+40% material A at ` 20 per kg
+
+60% material B at ` 30 per kg
+
+A standard loss of 10% of input is expected in production. The cost records for a
+period showed the following usage:
+
+90 kg material A at a cost of ` 18 per kg
+
+110 kg material B at a cost of ` 34 per kg
+
+The quantity produced was 182 kg of good product.
+
+CALCULATE (a) Material cost variance, (b) Material price variance, (c) Material usage
+variance.
+
+© The Institute of Chartered Accountants of India
+     13.20 a                    COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION
+
+                                Basic Calculation
+
+ Material       Standard for 180 kg. output                        Actual for 182 kg. output
+
+     A                    Qty.  Rate Amount                        Qty      Rate            Amount
+     B
+   Total                  Kg.                      (`)      (`)    Kg.      (`)             (`)
+Less: Loss
+                            80                     20       1,600  90       18              1,620
+
+                          120                      30       3,600  110      34              3,740
+
+                          200                               5,200  200                      5,360
+
+                            20                     -        -      18       -                    -
+
+                          180                               5,200  182                      5,360
+
+Std. cost of actual output                         = `5,200 × 182 = ` 5, 257.78
+                                                                   180
+
+Calculation of Variances
+
+1. Material Cost Variance                          = (Std. cost of actual output ­ Actual cost)
+
+                                                   = (5,257.78 ­ 5,360) = ` 102.22 (A)
+
+2. Material Price Variance = (SP ­ AP) × AQ
+
+Material A                                         = (20 ­ 18) × 90 = ` 180.00 (F)
+
+Material B                                         = (30 ­ 34)) × 110 = ` 440.00 (A)
+
+MPV                                                                         = ` 260.00 (A)
+
+3. Material Usage Variance = (Std. Quantity for actual output ­ Actual
+                                                 Quantity) × Std. Price
+
+Material  A  =  80        182   - 90               ×    20  = ` 182.22 (A)
+                          180         
+
+Material  B  = 120   182        - 110              ×    30  = `340.00 (F)
+                      180              
+
+MUV                                                         = `157.78 (F)
+
+© The Institute of Chartered Accountants of India
+                      STANDARD COSTING                       a 13.21          a
+
+Check
+
+                      MCV ` 102.22 (A)
+
+MPV `260 (A)                                                 MUV `157.78 (F)
+
+ILLUSTRATION 4
+
+ABC Ltd. produces an article by lending two basic raw materials. It operates a standard
+costing system and the following standards have been set for raw materials:
+
+          Material Standard mix Standard price (` per kg)
+
+                A     40%                               4
+
+                B     60%                               3
+
+The standard loss in processing is 15%. During April, the company produced 1,700 kgs.
+of finished output.
+
+The position of stock and purchases for the month of April are as under:
+
+Material   Stock on    Stock on                         Purchased during
+          01.04.2021  30.04.2021                             April 2021
+     A
+     B        (Kg.)       (Kg.)                    (Kg.)     (`)
+                35          5
+                40          50                          800  3,400
+
+                                                   1,200     3,000
+
+Opening stock of material is valued at standard price.
+CALCULATE the following variances:
+(i) Material price variance
+(ii) Material usage variance
+(iii) Material yield variance
+Material mix variance
+Total Material cost variance
+
+© The Institute of Chartered Accountants of India
+13.22 a                    COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION                   Standard                              Actual
+ Types of material
+                    Qty.   Rate Amount                    Qty.   Rate    Amount
+             A      (Kg.)                                 (Kg.)   (`)       (`)
+                           (`)                     (`)
+                                                            35
+                    800    4                       3,200   795   4       140.00
+                                                            40
+                                                          1,150  4.25 3,378.75
+                                                          2,020
+B                   1200   3                       3,600         3       120.00
+
+                                                                 2.50 2,875.00
+
+Total               2,000                          6,800                 6,513.75
+
+(i) Material price variance
+        = Actual qty. (Std. price ­ Actual price)
+
+       Material A: Since the actual price and standard price in respect of 35 kg. of
+       raw materials A are same i.e. ` 4, there will be no price variance in respect of
+       this quantity. Price variance will be in respect of only 795 kg. as given below:
+       = 795 kg. (` 4 ­ ` 4.25) = ` 198.75 (A)
+       Material B: For Material B also, price variance will only be in respect of 1,150
+       kg. as given below:
+       = 1,150 kg. (` 3 ­ ` 2.50) = ` 575 (F)
+
+         Total = ` 198.75 (A) + 575 (F) = ` 376.25(F)
+(ii) Material usage variance
+
+        = (Std. qty. for actual output ­ Actual qty.) × Std. price
+
+Material A = (800 ­ 830) × 4                       = 120 (A)
+Material B = (1,200 ­ 1,190) × 3                   = 30 (F)
+                                                   ` 90 (A)
+
+© The Institute of Chartered Accountants of India
+                          STANDARD COSTING                   a 13.23  a
+
+(iii) Material yield variance
+       = (Std. qty. - Revised Std. qty.) × Std. Price
+        Material A = (800 ­ 808) × 4 = 32 (A)
+
+Material B = (1,200 ­ 1,212) ×3 = 36 (A)
+
+                                                   ` 68 (A)
+
+(iv) Material mix variance
+       = (Revised std. qty. ­ Actual qty.) × Std. Price
+        Material A = (808 ­ 830) × 4 = 88 (A)
+
+Material B = (1,212 ­ 1,190) × 3= 66 (F)
+
+                                                   ` 22 (A)
+
+Check
+
+MUV = MMV + MYV
+
+90 (A) = 22 (A) + 68 (A)
+
+(v) Total material cost variance
+
+= Std. cost for actual output ­ Actual cost = 6,800 ­ 6,513.75 = 286.25 (F)
+
+Check
+
+MCV             = MPV + MUV
+
+286.25 (F) = 376.25 (F) + 90 (A)
+
+Working Notes:
+
+1. Standard quantity for actual output
+
+The standard loss being 15%. It means to produce, 1,700 kg. of the article,
+standard quantity of material required is:
+
+= 100 ×1,700 kgs. = 2,000 kg.
+
+   85
+
+© The Institute of Chartered Accountants of India
+   13.24 a                 COST AND MANAGEMENT ACCOUNTING
+
+Out of 2,000 kg. of material used, 40% is of type A and 60% is of type B, i.e.,
+
+Standard quantity for actual output for:
+
+Material A = 2,000× 40 = 800 kg.
+                            100
+
+Material B = 2,000× 60 = 1,200 kg.
+                            100
+
+2. Actual quantity of material
+       = Opening stock + Purchases ­ Closing stock
+        Material A = 35 + 800 ­ 5 = 830 kg.
+
+Material B = 40 + 1,200 ­ 50 = 1,190 kg.
+
+3. Standard cost per unit
+
+=  Total standard cost
+
+   Total standard output of std. mix
+
+=  ` 6, 800   = ` 4 per kg.
+
+   1,700 kg.
+
+4. Revised Standard Quantity
+        Material A = 2,020 ×800 = 808 kg.
+                           2, 000
+
+        Material B = 2,020 ×1,200 = 1,212 kg.
+                           2, 000
+
+7.2 Labour Cost Variance
+
+Amount paid to employees for their labour is generally known as employee or
+labour cost. In this chapter labour cost is used to denote employees cost. Labour
+(employee) cost variance is the difference between actual labour cost and
+standard cost. Mathematically it can be written as:
+
+© The Institute of Chartered Accountants of India
+             STANDARD COSTING                                    a 13.25           a
+
+   Labour Cost Variance = [Standard Cost ­ Actual Cost]
+                                                       Or
+
+                                         [(SH × SR) ­ (AH* × AR)]
+   (The difference between the Standard Labour Cost and the Actual Labour Cost
+   incurred for the production achieved)
+
+* Actual hours paid.
+
+Reasons for variance: Difference in labour cost arises either due to difference in
+the actual labour rate from the standard rate or difference in numbers of hours
+worked from standard hours. Labour cost variance can be divided into three parts
+namely (i) Labour Rate Variance (ii) Labour Efficiency Variance and (iii) Labour Idle
+time Variance.
+
+                                          Labour Cost Variance
+
+Labour Rate  Labour Efficiency                                   Labour Idle Time
+  Variance        Variance                                            Variance
+
+                                                   Labour Mix
+                                                    Variance
+
+                                                   Labour Yield
+                                                     Variance
+
+(A) Labour Rate Variance:
+Labour rate variance arises due to difference in actual rate paid from standard
+rate. It is very similar to material price variance. It is calculated as below:
+
+   Labour Rate Variance = [Standard Cost of Actual Time ­ Actual Cost]
+                                                        Or
+
+                     Actual Hours (AH*) × {Std. Rate (SR) ­ Actual Rate (AR)}
+                                                        Or
+
+                                         [(SR×AH*) ­ (AR × AH*)]
+   (The difference between the Standard Rate per hour and Actual Rate per hour for
+   the Actual Hours paid)
+* Actual hours paid.
+
+© The Institute of Chartered Accountants of India
+13.26 a  COST AND MANAGEMENT ACCOUNTING
+
+Responsibility for labour rate variance: Generally labour rates are influenced by
+the external factors which are beyond the control of the organisation. However,
+personnel manager is responsible for labour rate negotiation.
+
+(B) Labour Efficiency Variance:
+
+Labour efficiency variance arises due to deviation in the working hours from
+the standard working hours.
+
+   Labour Efficiency Variance =
+   [Standard Cost of Standard Time for Actual Production ­ Standard Cost of Actual
+   Time]
+
+                                                        Or
+                     Std. Rate (SR) × {Std. Hours (SH) ­ Actual Hours (AH*)}
+
+                                                        Or
+                                          [(SH × SR) ­ (AH# × SR)]
+   (The difference between the Standard Hours specified for actual production and
+   Actual Hours worked at Standard Rate).
+
+# Actual Hours worked
+
+Responsibility for labour efficiency variance: Efficiency variance may arise due
+to ability of the workers, inappropriate team of workers, inefficiency of production
+manager or foreman etc. However, production manager or foreman can be held
+responsible for the adverse variance which otherwise can be controlled.
+
+Labour efficiency variance is further divided into the following variances:
+
+(a) Labour Mix Variance or Gang variance
+
+(b) Labour Yield Variance (or Labour Revised-efficiency Variance)
+
+(a) Labour Mix Variance:
+
+Labour efficiency variance which arises due to change in the mix or
+combination of different skill set i.e. number of skilled workers, semi-skilled
+workers and un-skilled workers. Mathematically,
+
+   Labour Mix Variance Or Gang Variance =
+   [Standard Cost of Actual Time Worked in Standard Proportion ­ Standard Cost of
+   Actual Time Worked]
+
+                                                       Or
+
+© The Institute of Chartered Accountants of India
+STANDARD COSTING                                   a 13.27  a
+
+         Std. Rate (SR) × {Revised Std. Hours (RSH) ­ Actual Hours Worked (AH)}
+                                                       Or
+
+                                        [(RSH × SR) ­ (AH# × SR)]
+   (The difference between the Actual Hours worked in standard proportion and
+   Actual Hours worked in actual proportion, at Standard Rate).
+
+# Actual Hours worked
+
+(b) Labour Yield Variance:
+
+Labour efficiency variance which arises due to productivity of workers.
+
+ Labour Yield Variance Or Sub-Efficiency Variance =
+  [Standard Cost of Standard Time for Actual Production ­ Standard Cost of Actual
+ Time Worked in Standard Proportion]
+
+                                                      Or
+                Std. Rate (SR) × {Std. Hours (SH) ­ Revised Std. Hours (RSH)}
+
+                                                      Or
+                                        [(SH × SR) ­ (RSH × SR)]
+ (The difference between the Standard Hours specified for actual production and
+ Actual Hours worked in standard proportion, at Standard Rate).
+
+(C) Idle Time Variance:
+
+It is calculated for the idle hours. It is difference between paid and worked hours.
+It is calculated as below:
+
+   Labour Idle Time Variance = [Standard Rate per Hour × Actual Idle Hours]
+                                                       Or
+
+                       Std. Rate (SR) {Actual HoursPaid ­ Actual HoursWorked}
+                                                       Or
+
+                                          [(AH*× SR) ­ (AH# ×SR)]
+   (The difference between the Actual Hours paid and Actual Hours worked at
+   Standard Rate)
+
+* Actual hours paid; # Actual Hours worked
+
+© The Institute of Chartered Accountants of India
+           13.28 a                COST AND MANAGEMENT ACCOUNTING
+
+Verification of formulae:
+
+Labour Cost Variance = Labour Rate Variance + Labour Efficiency Variance (if hours
+                                                                 paid and hours worked is same)
+
+                                                   OR
+
+Labour Cost Variance = Labour Rate Variance + Idle Time Variance + Labour
+                                                                       Efficiency Variance
+
+                                                   OR
+
+Labour Efficiency Variance = Labour Mix Variance + Labour Yield Variance
+
+ILLUSTRATION 5
+
+The standard and actual figures of a firm are as under
+
+Standard time for the job                          1,000 hours
+
+Standard rate per hour                                 ` 50
+
+Actual time taken                                  900 hours
+
+Actual wages paid                                      ` 36,000
+
+CALCULATE variances.
+
+SOLUTION
+
+(a) Std. labour cost                                   (`)
+
+(1,000 hours × `50)                                    50,000
+
+(b) Actual wages paid                                  36,000
+
+(c) Actual rate per hour: ` 36,000/900 hours = `40
+
+Variances
+
+(i) Labour Rate variance                           = Actual time (Std. rate ­ Actual rate)
+
+                                                   = 900 hours (`50 ­ `40) = `9,000 (F)
+
+(ii) Efficiency variance                           = Std. rate per hr. (Std. time ­ Actual time)
+
+                                                   = `50 (1,000 hrs. ­ 900 hrs.) = `5,000 (F)
+
+(iii) Total labour cost variance                   = Std. labour cost ­ Actual labour cost
+
+                                                   = {(`50 × 1,000 hours) ­ `36,000}
+
+                                                   = (`50,000 ­ `36,000) = `14,000 (F)
+
+© The Institute of Chartered Accountants of India
+                          STANDARD COSTING                            a 13.29     a
+
+ILLUSTRATION 6
+The standard output of product `EXE' is 25 units per hour in manufacturing
+department of a company employing 100 workers. The standard wage rate per labour
+hour is ` 6.
+In a 42 hours week, the department produced 1,040 units of `EXE' despite 5% of the
+time paid being lost due to an abnormal reason. The hourly wages actually paid were
+` 6.20, ` 6 and ` 5.70 respectively to 10, 30 and 60 of the workers.
+CALCULATE relevant labour variances.
+
+SOLUTION
+Working Notes:
+1. Calculation of standard man hours
+
+       When 100 worker works for 1 hr., then the std. output is 25 units.
+
+       Std. man hour per unit = 100 hrs. = 4 hrs.
+
+                                                 25 units
+
+2. Calculation of std. man hours for actual output
+
+       Total std. man hours = 1,040 units × 4 hrs. = 4,160 hrs.
+
+Standard for actual                                           Actual
+
+Hours Rate Amount No. of                           Actual  Idle  Production Rate  Amount
+                                                   hours   time                     paid
+(`)      (`) workers                                paid   hrs.  hours  (`)           (`)
+                                                                                    2,604
+4,160 6  24,960      10                              420    21   399    6.20
+
+                     30                            1,260 63      1,197  6.00 7,560
+
+                     60                            2,520 126     2,394  5.70 14,364
+
+4,160 6 24,960       100                           4,200 210     3,990            24,528
+
+1. Labour cost variance
+       = Std. labour cost ­ Actual labour cost
+       = 24,960 ­ 24,528 = ` 432 (F)
+
+© The Institute of Chartered Accountants of India
+13.30 a                  COST AND MANAGEMENT ACCOUNTING
+
+2. Labour rate variance
+
+= (SR ­ AR) × AHPaid
+
+= (6 ­ 6.20) × 420 = 84 (A)
+
+= (6 - 6) × 1260         = NIL
+
+= (6 - 5.70) × 2,520 = 756 (F)
+
+                         = 672 (F)
+
+3. Labour efficiency variance
+
+= (SH ­ AH) × SR
+
+= (4,160 ­ 3,990) × 6 = 1,020 (F)
+
+4. Labour Idle time variance
+
+       = Idle Hours × SR
+
+       = 210 × 6 = 1,260 (A)
+
+ILLUSTRATION 7
+
+NPX Ltd. uses standard costing system for manufacturing of its product X. Following
+is the budget data given in relation to labour hours for manufacture of 1 unit of
+Product X :
+
+   Labour                Hours                     Rate (`)
+                                                           6
+   Skilled                    2                            4
+Semi-Skilled                  3                            3
+Un- Skilled                   5
+                             10
+    Total
+
+In the month of January, total 10,000 units were produced following are the details:
+
+   Labour               Hours                      Rate (`)    Amount (`)
+   Skilled              18,000                              7      1,26,000
+Semi-Skilled            33,000                                     1,15,500
+ Un-Skilled             58,000                           3.5       2,32,000
+    Total             1,09,000                              4      4,73,500
+
+© The Institute of Chartered Accountants of India
+                                 STANDARD COSTING                          a 13.31      a
+
+Actual Idle hours (abnormal) during the month:
+
+Skilled:                500
+
+Semi- Skilled:          700
+
+Unskilled:              800
+
+Total                   2,000
+
+CALCULATE:
+
+(a) Labour Variances.
+
+(b) Also show the effect on Labour Rate Variance if 5,000 hours of Skilled Labour
+       are paid @ ` 5.5 per hour and balance were paid @ ` 7 per hour.
+
+SOLUTION
+
+Working Notes:
+
+                Budget                             Standard for actual     Actual
+
+            Hours Rate Amount Hours Rate Amount Hours Rate Amount
+
+                     (`) (`)                       (`) (`)                 (`) (`)
+
+Skilled 2            6       12  20,000 6 1,20,000 18,000 7 1,26,000
+
+Semi-       3        4       12  30,000 4 1,20,000 33,000 3.5 1,15,500
+
+skilled
+
+Unskilled 5          3       15  50,000 3 1,50,000 58,000 4 2,32,000
+
+            10               39 1,00,000           3,90,000 1,09,000                4,73,500
+
+          Skilled                Idle Hours        Hours worked
+       Semi-skilled                       500                 17,500
+                                          700                 32,300
+        Unskilled                         800                 57,200
+
+                                       2,000              1,07,000
+
+(a) (i) Labour Cost Variance= (SH×SR ­ AH×AR)
+
+            Skilled              20,000 × 6 ­ 18,000× 7                 =  ` 6,000 (A)
+                                                                           ` 4,500 (F)
+            Semi-Skilled 30,000 ×4 ­ 33,000 × 3.5 =
+
+© The Institute of Chartered Accountants of India
+13.32 a        COST AND MANAGEMENT ACCOUNTING
+
+Unskilled      50,000× 3 ­ 58,000 × 4                       =  ` 82,000 (A)
+
+Total                                                          ` 83,500 (A)
+
+(ii) Labour Rate Variance = (SR ­ AR )×AHPaid
+
+Skilled        (6 ­ 7) × 18,000                             =  ` 18,000 (A)
+
+Semi-Skilled (4 ­ 3.5) × 33,000                             =  ` 16,500 (F)
+
+Unskilled      (3 ­ 4) × 58,000                             =  ` 58,000 (A)
+
+Total                                                          ` 59,500 (A)
+
+(iii) Labour Efficiency Variance = (SH ­ AH) × SR
+
+Skilled        (20,000 ­17,500) ×6                          =  ` 15,000 (F)
+
+Semi- Skilled (30,000 ­32,300) ×4                           =  ` 9,200 (A)
+
+Unskilled      (50,000 ­57,200)×3                           =  ` 21,600 (A)
+
+Total                                                          ` 15,800 (A)
+
+(iv) Labour Idle Time Variance = (Idle Hours × SR)
+
+Skilled                                            500 × 6  =  ` 3,000 (A)
+
+Semi- Skilled                                      700 × 4  =  ` 2,800 (A)
+
+Unskilled                                          800 × 3  =  ` 2,400 (A)
+
+Total                                                          ` 8,200 (A)
+
+(v) Labour Mix Variance = (RSH ­ AHWorked )×SR
+       Revised Std. hours (RSH) = Std.Hours ×TotalActual Hours
+                                               TotalStd.hours
+
+Skilled        ( 20,000 ×1,07,000 ­ 17,500) × 6 = ` 23,400 (F)
+Semi- Skilled   1,00,000
+Unskilled      ( 30,000 ×1,07,000 ­ 32,300) × 4 = ` 800 (A)
+                1,00,000
+               ( 50,000 ×1,07,000 - 57,200) × 3 = ` 11,100 (A)
+                1,00,000
+
+Total                                                          ` 11,500 (F)
+
+© The Institute of Chartered Accountants of India
+                           STANDARD COSTING                    a 13.33       a
+
+(vi) Labour Yield Variance = (SH ­ RSH) × SR
+
+       Skilled             (20,000 ­ 20,000 ×1,07,000 ) × 6 =` 8,400 (A)
+                                        1,00,000
+
+       Semi- Skilled       (30,000 ­ 30,000 ×1,07,000 ) × 4 = ` 8,400 (A)
+                                        1,00,000
+
+       Unskilled           (50,000 - 50,000 ×1,07,000 ) × 3 = ` 10,500 (A)
+                                        1,00,000
+
+       Total                                                                 ` 27,300 (A)
+
+(b) Labour Rate Variance = (SR ­ AR) ×AHPaid
+
+Skilled           (6 ­ 5.5) ×5,000
+
+                  (6 ­ 7) ×13,000                           =  ` 10,500 (A)
+
+Semi- Skilled (4 ­ 3.5) ×33,000                             =  ` 16,500 (F)
+
+Unskilled         (3 ­ 4) × 58,000                          =  ` 58,000 (A)
+
+Total                                                          ` 52,000 (A)
+
+ILLUSTRATION 8
+
+The standard labour employment and the actual labour engaged in a week for a job
+are as under:
+
+Standard no. of workers in the gang                Skilled     Semi-skilled  Unskilled
+Actual no. of workers employed                     workers        workers     workers
+Standard wage rate per hour
+Actual wage rate per hour                             32             12           6
+                                                      28             18           4
+                                                       3              2           1
+                                                       4              3           2
+
+During the 40 hours working week, the gang produced 1,800 standard labour hours
+of work. CALCULATE:
+
+(a) Labour Cost Variance                           (b) Labour Rate Variance
+
+(c) Labour Efficiency Variance (d) Labour Mix Variance
+
+(e) Labour Yield Variance
+
+© The Institute of Chartered Accountants of India
+           13.34 a          COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION
+
+Workings:
+
+1. Standard hours (SH)for actual hours produced are calculated as below:
+
+              Skilled       =  1,800               × 1,280    = 1,152 hrs.
+              Semi-skilled                                    = 432 hrs.
+              Unskilled        2,000                          = 216 hrs.
+
+                            =  1,800               × 480
+
+                               2,000
+
+                            =  1,800               × 240
+
+                               2,000
+
+2. Actual hours (AH) paid are calculated as below:
+
+Category      No. of Worker                        Hours in a week           Total Hours
+Skilled                  28                                   40                      1,120
+Semi-skilled             18                                   40                        720
+Unskilled                 4                                   40                        160
+                                                                                      2,000
+
+3. For 40 hours week total Revised standard hours (RSH) will be calculated as
+       below:
+
+Category            No. of Worker                           Hours in a week  Total Hours
+Skilled                     32                                       40               1,280
+Semi-skilled                12                                       40                 480
+Unskilled                    6                                       40                 240
+                                                                                      2,000
+
+Calculations
+
+ Category     SH × SR                              AH × SR    AH × AR         RSH × SR
+of workers
+Skilled       1,152 × 3                            1,120 × 3  1,120 × 4            1,280 × 3
+                = 3,456                              = 3,360    = 4,480              = 3,840
+Semi-skilled
+Unskilled     432 × 2 = 864 720 × 2 = 1,440 720 × 3 = 2,160                  480 × 2 = 960
+Total                                                                        240 × 1 = 240
+              216 × 1 = 216 160 × 1 = 160 160 × 2 = 320
+                                                                                      ` 5,040
+                    ` 4,536                        ` 4,960    ` 6,960
+
+© The Institute of Chartered Accountants of India
+                     STANDARD COSTING                          a 13.35    a
+
+(i) Labour Cost Variance = Std. Cost for hours worked ­ Actual cost paid
+
+                     = (SH × SR) ­ (AH × AR)
+
+                     = `4,536 ­ 6,960 = `2,424 (A)
+
+(ii) Labour Rate Variance = AH (SR ­ AR) or (AH × SR) ­ (AH × AR)
+
+       Skilled       = 3,360 ­ 4,480               = `1,120 (A)
+
+       Semi-skilled  = 1,440 ­ 2,160               = `720 (A)
+
+       Unskilled     = 160 - 320                   = `160 (A) 2,000 (A)
+
+(iii) Labour Efficiency Variance= SR (SH ­ AH) or (SR × SH) ­ (SR × AH)
+
+       Skilled       = 3,456 ­ 3,360               = `96 (F)
+
+       Semi-skilled  = 864 ­ 1,440                 = `576 (A)
+
+       Unskilled     = 216 ­ 160                   = `56 (F) `424 (A)
+
+(iv) Labour Mix Variance = SR (RSH ­ AH) or (SR × RSH) ­ (SR × AH)
+
+       Skilled       = 3,840 ­ 3,360               = `480 (F)
+
+       Semi-skilled  = 960 ­ 1,440                 = `480 (A)
+
+       Unskilled     = 240 - 160                   = ` 80 (F)            `80 (F)
+
+(v) Labour Yield Variance = SR (SH ­ RSH) or (SR × SH ­ SR × RSH)
+
+       Skilled       = 3,456 - 3,840               = `384 (A)
+
+       Semi-skilled  = 864 - 960                   = `96 (A)
+
+       Unskilled     = 216 - 240                   = ` 24 (A)            `504 (A)
+
+Check
+
+(i) LCV              = LRV + LEV
+
+`2,424 (A)           = `2,000 (A) + `424 (A)
+
+(ii) LEV             = LMV + LYV
+
+`424 (A)             = `80 (F) + `504 (A)
+
+© The Institute of Chartered Accountants of India
+      13.36 a            COST AND MANAGEMENT ACCOUNTING
+
+7.3 Variable Overhead Cost Variance
+
+                         Variable Overhead Cost Variance
+
+      Variable Overhead Expenditure                      Variable Overhead Efficiency
+                    Variance                                          Variance
+
+Variable overheads consist of expenses other than direct material and direct labour
+which vary with the level of production. If variable overhead consist of indirect
+materials, then in this case it varies with the direct material used. On the other hand,
+if variable overhead is depending on number of hours worked then in this case it
+will vary with labour hour or machine hours. If nothing is mentioned specifically
+then we take labour hour as basis. Variable overhead cost variance calculation is
+similar to labour cost variance. Variable overhead cost variance is divided into two
+parts (i) Variable Overhead Expenditure Variance and (ii) Variable Overhead
+Efficiency Variance.
+
+                                 Variable Overhead Cost Variance
+   (Standard Variable Overheads for Actual Production ­ Actual Variable Overheads)
+
+          Variable Overhead                              Variable Overhead
+Expenditure (Spending) Variance                          Efficiency Variance
+
+(Standard Variable Overheads for (Standard Variable Overheads for
+
+Actual Hours#)                                     Production)
+
+Less                                               Less
+
+(Actual Variable Overheads)                        (Standard Variable Overheads for
+              [(SR ­ AR) × AH#]                    Actual Hours#)
+                        Or
+                                                                 [(SH ­ AH#) × SR]
+        [(SR × AH#) ­ (AR × AH#)]
+                                                                           Or
+                                                            [(SH × SR) ­ (AH# × SR)]
+
+# Actual Hours (Worked)
+
+© The Institute of Chartered Accountants of India
+                              STANDARD COSTING                                a 13.37  a
+
+Meaning of the terms used in the formulae:
+
+                   Term                                   Meaning
+
+Standard Hours (SH)           Hours required producing actual output.
+Actual Hours (AH)             Actual Hours taken to produce actual output.
+Revised Standard Hours (RSH)  If actual labour hours worked were worked by
+                              standard mix (combination) of labour.
+Actual Yield (AY)             Actual Hours worked
+Standard Yield (SY)           Actual hours if labour worked in standard
+                              ratio
+Standard Labour Cost (SLC)    Standard labour cost for actual output
+
+ILLUSTRATION 9
+
+From the following information of G Ltd., calculate (i) Variable Overhead Cost
+Variance; (ii) Variable Overhead Expenditure Variance and (iii) Variable Overhead
+Efficiency Variance:
+
+Budgeted Production                                             6,000 units
+Budgeted Variable Overhead                                       ` 1,20,000
+Standard time for one Unit of output
+Actual Production                                                    2 hours
+Actual Overhead Incurred                                        5,900 units
+Actual Hours Worked                                              ` 1,22,000
+                                                              11,600 hours
+
+SOLUTION
+
+Workings:
+1. Standard cost per unit = `1,20,000 = `20
+
+                                            6,000units
+
+2. Standard cost per hour =                        `1,20,000  = `10
+
+                              6,000units×2hours
+
+(i) Variable Overhead Cost Variance:
+       = Std. Overhead for actual production ­ Actual overhead incurred
+       = `20 × 5,900 units ­ `1,22,000 = `4,000 (A)
+
+© The Institute of Chartered Accountants of India
+13.38 a  COST AND MANAGEMENT ACCOUNTING
+
+(ii) Variable Overhead Expenditure Variance:
+
+       = Std. overhead for Actual hours ­ Actual Overhead
+
+       = `10 ×11,600 hours - `1,22,000 = `6,000 (A)
+
+(iii) Variable Overhead Efficiency Variance:
+
+       = Std.rate per hour × (Std. hours for actual production ­ Actual hours)
+
+       = `10 (2 hours × 5,900 units ­ 11,600 hours) = `2,000 (F)
+
+7.4 Fixed Overhead Cost Variance
+
+The recovery of the fixed components of the estimated overheads depends upon
+capacity utilization.
+
+In case a company produces less than the projected utilization it shall not be able
+to recover all the budgeted fixed overheads. This unrecovered portion is known as
+production volume variance.
+
+The other variance is because of variations in actual spending when compared with
+both estimated fixed and estimated variable overheads. Such a variance is known
+as Overhead expenses variance.
+
+The following detailed discussion shall help you have a clear understanding of these
+two variances.
+
+(1) Production Volume Variance: The term fixed overheads implies that the
+element of cost does not vary directly in proportion to the output. In other words,
+fixed overheads do not change within a given range of activity.
+
+However, the unit cost changes even though the fixed overheads are constant in
+total within the given range of output. So, higher the level of activity, the lower will
+be the unit cost or vice versa.
+
+The management is, therefore, faced with a costing difficulty because it requires a
+representative rate for charging fixed overheads irrespective of changes in volume
+of output. For example, if the fixed overheads are ` 10,000 and the output varies
+from 8,000 to 11,000 units, the cost per unit of output would be as under:
+
+© The Institute of Chartered Accountants of India
+                 STANDARD COSTING                  a 13.39  a
+
+Fixed Overheads  Output in units                   Cost per unit of output (`)
+
+      10,000           8,000                                     1.25
+      10,000           9,000                                     1.11
+      10,000          10,000                                     1.00
+      10,000          11,000                                     0.91
+
+We have, however, seen that in standard costing, a predetermined rate of overhead
+recovery is established for costing purposes. This involves the establishment of a
+predetermined capacity.
+
+If we take, for example; 10,000 units as predetermine volume/capacity, the pre-
+determined rate will be `1 per unit. If the factory produces only 8,000 units, there
+will be a loss due to under-recovery which can be explained in two-ways:
+
+(a) The actual cost will be `10,000 ÷ 8,000 units = `1.25 per unit whereas the
+       absorbed cost is `1 per hour. Since the cost is more by `0.25 per unit, the
+       total loss is 8,000 units × ` 0.25 or ` 2,000.
+
+(b) Since the factory has produced only 8,000 units, the amount of overheads
+       recovered is 8,000 units × `1 or ` 8,000. Since fixed overheads are constant,
+       the amount which should have been ideally incurred for the department is
+       `10,000. Hence there is a difference of `2,000 between the overheads
+       recovered and the overheads estimated. This variance is known as production
+       volume variance.
+
+This shows the cost of failure on the part of the factory to produce at the planned
+activity of 10,000 units. If the company produces 11,000 units, the variance will
+show the benefits of operating at a level above the budgeted activity. If, however,
+the factory has produced 10,000 units, there will be no production volume variance
+because the actual activity equals what was budgeted i.e. the production of 10,000
+units.
+
+(2) Overhead Expenses Variance: As discussed above, the Production Volume
+Variance analyses the unrecovered fixed overheads. Apart from this, there can be
+variations in the actual spending of both fixed and variable overheads when
+compared to what was established as a standard. Such variations can be accounted
+for by analyzing an overhead expenses variance.
+
+© The Institute of Chartered Accountants of India
+13.40 a         COST AND MANAGEMENT ACCOUNTING
+
+The analysis of overhead variances is different from that of material and labour
+variances. As overhead is the aggregate of indirect materials, indirect labour and
+indirect expenses, this variance is considered to be a difficult part of variance
+analysis. It is important to understand that overhead variance is nothing but under
+or over-absorption of overhead.
+
+Fixed Overhead Cost Variance: Fixed overhead cost variance is the difference
+between actual fixed overhead and absorbed fixed overhead. Fixed overhead
+variance is divided into two parts (A) Fixed Overhead Expenditure Variance and (B)
+Fixed Overhead Volume Variance.
+
+(A) Fixed Overhead Expenditure Variance: This is the difference between the
+       actual fixed overhead incurred and budgeted fixed overhead.
+
+(B) Fixed Overhead Volume Variance: Variance in fixed overhead which arise
+       due to the volume of production is called fixed overhead volume variance.
+
+Fixed overhead volume variance is further divided into the three variances:
+
+(a) Efficiency Variance
+
+(b) Capacity Variance and
+
+(c) Calendar Variance
+
+Fixed Overhead
+ Cost Variance
+
+ Fixed OH       Fixed OH Volume
+Expenditure          Variance
+
+  Variance
+
+FOH Efficiency  FOH Capacity                       FOH Calender
+   Variance        Variance                           Variance
+
+© The Institute of Chartered Accountants of India
+                       STANDARD COSTING            a 13.41                     a
+
+         Mathematically these can be written as follows:
+
+                 Fixed Overhead Cost Variance
+(Absorbed Fixed Overheads) Less (Actual Fixed Overheads)
+
+                        (SH × SR) ­(AH × AR)
+
+Fixed Overhead Expenditure                          Fixed Overhead Volume
+              Variance                                          Variance
+
+ (Budgeted Fixed Overheads)                        (Absorbed Fixed Overheads)
+                 Less                                              Less
+
+   (Actual Fixed Overheads)                        (Budgeted Fixed Overheads)
+                  Or                                                Or
+
+     (BH × SR) ­ (AH × AR)                             (SH × SR) ­ (BH × SR)
+
+   Fixed Overhead            Fixed Overhead           Fixed Overhead
+ Capacity Variance         Calendar Variance        Efficiency Variance
+
+     SR (AH ­ BH)      Std. Fixed Overhead rate         SR (SH ­ AH)
+            Or           per day (Actual no. of                Or
+
+(AH × SR) ­ (BH × SR)  Working days ­ Budgeted     (SH × SR) ­ (AH × SR)
+                              Working days)
+
+(a) Fixed Overhead Efficiency Variance: This is the difference between fixed
+       overhead absorbed and standard fixed overhead.
+
+(b) Fixed Overhead Capacity Variance: This is the difference between standard
+       fixed overhead and budgeted overhead.
+
+(c) Fixed Overhead Calendar Variance: This variance arises due to difference in
+       number of actual working days and the standard working days.
+
+Note: When calendar variance is computed, there will be a modification in the
+capacity variance. In that case revised capacity variance will be calculated and the
+formula is:
+
+Revised Capacity Variance = (Actual hours ­ Revised budgeted hours) × Std. fixed
+rate per hour
+
+© The Institute of Chartered Accountants of India
+13.42 a                    COST AND MANAGEMENT ACCOUNTING
+
+Verification of formulae:
+
+F.O. Cost Variance         = F.O. Expenditure Variance + F.O. Volume Variance
+
+F.O. Volume Variance       = Efficiency Variance + Capacity Variance + Calendar
+                               Variance
+
+Basic terms used in the computation of overhead variance
+         Standard overhead rate (per hour) = Budgeted Overhead
+                                                                Budgeted hours
+
+                                             Or
+Standard overhead rate (per unit) = Budgeted Overhead
+
+                                                  Budgeted output in units
+
+Note: Separate overhead rates will be computed for fixed and variable overheads.
+Basic calculations before the computation of overhead variances:
+The following basic calculation should be made before computing variances.
+(i) When overhead rate per hour is used:
+
+       (a) Standard hours for actual output (SHAO)
+
+SHAO = BudgetedHours ×Actual Output
+            Budgeted Output
+
+       (b) Absorbed (or Recovered) overhead = Std. hours for actual output × Std.
+                                                                     overhead rate per hour
+
+       (c) Standard overhead = Actual hours × Std. overhead rate per hour
+       (d) Budgeted overhead = Budgeted hours × Std. overhead rate per hour
+       (e) Actual overhead = Actual hours × Actual overhead rate per hour
+(ii) When overhead rate per unit is used
+       (a) Standard output for actual hours (SOAH)
+
+               SOAH = Budgeted Output×Actual Hours
+                             Budgeted Hours
+
+(b) Absorbed overhead = Actual output × Std. overhead rate per unit
+
+© The Institute of Chartered Accountants of India
+                              STANDARD COSTING           a 13.43          a
+
+(c) Standard overhead = Std. output for actual time × Std. overhead
+                                           rate per unit
+
+(d) Budgeted overhead = Budgeted output × Std. overhead rate per unit
+
+(e) Actual overhead           = Actual output × Actual overhead rate per unit
+
+(f) Overhead cost variance = Absorbed overhead ­ Actual overhead
+
+(g) OCV                       = (Std. hours for actual output × Std. overhead
+                                  rate) ­ Actual overhead
+
+ILLUSTRATION 10
+
+The cost detail of J&G Ltd. for the month of September is as follows:
+
+Fixed overhead                                            Budgeted                Actual
+Units of production                                      ` 15,00,000       ` 15,60,000
+Standard time for one unit
+Actual hours worked                                              7,500              7,800
+                                                              2 hours                     -
+
+                                                                       -  16,000 hours
+
+Required:
+
+CALCULATE (i) Fixed Overhead Cost Variance (ii) Fixed Overhead Expenditure
+Variance (iii) Fixed Overhead Volume Variance (iv) Fixed Overhead Efficiency
+Variance and (v) Fixed Overhead Capacity Variance.
+
+SOLUTION
+
+(i) Fixed Overhead Cost Variance:
+
+= Overhead absorbed for actual production ­ Actual overhead incurred
+
+=    `15,00,000  ×7,800       - `15, 60, 000       =  0
+        7,500               
+
+(ii) Fixed Overhead Expenditure Variance:
+
+= Budgeted overhead ­ Actual overhead
+
+= `15,00,000 - `15,60,000 = `60,000 (A)
+
+© The Institute of Chartered Accountants of India
+     13.44 a             COST AND MANAGEMENT ACCOUNTING
+
+(iii) Fixed Overhead Volume Variance:
+
+= Absorbed overhead ­ Budgeted overhead
+
+=    `15,00,000  ×7,800  -  `15,00,000             =  `60,000  (F)
+        7,500
+
+(iv) Fixed Overhead Efficiency Variance:
+
+= Std. Rate (Std. hours for actual production - Actual hours)
+
+=  `15,00,000  × {(2 hours × 7,800 hours) -16,000 hours}
+
+   7,500×2
+
+= `100 (15,600 -16,000) = `40,000 (A)
+
+(v) Fixed Overhead Capacity Variance:
+
+= Std. Rate (Actual hours - Budgeted hours)
+
+=  `15,00,000× (16,000 hours -15,000 hours}
+
+   7,500×2
+
+= `100 (16,000- 15,000) = `1,00,000 (F)
+
+ILLUSTRATION 11
+
+A company has a normal capacity of 120 machines, working 8 hours per day of 25
+days in a month. The fixed overheads are budgeted at ` 1,44,000 per month. The
+standard time required to manufacture one unit of product is 4 hours.
+
+In April 2021, the company worked 24 days of 840 machine hours per day and
+produced 5,305 units of output. The actual fixed overheads were ` 1,42,000.
+
+COMPUTE the following Fixed Overhead variance:
+
+1. Efficiency variance
+
+2. Capacity variance
+
+3. Calendar variance
+
+4. Expenditure variance
+
+5. Volume variance
+
+6. Total Fixed overhead variance
+
+© The Institute of Chartered Accountants of India
+STANDARD COSTING                                                             a 13.45  a
+
+SOLUTION                                                         Budget                   Actual
+Working Notes:                                                                          1,42,000
+                                                                1,44,000
+ (1) Fixed overheads for the month                                                              24
+ (2) Working days per month                                              25     (840 machines
+ (3) Working hours per month                                                 hours × 24 days)
+                                                   (120 machines × 8
+ (4) Production units per month                         hrs. × 25 days)                 = 20,160
+                                                                = 24,000
+                                                                                            5,305
+                                                   24,000 hrs. = 6,000
+
+                                                       4 hrs.
+
+(5) Standard hours for actual production                = `1, 44,000 = ` 24
+       = Actual production units × Std. hours per unit     6000 units
+       = 5,305 × 4 = 21,220 hrs.
+                                                        = `1, 44,000 = ` 6
+(6) Standard fixed overhead rate per unit                  24,000 hrs.
+
+(7) Standard fixed overhead rate per hour               = `1, 44,000 = ` 5,760
+
+(8) Standard fixed overhead per day                          25 days
+
+1. Efficiency variance
+       = Std. rate per hr. (Std. hrs. for actual production ­ Actual hrs.)
+       = 6 × (21,220 ­ 20,160) = ` 6,360 (F)
+
+2. Capacity variance
+       = Std. Rate (Actual hours - Budgeted hours)
+       = 6 × {20,160 ­ (24 days × 120 machine × 8 hrs.)} = ` 17,280 (A)
+
+3. Calendar variance
+       = (Actual No. of days ­ Budgeted No. of days) × Std. rate per day
+       = (24 ­ 25) × 5,760 = ` 5,760 (A)
+
+© The Institute of Chartered Accountants of India
+13.46 a                    COST AND MANAGEMENT ACCOUNTING
+
+4. Expenditure variance
+       = Budgeted overhead ­ Actual overhead
+       = 1,44,000 ­ 1,42,000 = ` 2,000 (F)
+
+5. Volume variance
+       = Absorbed overhead ­ Budgeted overhead
+       = (5,305 × 24) ­ 1,44,000 = ` 16,680 (A)
+
+6. Total fixed overhead Variance
+       = Absorbed overhead ­ Actual overhead incurred
+       = (5,305 × 24) ­ 1,42,000 = ` 14,680 (A)
+
+ILLUSTRATION 12
+The overhead expense budget for a factory producing to a capacity of 200 units per
+month is as follows:
+
+  Description of overhead     Fixed cost           Variable cost per         Total cost
+                           per unit in `                       unit in `  per unit in `
+Power and fuel
+Repair and maintenance             1,000                            500           1,500
+Printing and stationary               500                           250              750
+Other overheads                       500                           250              750
+                                                                    500
+                                   1,000                       ` 1,500            1,500
+                                ` 3,000                                           4,500
+
+The factory has actually produced only 100 units in a particular month. Details of
+overheads actually incurred have been provided by the accounts department and are
+as follows:
+
+Description of overhead                            Actual cost
+Power and fuel                                       ` 4,00,000
+Repair and maintenance                               ` 2,00,000
+Printing and stationary                              ` 1,75,000
+Other overheads                                      ` 3,75,000
+
+You are required to CALCULATE the Overhead volume variance and the overhead
+expense variances.
+
+© The Institute of Chartered Accountants of India
+                                STANDARD COSTING                             a 13.47      a
+
+SOLUTION
+
+Overheads volume variance (in case of fixed overhead):
+
+Standard fixed overheads per unit (SR): `3,000 (Given)
+
+Actual production                                               : 100 units
+
+Standard production (capacity)                                  : 200 units
+
+Fixed Overhead Volume Variance:
+
+= Absorbed overhead ­ Budgeted Overhead
+
+= (`3,000× 100 units) ­ (`3,000× 200 units)
+
+= `3,00,000 - `6,00,000 = `3,00,000 (Adverse)
+
+Overhead expense variances
+
+= Budgeted Overhead ­ Actual Overhead
+
+= (`3,000 × 200 units) ­ (Total overhead ­ Variable overhead)
+
+= (`3,000 × 200 units) ­ (`11,50,000 - `1,500×100 units)
+
+= `6,00,000 ­ (`11,50,000 - `1,50,000)
+
+= `6,00,000 ­`10,00,000 = `4,00,000 (Adverse)
+
+ILLUSTRATION 13
+
+The following information was obtained from the records of a manufacturing unit
+using standard costing system.
+
+Production                                          Standard                    Actual
+Working days
+Machine hours                                      4,000 units               3,800 units
+Fixed Overhead                                          20                        21
+Variable Overhead
+                                                   8,000 hours               7,800 hours
+                                                   ` 4,00,000                ` 3,90,000
+                                                    `1,20,000                 `1,20,000
+
+You are required to CALCULATE the following overhead variance:
+(a) Variable overhead variances
+(b) Fixed overhead variances
+
+© The Institute of Chartered Accountants of India
+     13.48 a                COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION
+
+(a) Variable Overhead Variances
+
+(i) Variable Overhead Variance:
+
+= Std. overhead for actual production ­ Actual overhead
+
+= ( `1,20,000 ×3,800units) - `1,20,000
+
+     4,000units
+
+= `1,14,000 ­ `1,20,000 = `6,000 (A)
+
+(ii) Variable Overhead Expenditure Variance:
+
+= Std. overhead for actual hours ­ Actual overhead
+
+= ( ` 1,20,000 ×7,800hours)- `1,20,000
+
+     8,000hours
+
+= `15 × 7,800 hours - `1,20,000 = `3,000 (A)
+
+(iii) Variable Overhead Efficiency Variance:
+
+= Std. Rate per hour (Std. hours for actual production ­ Actual hours)
+
+=   ` 1, 20, 000   ×    8,000hours                 ×3,800units    -                 
+   8,000 hours          4,000units                                   7,800hours
+                                                                
+                                                                                    
+
+= `15 × (7,600 hours ­ 7,800 hours) = `3,000 (A)
+
+(b) Fixed Overhead Variance:
+
+(i) Fixed Overhead Variance:
+
+= Absorbed overhead ­ Actual overhead
+
+=    ` 4,00,000    ×3, 800  units    -             `3,90,000
+     4, 000 units                  
+                                   
+
+= `3,80,000 - `3,90,000 = 10,000 (A)
+
+(ii) Fixed Overhead Expenditure Variance:
+
+= Budgeted Overhead ­ Actual Overhead
+
+= `4,00,000 - `3,90,000 = `10,000 (F)
+
+© The Institute of Chartered Accountants of India
+                                  STANDARD COSTING                 13.49
+
+(iii) Fixed Overhead Volume Variance:
+
+= Absorbed overhead ­ Budgeted Overhead
+
+=    ` 4,00,000 ×3,800                             -  `4,00,000
+     4,000 units          units 
+   
+                                
+
+= ` 3,80,000 - `4,00,000 = `20,000 (A)
+
+(iv) Fixed Overhead Efficiency Variance:
+
+= SR × (Std. hours for actual production ­ Actual hours)
+
+= `50 × {(2 hours × 3,800 units) ­ 7,800 hours}
+
+= `3,80,000 - `3,90,000 = `10,000 (A)
+
+(v) Fixed Overhead Capacity Variance:
+
+= SR × (Actual hours ­ Revised budgeted hours)
+
+=  `50  ×          hours  -   8,  000                 ×21        
+           7, 800            20   days                     days
+           
+                                                                 
+
+= `50 × (7,800 hours ­ 8,400 hours) = `30,000 (A)
+
+(vi) Fixed Overhead Calendar Variance:
+
+= Rate per day (Actual days - Budgeted days)
+= `4,00,000 × (21 days ­ 20 days) = 20,000 (F)
+
+     20 days
+
+8. ADVANTAGES AND CRITICISM OF
+      STANDARD COSTING
+
+8.1 Advantages of Standard Costing
+
+Following are the advantages of standard costing.
+
+(i) It serves as a basis for measuring operating performance and cost
+       control. It is possible by setting standards, proper classification and
+       determination of variances. It serves as a signal for prompt corrective action.
+       It helps to report exceptional variances i.e. the only matters which are not
+
+© The Institute of Chartered Accountants of India
+13.50 a  COST AND MANAGEMENT ACCOUNTING
+
+       proceeding according to plan are reported. This enables the managers to
+       concentrate on essential matters only.
+
+(ii) It aids price fixing. Standard costing can be used to predict costs. Although
+       actual cost may vary from day to day, standard costs will remain stable over
+       a period of time and, where demand for a product is elastic, this information
+       can be used as a basis for fixing the selling price.
+
+(iii) Introduction of standard costing facilitates evaluation of jobs and
+       introduction of incentives. Job values can be determined by the use of
+       evaluation and scale of wages fixed according to the responsibility involved
+       in each job.
+
+(iv) Standard costing facilitates the estimation of the cost of new products
+       with greater accuracy.
+
+(v) It serves as a basis for inventory valuation. Standard costs are used for
+       inventory valuation. A further advantage of this procedure is that material
+       stock can be recorded in terms of quantities only.
+
+(vi) Standard costing is also used for the measurement of profit. The question
+       of correct approach of calculating profit is very much related to methods of
+       stock valuation and absorption of fixed overheads. Standard costing
+       eliminates any variations in profit due to changes in stock values from one
+       period to another thus provides a basis for the measurement of profit.
+
+(vii) Standard costing is used in planning, budgeting and decision making.
+       Standard costs being the pre-determined costs, are particularly useful in
+       planning and budgeting.
+
+(viii) Standard costing is used in standardisation of products, operations and
+       processes, it improves the overall production efficiency and reduces costs.
+
+(ix) It provides objectives and targets to be achieved by each level of
+       management and defines the responsibilities of departmental managers.
+       Thus, the system serves as an incentive to the departmental head to
+       achieve the targets set by the company.
+
+(x) Standard costing sets a uniform basis for comparison of all elements of costs.
+       Since care is taken in setting standards, the standards become unchanging
+       units of comparison. The standard hour may be used as a basic unit to
+       compare dissimilar products or processes.
+
+© The Institute of Chartered Accountants of India
+STANDARD COSTING                                   a 13.51  a
+
+(xi) The maximum use of working capital, plant facilities and current assets is
+       assured because wastage of materials and loss due to idle time are closely
+       controlled.
+
+8.2 Criticism of Standard Costing
+
+The following are some of the criticism which may be leveled against the
+standard costing system. The arguments have been suitably answered as stated
+against each by advocates of the standard costing and hence they do not
+invalidate the usefulness of the system to business enterprises.
+
+(i) Variation in price: One of the chief problem faced in the operation of the
+standard costing system is the precise estimation of likely prices or rate to be paid.
+The variability of prices is so great that even actual prices are not necessarily
+adequately representative of cost. But the use of sophisticated forecasting
+techniques should be able to cover the price fluctuation to some extent. Besides
+this, the system provides for isolating uncontrollable variances arising from
+variations to be dealt with separately.
+
+(ii) Varying levels of output: If the standard level of output set for pre-
+determination of standard costs is not achieved, the standard costs are said to be
+not realised. However, the statement that the capacity utilisation cannot be
+precisely estimated for absorption of overheads may be true only in some
+industries of jobbing type. In vast majority of industries, use of forecasting
+techniques, market research, etc., help to estimate the output with reasonable
+accuracy and thus the variation is unlikely to be very large. Prime cost will not be
+affected by such variation and, moreover, variance analysis helps to measure the
+effects of idle time.
+
+(iii) Changing standard of technology: In case of industries that have frequent
+technological changes affecting the conditions of production, standard costing
+may not be suitable. This criticism does not affect the system of standard costing.
+Cost reduction and cost control is a cardinal feature of standard costing because
+standards once set do not always remain stable. They have to be revised.
+
+(iv) Attitude of technical people: Technical people are accustomed to think of
+standards as physical standards and, therefore, they will be misled by standard
+
+© The Institute of Chartered Accountants of India
+13.52 a  COST AND MANAGEMENT ACCOUNTING
+
+costs. Since technical people can be educated to adopt themselves to the system
+through orientation courses, it is not an insurmountable difficulty.
+
+(v) Mix of products: Standard costing presupposes a pre-determined
+combination of products both in variety and quantity. The mixture of materials used
+to manufacture the products may vary in the long run but since standard costs are
+set normally for a short period, such changes can be taken care of by revision of
+standards.
+
+(vi) Level of Performance: Standards may be either too strict or too liberal
+because they may be based on (a) theoretical maximum efficiency, (b) attainable
+good performance or (c) average past performance. To overcome this difficulty, the
+management should give thought to the selection of a suitable type of standard.
+The type of standard most effective in the control of costs is one which represents
+an attainable level of good performance.
+
+(vii) Standard costs cannot possibly reflect the true value in exchange. If
+previous historical costs are amended roughly to arrive at estimates for ad hoc
+purposes, they are not standard costs in the strict sense of the term and hence they
+cannot also reflect true value in exchange. In arriving at standard costs, however,
+the economic and technical factors, internal and external, are brought together and
+analysed to arrive at quantities and prices which reflect optimum operations. The
+resulting costs, therefore, become realistic measures of the sacrifices involved.
+
+(viii) Fixation of standards may be costly: It may require high order of skill and
+competency. Small concerns, therefore, feel difficulty in the operation of such
+system.
+
+SUMMARY
+
+ Standard Costing: A technique which uses standards for costs and revenues
+       for the purposes of control through variance analysis.
+
+ Standard Price: A predetermined price fixed on the basis of a specification
+       of a product or service and of all factors affecting that price.
+
+ Standard Time: The total time in which task should be completed at standard
+       performance.
+
+© The Institute of Chartered Accountants of India
+STANDARD COSTING                                   a 13.53  a
+
+ Variance: A divergence from the predetermined rates, expressed ultimately
+       in money value, generally used in standard costing and budgetary control
+       systems.
+
+ Variance Analysis: The analysis of variances arising in standard costing
+       system into their constituent parts.
+
+ Revision Variance: It is the difference between the original standard cost and
+       the revised standard cost of actual production.
+
+ Basic Standard: A standard fixed for a fairly long period.
+ Current Standard: A standard fixed for a short period.
+ Estimated Cost: An estimate of what the cost is likely to be during a given
+
+       period of time.
+ Ideal Cost: A cost which should be incurred during a period under ideal
+
+       conditions.
+Important Formulas
+ Material Variance:
+
+       Material Costs Variance = (Std. qty × Std. Price) ­ (Actual qty × Actual price)
+       Material Usage Variance = Std. price (Std. Qty. ­ Actual qty.)
+       Material Price Variance = Actual qty. (Std. price ­ Actual price)
+       Material Cost Variance = Material usage variance + Material price variance
+       Material Mix Variance = SP (RSQ ­ AQ)
+       Material Yield Variance = SP (SQ ­ RSQ)
+ Labour Variance:
+       Labour Cost Variance = (Std. time × Std. Rate) ­ (Actual time × Actual rate)
+       Labour Efficiency Variance = Std. rate (Std. time ­ Actual time)
+       Labour Rate Variance = Actual time (Std. rate ­ Actual rate)
+       Labour Idle Time Variance = Idle time x Std. rate
+       Labour Cost Variance = Labour Efficiency Variance + Labour Rate Variance
+
+© The Institute of Chartered Accountants of India
+13.54 a  COST AND MANAGEMENT ACCOUNTING
+
+       Labour Mix Variance = SR (RSH ­ AH)
+       Labour Yield Variance = SR (SH ­ RSH)
+ Fixed Overhead Variances:
+       F.O. Cost Variance = Recovered Overhead ­ Actual Overhead
+       F.O. Expenditure Variance = Budgeted Overhead ­ Actual Overhead
+       F.O. Volume Variance = Recovered Overhead ­ Budgeted Overhead
+       F.O. Efficiency Variance = Recovered Overhead ­ Standard Overhead
+       F.O. Capacity Variance = Standard Overhead ­ Budgeted Overhead
+       F.O. Calendar Variance = SR (Actual no. of working days ­ Std. no. working days)
+ Variable Overhead Variances
+       V.O. Cost variance = Recovered Overhead ­ Actual Overhead
+       V.O. Expenditure Variance = Standard Overhead ­ Actual Overhead
+       V.O. Efficiency Variance = Recovered Overhead ­ Standard Overhead
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1. Under standard cost system the cost of the product determined at the beginning
+       of production is its:
+       (a) Direct cost
+       (b) Pre-determined cost
+       (c) Historical cost
+       (d) Actual cost
+
+2. The deviations between actual and standard cost is known as:
+       (a) Multiple analysis
+       (b) Variable cost analysis
+
+© The Institute of Chartered Accountants of India
+STANDARD COSTING                                   a 13.55  a
+
+       (c) Variance analysis
+       (d) Linear trend analysis
+3. The standard which is attainable under favourable conditions is:
+       (a) Theoretical standard
+       (b) Expected standard
+       (c) Normal standard
+       (d) Basic standard
+4. The standard most suitable from cost control point of view is:
+       (a) Normal standard
+       (b) Theoretical standard
+       (c) Expected standard
+       (d) Basic standard
+5. Overhead cost variances is:
+       (a) The difference between overheads recovered on actual output - actual
+
+               overhead incurred.
+       (b) The difference between budgeted overhead cost and actual overhead cost.
+       (c) Obtained by multiplying standard overhead absorption rate with the
+
+               difference between standard hours for actual output and actual hours
+               worked.
+       (d) None of the above
+6. Which of the following variance arises when more than one material is used
+       in the manufacture of a product:
+       (a) Material price variance
+       (b) Material usage variance
+       (c) Material yield variance
+       (d) Material mix variance
+
+© The Institute of Chartered Accountants of India
+13.56 a  COST AND MANAGEMENT ACCOUNTING
+
+7. If standard hours for 100 units of output are 400 @ ` 2 per hour and actual
+       hours take are 380 @ ` 2.25 per, then the labour rate variance is:
+       (a) ` 95 (adverse)
+       (b) ` 100 (adverse)
+       (c) ` 25 (favourable)
+       (d) ` 120 (adverse)
+
+8. Controllable variances are best disposed-off by transferring to:
+       (a) Cost of goods sold
+       (b) Cost of goods sold and inventories
+       (c) Inventories of work­in­progress and finished goods
+       (d) Costing profit and loss account
+
+9. Idle time variance is obtained by multiplying:
+       (a) The difference between standard and actual hours by the actual rate of
+               labour per hour
+       (b) The difference between actual labour hours paid and actual labour hours
+               worked by the standard rate
+       (c) The difference between standard and actual hours by the standard rate of
+               labour per hour
+       (d) None of the above.
+
+10. Basic standards are:
+       (a) Those standards, which require high degree of efficiency and performance.
+       (b) Average standards and are useful in long term planning.
+       (c) Standards, which can be attained or achieved
+       (d) Assuming to remain unchanged for a long time.
+
+© The Institute of Chartered Accountants of India
+                       STANDARD COSTING                               a 13.57               a
+
+Theoretical Questions
+
+1. DISCUSS the process of setting standards.
+2. DISCUSS the types of standards.
+3. HOW material usage standard is set
+4. DISCUSS the various types of fixed overhead variances.
+
+Practical Problems
+
+1. For making 10 kg. of CEMCO, the standard material requirements is:
+
+Material    Quantity                                               Rate per kg. (`)
+                                                                          6.00
+    A         8 kg                                                        4.00
+    B         4 kg
+
+During April, 1,000 kg of CEMCO were produced. The actual consumption of
+materials is as under:
+
+Material                                           Quantity (Kg.)  Rate per kg. (`)
+                                                                          7.00
+    A                                                    750              5.00
+    B                                                    500
+
+CALCULATE (A) Material Cost Variance; (b) Material Price Variance; (c)
+Material usage Variance.
+
+2. The standard mix to produce one unit of a product is as follows:
+
+Material X  60 units @ ` 15 per unit                               =                 900
+
+Material Y  80 units @ ` 20 per unit                               = 1,600
+
+Material Z  100 units @ ` 25 per unit                              = 2,500
+
+            240 units                                                                5,000
+
+During the month of April, 10 units were actually produced and consumption
+was as follows:
+
+Material X  640 units @ ` 17.50 per unit                           = 11,200
+
+Material Y  950 units @ ` 18.00 per unit                           = 17,100
+
+© The Institute of Chartered Accountants of India
+   13.58 a              COST AND MANAGEMENT ACCOUNTING
+
+Material Z         870 units @ ` 27.50 per unit                  = 23,925
+
+                2,460 units                                              52,225
+
+CALCULATE all material variances.
+
+3. GAP Limited operates a system of standard costing in respect of one of its
+       products which is manufactured within a single cost centre. Following are
+       the details.
+
+Budgeted data:
+
+Material        Qty                                Price (`) Amount (`)
+
+A               60                                 20      1200
+
+B               40                                 30      1200
+
+Inputs          100                                        2400
+
+Normal loss 20
+
+Output          80                                         2400
+
+Actual data:
+
+Actual output 80 units.
+
+Material        Qty                                Price (`) Amount (`)
+
+A               70                                 ?       ?
+
+B               ?                                  30      ?
+
+Material Price Variance (A) ` 105A
+
+Material cost variance                             ` 275A
+
+You are required to CALCULATE:
+
+(i) Actual Price of material A
+
+(ii) Actual Quantity of material B
+
+(iii) Material Price Variance
+
+(iv) Material Usage Variance
+
+© The Institute of Chartered Accountants of India
+                           STANDARD COSTING          a 13.59        a
+
+(v) Material Mix Variance
+
+(vi) Material Sub Usage Variance
+
+4. One kilogram of product K requires two chemicals A and B. The following were
+       the details of product K for the month of June 2023:
+
+(a) Standard mix for chemical A is 50% and chemical B is 50%.
+
+(b) Standard price kilogram of chemical A is ` 12 and chemical B is ` 15.
+
+(c) Actual input of chemical B is 70 kilograms.
+
+(d) Actual price per kilogram of chemical A is ` 15
+
+(c) Standard normal loss is 10% of total input
+
+(d) Total Material cost variance is ` 650 adverse.
+
+(e) Total Material yield variance is ` 135 adverse.
+
+You are required to CALCULATE:
+
+(i) Total Material mix variance
+
+(ii) Total Material usage variance
+
+(iii) Total Material price variance
+
+(iv) Actual loss of actual input
+
+(v) Actual input of chemical A
+
+(vi) Actual price per kg. of chemical B
+
+5. The following standards have been set to manufacture a product:
+
+Direct Material:                                        (`)
+2 units of A @ ` 4 per unit                           8.00
+3 units of B @ ` 3 per unit                           9.00
+15 units of C @ ` 1 per unit                         15.00
+                                                     32.00
+Direct Labour: 3 hours @ ` 8 per hour                24.00
+Total standard prime cost                            56.00
+
+© The Institute of Chartered Accountants of India
+13.60 a  COST AND MANAGEMENT ACCOUNTING
+
+       The company manufactured and sold 6,000 units of the product during the
+       year. Direct material costs were as follows:
+       12,500 units of A at ` 4.40 per unit
+       18,000 units of B at ` 2.80 per unit
+       88,500 units of C at ` 1.20 per unit
+       The company worked 17,500 direct labour hours during the year. For 2,500 of these
+       hours, the company paid at ` 12 per hour while for the remaining, the wages were
+       paid at standard rate.
+       CALCULATE
+       (i) Materials price variance & Usage variance
+       (ii) Labour rate & Efficiency variances.
+6. The following information is available from the cost records of Novell & Co. for
+       the month of March 2021:
+
+Materials purchased                                20,000 units @ ` 88,000
+Materials consumed                                 19,000 units
+Actual wages paid for 4,950 hrs.                   ` 24,750
+Units produced                                     1,800 units
+Standard rates and pieces are:
+Direct material                                    ` 4 per unit
+Standard output                                    10 number for one unit
+Direct labour rate                                 ` 4.00 per hour
+Standard requirement                               2.5 hours per unit
+
+You are required to CALCULATE relevant material and labour variance for the
+month.
+
+7. XYZ Company has established the following standards for factory overheads.
+
+Variable overhead per unit:                        ` 10/-
+
+Fixed overheads per month                          ` 1,00,000
+
+© The Institute of Chartered Accountants of India
+                            STANDARD COSTING       a 13.61            a
+
+Capacity of the plant 20,000 units per month.
+
+The actual data for the month are as follows:
+
+Actual overheads incurred                          ` 3,00,000
+
+Actual output (units)                              15,000 units
+
+Required:
+
+CALCULATE overhead variances viz:
+
+(i) Production volume variance
+
+(ii) Overhead expense variance
+
+8. Following information is available from the records of a factory:
+
+Fixed overhead for the month of June                Budget             Actual
+Production in June (units)                         ` 10,000           ` 12,000
+Standard time per unit (hours)
+Actual hours worked in June                           2,000              2,100
+                                                          10                   ­
+                                                            ­
+                                                                        21,000
+
+CALCULATE:
+
+(i) Fixed overhead cost variance,
+
+(ii) Expenditure variance,
+
+(iii) Volume variance.
+
+9. XYZ Ltd. has furnished you the following information for the month of
+       August:
+
+Output (units)                                      Budget            Actual
+Hours                                                30,000           32,500
+Fixed overhead                                       30,000           33,000
+Variable overhead                                  ` 45,000           50,000
+Working days                                       ` 60,000           68,000
+
+                                                          25               26
+
+CALCULATE overhead variances.
+
+© The Institute of Chartered Accountants of India
+13.62 a              COST AND MANAGEMENT ACCOUNTING
+
+10. S.V. Ltd. has furnished the following data:
+
+No. of working days                                 Budget    Actual (for the month of July)
+Production in units                                       25                                        27
+Fixed overheads
+                                                     20,000                                    22,000
+                                                   ` 30,000                                ` 31,000
+
+       Budgeted fixed overhead rate is ` 1.00 per hour. In July, the actual hours
+       worked were 31,500.
+       CALCULATE the following variances:
+       (i) Expenditure variance.
+       (ii) Volume variance.
+       (iii) Total overhead variance.
+11. The following data for Pijee Ltd. is given:
+
+Production (in units)                              Budget     Actual
+Man hours to produce above                              400       360
+Variable overheads (in `)
+                                                     8,000      7,000
+                                                    10,000      9,150
+
+       CALCULATE relevant Variable overhead variances.
+
+12. The following data has been collected from the cost records of a unit for
+       computing the various fixed overhead variances for a period:
+
+Number of budgeted working days                                                  25
+Budgeted man-hours per day                                                   6,000
+Output (budgeted) per man-hour (in units)
+Fixed overhead cost as budgeted                                                   1
+Actual number of working days                                          ` 1,50,000
+Actual man-hours per day
+Actual output per man-hour (in-units)                                            27
+Actual fixed overhead incurred                                               6,300
+
+                                                                                0.9
+                                                                       ` 1,56,000
+
+© The Institute of Chartered Accountants of India
+                            STANDARD COSTING                             a 13.63   a
+
+CALCULATE fixed overhead variances:
+
+(i) Expenditure Variance
+
+(ii) Volume Variance,
+
+(iii) Fixed Cost Variance.
+
+13. J.K. Ltd. manufactures NXE by mixing three raw materials. For every batch
+       of 100 kg. of NXE, 125 kg. of raw materials are used. In the month of April,
+       60 batches were prepared to produce an output of 5,600 kg. of NXE. The
+       standard and actual particulars for the month of April, are as follows:
+
+Raw        Standard                                              Actual     Quantity of
+Materials  Mix Price per kg.
+                                                            Mix Price per Kg. Raw Materials
+       A                                                                                   Purchased
+       B
+       C   (%)              (`)                             (%)  (`)        (Kg.)
+
+           50                                      20       60   21         5,000
+
+           30                                      10       20   8          2,000
+
+           20                                      5        20   6          1,200
+
+You are required to CALCULATE:
+(i) Material Price variance
+(ii) Material Usage Variance
+
+14. Following data is extracted from the books of XYZ Ltd. for the month of January:
+
+(i) Estimation-
+
+Particulars Quantity (kg.)                                       Price (`)  Amount (`)
+
+Material-A                                             800               ?            --
+
+Material-B                                             600       30.00            18,000
+
+                                                                                      --
+
+Normal loss was expected to be 10% of total input materials.
+
+© The Institute of Chartered Accountants of India
+       13.64 a           COST AND MANAGEMENT ACCOUNTING
+
+(ii) Actuals-
+
+       1480 kg of output produced.
+
+       Particulars                                 Quantity (kg.)        Price (`)    Amount (`)
+       Material-A                                                 900              ?               --
+       Material-B                                                     ?                            --
+                                                                             32.50
+                                                                                             59,825
+
+(iii) Other Information-
+
+       Material Cost Variance = ` 3,625 (F)
+
+       Material Price Variance = ` 175 (F)
+
+You are required to CALCULATE:
+
+(i) Standard Price of Material-A;
+
+(ii) Actual Quantity of Material-B;
+
+(iii) Actual Price of Material-A;
+
+(iv) Revised standard quantity of Material-A and Material-B; and
+
+(v) Material Mix Variance.
+
+15. Paras Synthetics uses Standard costing system in manufacturing of its product
+       `Star 95 Mask'. The details are as follows;
+
+Direct Material 0.50 Meter @ ` 60 per meter                              ` 30
+
+Direct Labour 1 hour @ ` 20 per hour                                     ` 20
+
+Variable overhead 1 hour @ ` 10 per hour                                 ` 10
+
+Total                                                                    ` 60
+
+During the month of August, 10,000 units of `Star 95 Mask' were manufactured.
+
+Details are as follows:
+
+Direct material consumed 5700 meters @ ` 58 per meter
+
+Direct labour Hours ?                              @?                    ` 2,24,400
+
+Variable overhead incurred                                               ` 1,12,200
+
+© The Institute of Chartered Accountants of India
+                  STANDARD COSTING                           a 13.65  a
+
+Variable overhead efficiency variance is ` 2,000 A. Variable overheads are based
+on Direct Labour Hours.
+
+You are required to calculate the missing data and all the relevant Variances.
+
+Case Scenarios
+
+1. K Ltd. is a manufacturer of a single product A. 8,000 units of the product A has
+       been produced in the month of March 2024. At the beginning of the year a total
+       1,20,000 units of the product-A has been planned for production. The cost
+       department has provided the following estimates of overheads:
+
+Fixed             ` 12,00,000                      Variable  ` 6,00,000
+Semi-Variable       ` 1,80,000
+
+Semi-variable charges are considered to include 60 per cent expenses of fixed
+nature and 40 per cent of variable nature.
+
+The records of the production department shows that the company could have
+operated for 20 days but there was a festival holiday during the month.
+
+The actual cost data for the month of March 2024 are as follows:
+
+Fixed             ` 1,19,000                       Variable       ` 48,000
+Semi-Variable        ` 19,200
+
+The cost department of the company is now preparing a cost variance report for
+managerial information and action. You being an accounts officer of the
+company are asked to calculate the following information for preparation of the
+variance report:
+
+i. What is the amount of variable overhead cost variance for the month of
+       March 2024:
+
+(a) ` 10,200 (A)
+
+(b) ` 10,400 (A)
+
+(c) ` 10,800 (A)
+(d) ` 10,880 (A)
+
+© The Institute of Chartered Accountants of India
+13.66 a  COST AND MANAGEMENT ACCOUNTING
+
+ii. What is the amount of fixed overhead volume variance for the month of
+       March 2024:
+       (a) ` 9,000 (F)
+       (b) ` 9,000 (A)
+       (c) ` 21,800 (A)
+       (d) ` 11,000 (A)
+
+iii. What is the amount of fixed overhead expenditure variance for the month
+       of March 2024:
+       (a) ` 21,520 (A)
+       (b) ` 21,500 (A)
+       (c) ` 21,400 (A)
+       (d) ` 21,480 (A)
+
+iv. What is the amount of fixed overhead calendar variance for the month of
+       March 2024:
+       (a) ` 5,400 (A)
+       (b) ` 5,450 (A)
+       (c) ` 5,480 (A)
+       (d) ` 5.420 (A)
+
+v. What is the amount of fixed overhead cost variance for the month of
+       March 2024:
+       (a) ` 43,320 (A)
+       (b) ` 43,300 (A)
+       (c) ` 43,200 (A)
+       (d) ` 43,380 (A)
+
+© The Institute of Chartered Accountants of India
+                                 STANDARD COSTING                         a 13.67  a
+
+ANSWERS/ SOLUTIONS
+
+Answers to the MCQs
+
+   1. (b) 2. (c) 3. (a) 4. (c) 5. (a) 6. (d)
+   7. (a) 8. (d) 9. (b) 10. (d)
+
+Answers to the Theoretical Questions
+
+1. Please refer paragraph 4
+2. Please refer paragraph 2
+3. Please refer paragraph 7.1
+4. Please refer paragraph 7.4
+
+Answers to the Practical Problems
+
+1.                Basic Calculations
+
+           Standard for 1,000 kg.                         Actual for 1,000 kg.
+
+           Qty.   Rate Amount                             Qty.            Rate Amount
+
+           Kg.              (`)                    (`)    Kg.             (`)      (`)
+
+      A    800*             6                      4,800  750             7        5,250
+      B
+    Total  400*             4                      1,600  500             5        2,500
+
+           1,200                                   6,400  1,250                    7,750
+
+    (* A- 8÷10 ×1000 = 800                         B- 4÷10 × 1000 = 400)
+
+    Calculation of Variances:
+
+    (a) Material Cost Variance = Std. cost for actual output ­ Actual cost
+
+    MCV                                            = 6,400 ­ 7,750 = `1, 350 (A)
+
+    (b) Material Price Variance = (SP ­ AP) × AQ
+
+    A                                              = (6 ­ 7) × 750 = ` 750 (A)
+
+    B                                              = (4 ­ 5) × 500 = ` 500 (A)
+
+    MPV                                                          = `1,250 (A)
+
+© The Institute of Chartered Accountants of India
+    13.68 a          COST AND MANAGEMENT ACCOUNTING
+
+    (c) Material Usages Variance = (SQ ­ AQ) × SP
+
+    A = (800 ­ 750) × 6                            = ` 300 (F)
+
+    B = (400 ­ 500) × 4                            = ` 400 (A)
+
+    MUV                                            = ` 100 (A)
+
+    Check
+
+    MCV = MPV + MUV
+
+    1,350 (A) = 1,250 (A) + 100 (A)
+
+2.
+
+    Material  Standard for 10 units                               Actual for 10 units
+
+         X    Qty. Rate Amount                                    Qty. Rate Amount
+         Y
+         Z    Units (`)                            (`)            units (`)              (`)
+      Total
+              600        15                        9,000          640 17.50              11,200
+
+              800        20                        16,000         950 18.00              17,100
+
+              1,000      25                        25,000         870 27.50              23,925
+
+              2,400                                50,000         2,460                  52,225
+
+    1. Material Cost Variance = Standard cost ­ Actual cost
+
+                                                   = ` 50,000 ­ ` 52,225
+
+    MCV                                            = ` 2,225 (A)
+
+    2. Material Price Variance = (Std. Price ­ Actual Price) × Actual Qty.
+
+    Material X                                     = (15 ­ 17.50) × 640 = ` 1,600 (A)
+
+    Material Y                                     = (20 ­ 18) × 950 = ` 1,900 (F)
+
+    Material Z                                     = (25 ­ 27.50) × 870 = ` 2,175 (A)
+
+    MPV                                                                   = ` 1,875 (A)
+
+    3. Material Usage Variance= (Std. Qty. ­ Actual Qty.) × Std. Price
+
+    Material X                                     = (600 ­ 640) × 15 = ` 600 (A)
+
+    Material Y                                     = (800 ­ 950) × 20 = ` 3,000 (A)
+
+    Material Z                                     = (1,000 ­ 870) × 25 = ` 3,250 (F)
+
+    MUV                                                                   = ` 350 (A)
+
+© The Institute of Chartered Accountants of India
+            STANDARD COSTING                                               a 13.69       a
+
+Check MCV                                          = MPV + MUV
+
+       ` 2,225 (A) = ` 1,875 (A) + ` 350 (A)
+
+4. Material Mix Variance = (Revised Std. Qty. ­ Actual Qty.) × Std. Price
+
+Material X                                         = (615* ­ 640) × 15     = ` 375 (A)
+
+Material Y                                         = (820* ­ 950) × 20     = `2,600 (A)
+
+Material Z                                         = (1,025 ­ 870) × 25    = `3,875 (F)
+
+MMV                                                                        = ` 900 (F)
+
+*Revised Standard Quantity (RSQ) is calculated as follows:
+
+Material X  = 2460 × 600 = 615 units
+               2400
+
+Material Y  = 2460 × 800 = 820 units
+               2400
+
+Material Z  = 2460 × 1,000 = 1,025 units
+               2400
+
+5. Material Yield Variance = (Std. Qty - Revised Std. Qty.) × Std. Price
+
+Material X                                         = (600 - 615) × 15      = `225 (A)
+
+Material Y                                         = (800 - 820) × 20      = `400 (A)
+
+Material Z                                         = (1,000 - 1,025) × 25  = `625 (A)
+
+MYV                                                                        = `1,250 (A)
+
+Check
+
+MUV         = MMV + MYV (Or MRUV)
+
+`350 (A)    = `900 (F) + `1,250 (A)
+
+                                                   or
+
+MCV         = MPV + MMV + MYV (Or MRUV)
+
+` 2,225 (A) = ` 1,875 (A) + `900 (F) + ` 1,250 (A)
+
+© The Institute of Chartered Accountants of India
+13.70 a  COST AND MANAGEMENT ACCOUNTING
+
+3. (i) Actual Price of Material A
+
+Let Actual Price of Material A be `X'
+
+Material Price Variance (A) = ` 105 (A)
+
+Material Price Variance = (SP ­ AP) × AQ
+
+(20 ­ X) × 70 = 105 (A)
+
+1,400 ­ 70X = -105
+
+X = 1,505 ÷ 70 = 21.5
+
+Therefore X (Actual Price) = ` 21.5
+
+(ii) Actual Quantity of Material B
+
+Let Actual Quantity of Material B be `X `
+
+Material Cost Variance = (SQ× SP) ­ (AQ× AP)
+
+Material Cost Variance = 275 (A)
+
+{(60 × 20) ­ (70 × 21.5)} + {(40 × 30) ­ (`X' × 30)} = 275 (A)
+
+{(1,200 ­ 1,505) + (1,200 ­ 30X)} = -275
+
+(895 ­ 30X) = -275
+
+X = 1,170 ÷ 30 = 39 units
+
+(iii) Material Price Variance = (SP ­ AP) × AQ
+
+Material A = (20 ­ 21.5) × 70 = ` 105 (A)
+
+Material B = (30 ­ 30) × 39 = ` 0
+
+Total                                              = ` 105 (A)
+
+(iv) Material Usage Variance = (SQ­ AQ) × SP
+
+Material A = (60 ­ 70) × 20                        = ` 200 (A)
+
+Material B = (40 ­ 39) × 30                        = ` 30 (F)
+
+Total                                              = ` 170 (A)
+
+© The Institute of Chartered Accountants of India
+                   STANDARD COSTING                                          a 13.71  a
+
+(v) Material Mix Variance = (RSQ­ AQ) × SP
+
+Material A = ( 109 ×60 ­ 70) × 20                               = ` 92 (A)
+                  100
+
+Material B = ( 109 ×40 ­ 39) × 30                               = ` 138 (F)
+                  100
+
+                   Total                                        = ` 46 (F)
+
+(vi) Material Yield Variance = (SQ ­ RSQ) × SP
+
+Material A = (60 - 109 ×60 ) × 20                               = ` 108 (A)
+                       100
+
+Material B = (40 ­ 109 ×40 ) × 30                               = ` 108 (A)
+                        100
+
+Total                                                           = ` 216 (A)
+
+4. Working Notes:
+
+(1) Calculation of standard mix of input (assuming Standard input
+       as 100 kg)
+
+Chemical A                                         Qty. (Kg)    Price (`)    Amount (`)
+Chemical B                                                  50          12              600
+                                                            50          15              750
+Normal Loss (10%)
+                                                          100       13.50            1,350
+                                                          (10)
+                                                                                     1,350
+                                                            90
+
+(2) Let the actual input of chemical A be X kg. and the actual price of
+       chemical B be ` Y.
+       Given,
+       Material yield variance = (Total standard input ­ Total Actual input) x
+       Standard cost per unit of input
+       = [100 ­ (70 + X)] x 13.5 = 135 (A)
+       Therefore, X = 40 kg.
+
+© The Institute of Chartered Accountants of India
+13.72 a             COST AND MANAGEMENT ACCOUNTING
+
+Also, Material cost variance= (Standard quantity x Standard price) ­
+(Actual quantity x Actual price)
+
+= 1,350 ­ {(40 x 15) + (70 x Y)} = 650 (A)
+
+= 1,350 ­ 600 ­ 70Y = 650A
+
+Therefore, Y = ` 20
+
+(i) Material mix variance
+
+= (Revised Std. Quantity* ­ Actual quantity) x Standard Price
+
+Chemical A = (55 ­ 40) x 12                           = 180 (F)
+
+Chemical B = (55 - 70) x 15                           = 225 (A)
+
+                                                      = ` 45 (A)
+
+*Revised Std. Quantity:
+
+Chemical A                                         = (70 + 40) x 50% = 55
+
+Chemical B                                         = (70 + 40) x 50% = 55
+
+(ii) Material usage variance
+
+= (Std. qty. ­ Actual qty.) × Std. price
+
+Chemical A = (50 ­ 40) × 12 = 120 (F)
+
+Chemical B = (50 ­ 70) × 15 = 300 (A)
+
+                                                      = ` 180 (A)
+
+(iii) Material price variance
+
+= (Std. price ­ Actual price) × Actual qty.
+
+Chemical A = (12 ­ 15) × 40                           = 120 (A)
+
+Chemical B = (15 ­ 20) × 70                           = 350 (A)
+
+                                                      = ` 470 (A)
+
+(iv) Actual loss of actual input
+
+Actual total input                                 = 110 kg.
+
+Less: Actual output =                                 90 kg.
+
+Actual loss                                        =  20 kg.
+
+© The Institute of Chartered Accountants of India
+                            STANDARD COSTING                          a 13.73              a
+
+       (v) Actual input of chemical A = 40 kg. [As calculated in Working note (2)].
+       (vi) Actual price per kg. of chemical B = ` 20 [As calculated in
+
+               Working note (2)].
+5. For Material Cost Variances
+
+               SQ × SP                             AQ × AP                  AQ × SP
+A 12,000 × 4 = 48,000                                12,500 × 4.40    12,500 × 4 = 50,000
+                                                            = 55,000  18,000 × 3 = 54,000
+B 18,000 × 3 = 54,000                                                 88,500 × 1 = 88,500
+                                                     18,000 × 2.80
+C 90,000 × 1 = 90,000                                       = 50,400                `1,92,500
+
+Total       ` 1,92,000                               88,500 × 1.20
+                                                         = 1,06,200
+
+                                                          ` 2,11,600
+
+Variances:
+
+Material Price Variance = Actual quantity (Std. price ­ Actual price)
+
+Or,                    = (AQ × SP) ­ (AQ × AP)
+
+Or,                    = ` 1,92,500 ­ `2,11,600
+
+                       = ` 19,100 (A)
+
+Material Usage Variance = Standard Price (Std. Quantity ­ Actual Quantity)
+
+Or,                    = (SP × SQ) ­ (SP × AQ)
+
+Or,                    = ` 1,92,000 ­ ` 1,92,500 = ` 500 (A)
+
+For Labour Cost Variance :
+
+Labour         SH × SR                                    AH × AR               AH × SR
+ Total      (6,000 × 3) ×` 8                         2,500 × 12 = 30,000       17,500 × 8 =
+                                                   15,000 × 8 = 1,20,000
+                   = 1,44,000                                                        1,40,000
+                                                                   ` 1,50,000
+                    ` 1,44,000                                                    ` 1,40,000
+
+Variances:                                         Actual Hours (Std. Rate ­ Actual Rate)
+Labour Rate Variance:                              = (AH × SR) ­ (AH × AR)
+Or,
+
+© The Institute of Chartered Accountants of India
+     13.74 a           COST AND MANAGEMENT ACCOUNTING
+
+Or,                                                = `1,40,000 ­ `1,50,000 = `10,000 (A)
+
+Labour Efficiency Variance: Standard Rate (Std. Hours ­ Actual Hours)
+
+Or,                                                = (SR × SH) ­ (SR × AH)
+
+Or,                                                = `1,44,000 ­ `1,40,000 = `4,000 (F)
+
+6. Material variances
+
+1. Material cost variance
+
+     = (Std. qty for actual output* × Std. price) ­ (Actual qty. × Actual price)
+
+     = (18,000 × 4) ­ (19,000 × 4.40)
+
+     = 72,000 ­ 83,600 = ` 11,600 (A)
+
+     * Std. qty. for actual output = 1,800 × 10 = 18,000 units
+
+2. Material price variance
+
+     = (Std. price ­ Actual price) × Actual qty.
+
+     = (4 - 4.40) × 19,000 = 0.40 × 19,000 = ` 7,600 (A)
+
+3. Material usage variance
+
+     = (Std. qty. ­ Actual qty.) × Std. price
+
+     = (18,000 ­ 19,000) × 4 = 1,000 × 4 = ` 4,000 (A)
+
+Labour variances
+
+1. Labour cost variance
+
+     = (Std. hours for actual output* × Std. price) ­ Actual cost
+
+     = (4,500 × 4) ­ 24,750
+
+     = 18,000 ­ 24,750 = ` 6,750 (A)
+
+     *Std. hours for actual output = 1,800 × 2.5 = 4,500 hrs.
+
+2. Labour rate variance
+
+     = (Std. rate ­ Actual rate) × Actual hrs.
+
+     = ( 4 ­ 5 ) × 4,950 = ` 4,950 (A)
+
+© The Institute of Chartered Accountants of India
+STANDARD COSTING                                       a 13.75                       a
+
+3. Labour efficiency variance
+
+= (Std. hrs. for actual output ­ Actual hrs.) × Std. rate
+
+= ( 4,500 ­ 4,950)× 4 = ` 1,800 (A)
+
+7. Production/ Overhead volume variance (only for fixed overhead)
+
+Fixed Overhead Volume Variance:
+
+= Absorbed overhead ­ Budgeted Overhead
+
+= (`5 × 15,000 units) ­ (`5 × 20,000 units)
+
+= `75,000 -`1,00,000 =`25,000 (Adverse)
+
+Overhead expense variances
+
+= Budgeted Overhead ­ Actual Overhead
+
+= (`5× 20,000 units) ­ (Total overhead ­ Variable overhead)
+
+= (`5× 20,000 units) ­ (`3,00,000 - `10×15,000 units)
+
+= `1,00,000 ­ (`3,00,000 - `1,50,000)
+
+= `1,00,000 ­`1,50,000 = ` 50,000 (Adverse)
+
+8. For fixed overhead variances:
+
+Actual F.O. incurred (given)                                             `12,000
+Budgeted F.O. for the period                                             `10,000
+Standard F.O. for production
+2,100 units × {`10,000 ÷ 2,000 units}                                    `10,500
+
+(i) Fixed Overhead Variance                        = Standard F.O. ­ Actual F.O.
+
+                                                   = ` 10,500 ­ `12,000
+
+(ii) F.O. Expenditure Variance                     = `1,500 (A)
+(iii) F.O. Volume Variance                         = Budgeted F.O ­ Actual F.O.
+                                                   = `10,000 ­ `12,000
+                                                   = `2,000 (A)
+                                                   = Standard F.O ­ Budgeted F.O.
+                                                   = `10,500 ­ ` 10,000 = ` 500 (F)
+
+© The Institute of Chartered Accountants of India
+13.76 a                         COST AND MANAGEMENT ACCOUNTING
+
+9. Basic Calculations:                             = Budgeted hours = 30,000 = 1 hour
+       Standard hours per unit                         Budgeted units 30,000
+
+Std. hrs. for actual output                        = 32,500 units × 1 hr = 32,500
+Standard overhead rate per hour                    = Budgeted overhead
+For fixed overhead
+For variable overhead                                    Budgeted hours
+                                                   = 45,000 = `1.50 per hour
+
+                                                      30,000
+                                                   = 60,000 = `2 per hour
+
+                                                      30,000
+
+Std. F.O. rate per day                             = `45,000 ÷ 25 days = `1,800
+
+Recovered overhead                                 = Std. hrs. for actual output × St. rate
+
+For fixed overhead                                 = 32,500 hrs. × `1.50 = `48,750
+
+For variable overhead                              = 32,500 hrs. × `2 = `65,000
+
+Standard overhead                                  = Actual hours × Std. rate
+
+For fixed overhead                                 = 33,000 × 1.50 = `49,500
+
+For variable overhead                              = 33,000 × 2 = `66,000
+Revised budget hours                               = Budgeted hours × Actual days
+
+                                                       Budgeted days
+                                                   = 30,000 × 26 = 31,200 hours
+
+                                                         25
+
+Revised budgeted overhead (for fixed overhead) = 31,200 × 1.50 = `46,800
+
+Calculation of variances
+Fixed Overhead Variances:
+
+(i) F.O. cost Variance                             = Recovered Overhead ­ Actual Overhead
+
+                                                   = 48,750 ­ 50,000
+
+                                                   = `1,250 (A)
+
+© The Institute of Chartered Accountants of India
+                        STANDARD COSTING                                    a 13.77       a
+
+(ii) F.O. Expenditure Variance = Budgeted Overhead ­ Actual Overhead
+
+                                                   = 45,000 ­ 50,000
+
+                                                   = ` 5,000 (A)
+
+(iii) F.O. Volume Variance = Recovered Overhead ­ Budgeted Overhead
+
+                                                   = 48,750 ­ 45,000
+
+                                                   = ` 3,750 (F)
+
+(iv) F.O. Efficiency Variance = Recovered Overhead ­ Standard Overhead
+
+                                                   = 48,750 ­ 49,500 = `750 (A)
+
+(v) F.O. Capacity Variance = Standard Overhead- Revised Budgeted
+                                               Overhead
+
+                                                   = 49,500-46800           =` 2,700 (F)
+
+(v) Calendar Variance                              = (Actual Days - Budget Days) × St. rate per day.
+
+                                                   = (26 ­ 25) × 1,800 = `1,800 (F)
+
+Variable Overhead Variances
+
+(i) V.O. Cost variance                             = Recovered Overhead ­ Actual Overhead
+
+                                                   = 65,000 ­ 68,000 = ` 3,000 (A)
+
+(ii) V.O.Expenditure Variance= Standard Overhead ­ Actual Overhead
+
+                                                   = 66,000 ­ 68,000 = ` 2,000 (A)
+
+(iii) V.O. Efficiency Variance = Recovered Overhead ­ Standard Overhead
+
+                                                   = 65,000 ­ 66,000 = `1,000 (A)
+
+Check
+
+(i) F.O. Cost Variance                             = Expenditure variance + Volume variance
+
+       1,250 (A)                                   = 5,000 (A) + 3,750 (F)
+
+(ii) F.O. Volume Variance = Efficiency + Capacity + Calendar
+                                           Variance Variance Variance
+
+       3,750 (F)                                   = 750 (A) + 2,700 (F) + 1,800 (F)
+
+© The Institute of Chartered Accountants of India
+    13.78 a               COST AND MANAGEMENT ACCOUNTING
+
+(iii) V.O. Cost Variance                           = Expenditure Variance + Efficiency Variance
+
+       3,000 (A)                                   = 2,000 (A) + 1,000 (A).
+
+10. For Fixed Overhead Variances
+
+Actual fixed overhead incurred                                                          ` 31,000
+
+Budgeted fixed overhead for the period                                                  `30,000
+
+Standard fixed overhead for production                                                  `33,000
+(` 30,000 ÷ 20,000 units) × 22,000
+
+Computation of Variances:
+
+(i) Fixed overhead expenditure variance:
+
+    = Budgeted fixed overhead ­ Actual fixed overhead
+
+    = ` 30,000 ­ ` 31,000                                                         = ` 1,000 (A)
+
+(ii) Fixed overhead volume variance:
+
+    = Standard fixed overhead ­ Budgeted fixed
+        overhead
+
+    = ` 33,000 ­ ` 30,000                                                         = ` 3,000 (F)
+
+(iii) Fixed overhead variance:
+
+    = Standard fixed overhead ­ Actual fixed overhead
+
+    = ` 33,000 ­ ` 31,000                                                         = ` 2,000 (F)
+
+11. Working Notes:
+
+1.     Calculation of standard variable overhead per unit
+
+    = Budgeted variable overhead = 10, 000 = ` 25 per unit
+       Budgeted production                         400
+
+2.     Calculation of standard variable overhead per hour
+
+    =  Budgeted variable overhead                  10,000 =  ` 1.25          per  hour
+                                            =
+       Budgeted man hours                          8, 000
+
+© The Institute of Chartered Accountants of India
+    STANDARD COSTING                               a 13.79                a
+
+3. Calculation of Std. variable overhead for actual output
+
+    = Actual output × Std. variable overhead per unit
+
+    = 360 units × ` 25 = ` 9,000
+
+4. Calculation of Budgeted variable overhead based on actual hours
+       worked
+
+    = Actual hours worked × Std. variable overhead per hour
+
+    = 7,000 × 1.25 = ` 8,750
+
+5.  Calculation of standard hours for actual output
+
+    = Actual output × Std. hours per unit
+
+    = 360 units × 20 hours = 7,200 hours
+
+(i) Variable overhead cost variance
+
+    = Std. variable overhead for actual output ­ Actual Variable Overheads
+
+    = 9,000 ­ 9,150 = ` 150 (A)
+
+(ii) Variable overhead expenditure variance
+
+    = Std. overhead for Actual hours ­ Actual Overhead
+
+    = 8,750 ­ 9,150 = ` 400 (A)
+
+(iii) Variable overhead efficiency variance
+
+    = (Std. hours for actual output ­ Actual hours) × Std. rate per hour
+
+    = (7,200 ­ 7,000) × 1.25 = ` 250 (F)
+
+12. For Fixed overheads Variances:
+
+Actual fixed overhead incurred = ` 1,56,000
+
+Budgeted fixed overhead for the period = 1,50,000
+
+Standard fixed overhead for production (Standard output for actual time ×
+Standard Fixed Overhead per unit)
+
+(6,300 hrs × 27 days × 0.9) × (` 1,50,000 ÷ 1,50,000 units) = ` 1,53,090
+
+© The Institute of Chartered Accountants of India
+13.80 a          COST AND MANAGEMENT ACCOUNTING
+
+(a) Fixed Overhead = Budgeted fixed overhead ­
+
+Expenditure                                        Actual fixed overhead
+
+Variance         = `1,50,000 ­ `1,56,000 =                                            ` 6,000 (A)
+
+(b) Fixed Overhead = Standard fixed overhead ­
+
+Volume Variance                                    Budgeted fixed overhead
+
+                 = `1,53,090 ­ ` 1,50,000 =                                           ` 3,090 (F)
+
+(c) Fixed Overhead = Standard fixed overhead ­
+
+Variance                                           Actual fixed overhead
+
+                 = `1,53,090 ­ ` 1,56,000 =                                           ` 2,910 (A)
+
+13. Actual material used = 125 kg × 60 = 7,500 kg.
+
+Actual cost of actual material used (AQ × AR)                               (`)
+
+   A      (60%) 4,500 kg × `21 =                                              94,500
+                                                                              12,000
+   B      (20%) 1,500 kg × ` 8 =
+                                                                               9,000
+   C      (20%) 1,500 kg × ` 6 =                                            1,15,500
+
+                 7,500
+
+Standard cost of actual material used (AQ × SR)                             (`)
+
+A                4,500 kg × `20 =                                           90,000
+
+B                1,500 kg × `10 =                                           15,000
+
+C                1,500 kg × ` 5 =                                           7,500
+
+                 7,500                                                      1,12,500
+
+Standard cost of material, if it had been used in standard proportion
+
+(Standard Proportion  Standard Rate)                                        (`)
+
+A         (50%) 3,750 kg × `20 =                                              75,000
+                                                                              22,500
+B         (30%) 2,250 kg × `10 =
+                                                                               7,500
+C         (20%) 1,500 kg × ` 5 =                                            1,05,000
+
+                 7,500
+
+© The Institute of Chartered Accountants of India
+      STANDARD COSTING                                         a 13.81  a
+
+Standard cost of production (SQ for actual production  SR)
+
+Standard cost of output for 100 kg:                            (`)
+
+A     62.50 kg × `20 =                                         1,250
+
+B     37.50 kg × `10 =                                         375
+
+C     25.00 kg × ` 5 =                                         125
+
+      125.00                                                   1,750
+
+Standard cost for output of 5,600 kg.
+
+   =  1,750 kg × 5,600 kg. = ` 98,000
+      100
+
+Material Price Variance = Standard cost of actual material used ­ Actual cost
+of actual material used = ` 1,12,500 ­ ` 1,15,500 = ` 3,000 (A)
+
+Material Usage Variance = Standard cost of production ­ Standard cost of
+actual material used = ` 98,000 ­ `1,12,500 = ` 14,500 (A)
+
+Note: Material Price Variance can be calculated at the time of purchase as well.
+In that case, material variance will be as follows:
+
+Actual cost of material purchased
+
+A 5,000 kg × ` 21 =                                ` 1,05,000
+B 2,000 kg × ` 8 =                                   ` 16,000
+C 1,200 kg × ` 6 =                                    ` 7,200
+
+                                                   ` 1,28,200
+
+Standard cost of material purchased
+
+A 5,000 kg × ` 20 =                                ` 1,00,000
+B 2,000 kg × ` 10 =                                  ` 20,000
+C 1,200 kg × ` 5 =                                    ` 6,000
+
+                                                   ` 1,26,000
+
+Material Price variance (if calculated at the time of purchase)
+
+= Standard cost of actual material used ­ Actual cost of actual material used
+
+= ` 1,26,000 ­ ` 1,28,200 = ` 2,200 (A)
+
+© The Institute of Chartered Accountants of India
+13.82 a         COST AND MANAGEMENT ACCOUNTING
+
+14. (i) Material Cost Variance (A + B) = {(SQ × SP) ­ (AQ × AP)}
+
+`3,625                                             = (SQ × SP) ­ `59,825
+
+(SQ × SP)                                          = ` 63,450
+
+(SQA × SPA) + (SQB × SPB) = ` 63,450
+
+(940 kg × SPA) + (705 kg ×`30)= ` 63,450
+
+(940 kg × SPA) + `21,150                           = ` 63,450
+
+(940 kg × SPA)                                     = ` 42,300
+   SPA                                             = ` 42,300
+
+                                                       940kg
+
+Standard Price of Material-A                       = ` 45
+
+Working Note:
+
+SQ i.e. quantity of inputs to be used to produce actual output
+
+                                                   = 1, 480kg = 1,645 kg
+                                                       90%
+
+SQA                                                = 800kg ×1,645kg.       = 940 kg
+                                                     (800 + 600)
+
+SQB                                                = 600kg ×1,645kg.       = 705 kg
+                                                     (800 + 600)
+
+(ii) Material Price Variance (A + B) = {(AQ × SP) ­ (AQ × AP)}
+
+` 175                                              = (AQ × SP) ­ ` 59,825
+
+(AQ × SP)                                          = ` 60,000
+
+(AQA × SPA) + (AQB × SPB)                          = ` 60,000
+
+[900 kg × ` 45 (from (i) above)]
+
++ (AQB × ` 30)                                     = ` 60,000
+
+` 40,500 + (AQB × ` 30)                            = ` 60,000
+
+© The Institute of Chartered Accountants of India
+                  STANDARD COSTING                                a 13.83      a
+
+(AQB × ` 30)                                       = ` 19,500
+AQB                                                = 19,500 = 650 kg
+
+                                                         30
+
+Actual Quantity of Material B = 650 kg.
+
+(iii) (AQ × AP)                                    = ` 59,825
+
+(AQA × APA) + (AQB × APB)                          = ` 59,825
+
+(900 kg × APA) + (650 kg (from (ii)
+
+above) × ` 32.5)                                   = ` 59,825
+
+(900 kg × APA) + ` 21,125                          = ` 59,825
+(900 kg × APA)                                     = ` 38,700
+APA                                                = 38,700 = 43
+
+                                                        900
+
+Actual Price of Material-A = ` 43
+
+(iv) Total Actual Quantity of Material-A and Material-B
+
+= AQA + AQB                                        = 900 kg + 650 kg (from (ii) above)
+                                                   = 1,550 kg
+
+Now,                                               = 800kg ×1,550kg. = 886 kg
+Revised SQA                                           (800 + 600)
+Revised SQB
+                                                   = 600kg ×1,550kg. = 664 kg
+                                                      (800 + 600)
+
+(v) Material Mix Variance (A + B) = {(RSQ × SP) ­ (AQ × SP)}
+
+                                                   = {(RSQA × SPA) + (RSQB × SPB) ­ 60,000}
+
+                                                   = (886 kg (from (iv) above) × ` 45 (from
+                                                      (i) above)) + (664 kg (from (iv) above)
+                                                            × ` 30) - ` 60,000
+
+                                                   = (39,870+19,920)­60,000= ` 210 (A)
+
+© The Institute of Chartered Accountants of India
+13.84 a             COST AND MANAGEMENT ACCOUNTING
+
+15. (i) Material Variances
+
+              Budget                               Std. for actual     Actual
+
+   Quantity Price Amount Quantity Price Amount Quantity Price Amount
+
+                (`) (`)                            (`) (`)             (`) (`)
+
+Material 0.5    60          30                     5,000 60 3,00,000 5,700 58 3,30,600
+
+Material Cost Variance                             = (SQ×SP ­ AQ ×AP)
+
+   3,00,000 ­ 3,30,600                             = ` 30,600(A)
+
+Material Price Variance                            = (SP ­ AP) AQ
+
+   (60 -58) 5,700                                  = ` 11,400 (F)
+
+Material Usage Variance                            = (SQ ­ AQ) SP
+
+   (5,000 ­ 5,700) 60                              = ` 42,000 (A)
+
+(ii) Variable Overheads variances
+
+Variable overhead cost Variance = (Standard variable overhead ­ Actual
+                                               Variable Overhead)
+
+Standard Variable Overheads: 10,000 units × 10 = 1,00,000
+
+(1,00,000 ­ 1,12,200) = ` 12,200(A)
+
+Variable overhead Efficiency Variance = (Standard Hours ­ Actual
+Hours) × Standard Rate per Hour
+
+Let Actual Hours be `X'
+
+(10,000 ­ X) × 10                                  = 2,000 (A)
+
+1,00,000 ­ 10X                                     = -2,000
+
+X                                                  = 1,02,000 ÷ 10
+
+Therefore, Actual Hours (X) = 10,200
+
+Variable overhead Expenditure Variance = (Variable Overhead at
+Actual Hours - Actual Variable Overheads)
+
+10,200 × 10 ­ 1,12,200 = ` 10,200 (A)
+
+© The Institute of Chartered Accountants of India
+                             STANDARD COSTING                       a 13.85         a
+
+(iii) Labour variances
+
+          Budget                                   Std. for actual          Actual
+
+       Hours Rate Amount Hours Rate Amount Hours Rate Amount
+
+          (`)           (`)                        (`)  (`)                 (`)     (`)
+
+Labour 1  20            20 10,000 20 2,00,000 10,200 22 2,24,400
+
+Actual Rate = ` 2,24,400÷10,200 hours = `22
+
+Labour Cost Variance                               = (SH × SR) ­ (AH × AR)
+
+10,000× 20 ­ 10,200 × 22                           = ` 24,400 (A)
+
+Labour Rate Variance                               = (SR ­ AR) × AH
+
+(20 ­ 22) × 10,200                                 = ` 20,400 (A)
+
+Labour Efficiency Variance = (SH ­ AH) × SR
+
+(10,000 ­ 10,200) × 20                             = ` 4,000 (A)
+
+Answers to the Case Scenarios
+
+1.
+            i. (d) ii. (c) iii. (a) iv. (b) v. (a)
+
+i. d   Variable Overhead Cost = Standard Variable Overheads for
+ii. c
+          Variance                                 Production ­ Actual Variable
+
+                                                        Overheads
+
+                                                   = ` 44,800 ­ ` 55,680
+
+                                                   = ` 10,880 (A)
+
+       Fixed Overhead Volume = Absorbed Fixed Overheads ­
+
+       Variance                                         Budgeted Fixed Overheads
+
+                                                   = ` 87,200 ­ ` 1,09,000
+
+                                                   =` 21,800 (A)
+
+© The Institute of Chartered Accountants of India
+13.86 a           COST AND MANAGEMENT ACCOUNTING
+
+iii. a  Fixed Overhead Expenditure = Budgeted Fixed Overheads ­
+
+        Variance                                   Actual Fixed Overheads
+
+                                                   = ` 10.9 × 10,000 units ­
+                                                         ` 1,30,520
+
+                                                   = ` 21,520 (A)
+
+iv. b Calendar Variance                            = Possible Fixed Overheads ­
+                                                      Budgeted Fixed Overheads
+
+                                                   = ` 1,03,550 ­ ` 1,09,000
+
+                                                   = ` 5,450 (A)
+
+v. a    Fixed Overhead Cost Variance = Absorbed Fixed Overheads ­
+                                                               Actual Fixed Overheads
+
+                                                   = ` 87,200 ­ ` 1,30,520
+
+                                                   = ` 43,320 (A)
+
+WORKING NOTE
+
+Fixed Overheads = Budgeted Fixed Overheads                                      ` 10.00
+                               Budgeted Output
+                                                                            ` 1,08,000
+= 12,00,000÷1,20,000                                                             ` 0.90
+Fixed Overheads element in Semi-Variable Overheads i.e.
+60% of ` 1,80,000                                                               ` 10.90
+Fixed Overheads = Budgeted Fixed Overheads                                    ` 87,200
+                                                                            ` 6,00,000
+                                Budgeted Output                               ` 72,000
+` 1,08,000/120,000                                                          ` 6,72,000
+Standard Rate of Absorption of Fixed Overheads per unit
+(` 10.00 + ` 0.90)                                                                `5.60
+
+Fixed Overheads Absorbed on 8,000 units @ `10.90
+
+Budgeted Variable Overheads
+Add: Variable element in Semi-Variable Overheads 40% of
+` 1,80,000
+Total Budgeted Variable Overheads
+Standard Variable Cost per unit
+
+© The Institute of Chartered Accountants of India
+STANDARD COSTING                                   a 13.87  a
+
+                             = Budgeted Variable Overheads      ` 44,800
+                                          Budgeted Output   ` 13,08,000
+
+Standard Variable Overheads for 8,000 units @ `5.60          ` 1,03,550
+Budgeted Annual Fixed Overheads (` 12,00,000 + 60% of
+` 1,80,000)                                                  ` 1,30,520
+Possible Fixed Overheads                                        ` 55,680
+
+                  = Budgeted Fixed Overheads×ActualDays
+                              Budgeted Days
+
+                    = 1,09,000/20 days ×19 days
+
+Actual Fixed Overheads (` 1,19,000 + 60% of ` 19,200)
+Actual Variable Overheads (` 48,000 + 40% of ` 19,200)
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+

@@ -1,0 +1,1732 @@
+CHAPTER  1
+
+NATURE, OBJECTIVE
+AND SCOPE OF AUDIT
+
+                                     LEARNING OUTCOMES
+
+After studying this chapter, you would be able to understand-
+
+ Meaning, nature and scope of audit
+ Objectives of audit
+ Inherent Limitations of audit
+ Benefits of audit
+ Meaning of assurance engagements
+ Difference between reasonable assurance engagement and
+
+      limited assurance engagement
+
+ Meaning and basic purpose of engagement and quality control
+
+      standards
+
+ Practicality of above concepts by studying through examples
+
+      and case studies
+
+© The Institute of Chartered Accountants of India
+1.2           AUDITING AND ETHICS
+
+CHAPTER OVERVIEW
+
+                                                   Meaning
+
+     SA 200                                                 Objective &
+                                                                Scope
+
+ Audit with                                        AUDIT
+reference to
+                                                                          Need &
+ Standards                                                                Benefits
+on Auditing
+
+               Inherent                                     Qualities of
+              Limitations                                     Auditor
+
+Sameer, a young CA aspirant, takes interest in events happening around him.
+Business and financial dealings of corporate world interest him very much. He
+regularly reads a newspaper publishing mainly business and economic news. He
+also keeps track of particularly such news on social media handles.
+
+During last one year or so, he has seen audited financial results of many companies
+listed on stock exchanges being published in newspaper. He also visited web sites
+of some companies to go through their annual reports. The annual reports also,
+inter alia, contained audit reports signed by Chartered Accountants as auditors of
+companies.
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT               1.3
+
+He was also eagerly tracking financial results of an IT company. The annual audited
+results of the company were declared on one Friday evening. However, shares of
+company took a beating on Monday as soon as markets opened. Curiosity led him
+to find reason for such an adverse market reaction. He got to know that audited
+profits of company were below market expectations and auditors had remarked
+adversely on some matters which was not taken kindly by markets.
+
+One of his uncles was expanding business and needed funds to meet business
+expansion requirements. Anticipating urgent financial needs, he approached a
+bank. Credit officer of bank requested for audited financial statements of past years
+of business to consider his loan application.
+
+He was also thinking that companies must be paying taxes on profits shown in their
+audited financial statements. A few months back, he was reading a news report
+pointing out substantial increase in direct tax collections of government as
+highlighted in Union Budget.
+
+Higher taxes paid by companies on basis of audited results may have been a
+significant contributing factor of such increase in direct tax collections, he thought
+in his mind. He was wondering upon enormous responsibility of auditors in this
+regard. He kept on pondering over significant role of auditors in economy and
+nation building.
+
+    1. INTRODUCTION
+
+What do such real-life situations highlight? Such instances underline importance of
+auditing in today's complex business environment. Be it investors desirous of
+investing their money in companies, shareholders anxious to know financial
+position of companies they have invested in, banks or financial institutions willing
+to lend funds to credit-worthy organizations, governments desirous of collecting
+taxes from trade and industry in accordance with applicable laws, trade unions
+negotiating with corporate managements for better wages or insurance companies
+wanting to settle property claims caused by fire or other disasters- range of diverse
+users in equally diverse fields rely upon audited financial statements.
+
+Can you figure out reason behind such reliance? It is due to the fact that audited
+financial statements provide confidence to users of financial statements; audited
+financial statements provide assurance to users who may take their decisions on
+
+© The Institute of Chartered Accountants of India
+1.4  AUDITING AND ETHICS
+
+the basis of such audited financial statements. Herein lies the importance of
+auditing. You can very well understand how significant is role of auditing profession
+and auditors in modern world involving multitude of economic activities being
+carried out in equally dynamic legal and regulatory environments.
+
+Here, comes a vital question. What do we mean by auditing? What is its nature and
+scope? What it includes and What it does not? What are its limitations? We shall
+try to find out answers to these questions in succeeding paras.
+
+    2. ORIGIN OF AUDITING
+
+Before we get to understand meaning and nature of auditing, let's travel back in
+time to know about origin of auditing. Auditing has existed even in ancient times
+in many societies of world including India. The reference to auditing is found in
+Kautilya's Arthshastra even in 4th century BC. It talks about fixed accounting year, a
+process for closure of accounts and audit for the same. Concepts of periodical
+checking and verification existed even in those times. Even there are references in
+his monumental work to misstatements in financial statements due to abuse of
+power. Wasn't he far ahead of his times?
+
+The word "audit" originates from Latin word "audire" meaning "to hear". In medieval
+times, auditors used to hear the accounts read out to them to check that employees
+were not careless and negligent. Industrial revolution in Europe led to astronomical
+expansion in volume of trade and consequently demand of auditors.
+
+Coming to more recent history, the first Auditor General of India was appointed in
+British India in 1860 having both accounting and auditing functions. Later on, office
+of Auditor General was given statutory recognition. Presently, Comptroller and
+Auditor General of India is an independent constitutional authority responsible for
+auditing government receipts and expenditures.
+
+The Institute of Chartered Accountants of India was established as a statutory body
+under an Act of Parliament in 1949 for regulating the profession of Chartered
+Accountancy in the country.
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT               1.5
+
+    3. MEANING AND NATURE OF AUDITING
+
+"An audit is an independent examination of financial information of any entity,
+whether profit oriented or not, and irrespective of its size or legal form, when such an
+examination is conducted with a view to expressing an opinion thereon".
+
+An incisive analysis of above meaning of auditing brings out following points clearly: -
+
+ Audit is an independent examination of financial information.
+
+       Independence, here, implies that the judgement of a person is not subordinate
+       to the wishes or direction of another person who might have engaged him.
+       The auditor should be independent of entity whose financial statements are
+       subject to audit so that he can form an opinion without being affected by any
+       influence. Independence increases auditor's ability to act objectively without
+       creeping in of any biases.
+
+       Consider, for example, a person who requests his brother, a Chartered
+       Accountant, to audit accounts of his proprietary concern and issue a report.
+       Can CA audit accounts of concern in which his brother is sole proprietor? No,
+       he cannot. It is due to the fact that there would be no independence in such
+       a case due to relationship by birth between CA and his brother. He would be
+       subject to influence from his brother.
+
+       Take another case where a CA has invested in shares of a company. Can he
+       audit accounts of such a company in which he holds shares? The answer is
+       resounding NO. It is due to the fact that by holding shares of the company,
+       his own self-interest gets involved. His own money is invested in the company
+       and he may not be able to form judgment independently on the financial
+       statements of the company.
+
+ The entity whose financial information is examined need not necessarily be
+       profit oriented like in case of a business. It can be a non-profit organization
+       like an NGO or a charitable trust. Audit can be undertaken in respect of any
+       organization be it a small, medium or large. Further, it can be conducted for
+       any entity irrespective of its legal structure i.e. such an entity may be a
+       proprietary concern, a partnership firm, a LLP, a private company, a public
+       company, a society or a trust.
+
+ The purpose of audit is to express an opinion on the financial statements.
+
+© The Institute of Chartered Accountants of India
+1.6  AUDITING AND ETHICS
+
+       Understand that preparation and presentation of financial statements of an
+       entity is responsibility of management of entity. The auditor expresses an
+       opinion on financial statements by means of written audit report.
+
+       In doing so, he has to see that financial statements would not mislead
+       anybody by ensuring that: -
+
+       o the accounts have been drawn up with reference to entries in the books
+               of account;
+
+       o the entries in the books of account are adequately supported by
+               sufficient and appropriate evidence;
+
+       o none of the entries in the books of account has been omitted in the
+               process of compilation;
+
+       o the information conveyed by the statements is clear and unambiguous;
+
+       o the financial statement amounts are properly classified, described and
+               disclosed in conformity with accounting standards; and
+
+       o the statement of accounts presents a true and fair picture of the
+               operational results and of the assets and liabilities.
+
+Auditing provides assurance. Its basic nature lies in providing assurance to users -
+providing confidence to users of financial statements. Such an assurance lends
+credibility to financial statements. Audited financial statements provide confidence to
+users that financial information reflected in financial statements can be relied upon.
+
+    4. INTERDISCIPLINARY NATURE OF AUDITING-
+
+          RELATIONSHIP WITH DIVERSE SUBJECTS
+
+Auditing is interdisciplinary in nature. It draws from diverse subjects including
+accountancy, law, behavioural science, statistics, economics and financial
+management and makes use of these subjects. Since audit of financial statements
+is concerned with financial information, a sound knowledge of accounting
+principles is a fundamental requirement for an auditor of financial statements to
+conduct audit and express an opinion. Similarly, good knowledge of business laws
+and various taxation laws helps auditor to understand financial statements in a
+better way in accordance with applicable laws.
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT                                              1.7
+
+During course of audit, auditor has to interact with lot of persons for seeking
+information and making inquiries. This can be done only if one has knowledge of
+human behaviour. Auditors use statistical methods to draw samples in a scientific
+manner. It is not possible for an auditor to check each and every transaction. So,
+use of statistical methods to draw samples for conducting audit is made.
+
+Knowledge of subject like economics helps auditor to be familiar with overall
+economic environment in which specific business is operating. Financial
+management deals with issues such as funds flow, working capital management,
+ratio analysis etc. and an auditor is expected to be knowledgeable about these for
+applying some of audit procedures and carrying out audit effectively. Besides,
+knowledge of financial markets comprised in study of financial management is
+expected from a professional auditor.
+
+                                                   Accounting
+
+Production                                                        Law
+
+   Financial                                       Auditing            Economics
+Management
+
+    Data                                                          Behavioural
+Processing                                                           Science
+
+                                                    Statistics &
+                                                   Mathematics
+
+Auditing and Accounting: Auditing reviews the financial statements which are
+nothing but a result of the overall accounting process.
+
+Auditing and Law: An auditor should have a good knowledge of business laws
+affecting the entity.
+
+Auditing and Economics: Auditor is expected to be familiar with the overall
+economic environment of the client.
+
+© The Institute of Chartered Accountants of India
+1.8  AUDITING AND ETHICS
+
+Auditing and Behavioural Science: Knowledge of human behaviour is essential
+for an auditor to effectively discharge his duties.
+
+Auditing and Statistics & Mathematics: Auditor is also expected to have the
+knowledge of statistical sampling for meaningful conclusions and mathematics for
+verification of inventories.
+
+Auditing and Data Processing: EDP auditing in itself is developing as a discipline
+in itself.
+
+Auditing and Financial Management : Auditor is expected to have knowledge
+about various financial techniques such as working capital management, funds
+flow, ratio analysis, capital budgeting etc.
+
+Auditing and Production: Good auditor is one who understands the client and his
+business functions such as production, cost system, marketing etc.
+
+    5. OBJECTIVES OF AUDIT
+
+In conducting audit of financial statements, objectives of auditor in accordance with
+SA-200 "Overall Objectives of the Independent auditor and the conduct of an audit
+in accordance with Standards on Auditing" are: -
+
+(a) To obtain reasonable assurance about whether the financial statements as a
+       whole are free from material misstatement, whether due to fraud or error,
+       thereby enabling the auditor to express an opinion on whether the financial
+       statements are prepared, in all material respects, in accordance with an
+       applicable financial reporting framework; and
+
+(b) To report on the financial statements, and communicate as required by the
+       SAs, in accordance with the auditor's findings.
+
+An analysis of above brings out following points clearly: -
+
+(1) Auditor's objective is to obtain a reasonable assurance whether financial
+       statements as a whole are free from material misstatement whether due to
+       fraud or error.
+
+© The Institute of Chartered Accountants of India
+          NATURE, OBJECTIVE AND SCOPE OF AUDIT     1.9
+
+       Reasonable assurance is to be distinguished from absolute assurance. Absolute
+       assurance is a complete assurance or a guarantee that financial statements
+       are free from material misstatements. However, reasonable assurance is not
+       a complete guarantee. Although it is a high-level of assurance but it is not
+       complete assurance.
+
+       Audit of financial statements is carried out by the auditor with professional
+       competence and skills in accordance with Standards on Auditing. Audit
+       procedures are applied in accordance with SAs, audit evidence is obtained
+       and evaluated. On basis of that, conclusions are drawn and opinion is formed.
+       It leads to high level of assurance which is called as reasonable assurance but
+       it is not absolute assurance.
+
+(2) Misstatements in financial statements can occur due to fraud or error or both.
+       The auditor seeks to obtain reasonable assurance whether financial
+       statements as a whole are free from material misstatements caused by fraud
+       or error. He has to see effect of misstatements on financial statements as a
+       whole, in totality.
+
+(3) Obtaining reasonable assurance that financial statements as a whole are free
+       from material misstatements enables the auditor to express an opinion on
+       whether the financial statements are prepared, in all material respects, in
+       accordance with an applicable financial reporting framework.
+
+(4) The opinion is reported and communicated in accordance with audit findings
+       through a written report as required by Standards on Auditing. (You would be
+       studying about these in subsequent parts of this Chapter).
+
+An Overview of Objectives of Audit
+
+Checkbox  Objectives of audit
+    
+          Obtaining a reasonable assurance that financial statements as a whole
+          are free from material misstatement due to fraud or error
+    
+          Gaining a reasonable assurance leads to formation of opinion whether
+          financial statements are prepared, in all material respects, in accordance
+          with applicable financial reporting framework
+
+          To report on the financial statements
+
+          Reporting of opinion in accordance with audit findings
+
+© The Institute of Chartered Accountants of India
+  1.10      AUDITING AND ETHICS
+
+  Communication of reporting
+
+  Reporting and communication in accordance with Standards on
+
+  Auditing
+
+    6. SCOPE OF AUDIT-WHAT IT INCLUDES
+
+Scope refers to range or reach of something. The purpose of an audit is to enhance
+the degree of confidence of intended users in the financial statements. Users of
+financial statements may be shareholders, employees, customers, government and
+regulatory authorities, bankers etc. Enhancing of degree of confidence is achieved
+by the expression of an opinion by the auditor on whether the financial statements
+are prepared, in all material respects, in accordance with an applicable financial
+reporting framework.
+
+(Applicable financial reporting framework means a framework adopted in the
+preparation and presentation of the financial statements that is acceptable in view
+of the nature of the entity and the objective of the financial statements, or that is
+required by law or regulation.)
+
+For example, in case of companies in India, financial reporting framework is
+provided under Schedule III of the Companies Act,2013.
+
+The following points are included in scope of audit of financial statements: -
+
+(1) Coverage of all aspects of entity
+
+       Audit of financial statements should be organized adequately to cover all
+       aspects of the entity relevant to the financial statements being audited.
+
+(2) Reliability and sufficiency of financial information
+
+       The auditor should be reasonably satisfied that information contained in
+       underlying accounting records and other source data (like bills, vouchers,
+       documents etc.) is reliable and sufficient basis for preparation of financial
+       statements.
+
+       The auditor makes a judgment of reliability and sufficiency of financial
+       information by making a study and assessment of accounting systems and
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT               1.11
+
+       internal controls and by carrying out appropriate tests, enquiries and
+       procedures.
+
+(3) Proper disclosure of financial information
+
+       The auditor should also decide whether relevant information is properly
+       disclosed in the financial statements. He should also keep in mind applicable
+       statutory requirements in this regard.
+
+       It is done by ensuring that financial statements properly summarize
+       transactions and events recorded therein and by considering the judgments
+       made by management in preparation of financial statements.
+
+       The management responsible for preparation and presentation of financial
+       statements makes many judgments in this process of preparing and
+       presenting financial statements. For example, choosing of appropriate
+       accounting policies in relation to various accounting issues like choosing
+       method of charging depreciation on fixed assets or choosing appropriate
+       method for valuation of inventories.
+
+       The auditor evaluates selection and consistent application of accounting
+       policies by management; whether such a selection is proper and whether
+       chosen policy has been applied consistently on a period-to-period basis.
+
+       Understand that financial statements of an entity are prepared on historical
+       financial information basis. "Historical financial information" means
+       information expressed in financial terms in relation to a particular entity,
+       derived primarily from that entity's accounting system, about economic
+       events occurring in past time periods or about economic conditions or
+       circumstances at points in time in the past.
+
+       For example, when purchases and sales are reflected in financial statements
+       of an entity, these are examples of historical financial information. These are
+       about transactions which have occurred in past.
+
+Since financial statements are prepared on the basis of historical financial
+information, it is logical that audit of financial statements is also based upon such
+historical financial information. Therefore, audit of financial statements is based
+upon historical financial information.
+
+© The Institute of Chartered Accountants of India
+           1.12  AUDITING AND ETHICS
+
+6.1 Scope of audit-What it does not include
+
+Auditor is not expected to perform duties which fall outside domain of his
+competence. For example, physical condition of certain assets like that of
+sophisticated machinery cannot be determined by him. Similarly, it is not expected
+from an auditor to determine suitability and life of civil structures like buildings.
+These require different skillsets which may be performed by qualified engineers in
+their respective fields.
+
+An auditor is not an expert in authentication of documents. The genuineness of
+documents cannot be authenticated by him because he is not an expert in this field.
+
+An audit is not an official investigation into alleged wrong doing. He does not have
+any specific legal powers of search or recording statements of witness on oath
+which may be necessary for carrying out an official investigation.
+
+Audit is distinct from investigation. Investigation is a critical examination of the
+accounts with a special purpose. For example, if fraud is suspected and it is
+specifically called upon to check the accounts whether fraud really exists, it takes
+character of investigation.
+
+The objective of audit, on the other hand, as has already been discussed, is to
+obtain reasonable assurance about whether the financial statements as a whole are
+free from material misstatement, whether due to fraud or error, thereby enabling
+the auditor to express an opinion.
+
+The scope of audit is general and broad whereas scope of investigation is specific
+and narrow.
+
+An Overview of Scope of Audit
+
+Check box  Scope of audit of financial statements
+     
+           Coverage of all aspects of entity relevant to the financial statements
+           being audited.
+           Reliability and Sufficiency of financial information
+           Proper disclosure of financial information
+           Expression of an opinion on financial statements
+
+© The Institute of Chartered Accountants of India
+   NATURE, OBJECTIVE AND SCOPE OF AUDIT            1.13
+
+X  Responsibility of preparation and presentation of financial
+
+   statements
+
+X  Duties outside scope of competence of auditor
+
+X  Expertise in authentication of documents
+
+X  Investigation
+
+Test Your Understanding 1
+
+Lalji Bhai has purchased shares of a company listed on NSE. The audited financial
+statements of the company provide picture of healthy financial performance having
+robust turnover, low debt and good profits. On above basis, he is absolutely
+satisfied that money invested by him is safe and there is no chance of losing his
+money. Do audited results and audit reports of companies provide such assurance
+to investors like Lalji Bhai? Is thinking of Lalji Bhai correct?
+
+Test Your Understanding 2
+
+Good deeds Limited is engaged in business of recycling of wastes from dumping
+grounds of municipal corporation of Indore to usable manure. It is, in this way,
+also, helping to make the city clean.
+
+During course of audit by Zoha & Zoha, a firm of auditors, it is observed by auditors
+that company has received a notice from Central Bench of National Green Tribunal
+for not following certain environmental regulations involving imposition of hefty
+monetary penalty on the company. The company is yet to reply to the notice. The
+auditors point out that same is not stated in notes to accounts in financial
+statements. The company points out that auditors are going beyond scope of their
+work. Does such a matter fall within scope of audit?
+
+Test Your Understanding 3
+
+A huge fire broke out in NOIDA plant of KT Limited. Plant assets comprising
+building, machinery and inventories were insured from branch of a public sector
+insurance company. Apart from an insurance surveyor who was deputed for
+assessing loss, the regional office of insurance PSU also appointed a CA for
+verification of books of accounts/ financial records of the company and
+circumstances surrounding the loss. He was also requested to submit an early
+report. Would the report by CA in nature of audit report?
+
+© The Institute of Chartered Accountants of India
+1.14  AUDITING AND ETHICS
+
+    7. INHERENT LIMITATIONS OF AUDIT
+
+The process of audit suffers from certain inbuilt limitations due to which an auditor
+cannot obtain an absolute assurance that financial statements are free from
+misstatement due to fraud or error. These fundamental limitations arise due to the
+following factors: -
+
+(1) Nature of financial reporting
+
+       Preparation of financial statements involves making many judgments by
+       management. These judgments may involve subjective decisions or a degree
+       of uncertainty. Therefore, auditor may not be able to obtain absolute
+       assurance that financial statements are free from material misstatements due
+       to frauds or errors.
+
+       One of the premises for conducting an audit is that management
+       acknowledges its responsibility of preparation of financial statements in
+       accordance with applicable financial reporting framework and for devising
+       suitable internal controls. However, such controls may not have operated to
+       produce reliable financial information due to their own limitations.
+
+       Consider, for example, that management of a company has devised a control
+       that all purchase bills should reflect stamp and signatures of an authorised
+       person in "Goods Receiving Section" of the company stating the date and
+       time of receiving goods in premises. It is an example of internal control
+       devised by the company to ensure that only those purchase bills are produced
+       for payment for which goods have been actually received. Now, what
+       happens if concerned accountant and authorised person in "Goods Receiving
+       Section" collude. It is a case of overriding of internal controls devised by the
+       company due to collusion between two persons. Such a probable collusion is
+       one of limitations of internal controls itself.
+
+(2) Nature of Audit procedures
+
+       The auditor carries out his work by obtaining audit evidence through
+       performance of audit procedures. However, there are practical and legal
+       limitations on ability of auditor to obtain audit evidence. For example, an
+       auditor does not test all transactions and balances. He forms his opinion only
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT               1.15
+
+       by testing samples. It is an example of practical limitation on auditor's ability
+       to obtain audit evidence.
+
+       Management may not provide complete information as requested by auditor.
+       There is no way by which auditor can force management to provide complete
+       information as may be requested by auditor. In case he is not provided with
+       required information, he can only report. It is an example of legal limitation
+       on auditor's ability to obtain audit evidence.
+
+       The management may consist of dishonest and unscrupulous people and may
+       be, itself, involved in fraud. It may be engaged in concealing fraud by
+       designing sophisticated and carefully organized schemes which may be hard
+       to detect by the auditor. It may produce fabricated documents before auditor
+       to lead him to believe that audit evidence is valid. However, in reality, such
+       documents could be fake or non-genuine.
+
+       We have already discussed under section on scope of audit that an auditor is
+       not an expert in authentication of documents. Therefore, he may be led to
+       accept invalid audit evidence on the basis of unauthentic documents.
+
+       It is quite possible that entity may have entered into some transactions with
+       related parties. Such transactions may be only paper transactions and may
+       not have actually occurred. The auditor may not be aware of such related
+       party relationships or audit procedures may not be able to detect probable
+       wrong doings in such transactions.
+
+(3) Not in nature of investigation
+
+       As already discussed, audit is not an official investigation. Hence, auditor
+       cannot obtain absolute assurance that financial statements are free from
+       material misstatements due to frauds or errors.
+
+(4) Timeliness of financial reporting and decrease in relevance of
+       information over time
+
+       The relevance of information decreases over time and auditor cannot verify
+       each and every matter. Therefore, a balance has to be struck between
+       reliability of information and cost of obtaining it.
+
+© The Institute of Chartered Accountants of India
+1.16               AUDITING AND ETHICS
+
+Consider, for example, an auditor who is conducting audit of a company since
+last two years. During these two years, he has sought detailed information
+from management of company regarding various matters. During his third-
+year stint, he chooses to rely upon some information obtained as part of audit
+procedures of second year. However, it could be possible that something new
+has happened and that information is not relevant. So, the information being
+relied upon by auditor is not timely and may have lost its reliability.
+
+(5) Future events
+
+Future events or conditions may affect an entity adversely. Adverse events
+may seriously affect ability of an entity to continue its business. The business
+may cease to exist in future due to change in market conditions, emergence
+of new business models or products or due to onset of some adverse events.
+
+Therefore, it is in view of above factors, that an auditor cannot provide a
+guarantee that financial statements are free from material misstatements due
+to frauds or errors.
+
+Inherent Limitations of Audit (SA 200 "Overall Objectives of the Independent
+Auditor and the Conduct of an Audit in Accordance with Standards on Auditing"):
+The auditor is not expected to, and cannot, reduce audit risk to zero because there
+are inherent limitations of an audit. The inherent limitations of an audit arise from:
+
+The Nature of Financial Reporting: The preparation of financial statements involves
+judgment by management.
+
+The Nature of Audit Procedures: There are practical and legal limitations on the
+auditor's ability to obtain audit evidence such as:
+
+Possibility that management or others may          Fraud may involve sophisticated
+not provide, intentionally or unintentionally,     and carefully organised schemes.
+the complete information relevant for
+preparation and presentation of FS.
+
+Not in the nature of Investigation: An audit is not an official investigation into
+alleged wrongdoing.
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT  1.17
+
+Timeliness of financial reporting and decrease in relevance of information
+over time: Relevance of information, and thereby its value, tends to diminish
+over time, and there is a balance to be struck between the reliability of
+information and its cost.
+
+Future events: Future events or conditions may affect an entity adversely. Adverse
+events may seriously affect ability of an entity to continue its Business.
+
+    8. WHAT IS AN ENGAGEMENT?
+
+Engagement means an arrangement to do something. In the context of auditing, it
+means a formal agreement between auditor and client under which auditor agrees
+to provide auditing services. It takes the shape of engagement letter.
+
+8.1 External audit engagements
+
+The purpose of external audit engagements is to enhance the degree of
+confidence of intended users of financial statements. Such engagements are also
+reasonable assurance engagements. For example, in India, companies are required
+to get their annual accounts audited by an external auditor. Even non-corporate
+entities may choose to have their accounts audited by an external auditor because
+of benefits of such an audit.
+
+    9. BENEFITS OF AUDIT-WHY AUDIT IS NEEDED?
+
+ Audited accounts provide high quality information. It gives confidence to
+       users that information on which they are relying is qualitative and it is the
+       outcome of an exercise carried out by following Auditing Standards
+       recognized globally.
+
+ In case of companies, shareholders may or may not be involved in daily affairs
+       of the company. The financial statements are prepared by management
+       consisting of directors. As shareholders are owners of the company, they need
+       an independent mechanism so that financial information is qualitative and
+       reliable. Hence, their interest is safeguarded by an audit.
+
+ An audit acts as a moral check on employees from committing frauds for the
+       fear of being discovered by audit.
+
+© The Institute of Chartered Accountants of India
+1.18  AUDITING AND ETHICS
+
+ Audited financial statements are helpful to government authorities for
+       determining tax liabilities.
+
+ Audited financial statements can be relied upon by lenders, bankers for making
+       their credit decisions i.e. whether to lend or not to lend to a particular entity.
+
+ An audit may also detect fraud or error or both.
+
+ An audit reviews existence and operations of various controls operating in
+       any entity. Hence, it is useful at pointing out deficiencies.
+
+    10. AUDIT- MANDATORY OR VOLUNTARY?
+
+It is not necessary that audit is always legally mandatory. There are entities like
+companies who are compulsorily required to get their accounts audited under law.
+Even non-corporate entities may be compulsorily requiring audit of their accounts
+under tax laws. For example, in India, every person is required to get accounts
+audited if turnover crosses certain threshold limit under income tax law.
+
+It is also possible that some entities like schools may be required to get their
+accounts audited for the purpose of obtaining grant or assistance from the
+Government.
+
+Audit is not always mandatory. Many entities may get their accounts audited
+voluntarily because of benefits from the process of audit. Many such concerns have
+their internal rules requiring audit due to advantages flowing from an audit.
+
+    11. WHO APPOINTS AN AUDITOR?
+
+Generally, an auditor is appointed by owners or in some cases by constitutional or
+government authorities in accordance with applicable laws and regulations. For
+example, in case of companies, auditor is appointed by members (shareholders) in
+Annual General Meeting (AGM). Shareholders are owners of a company and
+auditor is appointed by them in AGM.
+
+However, in case of government companies in India, auditor is appointed by
+Comptroller and Auditor General of India (CAG), an independent constitutional
+authority.
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT               1.19
+
+Take case of a firm who engages an auditor to audit its accounts. In such a case,
+auditor is appointed by partners of firm.
+
+There may be a situation in which auditor may be appointed by a government
+authority in accordance with some law or regulation. For example, an auditor may
+be appointed under tax laws by a government authority.
+
+    12. TO WHOM REPORT IS SUBMITTED BY AN
+          AUDITOR?
+
+The outcome of an audit is written audit report in which auditor expresses an opinion.
+The report is submitted to person making the appointment. In case of companies,
+these are shareholders- in case of a firm, to partners who have engaged him.
+
+We shall now discuss understanding reached so far from a case study involving
+discussion among students regarding nature, scope, limitations, benefits of
+auditing and other related matters.
+
+CASE STUDY-1
+
+Rohit, Gurpreet, Ali and Goreti are friends since their school days based in Mumbai.
+They have cleared CA foundation exams in the same attempt and now plan to
+appear for CA Intermediate exams. All of them are avid news listeners and regularly
+keep track of business news even on social media.
+
+They are trying to understand new subjects including auditing. Rohit, Gurpreet and
+Ali have also started attending Live Coaching Classes (LCC) being conducted by
+Board of studies of ICAI. Goreti has not been able to join Live Coaching Classes yet
+as she was away on a holiday with her parents. However, she plans to catch it up
+with her friends very soon. Ali had also joined the classes but he had skipped some
+lectures.
+
+During one informal get together, their discussions centred around new subject of
+auditing. They discussed many things regarding its nature, scope, benefits and
+other general practical issues. Goreti was regular in keeping track of audited results
+of companies being published in leading newspapers. Her view was that audited
+financial statements of companies give 100% guarantee to different stake holders.
+It is the main reason behind so much reliance upon auditing. But she could not
+
+© The Institute of Chartered Accountants of India
+1.20  AUDITING AND ETHICS
+
+understand why wrong doings in financial matters are being discovered after many
+years have gone by.
+Ali also concurred with her view and added that when financial statements are
+audited, each and every transaction appearing in books of accounts is verified.
+However, he could not give clarity to Goreti.
+Gurpreet was of the opinion that audit was conducted on the basis of sample
+checking. He was also of the view that audited financial statements are not a
+guarantee against probable wrong doings in financial matters of the companies.
+Not to be left behind, Rohit also jumped in the fray. He supported Gurpreet and
+also added something of his own.
+
+Based on above, answer the following questions: -
+
+1. Gurpreet was of the view that audited financial statements are not a guarantee
+       against probable wrong doings in financial matters of companies. What kind
+       of assurance does audit of financial statements provide?
+
+       (a) It provides reasonable assurance meaning a moderate level of assurance.
+
+       (b) It provides reasonable assurance meaning a low level of assurance.
+
+       (c) It provides reasonable assurance meaning a high level of assurance.
+
+       (d) It provides reasonable assurance meaning an absolute level of assurance.
+
+2. Rohit added that auditor can force an employee of the company to provide him
+       required information and documents. Can he do so?
+
+       (a) Yes, he can do so. It is necessary to obtain audit evidence.
+
+       (b) Yes, he can do so. There are express rights given to him in this respect.
+
+       (c) No, he cannot do so. He can only request for providing him with necessary
+               information and documents. But it cannot be forced by him.
+
+       (d) No, he cannot do so. He has no right of seeking information and
+               documents. Therefore, question of forcing does not arise.
+
+3. Ali had listened in one of the classes that audit covers all aspects of an entity
+       and concluded that each and every transaction of entity is verified by auditor.
+       Goreti also seemed to be in agreement with him but she was of the view that
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT               1.21
+
+       besides this, it also meant that audit should be so organized to cover all areas
+       of an entity. Which of following statements is appropriate in this regard?
+
+       (a) Only view of Ali is correct.
+
+       (b) Only view of Goreti is correct.
+
+       (c) Views of both Ali and Goreti are correct.
+
+       (d) Views of both Ali and Goreti are incorrect.
+
+4. All of them also discussed about benefits of auditing. Which of the following is
+       not a likely benefit of auditing?
+
+       (a) Since auditing is connected to future events, audited information can be
+               easily relied upon by users.
+
+       (b) Errors or frauds may be discovered during audit.
+
+       (c) Government authorities can make use of audited accounts for different
+               purposes.
+
+       (d) It can help in bringing out deficiencies in maintenance of financial
+               records.
+
+5. Goreti told her friends that she had read a news report about how a company
+       had misled its auditors by producing some fabricated documents. Which of
+       following statements seems to be appropriate in this regard?
+
+       (a) It was wrong on the part of auditor to rely upon fabricated documents.
+               He must have discovered it as the same falls within the scope of his duties.
+
+       (b) Although it was wrong on the part of auditor to rely upon fabricated
+               documents, he cannot do anything in the matter. He has to report on the
+               basis of documents provided to him. He has no duty in this regard.
+
+       (c) Auditor has to conduct audit by exercising professional skill. But he is not
+               an expert in discovering genuineness of documents. Hence, management
+               consisting of dishonest persons may have led him to rely upon fabricated
+               documents deliberately.
+
+       (d) Management cannot mislead auditor due to high level of knowledge and
+               expertise possessed by him. The above is an outlier case-one of the rare
+               odd cases.
+
+© The Institute of Chartered Accountants of India
+1.22  AUDITING AND ETHICS
+
+Answer to Questions involving Case Studies
+
+1. (c) 2. (c) 3. (d) 4. (a) 5. (c)
+
+Test Your Understanding 4
+
+Zeeba Products is a partnership firm engaged in trading of designer dresses. The firm
+has appointed JJ & Co, Chartered accountants to audit their accounts for a year. The
+auditors were satisfied with control systems of firm, carried out required procedures
+and necessary verifications. In particular, they carried out sample checking of
+purchases, traced purchase bills to GST portal and also made confirmations from
+suppliers. They were satisfied with audit evidence obtained by them as part of audit
+exercise. An audit report was submitted to the firm giving an opinion that financial
+statements reflected true and fair view of state of affairs of the firm.
+
+However, later on, it was discovered that purchase manager responsible for
+procuring dresses from one location was also booking fake purchases of small
+values by colluding with unethical dealers. Payments to these dealers were also
+made in connivance with accountant through banking channel.
+
+The partners of firm blame auditors for futile audit exercise. Are partners of firm
+correct in their view point? Imagine any probable reason for such a situation.
+
+Audit is a type of assurance engagement under which auditor gives an opinion as
+to whether financial statements give a true and fair view of state of affairs of the
+concern. However, assurance engagements are not restricted to audit alone. We
+shall now discuss meaning of assurance engagement and different types of
+assurance engagements.
+
+    13. MEANING OF ASSURANCE ENGAGEMENT
+
+"Assurance engagement" means an engagement in which a practitioner expresses a
+conclusion designed to enhance the degree of confidence of the intended users
+other than the responsible party about the outcome of the evaluation or
+measurement of a subject matter against criteria.
+
+It means that the practitioner gives an opinion about specific information due to
+which users of information are able to make confident decisions knowing well that
+chance of information being incorrect is diminished.
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT               1.23
+
+13.1 Elements of an Assurance Engagement
+
+Following elements comprise an assurance engagement: -
+
+1 A three party relationship involving a practitioner, a responsible party,
+       and intended users
+
+       An assurance engagement involves abovesaid three parties. A practitioner is
+       a person who provides the assurance. The term practitioner is broader than
+       auditor. Audit is related to historical information whereas practitioner may
+       provide assurance not necessarily related to historical financial information.
+
+       A responsible party is the party responsible for preparation of subject matter.
+
+       Intended users are the persons for whom an assurance report is prepared.
+       These persons may use the report in making decisions.
+
+2. An appropriate subject matter
+
+       It refers to the information to be examined by the practitioner. For example,
+       financial information contained in financial statements while conducting
+       audit of financial statements.
+
+3. Suitable criteria
+
+       These refer to benchmarks used to evaluate the subject matter like standards,
+       guidance, laws, rules and regulations.
+
+4. Sufficient appropriate evidence
+
+       The practitioner performs an assurance engagement to obtain sufficient
+       appropriate evidence. It is on the basis of evidence that conclusions are
+       arrived and an opinion is formed by auditor.
+
+       "Sufficient" relates to quantity of evidence obtained by auditor.
+       "Appropriate" relates to quality of evidence obtained by auditor. One
+       evidence may be providing more comfort to auditor than the other evidence.
+       The evidence providing more comfort is qualitative and, therefore,
+       appropriate. Evidence should be both sufficient and appropriate.
+
+© The Institute of Chartered Accountants of India
+  1.24               AUDITING AND ETHICS
+
+5. A written assurance report in appropriate form
+
+       A written report is provided containing conclusion that conveys the assurance
+       about the subject matter. A written assurance report is the outcome of an
+       assurance engagement.
+
+Overview of Elements of assurance engagement
+
+Checkbox Elements of an assurance engagement
+
+  Three Party relationship
+
+  An appropriate subject matter
+
+  Suitable Criteria
+
+  Sufficient appropriate evidence
+
+  Written assurance report in appropriate form
+
+13.2 Meaning of Review; Audit Vs. Review
+
+We have learnt that audit is a reasonable assurance engagement. It provides
+reasonable assurance. However, review is a limited assurance engagement. It
+provides lower level of assurance than audit. Further, review involves fewer
+procedures and gathers sufficient appropriate evidence on the basis of which
+limited conclusions can be drawn up. However, both "audit" and "review" are
+related to financial statements prepared on the basis of historical financial
+information.
+
+13.3 Types of Assurance Engagements- Reasonable assurance
+      engagement vs. Limited assurance engagement
+
+As already discussed, assurance engagements provide assurance to users. The
+difference is of degree. Reasonable assurance engagement like audit provides
+reasonable assurance which is a high level of assurance. Limited assurance
+engagement like review provides lower level of assurance than audit. It is only a
+moderate level of assurance.
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT                                      1.25
+
+Reasonable assurance engagement Limited assurance engagement
+
+Reasonable assurance engagement Limited assurance engagement provides
+
+provides high level of assurance.                  lower level of assurance than reasonable
+
+                                                   assurance engagement.
+
+It performs elaborate and extensive It performs fewer procedures as
+
+procedures to obtain sufficient compared to reasonable assurance
+
+appropriate evidence.                              engagement.
+
+It draws reasonable conclusions on the It involves obtaining sufficient
+basis of sufficient appropriate evidence. appropriate evidence to draw limited
+
+                                                        conclusions.
+
+Example of reasonable assurance Example of limited assurance
+engagement is an audit engagement. engagement is review engagement.
+
+Besides reasonable assurance engagements and limited assurance engagements,
+there is another kind of assurance which is related to matters other than historical
+financial information. Such an assurance may relate to prospective financial
+information and not to historical financial information. It may relate to providing
+assurance on internal controls in an entity.
+
+"Prospective financial information" means financial information based on
+assumptions about events that may occur in the future and possible actions by an
+entity. It can be in the form of a forecast or projection or combination of both.
+
+It is to be noted that in such type of assurance engagements, examination is not of
+historical financial information.
+
+Here, it is important to note the difference between "Historical financial
+information" and "Prospective financial information." The former relates to
+information expressed in financial terms of an entity about economic events,
+conditions or circumstances occurring in past periods. The latter relates to financial
+information based on assumptions about occurrence of future events and possible
+actions by an entity.
+
+Therefore, historical financial information is rooted in past events which have
+already occurred whereas prospective financial information is related to future
+events.
+
+© The Institute of Chartered Accountants of India
+  1.26            AUDITING AND ETHICS
+
+In assurance reports involving prospective financial information, the practitioner
+obtains sufficient appropriate evidence to the effect that management's
+assumptions on which the prospective financial information is based are not
+unreasonable, the prospective financial information is properly prepared on the
+basis of the assumptions and it is properly presented and all material assumptions
+are adequately disclosed.
+
+Prospective financial information relates to future events. While evidence may be
+available to support the assumptions on which the prospective financial
+information is based, such evidence is itself generally future- oriented. The auditor
+is, therefore, not in a position to express an opinion as to whether the results shown
+in the prospective financial information will be achieved.
+
+Therefore, in such assurance engagements, practitioner provides a report assuring
+that nothing has come to practitioner's attention to suggest that these assumptions
+do not provide a reasonable basis for the projection.
+
+Hence, such type of assurance engagement provides only a "moderate" level of
+assurance.
+
+Examples of assurance engagements
+
+Checkbox Example of assurance Type of assurance engagement
+                 engagement
+
+  Audit       of      financial Reasonable assurance engagement
+
+  statements
+
+  Review of financial Limited assurance engagement
+
+  statements
+
+  Examination of Prospective Provides              assurance                 regarding
+
+  financial information                            reasonability of assumptions forming
+
+                                                   basis of projections and related matters
+
+  Report on controls Provides assurance regarding design and
+
+  operating       at                               an operation of controls
+
+  organization
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT           1.27
+
+                        Assurance Engagements
+
+Reasonable Assurance    Limited Assurance       Assurance Engagements
+      Engagement           Engagement          dealing with matters other
+
+                 Audit              Review       than historical financial
+                                                        information
+
+                                                       Examination of prospective
+                                                        financial information (like
+
+                                                          forecast) or assurance
+                                                         regarding operations of
+
+                                                                   controls
+
+Test Your Understanding 5
+
+The management of Exotic Tours and Travels Limited requests its auditor Raja &
+Co.to provide an assurance report on the financial information for first quarter of a
+year by skipping required detailed procedures.
+Can Raja & Co. provide such a report? What would be nature of such a report? Would
+it be necessary for them to obtain sufficient appropriate evidence in such a case?
+
+    14. QUALITIES OF AUDITOR
+
+An auditor is concerned with the reporting on financial matters of business and
+other institutions. Financial matters inherently are to be set with the problems of
+human fallibility; errors and frauds are frequent.
+Tact, caution, firmness, good temper, integrity, discretion, industry, judgement,
+patience, clear headedness and reliability are some of qualities which an auditor
+
+© The Institute of Chartered Accountants of India
+1.28  AUDITING AND ETHICS
+
+should have. In short, all those personal qualities that go to make a good
+businessman contribute to the making of a good auditor.
+
+In addition, he must have the shine of culture for attaining a great height. He must
+have the highest degree of integrity backed by adequate independence.
+
+The auditor, who holds a position of trust, must have the basic human qualities
+apart from the technical requirement of professional training and education. He is
+called upon constantly to critically review financial statements and it is obviously
+useless for him to attempt that task unless his own knowledge is that of an expert.
+An exhaustive knowledge of accounting in all its branches is the sine qua non of
+the practice of auditing. He must know thoroughly all accounting principles and
+techniques.
+
+    15. ENGAGEMENT AND QUALITY CONTROL
+          STANDARDS: AN OVERVIEW
+
+The following Standards issued under authority of ICAI Council are collectively
+known as Engagement Standards: -
+
+1. Standards on auditing (SAs) which apply in audit of historical financial
+       information.
+
+2. Standards on review engagements (SREs) which apply in review of historical
+       financial information.
+
+3. Standards on Assurance engagements (SAEs) which apply in assurance
+       engagements other than audits and review of historical financial information.
+
+4. Standards on Related Services (SRSs) which apply in agreed upon procedures
+       to information, compilation engagements and other related service
+       engagements.
+
+The purpose of issue of these standards is to establish high quality standards and
+guidance in the areas of financial statement audits and in other types of assurance
+services.
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT               1.29
+
+15.1 Standards on Auditing
+
+Standards on Auditing apply in the context of an audit of financial statements by
+an independent auditor. It is important to remember that Standards on Auditing
+apply in audit of historical information. These establish high quality benchmarks
+and are followed by auditors in conducting audit of financial statements.
+
+Standards on Auditing have been issued on wide spectrum of issues in the field of
+auditing ranging from overall objectives of independent auditor, audit
+documentation, planning an audit of financial statements, identifying and assessing
+risk of material misstatement, audit sampling, audit evidence and forming an
+opinion and reporting on financial statements. These cover all significant aspects
+of audit of financial statements.
+
+Some examples of Standards on Auditing are: -
+
+ SA 200 Overall Objectives of the Independent Auditor and the Conduct of an
+       Audit in accordance with Standards on Auditing
+
+ SA 230 Audit Documentation
+
+ SA 315 Identifying and Assessing the Risks of Material Misstatement through
+       Understanding the Entity and its Environment
+
+ SA 500 Audit Evidence
+
+ Revised SA 700 Forming an Opinion and Reporting on Financial Statements
+
+15.2 Standards on Review Engagements
+
+Standards on review engagements apply in the context of review of financial
+statements. We have already understood that review is a limited assurance
+engagement and it provides assurance which is lower than that provided by audit.
+It is due to the fact that review involves fewer procedures as compared to audit.
+Since a review also provides assurance to users, it also involves obtaining sufficient
+appropriate evidence. For example, when an auditor performs review of interim
+financial information of an entity.
+
+Examples of Standards on Review engagements are:
+
+ SRE 2400 (Revised) Engagements to Review Historical Financial Statements
+
+ SRE 2410 Review of Interim Financial Information Performed by the
+       Independent Auditor of the Entity
+
+© The Institute of Chartered Accountants of India
+1.30  AUDITING AND ETHICS
+
+It is to be noted that both Standards on auditing and Standards on review
+engagements apply to engagements involving historical financial information.
+
+15.3 Standards on Assurance Engagements
+
+There is another set of standards which apply in assurance engagements dealing
+with subject matters other than historical financial information. Such assurance
+engagements do not include "audit" or "review" of historical financial information.
+These standards are known as Standards on Assurance Engagements. For example,
+an assurance engagement relating to examination of prospective financial
+information.
+
+It is to be noted that in such type of assurance engagements, examination is not of
+historical financial information or engagement may relate to providing assurance
+regarding non-financial matters like design and operation of internal control in an
+entity.
+
+Examples of Standards on Assurance Engagements are:
+
+ SAE 3400 The Examination of Prospective Financial Information
+
+ SAE 3420 Assurance Engagements to Report on the Compilation of Pro Forma
+       Financial Information Included in a Prospectus
+
+15.4 Standards on Related Services
+
+Lastly, there are standards on related services. These standards apply in
+engagements to perform agreed-upon procedures regarding financial information.
+
+For example, an engagement to perform agreed-upon procedures may require the
+auditor to perform certain procedures concerning individual items of financial data,
+say, accounts payable, accounts receivable, purchases from related parties and
+sales and profits of a segment of an entity, or a financial statement, say, a balance
+sheet or even a complete set of financial statements.
+
+An engagement in which practitioner may be called upon to assist management
+with the preparation and presentation of historical financial information without
+obtaining assurance on that information. Such type of compilation engagements
+fall in the category of related services and practitioner issues a report clearly stating
+that it is not an assurance engagement and no opinion is being expressed.
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT               1.31
+
+These types of services are called related services and standards have been issued
+to deal with practitioner's responsibilities in this regard.
+
+Examples of Standards on related services are:
+
+ SRS 4400 Engagements to perform agreed-upon procedures regarding
+       financial information
+
+ SRS 4410 (Revised) Compilation engagements
+
+It is to be clearly understood that all the above standards i.e., Standards on Auditing
+(SAs), Standards on Review Engagements (SREs), Standards on Assurance
+Engagements (SAEs) and Standards on related services (SRSs) are collectively
+known as the Engagement Standards.
+
+Engagement Standards issued under the authority of Council of ICAI deal with
+responsibilities of auditor/practitioner.
+
+15.5 Standards on Quality Control
+
+Standards on Quality Control (SQCs) have been issued to establish standards and
+provide guidance regarding a firm's responsibilities for its system of quality control
+for the conduct of audit and review of historical financial information and for other
+assurance and related service engagements.
+
+SQC 1 has been issued in this regard. It requires auditors/practitioners to establish
+system of quality control so that firm and its personnel comply with professional
+standards and regulatory & legal requirements and reports issued are appropriate.
+
+Its basic objective is that while rendering services, to which engagement standards
+apply, there should be a system of quality control with in firms to ensure complying
+with professional standards/legal requirements. System of quality control ensures
+issuing of appropriate reports in the circumstances.
+
+Further, it is also to be remembered that Standards on Quality Control (SQCs) are
+to be applied for all services covered by Engagement Standards.
+
+15.6 Why are Standards needed?
+
+· Standards ensure carrying out of audit against established benchmarks at par
+       with global practices.
+
+© The Institute of Chartered Accountants of India
+          1.32  AUDITING AND ETHICS
+
+· Standards improve quality of financial reporting thereby helping users to
+       make diligent decisions.
+
+· Standards promote uniformity as audit of financial statements is carried out
+       following these Standards.
+
+· Standards equip professional accountants with professional knowledge and
+       skill.
+
+· Standards ensure audit quality.
+
+15.7 Duties in relation to Engagement and Quality Control
+
+       Standards
+
+It is the duty of professional accountants to see that Standards are followed in
+engagements undertaken by them. Ordinarily, these are to be followed by
+professional accountants. However, a situation may arise when a specific procedure
+as required in Standards would be ineffective in a particular engagement. In such a
+case, he is required to document how alternative procedures performed achieve
+the purpose of required procedure. Also, reason for departure has also to be
+documented unless it is clear. Further, his report should draw attention to such
+departures. It is also to be noted that a mere disclosure in the report does not
+absolve a professional accountant from complying with applicable Standards.
+
+Overview of Engagement and Quality Control Standards
+
+Checkbox  Engagement and Quality Control Standards
+    
+          Standards on auditing (SAs) apply in audit of historical financial
+          information.
+    
+          Standards on review engagements (SREs) apply in review of
+          historical financial information.
+
+          Standards on assurance engagements (SAEs) apply in engagements
+          dealing in matters other than historical financial information.
+
+          Standards on related services (SRSs) apply in engagements to
+          perform agreed-upon procedures regarding financial information
+          and other services like assisting management in preparation and
+          presentation of financial statements.
+
+© The Institute of Chartered Accountants of India
+  NATURE, OBJECTIVE AND SCOPE OF AUDIT                 1.33
+
+  Standards on Quality control (SQC) apply for all services covered by
+
+  engagement standards i.e. SAs, SREs, SAEs and SRSs.
+
+  Duty of professional accountants to follow Standards. If not
+
+  followed, reason for departure to be stated in reports.
+
+Test Your Understanding 6
+
+CA. P Babu is conducting audit of financial statements of Quick Buy Private Limited.
+He was not able to obtain external confirmations from certain debtors due to
+practical difficulties and peculiar circumstances. However, such a procedure is
+mandated under one of Standards on Auditing.
+
+Unable to obtain external confirmations from these debtors, he relied upon sale
+details to these parties, e-invoices, e-way bills and also traced payments from these
+parties in bank accounts of the company. He was reasonably satisfied with audit
+evidence obtained. Is there any other reporting duty cast upon him relating to not
+following a mandated procedure in one of Standards on Auditing?
+
+CASE STUDY-2
+
+Me and You Private Limited has been newly incorporated. The plant of the company
+has recently started production with the help of funds provided by a bank for
+purchase and installation of machinery. Further, the company is also utilizing
+working capital credit facilities from the same bank for meeting its day to day
+working capital requirements like for purchase of raw materials, labour payment
+etc. However, just within six months of its operations, the management feels that
+working capital funds are inadequate and situation is creating liquidity issues in the
+company.
+
+The management of the company has approached its bankers and requested for
+enhancement in working capital credit facilities. The bank manager is insisting upon
+financial statements of the company for half year along with report providing
+assurance in this respect duly signed by Chartered Accountant as audit is far away.
+It also requires projected financial statements for coming years along with a report
+from CA providing assurance regarding these projections to consider request of
+management.
+
+© The Institute of Chartered Accountants of India
+1.34  AUDITING AND ETHICS
+
+The management approaches CA P, who has qualified recently and started
+practising. Reports providing assurance for half yearly results and projected
+financial statements are sought from CA P. The Management provides necessary
+information and records to him in this regard.
+Assume, in above case, the company only provides trial balance, financial
+statements in draft/preliminary form along with accompanying records for the
+relevant half year to CA P and requests him to provide duly signed financial
+statements with a report for mutually agreed professional fees.
+
+Based on above, answer the following questions: -
+
+1. The management of company has engaged CA P to issue a duly signed report
+       for half year, as referred to in last para of case study. Which of the following
+       standards, if any, issued by ICAI are relevant for CA P?
+
+       (a) Standards on Review Engagements
+
+       (b) Standards on Auditing
+
+       (c) Standards on Related Services
+
+       (d) There are no standards for issuing report in such situation.
+
+2. Which of the following statements is MOST APRROPRIATE in given case
+       situation?
+
+       (a) CA P can assist management in preparation of financial statements of
+               the company. However, issue of a report in such a case is outside the
+               scope of work.
+
+       (b) CA P can assist management in preparation of financial statements of
+               the company and he can issue an audit report.
+
+       (c) CA P can assist management in preparation of financial statements of
+               the company and he can issue a compilation report in this respect.
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT               1.35
+
+       (d) The responsibility of preparation of financial statement is of company's
+               management. CA P cannot assist management in preparation of financial
+               statements of the company. However, he can issue a review report.
+
+3. In the above said scenario for issuance of signed financial statements for half
+       year by CA P, as discussed in last para of Case Study, identify the MOST
+       APPROPRIATE statement: -
+
+       (a) Standard on Quality control (SQC 1) is not applicable as CA P cannot
+               issue audit report.
+
+       (b) Standard on Quality Control (SQC 1) is not applicable as CA P cannot
+               issue review report.
+
+       (c) Standard on Quality Control (SQC 1) is applicable in such type of
+               engagement.
+
+       (d) Standard on Quality Control (SQC 1) is not applicable as CA P is barred
+               from issuing any report in such type of engagement.
+
+4 The banker of company has also requested for projected financial statements
+       for coming years along with a report from CA regarding these projections to
+       consider request of management. Which of the following standards issued by
+       ICAI are relevant for CA P in such a situation, if any?
+
+       (a) Standards on Review Engagements
+
+       (b) There are no standards for issuing such type of reports.
+
+       (c) Standards on Related Services
+
+       (d) Standards on Assurance Engagements
+
+5. Suppose CA P also accepts work of issuing projected financial statements with
+       a report to be signed by him. The management has projected turnover of ` 100
+       crore for the next year, ` 150 crore & ` 200 crore for following years respectively
+       as compared to present turnover of ` 25 crore in current half year. Identify the
+       MOST APPROPRIATE statement in this situation: -
+
+       (a) CA P has to satisfy himself regarding arithmetical accuracy of projected
+               data.
+
+       (b) CA P has to satisfy himself regarding reasonableness of assumptions
+               underlying projected turnover and its consistency with actuals.
+
+© The Institute of Chartered Accountants of India
+      1.36  AUDITING AND ETHICS
+
+(c) CA P has to satisfy himself regarding arithmetical accuracy of data along
+       with its proper presentation to banker.
+
+(d) CA P has to satisfy himself regarding reasonableness of assumptions
+       underlying projected turnover, its consistency with actuals, disclosure and
+       presentation.
+
+Answer to Questions involving Case Study 2
+
+1. c  2. c 3. c 4. d 5. d
+
+SUMMARY
+
+ An audit is an independent examination of financial information of any entity,
+       whether profit oriented or not, and irrespective of its size or legal form, when
+       such an examination is conducted with a view to expressing an opinion
+       thereon.
+
+ An audit provides assurance. It provides confidence to users of financial
+       statements.
+
+ Assurance is provided by audit by means of written audit report.
+
+ The basic purpose of an audit of financial statements is to express an opinion
+       on the financial statements.
+
+ The independent audit of financial statements provides reasonable assurance.
+       It is to be distinguished from absolute or complete assurance. However,
+       reasonable assurance is a high level of assurance.
+
+ An auditor is not expected to perform duties falling outside scope of his
+       competence.
+
+ There are inherent limitations in process of audit due to nature of financial
+       reporting itself, nature of audit procedures, audit not being in nature of
+       investigation and other factors. It is due to these reasons audit does not
+       provide absolute assurance.
+
+ Audit is a type of assurance engagement. It is a reasonable assurance
+       engagement.
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT                        1.37
+
+ Assurance engagement means an engagement in which a practitioner
+       expresses a conclusion designed to enhance the degree of confidence of the
+       intended users other than the responsible party about the outcome of the
+       evaluation or measurement of a subject matter against criteria.
+
+ Assurance engagement consists of five elements consisting of- a three party
+       relationship, an appropriate subject matter, suitable criteria, sufficient
+       appropriate evidence and a written assurance report in appropriate form.
+
+ Limited assurance engagement provides lower level of assurance than
+       reasonable assurance engagement.
+
+ Audit is a reasonable assurance engagement. Review is a limited assurance
+       engagement.
+
+ Assurance engagements consist of reasonable assurance engagements,
+       limited assurance engagements and assurance engagements dealing with
+       matters other than historical financial information.
+
+ Standards on auditing, Standards on review engagements, Standards on
+       assurance engagements and Standards on related services are collectively
+       known as engagement standards. These deal with responsibilities of
+       auditor/practitioner.
+
+ Standards on quality control have been issued to establish standards and
+       provide guidance regarding a firm's responsibilities for its system of quality
+       control in providing services dealt by engagement standards.
+
+ Standards are needed for carrying out audit against established benchmarks,
+       for improving quality of financial reporting, for promoting uniformity, for
+       equipping professional accountants with professional knowledge & skill and
+       for ensuring audit quality.
+
+TEST YOUR KNOWLEDGE
+
+MCQs based Questions
+
+1. Which of the following is not an advantage of audit?
+       (a) It provides high quality financial information.
+       (b) It acts as a moral check on employees.
+
+© The Institute of Chartered Accountants of India
+1.38  AUDITING AND ETHICS
+
+       (c) It enhances risk of management bias.
+       (d) It helps in safeguarding interests of shareholders.
+2. Which of the following is NOT TRUE about an assurance engagement?
+       (a) It relates to providing assurance about historical financial information
+
+               only.
+       (b) The practitioner obtains sufficient appropriate evidence.
+       (c) There is some information to be examined by practitioner.
+       (d) A written assurance report in appropriate form is issued by practitioner.
+3. Which of the following is TRUE about Engagement Standards?
+       (a) Engagement standards ensure proper rights to practitioners in course of
+
+               performance of their duties.
+       (b) Engagement standards ensure preparation and presentation of financial
+
+               statements in a standardized manner.
+       (c) Engagement standards ensure uniformity by practitioners in course of
+
+               performance of their duties.
+       (d) Engagement standards ensure savings in resources of clients.
+4. Consider following statements in relation to "Limited assurance engagement":-
+       Statement I - It involves obtaining sufficient appropriate evidence to draw
+       reasonable conclusions.
+       Statement II - Review of interim financial information of a company is an
+       example of limited assurance engagement.
+       (a) Statement I is correct. Statement II is incorrect.
+       (b) Both Statements I and II are correct.
+       (c) Both Statements I and II are incorrect.
+       (d) Statement I is incorrect. Statement II is correct.
+5. Which of the following is TRUE about Standards on auditing?
+       (a) These deal mainly with voluntary responsibilities of auditors.
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT               1.39
+
+(b) These deal mainly with mandatory responsibilities of auditors.
+(c) Their sole purpose is to help government authorities in augmenting
+
+       revenues.
+(d) These deal mainly in carrying out audit according to legal provisions.
+
+Correct /Incorrect
+
+State with reasons (in short) whether the following statements are correct
+or incorrect:
+
+(i) The basic objective of audit does not change with reference to nature, size or
+       form of an entity.
+
+(ii) The purpose of an audit is to enhance the degree of confidence of intended
+       users in the financial statements.
+
+(iii) The auditor is not expected to, and cannot, reduce audit risk to zero and cannot
+       therefore obtain absolute assurance that the financial statements are free from
+       material misstatement due to fraud or error.
+
+Theoretical Questions
+
+1. "Choosing of appropriate accounting policies in relation to accounting issues is
+       responsibility of management". Do you agree? Discuss duty of auditor, if any,
+       in relation to accounting policies.
+
+2. Assurance engagements are not restricted to audit of financial statements
+       alone. Discuss.
+
+3. An assurance engagement involves a three party relationship. Discuss meaning
+       of three parties in such an engagement.
+
+4. A Chartered Accountant is specifically asked to check accounts whether fraud
+       exists. State with reasons whether it is an example of reasonable assurance
+       engagement.
+
+5. An audit does not provide absolute assurance. Discuss how nature of audit
+       procedures itself is one of the reasons due to which audit cannot provide
+       absolute assurance.
+
+© The Institute of Chartered Accountants of India
+1.40  AUDITING AND ETHICS
+
+ANSWERS/ SOLUTIONS
+
+Answers to the MCQs based Questions
+
+1. (c) 2. (a) 3. (c) 4. (d) 5. (b)
+
+Answers to Correct/Incorrect
+
+(i) Correct: An audit is an independent examination of financial information of
+       any entity, whether profit oriented or not, and irrespective of its size or legal
+       form, when such an examination is conducted with a view to expressing an
+       opinion thereon. It is clear that the basic objective of auditing, i.e., expression
+       of opinion on financial statements does not change with reference to nature,
+       size or form of an entity.
+
+(ii) Correct: As per SA 200 "Overall Objectives of the Independent Auditor and
+       the Conduct of an Audit in Accordance with Standards on Auditing", the
+       purpose of an audit is to enhance the degree of confidence of intended users
+       in the financial statements. This is achieved by the expression of an opinion
+       by the auditor on whether the financial statements are prepared, in all
+       material respects, in accordance with an applicable financial reporting
+       framework.
+
+(iii) Correct: As per SA 200 "Overall Objectives of the Independent Auditor and
+       the Conduct of an Audit in Accordance with Standards on Auditing", the
+       auditor is not expected to, and cannot, reduce audit risk to zero and cannot
+       therefore obtain absolute assurance that the financial statements are free
+       from material misstatement due to fraud or error. This is because there are
+       inherent limitations of an audit, which result in most of the audit evidence on
+       which the auditor draws conclusions and bases the auditor's opinion being
+       persuasive rather than conclusive.
+
+Answers to the Theoretical Questions
+
+1. Choosing of appropriate accounting policies is responsibility of management.
+       The role of auditor lies in evaluating selection and consistent application of
+       accounting policies by management- Refer to scope of audit- what it
+       includes.
+
+© The Institute of Chartered Accountants of India
+NATURE, OBJECTIVE AND SCOPE OF AUDIT               1.41
+
+2. Refer to examples on assurance engagements.
+3. Refer to elements of assurance engagement.
+4. It is not a reasonable assurance engagement. It is in nature of investigation.
+5. Refer to second point of inherent limitations of audit.
+
+Answers to Questions involving Test Your Understanding
+
+1. An audit does not provide assurance to investor in shares regarding safety of
+       his money. Share prices of securities are affected by range of factors. An audit
+       only provides reasonable assurance that financial statements are free from
+       material misstatement whether due to fraud or error. Hence, thinking of Lalji
+       Bhai is not correct.
+
+2. Proper disclosure of financial information is well within scope of audit.
+
+3. Appointment of CA for verification of books of accounts/financial records and
+       circumstances surrounding the loss is for a specific objective to determine
+       genuineness of loss and any issue affecting liability of insurance company. It
+       is an investigation and not in nature of audit report.
+
+4. It is example of failure of internal controls of the firm. The internal control has
+       not operated due to collusion between employees which is a limitation of
+       internal control itself. The auditor has relied upon internal controls. It is very
+       nature of financial reporting that management is responsible for devising
+       suitable internal controls. This is an inherent limitation of audit.
+
+5. Such report would be in nature of "review". However, auditors would have to
+       obtain sufficient appropriate evidence.
+
+6. He is required to document how alternative procedures performed achieve
+       the purpose of required procedure. Reason for departure has to be
+       documented unless it is clear. His report should draw attention to such
+       departure.
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+

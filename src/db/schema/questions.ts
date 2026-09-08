@@ -1,5 +1,5 @@
 import { pgTable, uuid, varchar, integer, boolean, timestamp, jsonb, text, index } from "drizzle-orm/pg-core";
-import { academicLevels, subjects, curriculumVersions, curriculumNodes } from "./academics";
+import { academicLevels, subjects, curriculumVersions, curriculumNodes, examAttempts } from "./academics";
 
 export const importBatches = pgTable(
   "import_batches",
@@ -14,6 +14,7 @@ export const importBatches = pgTable(
       .references(() => curriculumVersions.id)
       .notNull(),
     subjectId: uuid("subject_id").references(() => subjects.id), // Default subject if batch-scoped
+    examAttemptId: uuid("exam_attempt_id").references(() => examAttempts.id),
     sourceType: varchar("source_type", { length: 50 }).default("STUDY_MATERIAL").notNull(), // 'STUDY_MATERIAL', 'RTP', 'MTP', 'PYQ', 'OTHER_OFFICIAL', 'AI_GENERATED'
     sourceTitle: varchar("source_title", { length: 255 }),
     sourceYear: integer("source_year"),
@@ -38,6 +39,7 @@ export const importBatches = pgTable(
     index("import_batches_level_idx").on(table.academicLevelId),
     index("import_batches_version_idx").on(table.curriculumVersionId),
     index("import_batches_subject_idx").on(table.subjectId),
+    index("import_batches_exam_attempt_idx").on(table.examAttemptId),
     index("import_batches_status_idx").on(table.status),
     index("import_batches_created_at_idx").on(table.createdAt),
   ]
@@ -53,11 +55,13 @@ export const questionSources = pgTable(
     sourceMonth: integer("source_month"), // 5 for May, 11 for Nov
     paperNumber: varchar("paper_number", { length: 50 }),
     importBatchId: uuid("import_batch_id").references(() => importBatches.id, { onDelete: "set null" }),
+    examAttemptId: uuid("exam_attempt_id").references(() => examAttempts.id),
     createdAt: timestamp("created_at").defaultNow().notNull(),
   },
   (table) => [
     index("question_sources_type_idx").on(table.sourceType),
     index("question_sources_batch_idx").on(table.importBatchId),
+    index("question_sources_exam_attempt_idx").on(table.examAttemptId),
   ]
 );
 

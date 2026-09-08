@@ -1,0 +1,2441 @@
+CHAPTER  10
+
+AUDIT OF BANKS
+
+                                       LEARNING OUTCOMES
+
+After studying this chapter, you would be able to:
+ Understand the legal framework for the Bank audit.
+ Gain the knowledge of financial statements of the banks in
+
+      brief.
+ Understand the audit approach for items of profit and loss in
+
+      case of banks.
+ Learn the important items such as Advances, NPAs etc. in the
+
+      context of Bank Audit
+ Understand practicality of above concepts by studying
+
+      through examples and case studies
+
+© The Institute of Chartered Accountants of India
+10.2  AUDITING AND ETHICS
+
+CHAPTER OVERVIEW
+
+          Introduction
+
+                             Banking Operations
+
+                                             Accounting system
+                                                    of Banks
+                                                                 Bank Audit
+                                                                  Approach
+
+                                                                             Advances & Their
+                                                                                      Audit
+
+                                                                                                  Audit of
+                                                                                             Revenue Items
+
+Sameer was very comfortable with mobile banking app and used to do most of his
+banking activities from this very app. Payments of house electricity bills, Wi-fi rental
+bill, payments of little gifts for her mother and younger sister were all made by him
+using his mobile. Whenever he needed to transfer money to any of his friends as
+common contribution for an evening get together, he used to send money through
+UPI using Bhim app.
+One day, he happened to visit local branch of the bank in which his account was
+maintained. He got a feeling that banking operations are very complex and not as
+simple as he used to think. Since cash deposit machine was out of order on that
+day, he had to deposit cash by going to the counter. It made him realise that there
+is a trail for every bank transaction.
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.3
+
+Huge volume of bank transactions take place instantly, moneys are deposited and
+withdrawn from accounts. One can access one's account from any geographical
+location. Banks work on "Core Banking Solution" platforms which make transactions
+to happen on such a scale by ensuring customer ease. Deliberating upon it, he also
+thought about processes, controls and automation which makes all this possible.
+
+He was trying to understand broad working of a bank. A bank accepts deposits
+from its customers and lends money to trade, industry, farmers, needy sections of
+society and to members of general public. The rate at which a bank pays interest
+on deposits to customers is lower than the rates at which it charges interest on
+advances. The spread is used to meet establishment and administrative costs of a
+bank leaving out profits. In making available money to different sections of society
+including trade and industry, banks act as drivers of economic growth of country.
+
+Lending of money by a bank leads to reflection of "assets" in form of advances in
+financial statements of a bank. He had heard the term "non-performing assets"
+(NPAs) quite a number of times. What do these denote and what is their
+significance from the point of view of an auditor? Are there some regulatory norms
+relating to NPAs? Meanwhile, his attention also moved towards encompassing
+outreach of audit in case of banks. Audit of banks appeared to be special because
+of huge volume of transactions, extensive use of technology, wide geographical
+spread of banks and other factors peculiar to banks. Excited, he was thinking of
+prospects to conduct audit of a bank some day in future!
+
+    INTRODUCTION
+
+Banking sector is the backbone of any economy as it is essential for sustainable
+socio-economic growth and financial stability in the economy. The banking sector
+is also crucial as it deals with mammoth amounts of public monies and is highly
+sensitive to reputational risk. Like all economic activities, the banking sector is also
+exposed to various risks in its operations. It is of utmost importance to ensure that
+banking sector stays healthy, safe and sound. For safe and sound banking sector,
+one of the most important factors is reliable financial information supported by
+quality bank audits.
+
+© The Institute of Chartered Accountants of India
+10.4                 AUDITING AND ETHICS
+
+Types of Banks
+
+There are different types of banking institutions prevailing in India which are as
+follows:
+
+Commercial Banks                                   Regional Rural Banks
+
+Co-operative Banks.                                Payment Banks.
+
+Development Banks (more commonly known Small Finance Banks.
+as `Term-Lending Institutions').
+
+1. Commercial banks are the most wide spread banking institutions in India,
+that provide a number of products and services to general public and other
+segments of economy. Two of its main functions are:-
+
+(a) accepting deposits and
+
+(b) granting advances.
+
+2. Regional Rural Banks known as RRBs are the banks that have been set up
+in rural areas in different states of the country to cater to the basic banking and
+financial needs of the rural communities. Examples are:- Punjab Gramin Bank ,
+Tripura Gramin Bank , Allahabad UP Gramin Bank , Andhra Pradesh Grameen Vikas
+Bank, etc.
+
+3. Co-operative Banks function like Commercial Banks only but are set up on
+the basis of Cooperative Principles and registered under the Cooperative Societies
+Act of the respective state or the Multistate Cooperative Societies Act and usually
+cater to the needs of the agricultural and rural sectors. Examples are :- The Gujarat
+State Co-operative Bank Ltd., Chhatisgarh Rajya Sahakari Bank Maryadit, etc.
+
+4. Payments Banks are a new type of banks which have been recently
+introduced by RBI. They are allowed to accept restricted deposits but they cannot
+issue loans and credit cards. However, customers can open Current & Savings
+accounts and also avail the facility of ATM cum Debit cards, Internet-banking &
+Mobilebanking. Examples are :- Airtel Payments Bank , India Post Payments Bank,
+Paytm Payments Bank , etc.
+
+5. Development Banks had been conceptualized to provide funds for
+infrastructural facilities important for the economic growth of the country. Examples
+are:- Industrial Finance Corporation of India (IFCI), Industrial Development Bank of
+India (IDBI), Small Industries Development Bank of India (SIDBI) , etc.
+
+© The Institute of Chartered Accountants of India
+AUDIT OF BANKS  10.5
+
+6. Small Finance Banks have been set up by RBI to make available basic
+financial and banking facilities to the unserved and unorganised sectors like small
+marginal farmers, small & micro business units, etc. Examples are:- Equitas Small
+Finance Bank , AU Small Finance Bank , etc.
+
+Diagram showing Two Major Functions of Banks
+
+                                               Source :- twitter.com
+
+Reserve Bank of India: Regulating Body
+The functioning of banking industry in India is regulated by the Reserve Bank of
+India (RBI) which acts as the Central Bank of our country.
+RBI is responsible for :-
+ development and supervision of the constituents of the Indian financial
+
+       system (which comprises banks and non-banking financial institutions)
+ determining, in conjunction with the Central Government, the monetary and
+
+       credit policies keeping in with the need of the hour.
+ regulating the activities of commercial and other banks
+
+© The Institute of Chartered Accountants of India
+10.6                             AUDITING AND ETHICS
+
+Important functions of RBI are :-
+
+ issuance of currency;
+
+ regulation of currency issue;
+
+ acting as banker to the central and state governments; and
+
+ acting as banker to commercial and other types of banks including term-
+       lending institutions. Besides, RBI has also been entrusted with the
+       responsibility of regulating the activities of commercial and other banks.
+
+No bank can commence the business of banking or open new branches without
+obtaining license from RBI. The RBI also has the power to inspect any bank.
+
+Independent audit of financial statement of banks is important for a healthy, safe and
+sound banking system.
+
+Banking Operations - Conducted only at Branches
+
+Banking operations are conducted only at the branches, while other offices act as
+controlling authorities or administrative offices that lay down policies, systems and
+internal control procedures for conduct of business, in compliance with the
+statutory/ regulatory impositions and in compliance of accepted accounting
+principles and practices that cover all transactions and economic events. These
+controlling/ administrative offices also stipulate the delegation of powers and fix
+responsibilities and accountability and these are involved generally in effective
+supervision, monitoring and control over the business activities and operations,
+including seeking faithful compliance of the bank's laid down policies/
+procedures/controls and deal with deviations therefrom.
+
+Regulatory Framework
+
+Banking Regulation Act, 1949.                      State Bank of India Act, 1955.
+
+Companies Act, 2013.
+
+Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970.
+
+Regional Rural Banks Act, 1976.
+
+Banking Companies (Acquisition and Transfer of Undertakings) Act, 1980.
+
+Information Technology Act, 2000. Prevention of Money Laundering Act, 2002.
+
+Securitisation and Reconstruction of Financial Assets and Enforcement of Security
+Interest Act, 2002.
+
+© The Institute of Chartered Accountants of India
+AUDIT OF BANKS  10.7
+
+ Credit Information Companies Regulation Act, 2005.
+ Payment and Settlement Systems Act, 2007.
+
+Besides, the above enactments, the provisions of the Reserve Bank of India Act,
+1934, (RBI Act) also affect the functioning of banks. The RBI Act gives wide powers
+to the RBI to give directions to banks which also have considerable effect on the
+functioning of banks.
+
+Peculiarities involved:
+ Huge volumes and complexity of transactions;
+
+ Wide geographical spread of banks' network;
+
+ Large range of products and services offered;
+
+ Extensive use of technology;
+
+ Strict vigilance by the banking regulator etc.
+
+Types of Bank Audit Reports to be issued (generally):
+Presently, the Statutory Central Auditors (SCAs) have to furnish the following
+reports in addition to their main audit report:
+
+(a) Report on adequacy and operating effectiveness of Internal Controls over
+       Financial Reporting in case of banks which are registered as companies under
+       the Companies Act in terms of Section 143(3)(i) of the Companies Act, 2013
+       which is normally to be given as an Annexure to the main audit report as per
+       the Guidance Note on Audit of Internal Financial Controls over Financial
+       Reporting issued by the ICAI.
+
+(b) Long Form Audit Report. (LFAR)
+
+(c) Report on compliance with SLR requirements.
+
+(d) Report on whether the treasury operations of the bank have been conducted
+       in accordance with the instructions issued by the RBI from time to time.
+
+(e) Report on whether the income recognition, asset classification and
+       provisioning have been made as per the guidelines issued by the RBI from
+       time to time.
+
+(f) Report on whether any serious irregularity was noticed in the working of the
+       bank which requires immediate attention.
+
+© The Institute of Chartered Accountants of India
+10.8  AUDITING AND ETHICS
+
+(g) Report on status of the compliance by the bank with regard to the
+       implementation of recommendations of the Ghosh Committee relating to
+       frauds and malpractices and of the recommendations of Jilani Committee on
+       internal control and inspection/credit system.
+
+(h) Report on instances of adverse credit-deposit ratio in the rural areas.
+
+    1. UNDERSTANDING OF ACCOUNTING SYSTEM
+
+          IN BANKS
+
+From the time that customers had to physically visit and deal with a bank, there is
+a sea change in banking as use of technology and its continuous evolution has
+enabled banks to reach their customers in providing them the convenience and
+comfort of anytime-anywhere-banking by letting them access their
+information/data on real time basis, as stored in a safe and secure environment on
+the bank's servers. With many customers having access to Internet and mobile
+connectivity, monetary transactions from inception to finish have become
+expeditious through E-banking; but for Core banking technology and extensive
+advancement therein and the availability and extensive use of technology tools,
+banks could not have achieved such phenomenal and accelerated growth, and
+could not have ventured into and offered a wide range of innovative products and
+services to their customers. The transactions in banks have become voluminous and
+it needs to be ensured that in the system of recording, transmission and storage of
+information/ data, integrity thereof is optimally maintained and control systems
+ensure that the same is free of errors, omissions, irregularities and frauds.
+Considering the challenges of technology, bank managements continuously
+endeavor to make their internal control systems robust, safe and secure as well as
+convenient and expeditious for the customers.
+
+In the computerized environment, it is imperative that the auditor is familiar with
+and satisfied that all the norms/parameters as per the latest applicable RBI
+guidelines are incorporated and built into the system that generates
+information/data having a bearing on the classification/ provisions and income
+recognition. The auditor should not go by the assumption that the system
+generated information is correct and can be relied upon without evidence that
+demonstrates that the system driven information is based on the required
+parameters. He should use Professional Skepticism and Prudence wherever he feels
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.9
+
+that something manually needs to be performed to check the authenticity and
+consistency of the information obtained from the systems and document the
+results of such activities performed.
+
+2. BANK AUDIT APPROACH
+
+1. Drawing an Audit Plan: An audit plan should be drawn up based on :-
+
+ the nature and level of operations,
+
+ nature of adverse features,
+
+ level of compliance based on previous reports and
+
+ audit risks based on inadequacy in or breach of internal controls and the
+       familiarization exercise carried out,
+
+2. Control Environment at the Bank: A bank should have appropriate controls
+to mitigate its risks, including effective segregation of duties (particularly, between
+front and back offices), accurate measurement and reporting of positions,
+verification and approval of transactions, reconciliation of positions and results,
+setting up limits, reporting and approval of exceptions, physical security and
+contingency planning.
+
+The following are certain common questions /steps, which have to be kept in mind
+while undertaking/ performing control activities:
+
+Nature of Questions to be considered / answered
+Questions
+
+Who    Who performs the control?
+
+       Does the above person have requisite knowledge and
+             authority to perform the control?
+
+What   What evidence is available to demonstrate /prove that the
+When         control is performed?
+
+       When and with what frequency is the control performed?
+
+       Is the frequency enough to prevent, detect and correct risk
+             of material misstatements?
+
+© The Institute of Chartered Accountants of India
+       10.10  AUDITING AND ETHICS
+
+Where   Where is the evidence of performance of the control
+Why           retained?
+How
+        For how long is the evidence retained?
+        Is the evidence accessible/ available for audit?
+
+        Why is the control being performed?
+        What type of errors are prevented or detected through the
+
+              performance of the control?
+
+        How is the control performed?
+        What are the control activities?
+        Can these activities be bypassed?
+        Can the bypass, if any, be detected?
+        How are exceptions / deviations resolved on identification?
+        What is the time frame for resolving the exceptions /
+
+              deviations?
+
+3. Engagement Team Discussions: All personnel performing an engagement,
+including any experts contracted by the firm in connection with that engagement
+are known to be the "Engagement Team". The engagement team should hold
+discussions to gain better understanding of the bank and its environment, including
+internal control, and also to assess the potential for material misstatements of the
+financial statements. All these discussions should be appropriately documented for
+future reference. The discussion between the members of the engagement team
+and the audit engagement partner should be done on the susceptibility of the
+bank's branch financial statements to material misstatements. These discussions
+are ordinarily done at the planning stage of an audit.
+
+The engagement team discussion ordinarily includes a discussion of the
+following matters:
+
+(a) Errors that may be more likely to occur;
+
+(b) Errors which have been identified in prior years;
+
+(c) Method by which fraud might be perpetrated by bank personnel or others
+       within particular account balances and/or disclosures;
+
+(d) Audit responses to Engagement Risk, Pervasive Risks, and Specific Risks;
+
+(e) Need to maintain professional skepticism throughout the audit engagement;
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.11
+
+(f) Need to alert for information or other conditions that indicates that a material
+       misstatement may have occurred (e.g., the bank's application of accounting
+       policies in the given facts and circumstances).
+
+Advantages of such a discussion :-
+
+ Specific emphasis should be provided to the susceptibility of the bank's
+       financial statements to material misstatement due to fraud, that enables the
+       engagement team to consider an appropriate response to fraud risks, including
+       those related to engagement risk, pervasive risks, and specific risks.
+
+ It further enables the audit engagement partner to delegate the work to the
+       experienced engagement team members, and to determine the procedures
+       to be followed when fraud is identified.
+
+ Further, audit engagement partner may review the need to involve specialists
+       to address the issues relating to fraud.
+
+    3. INCOME RECOGNITION POLICY
+
+The policy of income recognition should be objective and based on record of
+recovery rather than on any subjective considerations. Income from non-
+performing assets (NPA) is not recognized on accrual basis but is booked as income
+only when it is actually received. (Dealt in detail later on)
+
+    4. FORM AND CONTENT OF FINANCIAL
+          STATEMENTS
+
+Sub-sections (1) and (2) of Section 29 of the Banking Regulations Act, 1949 deal
+with the form and content of financial statements of a banking company and their
+authentication. These sub-sections are also applicable to nationalised banks, State
+Bank of India, and Regional Rural Banks.
+
+Every banking company is required to prepare a Balance Sheet and a Profit and
+Loss Account in the forms set out in the Third Schedule to the Act or as near thereto
+as the circumstances admit. Form A of the Third Schedule to the Banking Regulation
+Act, 1949, contains the form of Balance Sheet and Form B contains the form of
+Profit and Loss Account.
+
+© The Institute of Chartered Accountants of India
+10.12            AUDITING AND ETHICS
+
+Every banking company needs to comply with the disclosure requirements under
+the various Accounting Standards, as specified under section 133 of the Companies
+Act, 2013, read with Rule 7 of the Companies (Accounts) Rules 2014, in so far as they
+apply to banking companies or the Accounting Standards issued by the ICAI.
+
+    5. AUDIT OF ACCOUNTS
+
+Sub-section (1) of section 30 of the Banking Regulations Act, 1949 requires that the
+balance sheet and profit and loss account of a banking company should be audited
+by a person duly qualified under any law for the time being in force to be an auditor
+of companies.
+
+6. ELIGIBILITY,                                    QUALIFICATIONS  AND
+
+DISQUALIFICATIONS OF AUDITOR
+
+Applicable as to a Company Auditor
+
+    7. APPOINTMENT OF AUDITOR
+
+As per the provisions of the relevant enactments:-
+
+ The auditor of a banking company is to be appointed at the annual general
+       meeting of the shareholders,
+
+ The auditor of a nationalised bank is to be appointed by the bank concerned
+       acting through its Board of Directors.
+
+       (In either case, approval of the Reserve Bank of India is required before the
+       appointment is made.)
+
+ The auditors of regional rural banks are to be appointed by the bank
+       concerned with the approval of the Central Government.
+
+    8. REMUNERATION OF AUDITOR
+
+(a) The remuneration of auditor of a banking company is to be fixed in accordance
+       with the provisions of Section 142 of the Companies Act, 2013 (i.e., by the
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.13
+
+       company in general meeting or in such manner as the company in general
+       meeting may determine).
+(b) The remuneration of auditors of nationalised banks and State Bank of India is
+       to be fixed by the Reserve Bank of India in consultation with the Central
+       Government.
+
+    9. POWERS OF AUDITOR
+
+The auditor of a banking company, nationalised bank, State Bank of India, or
+regional rural bank has the same powers as those of a company's auditor in the
+matter of access to the books, accounts, documents and vouchers.
+
+    10. AUDITOR'S REPORT
+
+In the case of a nationalised bank, the auditor is required to make a report to
+the Central Government in which he has to state the following:
+(a) whether, in his opinion, the financial statements present a true and fair view of
+
+       the affairs of the bank and in case he had called for any explanation or
+       information, whether it has been given and whether it is satisfactory;
+(b) whether or not the transactions of the bank, which have come to his notice,
+       have been made within the powers of that bank;
+(c) whether or not the returns received from the offices and branches of the bank
+       have been found adequate for the purpose of his audit; and
+(d) any other matter which he considers should be brought to the notice of the
+       Central Government.
+The report of auditors of State Bank of India is also to be made to the Central
+Government and is almost identical to the auditor's report in the case of a
+nationalised bank.
+
+10.1 Format of Report
+
+The auditors, central as well as branch, should also ensure that the audit report
+issued by them complies with the requirements of Standards on Auditing discussed
+in Chapter 8 on Audit Report. The auditor should ensure that not only information
+
+© The Institute of Chartered Accountants of India
+10.14  AUDITING AND ETHICS
+
+relating to number of unaudited branches is given but quantification of advances,
+deposits, interest income and interest expense for such unaudited branches has
+also been disclosed in the audit report. Such disclosure in the audit report is not
+only in accordance with the best international trends but also provides useful
+information to users of financial statements.
+
+It may be noted that, in addition to the aforesaid, the auditor of a banking company
+is also required to state in his report the matters covered by Section 143 of the
+Companies Act, 2013. However, it is pertinent to mention that the reporting
+requirements relating to the Companies (Auditor's Report) Order, 2020 is not
+applicable to a banking company, as defined in clause (c) of Section 5 of the
+Banking Regulation Act, 1949.
+
+10.2 Long Form Audit Report
+
+Besides the audit report as per the statutory requirements discussed above, the
+terms of appointment of auditors of public sector banks, private sector banks and
+foreign banks (as well as their branches), require the auditors to also furnish a long
+form audit report (LFAR). The matters which the banks require their auditors to deal
+with in the long form audit report have been specified by the Reserve Bank of India.
+
+The Statutory Central Auditors are required to submit the LFAR to the banks latest by
+30th June every year. To ensure timely submission of LFAR, proper planning for
+completion of the LFAR is required. While the format of LFAR does not require an
+executive summary to be given, members may consider providing the same to bring
+out the key observations from the whole document.
+
+Test Your Understanding 1
+
+The financial statements of a bank are prepared in a specified format. Discuss legal
+provisions in this regard as applicable to financial statements of a nationalized
+bank.
+
+10.3 Reporting to RBI
+
+1. The RBI issued a Circular relating to implementation of recommendations of
+Committee on Legal Aspects of Bank Frauds applicable to all scheduled commercial
+banks (excluding Regional Rural Banks). Regarding liability of accounting and
+auditing profession, the said circular provided as under:
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.15
+
+"If an accounting professional, whether in the course of internal or external
+audit or in the process of institutional audit finds anything susceptible to be
+fraud or fraudulent activity or act of excess power or smell any foul play in any
+transaction, he should refer the matter to the regulator. Any deliberate failure
+on the part of the auditor should render himself liable for action".
+
+As per the above requirement, the member shall be required to report the kind of
+matters stated in the circular to RBI.
+
+2. Auditor should also consider the provisions of SA 250, "Consideration of
+Laws and Regulations in an Audit of Financial Statements". The said Standard
+explains that the duty of confidentiality is over-ridden by statute, law or courts.
+
+3. SA 240, "The Auditor's Responsibilities Relating to Fraud in an Audit of
+Financial Statements" states that an auditor conducting an audit in accordance
+with SAs is responsible for obtaining reasonable assurance that the financial
+statements taken as a whole are free from material misstatement, whether caused
+by fraud or error.
+
+It must be noted that auditor is not expected to look into each and every
+transaction but to evaluate the system as a whole. Therefore, if the auditor while
+performing his normal duties comes across any instance, he should report the
+matter to the RBI in addition to Chairman/Managing Director/Chief Executive of
+the concerned bank.
+
+    11. CONDUCTING AN AUDIT
+
+The audit of banks or their branches involves the following stages ­
+
+1. Initial consideration by the statutory auditor
+
+(i) Declaration of Indebtedness: The RBI has advised that the banks, before
+       appointing their statutory central/branch auditors, should obtain a
+       declaration of indebtedness. Indebtedness refers to the situation of owing
+       money to the bank in any case, whatsoever.
+
+(ii) Internal Assignments in Banks by Statutory Auditors: The RBI decided that
+       the audit firms should not undertake statutory audit assignment while they
+       are associated with internal assignments in the bank during the same year, like
+       Concurrent audits (Internal Audit of Banks conducted monthly during the year)
+
+© The Institute of Chartered Accountants of India
+10.16  AUDITING AND ETHICS
+
+(iii) Planning: Standard on Auditing (SA) 300, "Planning an Audit of Financial
+       Statements" requires that the auditor shall undertake the following activities
+       prior to starting an initial audit:
+
+       (a) Performing procedures required by SA 220, "Quality Control for Audit
+               Work" regarding the acceptance of the client relationship and the
+               specific audit engagement; and
+
+       (b) Establish understanding of terms of engagement as per SA 210,
+               "Agreeing the Terms of Audit Engagements".
+
+(iv) Communication with Previous Auditor: As per Clause (8) of the Part I of the
+       First Schedule to the Chartered Accountants Act, 1949, a Chartered
+       Accountant in practice cannot accept position as auditor previously held by
+       another chartered accountant without first communicating with him in
+       writing. He should get a NO Objection Certificate (NOC) from the previous
+       auditor through this communication as to know whether he has any
+       objections to such an appointment made, for any valid reasons.
+
+(v) Terms of Audit Engagements: SA 210, "Terms of Audit Engagements"
+       requires that for each period to be audited, the auditor should agree on the
+       terms of the audit engagement with the bank before beginning significant
+       portions of fieldwork. It is imperative that the terms of the engagement are
+       documented, in order to prevent any confusion as to the terms that have been
+       agreed in relation to the audit and the respective responsibilities of the
+       management and the auditor, at the beginning of an audit assignment.
+
+(vi) Initial Engagements: The auditor needs to perform the audit procedures as
+       mentioned in SA 510 "Initial Audit Engagements-Opening Balances" and
+       if after performing that procedures, the auditor concludes that the opening
+       balances contain misstatements which materially affect the financial
+       statements for the current period and the effect of the same is not properly
+       accounted for and adequately disclosed, the auditor should express a
+       qualified opinion or an adverse opinion, as appropriate.
+
+(vii) Assessment of Engagement Risk: The assessment of engagement risk is a
+       critical part of the audit process and should be done prior to the acceptance
+       of an audit engagement since it affects the decision of accepting the
+       engagement and also in planning decisions if the audit is accepted.
+
+© The Institute of Chartered Accountants of India
+AUDIT OF BANKS  10.17
+
+(viii) Establish the Engagement Team: The assignment of qualified and
+       experienced professionals is an important component of managing
+       engagement risk. The size and composition of the engagement team would
+       depend on the size, nature and complexity of the bank's operations.
+
+(ix) Understanding the Bank and its Environment: SA 315 "Identifying and
+       Assessing the Risks of Material Misstatement Through Understanding
+       the Entity and Its Environment" lays down that the auditor should obtain
+       an understanding of the entity and its environment, including its internal
+       control, sufficient to identify and assess the risks of material misstatement of
+       the financial statements whether due to fraud or error and sufficient to design
+       and perform further audit procedures.
+
+2. Identifying and Assessing the Risks of Material Misstatements: SA 315
+requires the auditor to identify and assess the risks of material misstatement at the
+financial statement level and the assertion level for classes of transactions, account
+balances and disclosures to provide a basis for designing and performing further
+audit procedures.
+
+3. Understanding the Bank and Its Environment including Internal Control:
+An understanding of the bank and its environment, including its internal control,
+enables the auditor:
+
+ to identify and assess risk;
+
+ to develop an audit plan so as to determine the operating effectiveness of
+       the controls and to address the specific risks.
+
+4. Understanding the Bank's Accounting Process: The accounting process
+produces financial and operational information for management's use and it also
+contributes to the bank's internal control. Thus, understanding of the accounting
+process is necessary to identify and assess the risks of material misstatement
+whether due to fraud or not and to design and perform further audit procedures.
+
+5. Understanding the Risk Management Process: Management develops
+controls and uses performance indicators to aid in managing key business and
+financial risks. An effective risk management system in a bank generally requires
+the following:
+
+(a) Oversight and involvement in the control process by those charged with
+       governance: Those charged with governance (Board of Directors/Managing
+
+© The Institute of Chartered Accountants of India
+10.18  AUDITING AND ETHICS
+
+       Director) should approve written risk management policies. The policies
+       should be consistent with the bank's business objectives and strategies,
+       capital strength, management expertise, regulatory requirements and the
+       types and amounts of risk it regards as acceptable.
+
+(b) Identification, measurement and monitoring of risks: Risks that could
+       significantly impact the achievement of bank's goals should be identified,
+       measured and monitored against pre-approved limits and criteria.
+
+(c) Control activities: A bank should have appropriate controls to mitigate its
+       risks including effective segregation of duties (particularly between front and
+       back offices), accurate measurement and reporting of positions, verification
+       and approval of transactions, reconciliation of positions and results, setting
+       up limits, reporting and approval of exceptions, physical security and
+       contingency planning.
+
+(d) Monitoring activities: Risk management models, methodologies and
+       assumptions used to measure and mitigate risk should be regularly assessed
+       and updated. This function may be conducted by the independent risk
+       management unit.
+
+(e) Reliable information systems: Banks require reliable information systems
+       that provide adequate financial, operational and compliance information on
+       a timely and consistent basis. Those charged with governance and
+       management require risk management information that is easily understood
+       and that enables them to assess the changing nature of the bank's risk profile.
+
+                                               source ­ educba.com
+
+6. Engagement Team Discussions: The engagement team should hold
+discussions to gain better understanding of banks and its environment, including
+internal control, and also to assess the potential for material misstatements of the
+financial statements.
+
+© The Institute of Chartered Accountants of India
+AUDIT OF BANKS  10.19
+
+7. Establish the Overall Audit Strategy: SA 300 "Planning an Audit of
+financial Statements'' states that the objective of the auditor is to plan the audit
+so that it will be performed in an effective manner. For this purpose, the audit
+engagement partner should:
+
+ establish the overall audit strategy, prior to the commencement of an audit; and
+
+ involve key engagement team members and other appropriate specialists
+       while establishing the overall audit strategy, which depends on the
+       characteristics of the audit engagement.
+
+8. Develop the Audit Plan: SA 300 deals with the auditor's responsibility to
+plan an audit of financial statements in an effective manner. It requires the
+involvement of all the key members of the engagement team while planning an
+audit.
+
+9. Audit Planning Memorandum: The auditor should summarise the audit plan
+by preparing an audit planning memorandum in order to:
+
+ Describe the expected scope and extent of the audit procedures to be
+       performed by the auditor.
+
+ Highlight all significant issues and risks identified during their planning and
+       risk assessment activities, as well as the decisions concerning reliance on
+       controls.
+
+ Provide evidence that they have planned the audit engagement appropriately
+       and have responded to engagement risk, pervasive risks, specific risks, and
+       other matters affecting the audit engagement.
+
+10. Determine Audit Materiality: The auditor should consider the relationship
+between the audit materiality and audit risk when conducting an audit. The
+determination of audit materiality is a matter of professional judgment and
+depends upon the knowledge of the bank, assessment of engagement risk and the
+reporting requirements for the financial statements.
+
+11. Consider Going Concern: While obtaining an understanding of the bank, the
+auditor should consider whether there are events and conditions which may cast
+significant doubt on the bank's ability to continue as a going concern.
+
+12. Assess the Risk of Fraud including Money Laundering: As per SA 240 "The
+Auditor's Responsibilities Relating to Fraud in an Audit of Financial
+
+© The Institute of Chartered Accountants of India
+10.20  AUDITING AND ETHICS
+
+Statements", the auditor's objective is to identify and assess the risks of material
+misstatement in the financial statements due to fraud, to obtain sufficient
+appropriate audit evidence on those identified misstatements and to respond
+appropriately. The attitude of professional skepticism should be maintained by the
+auditor so as to recognise the possibility of misstatements due to fraud.
+
+The RBI has framed specific guidelines that deal with prevention of money
+laundering and "Know Your Customer (KYC)" norms. The RBI has from time to time
+issued guidelines ("Know Your Customer Guidelines ­ Anti Money Laundering
+Standards"), requiring banks to establish policies, procedures and controls to deter
+and to recognise and report money laundering activities.
+
+13. Assess Specific Risks: The auditors should identify and assess the risks of
+material misstatement at the financial statement level which refers to risks that relate
+pervasively to the financial statements as a whole and potentially affect many
+assertions.
+
+14. Risk Associated with Outsourcing of Activities: The modern day banks
+make extensive use of outsourcing as a means of both reducing costs as well as
+making use of services of an expert not available internally. There are, however, a
+number of risks associated with outsourcing of activities by banks and therefore, it
+is quintessential for the banks to effectively manage those risks.
+
+15. Response to the Assessed Risks: SA 330 "The Auditor's Responses to
+Assessed Risks" requires the auditor to design and implement overall responses
+to address the assessed risks of material misstatement at the financial statement
+level. The auditor should design and perform further audit procedures whose
+nature, timing and extent are based on and are responsive to the assessed risks of
+material misstatement at the assertion level.
+
+16. Stress Testing: Stress testing is a software testing activity that determines the
+robustness of software by testing beyond the limits of normal operation. Stress
+testing is particularly important for "mission critical" software, but is used for all
+types of software (Source ­ Wikipedia). RBI has required that all commercial banks
+shall put in place a Board approved `Stress Testing framework' to suit their individual
+requirements which would integrate into their risk management systems.
+
+17. BASEL III framework: Basel norms or accords are the International
+Banking regulations issued by the BCBS. The Basel Committee on Banking
+Supervision (BCBS) and the Financial Stability Board (FSB) has undertaken an
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.21
+
+extensive review of the regulatory framework in the wake of the sub-prime crisis. In
+the document titled `Basel III: A global regulatory framework for more resilient banks
+and banking systems', released by the BCBS in December 2010, it has inter alia
+proposed certain minimum set of criteria for inclusion of instruments in the new
+definition of regulatory capital. The set of agreement by the BCBS, which mainly
+focuses on risks to banks and the financial system are called Basel accord.
+
+18. Reliance on / review of other reports: The auditor should take into account
+the adverse comments, if any, on advances appearing in the following-
+
+ Previous year's audit reports.
+
+ Latest internal inspection reports of bank officials.
+
+ Reserve Bank's latest inspection report.
+
+ Concurrent / Internal audit report.
+
+ Report on verification of security.
+
+ Any other internal reports specially related to particular accounts.
+
+ Manager's charge-handing-over report when incumbent is changed.
+
+The above reports should be reviewed in detail. The Statutory Central Auditors must
+review the Annual Financial Inspection report of RBI relating to the bank and ensure
+that the variations in provisions, etc. reported by RBI have been properly considered
+by the bank management.
+
+    12. ADVANCES
+
+In carrying out his substantive procedures, the auditor should examine all large
+advances while other advances may be examined on a sampling basis. The accounts
+identified to be problem accounts, however, need to be examined in detail unless
+the amount involved is insignificant. The extent of sample checking would also
+depend on the auditor's assessment of efficacy of internal controls. What constitutes
+a `large advance' would need to be determined in the context of volume of
+operations of the branch e.g. an advance may be considered to be a large advance
+if the year-end balance is in excess of ` 10 crore or 10% of the aggregate year-end
+advances of the branch, whichever is less.
+
+© The Institute of Chartered Accountants of India
+10.22  AUDITING AND ETHICS
+
+Lending constitutes a major activity of a bank besides the investment function. The
+core business of banks is accepting deposits for onward lending. Advances are
+amount of money or credit, given as a loan from a bank to another party with
+an agreement that the money will be repaid. All Bank Loans are made at interest
+which is a compensation for borrowing. Advances, generally, constitute the largest
+item on the assets side of the balance sheet of a bank and are major source of its
+income. Audit of advances is one of the most important areas covered by auditors
+in bank audit. It is necessary that auditors should have adequate knowledge of the
+banking industry and the regulations governing the banks. Auditors must be aware
+of the various functional areas of the bank/branches, its processes, procedures,
+systems and prevailing internal controls with regard to advances.
+
+Types of Advances: Funded Loans & Non-Funded Loans
+
+ Funded loans are those loans where there is an actual transfer of funds from
+       the bank to the borrower. Examples of funded loans are Term loans, Cash
+       credits, Overdrafts, Demand Loans, Bills Discounted and Purchased,
+       Participation on Risk Sharing basis, Interest-bearing Staff Loans.
+
+ Non-funded facilities are those which do not involve such transfer. Examples
+       of non-funded loans are Letters of credit, Bank guarantees, etc.
+
+                                     source :- opentoexport.com
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.23
+
+12.1 What do ADVANCES comprise:
+
+Advances comprise of funded amounts by way of:
+ Term loans
+ Cash credits, Overdrafts, Demand Loans
+ Bills Discounted and Purchased
+ Participation on Risk Sharing basis
+ Interest-bearing Staff Loans
+
+12.2 Legal requirements of Disclosure in the Balance Sheet:
+
+A. (i) Bills purchased and discounted
+       (ii) Cash credits, Overdrafts and loans repayable on demand
+       (iii) Term Loans
+
+B. (i) Secured by tangible assets
+       (ii) Covered by Bank/Government guarantees
+       (iii) Unsecured
+
+C. I. Advances in India:  C. II. Advances outside India:
+(i) Priority sectors      (i) Due from Banks
+(ii) Public sector        (ii) Due from Others:
+(iii) Banks
+(iv) Others                      (a) Bills Purchased and discounted
+                                 (b) Syndicated loans
+                                 (c) Others
+
+© The Institute of Chartered Accountants of India
+10.24  AUDITING AND ETHICS
+
+12.3 Classification of Advances
+
+12.3.1 Sector Wise
+
+RBI issues common guidelines for lending to Priority Sector which banks are
+required to follow. These guidelines cover rate of interest; service charges, receipt,
+sanction, rejection, disbursement Register; issue of Loan Application
+Acknowledgement. RBI also issues targets for banks for lending to Priority Sector.
+
+Examples of Priority Sectors are Agriculture , MSME , Education , Housing ,
+etc.
+
+                                       source:-neoioscape.com
+
+12.4 SECURITY WISE
+
+Banks ask Security or Collateral while lending to assure that the Borrower will return
+the money to bank in prescribed time else the Banks have legal authority to sell the
+collateral to recover its money.
+Nature of Security
+A. Primary security refers to the security offered by the borrower for bank
+finance or the one against which credit has been extended by the bank. This security
+is the principal security for an advance.
+B. Collateral security is an additional security. Security can be in any form i.e.
+tangible or intangible asset, movable or immovable asset.
+Examples of most common types of securities accepted by banks are the
+following:
+ Personal Security of Guarantor
+ Goods/Stocks/Debtors/Trade Receivables
+ Gold Ornaments and Bullion
+ Immovable Property
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.25
+
+ Plantations (For Agricultural Advances)
+
+ Third Party Guarantees
+
+ Banker's General Lien
+
+ Life Insurance Policies
+
+ Stock Exchange Securities and Other Instruments
+
+12.5 Mode of Creation of Security
+
+Depending on the nature of the item concerned, creation of security may take the
+form of a mortgage, pledge, hypothecation, assignment, set-off or lien as follows:-
+
+(i) Mortgage: Mortgage are of several kinds but the most important are the
+Registered Mortgage and the Equitable Mortgage.
+
+ Registered Mortgage can be affected by a registered instrument called the
+       `Mortgage Deed' signed by the mortgagor. It registers the property to the
+       mortgagee as a security.
+
+ Equitable mortgage, on the other hand, is effected by a mere delivery of title
+       deeds or other documents of title with intent to create security thereof.
+
+(ii) Pledge: A pledge thus involves bailment or delivery of goods by the borrower
+to the lending bank with the intention of creating a charge thereon as security for
+the advance. The legal ownership of the goods remains with the pledger while the
+lending banker gets certain defined interests in the goods. The pledge of goods
+constitutes a specific (or fixed) charge.
+
+(iii) Hypothecation: The hypothecation is the creation of an equitable charge
+(i.e., a charge created not by an express enactment but by equity and reason),
+which is created in favor of the lending bank by execution of hypothecation
+agreement in respect of the moveable securities belonging to the borrower.
+
+Neither ownership nor possession is transferred to the bank. However, the borrower
+holds the physical possession of the goods as an agent/trustee of the bank.
+
+The borrower periodically submits statements regarding quantity and value of
+hypothecated assets (stocks, debtors, etc.) to the lending banker on the basis of
+which the drawing power of the borrower is fixed.
+
+© The Institute of Chartered Accountants of India
+10.26  AUDITING AND ETHICS
+
+(iv) Assignment: Assignment represents a transfer of an existing or future debt,
+right or property belonging to a person in favor of another person. Only actionable
+claims (i.e., claim to any debt other than a debt secured by a mortgage of immovable
+property or by hypothecation or pledge of moveable property) such as book debts
+and life insurance policies are accepted by banks as security by way of assignment.
+
+An assignment gives the assignee absolute right over the moneys/debts assigned to him.
+
+(v) Set-off: Set-off is a statutory right of a creditor to adjust, wholly or partly, the
+debit balance in the debtor's account against any credit balance lying in another
+account of the debtor. The right of set-off enables a bank to combine two accounts
+(a deposit account and a loan account) of the same person provided both the
+accounts are in the same name and same right (i.e., the capacity of the account
+holder in both the accounts should be the same).
+
+For the purpose of set-off, all the branches of a bank are treated as one single
+entity. The right of set-off can be exercised in respect of time-barred debts also.
+
+(vi) Lien: Lien is creation of a legal charge with consent of the owner, which gives
+lender a legal right to seize and dispose / liquidate the asset under lien.
+
+12.6 Prudential norms on Income Recognition, Asset
+      Classification and Provisioning pertaining to Advances:
+
+Classification of Advances as per RBI Prudential Norms
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.27
+
+(i) Non-performing Assets: An asset becomes NPA when it ceases to generate
+income for the Bank.
+
+A non-performing asset (NPA) is a loan or an advance where -:
+
+ interest and/ or installment of principal remain overdue for a period of more
+       than 90 days in respect of a term loan;
+
+ the account remains `out of order' in respect of an Overdraft/Cash Credit (OD/ CC);
+
+ the bill remains overdue for a period of more than 90 days in the case of bills
+       purchased and discounted.
+
+(ii) Out of Order: An account should be treated as `out of order' if:-
+
+ the outstanding balance remains continuously in excess of the sanctioned
+       limit/drawing power or
+
+ In cases where the outstanding balance in the principal operating account is
+       less than the sanctioned limit/drawing power, but there are no credits
+       continuously for 90 days as on the date of Balance Sheet ; or
+
+ credits are there but are not enough to cover the interest debited during the
+       same period, these accounts should be treated as `out of order'.
+
+       Example
+
+        A Ltd. has been sanctioned a Cash Credit Facility by ADB Bank Ltd. for INR 50
+       lacs but as per the Stock Statements furnished for the last quarter, the Bank
+       has calculated the Drawing power to be INR 42 Lakhs. In this case, the account
+       would be termed as OUT OF ORDER if :-
+
+        the outstanding balance remains continuously in excess of the INR 50
+               lacs/42 lacs whatever the case may be; or
+
+        The outstanding balance in the account is less than INR 42 lacs but there
+               are no credits or any payments deposited into this account continuously
+               for 90 days as on the date of Balance Sheet; or
+
+        credits are there upto say INR 2 lakhs but are not enough to cover the
+               interest debited during the same period which is around INR 5 lakhs.
+
+© The Institute of Chartered Accountants of India
+10.28                       AUDITING AND ETHICS
+
+(iii) Overdue: Any amount due to the bank under any credit facility is `overdue' if
+it is not paid on the due date fixed by the bank.
+
+                                                   Source :- business-standard.com
+
+Source :- inventiva.co.in
+
+Categories of Non-Performing Assets:               Provision required
+
+ Substandard Assets:                               15%
+
+Would be one, which has remained NPA for a
+
+period less than or equal to 12 months.
+
+ Doubtful Assets:
+
+Would be one, which has remained in the
+substandard category for a period of 12
+months.
+
+Sub-categories:                                    (Secured + Unsecured)
+
+Doubtful up to 1 Year (D1)                         25%   + 100%
+
+Doubtful 1 to 3 Years (D2)                         40%   + 100%
+
+Doubtful more than 3 Years (D3)                    100% + 100%
+
+ Loss Assets:                                      100%
+
+Would be one, where loss has been identified
+by the bank or internal or external auditors or
+the RBI inspection but the amount has not
+been written off wholly.
+
+Note :-
+
+1. Classification as NPA should be based on the record of recovery. Availability
+       of security or net worth of borrower/guarantor is not to be taken into account
+       for purpose of treating an advance as NPA or otherwise.
+
+© The Institute of Chartered Accountants of India
+AUDIT OF BANKS  10.29
+
+2. Asset classification would be borrower-wise and not facility-wise. All facilities
+       including investments in securities would be termed as NPA.
+
+       Example
+
+        Mr. Raman has availed two Loan facilities - a Car Loan as well as a Housing
+        Loan from XYZ Bank Ltd. He is regular in depositing the Housing loan EMI
+        but has not deposited the last 4 EMI's of the Car Loan due to paucity of funds.
+        Hence, in this case, not only the Car loan but the Housing Loan would also
+        be treated as an NPA, although it is going good and there are no
+        irregularities because the NPA classification is Borrower wise (Mr. Raman)
+        and not Facility wise (Car & Housing Loan individually).
+
+(iv) Accounts regularized near the Balance Sheet Date: The asset classification
+of borrower accounts where a solitary or a few credits are recorded before the
+balance sheet date should be handled with care and without scope for subjectivity.
+Where the account indicates inherent weakness on the basis of the data available,
+the account should be deemed as NPA. The auditor should check for sample
+transactions immediately before the closing of the Financial Year and immediately
+after the closing of the Financial year to get a knowledge of the objective behind
+the transactions if they have any relation to each other in the Borrower accounts or
+if any/some transactions are being reversed during the first few days after closing
+which might show an arrangement to prevent the Borrower account(s) from
+slipping into the NPA category.
+
+(v) Government Guaranteed advances:-
+
+ Central Govt. guaranteed Advances, where the guarantee is not invoked/
+       repudiated would be classified as Standard Assets, but regarded as NPA for
+       Income Recognition purpose.
+
+ The situation would be different if the advance is guaranteed by State
+       Government, where advance is to be considered NPA if it remains overdue
+       for more than 90 days for both Provisioning and Income recognition
+       purposes.
+
+(vi) Advances under Consortium:
+
+Consortium advances mean advancing loans to a borrower by two or more Banks
+jointly by forming a Consortium. Joint appraisal, control and monitoring will
+facilitate for exchange of valuable information among the Banks. Usually, a Bank
+
+© The Institute of Chartered Accountants of India
+10.30  AUDITING AND ETHICS
+
+with a higher share will lead the consortium.
+
+Consortium advances should be based on the record of recovery of the respective
+individual member banks and other aspects having a bearing on the recoverability
+of the advances. Where the remittances by the borrower under consortium lending
+arrangements are pooled with one bank and/or where the bank receiving
+remittances is not parting with the share of other member banks, the account
+should be treated as not serviced in the books of the other member banks and
+therefore, an NPA.
+
+The banks participating in the consortium, therefore, need to arrange to get their
+share of recovery transferred from the lead bank or to get an express consent from
+the lead bank for the transfer of their share of recovery, to ensure proper asset
+classification in their respective books.
+
+                                                      source :- marketbusinessnews.com
+
+Note:- Drawing Power Allocation in case of Consortium Cash Credit Account:
+The Lead Bank would be responsible for computing the drawing power (DP) of the
+borrower and allocate the same to member banks. In certain special circumstances,
+at the request of the Borrower, the Lead Bank may allot a higher or lower share of
+drawing power to the member bank, as against their share of advances. The
+proforma DP Allocation Letter is presented hereunder for reference:
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS          10.31
+
+Illustrative Drawing Power for December 2022
+    as per Stock Statement November, 2022
+
+       Description of Stocks                       Market Value    Margin   (` in Crores)
+Raw Materials                                           636.27        25   Advance Value
+Finished Goods                                          372.75        25
+Stock in process                                        659.35        25         477.20
+Stores and Spares                                       124.51        25         279.56
+Book Debts (Upto 120/180 days)                                        35         494.51
+Stock in Transit                                      37379.90        25          93.38
+Total                                                    52.31                 24296.94
+Less: Unpaid Stocks under LC                                         100          39.23
+Total                                                 39225.09                 25680.82
+                                                         0.00
+                                                                                  0.00
+                                                      39225.09                 25680.82
+
+                   BANKS                           Share %                 (` in Crores)
+State Bank of India                                  32.25                  LIMIT/D.P.
+Bank of Baroda                                       2.58
+Bank of India                                        6.45                      500.00
+Canara Bank                                          5.16                       40.00
+Standard Chartered Bank                              9.03                      100.00
+Union Bank of India                                  6.45                       80.00
+HSBC                                                 13.87                     140.00
+Citi Bank                                            6.45                      100.00
+Bank of America                                      1.29                      215.00
+BNP Paribas                                          1.94                      100.00
+Punjab National Bank                                 6.45                       20.00
+ICICI Bank                                           4.84                       30.00
+IDBI Bank                                            3.23                      100.00
+Unallocated                                                                     75.00
+                                                   100.00                       50.00
+                    TOTAL
+                                                                              1550.00
+
+© The Institute of Chartered Accountants of India
+10.32  AUDITING AND ETHICS
+
+12.7 Accounts where there is erosion in the value of
+      security / frauds committed by borrowers
+
+Erosion means the gradual destruction or diminution of something not prudent
+to follow stages of asset classification. It should be straight-away classified as
+doubtful or loss asset as appropriate as follows :-
+
+(i) Erosion in the value of security can be reckoned as significant when the
+       realisable value of the security is less than 50 per cent of the value assessed
+       by the bank or accepted by RBI at the time of last inspection, as the case may
+       be. Such NPAs may be straight-away classified under doubtful category and
+       provisioning should be made as applicable to doubtful assets.
+
+(ii) If the realisable value of the security, as assessed by the bank/ approved
+       valuers/ RBI is less than 10 per cent of the outstanding in the borrower
+       accounts, the existence of security should be ignored and the asset should be
+       straight-away classified as loss asset. It may be either written off or fully
+       provided for by the bank.
+
+12.8 Advances Against Term Deposits, NSCs, KVPs/ IVPs, etc.
+
+Advances against Term Deposits, NSCs eligible for surrender, KVP/IVP and life
+policies need not be treated as NPAs, provided adequate margin is available in
+the accounts.
+
+12.9 Agricultural Advances Affected by Natural Calamities
+
+Master Circular issued by the RBI deals elaborately with the classification and
+income recognition issues due to impairment caused by natural calamities. Banks
+may decide on their own relief measures, viz., conversion of the short term
+production loan into a term loan or re-schedulement of the repayment period and
+the sanctioning of fresh short term loan, subject to the guidelines contained in RBI's
+latest Master Circular on Prudential Norms on Income Recognition, Asset
+Classification and provisioning pertaining to Advances. In such cases, the NPA
+classification would be governed by such rescheduled terms.
+
+12.10 Advances to Staff
+
+Interest-bearing staff advances as a banker should be included as part of advances
+portfolio of the bank. In the case of housing loan or similar advances granted to
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.33
+
+staff members where interest is payable after recovery of principal, interest need
+not be considered as overdue from the first quarter onwards. Such loans/advances
+should be classified as NPA only when there is a default in repayment of installment
+of principal or payment of interest on the respective due dates. The staff advances
+by a bank as an employer and not as a banker are required to be included under the
+sub-head `Others' under the schedule of Other Assets.
+
+12.11 Agricultural Advances
+
+As per the guidelines, Agricultural Advances are of two types:
+
+(1) Agricultural Advances for "long duration" crops; and
+
+(2) Agricultural Advances for "short duration" crops.
+
+The "long duration" crops would be crops with crop season longer than one year
+and crops, which are not "long duration" crops would be treated as "short duration"
+crops.
+
+The crop season for each crop, which means the period up to harvesting of the
+crops raised, would be as determined by the State Level Bankers' Committee in
+each State.
+
+The following NPA norms would apply to agricultural advances (including
+Crop Term Loans):
+
+ A loan granted for short duration crops will be treated as NPA, if the
+       instalment of principal or interest thereon remains overdue for two crop
+       seasons; and
+
+ A loan granted for long duration crops will be treated as NPA, if the instalment
+       of principal or interest thereon remains overdue for one crop season.
+
+Test Your Understanding 2
+
+Ranjana Ceramic Private Limited is sanctioned a cash credit facility of `100 lacs from
+a branch of LMO Bank. Besides, branch has also sanctioned a one-time bank
+guarantee of ` 10 lacs on behalf of the company in favour of a statutory authority.
+Discuss, what type of credit facilities have been sanctioned by branch of LMO bank
+to the company along with probable purpose for each of credit facility.
+
+© The Institute of Chartered Accountants of India
+10.34  AUDITING AND ETHICS
+
+Test Your Understanding 3
+
+During course of audit of branch of a nationalized bank, you find that system has
+generated a report marking ten term loan accounts as SMA. Discuss, meaning of
+SMA accounts and significance of such a classification.
+
+    13. COMPUTATION OF DRAWING POWER
+
+1. Meaning:- Drawing Power generally addressed as "DP" is an important
+concept for Cash Credit (CC) facility availed from banks and financial
+institutions. Drawing power is the limit up to which a firm or company can
+withdraw from the working capital limit sanctioned.
+
+2 Different from Sanctioned Limit:- The Sanctioned limit is the total
+exposure that a bank can take on a particular client for facilities like cash credit,
+overdraft, export packing credit, non-funded exposures etc. On the other
+hand, Drawing Power refers to the amount calculated based on primary security
+less margin as on a particular date.
+
+3. Considerations:- All accounts should be kept within both the drawing power
+and the sanctioned limit at all times. The accounts which exceed the sanctioned limit
+or drawing power or are against unapproved securities or are otherwise irregular
+should be brought to the notice of the Management/Head Office regularly.
+
+4. Bank's Duties:- Banks should ensure that drawings in the working capital
+account are covered by the adequacy of the current assets. Drawing power is
+required to be arrived at based on current stock statement. However, considering
+the difficulties of large borrowers, stock statements relied upon by the banks for
+determining drawing power should not be older than three months. The
+outstanding in the account based on drawing power calculated from stock
+statements older than three months is deemed as irregular.
+
+5. Auditor's Concern:- The stock statements, quarterly returns and other
+statements submitted by the borrower to the bank should be scrutinized in detail.
+The audited Annual Report submitted by the borrower should be scrutinized
+properly. The monthly stock statement of the month for which the audited accounts
+are prepared and submitted should be compared and the reasons for deviations, if
+any, should be ascertained.
+
+© The Institute of Chartered Accountants of India
+AUDIT OF BANKS                             10.35
+
+6. Computation of DP:- It needs to be ensured that the drawing power is
+calculated as per the extant guidelines formulated by the Board of Directors of the
+respective bank and agreed upon by the concerned statutory auditors. Special
+consideration should be given to proper reporting of sundry creditors for the
+purposes of calculating drawing power.
+
+7. Stock Audit:- The stock audit should be carried out by the bank for all
+accounts having funded exposure of more than 5 crores. Auditors can also advise
+for stock audit in other cases if the situation warrants the same. Branches should
+obtain the stock audit reports from lead bank in the cases where the Bank is not
+leader of the consortium of working capital. The report submitted by the stock
+auditors should be reviewed during the course of the audit and special focus should
+be given to the comments made by the stock auditors on valuation of security and
+calculation of drawing power.
+
+       Particulars of current assets              DP
+(A) Stocks
+                                           1000
+       Stocks at realizable value
+       Less: Unpaid stocks:           300
+       - Sundry creditors
+       - Acceptances/LCs etc.         300  600
+       Paid for stocks
+       Margin @ 25%                        400
+(B) Debtors
+       Total Debtors                       100    300
+       Less: Ineligible debtors
+       Eligible debtors                    1000
+       Margin @ 40%
+       Total DP                            200
+
+                                           800
+
+                                           320    480
+
+                                                  780
+
+    14 AUDIT OF ADVANCES
+
+Advances generally constitute the major part of the assets of the bank. There are
+large number of borrowers to whom variety of advances are granted. The audit of
+
+© The Institute of Chartered Accountants of India
+10.36  AUDITING AND ETHICS
+
+advances requires the major attention from the auditors.
+
+In carrying out audit of advances, the auditor is primarily concerned with
+obtaining evidence about the following:
+
+(a) Amounts included in balance sheet in respect of advances which are
+       outstanding at the date of the balance sheet.
+
+(b) Advances represent amount due to the bank.
+
+(c) Amounts due to the bank are appropriately supported by loan documents
+       and other documents as applicable to the nature of advances.
+
+(d) There are no unrecorded advances.
+
+(e) The stated basis of valuation of advances is appropriate and properly applied
+       and the recoverability of advances is recognised in their valuation.
+
+(f) The advances are disclosed, classified and described in accordance with
+       recognised accounting policies and practices and relevant statutory and
+       regulatory requirements.
+
+(g) Appropriate provisions towards advances have been made as per the RBI
+       norms, Accounting Standards and generally accepted accounting practices.
+
+The auditor can obtain sufficient appropriate audit evidence about advances by
+study and evaluation of internal controls relating to advances, and by:
+
+ examining the validity of the recorded amounts;
+
+ examining loan documentation;
+
+ reviewing the operation of the accounts;
+
+ examining the existence, enforceability and valuation of the security;
+
+ checking compliance with RBI norms including appropriate classification and
+       provisioning; and
+
+ carrying out appropriate analytical procedures.
+
+In carrying out his substantive procedures, the auditor should examine all large
+advances while other advances may be examined on a sampling basis. The accounts
+identified to be problem accounts, however, need to be examined in detail unless
+the amount involved is insignificant.
+
+© The Institute of Chartered Accountants of India
+AUDIT OF BANKS  10.37
+
+Advances which are sanctioned during the year or which are adversely commented
+by RBI inspection team, concurrent auditors, bank's internal inspection, etc. should
+generally be included in the auditor's review.
+
+                                                Source : maillie.com
+
+Evaluation of Internal Controls over Advances: The auditor should examine the
+efficacy of various internal controls over advances to determine the nature, timing
+and extent of his substantive procedures. In general, the internal controls over
+advances should include, inter alia, the following:
+
+ The bank should make an advance only after satisfying itself as to the credit
+       worthiness of the borrower and after obtaining sanction from the appropriate
+       authorities of the bank.
+
+ All the necessary documents (e.g., agreements, demand promissory notes,
+       letters of hypothecation, etc.) should be executed by the parties before
+       advances are made.
+
+ The compliance with the terms of sanction and end use of funds should be
+       ensured.
+
+ Sufficient margin as specified in the sanction letter should be kept against
+       securities taken so as to cover for any decline in the value thereof. The
+       availability of sufficient margin needs to be ensured at regular intervals.
+
+ If the securities taken are in the nature of shares, debentures, etc., the
+       ownership of the same should be transferred in the name of the bank and the
+       effective control of such securities be retained as a part of documentation.
+
+ All securities requiring registration should be registered in the name of the
+       bank or otherwise accompanied by documents sufficient to give title to the
+       bank.
+
+© The Institute of Chartered Accountants of India
+10.38  AUDITING AND ETHICS
+
+ In the case of goods in the possession of the bank, contents of the packages
+       should be test checked at the time of receipt. The godowns should be
+       frequently inspected by responsible officers of the branch concerned, in
+       addition to the inspectors of the bank.
+
+ Drawing Power Register should be updated every month to record the value
+       of securities hypothecated. These entries should be checked by an officer.
+
+ The accounts should be kept within both the drawing power and the
+       sanctioned limit.
+
+ All the accounts which exceed the sanctioned limit or drawing power or are
+       otherwise irregular should be brought to the notice of the controlling
+       authority regularly.
+
+ The operation of each advance account should be reviewed at least once a
+       year and at more frequent intervals in the case of large advances.
+
+Test Your Understanding 4
+
+CA P is conducting stock audit of a borrower availing cash credit facility of `100
+lacs from branch of a bank. The cash credit facility is against security of paid stocks
+and debtors up to 90 days. Margin stipulated is 25% for stocks and 40% for debtors.
+Following further information is available as on 31.12.22: -
+
+ Value of stocks                                            ` 125 lacs
+ Value of stocks (fully damaged) included in above                5 lacs
+ Value of debtors
+ Value of debtors exceeding 90 days included in above           50 lacs
+ Value of creditors for goods                                   10 lacs
+                                                                50 lacs
+Is Drawing Power computed by CA P for ` 82.50 lacs proper?
+
+    15. AUDIT OF REVENUE ITEMS - PROFIT AND
+          LOSS ACCOUNT
+
+Sub­section (1) of Section 29 of the Banking Regulation Act, 1949, requires the
+preparation of Profit and Loss Account in Form B of Third Schedule to the Act or as
+near thereto as the circumstances admit.
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.39
+
+© The Institute of Chartered Accountants of India
+     10.40                AUDITING AND ETHICS
+
+15.1 Income
+
+The following items are included under this head:
+
+Interest Earned                                    Other Income
+
+ Interest/ Discount on  Commission, Exchange and Brokerage: This
+
+Advances/ Bills:                                   item comprises of the following:
+
+ Interest Income on                                (a) Commission on bills for collection.
+
+Investments:                                       (b) Commission/exchange                  on
+
+ Interest on Balances                              remittances and transfers, e.g.
+
+with RBI and Other                                 demand drafts, NEFT, RTGS, etc.
+
+Inter­bank Funds:                                  (c) Commission on letters of credit and
+
+ Others: This includes                             guarantees, letter of comforts.
+
+any                other                           (d) Loan processing, arranger and
+                                                          syndication fees.
+interest/discount
+                                                   (e) Mobile banking fees.
+income not included in                             (f) Credit/Debit card fee income
+
+the above heads
+
+                                                   including annual fee income,
+
+                                                   merchant acquiring income,
+
+                                                   interchange fees, etc.
+
+                                                   (g) Rent from letting out of lockers
+
+                                                   (h) Commission on Government business.
+
+                                                   (i) Commission on other permitted
+
+                                                   agency  business                  including
+
+                                                   consultancy and other services.
+
+                                                   (j) Brokerage on securities.
+
+                                                   (k) Fee on insurance referral.
+
+                                                   (l) Commission on referral of mutual fund
+                                                          clients.
+
+                                                   (m) Service/transaction banking charges
+                                                          including charges levied for
+                                                          transaction at other branches.
+
+                                                   (n) Income from rendering other services
+                                                          like custodian, demat, investment
+                                                          advisory, cash management and other
+                                                          fee based services.
+
+                           Profit on Sale of Investments
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.41
+
+                                             Profit/Loss on Revaluation of Investments
+                                             Profit on sale of Land, Buildings and Other
+
+                                                    Assets:
+                                             Profit/Loss on Revaluation of Fixed Assets
+                                             Profit on exchange transactions: This
+
+                                                    includes revaluation gains/losses on forward
+                                                    exchange contracts and other derivative
+                                                    contracts, premium income/expenses on
+                                                    options, etc.
+                                             Income earned by way of dividends, etc.,
+                                                    from subsidiaries and joint ventures
+                                                    abroad/in India.
+                                             Miscellaneous income.
+
+15.1.1 Audit Approach and Procedures
+
+ Auditor's Concern:- In carrying out audit of income, the auditor is primarily
+       concerned with obtaining reasonable assurance that the recorded income
+       arose from transactions, which took place during the relevant period and
+       pertained to the bank, there is no unrecorded income and the income is
+       recorded at appropriate amount.
+
+ RBI's Directions:- RBI has advised that in respect of any income which
+       exceeds one percent of the total income of the bank if the income is reckoned
+       on a gross basis or one percent of the net profit before taxes if the income is
+       reckoned net of costs, should be considered on accrual as per Accounting
+       Standard 9.
+
+ Materiality:- If any item of income is not considered to be material as per
+       the above norms, it may be recognised when received and the auditors need
+       not qualify their report in that situation.
+
+ Revenue Certainty:- Banks recognise income (such as interest, fees and
+       commission) on accrual basis, i.e., as it is earned. It is an essential condition
+       for accrual of income that it should not be unreasonable to expect its ultimate
+       collection. In modern day banking, the entries for interest income on
+       advances are automatically generated through a batch process in the CBS
+       system.
+
+© The Institute of Chartered Accountants of India
+10.42  AUDITING AND ETHICS
+
+ Revenue Uncertainty:- In view of the significant uncertainty regarding
+       ultimate collection of income arising in respect of non-performing assets,
+       the guidelines require that banks should not recognize income on non-
+       performing assets until it is actually realised. When a credit facility is classified
+       as non-performing for the first time, interest accrued and credited to the
+       income account in the corresponding previous year which has not been
+       realized should be reversed or provided for. This will apply to Government
+       guaranteed accounts also.
+
+ Advances against Securities:- Interest on advances against Term Deposits,
+       National Savings Certificates (NSCs), Indira Vikas Patras (IVPs), Kisan Vikas
+       Patras (KVPs) and Life policies may be taken to income account on the due
+       date, provided adequate margin is available in the accounts.
+
+ Bills Purchased:- In the case of bills purchased outstanding at the close of
+       the year the discount received thereon should be properly apportioned
+       between the two years. [The Unexpired discount/ rebate on bills discounted
+       i.e., where part of receipt comprising discount charges on bills purchased
+       relate to the period beyond the year-end, should be recorded as "Other
+       Liabilities"]. Interest (discount) component paid by Bank/Branch on
+       rediscount of bills from other financial institutions, is not to be netted off
+       from the discount earned on bills discounted.
+
+ Bills for Collection:- In the case of bills for collection, the auditor should also
+       examine the procedure for crediting the party on whose behalf the bill has
+       been collected. The procedure is usually such that the customer's account is
+       credited only after the bill has actually been collected from the drawee either
+       by the bank itself or through its agents, etc. This procedure is in consonance
+       with the nature of obligations of the bank in respect of bills for collection.
+       The commission of the branch becomes due only when the bill has been
+       collected.
+
+ Renegotiations:- Fees and commissions earned by the banks as a result of
+       re-negotiations or rescheduling of outstanding debts should be recognised
+       on an accrual basis over the period of time covered by the re-negotiated or
+       rescheduled extension of credit. Test check the interest earned by the banks
+       for the sample selected. Test check the fees and commissions earned by the
+       banks made for commission on bills for collection, letters of credit and bank
+       guarantees.
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.43
+
+Reversal of Income:
+
+(a) If any advance, including bills purchased and discounted, becomes NPA as at
+the close of any year, the entire interest accrued and credited to income account
+in the past periods, should be reversed or provided for if the same is not realised.
+This will apply to Government guaranteed accounts also.
+
+(b) In respect of NPAs, fees, commission and similar income that have accrued
+should cease to accrue in the current period and should be reversed or provided
+for with respect to past periods, if uncollected.
+
+(c) Further, in case of banks which have wrongly recognised income in the past
+should reverse the interest if it was recognised as income during the current year
+or make a provision for an equivalent amount if it was recognized as income in the
+previous year(s).
+
+(d) Furthermore, the auditor should enquire if there are any large debits in the
+Interest Income account that have not been explained. It should be enquired
+whether there are any communications from borrowers pointing out differences in
+interest charge and whether appropriate action has been taken in this regard.
+
+On leased assets: The component of finance income (as defined in AS 19 ­ Leases)
+on the leased asset which was accrued and credited to the income account before
+the asset became non-performing and remaining unrealised, should be reversed or
+provided for in the current accounting period.
+
+On Take-out finance: A takeout loan is a method of financing whereby a loan that
+is procured later is used to replace the initial loan. More specifically, a takeout loan,
+or takeout financing, is long-term financing that the lender promises to provide at a
+particular date or when particular criteria for completion of a project are met.
+Takeout loans are commonly used in property development (Source :- Investopedia).
+In the case of take-out finance, if based on record of recovery, the account is
+classified by the lending bank as NPA, it should not recognize income unless
+realised from the borrower/taking-over institution (if the arrangement so provides).
+
+© The Institute of Chartered Accountants of India
+10.44  AUDITING AND ETHICS
+
+OBJECTIVE OF TAKEOUT FINANCE
+
+                                                    To expand sources of Finance for
+                                                   infrastructure projects by facilitating
+
+                                                        participation of new entities
+
+                                                     To address sectoral/group/entity
+                                                    exposure issues and asset liabillity
+                                                    in mis-match concerns of tenders
+
+                                                    To boost the availability of longer
+                                                      tenor debt finance for projects
+
+                                                  Source :- slideshare.net
+
+On Partial Recoveries in NPAs:
+
+In the absence of a clear agreement between the bank and the borrower for the
+purpose of appropriation of recoveries in NPAs (i.e., towards principal or interest
+due), banks are required to adopt an accounting policy and exercise the right of
+appropriation of recoveries in a uniform and consistent manner. The appropriate
+policy to be followed is to recognise income as per AS 9 when certainty attaches to
+realisation and accordingly amount reversed/derecognised or not recognised in the
+past should be accounted.
+
+Interest partly/fully realised in NPAs can be taken to income. However, it should be
+ensured that the credits towards interest in the relevant accounts are not out of
+fresh/additional credit facilities sanctioned to the borrowers concerned.
+
+Memorandum Account: On an account turning NPA, banks should reverse the
+interest already charged and not collected by debiting Profit and Loss account and
+stop further application of interest. However, banks may continue to record such
+accrued interest in a Memorandum account in their books for control purposes. For
+the purpose of computing Gross Advances, interest recorded in the Memorandum
+account should not be taken into account.
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.45
+
+Income from Investments
+
+ Interest Income on Investments: This includes all income derived from
+ Government securities, bonds and debentures of corporates and other investments
+ by way of interest and dividend, except income earned by way of dividends, etc.,
+ from subsidiaries and joint ventures abroad/in India. Broken period interest paid on
+ securities purchased and amortisation of premium on SLR investments is net off
+ from the interest income on investments.
+
+ Profit on Sale of Investments: Investments are dealt in the course of banking
+ activity and hence the net profit or loss on sale of investments is taken to profit and
+ loss account.
+
+ Profit/Loss on Revaluation of Investments: In terms of guidelines issued by the
+ RBI, investments are to be valued at periodical intervals and depreciation or
+ appreciation in valuation should be recognised and taken to profit and loss account.
+
+15.2 Expenses
+
+Expenditure is to be shown under three broad heads:
+(1) Interest expense
+(2) Operating expense
+(3) Provisions and contingencies.
+The following items are included under this head:
+
+Interest Expense Operating Expenses Provisions and Contingencies
+
+ Interest      on   Payments to and                     Provisions made in respect
+     Deposits       Provisions for                      of the Non-performing
+                    Employees                           assets.
+
+ Interest      on  Rent, Taxes and  Provisions for Taxation
+
+Reserve Bank of     Lighting
+
+India/Inter­Bank  Printing                         and
+Borrowings
+                    Stationery
+
+ Others           Advertisement                          Provisions for Diminution in
+                      and Publicity                          the value of investments
+
+                  Depreciation on  Provisions for contingencies
+
+© The Institute of Chartered Accountants of India
+10.46  AUDITING AND ETHICS
+
+       Bank's Property
+
+        Directors' Fees,
+            Allowances and
+            Expenses
+
+        Auditors' Fees
+            and Expenses
+
+        Legal expenses
+
+        Postage,
+            Telegrams,
+            Telephones, etc.
+
+        Repairs                                    and
+
+       Maintenance
+
+        Insurance
+
+        Marketing
+            Expenses
+
+        Other Expenses
+
+15.2.1 Audit Approach and Procedures
+
+ In carrying out an audit of interest expense, the auditor is primarily concerned
+       with assessing the overall reasonableness of the amount of interest expense
+       by analysing ratios of interest paid on different types of deposits and
+       borrowings to the average quantum of the respective liabilities during the
+       year. In modern day banking, the entries for interest expenses are
+       automatically generated through a batch process in the CBS system.
+
+ The auditor should obtain from the bank an analysis of various types of
+       deposits outstanding at the end of each quarter. From such information, the
+       auditor may work out a weighted average interest rate. The auditor may then
+       compare this rate with the actual average rate of interest paid on the relevant
+       deposits as per the annual accounts and enquire into the difference, if
+       material.
+
+© The Institute of Chartered Accountants of India
+AUDIT OF BANKS  10.47
+
+ The auditor should also compare the average rate of interest paid on the
+       relevant deposits with the corresponding figures for the previous years and
+       analyse any material differences. The auditor should obtain general ledger
+       break-up for the interest expense incurred on deposits (savings and term
+       deposits) and borrowing each month/quarter. The auditor should analyse
+       month on month (or quarter on quarter) cost analysis and document the
+       reasons for the variances as per the benchmark stated. He should examine
+       whether the interest expense considered in the cost analysis agrees with the
+       general ledger. The auditor should understand the process of computation of
+       the average balance and re-compute the same on sample basis.
+
+ The auditor should, on a test check basis, verify the calculation of interest and
+       ensure that:
+
+       (a) Interest has been provided on all deposits upto the date of the balance
+               sheet;
+
+       (b) Interest rates are in accordance with the bank's internal regulations, the
+               RBI directives and agreements with the respective deposit holder;
+
+       (c) Interest on savings accounts are in accordance with the rules framed by
+               the bank/RBI in this behalf.
+
+       (d) Interest on inter­branch balances has been provided at the rates
+               prescribed by the head office/RBI.
+
+The auditor should ascertain whether there are any changes in interest rate on
+saving accounts and term deposits during the period. The auditor should obtain
+the interest rate card for various types of deposits and analyse the interest cost for
+the period accordingly. The auditor should examine the completeness that interest
+has been accrued on the entire borrowing portfolio and the same should agree with
+the general ledgers. The auditor should re-compute the interest accrual i.e., by
+referring to the parameters like frequency of payment of interest amount, rate of
+interest, period elapsed till the date of balance sheet, etc. from the term sheet, deal
+ticket, agreements, etc. and ensure that the recomputed amount is tallying with the
+amount as per books of accounts without any significant difference.
+
+© The Institute of Chartered Accountants of India
+10.48  AUDITING AND ETHICS
+
+For audit of Operating expenses, the auditor should :-
+
+· study and evaluate the system of internal control relating to expenses,
+       including authorization procedures in order to determine the nature, timing
+       and extent of his other audit procedures.
+
+· should examine whether there are any divergent trends in respect of major
+       items of expenses.
+
+· perform substantive analytical procedures (proforma given below for
+       reference) in respect of these expenses. e.g. assess the reasonableness of
+       expenses by working out their ratio to total operating expenses and comparing
+       it with the corresponding figures for previous years.
+
+· verify expenses with reference to supporting documents and check the
+       calculations wherever required.
+
+For audit of Provisions and contingencies the auditor should :-
+
+· ensure that the compliances for various regulatory requirements for
+       provisioning as contained in the various circulars have been fulfilled.
+
+· obtain an understanding as to how the bank computes provision on standard
+       assets and non-performing assets. It will primarily include checking the basis
+       of classification of loans and receivables into standard, sub-standard,
+       doubtful, loss and non-performing assets. The auditor may verify the loan
+       classification on a sample basis.
+
+· obtain the detailed break up of standard loans, non-performing loans and
+       agree the outstanding balances with the general ledger.
+
+· obtain the tax provision computation from the bank's management and verify
+       the nature of items debited and credited to profit and loss account to
+       ascertain that the same are appropriately considered in the tax provision
+       computation.
+
+· examine the other provisions for expenses vis-a-vis the circumstances
+       warranting the provisioning and the adequacy of the same by discussing and
+       obtaining the explanations from the bank's management.
+
+© The Institute of Chartered Accountants of India
+          AUDIT OF BANKS        10.49
+
+          INCOMES
+
+INTEREST                         OTHER
+INCOME                          INCOME
+
+      INTEREST/DISCOUNT/BILLS         COMMISSION , EXCHANGE,
+INTEREST INCOME ON INVESTMENT                    BROKERAGE
+ INTEREST ON BALANCES WITH RBI
+                                 PROFIT ON SALE OF INVESTMENT
+                     OTHER
+                                PROFIT ON REVALUATION OF FIXED
+                                                    ASSETS
+
+          EXPENSES
+
+INTEREST  PROVISIONS AND        OPERATING
+EXPENSE   CONTINGENCIES          EXPENSES
+
+       INTEREST ON DEPOSITS
+         INTEREST ON BANK
+               BORROWING
+                  OTHERS
+
+15.3 Disclosure of the prior period items
+
+Since the format of the profit and loss accounts of banks prescribed in Form B
+under Third Schedule to the Banking Regulation Act, 1949 does not specifically
+provide for disclosure of the impact of prior period items on the current year's profit
+and loss, such disclosures, wherever warranted, may be given.
+
+© The Institute of Chartered Accountants of India
+10.50  AUDITING AND ETHICS
+
+Test Your Understanding 5
+
+You are verifying interest on deposits paid by branch of a nationalized bank.
+Discuss, any two "analytical procedures", to verify interest on deposits paid by
+branch.
+
+CASE STUDY
+
+CA M is conducting statutory audit of branch of MMC Bank. During the course of
+audit, it is noticed as under:-
+
+(i) Loans under "Kisan credit card" are given by Bank to farmers to meet their
+       short-term credit needs for cultivation of crops.
+
+       In respect of one agricultural advance classified under "Kisan Credit Card"
+       having an outstanding balance of ` 20 lacs as at year end, there is no
+       transaction in account since last 90 days. The said loan has been granted for
+       cultivation of paddy which is harvested in a period of 3-4 months from
+       sowing. The branch has classified the said advance as "Standard asset".
+
+(ii) It is also observed that account of one borrower availing cash credit limit of
+       `50 lacs was taken over from another bank. The proposal was sanctioned by
+       branch manager instead of immediate next higher authority as required in
+       "Manual of Delegation of Powers" of Bank.
+
+(iii) It is noticed that head office of bank has flagged a savings account
+       maintained in branch in which interest was wrongly paid at higher rate due
+       to wrong data feeding entry. Now, situation has been rectified by debiting
+       excess interest paid in the account. Since there was little balance in savings
+       account, a debit balance of `1.50 lac was created in the said savings account
+       due to above reversal. The matter was immediately informed to account
+       holder. However, he has not turned up for payment since matter was
+       informed to him about six months ago.
+
+(iv) There are many cash credit accounts in the branch. Such borrowers are
+       required to submit monthly stock statements to branch showing calculation
+       of drawing power.
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.51
+
+(v) One borrower has availed a housing loan and a car loan from the branch.
+       Housing loan EMIs are overdue for 120 days as on date of Balance sheet. Car
+       loan EMIs are overdue for 60 days as on date of Balance sheet.
+
+Based on above, answer following questions:
+
+(1) As regards description of agricultural advance, which of the following
+       statements is most appropriate in this regard?
+
+       (a) The branch has erred in making classification as per RBI norms. It is a
+               "Sub-standard" asset.
+
+       (b) The classification made by branch is proper. However, there are no
+               transactions in account since last 90 days, it is SMA.
+
+       (c) The classification made by branch is proper.
+
+       (d) The branch has erred in making classification as per RBI norms. It is a
+               "doubtful" asset.
+
+(2) Regarding taken over account from another bank, which of following
+       statements is most appropriate?
+
+       (a) It is an internal issue of Bank and auditor is not concerned with it.
+
+       (b) It is an internal issue of Bank. However, the auditor may, at his discretion,
+               report it.
+
+       (c) It is a serious violation of laid down procedures of bank for sanction of
+               advances and should be reported by auditor without fail.
+
+       (d) There is no issue involved as credit facility was properly sanctioned.
+(3) As regards debit balance of ` 1.50 lacs in Savings account, which of the
+
+       following is correct from point of view of an auditor?
+
+       (a) The situation does not attract RBI norms on asset classification.
+       (b) The debit balance of `1.50 lacs should be classified as NPA.
+
+       (c) The situation does not attract RBI norms on asset classification as no
+               credit facility was granted.
+
+       (d) The bank cannot demand excess interest paid to account holder.
+
+© The Institute of Chartered Accountants of India
+      10.52  AUDITING AND ETHICS
+
+(4) Which of the following statements is not true about "drawing power" (DP)?
+
+       (a) Drawing Power refers to the amount calculated based on primary security
+               less margin as on particular date.
+
+       (b) It is always less than sanctioned limit.
+
+       (c) It can be different from sanctioned limit.
+
+       (d) Creditors for goods are reduced for purpose of calculating Drawing
+               Power.
+
+(5) Considering housing loan and car loan availed by a borrower, which of the
+       following statements is appropriate?
+
+       (a) Both Housing loan as well as car loan should be classified as "Non-
+               Performing Assets" in accordance with RBI norms on asset classification.
+
+       (b) Housing Loan should be classified as "Non-Performing Asset" in
+               accordance with RBI norms on asset classification. However, Car loan
+               should be classified as Standard asset.
+
+       (c) Car Loan should be classified as "Non-Performing Asset" in accordance
+               with RBI norms on asset classification. However, Housing Loan should be
+               classified as Standard asset.
+
+       (d) Both Housing as well as car loans should be classified as Standard
+              assets.
+
+Answers to Questions involving case study
+
+1. c  2. c   3. b                                  4. b  5. a
+
+SUMMARY
+
+ Commercial banks are the most wide spread banking institutions in India,
+       that provide a number of products and services to general public and other
+       segments of economy. Their main functions are accepting deposits and granting
+       advances.
+
+ Banking operations are conducted only at the branches, while other offices
+       act as controlling authorities or administrative offices that lay down policies,
+       systems and internal control procedures for conduct of business, in
+
+© The Institute of Chartered Accountants of India
+AUDIT OF BANKS  10.53
+
+       compliance with the statutory/ regulatory impositions.
+ Banking operations are peculiar due to huge volume and complexity of
+
+       transactions, extensive use of technology and wide geographical spread of
+       banks network etc,The approach to a bank audit among other things includes
+       understanding the bank, its environment including internal control, gaining
+       knowledge about bank's accounting system, its risk assessment process,
+       establishing a sound audit strategy and developing the audit plan.
+ Lending constitutes a major activity of a bank. The core business of banks is
+       accepting deposits for onward lending.
+ An asset becomes non-performing (NPA) when it ceases to generate income
+       for the Bank.
+ RBI has stipulated prudential norms for income recognition, asset
+       classification and provisioning pertaining to advances which are to be
+       followed by Banks.
+ Non-performing assets have been further classified into sub-standard,
+       doubtful (D1, D2 and D3) and loss assets.
+ The auditor should examine the efficacy of various internal controls over
+       advances to determine the nature, timing and extent of his substantive
+       procedures.
+ The auditor is also concerned with audit of items of income and expenditure
+       appearing in profit and loss account of a bank Suitable substantive
+       procedures and analytical procedures should be designed and performed by
+       auditor in this regard.
+
+TEST YOUR KNOWLEDGE
+
+MCQs based Questions
+
+(1) Which of the following is included in "Interest Earned" in Profit & loss A/c of a
+       bank?
+
+       (a) Discount on Bills
+
+       (b) Loan Processing fees
+
+       (c) Commission on bills for collection
+
+© The Institute of Chartered Accountants of India
+10.54  AUDITING AND ETHICS
+
+       (d) Credit Card Fees
+(2) While auditing advances of a bank as statutory auditor, which of the following
+
+       is not a likely concern of auditor?
+       (a) Appropriate documentation of advances
+       (b) Ensuring budgeted targets of advances given by bank management
+       (c) Compliance of sanctioned terms and conditions
+       (d) Operations in advance accounts
+(3) Any amount due to the bank under any credit facility is `overdue' if: -
+       (a) it is not paid on the due date fixed by the bank
+       (b) it is not paid within 30 days of due date fixed by the bank
+       (c) it is not paid within 60 days of due date fixed by the bank
+       (d) it is not paid within 90 days of due date fixed by the bank
+(4) Which of the following statement is true regarding appointment of statutory
+       branch auditor of a nationalized bank?
+       (a) The appointment is made by bank acting through its board of directors
+
+               with prior approval of Central govt.
+       (b) The appointment is made by bank acting through its board of directors
+
+               with prior approval of RBI
+       (c) The appointment is made by bank acting through its board of directors
+
+               with prior approval of ICAI
+       (d) The appointment is made by shareholders in AGM.
+(5) Identify the correct statement: -
+       (a) Income from non-performing assets is recognized on accrual basis
+       (b) Income from non-performing assets is never recognized.
+       (c) Income from non-performing assets is recognized on basis of actual
+
+               recovery
+       (d) Income from non-performing assets is recognized only when such assets
+
+               are upgraded to standard assets
+
+© The Institute of Chartered Accountants of India
+AUDIT OF BANKS  10.55
+
+Correct/Incorrect
+
+State with reasons (in short) whether the following statements are correct
+or incorrect:
+(1) RBI has been entrusted with the responsibility of regulating the activities of
+
+       commercial banks only.
+
+(2) In the computerised environment, the auditor need not be familiar with latest
+       applicable RBI guidelines.
+
+(3) The auditor can assume that the system generated information is correct and
+       relied upon.
+
+(4) Collateral security refers to the security offered by the borrower for bank
+       finance or the one against which credit has been extended by the bank.
+
+(5) Registered mortgage is effected by a mere delivery of title deeds or other
+       documents of title with intent to create security thereof
+
+(6) Any amount due to the bank under any credit facility is `overdue' if it is not
+       paid within 90 days of becoming due.
+
+(7) An account should be treated as 'out of order' if the outstanding balance
+       remains continuously in excess of the sanctioned limit/drawing power.
+
+(8) Banks recognize income on Non-Performing Assets on accrual basis.
+
+(9) Auditor of a Nationalised bank is to be appointed at the annual general
+       meeting of the shareholders.
+
+(10) Reporting of fraud of INR 150 Lakhs by auditor will be done within three days
+       of the fraud coming to the knowledge of the auditor to the Board or the Audit
+       Committee along with remedial action taken in case of audit of ABA Bank Ltd.
+
+(11) Central Govt. guaranteed Advances, where the guarantee is not invoked/
+       repudiated would be classified as Standard Assets.
+
+Theoretical Questions
+
+1. Discuss outline of audit approach including audit procedures while auditing
+       "provisions and contingencies" in financial statements of a bank.
+
+2. Discuss importance of implementation of KYC norms by a bank from
+       perspective of an auditor of bank.
+
+© The Institute of Chartered Accountants of India
+10.56  AUDITING AND ETHICS
+
+3. List out any four points which highlight peculiarities involved in banking
+       operations.
+
+4. Is statutory auditor of a bank required to report on the requirements relating
+       to Companies (Auditor's Report) Order, 2020?
+
+5. Account of a borrower availing cash credit facility from branch of a bank has
+       become "Out or order." Discuss the term "Out of order".
+
+6. The functioning of banking industry in India is regulated by the Reserve Bank
+       of India (RBI) which acts as the Central Bank of our country. Explain
+
+7. "The engagement team should hold discussions to gain better understanding of
+       the bank and its environment, including internal control, and also to assess the
+       potential for material misstatements of the financial statements. All these
+       discussions should be appropriately documented for future reference". Explain
+
+8. Write a short note on reversal of income under bank audit.
+
+ANSWERS/SOLUTIONS
+
+Answers to the MCQs based Questions
+
+1. a 2. b 3. a 4. b 5. c
+
+Answers to Correct/Incorrect
+
+(1) Incorrect. RBI has been entrusted with the responsibility of regulating the
+       activities of commercial and other banks. All the Banks and even NBFC's fall
+       under the regulatory function of RBI.
+
+(2) Incorrect. In the Computerised environment, it is imperative that the auditor
+       is familiar with, and is satisfied that, all the norms/parameters as per the latest
+       applicable RBI guidelines are incorporated and built into the system that
+       generates information/data having a bearing on the classification/ provisions
+       and income recognition.
+
+(3) Incorrect. The auditor should not go by the assumption that the system
+       generated information is correct and can be relied upon without evidence
+
+© The Institute of Chartered Accountants of India
+AUDIT OF BANKS  10.57
+
+       that demonstrates that the system driven information is based on validation
+       of the required parameters for the time being in force and applicable.
+
+(4) Incorrect. Primary security refers to the security offered by the borrower for
+       bank finance or the one against which credit has been extended by the bank.
+       This security is the principal security for an advance. Collateral security is in
+       addition to the Primary security.
+
+(5) Incorrect. Registered Mortgage can be affected by a registered instrument
+       called the `Mortgage Deed' signed by the mortgagor. It registers the property
+       to the mortgagee as a security. Equitable mortgage, on the other hand, is
+       effected by a mere delivery of title deeds or other documents of title with
+       intent to create security thereof.
+
+(6) Incorrect. Any amount due to the bank under any credit facility is `overdue'
+       if it is not paid on the due date fixed by the bank and 90 days of becoming
+       overdue.
+
+(7) Correct. An account should be treated as 'out of order' if the outstanding
+       balance remains continuously in excess of the sanctioned limit/drawing
+       power or In cases where the outstanding balance in the principal operating
+       account is less than the sanctioned limit/drawing power, but there are no
+       credits continuously for 90 days as on the date of Balance Sheet ; or credits
+       are there but are not enough to cover the interest debited during the same
+       period.
+
+(8) Incorrect: Income from non-performing assets (NPA) is not recognised on
+       accrual basis due to its uncertainty but is booked as income only when it is
+       actually received i.e. on actual receipt basis.
+
+(9) Incorrect- Auditor of a nationalized bank is to be appointed by the bank
+       concerned acting through its Boards of Directors and approval of the Reserve
+       bank is required before the appointment is made.
+
+(10) Incorrect- The auditor shall report the matter to the Board or the Audit
+       Committee, as the case may be, immediately but not later than 2 days of his
+       knowledge of the fraud, seeking their reply or observations within 45 days.
+
+© The Institute of Chartered Accountants of India
+10.58  AUDITING AND ETHICS
+
+       The Banking Company is bound to disclose remedial action taken in Board's
+       report.
+
+(11) Correct: Central Govt. guaranteed Advances, where the guarantee is not
+
+       invoked/ repudiated would be classified as Standard Assets, but regarded as
+       NPA for Income Recognition purpose.
+
+Answers to Theoretical Questions
+
+1. Refer to topic on "Audit of provisions and contingencies"
+
+2. Refer to topic on "Conducting an audit- Assessing the risk of Fraud---"
+
+3. Refer to topic on "Banking Operations"
+
+4. Refer to topic on "Format of report"
+
+5. Refer to topic on "Prudential norms on income recognition, asset
+       classification and provisioning pertaining to advances
+
+6. Refer Introduction paragraph
+
+7. Refer Para 2
+
+8. Refer Para 15.1
+
+Answers to Questions involving Test Your Understanding
+
+1. Sub-sections (1) and (2) of Section 29 of the Banking Regulations Act, 1949
+       deal with the form and content of financial statements of a banking company
+       and their authentication. These provisions are also applicable to nationalised
+       banks. Every banking company is required to prepare a Balance Sheet and a
+       Profit and Loss Account in the forms set out in the Third Schedule to the Act
+       or as near thereto as the circumstances admit. Form A of the Third Schedule
+       to the Banking Regulation Act, 1949, contains the form of Balance Sheet and
+       Form B contains the form of Profit and Loss Account.
+
+2. Cash credit facility sanctioned by bank to company is in nature of funded
+       credit facility. Its purpose is to meet working capital requirements of business.
+
+       Bank guarantee sanctioned to the company is in nature of non-funded credit
+       facility. Its probable purpose could be requirement of a guarantee by a
+
+© The Institute of Chartered Accountants of India
+                                                   AUDIT OF BANKS  10.59
+
+statutory authority in exchange of company fulfilling some statutory
+obligations.
+
+3. Special Mention Account (SMA) is an account which is exhibiting signs of
+       incipient stress resulting in the borrower defaulting in timely servicing of debt
+       obligations, though the account has not yet been classified as NPA as per the
+       RBI guidelines.
+
+In the given case, ten term loan accounts have been classified as SMA. It
+means that there are overdues in the accounts for a period of 0 to 90 days.
+Since period of 90 days has not been exceeded as on the date, such accounts
+have not been classified as NPA as per RBI norms.
+
+Such a classification is significant as early recognition of such accounts
+enables banks to initiate timely remedial actions to prevent potential
+slippages of such accounts into NPAs.
+
+4. The computation of Drawing power is as under: -
+
+Value of stocks as on 31.12.22                                     ` 125 lacs
+
+Less: value of damaged stocks                                      ` 5 lacs
+
+                                                                   ` 120 lacs
+
+Less: creditors for goods as on 31.12.22                           ` 50 lacs
+
+Value of Paid stocks                                               ` 70.00 lacs
+
+Less: Margin @ 25%                                                 `17.50 lacs
+
+Drawing power (A)                                                  ` 52.50 lacs
+
+Value of debtors as on 31.12.22                                    ` 50 lacs
+
+Less: debtors exceeding 90 days                                    ` 10 lacs
+
+                                                                   `40 lacs
+
+Less: Margin @ 40%                                                 ` 16 lacs
+
+Drawing Power (B)                                                  ` 24 lacs
+
+Drawing Power (A+B)                                                ` 76.50 lacs
+
+The drawing power calculated by CA P is not proper. Drawing Power comes
+to ` 76.50 lacs.
+
+© The Institute of Chartered Accountants of India
+10.60  AUDITING AND ETHICS
+
+5. The auditor should obtain from the bank an analysis of various types of
+       deposits outstanding at the end of each quarter. From such information, the
+       auditor may work out a weighted average interest rate. The auditor may then
+       compare this rate with the actual average rate of interest paid on the relevant
+       deposits as per the annual accounts and enquire into the difference, if
+       material.
+
+       The auditor should also compare the average rate of interest paid on the
+       relevant deposits with the corresponding figures for the previous years and
+       analyse any material differences.
+
+© The Institute of Chartered Accountants of India
+

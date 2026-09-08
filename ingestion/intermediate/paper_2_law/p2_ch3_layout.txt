@@ -1,0 +1,2666 @@
+CHAPTER  3
+
+PROSPECTUS
+
+AND ALLOTMENT
+
+OF SECURITIES
+
+                                       LEARNING OUTCOMES
+
+At the end of this chapter, you will be able to:
+
+ Define prospectus
+ Understand various types of prospectus
+ Explain the procedure for issue of prospectus and other
+
+      related concepts
+ Know about the criminal and civil liability for mis- statements
+
+      in prospectus and punishment for fraudulently inducing
+      persons to invest money
+ Understand the procedure for allotment of securities by
+      companies
+ Know the procedure of private placement of securities
+3.2          CORPORATE AND OTHER LAWS
+
+   
+
+CHAPTER OVERVIEW
+
+This chapter explains the provisions of Chapter III of the Companies Act, 2013
+(hereinafter also referred to as "the Act" or "this Act"), consisting of sections 23 to
+42 dealing with the prospectus and allotment of securities. Due to the inherent
+differences between the nature of public and private companies in addition to
+restrictions on the later, Chapter III of the Act contained the provisions for issue of
+securities under two distinct headings (parts):
+
+Part I - Public offer (Section 23-41)
+
+Part II - Private placement (Section 42).
+
+The provisions contained in Part I and part II are supplemented by the Companies
+(Prospectus and Allotment of Securities) Rules, 2014.
+
+Following diagram depicts the arrangement of relevant sections:
+
+                             Issue of Prospectus and related
+                             matters [Sec. 23, 26, 29, 31, 32,
+
+                                       25, 28, 27 & 40]
+
+Prospectus and Allotment of  Allotment of securities [Sec. 39]
+    securities [Sec. 23-42]
+                             Penalties [Sec. 34, 35, 36, 37 &
+In a Public  In a Private                     447*]
+company       company
+                                Private Placement [Sec. 42]
+
+* Section 447 contains provisions relating to `punishment for fraud'.
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.3
+
+    1. INTRODUCTION
+
+   Chapter III Consists of sections 23 to 42 as well as the Companies
+                      (Prospectus and Allotment of Securities) Rules, 2014.
+
+One of the advantages that a company has over other forms of business is its ability
+to raise capital, either from the public at large or from a set of identified persons.
+When the capital is raised from the public at large, it is done through a `Public
+Offer' and when it is raised from a selected group of identified persons it is carried
+out through a `Private Placement' of securities. Where the capital is raised from
+the public at large through `Public Offer', an advertisement shall be issued in
+accordance with applicable provisions to protect the prospective investors from
+fraud. Securities are allotted against those applications that are received in full and
+in accordance with the advertisement issued. Such securities may be listed on an
+appropriate segment of a recognised stock exchange.
+
+This chapter will explain the provisions relating to raising of capital i.e. issue of
+prospectus, allotment of securities, and other matters incidental thereto.
+
+    2. PUBLIC OFFER AND PRIVATE PLACEMENT
+          [SECTION 23]
+
+As per Section 23 (1), a public company may issue securities:
+
+a. To public through prospectus (herein referred to as "public offer") by
+       complying with the provisions specified in Section 23 to Section 41 of the Act;
+       or
+
+b. Through private placement by complying with the provisions specified in
+       section 42 of the Act; or
+
+c. Through a rights issue or a bonus issue in accordance with the provisions of
+       the Act and in case of a listed company or a company which intends to get
+       its securities listed also with the provisions of the Securities and Exchange
+       Board of India Act, 1992 and the rules and regulations made thereunder.
+3.4                CORPORATE AND OTHER LAWS
+
+Public offer includes initial public offer (IPO) or further public offer (FPO) of
+securities to the public by a company, or an offer for sale of securities (OFS) to the
+public by an existing shareholder, through issue of a prospectus.
+
+Students are advised to note; that Further Public Offer also known as Fellow-on
+Public Offer, whereas OFS is sometimes called deemed Public Offer.
+
+As per Section 23(2), a private company may issue securities:
+
+a. By way of rights issue or bonus issue in accordance with the provisions of the
+       Act; or
+
+b. Through private placement by complying with the provisions specified in
+       section 42 of the Act.
+
+Summary of modes (for issue of securities)
+
+Mode of Issue                               Public Company     Private Company
+                                                                        No
+Public Offer (including IPO, FPO or OFS)    Yes                         Yes
+                                                                        Yes
+Private Placement                           Yes                         No
+
+Rights issue / Bonus Issue                  Yes
+
+Compliance with SEBI rules &                Yes*
+
+regulations
+
+*For a listed company or a company proposed to be listed.
+
+Various modes of issue of securities available to a public company or a private
+company are depicted in the following diagram for better understanding:
+
+                                             Issue of
+                                            securities
+
+                     Public                                  Private
+                   Company                                  Company
+
+Prospectus/     Private       Right Issue   Bonus                Private
+Public Offer  Placement                     Issue              Placement
+
+IPO                                                            Right Issue
+
+FPO
+
+OFS                                                            Bonus
+
+                                                               Issue
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.5
+
+Security is a wider term, not restricted to equity, preference, or debenture.
+
+Meaning of Securities
+
+As per section 2 (81), the term `securities' means the securities as defined in clause
+(h) of section 2 of the Securities Contracts (Regulation) Act, 1956. The definition
+given thereunder provides, "Securities" include:
+
+(i) Shares, scrips, stocks, bonds, debentures, debenture stock or other
+       marketable securities of a like nature in or of any incorporated company or
+       other body corporate;
+
+(ia) Derivative;
+
+(ib) Units or any other instrument issued by any collective investment scheme to
+       the investors in such schemes;
+
+(ic) Security receipt as defined in clause (zg) of section 2 of the Securitisation and
+       Reconstruction of Financial Assets and Enforcement of Security Interest Act,
+       2002.
+
+(id) Units or any other such instrument issued to the investors under any mutual
+       fund scheme.
+
+       Explanation - For the removal of doubts, it is hereby declared that
+       "Securities" shall not include any unit linked insurance policy or scrips or any
+       such instrument or unit, by whatever name called, which provides a combined
+       benefit risk on the life of the persons and investment by such persons and
+       issued by an insurer referred to in clause (9) of section 2 of the Insurance Act,
+       1938.
+
+(ie) Any certificate or instrument (by whatever name called), issued to an investor
+       by any issuer being a special purpose distinct entity which possesses any debt
+       or receivable, including mortgage debt, assigned to such entity, and
+       acknowledging beneficial interest of such investor in such debt or receivable,
+       including mortgage debt, as the case may be;
+
+(ii) Government securities;
+
+(iia) Such other instruments as may be declared by the Central Government to be
+       securities; and
+
+(iii) Rights or interests in securities.
+
+To bring ease to doing business for corporates, sub-section 3 and 4 to section 23
+of the Act were inserted.
+
+Prior to the above amendments, Indian companies could access the overseas equity
+3.6  CORPORATE AND OTHER LAWS
+
+markets only through depository receipts (e.g. American Depository Receipts
+(ADRs) or Global Depository Receipts (GDRs) or by listing their debt securities (such
+as, foreign currency convertible bonds, masala bonds, etc.) on foreign markets.
+
+Since more and more businesses are going global & capital raised from across the
+border is cost effective, hence section 23(3) was inserted to open ways of overseas
+direct listing for notified class of public companies by allowing them to issue
+notified securities for the purpose of listing on permitted stock exchanges in
+permissible foreign jurisdictions or such other jurisdictions as may be prescribed.
+
+Note: How overseas direct listing is different from ADRs/GRDs?
+
+In a direct listing, a domestic company can enlist itself with the stock exchanges of
+other countries without an intermediary. Unlike American Depositary Receipts
+(ADRs) and Global Depositary Receipts (GDRs), the Indian company can directly
+offer their shares in foreign markets instead of giving them to a foreign depository
+bank. Direct listing excludes intermediaries, decreases the overall transaction cost,
+and increases transparency.
+
+Section 23(4) of the Act empowers the Central Government to exempt any class
+or classes of public companies from complying with the provisions of Chapter III
+(Prospectus and Allotment of Securities), Chapter IV (Share Capital and
+Debentures), section 89 (Declaration in respect of a beneficial interest in any share),
+section 90 (Register of significant beneficial owners in a company) or section 127
+(Punishment for failure to distribute dividends) of the Act, by issuing notification.
+Extract of section 23(3) and 23(4)
+"(3) Such class of public companies may issue such class of securities for the purposes
+of listing on permitted stock exchanges in permissible foreign jurisdictions or such
+other jurisdictions, as may be prescribed.
+(4) The Central Government may, by notification, exempt any class or classes of public
+companies referred to in sub-section (3) from any of the provisions of this Chapter,
+Chapter IV, section 89, section 90 or section 127 and a copy of every such notification
+shall, as soon as may be after it is issued, be laid before both Houses of Parliament."
+Illustration (MCQ)
+
+Which of following shall be considered as securities for purpose of section 23 of the
+Act;
+
+(i) Unit linked insurance policy
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.7
+
+(ii) Actionable claim regarding mortgaged debt
+(iii) Securities issued by National Asset Reconstruction Ltd.
+Options
+(a) (iii) only
+(b) Both (i) and (iii) only
+(c) Both (ii) and (iii) only
+(d) None of the (i), (ii), and (iii)
+Answer ­ (c) (Refer section 2(h) of the Securities Contracts (Regulation) Act, 1956)
+
+    3. REGULATION OF ISSUE AND TRANSFER OF
+          SECURITIES ETC. [SECTION 24]
+
+Securities and Exchange Board of India is empower to administer those provisions
+under chapter III and IV of the Act, which pertains to issue & transfer of securities
+and non-payment of dividend; by listed companies or those companies which
+intend to get their securities listed on any recognised stock exchange in India, by
+making regulations in this behalf.
+
+Additional Reading
+
+Being capital market regulator, the power is conferred upon Securities and
+Exchange Board of India under section 11, 11A, 11B and 11D of the Securities and
+Exchange Board of India Act 1992.
+
+All other matters (including matters relating to prospectus, return of allotment,
+redemption of preference shares) specifically provided in this Act, shall be administered
+by the Central Government, Tribunal or the Registrar, as the case may be.
+
+Illustration (True/False)
+
+Statement ­ The powers to administer the matters pertaining to redemption of preference
+share by listed company vested with the Securities and Exchange Board of India.
+
+Answer ­ False (Refer Section 24(1)(a)
+       3.8     CORPORATE AND OTHER LAWS
+
+    4. PROSPECTUS
+
+Meaning
+
+As per the definition given in section 2 (70) of the Act, Prospectus means any
+document described or issued as a prospectus, and includes a red herring
+prospectus referred to in section 32, or shelf prospectus referred to in section 31,
+or any notice, circular, advertisement or other document inviting offers from
+the public for the subscription or purchase of any securities of a body corporate.
+The definition of prospectus has two limbs (means part and includes part) with four
+elements in totality, these four constituents can be appreciated though diagram
+presented below:
+
+                                      Prospectus
+
+means                        includes
+
+Any document       Shelf     Red herring     Any notice, circular,
+ described or  prospectus    prospectus    advertisement or other
+  issued as a  (section 31)  (section 32)
+  prospectus                                 document inviting
+                                           offers from the public
+
+Out of four constituents of prospectus definition, first three are quite clear; but the
+fourth one i.e. document inviting offer from the public (considered as deemed
+prospectus or prospectus by implication) need to be decoded further that too in
+context to section 25 and landmark judicial pronouncements (elaborated later).
+
+Other elements are also explained/elaborated at relevant place in this chapter.
+
+DEEMED PROSPECTUS [SECTION 25] - THE DOCUMENTS CONTAINING
+OFFER OF SECURITIES FOR SALE
+
+Deemed Prospectus
+
+Sub-section 1 provides, where a company allots or agrees to allot any of its
+securities with a view that those securities (all or any part thereof) being offered
+for sale to the public, any document by which the offer is made; shall deemed to
+be a prospectus (issued by the company) for all purposes.
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.9
+
+All the enactments and rules of law containing provisions pertaining to prospectus,
+matters to be stated, liability for misstatement shall apply to such deemed
+prospectus; subject to section 25(3) and 25(4).
+
+The purpose of deeming provision is to protect gullible investors from various
+fraudulent practices.
+
+Presumption of view (intent to offer securities for sale to public) under sub-
+section 1
+
+As per sub-section 2, the allotment is presumed to have been made with a view
+of offering them to the public where either of following conditions fulfilled:
+
+a. Securities are offered to the public within six months of allotment, or
+
+b. Where the full consideration has not been received by the company at the
+       date of offer to the public.
+
+It means, in case if any of above two conditions met; then issuing document shall
+deemed to be Prospectus under sub-section 1.
+
+Sub-section 1 and 2 to section 25 are not exhaustive in nature, there may be certain
+other situations when issuing document may construe as deemed prospectus.
+SEBI v Kunnamkulam Paper Mills Ltd9
+
+Where a rights issue is made to existing members with a right to renounce in favour
+of others, if the number of such others exceeds fifty, it also becomes a deemed
+prospectus.
+
+Requirements in case of Deemed Prospectus
+
+Matters to be stated additionally
+As per Sub-section 3, following matters need to be stated (in the deemed
+prospectus i.e. the document through which offer of securities to public is made
+under sub-section 1) in addition to those required under section 26;
+a. A statement of the net amount received or to be received as consideration
+
+       for the securities to which the offer relates.
+
+b. The time and place at which the underlying contract for allotment may be
+       inspected.
+
+9 (2013)178 Comp Cas 371 (Ker)
+3.10                              CORPORATE AND OTHER LAWS
+
+c. The persons making the offer were named in the prospectus as directors
+       of the company.
+
+Signing of deemed prospectus (on behalf of company)
+
+Further, as per Sub-section 4, it is sufficient, if the document (deemed prospectus
+i.e. through which offer of securities to public is made under sub-section 1) on
+behalf of the company is signed by its two directors.
+
+Illustration (True/False)
+
+Statement ­ The matters specified under section 25(3) need to be stated in substitution
+of matters stated under section 26.
+
+Answer ­ False [Section 25(3) provides three matters that need to be stated in addition
+to matters required to be stated in prospectus under section 26.]
+
+Additional Reading ­ For better understanding only
+
+Since the provisions of the Act relating to prospectus and the penal provisions are
+attracted only when the prospectus (including deemed prospectus) has been
+issued. "Issued" means issued to the public.
+Hence In context of `Invitation to Public' `Inviting offer from the Public' or `Offer of
+securities for sale to Public' two valid questions arise here:
+
+1. What constitute as `Public'? Does only `Public at large' constitute as Public?
+The term public is not restricted to the public at large. It includes any section of the
+public, it is immaterial howsoever such section is selected.
+
+Public connotes persons not personally known to the promoter as distinguished
+from his own friends, relatives, connections and acquaintances.
+Re, South of England Natural Gas and Petroleum Co. Ltd10
+
+Facts ­ 3000 copies of a document which was offered for subscription of shares in
+a company and which was headed "For Private Circulation only," circulated to the
+members of certain number of gas companies only.
+
+Legal Question ­ Was this a prospectus? Should it contain the particulars required
+by the Act?
+
+Decision ­ It was decided that though the offer was only to limited class, it was not
+less than an offer to the public in any sense, because those persons from limited
+
+10 (1911) 1 Ch. 573 | 104 LT 378
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.11
+
+class were nonetheless the public. Hence, the distribution of a document entitled,
+"For Private Circulation only" offering the company shares was an offer to the public
+and their document was a prospectus. Therefore, it must contain the particulars
+required by the Act.
+
+2. Whether a single private communication tantamount to issue; can it be
+construe to a prospectus to attract the provisions of the Act?
+
+The term "issue" is not satisfied by a single private communication. There must
+be some measure of publicity, however modest. A private communication is not
+thus open and does not construe to be a prospectus, hence not attracting the
+provisions of the Act.
+
+Nash v. Lynde11
+
+Facts ­ Nash applied for certain shares in a company on the basis of a document
+sent to him by Lynde, the managing director of the company. The document was
+marked `strictly private and confidential'. The document did not contain all the
+material facts required by the Act to be disclosed. Nash filed a suit for
+compensation for loss suffered by him by reason of the Omissions.
+
+Decision ­ Suit was dismissed.
+
+Viscount Summer's landmark dictum in this case is worth to consider here as basis
+of above answer. "The public in the definition is of course a general word, no
+particular number are prescribed. Anything from two to infinity may serve, perhaps
+even one if he is intended to be the first of a series of subscribers but made further
+proceedings needless by himself subscribing the whole. The point is that the offer
+is such as to be opened to anyone who brings his money and applies in due from,
+whether the prospectus was addressed to him on behalf of the company or not. A
+private communication is not thus open and does not construe to be a prospectus."
+
+Illustration (Q&A)
+
+Company's prospectus was given to a solicitor of the company and he forwarded it
+to one of his clients despite it was marked strictly private, who applied for share based
+upon same. Later filed suit for damages. Will this communication amount to an issue
+to the public and whether the provisions of the Act are attracted?
+
+11 (1929) AC 158 | 140 LT 146 (HL)
+3.12                                CORPORATE AND OTHER LAWS
+
+Answer - No, this did not amount to an issue to the public and accordingly the
+provisions of the Act relating to liability for omissions, etc. not attracted here. (Refer
+Nash v. Lynde12)
+
+MATTERS TO BE STATED IN PROSPECTUS [SECTION 26] ­ CONTENTS &
+REQUIREMENTS AS TO PROSPECTUS
+
+Requirements as regards to date, sign, and contents to be included [Sub-
+section 1]
+
+Prospectus shall be dated and signed and shall state such information and set
+out such reports on financial information as may be specified by the Securities
+and Exchange Board of India (SEBI) in consultation with the Central Government.
+
+Proviso to sub-section 1 says the regulations made by SEBI in respect of such
+financial information or reports on financial information shall apply until the SEBI
+specifies the information and reports on financial information u/s 26(1).
+
+A declaration shall be made affirming the compliance of the provisions of this Act
+(the Companies Act 2013).
+
+A statement shall also include to the effect that nothing in the prospectus is
+contrary to the provisions of:
+
+a. The Companies Act, 2013
+
+b. Securities Contract (Regulation) Act, 1956
+
+c. Securities and Exchange Board of India Act, 1992
+
+d. Rules and Regulations made under above three statutes.
+
+The provisions of Section 26(1) shall not apply [Sub-section 2]
+
+a. If prospectus issued to existing members or debenture-holders of a
+       company;
+
+b. If prospectus issued relating to shares or debentures which are in all respects
+       uniform with shares or debentures previously issued and for the time being
+       dealt in or quoted on a recognised stock exchange.
+
+12 (1929) AC 158 | 140 LT 146 (HL)
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.13
+
+Date of publication of prospectus [Explanation to Sub-section 3]
+
+The date indicated in the prospectus shall be deemed to be the date of its
+publication.
+
+Filing of signed copy with Registrar [Sub-section 4]
+
+A prospectus shall not be issued unless a signed copy of such prospectus has been
+delivered to the Registrar for filing.
+
+Such copy shall be signed by every person who is named as either director or
+proposed director in such prospectus. Duly authorised attorney can sign in
+representative capacity.
+
+Example ­ Ms. Sarika, executive director of leading Fintech Company has to fly to
+Davos to attend World Economic Forum meet.
+
+While company secretary of the company intended to file a copy of prospectus with
+registrar upcoming, Ms. Sarika authorised in writing, Mr. Gautam for signing of such
+copy on her behalf.
+
+Date of filing copy of prospectus with registrar is important in context of concept
+of validity of prospectus for issue, discussed under section 26(8).
+
+Conditions in regard to Experts' statement [Sub-section 5]
+A prospectus issued under section 26(1) shall not include a statement purporting
+to be made by an expert, if any of following condition met:
+a. If he is engaged or interested in the formation or promotion or management
+
+       of the company, or
+b. If the expert has not given written consent to the issue of the prospectus, or
+c. If he has withdrawn the consent before the delivery of a copy of the
+
+       prospectus to the Registrar for filing.
+
+A statement to that effect (non-existence of conditions, if expert's statement is
+included) shall also be included in the prospectus.
+
+Purpose of sub-section 5 is to ensure independence of expert to protect the
+financial interest of prospective investor who may invest in company after relaying
+3.14  CORPORATE AND OTHER LAWS
+
+upon the statement of such expert.
+
+Expert as per section 2(38) of the Act, includes an engineer, a valuer, a Chartered
+Accountant, a Company Secretary, a Cost Accountant and any other person who
+has the power or authority to issue a certificate in pursuance of any law for the time
+being in force.
+
+Disclosure on the face of prospectus [Sub-section 6]
+
+Prospectus issued under sub-section (1) shall, on the face of it, state/specify:
+
+a. That a copy has been delivered for filing to the Registrar under sub-section
+       (4);
+
+b. Documents required by this section to be attached to the copy so delivered
+       or refer to statements included in the prospectus which specify these
+       documents.
+
+Validity of Prospectus for issue [Sub-section 8]5
+
+A prospectus is considered to be valid for issue, only if 90 days has not been lapsed
+from the date on which a copy thereof is delivered to the Registrar under section
+25(4).
+
+The date of issue is important for many reasons, one of them being the value of
+securities keeps changing.
+
+If 90 days have expired after filling of prospectus, it is better to send a fresh copy
+of prospectus to registrar under section 26(4); to avoid the penalties imposed under
+section 26(9).
+
+Penalty [Sub-section 9]
+
+If a prospectus is issued in contravention of the provisions of section 26 the
+company and every person who is knowingly a party to the issue of such
+prospectus shall be punishable with fine of  50,000 to  3,00,000.
+
+Example - The Board of Directors of a Pharmaceutical Limited has allotted shares
+to the public by issuing a prospectus that is not filed with the Registrar of
+Companies.
+
+5 Sub- section 7 has been Omitted by the Companies (Amendment) Act, 2019, w.e.f. 15-8-2019.
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.15
+
+In this regard, it is to be noted that a public company can issue securities to the
+public only by issuing a prospectus, under section 23(1)(a) of the Act.
+
+Further section 26(4) requires that no prospectus shall be issued unless, a duly
+signed copy of the prospectus forwarded to Registrar for filing.
+
+In the given case, the company has issued the prospectus in violation of the
+provisions of section 26. Hence, company as well as the person who is knowingly a
+party to this, will be punishable with penalty under section 26 (9) of the Act.
+
+Illustration (True/False)
+
+Statement ­ The copy of prospectus submitted with registrar for filling need to be duly
+signed by majority of directors.
+
+Answer ­ False
+
+Under section 26(4) of the Act, the copy of prospectus submitted with registrar for filing
+shall be signed by every person who is named as either director or proposed director in
+such prospectus. Duly authorised attorney can sign in representative capacity.
+
+VARIATION IN TERMS OF CONTRACT OR OBJECTS STATED IN PROSPECTUS
+[SECTION 27]
+
+Sub-section 1 provides, the terms of a contract referred to in the prospectus or
+objects for which the prospectus has been issued can be varied, but only with
+the authority of the company given by it in general meeting by way of special
+resolution.
+
+First proviso to sub-section 1 requires that prescribed details of the notice which has
+to be given to the shareholders are to be published in newspapers (one in English
+and one in vernacular language) circulating in the city where the registered office of
+the company is situated indicating clearly the justification for such variation.
+
+The second proviso to sub-section (1) also prescribes that such company is not to
+use any amount raised by it through the prospectus for buying, trading or
+otherwise dealing in equity shares of any other listed company.
+
+Sub-section (2) provides that the dissenting shareholders (i.e. those who did not
+agree to the variation) are to be given an exit offer by promoters or controlling
+shareholders at such exit price and in such manner and conditions as may be
+specified by SEBI by making regulations for this purpose.
+3.16  CORPORATE AND OTHER LAWS
+
+Example ­ Ind-swift pharma limited after issue of prospectus, willing to make
+variation in object of issue of prospectus (due to change in industry brought by
+covid-19 among other dynamics of pharma industry). What is your piece of advice
+to Ind-swift pharma limited?
+
+In given case, Ind-swift should authorise the changes through special resolution
+passed at general meeting and copy of notice that is given to shareholder for such
+variation shall be published in newspaper along with justification of variation.
+
+If any shareholder shows dissent then exit option shall be provided in accordance
+with guideline issued in this regards by SEBI.
+
+Once funds are raised through a given prospectus, the principle of "doctrine of
+ultra vires" (mutatis mutandis) comes into play i.e., the company has to use the
+funds strictly in accordance with the prospectus.
+
+But if in any case variation need to made, then such deviations are required to be
+pre-approved by the investors and `recall option' needs to be given to the
+dissenting investors. Deviation regarding use of proceeds of issue for buying,
+trading or otherwise dealing in equity shares of any other listed company is not
+permitted in any case.
+
+Procedural Aspects
+Rule 7 of the Companies (Prospectus and Allotment of Securities) Rules, 2014
+
+Sub-rule 1, provides for Special Resolution to be passed through Postal Ballot
+and Contents to be included in Notice.
+Further sub-rule 2, provides the advertisement of the notice (for getting the
+resolution passed) shall be in Form PAS-1 and such advertisement shall be
+published simultaneously with dispatch of Postal Ballot Notices to Shareholders.
+
+According to sub-rule 3, the notice shall also be placed on the website of the
+company, if any.
+
+Illustration (MCQ)
+In case of variation in terms of contract or objects in prospectus, which of the
+followings statement are not true:
+
+(i) Ordinary resolution shall be passed at general meeting
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.17
+
+(ii) Notice given to shareholder shall also be published in two newspapers
+
+(iii) Amount so raised can be invested only in equity share of prescribed class of
+       companies.
+
+Options
+
+(a) (i) only
+
+(b) Both (i) and (ii) only
+
+(c) Both (i) and (iii) only
+
+(d) Both (ii) and (iii) only
+
+Answer ­ (c)
+
+OFFER OF SALE OF SHARES BY CERTAIN MEMBERS OF COMPANY [SECTION
+28]
+
+Sub-section 1 provides that, member or members of a company, in consultation
+with board of directors, may offer whole or part of their holding of shares to
+the public, in accordance with the provisions of the law for the time being in force.
+Further sub-section 2 provides that the document by which the offer of sale to the
+public is made shall be treated as prospectus issued by company. Hence, all
+provisions apply accordingly.
+At last sub-section 3 highlights the members' responsibility in the matter of sale
+under sub-section 1. It provides, the members whether individual or bodies
+corporate or both, whose shares are proposed to be offered to the public, shall
+collectively to authorise the company to take all actions on their behalf for
+carrying out the transaction. They also have to reimburse the company for all
+expenses made by it on this matter.
+
+Procedural Aspects
+
+Rule 8 of the Companies (Prospectus and Allotment of Securities) Rules, 2014
+
+According to Rule 8 (1) the provisions of section 23 to 41 of this Act and rules made
+thereunder shall be applicable to an offer of sale referred to in section 28 except
+for the provisions relating to:
+
+a. minimum subscription
+
+b. minimum application value
+3.18  CORPORATE AND OTHER LAWS
+
+c. any statement to be made by the Board of directors in respect of the
+       utilization of money; and
+
+d. information which cannot be compiled or gathered by the offer or, with
+       detailed justifications for not being able to comply with such provisions.
+
+Further, Rule 8 (2) requires that the prospectus issued under section 28 shall
+disclose the name of the person or persons or entity bearing the cost of making
+the offer of sale along with reasons.
+
+Illustration (Q&A)
+
+In case of Super-Fix-it Limited, some of members of a company offer part of their holding
+of shares to the public (in consultation with board of directors), wherein company took
+all actions on their behalf for carrying out the transaction.
+
+Company incur the expense of ` 3.2 lakh for carrying out such transactions, can company
+recover the amount so incurred in full from such members?
+
+Answer ­ Yes, members who offer whole or part of their holding of shares to the
+public, in consultation with board of directors, shall authorise the company to take all
+actions on their behalf for carrying out the transaction, and bound to reimburse the
+company for all expenses made by it on this matter [Refer section 28(3)].
+
+PUBLIC OFFER OF SECURITIES TO BE IN DEMATERIALISED FORM
+[SECTION 29]
+
+Sub-section 1 has overriding effect to any other provision of this Act. It provides
+that every company making a public offer and such other class or classes of
+companies as may be prescribed, have to issue their securities only in
+dematerialised form by complying with the provisions of the Depositories Act, 1996
+and regulations made under it.
+
+Sub-section 1A (inserted in 2019), provides that in case of prescribed class/classes
+of unlisted companies, the securities shall be held or transferred only in
+dematerialised form by complying with the provisions of the Depositories Act, 1996
+and regulations made under it.
+
+Further sub-section 2 provides, any other company may;
+
+a. Convert its securities into demateriaiised form;
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.19
+
+b. Issue its securities in physical form in accordance with the provisions of this
+       Act;
+
+c. Issue its securities in dematerialised form in accordance with the provisions
+       of the Depositories Act, 1996 and the regulations made thereunder.
+
+Rule 9 (Dematerialisation of securities) and 9A (Issue of securities in dematerialised
+form by unlisted public companies; of Companies (Prospectus and Allotment of
+Securities) Rules, 2014 is relevant for procedural aspects pertaining to Public Offer
+of Securities to be in Dematerialised Form.
+
+ADVERTISEMENT OF PROSPECTUS [SECTION 30]
+
+Where an advertisement of any prospectus of a company is published in any
+manner, it shall be necessary to specify therein the contents of its memorandum as
+regards the following:
+
+a. Objects,
+
+b. Liability of members and the amount of share capital of the company,
+
+c. Names of the signatories to the memorandum,
+
+d. Number of shares subscribed for by the signatories, and
+
+e. Capital structure of the company.
+
+SHELF PROSPECTUS [SECTION 31]
+
+Meaning of Shelf Prospectus [explanation to section 31]
+
+The expression "shelf prospectus" means a prospectus in respect of which the
+securities or class of securities included therein are issued for subscription in one
+or more issues over a certain period without the issue of a further prospectus.
+
+Need of Shelf Prospectus
+
+A company is required to issue a prospectus each time it accesses the capital
+market. It leads to unnecessary repetition for a company which makes more than
+one offer of securities in a year to mobile funds from the public. A way out is shelf
+prospectus which remains valid (on the shelf) for a specified time period during
+which offers for securities may be made by a company to the public without going
+through the arduous exercise of issuing fresh prospectus every time.
+3.20  CORPORATE AND OTHER LAWS
+
+Filing of shelf prospectus with the Registrar [Sub-section 1]
+
+Shelf prospectus may be filled with the Registrar at the stage of first offer of
+securities, by class or classes of companies as the Securities and Exchange Board
+of India may provide by regulations in this behalf.
+
+It has to indicate a period not exceeding one year as the period of validity of such
+shelf prospectus.
+
+The period of validity is to commence from the date of opening of the first offer
+of securities under such prospectus.
+
+In respect of any second or subsequent offer of such securities issued during the
+period of validity of such prospectus, no further prospectus is required.
+
+Filing of `Information Memorandum' with the Shelf Prospectus [Sub-section 2]
+
+A company filing a shelf prospectus shall be required to file an information
+memorandum with the Registrar within the prescribed time, prior to the issue of a
+second or subsequent offer of securities under the shelf prospectus containing;
+
+a. All material facts relating to new charges created,
+
+b. Changes in the financial position of the company as have occurred between
+       the first offer of securities or the previous offer of securities and the
+       succeeding offer of securities, and
+
+c. Such other changes as may be prescribed,
+
+Proviso to Sub-section 2, provides a safeguard (in case of changes) to
+applicants who made payment in advance. It is provided that where a company
+or any other person has received applications for the allotment of securities along
+with advance payments of subscription before the making of any such change, the
+company or other person shall intimate the changes to such applicants and if they
+express a desire to withdraw their application, the company or other person shall
+refund all the monies received as subscription within fifteen days thereof.
+
+Procedural Aspects
+
+Rule 10 of the Companies (Prospectus and Allotment of Securities) Rules, 2014
+
+The information memorandum shall be prepared in Form PAS-2.
+
+It shall be filed with the Registrar along with the fee as provided in the Companies
+(Registration Offices and Fees) Rules, 2014 within one month prior to the issue of
+a second or subsequent offer of securities under the shelf prospectus.
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.21
+
+Information Memorandum together with Shelf Prospectus is deemed
+Prospectus [Sub-section 3]
+
+Where an information memorandum is filed, every time an offer of securities is
+made under sub-section (2), such memorandum together with the shelf prospectus
+shall be deemed to be a prospectus.
+
+Illustration (MCQ)
+
+An applicant who made application for allotment along with advance payment of
+subscription, if he expresses a desire to withdraw his application after changes
+reported in information memorandum came to his knowledge. The company;
+
+Options
+
+a. May refund the monies at discretion of Board of Directors
+
+b. Shall refund the monies after deducting the administrative charges within
+       fifteen days
+
+c. Shall refund all the monies received as subscription within fifteen days
+
+d. Shall refund the monies after deducting the administrative charges within 30
+       days
+
+Answer ­ c [Refer proviso to section 31(2). It is provided that where a company or
+any other person has received applications for the allotment of securities along
+with advance payments of subscription before the making of any such change, the
+company or other person shall intimate the changes to such applicants and if they
+express a desire to withdraw their application, the company or other person shall
+refund all the monies received as subscription within fifteen days thereof].
+
+RED HERRING PROSPECTUS [SECTION 32]
+
+Meaning of Red Herring Prospectus (explanation to section 32)
+
+The expression "red herring" means a prospectus which does not include
+complete particulars of the quantum or price of the securities.
+
+Need of Red Herring Prospectus
+
+Developments taking place in the financial markets from time to time allow
+innovative methods of raising funds so as to avail the most of favourable market
+conditions. Timing the issue and book building of issue are facilitated by the
+3.22  CORPORATE AND OTHER LAWS
+
+concept of red herring prospectus whereby the price per security and number of
+securities are left open to be decided post closure of the issue.
+
+Timing of issue the Red Herring Prospectus [Sub-section 1]
+
+A company proposing to make an offer of securities may issue a red herring
+prospectus prior to the issue of a prospectus.
+
+Filing of Red Herring Prospectus with the registrar [Sub-section 2]
+
+A company proposing to issue a red herring prospectus shall file it with the
+Registrar at least three days prior to the opening of the subscription list and the
+offer.
+
+Obligations under Red Herring Prospectus vis-à-vis Prospectus [Sub-section 3]
+
+A red herring prospectus shall carry the same obligations as are applicable to a
+prospectus and any variation between the red herring prospectus and a
+prospectus shall be highlighted as variations in the prospectus.
+
+Filing with Registrar and SEBI upon closing of Offer [Sub-section 4]
+
+Upon the closing of the offer of securities under this section, the prospectus
+stating therein the total capital raised, whether by way of debt or share capital,
+and the closing price of the securities and any other details as are not included
+in the red herring prospectus shall be filed with the Registrar and the Securities
+and Exchange Board.
+
+Book Building is actually a price discovery method. In this method, the company
+doesn't fix up a particular price for the shares, but instead gives a price range.
+
+An underwriter builds a book by accepting orders from fund managers, indicating
+the number of shares they desire and the price they are willing to pay.
+
+CONCEPT OF ABRIDGED PROSPECTUS - ISSUE OF APPLICATION FORMS FOR
+SECURITIES [SECTION 33]
+
+Meaning of Abridged Prospectus [Section 2(1)]
+
+Abridged Prospectus means a memorandum containing such salient features of a
+prospectus as may be specified by the Securities and Exchange Board by making
+regulations in this behalf.
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.23
+
+Need of Abridged Prospectus
+In fact, `Abridged Prospectus' is a summarized form of actual prospectus,
+containing the salient features of a prospectus to cut the cost involved in the
+publication of large number of prospectus which has to accompany the application
+forms for shares or debentures in case of public offer.
+Abridged Prospectus accompany the application form [Sub-section 1]
+Section 33(1) provides that every application form for shares or debentures has to
+be accompanied with the abridged prospectus.
+
+Proviso to sub-section 1 provides exceptions, when the requirement of abridged
+prospectus does not apply;
+
+a. When application form is issued in connection with a bona fide invitation to
+       a person to enter into an underwriting agreement with respect to shares or
+       debentures:
+
+b. In relation to shares or debentures which were not offered to the public; or
+
+c. Where offer is made only to existing members of the company
+
+Right to receive prospectus [Sub-section 2]
+
+Sub-section 2 provides that a prospectus (full prospectus) is to be made available
+to any person who request for it before the closing of the subscription list and the
+offer.
+
+Penalty [Sub-section 3]
+
+A company who makes any default in complying with the provisions of section 33,
+shall be liable to a penalty of fifty thousand rupees for each default.
+
+    5. MIS-STATEMENTS IN PROSPECTUS
+
+A contract of shares in a company is a contract of Uberrimae fides (Latin), which
+means `utmost good faith'. The legal doctrine of Uberrimae fides provides that all
+parties to contract must deal in good faith, making a full declaration of all material
+facts. The intending purchasers of shares are entitled to true and correct disclosures of
+all the facts in the prospectus.
+3.24  CORPORATE AND OTHER LAWS
+
+Hence, a prospectus must make all statements with scrupulous accuracy and not state
+facts which are not strictly correct. Neither any information which the law requires to
+be disclosed to the public be concealed or omitted to be stated from the prospectus
+nor should the information given be false and misleading.
+
+Mis- statements in prospectus is a serious offence which attracts the provisions of
+section 34 (criminal liability) and / or section 35 (civil liability) of the Act. In this section
+we will learn about misleading prospectus, remedies for misrepresentation in the
+prospectus.
+
+WHAT CONSTRUE AS MIS-STATEMENT AND MISLEADING PROSPECTUS
+
+A prospectus is said to be misleading, if it includes any mis- statement. In common
+parlance, mis-statement is the act of stating anything that is false (or not accurate).
+A statement become false statement, if it produces a wrong impression of actual
+facts. It could either be due to commission or omission or both.
+
+As per section 34, a statement included in a prospectus shall be deemed to be untrue:
+
+a. if the statement is misleading in the form and context in which it is included: or
+
+b. where any inclusion or omission of any matter is likely to mislead
+
+Some of landmark judicial pronouncements - only for reference and better
+understanding
+Mislead through false Statement (prima-facie of facts) - Henderson v. Lacon21
+
+It was stated in the prospectus, `the directors and their friends have subscribed a
+large portion of the capital and they now offer to the public the remaining shares.'
+Whereas, in actually each of director had subscribed only 10 shares. It was held that
+such a statement is misleading one.
+Misled by hiding truth through superficial statement - Rex v. Kylsant22
+
+In the prospectus, it is stated that the company had regularly paid dividends, in
+actual, company has been incurring substantial losses during all those years.
+Company used to write back some of the past provisions to the credit of the profit
+and loss account. It was held that the prospectus did not disclose the true picture
+of the company.
+
+21 C 16/276/H211 (1865 - Cause number: 1865 H211)
+22 Harvard Law Review Vol. 45, No. 6 (Apr., 1932), pp. 1078-1083 (available at
+
+https://doi.org/10.2307/1332145)
+PROSPECTUS AND ALLOTMENT OF SECURITIES                       3.25
+
+Misled through ambiguous statement - Smith v. Chadwick23
+
+The prospectus of a manufacturing company contain, `the present value of turnover
+is £1million sterling per annum,' the statement was true only if production capacity
+is considered but untrue if it meant the present production level (capacity in
+utilisation). It was held that, such a statement which director knew may bear
+multiple meaning out of which any can be false to their knowledge, considered to
+be furnishing of misleading statement.
+
+EFFECT OF MISLEADING PROSPECTUS ­ REMEDIES OF MISREPRESENTATION
+
+The fear of heavy liability and criminal sanctions have controlled the directors'
+tendency of "using extravagant terms and flattering description".
+
+But if the prospectus contains a misleading or false statement or omits to disclose a
+material fact which amounts to misrepresentation, the aggrieved shareholder has the
+remedies. The law allows the following remedies for misrepresentation:
+
+ Against                        Remedies for      Against the persons
+    the                     Misrepresentation in  authorised to issue
+
+Company                           Prospectus           prospectus
+
+                              Against the
+                             Company &
+
+                                 others
+
+Rescission         Damages    Civil Liability     Criminal         Damages
+                            (Compensation)        Liability        for Deceit
+
+Remedy of Rescission, Damages and Deceit are not specified under this Act, they
+are available under the Indian Contract Act 1872 read with relevant provisions of
+Specific Relief Act 1963. Whereas Criminal and Civil Liability is provided under
+section 34 and 35 respectively of this Act.
+
+Since remedies specified above are alternative courses, hence all of these remedies
+are not available simultaneously, whereas appropriate combination of these can be
+claimed.
+
+23 HL 18 Feb 1884
+3.26  CORPORATE AND OTHER LAWS
+
+To illustrate, claim for compensation under section 35 (civil liability) of this Act
+(being special statute where jurisdictional power is vested in NCLT) shall not be
+moved simultaneously with claim for Damages (under general provisions).
+
+RIGHT OF RESCISSION
+
+When to seek rescission?
+
+A person who has purchased shares from the company on the basis of the prospectus
+containing untrue and misleading statement of material facts is entitled to apply to
+the court for the rescission of the contract, under the relevant provisions of the Indian
+Contract Act 1872.
+
+Effect of rescission
+
+The agreement to take up shares is voidable at the option of the subscriber to the
+shares, it will remain valid unless he actually rescinds it.
+
+If the court accepts his application for the repudiation of the contract, company will
+remove his name from the register of members and return his money with interest and
+other incidental cost.
+
+Entitlement to compensation for any damages which he sustained through the non-
+fulfilment of the contract arises under section 75 of the Indian Contract Act 1872.
+
+Exceptions ­ When right of rescission is not available?
+
+a. Right to rescind allotment of shares will not be available to the subsequent
+       purchasers of shares from the market.
+
+b. A subscriber to the Memorandum of Association cannot also seek any relief, as
+       the company cannot be considered to be in existence at the time when he
+       appended his signatures to the Memorandum of Association. He cannot be said
+       to have been influenced by any statement in the prospectus.
+
+Illustration (Q&A)
+
+All the statements contained in a prospectus issued by a company were literally true.
+It was also stated in the prospectus that the company had paid dividends for a
+number of years but there was no disclosure regarding the fact that the dividends
+were paid out of realised capital profits and not out of trading profits. An allottee of
+shares wants to avoid the contract on the ground that the prospectus was false in
+material particulars.
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.27
+
+Answer ­ The non-disclosure of the fact that dividends were paid out of capital
+profits is a concealment of material fact as a company is normally required to
+distribute dividend only from trading or revenue profits and under exceptional
+circumstances it can pay dividend out of capital profits. Hence, a material
+misrepresentation has been made.
+
+Accordingly, in the given case the allottee can avoid the contract of allotment of shares.
+
+RIGHT OF ACTION FOR DAMAGES
+
+When to evoke?
+
+In the cases where mis- statement amounts to fraud, aggrieved investor also gets a
+right of action for damages against the company. This right is available even after the
+company has gone into liquidation.
+
+Pre-requisite to claim for damages
+
+a. Misrepresentation (fraudulent) was there in the prospectus and it is of material
+       fact
+
+b. Person is intended to act upon it
+
+c. Person suffered the damages as consequences of acting upon such fraudulent
+       misrepresentation.
+
+CIVIL LIABILITY FOR MIS-STATEMENTS IN PROSPECTUS [SECTION 35]
+
+Offence under section 35
+
+Loss or damage to subscriber of securities, as a consequence of acting on basis of
+inclusion or omission of any matter in the prospectus; which is misleading the
+subscriber/s.
+
+Who shall be held liable?
+
+a. Company; and
+
+b. Every person who is/has;
+
+       i. A director of the company at the time of the issue of the prospectus;
+
+       ii. Authorised himself to be named and is named in the prospectus as a
+               director of the company, or has agreed to become such director, either
+               immediately or after an interval of time;
+3.28  CORPORATE AND OTHER LAWS
+
+       iii. A promoter of the compa;.ny;
+
+       iv. Authorised the issue of the prospectus; and
+
+       v. An expert referred to in sub-section (5) of section 26,
+
+Liability for an offence under section 35
+
+A person found guilty under section 35, in addition to any punishment under
+section 36, a company and every other person shall also be liable to pay
+compensation to every person who has sustained loss or damage.
+
+Exception to liability for guilty/offence under section 35 [Sub-section 2]
+
+Sub-section 2, provides the instances when a person shall not be held guilty under
+section 35 of this Act, if he proves:
+
+a. He withdrew his consent to be a director of company and prospectus issued
+       without his consent and authority.
+
+b. He has given reasonable public notice to effect, that prospectus was issued
+       without his knowledge and consent.
+
+c. He made the statement on the authority of an expert whom he believed to
+       be competent and that the expert had given his consent and had not
+       withdrawn it.
+
+d. He had reasonable ground for believing the statement to be true and that
+       he did believe it to be true up to the time of allotment.
+
+e. The statement was a correct copy of some extract from an official document
+       and that he had in fact believed.
+
+Personal Liability when intend to defraud [Sub-section 3]
+
+Every person referred under sub-section 1 shall be personally responsible,
+without any limitation of liability;
+
+- For all or any of the losses or damages that may have been incurred by any
+     person who subscribed to the securities on the basis of such prospectus;
+
+Where it is proved that a prospectus has been issued with intent to defraud the
+applicants for the securities of a company or any other person or for any fraudulent
+purpose.
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.29
+
+Illustration (Q&A)
+
+A prospectus issued by a company contained certain mis-statements. On becoming
+aware of the fact regarding mis-statements in the prospectus, one of the experts
+Anilesh who had earlier given his consent, forthwith gave a reasonable public notice
+stating that the prospectus was issued without his knowledge and consent. Is it
+possible for Anilesh to escape liability for mis-statement in the prospectus?
+
+Answer ­ Section 35 (2) of the Companies Act, 2013 states that no person shall be
+liable under Sub-section (1) if he proves that the prospectus was issued without his
+knowledge or consent, and that on becoming aware of its issue, he forthwith gave
+a reasonable public notice that it was issued without his knowledge or consent.
+
+The case of Anilesh is covered under the above exception provided by Sub-section
+(2) and therefore, he will escape liability for mis-statement in the prospectus.
+
+CRIMINAL LIABILITY FOR MIS-STATEMENTS IN PROSPECTUS
+[SECTION 34]
+
+Offence under section 34?
+
+Where a prospectus is issued, circulated or distributed that includes;
+
+a. Any statement which is untrue or misleading in form or context in which it is
+       included or
+
+b. Where any inclusion or omission of any matter is likely to mislead.
+
+Who shall be held liable?
+
+Every person who authorises the issue of such prospectus
+
+Liability for an offence under section 34
+
+Such persons found guilty under section 34 shall be liable for punishment under
+section 447 of this Act.
+
+Exception to liability for guilty/offence under section 34 [Proviso to section
+34]
+
+Proviso to section 34 provides the instances when a person shall not be held guilty
+under section 34 of this Act, if he proves that:
+
+a. Such mis-statement or omission was immaterial, or
+3.30                           CORPORATE AND OTHER LAWS
+
+b. He had reasonable grounds to believe, and did up to the time of issue of the
+       prospectus believe, that the statement was true or the inclusion or omission
+       was necessary.
+
+Note
+
+a. Loss from mis-statement is not essential, to held a person guilty under section
+       34.
+
+b. Liability for offence under section 34, is strict liability, hence it is immaterial
+       where the omission is intentional or unintentional, in both case person will
+       be held guilty under section 34 and liable for punishment under section 447
+       of this Act.
+
+Summary of section 34 and 35.
+
+                               Liability for Mistatement
+
+Criminal Liability                                                         Civil Liabilty
+
+Every person who authorised for issue of prospectus   Company, director, proposed director, promoter,
+                                                     Expert, one who authorised for issue of prospectus
+
+Punishable u/s 447                                        Pay compensation to Investors
+
+            Defenses                                                        Defenses
+
+Immaterial      Reasonable                           Withdrew its consent  Believed on     Issued without his
+            ground to believe                           to be a director   consent u/s     knowledge, Public
+
+                                                                               26(5)              Notice
+
+Illustration (Q&A)
+
+An allottee of shares in a company brought action against a director in respect of
+false statements made in the prospectus. The director contended that the statements
+were prepared by the promoters and he simply relied on them. Is the director liable
+under the circumstances?
+
+Answer ­ Yes, the Director shall be held liable for the false statements made in the
+prospectus under sections 34 and 35 of the Companies Act, 2013. Whereas section
+34 imposes a criminal punishment on every person who authorises the issue of such
+prospectus, section 35 more particularly includes a director of the company in the
+imposition of liability for such mis-statements.
+
+Certain situations when a director will not incur any liability for mis-statements in
+a prospectus are covered under exceptions provided by Section 35 (2) but no such
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.31
+
+exception specifies that relying on the statements prepared by the promoters of
+the company is a valid ground for a director to escape liability for mis-statement.
+
+DAMAGES FOR DECEIT
+
+When remedy of damages for deceit is available?
+
+Persons responsible for the issue of prospectus can also be held liable in an action
+for deceit, under general law as provided by section 19 of the Indian Contract Act,
+1872.
+
+This remedy shall be available even where the remedy by way of rescission as
+against the company is lost either through latches or negligence or even if the
+company goes into liquidation.
+
+Prerequisite to claim damages for deceit is available
+
+a. There was a fraudulent mis-statement related to some existing material facts.
+
+b. He is original allottee and had seen the prospectus.
+
+c. He has been actually deceived.
+
+Peek v. Gurney
+
+Gurney issued a fraudulent prospectus on behalf of a company. No shares were
+purchased by Peek at that time. Several months afterwards, Peek purchased 2,000
+shares of the company from the stock exchange. He brought an action against the
+directors for deceit (on the basis of prospectus). Court held, the directors were not
+liable as the shares were not purchased on the basis of prospectus.
+
+     6. PUNISHMENT FOR FRAUDULENTLY
+          INDUCING PERSONS TO INVEST MONEY
+          [SECTION 36]
+
+Any person who, either knowingly or recklessly makes any statement, promise or
+forecast which is false, deceptive or misleading, or deliberately conceals any
+material facts, to induce another person to enter into, or to offer to enter into:
+
+a. any agreement for, or with a view to, acquiring, disposing of, subscribing for,
+       or underwriting securities; or
+3.32  CORPORATE AND OTHER LAWS
+
+b. any agreement, the purpose or the pretended purpose of which is to secure
+       a profit to any of the parties from the yield of securities or by reference to
+       fluctuations in the value of securities; or
+
+c. any agreement for, or with a view to obtaining credit facilities from any bank
+       or financial institution,
+
+shall be liable for action under section 447.
+
+Example ­ A huge sums of money were collected under a document described as
+"project overview" by NRIs but shares not allotted in the proposed joint venture
+company instead the money was diverted to some off-shore companies controlled
+by the accused persons. Prima-facie offence under section 36 made-out.
+
+     7. ACTION BY AFFECTED PERSONS [SECTION 37]
+
+A suit may be filed or any other action may be taken under section 34 or section
+35 or section 36 by:
+
+a. Any person,
+
+b. Group of persons or
+
+c. Any association of persons
+
+If affected by any misleading statement or the inclusion or omission of any
+matter in the prospectus.
+
+Illustration
+
+M applies for equity shares of a company on the basis of a prospectus which contains
+mis­statement. The shares are allotted to him, who afterwards transfers them to N.
+Whether N can bring an action for a rescission on the ground of mis-statement under
+section 37 of the Companies Act, 2013?
+
+Answer ­ No. N cannot bring an action for rescission of the contract for buying
+shares from M on the ground of mis-statement made in the prospectus. Section 37
+of the Companies Act, 2013 does not become applicable in such a situation.
+
+It is noteworthy that according to Section 37, a suit may be filed or any other action
+may be taken under section 34 or section 35 or section 36 only by any person,
+group of persons or any association of persons affected by any misleading
+statement or the inclusion or omission of any matter in the prospectus. Therefore,
+only M is eligible to file a suit.
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.33
+
+Section 37 has paved way for class action
+
+Class action suit is for a group of people filing a suit against a defendant who has
+caused common harm to the entire group or class. This is not like a common
+litigation method where one defendant files a case against another defendant while
+both the parties are available in court. In the case of class action suit, the class or
+the group of people filing the case need not be present in the court and can be
+represented by one petitioner. The benefit of these type of suits is that if several
+people have been injured by one defendant, each of the injured person need not
+to file a case separately but all the people can file one single case together against
+the defendant.
+
+     8. PUNISHMENT FOR PERSONATION FOR
+          ACQUISITION, ETC., OF SECURITIES
+          [SECTION 38]
+
+The purpose of the section is to prevent allotment of shares in fictitious names.
+
+Sub-section 1 provides, any person shall be liable for punishment under section
+447, if:
+
+a. He makes or abets the making of an application in a fictitious name to a company
+       for acquiring, or subscribing for, its securities; or
+
+b. He makes or abets the making of multiple applications in different names or
+       different combinations of his name or surname for acquiring or subscribing for
+       its securities; or
+
+c. otherwise induces, directly or indirectly a company to allot or register any
+       transfer of any securities to him or to any other person in a fictitious name.
+
+Sub-section 2, provides that every company which issues a prospectus is required
+to reproduce prominently the provisions of the sub- section (1) in the prospectus
+and every form of application for securities.
+
+Note:
+
+A person who gets shares allotted in a fictitious name becomes liable as a
+shareholder. Thus, where a person carried on business under an assumed name and
+took shares in that name, his trustee in bankruptcy of the said person, could not
+avoid liability.
+           3.34          CORPORATE AND OTHER LAWS
+
+Sub-section 3 provides, where a person has been convicted under the section, the
+court may order disgorgement of any gain made by such person. The order may
+also include seizure and disposal of securities which may be found in his possession.
+
+The amount received through disgorgement or disposal of securities under sub-
+section (3), is to be credited to the Investor Education and Protection Fund. [Sub
+section (4)]
+
+9. PUNISHMENT FOR FRAUD [SECTION 447]
+
+  Amount and                      Fine                   Imprisonment
+nature of fraud       Minimum Maximum               Minimum Maximum
+
+Fraud involving less
+
+than 10 lakh rupees
+
+or 1% of turnover,    -         Up to ` 50  or/and  -         Up to 5
+whichever is lower                  lakh                       years
+
+(public interest not
+
+involved)
+
+Fraud involving at
+
+least 10 lakh rupees  Equal to  3 times of  and     6 Months  10 Years
+or 1% of turnover,    amount    amount of
+whichever is lower    of fraud
+(public interest not               fraud
+
+involved)
+
+Fraud in question Equal to 3 times of
+
+involves   public amount amount of and              3 Years   10 Years
+
+interest              of fraud  fraud
+
+Section 447 provides three explanations, read as:
+
+(i) "fraud" in relation to affairs of a company or any body corporate, includes
+       any act, omission, concealment of any fact or abuse of position committed by
+       any person or any other person with the connivance in any manner, with
+       intent to deceive, to gain undue advantage from, or to injure the interests of,
+       the company or its shareholders or its creditors or any other person, whether
+       or not there is any wrongful gain or wrongful loss.
+PROSPECTUS AND ALLOTMENT OF SECURITIES          3.35
+
+(ii) "wrongful gain" means the gain by unlawful means of property to which
+       the person gaining is not legally entitled.
+
+(iii) "wrongful loss" means the loss by unlawful means of property to which the
+       person losing is legally entitled.
+
+                  Fraud, in relation to affairs of a company or body coprate
+
+  Includes     Committed by     With intent to   Whether or
+                                                 not there is
+   Any act,       Any person        Deceive,
+                                                      any
+  Omission,            or         Gain undue
+                                  advantage,    Wrongful gain
+Concealment       Any other
+of the facts,  person with the          or              or
+                connivance in
+   and/or                          Injure the   Wrongful loss;
+                 any manner;        interests;
+  Abuse of
+  position;
+
+                                                          of the company or
+                                                          its shareholders or
+
+                                                            its creditors or
+                                                          any other person,
+
+Illustration
+
+Mr. Raju one of prospective investor under section 37 of this Act, sue the persons who
+authorise the issue of prospectus for the fraudulent misstatements they made in the
+prospectus. Mr. Raju also filed a complaint under section 420 of the IPC, 1860 and
+section 447 of this Act.
+
+Mr. Angad one of the authorised persons, plead that Mr. Raju did not took any share,
+hence he has not borne any sort of loss, therefore he cannot seek the remedies, for
+what he is asking for and they are not punishable under section 447, because fraud
+is not committed against Mr. Raju. Whether the persons who authorised the issue of
+prospectus punishable under section 447?
+3.36  CORPORATE AND OTHER LAWS
+
+Answer
+
+In this case, the persons who authorised the issue of prospectus shall be punishable
+under section 447 for the fraudulent misstatement, despite the fact that Mr. Raju
+had not borne any loss. Because wrongful gain or loss is not essential constituent
+of fraud under section 447.
+
+     10. ALLOTMENT OF SECURITIES BY COMPANY
+          [SECTION 39]
+
+MEANING OF ALLOTMENT
+
+Offers for shares are made on application forms supplied by the company. When
+an application is accepted, it is an allotment
+
+Hence, in general sense 'allotment' is neither more nor less than the acceptance by
+the company of the offer to take shares.
+
+In technical context, it is an appropriation out of the previously unappropriated
+capital of a company.
+
+Note
+
+Where forfeited shares are re-issued, it is not the same thing as an allotment.
+
+A valid allotment has to comply with the requirements of the Act and principles of
+the law of contract relating to acceptance of offers.
+
+Section 39 of the Act and the Companies (Prospectus and Allotment of Securities)
+Rules, 2014 contains provisions in respect of allotment of securities when there is a
+public offer.
+
+MINIMUM SUBSCRIPTION IS A MUST [SUB-SECTION 1]
+
+The first requisite of a valid allotment is that of minimum subscription.
+
+Hence, when shares are offered to the public, the amount of minimum subscription
+has to be stated in the prospectus.
+
+No shares can be allotted unless:
+
+a. At least so much amount (which is stated as minimum subscription) has been
+       subscribed and
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.37
+
+b. The sums payable on application for the amount so stated have been paid to
+       and received by the company by cheque or other instrument from the
+       subscribers or investors at the time of making application.
+
+Note:
+
+As per the regulation 45(1) of the Securities and Exchange Board of India (Issue of
+Capital and Disclosure Requirements) Regulations, 201828, the minimum
+subscription is 90% of the entire issue.
+
+Any means by which money can be remitted may be used, but remittances must be
+cleared and actual cash received by the company before proceeding to allotment.
+An application for shares, if not accompanied by any such payment, does not
+constitute a valid offer.
+
+QUANTUM OF AMOUNT PAYABLE ON APPLICATION [SUB-SECTION 2]
+
+The amount payable on application shall not be less than:
+
+a. 5% of the nominal amount of the security or
+
+b. Such other percentage or amount, as may be specified by the Securities and
+       Exchange Board by making regulations in this behalf.
+
+Here, it is important to note that as per the regulation 47(4) of the 29Securities and
+Exchange Board of India (Issue of Capital and Disclosure Requirements)
+Regulations, 2018, the minimum sum payable on application per specified security
+shall be at least twenty five percent of the issue price.
+
+Further, proviso to regulation 47(4) provides that in case of an offer for sale,
+the full issue price for each specified security shall be payable at the time of
+application.
+
+Example - If listed company offer the shares with nominal value of ` 10 then
+application money shall be at least ` 2.5 and if nominal value is ` 100 then shall be
+at least ` 25.
+
+28 SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 are not a part of
+syllabus at Intermediate Level. However, it is necessary to build the understanding of the
+students.
+29 SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 are not a part of
+syllabus at Intermediate Level. However, it is necessary to build the understanding of the
+students.
+3.38  CORPORATE AND OTHER LAWS
+
+CONSEQUENCES IF MINIMUM AMOUNT IS NOT SUBSCRIBED [SUB-SECTION
+3]­ RETURN OF APPLICATION MONEY
+
+If the stated minimum amount has not been subscribed and the sum payable on
+application is not received within a period of 30 days (or any other period as
+prescribed by SEBI) from the date of issue of the prospectus, the amount received
+from applicants shall be returned.
+
+Time period for return of application money
+
+As per rule 11(1) of the Companies (Prospectus and Allotment of Securities) Rules,
+2014, such refund shall be made within a period of 15 days from the closure of
+such issue.
+
+Default in return of application money
+
+As per rule 11(1) of the Companies (Prospectus and Allotment of Securities) Rules,
+2014, in case of default in refund within that period, directors and other officers
+responsible for default shall be jointly and severally liable to repay that money
+with interest at the rate of 15% pa.
+
+Source for return of application money
+
+According to Rule 11 (2), the application money to be refunded shall be credited
+only to the bank account from which the subscription was remitted.
+
+Section 40(3) and Rule 11(2) of the Companies (Prospectus and Allotment of
+Securities) Rules, 2014 are confirming provisions regarding return of application
+money, in case where allotment is not done.
+
+RETURN OF ALLOTMENT [SUB-SECTION 4]
+
+Whenever a company having a share capital makes any allotment of securities, it
+shall file with the Registrar a return of allotment in manner as prescribed in the
+Companies (Prospectus and Allotment of Securities) Rules, 2014.
+
+Time Limit for filing Return of Allotment
+
+According to Rule 12 (1) of the Companies (Prospectus and Allotment of Securities)
+Rules, 2014, the company shall file a return of allotment with Registrar in Form PAS-
+3 within 30 days along with the fee as specified in the Companies (Registration
+Offices and Fees) Rules, 2014.
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.39
+
+Attachments to Form PAS-3
+
+According to Rule 12 (2) of the Companies (Prospectus and Allotment of Securities)
+Rules, 2014, lists of following particulars (duly certified by the signatory of the Form
+PAS-3 for completeness and correctness) shall accompany:
+
+a. A list of allottees stating their names, address, occupation, if any, and
+
+b. Number of securities allotted to each of the allottees.
+
+Additional attachments to Form PAS-3 ­ In case share issued for consideration
+other than cash.
+
+Rule 12 (3) of the Companies (Prospectus and Allotment of Securities) Rules, 2014,
+provides, in the case of securities (not being bonus shares) allotted as fully or partly
+paid up for consideration other than cash, then following documents shall also
+be attached;
+
+a. A copy of the contract, duly stamped, pursuant to which the securities have
+       been allotted
+
+b. Any contract of sale if relating to a property or an asset, or a contract for
+       services or other consideration.
+
+Further Rule 12 (4) states that where a contract referred above is not reduced to
+writing, the company shall furnish complete particulars of the contract stamped
+with the same stamp duty as would have been payable if the contract had been
+reduced to writing and same shall deemed to be an instrument within the meaning
+of the Indian Stamp Act, 1899.
+
+Rule 12 (5), requires a report of a registered valuer in respect of valuation of the
+consideration if either of rule 12(3) or 12(4) applicable.
+
+Attachments to Form PAS-3 ­ In case share issued in pursuance of Section
+62(1)(c)
+
+Rule 12 (7) of the Companies (Prospectus and Allotment of Securities) Rules, 2014,
+states that in case the shares have been issued in pursuance of clause (c) of sub-
+section (1) of section 62 by a company other than a listed company whose equity
+shares or convertible preference shares are listed on any recognised stock
+exchange, there shall be attached to Form PAS-3, the valuation report of the
+registered valuer.
+3.40  CORPORATE AND OTHER LAWS
+
+PUNISHMENT FOR DEFAULT [SUB-SECTION 5]
+
+In case of any default under sub-section (3) or sub-section (4), the company and its
+officer who is in default shall be liable to a penalty, for each default, of one
+thousand rupees for each day during which such default continues or one lakh
+rupees, whichever is less.
+
+Illustration
+
+After having received 80% of the minimum subscription as stated in the prospectus,
+Raksha Detective Instruments Limited, before finalisation of the allotment, withdrew
+50% of the said amount from the bank for the purchase of certain assets. Thereafter,
+it started allotting the shares to the subscribers. Rashmi, one of the subscribers, was
+allotted 1000 equity shares. She, however, refused to accept the allotment on the
+ground that such allotment was violative of the provisions of the Companies Act,
+2013.
+
+Answer
+
+According to the above example, Raksha Detective Instruments Limited has
+received only 80% of the minimum subscription as stated in the prospectus. Since
+minimum amount has not been received in full, the allotment is in contravention of
+section 39 (1) of the Companies Act, 2013 which prohibits a company from making
+any allotment of securities until it has received the amount of minimum
+subscription stated in the prospectus. Further, under section 39 (3), such company
+is required to refund the application money received (i.e. 80% of the minimum
+subscription) to the applicants.
+
+Therefore, in the present case, Rashmi is within her rights to refuse the allotment
+of shares which has been illegally made by the company.
+
+    11. SECURITIES TO BE DEALT WITH IN STOCK
+          EXCHANGES [SECTION 40]
+
+FILING OF AN APPLICATION WITH RECOGNISED STOCK EXCHANGE
+[SUB-SECTION 1]
+
+Before making public offer, every company shall make an application to one or
+more recognised stock exchange or exchanges and obtain permission for the
+securities to be dealt with in such stock exchange or exchanges.
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.41
+
+PROSPECTUS TO STATE NAME OF STOCK EXCHANGE [SUB-SECTION 2]
+
+Name or names of the stock exchange in which the securities shall be dealt with,
+must be stated in the prospectus.
+
+MAINTAINING OF SEPARATE BANK ACCOUNT [SUB-SECTION 3]
+
+All monies received on application from the public for subscription to the securities
+shall be kept in a separate bank account in a scheduled bank and shall not be
+utilised for any purpose other than:
+
+a. For adjustment against allotment of securities where the securities have
+       been permitted to be dealt with in the stock exchange or stock exchanges
+       specified in the prospectus; or
+
+b. For the repayment of monies within the time specified by the Securities
+       and Exchange Board, received from applicants in pursuance of the
+       prospectus, where the company is for any other reason unable to allot
+       securities.
+
+Note: Section 40(3) and Rule 11(2) of the Companies (Prospectus and Allotment of
+Securities) Rules, 2014 are confirming provisions regarding return of application
+money; in case where allotment is not done.
+
+Rule 11(2) of the Companies (Prospectus and Allotment of Securities) Rules, 2014
+is already discussed before in the chapter.
+
+CONDITION PURPORTING TO WAIVE COMPLIANCE SHALL BE VOID
+[SUB-SECTION 4]
+
+Any condition purporting to require or bind any applicant for securities to waive
+compliance with any of the requirements of this section shall be void.
+
+DEFAULT IN COMPLYING WITH PROVISIONS [SUB-SECTION 5]
+
+If a default is made in complying with the provisions of this section, the company
+shall be punishable with a fine which shall not be less than five lakh rupees but
+which may extend to fifty lakh rupees and every officer of the company who is in
+default shall be punishable with fine which shall not be less than fifty thousand
+rupees but which may extend to three lakh rupees.
+3.42                          CORPORATE AND OTHER LAWS
+
+Penalty provisions provided under sub-section 5 can be summarized as:
+
+     Defaulter                Minimum Fine  Maximum Fine
+     Company                      5,00,000      50,00,000
+Defaulting Officer                  50,000       3,00,000
+
+PAYMENT OF COMMISSION [SUB-SECTION 6]
+
+A company may pay commission to any person in connection with the subscription
+to its securities subject to rule 13 of the Companies (Prospectus and Allotment of
+Securities) Rules, 2014.
+
+Note- No commission shall be paid to any underwriter on securities, which are not
+offered to the public for subscription.
+
+Authorisation and Source
+
+The payment of such commission shall be authorized in the company's Articles of
+Association. The commission may be paid out of:
+
+a. proceeds of the issue, or
+
+b. the profit of the company, or
+
+c. both
+Rate of commission
+
+  Security                                          Rate
+   Shares
+                                         Should not exceed;
+Debentures              5% of the price at which the shares are issued
+
+                                                     Or
+                         Any less rate/amount authorised by articles
+
+                                         Should not exceed;
+                    2.5% of the price at which the debentures are issued
+
+                                                     Or
+                         Any less rate/amount authorised by articles
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.43
+
+Hence students are advised to note;
+
+Maximum rate of commission can be 5% and 2.5% in case of shares and debentures
+respectively subject to rate authorised by article.
+
+Example ­ Ind-swift Pharma Labs Limited issued the shares to raise capital. Article
+of Ind-swift authorised payment of commission at rate of 2%. Since rate of
+commission should not exceed 5% of the price at which the shares are issued or
+
+any less rate/amount authorised by articles Hence, cap for payment of commission
+under section 40(6) of the Act is 2%.
+
+Disclosure of the particulars in prospectus regarding underwriting
+
+The prospectus of the company shall disclose the following particulars:
+
+a. the name of the underwriters;
+
+b. the rate and amount of the commission payable to the underwriter; and
+
+c. the number of securities which is to be underwritten or subscribed by the
+       underwriter absolutely or conditionally.
+
+Copy of payment of commission to be delivered to Registrar
+
+A copy of the contract for the payment of commission is delivered to the Registrar
+at the time of delivery of the prospectus for filling.
+
+Illustration Q&A
+
+The Board of Directors of a company decide to pay 5% of the issue price of shares as
+underwriting commission to the underwriters. However, the Articles of Association of
+the company permit only 3% commission. The Board of Directors further decide to
+pay the commission out of the proceeds of the share capital. Are the decisions taken
+by the Board of Directors valid under the Companies Act, 2013?
+
+Answer ­ Under Rule 13 of the Companies (Prospectus and Allotment of Securities)
+Rules, 2014 the rate of commission paid or agreed to be paid shall not exceed, in
+case of shares, five percent (5%) of the price at which the shares are issued or a rate
+authorised by the articles, whichever is less.
+
+The same rule allows the commission to be paid out of proceeds of the issue or the
+profit of the company or both.
+3.44  CORPORATE AND OTHER LAWS
+
+Therefore, the decision of the Board of Directors to pay 5% commission to the
+underwriters is invalid since the same cannot exceed the rate which is permitted by
+the Articles. However, the decision to pay commission out of the proceeds of the
+share issue is valid provided it is paid at the rate authorised by the Articles.
+
+    12. GLOBAL DEPOSITORY RECEIPT [SECTION 41]
+
+A global depository receipt is a general name for a depository receipt where a
+certificate issued by a depository bank, which purchases shares of foreign
+companies, creates a security on a local exchange backed by those shares.
+
+GDR as per section 2(44) of this Act means any instrument in the form of a
+depository receipt, by whatever name called , created by a foreign depository
+outside India & authorized by a company making an issue of such depository
+receipts.
+
+Section 41 provides, company may issue depository receipts in any foreign
+country after passing a special resolution in its general meeting and subject to
+such conditions as may be prescribed in the Companies (Issue of Global
+Depository Receipts) Rules, 2014.
+
+HOW GDR OPERATES?
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.45
+
+MANNER AND FORM OF DEPOSITORY RECEIPTS
+
+The depository receipts can be issued by way of public offering or private
+placement or in any other manner prevalent in the concerned jurisdiction and may
+be listed or traded on the listing or trading platform in the concerned jurisdiction.
+
+The depository receipts may be issued against issue of new shares or may be
+sponsored against shares held by shareholders of the company in accordance with
+such conditions as the Central Government or Reserve Bank of India may prescribe
+or specify from time to time.
+
+The underlying shares shall be allotted in the name of the overseas depository bank
+and against such shares, the depository receipts shall be issued by the overseas
+depository bank.
+
+VOTING RIGHT
+
+A holder of depository receipts may become a member of the company and shall
+be entitled to vote as such only on conversion of the depository receipts into
+underlying shares after following the procedure provided in the Scheme and the
+provisions of this Act.
+
+Until the conversion of depository receipts, the overseas depository shall be
+entitled to vote on behalf of the holders of depository receipts in accordance with
+the provisions of the agreement entered into between the depository, holders of
+depository receipts and the company in this regard.
+
+    13. PRIVATE PLACEMENT [SECTION 42]
+
+Provisions relating to the `private placement' are contained in Part II of Chapter III
+of the Act, which consist of only one section i.e. section 42 ­ Issue of shares on
+private placement basis.
+
+A company may make private placement of securities subject to provisions of
+section 42 of this Act in supplement with those stated under rule 14 of the
+Companies (Prospectus and Allotment of securities) Rules, 2014.
+
+MEANING OF PRIVATE PLACEMENT [EXPLANATION I TO SECTION 42(3)]
+
+Private placement means any offer or invitation to subscribe or issue of securities
+to a select group of persons by a company (other than by way of public offer)
+through private placement offer-cum-application, which satisfies the conditions
+specified in section 42.
+3.46  CORPORATE AND OTHER LAWS
+
+OFFER TO BE MADE ONLY TO A SELECT GROUP OF PERSONS [SUB-SECTION 2]
+
+A private placement shall be made only to a select group of not more than two
+hundred (200) persons in a financial year, who have been identified by the Board,
+after passing as special resolution in this regard.
+
+Note:
+
+1. These select group of persons is referred to as "identified persons"
+
+2. While computing threshold limit of 200, following shall be excluded;
+
+       a. qualified institutional buyers and,
+
+       b. employees of the company being offered securities under a scheme of
+               employees stock option under section 62(1)(b)
+
+3. As per Explanation II to sub-section 3, the term "qualified institutional
+       buyer" means the qualified institutional buyer as defined in the Securities
+       and Exchange Board of India (Issue of Capital and Disclosure Requirements)
+       Regulations, 2009.
+
+4. Section 42(2) originally contains `fifty (50) or such higher number as may
+       be prescribed'. Since Rule 14 (2) of the Companies (Prospectus and
+       Allotment of Securities) Rules, 2014 (as amended through Companies
+       (Prospectus and Allotment of Securities) Second Amendment Rules, 2018)
+       prescribed `an offer or invitation to subscribe securities under private
+       placement shall not be made to persons more than two hundred (200) in
+       the aggregate in a financial year', hence limit of identified persons under
+       section 42(2) shall be read as two hundred (200).
+
+5. The aforesaid restrictions would be reckoned individually for each kind of
+       security that is equity share, preference share or debenture.
+
+6. Non-banking financial companies (NBFCs) which are registered with the Reserve
+       Bank of India; and housing finance companies (HFCs) which are registered with
+       the National Housing Bank; if they are complying with any regulations made by
+       the Reserve Bank of India or the National Housing Bank in respect of offer or
+       invitation to be issued on private placement basis, then need not to comply with
+       rule 14(2) stated above.
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.47
+
+PRIVATE PLACEMENT SHALL BE DEEMED TO BE AN OFFER TO THE PUBLIC
+[EXPLANATION III TO SECTION 42(3) READ WITH SUB-SECTION 11 TO
+SECTION 42)]
+
+As per explanation III to section 42(3), if a company, listed or unlisted, makes an
+offer to allot or invites subscription, or allots, or enters into an agreement to allot,
+securities to more than 200 identified persons, whether the payment for the
+securities has been received or not or whether the company intends to list its
+securities or not on any recognised stock exchange in or outside India, the same
+shall be deemed to be an offer to the public and provisions contained in section 23
+to 41 shall apply.
+
+Further section 42(11) provides, in such case all the provisions of this Act and the
+Securities Contracts (Regulation) Act, 1956 and the Securities and Exchange Board
+of India Act, 1992 shall be applicable.
+
+Though penalty under sub-section 9 and 10 to section 42 of this Act, still can be
+imposed.
+
+MANNER OF ISSUING PRIVATE PLACEMENT OFFER AND APPLICATION [SUB-
+SECTION 3]
+
+A company making private placement shall issue private placement offer and
+application to identified persons (whose names and addresses are recorded by
+the company) in the form and manner prescribed below.
+
+Note: Private placement offer and application shall not carry any right of
+renunciation.
+
+Resolution for the Private Placement Offers
+
+Rule 14 (1) of the Companies (Prospectus and Allotment of Securities) Rules, 2014,
+requires prior approval of the shareholders of the company, by a special resolution
+for each of the private placement offers or invitations. The explanatory
+statement annexed to the notice for shareholders' approval, must disclose the
+following:
+
+a. Particulars of the offer including date of passing of Board resolution;
+
+b. Kinds of securities offered and the price at which security is being offered;
+
+c. Basis or justification for the price (including premium, if any) at which the
+       offer or invitation is being made;
+3.48  CORPORATE AND OTHER LAWS
+
+d. Name and address of valuer who performed valuation;
+
+e. Amount which the company intends to raise by way of such securities;
+
+f. Material terms of raising such securities, proposed time schedule, purposes
+       or objects of offer, contribution being made by the promoters or directors
+       either as part of the offer or separately in furtherance of objects; principle
+       terms of assets charged as securities.
+
+Students are advised to take note of certain exceptions above rule
+
+Board resolution under section 179(3)(c)30 shall be adequate in case of offer or
+invitation for non-convertible debentures, where the proposed amount to be
+raised does not exceed the limit as specified in section 180(1)(c). But if amount
+is above the said limit, it shall be sufficient if the company passes a previous special
+resolution only once in a year for all the offers or invitations for such debentures
+during the year.
+
+Even for issue of securities to QIBs, it shall be sufficient to pass a previous special
+resolution only once in a year for all the offers or invitations for all the allotments
+to such buyers during the year.
+
+Filing of Resolution with Registrar
+
+Copy of resolutions passed above shall be moved to registrar prior to issue of
+private placement offer cum application letter.
+
+Note: Vide Companies (Prospectus and Allotment of Securities) Amendment Rules,
+2022 the principal rules of 2014 further amended to insert a proviso to Rule 14(1)
+which deals with Private Placement.
+
+The proviso states that when a company makes an offer or invitation to subscribe
+to securities, no offer or invitation of any securities shall be made to a body
+corporate incorporated in, or a national of, a country which shares a land border
+with India, unless such body corporate or the national, as the case may be, have
+obtained Government approval under the FEMA31 Rules, 2019 and attached the
+same with the private placement offer cum application letter.
+
+30 Section 179(3) and section 180 of the Companies Act, 2013, does not form part of syllabus
+
+at Intermediate level.
+31 FEM (Non-debt Instruments) Rules, 2019
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.49
+
+This means that companies will now have to obtain government approval under
+the FEMA Rules before inviting subscription to securities or offering securities to
+any entity from a country that shares a land border with India i.e. China, Bhutan,
+Nepal, Pakistan, Bangladesh, and Myanmar.
+
+Applicable Application Form
+Rule 14 (4) of the Companies (Prospectus and Allotment of Securities) Rules, 2014,
+provides a private placement offer cum application letter shall be;
+a. Issued in form PAS-4
+b. Serially numbered
+
+c. Addressed specifically to the person to whom the offer is made
+d. Sent either in writing or in electronic mode
+e. Sent within thirty days of recording the name of such person pursuant to
+
+       section 42 (3).
+
+Note:
+1. No person other than the person so addressed in offer-cum-application
+
+       letter, allowed to apply through such application form.
+
+2. Any application not conforming to this condition shall be treated as invalid.
+
+Maintaining Complete Records
+Rule 14(4) of the Companies (Prospectus and Allotment of Securities) Rules, 2014,
+requires the company to maintain a complete record of private placement offers in
+Form PAS-5.
+
+MANNER OF SUBSCRIBING TO THE PRIVATE PLACEMENT ISSUE
+[SUB-SECTION 4]
+
+Person who is identified and provided with private placement application cum
+letter, if willing to subscribe securities in the private placement, then may apply in
+through same letter along with subscription money.
+
+Note:
+1. Subscription money shall be paid either by cheque or demand draft or other
+
+       banking channel, but not by cash.
+3.50  CORPORATE AND OTHER LAWS
+
+2. Rule 14(5) of the Companies (Prospectus and Allotment of Securities) Rules,
+       2014, Payment shall be made from the bank account of the person
+       subscribing to such securities and the company shall keep the record of the
+       bank account from where such payment for subscription has been received.
+
+3. First proviso to rule 14(5) stated above, provides that; in case of joint holders,
+       monies payable on subscription to securities shall be paid from the bank
+       account of the person whose name appears first in the application.
+
+4. Company shall not utilise monies raised through private placement unless
+       allotment is made and the return of allotment is filed with the Registrar in
+       accordance with sub-section (8) of Section 42.
+
+Illustration Q&A
+
+Ruhi and her brother Sohit were offered jointly 1000 equity shares of ` 100 each by
+Soumya Software Private Limited under the issue of shares on private placement
+basis. Offer-cum-application letter addressed to both containing their names as "Ms.
+Ruhi, Mr. Sohit". From whose account the company is required to take subscription
+money for 1000 equity shares?
+
+Answer ­ According to the first Proviso of Rule 14(5) of the Companies (Prospectus
+and Allotment of Securities) Rules, 2014, monies payable on subscription to
+securities to be held by joint holders shall be paid from the bank account of the
+person whose name appears first in the application. Since Ruhi's name appears first
+in the application, therefore the subscription of ` 1,00,000 shall be payable by her
+from her account. It is obligatory for the company to ensure that the money is paid
+from her bank account and not from the bank account of her brother Sohit.
+
+LIMIT ON FRESH OFFER [SUB-SECTION 5]
+
+No fresh offer or invitation under this section shall be made unless the allotments
+with respect to any offer or invitation made earlier have been completed or that
+offer or invitation has been withdrawn or abandoned by the company.
+
+Proviso to sub-section 5 read as, subject to the maximum number of identified
+persons (i.e. 200), a company may, at any time, make more than one issue of
+securities to such class of identified persons as may be prescribed.
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.51
+
+TIME LIMIT FOR ALLOTMENT OF SECURITIES [SUB-SECTION 6]
+
+A company making an offer or invitation under this section shall allot its securities
+within sixty days from the date of receipt of the application money.
+
+1. If company fails to make allotment within 60 days, then repayment of the
+       application money to the subscribers shall be made within fifteen days from
+       the expiry of sixty days
+
+2. If the company further fails to repay the application money within the 60 days,
+       then it shall be liable to repay that money with interest at the rate of twelve
+       percent per annum from the expiry of the sixtieth day.
+
+It is provided that the monies received on application under this section shall be
+kept in a separate bank account in a scheduled bank and shall not be utilised for
+any purpose other than:
+
+a. For adjustment against allotment of securities; or
+
+b. For the repayment of monies where the company is unable to allot securities.
+
+PROHIBITION ON PUBLIC ADVERTISEMENT [SUB-SECTION 7]
+
+No company shall release any public advertisements or utilise any media, marketing
+or distribution channels or agents to inform the public at large about issue under
+section 42.
+
+FILING OF RETURN OF ALLOTMENT [SUB-SECTION 8]
+
+Section 42(8) read with Rule 14 (6) of the Companies (Prospectus and Allotment of
+Securities) Rules, 2014 provides, a return of allotment in form PAS-3 (along-with the
+fee as provided in the Companies (Registration Offices and Fees) Rules, 2014) shall
+be filed with the Registrar within fifteen days from the date of the allotment under
+section 42, with a complete list of all the allottees containing;
+
+a. the full name, address, Permanent Account Number and E-mail ID of such
+       security holder;
+
+b. the class of security held;
+
+c. the date of allotment of security;
+
+d. the number of securities held, nominal value and amount paid on such
+       securities, and particulars of consideration received if the securities were
+       issued for consideration other than cash.
+3.52                      CORPORATE AND OTHER LAWS
+
+DEFAULT IN FILING THE RETURN OF ALLOTMENT [SUB-SECTION 9]
+
+For defaults in filing the return of allotment, the company, its promoters and
+directors shall be liable to a penalty for each default of one thousand rupees for
+each day during which such default continues but not exceeding twenty-five lakh
+rupees.
+
+Example ­ An allotment of security under private placement (section 42) was
+completed on 9th November 2023. Return of allotment in Form PAS-3 filed on 28th
+November 2023. Therefore, a penalty of ` 4000 shall be imposed on company, its
+promoter and directors.
+
+PUNISHMENT FOR CONTRAVENING THE PRIVATE PLACEMENT
+PROVISIONS [SUB-SECTION 10]
+
+For making offer or accepting money in contravention to section 42, liability will
+be:
+
+     Liable    Nature of                         Description
+Promoters and   penalty
+                   Fine   Amount raised through the private placement
+   Directors                                            or
+                 Refund
+   Company                                   two crore rupees,
+                                            whichever is lower
+                          All monies along-with interest (as specified in
+                          sub-section 6) to subscribers within a period
+                          of thirty days of the order
+
+SUMMARY
+
+ Securities can be offered to public at large (public offer) or through private
+       placement. However, a private company is prohibited from resorting to public
+       offer.
+
+ SEBI has power to deal with matters relating to listed or proposed to be listed
+       securities. Central Government (through MCA represented by Regional
+       Directors and ROCs) has power to deal with matters relating to unlisted
+       securities.
+
+ Prospectus, deemed prospectus, abridged prospectus, red-herring
+       prospectus, shelf prospectus, information memorandum need to comply with
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.53
+
+       the minimum information requirements as prescribed in the Companies Act,
+       2013 and the applicable Rules.
+
+ Existing holders of securities could offload their stake through required
+       compliances for an offer for sale of securities to the public (OFS route).
+
+ Fraudulent omission or commission in the prospectus attracts civil as well as
+       criminal liability.
+
+ Issue of securities (shares, debentures or hybrid securities) through public
+       offer is to be made only in demat form by the companies which are not
+       exempted.
+
+ Provision related to timelines, pre-requisites for allotment and listing
+       wherever applicable needs to strictly adhered to avoid any penal provision.
+
+ Private placements have somewhat diluted disclosure requirements as public
+       exposure is not there.
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions
+
+1. Modern Furniture Limited, issued a document containing offer of securities for sale
+       that is considered as deemed prospectus under section 25, which requires such
+       document must contains certain matters/disclosures in addition to those required
+       under section 26. Which of following are correct requirements;
+
+       i. A statement of the net amount received or to be received as consideration
+               for the securities to which the offer relates
+
+       ii. The persons making the offer were named in the prospectus as promoters of
+               the company.
+
+       iii. The time and place at which the underlying contract for allotment may be
+               inspected.
+
+       (a) i or ii only
+
+       (b) i or iii only
+
+       (c) ii or iii only
+
+       (d) All of i, ii and iii
+3.54  CORPORATE AND OTHER LAWS
+
+2. Section 40 of the Companies Act, 2013 requires every company shall make an
+       application to one or more recognised stock exchange or exchanges before making
+       public offer. Madhav Casting Limited filed an application to three exchanges for
+       the securities to be dealt with in such stock exchanges, it received permission from
+       couple of them and proceed with public issue. There will be:
+
+       (a) No penalty, as application has been filed
+
+       (b) Penalty on Madhav Casting Limited ranging from ` 5 lakh to ` 50 lakh
+
+       (c) Penalty on Madhav Casting Limited ranging from ` 5 lakh to ` 50 lakh and
+               every officer of the company who is in default ranging from ` 50 thousand
+               to ` 3 lakh
+
+       (d) Penalty on Madhav Casting Limited ranging from ` 5 lakh to ` 50 lakh and
+               every officer of the company who is in default ranging from ` 50 thousand
+               to ` 3 lakh and/or Imprisonment upto one year.
+
+3. Rig exploration and refinery limited (RERL) decided to raise capital through issue
+       of a shelf prospectus. Company secretary explains the requirement to board that
+       RERL shall be required to file an information memorandum with the Registrar
+       within______________, prior to the issue of a second or subsequent offer of securities
+       under the shelf prospectus.
+
+       (a) 15 days
+
+       (b) 21 days
+
+       (c) 30 days
+
+       (d) 1 month
+
+4. Modern Furniture decided to raise capital by issue for which prospectus need to be
+       issued. The copy of prospectus submitted with registrar for filling need to be duly
+       signed by:
+
+       (a) Any two directors including managing directors
+
+       (b) Majority of directors
+
+       (c) Majority of directors including proposed directors
+
+       (d) Every director or proposed director
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.55
+
+Descriptive Questions
+
+1. Explain various instances which make the allotment of securities as irregular
+       allotment under the Companies Act, 2013.
+
+2. What is a Shelf-Prospectus? State the important provisions relating to the
+       issuance of Shelf-Prospectus under the provisions of the Companies Act, 2013
+       and the Companies (Prospectus and Allotment of securities) Rules, 2014.
+
+3. The Board of Directors of Chandra Mechanical Toys Limited proposes to issue
+       a prospectus inviting offers from the public for subscribing to the equity shares
+       of the Company. State the reports which shall be included in the prospectus for
+       the purposes of providing financial information under the provisions of the
+       Companies Act, 2013.
+
+4. Unique Builders Limited decides to pay 2.5 percent of the value of debentures
+       as underwriting commission to the underwriters but the Articles of the company
+       authorize only 2.0 percent underwriting commission on debentures. The
+       company further decides to pay the underwriting commission in the form of
+       flats. Examine the validity of the above arrangements under the provisions of
+       the Companies Act, 2013.
+
+5. PQR Bakers Limited wants to raise funds for its upcoming project. Accordingly,
+       it has issued private placement offer letters for issuing equity shares to 55
+       persons, of which four are qualified institutional buyers and remaining are
+       individuals. Before the completion of allotment of equity shares under this offer
+       letter, company issued another private placement offer letter to another 155
+       persons in their individual names for issue of its debentures.
+
+       Being a public company is it possible for PQR Bakers Limited to issue securities
+       under a private placement offer? By doing so, whether the company is in
+       compliance with provisions relating to private placement or should these offers
+       be treated as public offers? What if the offer for debentures is given after
+       allotment of equity shares but within the same financial year?
+
+6. How does the Companies Act, 2013 regulate and restrict the following matters
+       in respect of a company going for public issue of shares:
+
+       (i) Minimum Amount stated in the Prospectus; and
+
+       (ii) Application Money payable on shares.
+    3.56  CORPORATE AND OTHER LAWS
+
+7. Examine the validity of the following statement with reference to the provisions
+       of the Companies Act, 2013.
+
+       The Articles of Association of X Limited contained a provision that the
+       underwriting commission may be paid up to 4% of the issue price of the shares.
+       However, the Board of Directors have decided to pay the underwriting
+       commission of 5% to Deal & Co., the underwriters."
+
+ANSWERS
+
+Answer to MCQ based Questions
+
+1.       (b) i or iii only
+
+2.       (c) Penalty on Madhav Casting Limited ranging from ` 5 lakh to
+
+          ` 50 lakh and every officer of the company who is in default
+
+          ranging from ` 50 thousand to ` 3 lakh.
+
+3.       (d) 1 month
+
+4.       (d) Every director or proposed director
+
+Answer to Descriptive Questions
+
+1. Irregular allotment: The Companies Act, 2013 does not specifically provide
+       for the term "Irregular Allotment" of securities. Hence, we have to examine
+       the requirements of a proper issue of securities and consider the
+       consequences of non- fulfillment of those requirements.
+
+       In broad terms, an allotment of shares is deemed to be irregular when it has
+       been made by a company in violation of Sections 23, 26, 39 or 40. Irregular
+       allotment therefore arises in the following instances:
+
+       1. Where a company does not issue a prospectus in a public offer as
+               required by section 23; or
+
+       2. Where the prospectus issued by the company does not include any of
+               the matters required to be included therein under section 26 (1), or the
+               information given is misleading, faulty and incorrect; or
+
+       3. Where the prospectus has not been filed with the Registrar for filing
+               under section 26 (4); or
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.57
+
+       4. The minimum subscription as specified in the prospectus has not been
+               received in terms of section 39; or
+
+       5. The minimum amount receivable on application is less than 25% of the
+               nominal value of the securities offered or lower than the amount
+               prescribed by SEBI in this behalf; or
+
+       6. In case of a public issue, approval for listing has not been obtained from
+               one or more of the recognized stock exchanges under section 40 of the
+               Companies Act, 2013.
+
+2. As per explanation to section 31, the expression "shelf prospectus" means
+       a prospectus in respect of which the securities or class of securities included
+       therein are issued for subscription in one or more issues over a certain
+       period without the issue of a further prospectus.
+
+       A company is required to issue a prospectus each time it accesses the capital
+       market. It leads to unnecessary repetition for a company which makes more
+       than one offer of securities in a year to mobile funds from the public. A way
+       out is shelf prospectus which remains valid (on the shelf) a specified time
+       period during which offers for securities may be made by a company to the
+       public without going through the arduous exercise of issuing fresh
+       prospectus every time.
+
+       1. Filing of shelf prospectus with the Registrar
+
+               Shelf prospectus may be filled with the Registrar at the stage of first
+               offer of securities, by class or classes of companies as the Securities and
+               Exchange Board may provide by regulations in this behalf.
+
+               It has to indicate a period not exceeding one year as the period of
+               validity of such shelf prospectus.
+
+               The period of validity is to commence from the date of opening of the
+               first offer of securities under such prospectus.
+
+               In respect of any second or subsequent offer of such securities issued
+               during the period of validity of such prospectus, no further prospectus
+               is required.
+3.58  CORPORATE AND OTHER LAWS
+
+       2. Filing of `Information Memorandum' with the Shelf Prospectus
+
+               A company filing a shelf prospectus shall be required to file an
+               information memorandum with the Registrar within the prescribed
+               time, prior to the issue of a second or subsequent offer of securities
+               under the shelf prospectus containing;
+
+               a. All material facts relating to new charges created,
+
+               b. Changes in the financial position of the company as have occurred
+                       between the first offer of securities or the previous offer of
+                       securities and the succeeding offer of securities, and
+
+               c. Such other changes as may be prescribed,
+
+               The information memorandum shall be prepared in Form PAS-2 and filed
+               with the Registrar along with the fee as provided in the Companies
+               (Registration Offices and Fees) Rules, 2014 within one month prior to the
+               issue of a second or subsequent offer of securities under the shelf
+               prospectus.
+
+       3. Safeguard (in case of changes) to applicants who made payment in
+               advance.
+
+               It is provided that where a company or any other person has received
+               applications for the allotment of securities along with advance
+               payments of subscription before the making of any such change, the
+               company or other person shall intimate the changes to such applicants
+               and if they express a desire to withdraw their application, the company
+               or other person shall refund all the monies received as subscription
+               within fifteen days thereof.
+
+       4. Information Memorandum together with Shelf Prospectus is
+               deemed Prospectus
+
+               Where an information memorandum is filed, every time an offer of
+               securities is made under sub-section (2), such memorandum together
+               with the shelf prospectus shall be deemed to be a prospectus.
+
+3. As per section 26(1) of the Companies Act, 2013, every prospectus issued by
+       or on behalf of a public company either with reference to its formation or
+       subsequently, or by or on behalf of any person who is or has been engaged
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.59
+
+       or interested in the formation of a public company, shall be dated and signed
+       and shall state such information and set out such reports on financial
+       information as may be specified by the Securities and Exchange Board in
+       consultation with the Central Government.
+
+       It is provided that until the Securities and Exchange Board specifies the
+       information and reports on financial information under this sub-section, the
+       regulations made by the Securities and Exchange Board under the Securities
+       and Exchange Board of India Act, 1992, in respect of such financial
+       information or reports on financial information shall apply.
+
+       According to clause (c) of Section 26 (1), the prospectus shall make a
+       declaration about the compliance of the provisions of the Companies Act,
+       2013 and a statement to the effect that nothing in the prospectus is contrary
+       to the provisions of this Act, the Securities Contracts (Regulation) Act, 1956
+       and the Securities and Exchange Board of India Act, 1992 and the rules and
+       regulations made thereunder.
+
+       Accordingly, the Board of Directors of Chandra Mechanical Toys Limited
+       which proposes to issue the prospectus shall provide such reports on financial
+       information as may be specified by the Securities and Exchange Board in
+       consultation with the Central Government to comply with the above stated
+       provisions and make a declaration about such compliance.
+
+4. Section 40 (6) of the Companies Act 2013, provides that a company may pay
+       commission to any person in connection with the subscription to its
+       securities, subject to a number of conditions which are prescribed under the
+       Companies (Prospectus and Allotment of Securities) Rules, 2014. In relation to
+       the case given, the conditions applicable under the above Rules are as under:
+
+       (a) The payment of such commission shall be authorized in the company's
+               articles of association;
+
+       (b) The commission may be paid out of proceeds of the issue or the profit
+               of the company or both;
+
+       (c) The rate of commission in case of debentures, shall not exceed two and
+               a half per cent (2.5%) of the price at which the debentures are issued,
+               or as specified in the company's articles, whichever is less.
+
+       Thus, the underwriting commission in case of debentures is limited to 2.5%.
+3.60  CORPORATE AND OTHER LAWS
+
+       In view of the above, the decision of Unique Builders Limited to pay
+       underwriting commission exceeding 2% as prescribed in the Articles, is
+       invalid.
+
+       The company may pay the underwriting commission in the form of flats since
+       there is no prohibition on payment of underwriting commission in kind.
+       Further, in case of Booth v New Africander Gold Mining Co., it was held that
+       underwriting commission may be paid in cash or in kind or in lump sum or
+       by way of a percentage.
+
+5. According to section 42 of the Companies Act, 2013 any private or public
+       company may make private placement through issue of a private placement
+       offer letter.
+
+       However, the offer shall be made to the persons not exceeding fifty or such
+       higher number as may be prescribed, in a financial year. For counting number
+       of persons, Qualified Institutional Buyers (QIBs) and employees of the
+       company being offered securities under a scheme of employees' stock option
+       will not be considered.
+
+       Further, Rule 14 (2) of the Companies (Prospectus and Allotment of Securities)
+       Rules, 2014 prescribes maximum of 200 persons who can be offered securities
+       under the private placement in a financial year, though this limit should be
+       counted separately for each type of security.
+
+       It is to be noted that if a company makes an offer or invitation to more than
+       the prescribed number of persons, it shall be deemed to be an offer to the
+       public and accordingly, it shall be governed by the provisions relating to
+       prospectus.
+
+       Also, a company is not permitted to make fresh offer under this section if the
+       allotment with respect to any offer made earlier has not been completed or
+       otherwise, that offer has been withdrawn or abandoned by the company. This
+       provision is applicable even if the issue is of different kind of security.
+
+       Any offer or invitation not in compliance with the provisions of this section
+       shall be treated as a public offer and all provisions will apply accordingly.
+
+       In the given case PQR Bakers Limited, though a public company but the
+       private placement provisions allow even a public company to raise funds
+       through this route. The company has given offer to 55 persons out of which
+PROSPECTUS AND ALLOTMENT OF SECURITIES  3.61
+
+       4 are qualified institutional buyers and hence, the offer is given effectively to
+       only 51 persons which is well within the limit of 200 persons. From this point
+       of view, the company complies the private placement provisions.
+
+       However, as per the question, the company has given another private
+       placement offer of debentures before completing the allotment in respect of
+       first offer and therefore, the second offer does not comply with the provisions
+       of section 42. Hence, the offers given by the company will be treated as public
+       offer.
+
+       In case the company gives offer for debentures in the same financial year
+       after allotment of equity shares is complete then both the offers can well be
+       treated as private placement offers.
+
+6. The Companies Act, 2013 by virtue of the provisions as contained in Section
+       39 (1) and (2) regulates and restricts the minimum amount stated in the
+       prospectus and the application money payable in a public issue of shares as
+       under:
+
+       Minimum amount stated in a prospectus
+
+       No Allotment shall be made of any securities of a company offered to the
+       public for subscription; unless; -
+
+       (i) the amount stated in the prospectus as the minimum amount has been
+               subscribed; and
+
+       (ii) the sums payable on application for such amount has been paid to and
+               received by the company.
+
+       Application money
+
+       Section 39 (2) provides that the amount payable on application on each
+       security shall not be less than 5% of the nominal amount of such security or
+       such amount as SEBI may prescribe by making any regulations in this
+       behalf.
+
+       Further section 39 (3) provides that if the stated minimum amount is not
+       received by the company within 30 days of the date of issue of the prospectus
+       or such time as prescribed by SEBI, the company will be required to refund
+       the application money received within such time and manner as may be
+       prescribed.
+3.62  CORPORATE AND OTHER LAWS
+
+       Rule 11 (1) of the Companies (Prospectus and Allotment of Securities) Rules,
+       2014 mentions that if the stated minimum amount has not been subscribed
+       and the sum payable on application is not received within the period specified
+       therein, then the application money shall be repaid within a period of fifteen
+       days from the closure of the issue and if any such money is not so repaid
+       within such period, the directors of the company who are officers in default
+       shall jointly and severally be liable to repay that money with interest at the
+       rate of fifteen percent per annum.
+
+       In case of any default, the company and its officer who is in default shall be
+       liable to a penalty, for each default, of one thousand rupees for each day
+       during which such default continues or one lakh rupees, whichever is less.
+
+7. Section 40 (6) of the Companies Act 2013, provides that a company may pay
+       commission to any person in connection with the subscription to its
+       securities, subject to the conditions prescribed under the Companies
+       (Prospectus and Allotment of Securities) Rules, 2014. Rule 13 states that the
+       rate of commission paid or agreed to be paid shall not exceed, in case of
+       shares, five percent (5%) of the price at which the shares are issued or a rate
+       authorised by the articles, whichever is less.
+
+       In the given problem, the Articles of X Ltd. have prescribed 4% underwriting
+       commission but the directors decided to pay 5% underwriting commission.
+
+       Therefore, the decision of the Board of Directors to pay 5% underwriting
+       commission to the underwriters (i.e. Deal & Co.), is invalid.
+

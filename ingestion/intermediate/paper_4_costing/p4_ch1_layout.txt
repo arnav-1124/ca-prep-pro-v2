@@ -1,0 +1,1932 @@
+CHAPTER  1
+
+INTRODUCTION TO
+COST AND
+MANAGEMENT
+ACCOUNTING
+
+                                      LEARNING OUTCOMES
+
+After studying this chapter, you would be able to-
+
+ State the meaning, objective and importance of Cost and
+       Management Accounting.
+
+ Discuss the functions and role of Cost Accounting Department in an
+       organization.
+
+ Discuss the installation of a Cost Accounting System in an
+       organization.
+
+ Differentiate between Cost Accounting, Financial Accounting and
+       Management Accounting.
+
+ List the various elements and classifications of cost.
+ Explain the methods of segregating semi-variable costs into fixed and
+
+       variable cost.
+ Discuss the concept of cost reduction and cost control.
+ Discuss the methods and techniques of costing.
+ A brief discussion on Digital Costing System.
+
+© The Institute of Chartered Accountants of India
+1.2                    COST AND MANAGEMENT ACCOUNTING
+
+CHAPTER OVERVIEW
+
+  Objectives of Cost          Use of IT in    Cost Objects
+  and Management                 Costing
+                                              Responsibility
+       Accounting         Users of Cost and       Centres
+                             Management
+     Scope of Cost            Accounting            Cost
+       Accounting                             Classification
+                         Role & Functions of
+ Relationship of Cost  Cost and Management
+  and Management
+                              Accounting
+Accounting with other
+  related desciplines
+
+     1. INTRODUCTION
+
+Michael E. Porter in his theory of Generic Competitive Strategies has described
+`Cost Leadership' as one of the three strategic dimensions (others are `Product
+differentiation' and `Focus or Niche') to achieve competitive advantage in
+industry. Cost Leadership implies producing goods or provision of services at
+lowest cost while maintaining quality to have better competitive price. In a
+business environment where each entity is thriving to achieve apex position not
+only in domestic but global competitive market, it is essential for the entity to fit
+into any of the three competitive strategic dimensions. Cost Leadership, also in
+line with the subject Cost and Management Accounting, can be achieved if an
+entity has a robust Cost and Management Accounting system in place. In this
+chapter, we will learn various aspects of Cost and Management Accounting and
+its application in manufacturing and service environment.
+
+1.1 Meaning and Definition
+
+(i) Cost- Cost is the amount of resource given up in exchange of some goods
+       or services. It can be expressed as a noun as well as a verb. As a noun, it
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                       1.13.3
+                                              ACCOUNTING
+
+can be defined as the amount of expenditure (actual or notional) incurred
+on or attributable to a specified article, product or activity.
+
+As a verb, it can be as an action to ascertain the cost of a specified thing or
+activity.
+
+(ii) Costing- Costing is defined as "the technique and process of ascertaining
+       costs".
+
+According to CIMA "an organisation's costing system is the foundation of
+the internal financial information system for managers. It provides the
+information that management needs to plan and control the organisation's
+activities and to make decisions about the future."
+
+(iii) Cost Accounting- Cost Accounting is defined as "the process of
+       accounting for cost which begins with the recording of income and
+       expenditure or the bases on which they are calculated and ends with the
+       preparation of periodical statements and reports for ascertaining and con-
+       trolling costs."
+
+(iv) Cost Accountancy- Cost Accountancy has been defined as "the
+       application of costing and cost accounting principles, methods and
+       techniques to the science, art and practice of cost control and the
+       ascertainment of profitability. It includes the presentation of information
+       derived there from for the purpose of managerial decision making."
+
+(v) Management Accounting- As per CIMA Official Terminology "Management
+       Accounting is the application of the principles of accounting and
+       financial management to create, protect, preserve and increase value for
+       the stakeholders of for-profit and not-for-profit enterprises in the public
+       and private sectors."
+
+Management Accounting is an integral part of management function. It
+assists management by provision of relevant information for planning,
+organising, controlling, decision making etc.
+
+(vi) Cost Management- It is an application of management accounting
+       concepts, methods of collections, analysis and presentation of data to
+       provide the information needed to plan, monitor and control costs.
+
+© The Institute of Chartered Accountants of India
+1.4               COST AND MANAGEMENT ACCOUNTING
+
+2. OBJECTIVES OF COST ACCOUNTING
+
+                  Objectives of Cost Accounting
+
+Ascertainment of  Determination                    Cost Control     Cost         Assisting
+        Cost      of Selling Price                               Reduction  Management in
+                  and Profitability                                         Decision Making
+
+                                                   Determination of pre-determined standard
+
+                                                   Measurement of actual performance
+
+                                                                 Comparison
+
+                                                   Analysis of variance and action
+
+The main objectives of Cost and Management Accounting are explained as below:
+
+(i) Ascertainment of Cost: The main objective of Cost Accounting is
+       accumulation and ascertainment of cost. Costs are accumulated, assigned
+       and ascertained for each cost object. This cost object may be a unit, job,
+       operation, process, department or service.
+
+(ii) Determination of Selling Price and Profitability: The Cost Accounting
+       System helps in determination of selling price and thus profitability of a cost
+       object. Though in a competitive business environment selling prices are
+       determined by external factors but cost accounting system provides a basis
+       for price fixation and rate negotiation.
+
+(iii) Cost Control: Maintaining discipline in expenditure is one of the main
+       objectives of a good cost accounting system. It ensures that expenditures
+       are in consonance with predetermined set standard and any variation
+       from these set standards is noted and reported on continuous basis. To
+       exercise control over cost, following steps are followed:
+
+       (a) Determination of pre-determined standard or results: Standard cost or
+               performance targets for a cost object or a cost centre are set before
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                       1.15.5
+                                              ACCOUNTING
+
+initiation of production or service activity. These are desired cost or result
+that need to be achieved.
+
+(b) Measurement of actual performance: Actual cost or result of the cost
+       object or cost centre is measured. Performance should be measured in
+       the same manner in which the targets are set i.e., if the targets are set up
+       operation-wise, and then the actual costs should also be collected and
+       measured operation-wise to have a common basis for comparison.
+
+(c) Comparison of actual performance with set standard or target: The actual
+       performance so measured is compared against the set standard and
+       desired target. Any deviation (variance) between the two is noted and
+       reported to the appropriate person or authority.
+
+(d) Analysis of variance and action: The variance in results so noted is further
+       analysed to know the reasons for variance and appropriate action is
+       taken to ensure compliance in future. If necessary, the standards are
+       further amended to take developments into account.
+
+(iv) Cost Reduction: It may be defined "as the achievement of real and
+       permanent reduction in the unit cost of goods manufactured or services
+       rendered without impairing their suitability for the use intended or
+       diminution in the quality of the product."
+
+Cost Reduction is an approach of management where cost of an object is
+believed to have a scope of further reduction. No cost is termed as lowest
+and every possibility of cost reduction is explored. To do cost reduction, the
+following action is taken:
+
+(a) Each activity within an entity is segmented to analyse and identify value
+       added and non- value added activities. All non-value added activities are
+       eliminated without affecting the essential characteristics of the product
+       or process. Value Chain Analysis, a strategic tool, developed by Michael
+       Porter, is one of the method to do value analysis.
+
+(b) Conducting continuous research and study to know the most optimal
+       way to manufacture a product or render a service.
+
+The three-fold assumptions involved in the definition of cost reduction may
+be summarised as under:
+
+(a) There is a saving in unit cost.
+
+© The Institute of Chartered Accountants of India
+          1.6           COST AND MANAGEMENT ACCOUNTING
+
+       (b) Such saving is of permanent nature.
+
+       (c) The utility and quality of the goods and services remain unaffected, if not
+               improved.
+
+(v) Assisting Management in Decision Making: Cost and Management
+       Accounting by providing relevant information, assist management in
+       planning, implementing, measuring, controlling and evaluating of various
+       activities. A robust cost and management accounting system provides
+       internal and external information to the industry which will be relevant for
+       decision making.
+
+2.1 Difference between Cost Control and Cost Reduction
+
+          Cost Control                                          Cost Reduction
+
+1. Cost control aims at maintaining 1. Cost reduction is concerned with
+
+the costs in accordance with the reducing costs. It challenges all standards
+
+established standards.                             and endeavours to improvise them
+
+                                                   continuously
+
+2. Cost control seeks to attain 2. Cost reduction recognises no condition as
+
+lowest possible cost under permanent, since a change will result in
+
+existing conditions.                               lower cost.
+
+3. In case of cost control, emphasis 3. In case of cost reduction, it is on present
+
+is on past and present                             and future.
+
+4. Cost control is a preventive 4. Cost reduction is a corrective function. It
+
+function                                           operates even when an efficient cost
+
+                                                   control system exists.
+
+5. Cost control ends when targets 5. Cost reduction has no visible end and is a
+
+are achieved.                                      continuous process.
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                                       1.17.7
+                                              ACCOUNTING
+
+3. SCOPE OF COST ACCOUNTING
+
+ Scope of                                                   Costing
+    Cost                                              Cost Accounting
+
+Accounting                                               Cost Analysis
+                                                     Cost Comparisons
+
+                                                         Cost Control
+                                                         Cost Reports
+                                                   Statutory Compliances
+
+Scope of Cost Accounting consists of the following functions:
+
+(i) Costing: Costing is the technique and process of ascertaining costs of
+       products or services. The cost ascertainment procedure is governed by
+       some cost accounting principles and rules. Generally, cost is ascertained
+       using historical costs, standard costs, process cost, operation cost etc.
+
+(ii) Cost Accounting: This is a process of accounting for cost which begins
+       with the recording of expenditure and ends with the preparation of
+       periodical statement and reports for ascertaining and controlling cost. Cost
+       Accounting is a formal mechanism of cost ascertainment.
+
+(iii) Cost Analysis: It involves the process of finding out the factors
+       responsible for variance in actual costs from the budgeted costs and
+       accordingly fixation of responsibility for cost differences. This also helps in
+       taking better cost management and strategic decisions.
+
+(iv) Cost Comparisons: Cost accounting also includes comparisons of cost
+       involved in alternative courses of action such as use of different
+       technology for production, cost of making different products and activities,
+       and cost of same product/ service over a period of time.
+
+(v) Cost Control: It involves a detailed examination of each cost in the light
+       of advantage received from the incurrence of the cost. Thus, we can state
+
+© The Institute of Chartered Accountants of India
+1.8                 COST AND MANAGEMENT ACCOUNTING
+
+       that cost is analyzed to know whether cost is not exceeding its budgeted cost
+       and whether further cost reduction is possible or not.
+
+(vi) Cost Reports: This is the ultimate function of cost accounting. These
+       reports are primarily prepared for use by the management at different
+       levels. Cost Reports helps in planning and control, performance appraisal and
+       managerial decision making.
+
+(vii) Statutory Compliances: Maintaining cost accounting records as per the
+       rules prescribed by the statute to maintain cost records relating to
+       utilization of materials, labour and other items of cost as applicable to the
+       production of goods or provision of services as provided in the Act and
+       these rules.
+
+4. RELATIONSHIP                                    OF  COST                  AND
+
+MANAGEMENT ACCOUNTING WITH OTHER
+
+RELATED DISCIPLINES
+
+Cost and Management Accounting as a discipline is interrelated and dependent
+on other disciplines of accounting.
+
+4.1 Cost Accounting with Management Accounting
+
+As we have already studied that though Cost Accounting and Management
+Accounting is used synonymously but there are a few differences. Management
+Accounting is an open-ended discipline which enables managers to take informed
+decisions. Management Accounting takes inputs from cost accounts, financial
+accounts, statistical and operation management tools etc.
+
+Difference between Cost Accounting and Management Accounting
+
+             Basis  Cost Accounting                    Management Accounting
+(i) Nature
+                    It records the quantitative It records both qualitative and
+(ii) Objective
+                    aspect only.                       quantitative aspect.
+
+                    It records the cost of It provides information to
+
+                    producing a product and management for planning
+
+                    providing a service.               and co-ordination.
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                                     1.19.9
+                                              ACCOUNTING
+
+(iii) Area         It only deals with cost It is wider in scope as it includes
+
+                   Ascertainment.                           financial accounting, budgeting,
+
+                                                            taxation, planning etc.
+
+(iv) Recording of It uses both past and It is focused with the
+
+data               present figures.                         projection of figures for
+
+                                                            future.
+
+(v) Development Its development is related Its development is related to
+                             to industrial revolution. the need of modern business
+                                                                   world.
+
+(vi) Rules and     It          follows             certain  It does not follow any specific
+       Regulation                                           rules and regulations.
+                   principles and procedures
+
+                   for recording costs of
+
+                   different products.
+
+4.2 Cost Accounting with Financial Accounting
+
+Cost accounting accumulates and ascertains costs for goods sold and inventories.
+It provides inputs to record costs in financial accounting system.
+
+Difference between Financial Accounting and Cost Accounting
+
+Basis                  Financial Accounting                          Cost Accounting
+
+(i) Objective      It provides information about Ascertainment of cost for
+
+                   the financial performance of the purpose of cost control
+
+                   an entity.                               and decision making.
+
+(ii) Nature        It classifies records, present It classifies, costs records,
+
+                   and interprets transactions in present, and interprets it in a
+
+                   monetary terms.                          significant manner.
+
+(iii) Recording    It records Historical data.              It makes use of           both
+        of data                                                                       pre-
+                                                            historical  and
+
+                                                            determined costs.
+
+(iv) Users of The users of financial The cost accounting
+        information accounting statements are information is generally
+
+© The Institute of Chartered Accountants of India
+        1.10              COST AND MANAGEMENT ACCOUNTING
+
+              shareholders,                        creditors, used           by      internal
+                                                                                           But
+              financial analysts and management.
+                                                                                  regulatory
+              government and its agencies, sometimes
+
+              etc.                                             authorities also.
+
+(v) Analysis of It shows profit or loss of the It provides the cost details
+
+cost and organization either segment for each cost object i.e.
+
+profit        wise or as a whole.                              product, process, job,
+
+                                                               operation, contracts etc.
+
+(vi) Time period Financial Statements are Reports and statements are
+                            prepared usually for a year. prepared as and when
+                                                                        required.
+
+(vii) Presentation A set format is used for In general, no set formats for
+
+of            presenting                           financial presenting cost information
+
+information information.                                       is followed.
+
+4.3 Cost and Management Accounting with Financial
+      Management
+
+Cost and Management Accounting is an application of Financial Management
+for decision making purposes.
+
+The relationship among Cost Accounting, Management Accounting, Financial
+Accounting and Financial Management can be understood with the help of the
+following diagram.
+
+                     Financial                     Management
+                    Accounting                      Accounting
+
+                                                       Cost
+                                                   Accounting
+
+                    Financial Management
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                       1.11.111
+                                              ACCOUNTING
+
+5. ROLE & FUNCTIONS OF COST AND
+    MANAGEMENT ACCOUNTING
+
+The role of a cost and management accounting system is to:
+
+· Provide relevant information to management for decision making,
+
+· Assist management for planning, measurement, evaluation and controlling of
+       business activities,
+
+· Help in allocation of cost to products and inventories for both external and
+       internal users.
+
+Though the term Cost Accounting and Management Accounting is used by
+various authors synonymously but in actual practice, Cost Accounting is
+concerned with accumulation and allocation of costs to different cost
+objects, whereas, Management Accounting concerned with provision of
+information to internal users for decision making.
+
+The functions of Cost and Management Accounting include:
+
+(i) Collection and accumulation of cost for each element of cost.
+
+(ii) Assigning costs to cost objects to ascertain cost.
+
+(iii) Cost and Management Accounting Department (whatever nomenclature
+       may be used to denote the department) sets budget and standards for a
+       particular period or activity beforehand and these are compared with the
+       assigned and ascertained cost. Any deviation with the set standards are
+       analysed and reported. All this exercise is done to control costs.
+
+(iv) The main function of Cost and Management Accounting is provision of
+       relevant information to the management for decision making. An
+       Information system environment is set up which is popularly known as
+       Management Information System (MIS). The MIS provides relevant and
+       timely information related to both internal and external to the organisation
+       to enable management at all levels to take decisions. Decisions include cost
+       optimisation, price fixation, implementation of any plan related with
+       product, process, marketing etc.
+
+© The Institute of Chartered Accountants of India
+1.12  COST AND MANAGEMENT ACCOUNTING
+
+(v) The performance of a responsibility centre is measured and evaluated
+       against the set standards. The function of Cost and Management
+       Accounting is to gather data like time taken, wastages, process idleness etc.,
+       analyse the data, prepare reports and take necessary actions.
+
+     6. USERS OF COST AND MANAGEMENT
+           ACCOUNTING
+
+Cost and Management Accounting information which is generated or collected is
+used by different stakeholders. The users of the information can be broadly
+categorised into internal and external to the entity.
+
+Internal users                                     External users
+             Policy makers                              Regulatory Authorities
+               Managers                                           Auditors
+                                                               Shareholders
+       Operational level staffs                          Creditors and Lenders
+               Employees
+
+Internal Users
+
+Internal users, who use the Cost and Management Accounting information may
+include the followings:
+(a) Policy Makers- The policy makers are those who formulate strategies
+
+       (i) to achieve the goals (short & long term both) to fulfil the objectives of
+               the organisation.
+
+       (ii) to position the organisation into the competitive market environment.
+       (iii) to design the organisational structure to get the policy and strategies
+
+               implemented. Etc.
+(b) Managers- The managers use the information
+
+       (i) to know the cost of a cost object and cost centre
+       (ii) to know the price for the product or service
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                       1.11.313
+                                              ACCOUNTING
+
+(iii) to measure and evaluate performance of responsibility centres
+
+(iv) to the know the profitability-product-wise, department-wise,
+       customer-wise etc.
+
+(v) to evaluate the strategic options and to make decisions
+
+(c) Operational level staff- The operational level staff like supervisors,
+       foreman, team leaders require information
+
+(i) to know the objectives and performance goals for them
+
+(ii) to know product and service specifications like volume, quality and
+       process etc.
+
+(iii) to know the performance parameters against which their performance
+       is measured and evaluated.
+
+(iv) to know divisional (responsibility centre) profitability etc.
+
+(d) Employees- Employees are concerned with the information related with
+       time and attendance, incentives for work, performance standards etc.
+
+External Users
+
+External users, who use the Cost and Management Accounting information may
+include the followings:
+
+(a) Regulatory Authorities- Regulatory Authorities are concerned with cost
+       accounting data and information for different purpose which includes tariff
+       determination, providing subsidies, rate fixation etc. To do this the regulatory
+       bodies require information on the basis of some standards and format in
+       this regard.
+
+(b) Auditors- The auditors while conducting audit of financial accounts or for
+       some other special purpose audit like cost audit etc. require information
+       related with costing and reports reviewed by management etc.
+
+(c) Shareholders- Shareholders are concerned with information that effect
+       their investment in the entity. Management communicates to the
+       shareholders through periodic communique, annual reports etc. regarding
+       new orders received, product expansion, market share for products etc.
+
+© The Institute of Chartered Accountants of India
+1.14  COST AND MANAGEMENT ACCOUNTING
+
+(d) Creditors and Lenders- Creditors and lenders are concerned with data and
+       information which affects an entity's ability to serve lenders or creditors. For
+       example, any financial institutions which provides loan to an entity against
+       book debts and inventories are more concerned with regular reporting on
+       net debt position and stock balances.
+
+7. ESSENTIALS OF A GOOD COST ACCOUNTING
+    SYSTEM
+
+       Trust on     Informative
+      the system    and simple
+
+      Flexible and  Accurate
+        adaptive        and
+
+                    authentic
+
+      Integrated    Uniformity
+          and            and
+
+       inclusive    consistency
+
+                   Essential features of a good Cost Accounting System
+The essential features, which a good Cost Accounting System should possess, are
+as follows:
+(a) Informative and simple: Cost accounting system should be tailor-made,
+
+       practical, simple and capable of meeting the requirements of a business
+       concern. The system of costing should not sacrifice the utility by introducing
+       inaccurate and unnecessary details.
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                       1.11.515
+                                              ACCOUNTING
+
+(b) Accurate and authentic: The data to be used by the cost accounting
+       system should be accurate and authenticated; otherwise it may distort the
+       output of the system and a wrong decision may be taken.
+
+(c) Uniformity and consistency: There should be uniformity and consistency
+       in classification, treatment and reporting of cost data and related
+       information. This is required for benchmarking and comparability of the
+       results of the system for both horizontal and vertical analysis.
+
+(d) Integrated and inclusive: The cost accounting system should be integrated
+       with other systems like financial accounting, taxation, statistics and
+       operational research etc. to have a complete overview and clarity in results.
+
+(e) Flexible and adaptive: The cost accounting system should be flexible enough
+       to make necessary amendment and modifications in the system to incorporate
+       changes in technological, reporting, regulatory and other requirements.
+
+(f) Trust on the system: Management should have trust on the system and its
+       output. For this, an active role of management is required for the
+       development of such a system that reflects a strong conviction in using
+       information for decision making.
+
+     8. INSTALLATION OF COSTING SYSTEM
+
+As in the case of every other form of activity, it should be considered whether it
+would be profitable to have a Cost Accounting System. Management of an
+organisation needs complete and accurate information to make decisions. A well-
+established costing system should provide all relevant information as and when
+required by management as well as various stakeholders.
+
+Before setting up a system of cost accounting the factors mentioned below should be
+studied:
+
+(a) Objective: The objective of setting up the costing system, for example
+       whether it is being introduced for fixing prices or for establishing a system
+       of cost control.
+
+(b) Nature of Business or Industry: The industry in which the business is
+       operating. Every business or industry has its own uniqueness and objectives.
+       According to its cost information requirement, cost accounting methods are
+
+© The Institute of Chartered Accountants of India
+1.16  COST AND MANAGEMENT ACCOUNTING
+
+       followed. For example, an oil refinery maintains process wise cost accounts
+       to find out the cost incurred on a particular process, say in crude refinement
+       process etc.
+
+(c) Organisational Hierarchy: Costing system should fulfil the information
+       requirements of different levels of management. Top management is
+       concerned with the corporate strategy, strategic level management is
+       concerned with marketing strategy, product diversification, product pricing
+       etc. Operational level management needs the information on standard
+       quantity to be consumed, report on idle time etc.
+
+(d) Knowing the product: Nature of the product determines the type of
+       costing system to be implemented. The product which has by-products
+       requires costing system which accounts for by-products as well. In case of
+       perishable or short self- life products, marginal costing is appropriate to
+       know the contribution and minimum price at which products could be sold.
+
+(e) Knowing the production process: A good costing system can never be
+       established without the complete knowledge of the production process.
+       Cost apportionment can be done on the most appropriate and scientific
+       basis if a cost accountant can identify degree of effort or resources
+       consumed in a particular process. This also includes some basic technical
+       know-how and process peculiarity.
+
+(f) Information synchronisation: Establishment of a department or a system
+       requires substantial amount of organisational resources. While drafting a
+       costing system, information needs of various other departments should be
+       taken into account. For example, in a typical business organisation accounts
+       department needs to submit monthly stock statement to its lender bank,
+       quantity wise stock details at the time of filing returns to tax authorities etc.
+
+(g) Method of maintenance of cost records: The organization must
+       determine beforehand the manner in which Cost and Financial Accounts
+       could be inter-locked into a single integral accounting system and how the
+       results of separate sets of accounts i.e. cost and financial, could be
+       reconciled by means of control accounts.
+
+(h) Statutory compliances and audit: Records are to be maintained to comply
+       with statutory requirements and applicable cost accounting standards
+       should be followed.
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                       1.11.717
+                                              ACCOUNTING
+
+(i) Information Attributes: Information generated from the Costing system
+       should possess all the attributes of useful information i.e. it should be
+       complete, accurate, timely, relevant. to have an effective management
+       information system (MIS).
+
+     9. COST ACCOUNTING WITH THE USE OF
+
+           INFORMATION TECHNOLOGY (IT)
+
+With the expansion of e-commerce and increasing competitive business
+environment, information technology is becoming an integral part of each activity
+in an organisation including Cost and Management Accounting. Information
+technology has changed the Cost and Management Accounting functions
+dramatically with the introduction of Enterprise Resource Planning (ERP)
+system. Cost Accounting and Management Information System has become
+automated and improved. The new industrial revolution in the form of digital
+innovation which is popularly known as Industry 4.0, has more emphasis on
+digitisation and automation of business process to have a better control over cost to
+maintain market competitiveness. Cost Accounting System has seen lots of savings
+in terms of time, money and efforts. The impact of IT in Cost Accounting may
+include the following:
+
+(i) After the introduction of ERPs, different functional activities get
+       integrated and as a consequence, a single entry into the accounting system
+       provides custom made reports for every purpose and saves an organisation
+       from preparing different sets of documents. Reconciliation process of
+       results of both cost and financial accounting systems becomes simpler and
+       less cumbersome.
+
+(ii) A move towards paperless environment can be seen where documents like
+       Bill of Material, Material Requisition Note, Goods Received Note, labour
+       utilisation report etc. are no longer required to be prepared in multiple
+       copies, the related department can get e-copy from the system.
+
+(iii) Information Technology with the help of internet (including intranet and
+       extranet) are helping in resource procurement and mobilisation. For
+       example, production department can get materials from the stores without
+       issuing material requisition note physically. Similarly, purchase orders can
+
+© The Institute of Chartered Accountants of India
+1.18  COST AND MANAGEMENT ACCOUNTING
+
+       be initiated to the suppliers with the help of extranet. This enables an entity
+       to shift towards Just-in-Time (JIT) approach of inventory management and
+       production.
+
+(iv) Cost information for a cost centre or cost object is ascertained with accuracy
+       in timely manner. Each cost centre a cost object is codified and all related
+       costs are assigned to the cost objects or cost centres using assigned codes.
+       This automates the cost accumulation and ascertainment process. The cost
+       information can be customised as per the requirement. For example, when an
+       entity manufactures or provides services, managers are able to receive
+       information job-wise, batch-wise, process-wise, cost centre wise etc.
+
+(v) Uniformity in preparation of report, budgets and standards can be achieved
+       with the help of IT. ERP software plays an important role in bringing
+       uniformity irrespective of location, currency, language and regulations.
+
+(vi) Cost and revenue variance reports are generated in real time basis which
+       enables the management to take control measures immediately.
+
+(vii) IT enables an entity to monitor and analyse each process of manufacturing
+       or service activity closely to eliminate non value-added activities.
+
+The above are examples of few areas where Cost Accounting is done with the
+help of IT.
+
+9.1 Digital Costing System
+
+Like the conventional cost accounting system, Digital costing system too collects
+data, classify the data, account the data to get and process information to make
+decisions, but the difference is the method of collection, medium of storage, forms
+of analysis and reporting. Digital costing system links different business functions
+such as production, procurement, inventory management with the digital costing
+system of its suppliers, customers and the market through data sharing and
+network interaction.
+
+Digital Costing System provides data to get the following information:
+
+(i) Cost incurred on a cost object.
+(ii) Data on time spent.
+(iii) Data on resource consumption.
+(iv) Data on current market price of final product and raw materials.
+
+© The Institute of Chartered Accountants of India
+    INTRODUCTION TO COST AND MANAGEMENT                        1.11.919
+                                                   ACCOUNTING
+
+(v) Data on lead time and availability of materials.
+(vi) Data on product demand and trend.
+
+Benefits of Digital Costing System
+
+With the help of Artificial Intelligence (AI) and Machine learnings (ML) which helps
+in analysis of the Big data and apprehend the consumption and demand pattern,
+the following benefits can be achieved:
+
+(i) Ascertainment of cost with certainty on a cost object (the cost object is
+       discussed in later paragraph). This helps to analyse the activities for cost
+       allocation and apportionment.
+
+(ii) Analysis of data on time spent on each activity to study and formulate
+       incentive plans.
+
+(iii) Helps in material requirement planning and scheduling the material
+       procurement. Data on resource consumption can be analysed for resource
+       optimisation and finding the possibilities for zero wastage and Just-in Time
+       (JIT).
+
+(iv) Helps to identify and eliminate the non-value-added activities.
+
+(v) Data on resource consumption is helpful in setting the standards and
+       measurement of variances on real time basis.
+
+(vi) Data on current market prices of material and consumables helps to
+       estimate cost and setting standards on Marked to Market (M2M) basis.
+
+(vii) Extrapolation of data on customer behaviour towards the products to
+       predict the market demand. It is helpful is preparation of budgets and
+       planning of production.
+
+(viii) A better analysis of cost behaviour improves the cost benefit analysis and
+       equipping the management in informed decision making.
+
+     10. COST OBJECTS
+
+Cost object is anything for which a separate measurement of cost is required.
+Cost object may be a product, a service, a project, a customer, a brand category,
+an activity, a department or a programme etc.
+
+© The Institute of Chartered Accountants of India
+            1.20               COST AND MANAGEMENT ACCOUNTING
+
+Examples of cost objects are:
+
+Product     Smart phone, Tablet computer, SUV Car, Book etc.
+
+Service     An airline flight from Delhi to Mumbai, Concurrent audit
+            assignment, Utility bill payment facility etc.
+
+Project     Metro Rail project, Road projects etc.
+
+Activity    Quality inspection of materials, Placing of orders etc.
+
+Process     Refinement of crudes in oil refineries, melting of billets or ingots
+            in rolling mills etc.
+
+Department Production department, Finance & Accounts, Safety etc.
+
+Cost object remains in nucleus of cost classification and analysis of the cost
+behaviour. Classification of a cost element as direct, indirect, fixed or variable, all
+depends on cost object.
+
+10.1 Cost Units
+
+It is a unit of product, service or time (or combination of these) in relation to
+which costs may be ascertained or expressed.
+
+We may for instance determine the cost per ton of steel, per ton-kilometre of a
+transport service or cost per machine hour. Sometime, a single order or a contract
+constitutes a cost unit. A batch which consists of a group of identical items and
+maintains its identity through one or more stages of production may also be
+considered as a cost unit.
+
+Cost units are usually the units of physical measurement like number, weight, area,
+volume, length, time and value.
+
+A few typical examples of cost units are as follows:
+
+Industry or Product                                Cost Unit Basis
+
+Automobile                                         Number
+
+Cement                                             Ton/ per bag etc.
+
+Chemicals                                          Litre, gallon, kilogram, ton etc.
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                                      1.12.121
+                                              ACCOUNTING
+
+Power                                              Kilo-watt hour (kWh)
+Steel                                              Ton
+Transport                                          Passenger- kilometer
+Gas                                                Cubic feet
+
+Some examples from the CIMA terminology are as follows:
+
+Industry Sector             Cost unit
+Brewing                     Barrel
+Brick-making                1,000 bricks
+Coal mining                 Tonne/ton
+Electricity                 Kilowatt-hour (kWh)
+Engineering                 Contract, job
+Oil                         Barrel, tonne, litre
+Hotel/Catering              Room/meal
+Professional services       Chargeable hour, job, contract
+Education                   Course, enrolled student, successful student
+Hospitals                   Patient day
+Activity                    Cost unit
+Credit control              Accounts maintained
+Selling                     Customer call, value of sales, orders taken
+Materials storage/handling  Requisition unit issued/received, material
+                            movement, value issued/received
+Personnel administration    Personnel record
+
+10.2 Cost Driver
+
+A Cost driver is a factor or variable which effect level of cost. Generally, it is an
+activity which is responsible for cost incurrence. Level of activity or volume of
+production is the example of a cost driver. An activity may be an event, task, or
+unit of work etc.
+
+© The Institute of Chartered Accountants of India
+1.22          COST AND MANAGEMENT ACCOUNTING
+
+CIMA Official terminology defines cost driver as "Factor influencing the level of
+cost" Often used in the context of Activity Based Costing to denote the factor which
+links activity resource consumption to product outputs, for example the number of
+purchase orders would be a cost driver for procurement cost."
+
+Examples of cost drivers are number of machine set ups, number of purchase
+orders, hours spent on product inspection, number of tests performed etc.
+
+     11. RESPONSIBILITY CENTRES
+
+As the organization grows, its functions, organisational structure and other related
+functions also grow in terms of volume and complexity. To have a better control over
+the organisation, management delegates its responsibility and authority to various
+departments or persons. These departments or persons are known as responsibility
+centres and are held responsible for performance in terms of expenditure, revenue,
+profitability and return on investment. Performance of these responsibility centres
+are measured against some set standards (input-output ratio, budgets etc.) and
+evaluated against organisational goal and performance targets.
+
+                                     Types of Responsibility Centres
+
+Cost Centres  Revenue                              Profit Centres  Investment
+              Centres                                                Centres
+
+(i) Cost Centres: The responsibility centre which is held accountable for
+       incurrence of costs which are under its control. The performance of this
+       responsibility centre is measured against pre-determined standards or
+       budgets. The cost centres are of two types:
+
+       (a) Standard Cost Centre and (b) Discretionary Cost Centre
+
+       (a) Standard Cost Centre: Cost Centre where output is measurable and
+               input required for the output can be specified. Based on a well-established
+               study, an estimate of standard units of input to produce a unit of output
+               is set. The actual cost for inputs is compared with the standard cost. Any
+               deviation (variance) in cost is measured and analysed into controllable
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                       1.12.323
+                                              ACCOUNTING
+
+and uncontrollable cost. The manager of the cost centre is expected to
+comply with the standard and held responsible for adverse cost
+variances. The input-output ratio for a standard cost centre is clearly
+identifiable.
+
+(b) Discretionary Cost Centre: The cost centre whose output cannot be
+       measured in financial terms, thus input-output ratio cannot be defined.
+       The cost of input is compared with allocated budget for the activity.
+       Examples of discretionary cost centres are Research & Development
+       department, Advertisement department where output of these
+       department cannot be measured with certainty and co-related with cost
+       incurred on inputs.
+
+(ii) Revenue Centres: The responsibility centres which are accountable for
+       generation of revenue for the entity. Sales Department for example, is
+       responsible for achievement of sales target and revenue generation.
+       Though, revenue centres do not have control on expenditures it incurs but
+       sometimes expenditures related with selling activities like commission to
+       sales person etc. are incurred by revenue centres.
+
+(iii) Profit Centres: These are the responsibility centres which have both
+       responsibility of generation of revenue and incurrence of expenditures. Since,
+       managers of profit centres are accountable for both costs as well as
+       revenue, profitability is the basis for measurement of performance of these
+       responsibility centres. Examples of profit centres are decentralised branches
+       of an organisation.
+
+(iv) Investment Centres: These are the responsibility centres which are not only
+       responsible for profitability but also have the authority to make capital
+
+       investment decisions. The performance of these responsibility centres are
+       measured on the basis of Return on Investment (ROI) besides profit.
+       Examples of investment centres are Maharatna, Navratna and Miniratna
+       companies of Public Sector Undertakings of Central Government.
+
+     12. LIMITATIONS OF COST ACCOUNTING
+
+Like other branches of accounting, cost accounting also has certain limitations.
+The limitations of cost accounting are as follows:
+
+© The Institute of Chartered Accountants of India
+1.24  COST AND MANAGEMENT ACCOUNTING
+
+1. Expensive: It is expensive because analysis, allocation and absorption of
+       overheads requires considerable amount of additional work, and hence
+       additional money.
+
+2. Requirement of reconciliation: The results shown by cost accounts differ
+       from those shown by financial accounts. Thus preparation of reconciliation
+       statements is necessary to verify their accuracy.
+
+3. Duplication of work: It involves duplication of work as organization has to
+       maintain two sets of accounts i.e. Financial Accounts and Cost Accounts.
+
+     13. CLASSIFICATION OF COSTS
+
+It means the grouping of costs according to their common characteristics. The
+important ways of classification of costs are:
+(i) By Nature or Element
+(ii) By Functions
+(iii) By Variability or Behaviour
+(iv) By Controllability
+(v) By Normality
+(vi) By Costs for Managerial Decision Making
+
+13.1 By Nature or Element
+
+Under this type of classification of cost, total cost of a cost object is classified on
+the basis of element of cost i.e., material, labour, other expenses and overheads.
+A diagram as given below shows the elements of cost described as under:
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                                1.12.525
+                                              ACCOUNTING
+
+                                        ELEMENTS OF COST
+
+Material Cost                       Employee (Labour) Cost         Other Expenses
+
+Direct Material  Indirect Material       Direct        Indirect      Direct   Indirect
+       Cost              Cost         Employee       Employee      Expenses  Expenses
+                                    (Labour) Cost  (Labour) Cost
+
+                                                   Overheads
+
+                                    Production     Administration  Selling and
+                                    Overheads
+                                                   Overheads Distribution Overheads
+
+(i) Material: Material cost means cost of raw material required to make a
+       product into finished goods. The materials can be directly attributable to a
+       cost object or allocable on some reasonable basis where direct attribution is
+       not possible. Materials which are present in the finished product (cost
+       object) or can be economically identified in the product are termed as direct
+       materials. For example, cloth in dress making; materials purchased for a
+       specific job etc. However, in some cases a material may be direct but it is
+       treated as indirect; because it is used in small quantities, it is not
+       economically feasible to identify that quantity. Those materials which are
+       used for purposes ancillary to the business are also treated as Indirect
+       Materials.
+
+© The Institute of Chartered Accountants of India
+1.26  COST AND MANAGEMENT ACCOUNTING
+
+(ii) Labour: Wages paid to workers for converting the raw materials into
+       finished goods, is called labour cost/ labour which can be economically
+       identified or attributed wholly to a cost object is termed as direct labour. For
+       example, employee engaged on the actual production of the product or in
+       carrying out the necessary operations for converting the raw materials into
+       finished product.
+
+(iii) Other Expenses: All expenses other than material or labour which are
+       incurred for a particular cost object are termed as other Expenses. For
+       example, hire charges for some special machinery, cost of defective work
+       etc.
+
+(iv) Overheads: The aggregate of indirect material costs, indirect labour costs
+       and indirect expenses is termed as Overheads. The main groups into which
+       overheads may be subdivided are as follows:
+
+       · Production or Works Overheads: Indirect expenses which are
+               incurred in the factory and for the running of the factory. E.g.: rent,
+               power etc.
+
+       · Administration Overheads: Indirect expenses related to management
+               and administration of business. E.g.: office rent, lighting, telephone
+               etc.
+
+       · Selling Overheads: Indirect expenses incurred for marketing of a
+               commodity. E.g.: Advertisement expenses, commission to sales
+               persons etc.
+
+       · Distribution Overheads: Indirect expenses incurred for dispatch of
+               the goods E.g.: warehouse charges, packing(secondary) and loading
+               charges.
+
+13.2 By Functions
+
+Under this classification, costs are divided according to the function for which
+they have been incurred. It includes the following:
+
+(i) Production/ Manufacturing Cost
+
+(ii) Administration Cost
+
+(iii) Selling Cost
+
+© The Institute of Chartered Accountants of India
+    INTRODUCTION TO COST AND MANAGEMENT                        1.12.727
+                                                   ACCOUNTING
+
+(iv) Distribution Cost
+
+(v) Research and Development cost etc.
+
+The below chart shows the flow of costs in a cost sheet under functional
+classification:
+
+Direct Materials
+
+Direct Employees                                               Prime Cost
+(Labours)
+
+Direct Expenses
+
+                           Factory Overheads                   Factory Cost or
+Indirect Material                                              Works Cost
+
+Indirect Labour
+
+                   Administration Overheads
+
+Indirect Expenses                                              Cost of Goods Sold
+
+                   Selling and Distribution Overheads
+
+                                                               Cost of Sales
+
+13.3 By Variability or Behaviour
+
+Based on this classification, costs are classified into three groups viz., fixed,
+variable and semi-variable.
+
+    (a) Fixed costs­ These are the costs which are incurred for a period, and
+            which, within certain output and turnover limits, tend to be unaffected
+            by fluctuations in the levels of activity (output or turnover). They do not
+            tend to increase or decrease with the changes in output. For example,
+            rent, insurance of factory building etc., remain the same for different
+            levels of production.
+
+© The Institute of Chartered Accountants of India
+                       1.28       COST AND MANAGEMENT ACCOUNTING
+
+                                  Fixed Cost
+
+Cost (`)  40000
+          35000
+          30000                   Fixed Cost
+          25000
+          20000              100  200              300                400  500  600
+          15000
+          10000
+
+           5000
+                 0
+                    0
+
+                                                   Output (in units)
+
+(b) Variable Costs­ These costs tend to vary with the volume of activity. Any
+       increase in the activity results in an increase in the variable cost and vice-
+       versa. For example, cost of direct material, cost of direct labour, etc.
+
+                                  Variable Cost
+
+Cost (`)  60000
+          50000
+          40000              100  200              300                400  500  600
+          30000
+          20000
+          10000
+
+                0
+
+                  0
+
+                                                   Output (in units)
+
+(c) Semi-variable costs­ These costs contain both fixed and variable
+       components and are thus partly affected by fluctuations in the level of
+       activity. Examples of semi variable costs are telephone bills, gas and
+       electricity etc. Such costs are depicted graphically as follows:
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                                   1.12.929
+                                              ACCOUNTING
+
+13.3.1 Methods of segregating Semi-variable costs into fixed and
+variable costs
+
+                              Semi- Variable Cost
+
+Cost (`)  100000
+           80000
+           60000         100                       200  300  400      500       600
+           40000
+           20000
+                  0
+                      0
+
+                                                   Output (in units)
+
+The segregation of semi-variable costs into fixed and variable costs can be carried
+out by using the following methods:
+
+(a) Graphical method
+
+(b) High-Low method
+(c) Analytical method
+(d) Comparison by period or level of activity method
+(e) Least squares method
+(a) Graphical Method: Under this method, the following steps are followed:
+
+       (i) A large number of observations regarding the total costs at different
+               levels of output are plotted on a graph.
+
+       (ii) The output is plotted on the X-axis and the total cost is plotted on the Y-
+               axis.
+
+       (iii) Then, by judgment, a line of "best-fit", which passes through all or most
+               of the points, is drawn.
+
+       (iv) The point at which this line cuts the Y-axis indicates the total fixed cost
+               component in the total cost.
+
+       (v) If a line is drawn at this point parallel to the X-axis, this indicates the fixed
+               cost.
+
+© The Institute of Chartered Accountants of India
+1.30  COST AND MANAGEMENT ACCOUNTING
+
+(vi) The variable cost, at any level of output, is derived by deducting this fixed
+       cost element from the total cost.
+
+The following graph illustrates this:
+
+                                                   Fixed Overheads Line
+
+(b) High- Low Method: Under this method, difference between the total cost
+       at highest and lowest volume is divided by the difference between the sales
+       value at the highest and lowest volume. The quotient thus obtained gives us
+       the rate of variable cost in relation to sales value.
+
+       ILLUSTRATION 1: (Segregation of fixed cost and variable cost)
+
+                                                   Sales value Total cost
+
+                                                                         (`)     (`)
+
+  At the Highest volume                            1,40,000                      72,000
+  At the Lowest volume
+                                                                         80,000  60,000
+Thus, Variable Cost (` 12,000/` 60,000)
+                                                                         60,000  12,000
+
+= 1/5 or 20% of sales value = ` 28,000 (at highest volume)
+
+Fixed Cost ` 72,000 ­ ` 28,000 i.e., (20% of ` 1,40,000) = ` 44,000.
+
+Alternatively, ` 60,000 ­ ` 16,000 (20% of ` 80,000) = ` 44,000.
+
+(c) Analytical Method: Under this method an experienced cost accountant
+       tries to judge empirically what proportion of the semi-variable cost would
+       be variable and what would be fixed. The degree of variability is ascertained
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                       1.13.131
+                                              ACCOUNTING
+
+for each item of semi-variable expenses. For example, some semi-variable
+expenses may vary to the extent of 20% while others may vary to the extent
+of 80%. Although it is very difficult to estimate the extent of variability of an
+expense, the method is easy to apply. (Go through the following illustration
+for clarity).
+
+ILLUSTRATION 2: (Segregation of fixed cost and variable cost)
+
+       Suppose last month the total semi-variable expenses amounted to ` 3,000.
+
+       If the degree of variability is assumed to be 70%, then variable cost = 70%
+       of ` 3,000 = ` 2,100.
+
+       Fixed cost = ` 3,000 ­ ` 2,100 = ` 900.
+
+       Now in the future months, the fixed cost will remain constant, but the
+       variable cost will vary according to the change in production volume.
+
+       Thus, if in the next month production increases by 50%, the total semi-
+       variable expenses will be:
+
+       Fixed cost of ` 900, plus variable cost viz., ` 3,150 i.e., (` 2,100 (V.C.) plus
+       50% increase of V.C. i.e., ` 1,050) =, ` 4,050.
+
+(d) Comparison by period or level of activity method: Under this method,
+       the variable overhead may be determined by comparing two levels of
+       output with the amount of expenses at those levels. Since the fixed element
+       does not change, the variable element may be ascertained with the help of
+       the following formula.
+                                Change in the amount of expense
+                                 Change in the quantity of output
+
+Suppose the following information is available:
+
+January     Production Units                              Semi-variable expenses
+February                                                                (`)
+Difference            100                                               260
+                      140                                               300
+                      40                                                40
+
+© The Institute of Chartered Accountants of India
+           1.32           COST AND MANAGEMENT ACCOUNTING
+
+The variable cost:
+
+Change in  Semi-variable  expenses                 =    `  40     =  `  1/unit
+  Change   in production  volume                      40   units
+
+Thus, in January, the variable cost will be 100 × ` 1 = ` 100
+
+The fixed cost element will be (` 260 ­ ` 100) or ` 160.
+
+In February, the variable cost will be 140 × ` 1 = ` 140
+
+whereas the fixed cost element will remain the same, i.e., ` 160.
+
+(e) Least Square Method: This is the best method to segregate semi-variable
+       costs into its fixed and variable components. This is a statistical method and is
+       based on finding out a line of best fit for a number of observations.
+
+The method uses the linear equation y = mx + c, where
+
+`m' represents the variable element of cost per unit,
+
+`c' represents the total fixed cost,
+
+`y' represents the total cost,
+
+`x' represents the volume of output.
+
+The total cost is thus split into its fixed and variable elements by solving this
+equation.
+
+ILLUSTRATION 3: (Segregation of fixed cost and variable cost)
+
+                                                                                Level of activity
+
+Capacity %                                                                      60% 80%
+Volume (Labour hours) or `x'
+Semi-variable expenses (maintenance of plant) or `y'                            150  200
+
+                                                                                ` 1,200 ` 1,275
+
+Substituting the values of `x' and `y' in the equation, y = mx + c, at both the
+levels of activity, we get
+
+       1,200 = 150 m + c
+       1,275 = 200 m + c
+On solving the above equations, we get the value of `c'
+Fixed cost or `c' = ` 975 and Variable cost or `m' = ` 1.50 per labour hour.
+
+© The Institute of Chartered Accountants of India
+    INTRODUCTION TO COST AND MANAGEMENT                        1.13.333
+                                                   ACCOUNTING
+
+13.4 By Controllability
+
+Costs here may be classified into controllable and uncontrollable costs.
+
+(a) Controllable Costs: - Cost that can be controlled, typically by a cost, profit
+       or investment centre manager is called controllable cost. Controllable costs
+       incurred in a particular responsibility centre can be influenced by the action
+       of the manager heading that responsibility centre. For example, direct costs
+       comprising direct labour, direct material, direct expenses and some of the
+       overheads are generally controllable by the shop floor supervisor or the
+       factory manager.
+
+(b) Uncontrollable Costs - Costs which cannot be influenced by the action of a
+       specified member of an undertaking are known as uncontrollable costs. For
+       example, expenditure incurred by say, the tool room is controllable by the
+       foreman in-charge of that section but the share of the tool-room
+       expenditure which is apportioned to a machine shop is not controlled by
+       the machine shop foreman.
+
+Distinction between Controllable Cost and Uncontrollable Cost: The
+distinction between controllable and uncontrollable costs is not very prominent
+and is sometimes left to individual judgement. In fact, no cost is uncontrollable; it
+is only in relation to a particular individual that we may specify a particular cost to
+be either controllable or uncontrollable.
+
+13.5 By Normality
+
+According to this basis, cost may be categorised as follows:
+
+(a) Normal Cost - It is the cost which is normally incurred at a given level of
+       output under the conditions in which that level of output is normally
+       attained.
+
+(b) Abnormal Cost - It is the cost which is not normally incurred at a given
+       level of output in the conditions in which that level of output is normally
+       attained. It is charged to Costing Profit and loss Account.
+
+© The Institute of Chartered Accountants of India
+1.34  COST AND MANAGEMENT ACCOUNTING
+
+13.6 By Costs used in Managerial Decision Making
+
+According to this basis, cost may be categorised as follows:
+
+(a) Pre-determined Cost - A cost which is computed in advance before produc-
+       tion or operations start, on the basis of specification of all the factors
+       affecting cost, is known as a pre-determined cost.
+
+(b) Standard Cost - A pre-determined cost, which is calculated from
+       managements `expected standard of efficient operation' and the relevant
+       necessary expenditure. It may be used as a basis for price fixation and for
+       cost control through variance analysis.
+
+(c) Marginal Cost - The amount at any given volume of output by which
+       aggregate costs increases if the volume of output is increased or decreased
+       by one unit.
+
+(d) Estimated Cost - Kohler defines estimated cost as "the expected cost of
+       manufacture, or acquisition, often in terms of a unit of product computed
+       on the basis of information available in advance of actual production or
+       purchase". Estimated costs are prospective costs since they refer to
+       prediction of costs.
+
+(e) Differential Cost - (Incremental and decremental costs). It represents the
+       change (increase or decrease) in total cost (variable as well as fixed) due to
+       change in activity level, technology, process or method of production, etc.
+       For example, if any change is proposed in the existing level or in the
+       existing method of production, the increase or decrease in total cost or in
+       specific elements of cost as a result of this decision will be known as
+       incremental cost or decremental cost.
+
+(f) Imputed Costs - These costs are notional costs which do not involve any
+       cash outlay. Interest on capital, the payment for which is not actually made,
+       is an example of imputed cost. These costs are similar to opportunity costs.
+
+(g) Capitalized Costs -These are costs which are initially recorded as assets and
+       subsequently treated as expenses. Example, installation expenses on the
+       erection of a machine are added to the cost of a machine.
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                       1.13.535
+                                              ACCOUNTING
+
+(h) Product Costs - These are the costs which are associated with the purchase
+       and sale of goods (in the case of merchandise inventory). In the production
+       scenario, such costs are associated with the acquisition and conversion of
+       materials and all other manufacturing inputs into finished product for sale.
+       Hence, under marginal costing, variable manufacturing costs and under
+       absorption costing, total manufacturing costs (variable and fixed) constitute
+       inventoriable or product costs.
+
+(i) Opportunity Cost - This cost refers to the value of sacrifice made or benefit
+       of opportunity foregone in accepting an alternative course of action. For
+       example, a firm financing its expansion plan by withdrawing money from its
+       bank deposits. In such a case the loss of interest on the bank deposit is the
+       opportunity cost for carrying out the expansion plan.
+
+(j) Out-of-pocket Cost - It is that portion of total cost, which involves cash
+       outflow. This cost concept is a short-run concept and is used in decisions
+       relating to fixation of selling price in recession, make or buy, etc. Out­of­
+       pocket costs can be avoided or saved if a particular proposal under
+       consideration is not accepted.
+
+(k) Shut down Costs - Those costs, which continue to be, incurred even when a
+       plant is temporarily shut-down e.g. rent, rates, depreciation, etc. These costs
+       cannot be eliminated with the closure of the plant. In other words, all fixed
+       costs, which cannot be avoided during the temporary closure of a plant, will be
+
+       known as shut down costs.
+
+(l) Sunk Costs - Historical costs incurred in the past are known as sunk costs.
+       They play no role in decision making in the current period. For example, in
+       the case of a decision relating to the replacement of a machine, the written
+       down value of the existing machine is a sunk cost and therefore, not
+       considered.
+
+(m) Absolute Cost - These costs refer to the cost of any product, process or unit in
+       its totality. When costs are presented in a statement form, various cost
+       components may be shown in absolute amount or as a percentage of total
+       cost or as per unit cost or all together. Here the costs depicted in absolute
+       amount may be called absolute costs and are base costs on which further
+       analysis and decisions are made.
+
+© The Institute of Chartered Accountants of India
+               1.36  COST AND MANAGEMENT ACCOUNTING
+
+(n) Discretionary Costs ­ Such costs are not tied to a clear cause and effect
+       relationship between inputs and outputs. They usually arise from periodic
+       decisions regarding the maximum outlay to be incurred. Examples include
+       advertising, public relations, executive training etc.
+
+(o) Period Costs - These are the costs, which are not assigned to the products
+       but are charged as expenses against the revenue of the period in which they
+       are incurred. All non-manufacturing costs such as general & administrative
+       expenses, selling and distribution expenses are recognised as period costs.
+
+(p) Engineered Costs - These are costs that result specifically from a clear
+       cause and effect relationship between inputs and outputs. The relationship is
+       usually personally observable. Examples of inputs are direct material costs,
+       direct labour costs etc. Examples of output are cars, computers etc.
+
+(q) Explicit Costs - These costs are also known as out-of-pocket costs and refer
+       to costs involving immediate payment of cash. salaries, wages, postage and
+       telegram, printing and stationery, interest on loan etc. are some examples of
+       explicit costs involving immediate cash payment.
+
+(r) Implicit Costs - These costs do not involve any immediate cash payment. They
+       are not recorded in the books of account. They are also known as economic
+       costs.
+
+     14. METHODS OF COSTING
+
+Different industries follow different methods of costing because of the differences
+in the nature of their work. The various methods of costing are as follows:
+
+Methods                                            Description
+
+Single or Output Under this method, the cost of a product is ascertained, the
+
+Costing              product being the only one produced like bricks, coals, etc.
+
+Batch Costing        This method is the extension of job costing. A batch may
+                     represent a number of small orders passed through the
+                     factory in batch. Each batch here is treated as a unit of cost
+                     and thus separately costed. Here cost per unit is
+                     determined by dividing the cost of the batch by the number
+                     of units produced in the batch.
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                             1.13.737
+                                              ACCOUNTING
+
+Job Costing       Under this method of costing, cost of each job is
+                  ascertained separately. It is suitable in all cases where work
+                  is undertaken on receiving a customer's order like a
+                  printing press, motor workshop, etc.
+
+Contract Costing  Under this method, the cost of each contract is ascertained
+                  separately. It is suitable for firms engaged in the
+                  construction of bridges, roads, buildings etc.
+
+Process Costing   Under this method, the cost of completing each stage of
+                  work is ascertained, like cost of making pulp and cost of
+                  making paper from pulp. In mechanical operations, the cost
+                  of each operation may be ascertained separately; the name
+                  given is operation costing.
+
+Operating Costing It is used in the case of concerns rendering services like
+                              transport, supply of water, retail trade etc.
+
+Multiple Costing  It is a combination of two or more methods of costing
+                  outlined above. Suppose a firm manufactures bicycles
+                  including its components; the parts will be costed by the
+                  system of job or batch costing but the cost of assembling
+                  the bicycle will be computed by the single or output
+                  costing method. The whole system of costing is known as
+                  multiple costing.
+
+The following table summarises the various methods of costing applied in
+different industries:
+
+Nature of Output          Method                          Cost  Examples of
+                                                                 Industries
+A Series of Processes     Process costing          For each
+Construction of building  or Operation             process      Sugar
+                          Costing
+                                                   For each     Real estate
+                          Contract                 contract
+                          Costing
+
+© The Institute of Chartered Accountants of India
+         1.38              COST AND MANAGEMENT ACCOUNTING
+
+Similar units of a Single  Unit or output                  For the entire  Cold Drinks
+Product, produced by                                       activity, but
+Single Process             or                      Single  averaged for
+                                                           the output
+                           Costing
+
+Rendering of Services      Operating                       For all services Hospitals
+                           Costing
+
+Customer Specifications: Job Costing                       For each order/ Advertising
+single Unit                                                assignment/job
+
+Consisting of multiple Multiple                            Combination of Car
+varieties of activities and Costing
+processes                                                  any method      Assembly
+
+Industries also follows Activity Based Costing which is an accounting
+methodology that assigns costs to activities rather than products or services. ABC
+is a technique which involves identification of cost with each cost driving activity
+and making it as the basis for apportionment of costs over different cost objects/
+jobs/ products/customers or services.
+
+15. TECHNIQUES OF COSTING
+
+For ascertaining cost, following types of costing are usually used.
+
+Techniques                                         Description
+
+Uniform        When a number of firms in an industry agree among
+Costing        themselves to follow the same system of costing in details,
+               adopting common terminology for various items and proc-
+               esses they are said to follow a system of uniform costing.
+
+               Advantages of such a system are:
+
+               (i) A comparison of the performance of each of the firms
+                    can be made with that of another, or with the average
+                    performance in the industry.
+
+               (ii) Under such a system, it is also possible to determine
+                    the cost of production of goods which is true for the
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                       1.13.939
+                                              ACCOUNTING
+
+            industry as a whole. It is found useful when tax-relief or
+            protection is sought from the Government.
+
+Marginal    It is defined as the ascertainment of marginal cost by
+Costing     differentiating between fixed and variable costs. It is used to
+            ascertain effect of changes in volume or type of output on profit.
+
+Standard           It is the name given to the technique whereby standard
+Costing     and costs are pre-determined and subsequently compared with
+Variance
+Analysis           the recorded actual costs. It is thus a technique of cost
+                   ascertainment and cost control. This technique may be used
+                   in conjunction with any method of costing. However, it is
+                   especially suitable where the manufacturing method
+                   involves production of standardised goods of repetitive
+                   nature.
+
+Historical  It is the ascertainment of costs after they have been
+Costing     incurred. This type of costing has limited utility.
+
+            · Post Costing : It means ascertainment of cost after
+                  production is completed.
+
+            · Continuous costing : Cost is ascertained as soon as the
+                  job is completed or even when the job is in progress.
+
+Absorption  It is the practice of charging all costs, both variable and
+Costing     fixed to operations, processes or products. This differs from
+            marginal costing where fixed costs are excluded.
+
+© The Institute of Chartered Accountants of India
+1.40  COST AND MANAGEMENT ACCOUNTING
+
+SUMMARY
+
+ Cost:
+
+        The amount of expenditure (actual or notional) incurred on or
+               attributable to a specified article, product or activity. (as a noun)
+
+        To ascertain the cost of a specified thing or activity. (as a verb)
+
+ Costing: It is the technique and process of ascertaining costs.
+
+ Cost Accounting: It is the process of accounting for cost which begins with
+       the recording of income and expenditure or the bases on which they are
+       calculated and ends with the preparation of periodical statements and
+       reports for ascertaining and controlling costs.
+
+ Cost Accountancy: It has been defined as "the application of costing and
+       cost accounting principles, methods and techniques to the science, art and
+       practice of cost control and the ascertainment of profitability. It includes the
+       presentation of information derived there from for the purpose of
+       managerial decision making."
+
+ Management Accounting: As per CIMA Official Terminology "Management
+       Accounting is the application of the principles of accounting and financial
+       management to create, protect, preserve and increase value for the
+       stakeholders of for-profit and not-for-profit enterprises in the public and
+       private sectors."
+
+ Cost Management: It is an application of management accounting
+       concepts, methods of collections, analysis and presentation of data to
+       provide the information needed to plan, monitor and control costs.
+
+ Cost Control: Maintaining discipline in expenditure is one of the main
+       objective of a good cost and management accounting system. It ensures
+       that expenditures are in consonance with predetermined set standard and
+       any variation from these set standards is noted and reported on continuous
+       basis.
+
+ Cost Reduction: It may be defined "as the achievement of real and
+       permanent reduction in the unit cost of goods manufactured or services
+       rendered without impairing their suitability for the use intended or
+       diminution in the quality of the product."
+
+© The Institute of Chartered Accountants of India
+INTRODUCTION TO COST AND MANAGEMENT                       1.14.141
+                                              ACCOUNTING
+
+ Cost Objects: Cost object is anything for which a separate measurement of
+       cost is required. Cost object may be a product, a service, a project, a
+       customer, a brand category, an activity, a department or a programme etc.
+
+ Cost Units: It is a unit of product, service or time (or combination of these)
+       in relation to which costs may be ascertained or expressed.
+
+ Cost Drivers: A Cost driver is a factor or variable which effect level of cost.
+       Generally, it is an activity which is responsible for cost incurrence. Level of
+       activity or volume of production is the example of a cost driver. An activity
+       may be an event, task, or unit of work etc.
+
+ Responsibility Centres: To have a better control over the organisation,
+       management delegates its responsibility and authority to various
+       departments or persons. These departments or persons are known as
+       responsibility centres and are held responsible for performance in terms of
+       expenditure, revenue, profitability and return on investment.
+
+ Cost Centres: The responsibility centre which is held accountable for
+       incurrence of costs which are under its control. The performance of this
+       responsibility centre is measured against pre-determined standards or
+       budgets.
+
+ Revenue Centres: The responsibility centres which are accountable for
+       generation of revenue for the entity.
+
+ Profit Centres: These are the responsibility centres which have both
+       responsibility of generating revenue and incurrence of expenditures. Since,
+       managers of profit centres are accountable for both costs as well as
+       revenue, profitability is the basis for measurement of performance of these
+       responsibility centres.
+
+ Investment Centres: These are the responsibility centres which are not only
+       responsible for profitability but also has the authority to make capital
+       investment decisions. The performance of these responsibility centres are
+       measured on the basis of Return on Investment (ROI) besides profit.
+
+© The Institute of Chartered Accountants of India
+                  1.42                  COST AND MANAGEMENT ACCOUNTING
+
+ Classification of Costs:
+
+                                        Classification of Costs
+
+By Nature or      By Functions          By Variability          By          By Normality      By Costs for
+   Element                              or Behaviour    Controllability                       Managerial
+                    Direct Material                                                       Decision Making*
+       Materials            Cost            Fixed Cost
+                                                         Controllable       Normal Cost
+         Labour    Direct Employee           Variable          Cost
+                     (Labour) Cost              Cost                         Abnormal
+          Other                                         Uncontrollable           Cost
+       Expenses     Direct Expenses            Semi-           Cost
+                                              variable
+      Overheads       Production/
+                    Manufacturing               Cost
+
+                       Overheads
+
+                     Administration
+                        Overheads
+
+                     Selling Overheads
+
+                       Distribution
+                        Overheads
+
+                      Research and
+                  Development costs
+
+                             etc.
+
+     By Costs for       Opportunity Cost                Out-of-pocket Cost    Implicit Cost
+     Managerial            Product Cost                   Shut down Cost      Explicit Cost
+ Decision Making*                                             Sunk Cost     Engineered Cost
+                        Capitalized Cost                   Absolute Cost       Period Cost
+Pre-determined Cost       Imputed Cost
+                                                        Discretionary Cost
+    Standard Cost       Differential Cost
+
+    Marginal Cost
+
+    Estimated Cost
+
+© The Institute of Chartered Accountants of India
+    INTRODUCTION TO COST AND MANAGEMENT                        1.14.343
+                                                   ACCOUNTING
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1. .................... is anything for which a separate measurement is required.
+       (a) Cost unit
+       (b) Cost object
+       (c) Cost driver
+       (d) Cost centre
+
+2. Which of the following is true about Cost control:
+       (a) It is a corrective function
+       (b) It challenges the set standards
+       (c) It ends when targets achieved
+       (d) It is concerned with future
+
+3. Cost units used in power sector is:
+       (a) Kilometer (K.M)
+       (b) Kilowatt-hour (kWh)
+       (c) Number of electric points
+       (d) Number of hours
+
+4. Process Costing method is suitable for
+       (a) Transport sector
+       (b) Chemical industries
+       (c) Dam construction
+       (d) Furniture making
+
+5. Which of the following is Not true about the cost control and cost reduction:
+       (a) Cost control seeks to attain lowest possible cost under best conditions.
+       (b) Cost control emphasises on past and present.
+
+© The Institute of Chartered Accountants of India
+1.44  COST AND MANAGEMENT ACCOUNTING
+
+       (c) Cost reduction is a corrective function. It operates even when an efficient
+               cost control system exists.
+
+       (d) Cost control ends when targets are achieved.
+6. The advantage of using IT in Cost Accounting does not include:
+
+       (a) Integration of various functions
+       (b) Stock needs to be reconciled with Goods Received Note
+       (c) Reduction in multicity of documents
+       (d) Customised reports can be prepared.
+7. A taxi provider charges minimum ` 80 thereafter ` 12 per kilometer of distance
+       travelled, the behaviour of conveyance cost is:
+       (a) Fixed Cost
+       (b) Semi-variable Cost
+       (c) Variable Cost
+       (d) Administrative cost.
+8. A Ltd. has three production department, and each department has two machines,
+       which of the following cannot be treated as cost centre for cost allocation:
+       (a) Machines under the production department
+       (b) Production departments
+       (c) Both Production department and machines
+       (d) A Ltd.
+9. Which of the following is an example of functional classification of cost:
+       (a) Direct Material Cost
+       (b) Fixed Cost
+       (c) Administrative Overheads
+       (d) Indirect Overheads.
+
+© The Institute of Chartered Accountants of India
+    INTRODUCTION TO COST AND MANAGEMENT                                  1.14.545
+                                                   ACCOUNTING
+
+10. Ticket counter in a Railway Station is an example of
+       (a) Cost Centre
+       (b) Revenue Centre
+       (c) Profit Centre
+       (d) Investment Centre
+
+Theoretical Questions
+
+1. DESCRIBE the main objectives of introduction of a Cost and Management
+       Accounting System in a manufacturing organization.
+
+2. DISCUSS the different cost centres that on organization can have.
+
+3. DISCUSS cost classification based on variability and controllability.
+
+4. DISCUSS the essential features of a good cost accounting system.
+
+5. DESCRIBE the factors which are to be considered before installing a system of
+       cost accounting.
+
+6. DISCUSS the four different methods of costing along with their applicability to
+       concerned industry.
+
+7. STATE the method of costing and the suggested unit of cost for the following
+       industries:
+
+(a) Transport         (b) Power                                (c) Hotel
+
+(d) Hospital          (e) Steel                                (f) Coal
+
+(g) Bicycles          (h) Bridge Construction (i) Interior Decoration
+
+(j) Advertising       (k) Furniture                            (l) Brick-works
+
+8. WRITE a note on the following, indicating in which kinds of industries or
+       undertakings, the different methods could be suitably applied:
+
+(a) Single or Output Costing                       (b) Batch Costing
+
+(c) Process Costing                                (d) Operating Costing
+
+(e) Contract Costing                               (f) Multiple Costing
+
+© The Institute of Chartered Accountants of India
+1.46  COST AND MANAGEMENT ACCOUNTING
+
+ANSWERS
+
+Answers to the MCQs
+
+1. (b) 2. (c) 3. (b) 4. (b) 5. (a) 6. (b)
+7. (b) 8. (d) 9. (c) 10. (b)
+
+Answers to the Theoretical Questions
+
+1. Please refer paragraph 2
+2. Please refer paragraph 11
+3. Please refer paragraph 13
+4. Please refer paragraph 7
+5. Please refer paragraph 8
+6. Please refer paragraph 14
+7. Please refer paragraph 14 & 10
+8. Please refer paragraph 14
+
+© The Institute of Chartered Accountants of India
+

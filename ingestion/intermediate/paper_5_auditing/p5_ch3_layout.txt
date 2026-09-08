@@ -1,0 +1,3665 @@
+    CHAPTER  3
+
+    RISK ASSESSMENT
+    AND INTERNAL
+    CONTROL
+
+                                                       LEARNING OUTCOMES
+
+..  After studying this chapter, you would be able to understand-
+
+     Meaning of audit risk and variables affecting it.
+
+     Risk assessment procedures.
+
+     Concept of materiality in planning and performing an audit.
+     Importance of understanding the entity and its environment.
+     Meaning, objectives, benefits and limitations of internal control.
+
+     Components of internal control.
+
+     Whether all the controls are relevant to an audit.
+
+     Nature and Extent of the Understanding of Relevant Controls.
+
+     Risks that require special audit consideration.
+
+     Evaluation of Internal control system-Benefits and methods.
+
+     Testing of internal control.
+     Automated environments-its key features.
+     Risks arising from use of IT Systems.
+     Types of Controls in an automated environment.
+
+     Importance of data analytics for audit.
+
+     Internal financial controls as per regulatory requirements.
+
+     Auditor's responses to assessed risks.
+
+     Practicality of above concepts by studying through examples and case studies.
+
+    © The Institute of Chartered Accountants of India
+3.2                AUDITING AND ETHICS
+
+CHAPTER OVERVIEW
+
+Understanding the      Audit Risk                               Identify & Assess
+   Entity and its                                                Risk of Material
+    Environment    Risk Assessment                                Misstatement
+                             &
+
+                   Internal Control
+
+                   Risk Assessment
+                      Procedures
+
+                                                   Automated
+                                                   Environment
+
+                   SA - 315, SA                                 IT Related
+                       320 &                                       Risks
+                      SA 330
+
+       Data                  DIGITAL                            Controls &
+     Analytics                AUDIT                             Types of IT
+
+                                                                 Controls
+
+                    Testing                                     Impact on
+                   Methods                                       Controls
+
+                                                   Internal
+                                                   Financial
+                                                   Controls
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.3
+
+Sameer had now subscribed to online subscription of a pink newspaper using his
+android phone. He was getting regular news updates pertaining to financial matters
+of companies. While going through such updates, he stumbled upon one report
+relating to audited accounts of a listed company. Scrolling the same, he gathered
+that SEBI had referred the matter to regulator for further action.
+
+He was flummoxed. He had learnt that audit is carried out after proper planning
+and performing audit procedures. However, the news report was hinting at
+possibility of inappropriate opinion expressed by the auditor. Was it a single odd
+case? Or is there a chance of inappropriate opinion being expressed by an auditor
+when there are significant wrong doings in financial statements in every audit?
+What is this risk known as? What causes presence of this risk? Can't it be eliminated
+completely? How this risk can be addressed? He needed answers to such
+questions.
+
+It was clear to him that a meaningful and effective audit is possible only after
+gaining knowledge about client's business. What are the specifics about it? It
+cannot be limited merely to understanding about nature of client's business. Apart
+from this, it must include a study and evaluation of client's systems and controls.
+What system has been devised and put into operation by the client to carry out its
+business efficiently and effectively? How the client is ensuring reliability of financial
+reporting? All these questions should be important to an auditor.
+
+Whether gaining knowledge of client's systems and controls is enough? Shouldn't
+it be followed up with actual testing of client's controls? It is only when controls
+are actually tested, these can be relied upon. A thought was gaining in his mind
+how auditor responds to the risks. Is testing of controls enough or something more
+to be done?
+
+He already knew how actively business entities are using technology to develop
+their systems with minimal human intervention. Shouldn't use of technology ease
+up the things? Can use of technology also involve risks which may be relevant to
+an auditor so that he doesn't give an inappropriate opinion? To satiate his mind,
+he turned to Chapter 3.
+
+© The Institute of Chartered Accountants of India
+3.4  AUDITING AND ETHICS
+
+     1. AUDIT RISK
+
+Audit risk means the risk that the auditor gives an inappropriate audit opinion when
+the financial statements are materially misstated.
+
+It means that an auditor expresses an unmodified opinion when financial
+statements are materially misstated. In such a case, not only reputation of auditor
+would be damaged, but he could also invite regulatory action from professional
+body and could face probable legal action by intended users.
+
+To avoid such unpleasant consequences, the auditor will plan and perform the audit
+in such a way that audit risk is reduced to an acceptably low level. SA-200 states
+that the auditor shall obtain sufficient appropriate audit evidence to reduce audit
+risk to an acceptably low level and thereby enable the auditor to draw reasonable
+conclusions on which to base the auditor's opinion.
+
+Consider, for example, that profits of a company have been increased artificially by
+showing fake revenues of sizeable amounts in its financial statements. In such a
+case, financial statements are materially misstated. The probability, that auditor in
+such a case, expresses an inappropriate audit opinion is referred to as audit risk. It
+is the possibility that auditor expresses an unmodified opinion even when
+financial statements are materially misstated.
+
+Audit risk is a function of the risks of material misstatement and detection risk.
+
+1.1 Risks of material misstatement
+
+SA 200 states that risk of material statement is the risk that the financial statements
+are materially misstated prior to audit. It simply means that there is a probability
+of frauds or errors in financial statements before audit.
+
+What is meant by misstatement?
+
+Misstatement refers to a difference between the amount, classification,
+presentation, or disclosure of a reported financial statement item and the amount,
+classification, presentation, or disclosure that is required for the item to be in
+accordance with the applicable financial reporting framework. Misstatements can
+arise from error or fraud.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.5
+
+Few examples of misstatements could be: -
+
+ Charging of an item of capital expenditure to revenue or vice-versa
+ Difference in disclosure of a financial statement item vis-à-vis its requirement in
+
+       applicable financial reporting framework
+ Selection or application of inappropriate accounting policies
+
+ Difference in accounting estimate of a financial statement item vis-à-vis its
+       appropriateness in applicable financial reporting framework
+
+ Intentional booking of fake expenses in statement of profit and loss
+
+ Overstating of receivables in financial statements by not writing off irrecoverable
+       debts
+
+ Overstating or understating inventories
+
+The risks of material misstatement may exist at two levels: -
+
+(i) The overall financial statement level
+
+(ii) The assertion level for classes of transactions, account balances, and
+       disclosures.
+
+Risks of material misstatement at the overall financial statement level refer to
+risks of material misstatement that relate pervasively to the financial statements as
+a whole and potentially affect many assertions.
+
+Risks of material misstatement at the assertion level are assessed in order to
+determine the nature, timing, and extent of further audit procedures necessary to
+obtain sufficient appropriate audit evidence. This evidence enables the auditor to
+express an opinion on the financial statements at an acceptably low level of audit
+risk.
+
+1.2 Components of risk of material misstatement
+
+The risk of material misstatement at assertion level comprises of two
+components i.e., inherent risk and control risk. Both inherent risk and control
+risk are the entity's risks and they exist independently of the audit of financial
+statements. Inherent risk and control risk are influenced by the client. These are
+entity's risks and are not influenced by the auditor.
+
+© The Institute of Chartered Accountants of India
+3.6  AUDITING AND ETHICS
+
+1.2A Inherent risk
+
+Inherent risk is the susceptibility of an assertion about a class of transaction,
+account balance or disclosure to a misstatement that could be material, either
+individually or when aggregated with other misstatements before consideration of
+any related controls as described in SA-200.
+
+There is always a risk that before considering any existence of internal control in an
+entity, a particular transaction, balance of an account or a disclosure required to be
+made in the financial statements of an entity have a chance of being misstated and
+such misstatement can be material. This risk is known as inherent risk.
+
+Inherent risk is higher for some assertions and related classes of transactions,
+account balances, and disclosures than for others. For example, it may be higher
+for complex calculations.
+
+Inherent risk factors are considered while designing tests of controls and
+substantive procedures. Category of auditor's assessment lower or higher, each
+category covers a range of degrees of inherent risk. Auditor may assess the inherent
+risk of two different assertions as lower while recognizing that one assertion has
+less inherent risk than the other, although both have been assessed as lower.
+
+It is important to consider the reason for each identified inherent risk even if the
+risk is lower, when auditor designs tests of controls and substantive procedures.
+
+External circumstances giving rise to business risks may also influence inherent risk.
+For example, technological developments might make a particular product
+obsolete. Factors in the entity and its environment may also influence the inherent
+risk related to a specific assertion.
+
+Few examples of inherent risks could include: -
+
+ An accounting standard provides guidance on some complex issue which
+       might not be understood by the management. Therefore, recording of this
+       issue in financial statements carries inherent risk of being misstated.
+
+ There are large number of business failures in an industry. Therefore,
+       assertions in financial statements of an entity operating in such an industry
+       carry an inherent risk of being misstated.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.7
+
+1.2B Control risk
+
+In accordance with SA-200, control risk is the risk that a misstatement that could
+occur in an assertion about a class of transaction, account balance or disclosure
+and that could be material, either individually or when aggregated with other
+misstatements, will not be prevented, or detected and corrected, on a timely basis
+by the entity's internal control.
+
+Control risk is a risk that internal control existing and operating in an entity would
+not be efficient enough to stop from happening, or find and then rectify in an
+appropriate time, any material misstatement relating to a transaction, balance of
+an account or disclosure required to be made in the financial statements of that
+entity. Therefore, in a way, it can be said that there exists an inverse relation
+between control risk and efficiency of internal control of an entity. When efficiency
+of internal control of an entity is high, the control risk is low and when efficiency of
+internal control of that entity is low, the control risk is high.
+
+Examples of control risk could include: -
+
+ A company has devised control that cash and cheque books should be kept
+       in a locked safe and access is granted to authorized personnel only. There is
+       risk that control is not being followed.
+
+ An entity has devised a control that fire extinguishers and smoke detectors
+       are in place and are in working condition at all times to reduce the risk of
+       damage to inventories caused by fire. There is a risk that fire extinguishers in
+       place are expired and are not being refilled. Similarly, there is a possibility
+       that smoke detectors are not working.
+
+ A company has devised a control relating to petty cash that items of
+       expenditure of only less than ` 10000 should be routed through imprest
+       system of petty cash. There is a risk that control is not being followed.
+
+1.3 Detection risk
+
+SA 200 defines detection risk as the risk that the procedures performed by the
+auditor to reduce audit risk to an acceptably low level will not detect a
+misstatement that exists and that could be material, either individually or when
+aggregated with other misstatements.
+
+For example, auditor of a company uses certain audit procedures for the purpose
+
+© The Institute of Chartered Accountants of India
+3.8  AUDITING AND ETHICS
+
+of obtaining audit evidence and reducing audit risk, but still there will remain a risk
+that audit procedures used by the auditor may not be able to detect a misstatement
+which by nature is material, then that risk is known as detection Risk.
+
+Detection risk comprises sampling and non-sampling risk.
+
+ Sampling risk is the risk that the auditor's conclusion based on a sample may
+       be different from the conclusion if the entire population were subjected to the
+       same audit procedure. It simply means that the sample was not representative
+       of the population from which it was chosen.
+
+ Non-sampling risk is the risk that the auditor reaches an erroneous conclusion
+       for any reason not related to sampling risk. Like an auditor may reach an
+       erroneous conclusion due to application to some inappropriate audit procedure.
+
+Examples of detection risk could include: -
+
+ Sizeable work-in-progress inventories are expected in financial statements of a
+       company. However, auditor of the company does not devote time to attending
+       inventory count. Instead, he chooses to rely upon alternative audit procedures.
+
+ The auditor of a company has audited revenue of a company by taking a
+       sample. However, there is a risk that sample of revenue is not representative
+       of overall revenue.
+
+The auditor can only influence detection risk. Inherent risk and control risk belong
+to the entity and are influenced by the entity. Therefore, auditor must reduce
+detection risk in order to keep audit risk at low level. Detection risk may be
+reduced by increasing area of checking, testing larger samples and by
+including competent and experienced persons in the engagement team.
+
+1.4 Audit risk-What is not included?
+
+Audit risk is a technical term related to the process of auditing; it does not refer to
+the auditor's business risks such as loss from litigation, adverse publicity, or other
+events arising in connection with the audit of financial statements.
+
+For purposes of the SAs, audit risk does not include the risk that the auditor might
+express an opinion that the financial statements are materially misstated when they
+are not. This risk is ordinarily insignificant.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL                              3.9
+
+1.5 Assessment of risks- A matter of professional
+      Judgment
+
+As discussed at the outset, audit risk is a function of the risks of material
+misstatement and detection risk. The assessment of risks is based on audit
+procedures to obtain information necessary for that purpose and evidence
+obtained throughout the audit. The assessment of risks is a matter of professional
+judgment, rather than a matter capable of precise measurement. The distinguishing
+feature of the professional judgment expected of an auditor is that it is exercised
+by an auditor whose training, knowledge and experience have assisted in
+developing the necessary competencies to achieve reasonable judgments.
+
+An Overview of Audit risk
+
+Checkbox Audit risk- What is included?
+
+   Audit risk is the risk that the auditor gives an inappropriate audit
+
+   opinion when the financial statements are materially misstated.
+
+   A function of risks of material misstatement and detection risk.
+
+X  Auditor's business risks such as loss from litigation, adverse publicity, or
+
+   other events arising in connection with the audit of financial statements.
+
+X  Risk that the auditor might express an opinion that the financial
+
+   statements are materially misstated when they are not.
+
+                                                   Audit risk
+
+   Risks of material                                           Detection risk
+     misstatement
+
+Inherent risk  Control risk                        Sampling risk  Non-Sampling
+                                                                         risk
+
+© The Institute of Chartered Accountants of India
+3.10  AUDITING AND ETHICS
+
+1.5.1 Combined Assessment of the Risk of Material Misstatement
+
+Standards on auditing do not ordinarily refer to inherent risk and control risk
+separately, but rather to a combined assessment of the "risks of material
+misstatement". However, the auditor may make separate or combined assessments
+of inherent and control risk depending on preferred audit techniques or
+methodologies and practical considerations. The assessment of the risks of material
+misstatement may expressed in quantitative terms, such as in percentages, or in
+non-quantitative terms. In any case, the need for the auditor to make appropriate
+risk assessments is more important than the different approaches by which they
+may be made.
+
+It can be concluded from the above that: -
+
+                 Audit risk = Risks of material misstatement X Detection risk
+
+Since risks of material misstatement is a function of inherent risk and control risk,
+it can also be shown as: -
+
+                    Audit risk = Inherent risk X Control risk X Detection risk
+
+ILLUSTRATION 1
+
+XYZ Ltd is engaged in the business and running several stores dealing in variety of
+items such as ready made garments for all seasons, shoes, gift items, watches etc. There
+are security tags on each and every item. Moreover, inventory records are physically
+verified on monthly basis.
+
+Discuss the types of inherent, control and detection risks as perceived by the auditor.
+
+SOLUTION
+
+Inherent Risk: Because items may have been misappropriated by employees,
+therefore, risk to the auditor is that inventory records would be inaccurate.
+
+Control Risk: There is a security tag on each item displayed. Moreover, inventory
+records are physically verified on monthly basis. Despite various controls being
+implemented at the stores, still collusion among employees may be there and risk
+to auditor would again be that inventory records would be inaccurate.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.11
+
+Detection Risk: Auditor checks the efficiency and effectiveness of various control
+systems in place. He would do that by making observation, inspection, enquiry, etc.
+In addition to these, the auditor would also employ sampling techniques to check
+few sales transactions from beginning to end. However, despite all these
+procedures, the auditor may not detect the items which have been stolen or
+misappropriated.
+
+ILLUSTRATION 2
+
+A Partnership Firm of Chartered Accountants HT and Associates was appointed to
+audit the books of accounts of Wind and Ice Limited for the financial year 2020-21.
+There was a risk that HT and Associates would give an inappropriate audit opinion if
+the financial statements of Wind and Ice Limited are materially misstated. State the
+Risk mentioned in the question
+
+SOLUTION
+
+The risk mentioned in the question is known as Audit Risk, because risk that auditor
+of a company will give an inappropriate audit opinion if the financial statements of
+that company are materially misstated is known as Audit Risk.
+
+Test Your Understanding 1
+
+Wear & Tear Private Limited is a "start-up" engaged in providing holistic solutions
+to problem of paddy stubble burning mainly catering to needs of farmers of North
+western India. Due to importance given by governments to this issue, companies
+have entered in the market in past few years. Many of these companies have not
+been successful and have gone bust. As an auditor of the company, can you spot
+the component of risks of material misstatement involved in above?
+
+Test Your Understanding 2
+
+A company has devised a control that its inventory of perishable goods is stored in
+appropriate conditions- in a controlled environment to prevent any damages to
+inventory. Responsibility is fixed on two persons to monitor environment using
+sensors and to report on deviations. Identify the component of risks of material
+misstatement involved as an auditor of the company.
+
+© The Institute of Chartered Accountants of India
+3.12  AUDITING AND ETHICS
+
+Test Your Understanding 3
+
+Shree Foods Private Limited is engaged in manufacturing of garlic bread. The
+auditors of company have planned audit procedures in respect of recognition of
+revenues of the company. Despite that, there is a possibility that misstatements in
+revenue recognition are not identified by planned audit procedures. Which risk is
+being alluded to?
+
+1.6 Identifying and assessing the risk of material
+      misstatement
+
+As per SA 315 "Identifying and Assessing the Risks of Material Misstatement
+through Understanding the Entity and its Environment", the objective of the
+auditor is to identify and assess the risks of material misstatement, whether due to
+fraud or error, at the financial statement and assertion levels, through
+understanding the entity and its environment, including the entity's internal
+control, thereby providing a basis for designing and implementing responses to
+the assessed risks of material misstatement. This will help the auditor to reduce the
+risk of material misstatement to an acceptably low level.
+
+The objective of the auditor as stated in SA 315 is to identify and assess the risks
+of material misstatement.
+
+(i) The auditor shall identify and assess the risks of material misstatement at:
+
+       (a) the financial statement level
+
+       (b) the assertion level for classes of transactions, account balances, and
+               disclosures
+
+       to provide a basis for designing and performing further audit procedures
+
+(ii) For the purpose of identifying and assessing the risks of material
+       misstatement, the auditor shall: -
+
+       (a) Identify risks throughout the process of obtaining an understanding of
+               the entity and its environment, including relevant controls that relate to
+               the risks, and by considering the classes of transactions, account
+               balances, and disclosures in the financial statements
+
+       (b) Assess the identified risks, and evaluate whether they relate more
+               pervasively to the financial statements as a whole and potentially affect
+               many assertions
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.13
+
+       (c) Relate the identified risks to what can go wrong at the assertion level,
+               taking account of relevant controls that the auditor intends to test and
+
+       (d) Consider the likelihood of misstatement, including the possibility of
+               multiple misstatements, and whether the potential misstatement is of a
+               magnitude that could result in a material misstatement.
+
+1.7 Risk Assessment Procedures
+
+You have already gained a little knowledge about risk assessment procedures in
+Chapter 2.
+
+The audit procedures performed to obtain an understanding of the entity and its
+environment, including the entity's internal control, to identify and assess the risks
+of material misstatement, whether due to fraud or error, at the financial statement
+and assertion level are defined as risk assessment procedures.
+
+Risk assessment procedures are a basis for the identification and assessment of
+risks of material misstatement at the financial statement and assertion levels The
+auditor shall perform risk assessment procedures to provide a basis for the
+identification and assessment of risks of material misstatement at the financial
+statement and assertion levels. Risk assessment procedures by themselves,
+however, do not provide sufficient appropriate audit evidence on which to base the
+audit opinion.
+
+The risks to be assessed include both those due to error and those due to
+fraud.
+
+What is included in risk assessment procedures?
+
+The risk assessment procedures shall include the following:
+
+(a) Inquiries of management and of others within the entity who in the auditor's
+       judgment may have information that is likely to assist in identifying risks of
+       material misstatement due to fraud or error.
+
+(b) Analytical procedures.
+
+(c) Observation and inspection.
+
+(a) Inquiries of Management and Others Within the Entity: Much of the
+       information obtained by the auditor's inquiries is obtained from management
+       and those responsible for financial reporting. However, the auditor may also
+
+© The Institute of Chartered Accountants of India
+3.14  AUDITING AND ETHICS
+
+       obtain information, or a different perspective in identifying risks of material
+       misstatement, through inquiries of others within the entity and other
+       employees with different levels of authority.
+
+        Inquiries directed toward internal audit personnel may provide
+               information about internal audit procedures performed during the year
+               relating to the design and effectiveness of the entity's internal control
+               and whether management has satisfactorily responded to findings from
+               those procedures.
+
+        Inquiries of employees involved in initiating, processing or recording
+               complex or unusual transactions may help the auditor to evaluate the
+               appropriateness of the selection and application of certain accounting
+               policies.
+
+        Inquiries directed toward in-house legal counsel may provide
+               information about such matters as litigation, compliance with laws and
+               regulations, knowledge of fraud or suspected fraud affecting the entity,
+               warranties, post-sales obligations, arrangements (such as joint
+               ventures) with business partners and the meaning of contract
+
+        Inquiries directed towards marketing or sales personnel may provide
+               information about changes in the entity's marketing strategies, sales
+               trends, or contractual arrangements with its customers.
+
+        Inquiries directed to the risk management function (or those
+               performing such roles) may provide information about operational and
+               regulatory risks that may affect financial reporting.
+
+        Inquiries directed to information systems personnel may provide
+               information about system changes, system or control failures, or other
+               information system- related risks.
+
+(b) Analytical Procedures: Analytical procedures performed as risk assessment
+       procedures may identify aspects of the entity of which the auditor was
+       unaware and may assist in assessing the risks of material misstatement in
+       order to provide a basis for designing and implementing responses to the
+       assessed risks. Analytical procedures performed as risk assessment
+       procedures may include both financial and non-financial information, for
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.15
+
+       example, relationship between sales and square footage of selling space or
+       volume of goods sold.
+
+       Analytical procedures may help identify the existence of unusual transactions
+       or events, and amounts, ratios, and trends that might indicate matters that
+       have audit implications. Unusual or unexpected relationships that are
+       identified may assist the auditor in identifying risks of material misstatement,
+       especially risks of material misstatement due to fraud. However, when such
+       analytical procedures use data aggregated at a high level (which may be the
+       situation with analytical procedures performed as risk assessment
+       procedures), the results of those analytical procedures only provide a broad
+       initial indication about whether a material misstatement may exist.
+       Accordingly, in such cases, consideration of other information that has been
+       gathered when identifying the risks of material misstatement together with
+       the results of such analytical procedures may assist the auditor in
+       understanding and evaluating the results of the analytical procedures.
+
+(c) Observation and Inspection: Observation and inspection may support
+       inquiries of management and others, and may also provide information about
+       the entity and its environment. Examples of such audit procedures include
+       observation or inspection of the following:
+
+        The entity's operations.
+
+        Documents (such as business plans and strategies), records, and internal
+               control manuals.
+
+        Reports prepared by management (such as quarterly management reports
+               and interim financial statements) and those charged with governance
+               (such as minutes of board of director's meetings)
+
+        The entity's premises and plant facilities.
+
+1.8 Information obtained by performing risk assessment
+      procedures - Used as audit evidence
+
+Information obtained by performing risk assessment procedures and related
+activities may be used by the auditor as audit evidence to support assessments of
+the risks of material misstatement. In addition, the auditor may obtain audit
+evidence about classes of transactions, account balances, or disclosures and related
+
+© The Institute of Chartered Accountants of India
+3.16  AUDITING AND ETHICS
+
+assertions and about the operating effectiveness of controls, even though such
+procedures were not specifically planned as substantive procedures or as tests of
+controls. The auditor also may choose to perform substantive procedures or tests
+of controls concurrently with risk assessment procedures because it is efficient to
+do so.
+
+Test Your Understanding 4
+
+Jo Jo Limited is planning to list on Bombay Stock Exchange next year. As an auditor
+of Jo Jo Limited, identify any one reason of increased audit risk due to listing of the
+company next year.
+
+Test Your Understanding 5
+
+On perusing financial statements of Jo Jo Limited put up for audit, it is observed by
+the auditor that current ratio has improved from 1.20:1 (in preceding year) to 1.75:1
+(in current year). Identify what kind of risk assessment procedures are being
+performed by auditor? Has it any relation with listing of the company next year on
+Bombay Stock Exchange?
+
+    2. MATERIALITY
+
+2.1 What is meant by materiality?
+
+SA 320 Materiality in Planning and Performing an Audit states that
+misstatements, including omissions, are considered to be material if they,
+individually or in the aggregate, could reasonably be expected to influence the
+economic decisions of users taken on the basis of the financial statements.
+
+The objective of an independent auditor is to obtain reasonable assurance about
+whether the financial statements as a whole are free from material misstatement,
+whether due to fraud or error, thereby enabling the auditor to express an opinion
+on whether the financial statements are prepared, in all material respects, in
+accordance with an applicable financial reporting framework.
+
+Herein, lies the significance of materiality. The auditor has to obtain reasonable
+assurance that financial statements as a whole are free from material misstatement
+whether due to fraud or error. As a result, an audit strives to identify significant
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.17
+
+risks of material misstatement and audit procedures are geared towards it.
+
+Materiality is not always a matter of relative size. For example, a small amount lost
+by fraudulent practices of certain employees can indicate a serious flaw in the
+enterprise's internal control system requiring immediate attention to avoid greater
+losses in future.
+
+2.2 Materiality in Planning and performing an audit-
+      Auditor's responsibility
+
+The concept of materiality is applied by the auditor both in planning and
+performing the audit, and in evaluating the effect of identified misstatements on
+the audit and of uncorrected misstatements, if any, on the financial statements and
+in forming the opinion in the auditor's report. SA 320 deals with auditor's
+responsibility to apply the concept of materiality in planning and performing an
+audit of financial statements.
+
+Financial reporting frameworks often discuss the concept of materiality in the
+context of the preparation and presentation of financial statements. Although
+financial reporting frameworks may discuss materiality in different terms, they
+generally explain that:
+
+· Misstatements, including omissions, are considered to be material if they,
+       individually or in the aggregate, could reasonably be expected to influence the
+       economic decisions of users taken on the basis of the financial statements;
+
+· Judgments about materiality are made in the light of surrounding circumstances,
+       and are affected by the size or nature of a misstatement, or a combination of
+       both; and
+
+· Judgments about matters that are material to users of the financial statements
+       are based on a consideration of the common financial information needs of users
+       as a group. The possible effect of misstatements on specific individual users,
+       whose needs may vary widely, is not considered.
+
+Such a discussion, if present in the applicable financial reporting framework,
+provides a frame of reference to the auditor in determining materiality for the audit.
+If the applicable financial reporting framework does not include a discussion of the
+concept of materiality, the characteristics referred to above provide the auditor
+with such a frame of reference.
+
+© The Institute of Chartered Accountants of India
+3.18  AUDITING AND ETHICS
+
+In planning the audit, the auditor makes judgments about the size of misstatements
+that will be considered material. These judgments provide a basis for:
+
+(a) Determining the nature, timing and extent of risk assessment procedures;
+
+(b) Identifying and assessing the risks of material misstatement; and
+
+(c) Determining the nature, timing and extent of further audit procedures.
+
+The materiality determined when planning the audit does not necessarily establish
+an amount below which uncorrected misstatements, individually or in aggregate,
+will always be evaluated as immaterial. The circumstances related to some
+misstatements may cause the auditor to evaluate them as material even if they are
+below materiality. Although, it is not practicable to design audit procedures to
+detect misstatements that could be material solely because of their nature, the
+auditor considers not only the size but also the nature of uncorrected
+misstatements, and the particular circumstances of their occurrence, when
+evaluating their effect on the financial statements.
+
+The auditor has to apply his professional judgement in determining materiality,
+choosing appropriate benchmark and determining level of benchmark. Materiality
+forms the basis for determination of audit scope and the levels of testing the
+transactions.
+
+While judging materiality, the significance of an item has to be viewed from
+different perspectives. Materiality of an item may be judged by considering the
+impact on the profit and loss, or on the balance sheet, or in the total of the category
+of expenditure or income to which it pertains, and on its comparison with the
+corresponding figure for the previous year.
+
+If there is any statutory requirement of disclosure, it is to be considered material
+irrespective of the value of amount. Examples are given below: -
+
+ As per Division I of schedule III of the Companies Act, 2013, any item of
+       income or expenditure which exceeds one percent of the revenue from
+       operations or ` 1,00,000, whichever is higher, needs to be disclosed
+       separately.
+
+ A company should disclose in notes to accounts, shares in the company held
+       by each shareholder holding more than 5 per cent shares specifying the
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.19
+
+       number of shares held as per requirements of Division I of Schedule III of the
+       Companies Act,2013.
+
+2.3 Determination of materiality- a matter of professional
+      judgment
+
+The auditor's determination of materiality is a matter of professional judgment, and
+is affected by the auditor's perception of the financial information needs of users
+of the financial statements. In this context, it is reasonable for the auditor to assume
+that users:
+
+(a) Have a reasonable knowledge of business and economic activities and
+       accounting and a willingness to study the information in the financial
+       statements with reasonable diligence;
+
+(b) Understand that financial statements are prepared, presented and audited to
+       levels of materiality;
+
+(c) Recognize the uncertainties inherent in the measurement of amounts based
+       on the use of estimates, judgment and the consideration of future events; and
+
+(d) Make reasonable economic decisions on the basis of the information in the
+       financial statements.
+
+2.4 Performance Materiality
+
+Practically, it is difficult for auditors to design tests to identify individual material
+misstatements. It is likely that misstatements are material in aggregate. It takes us
+to the concept of "performance materiality."
+
+Performance materiality means the amount or amounts set by the auditor at less
+than materiality for the financial statements as a whole to reduce to an
+appropriately low level the probability that the aggregate of uncorrected and
+undetected misstatements exceeds materiality for the financial statements as a
+whole. If applicable, performance materiality also refers to the amount or amounts
+set by the auditor at less than the materiality level or levels for particular classes of
+transactions, account balances or disclosures.
+
+Performance materiality is set at a value lower than overall materiality. It lowers the
+
+© The Institute of Chartered Accountants of India
+3.20  AUDITING AND ETHICS
+
+risk that auditor will not be able to identify misstatements that are material when
+added together.
+
+2.5 Determining Materiality and Performance Materiality
+      when Planning the Audit
+
+When establishing the overall audit strategy, the auditor shall determine materiality
+for the financial statements as a whole. If, in the specific circumstances of the entity,
+there is one or more particular classes of transactions, account balances or
+disclosures for which misstatements of lesser amounts than the materiality for the
+financial statements as a whole could reasonably be expected to influence the
+economic decisions of users taken on the basis of the financial statements, the
+auditor shall also determine the materiality level or levels to be applied to those
+particular classes of transactions, account balances or disclosures.
+
+2.6 Use of Benchmarks in Determining Materiality for the
+      Financial Statements as a Whole
+
+Determining materiality involves the exercise of professional judgment. A
+percentage is often applied to a chosen benchmark as a starting point in
+determining materiality for the financial statements as a whole. Factors that may
+affect the identification of an appropriate benchmark include the following:
+
+ The elements of the financial statements like assets, liabilities, equity,
+       revenue, expenses
+
+ Whether there are items on which the attention of the users of the particular
+       entity's financial statements tends to be focused. For example, for the
+       purpose of evaluating financial performance users may tend to focus on
+       profit, revenue or net assets.
+
+ The nature of the entity, where the entity is at in its life cycle, and the industry
+       and economic environment in which the entity operates, the entity's
+       ownership structure and the way it is financed. For example, If an entity is
+       financed solely by debt rather than equity, users may put more emphasis on
+       assets, and claims on them, than on the entity's earnings;
+
+ The relative volatility of the benchmark.
+
+Examples of benchmarks that may be appropriate, depending on the circumstances
+of the entity, include categories of reported income such as profit before tax, total
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL  3.21
+
+revenue, gross profit and total expenses, total equity or net asset value.
+
+Profit before tax from continuing operations is often used for profit-oriented
+entities. When profit before tax from continuing operations is volatile, other
+benchmarks may be more appropriate, such as gross profit or total revenues.
+
+2.6.1 Chosen Benchmark ­ Relevant financial data
+
+In relation to the chosen benchmark, relevant financial data ordinarily includes: -
+
+ Prior periods' financial results and financial positions,
+ The period to-date financial results and financial position, and
+ Budgets or forecasts for the current period,
+ Adjusted for significant changes in the circumstances of the entity (for
+
+       example, a significant business acquisition) and relevant changes of
+       conditions in the industry or economic environment in which the entity
+       operates.
+
+Consider, for example, when, as a starting point, the materiality for the financial
+statements as a whole is determined for a particular entity based on a percentage
+of profit before tax from continuing operations, circumstances that give rise to an
+exceptional decrease or increase in such profit may lead the auditor to conclude
+that the materiality for the financial statements as a whole is more appropriately
+determined using a normalized profit before tax from continuing operations figure
+based on past results.
+
+2.6.2 Determining a percentage to be applied to a chosen benchmark
+       involves the exercise of professional judgment.
+
+There is a relationship between the percentage and the chosen benchmark, such
+that a percentage applied to profit before tax from continuing operations will
+normally be higher than a percentage applied to total revenue.
+
+Consider, for example, that the auditor may consider 5% of profit before tax from
+continuing operations to be appropriate for a profit-oriented entity in a
+manufacturing industry, while the auditor may consider 1% of total revenue or total
+expenses to be appropriate for a not-for-profit entity. Higher or lower percentages,
+however, may be deemed appropriate in different circumstances.
+
+© The Institute of Chartered Accountants of India
+3.22  AUDITING AND ETHICS
+
+2.7 Materiality Level or Levels for Particular Classes of
+      Transactions, Account Balances or Disclosures
+
+Factors that may indicate the existence of one or more particular classes of
+transactions, account balances or disclosures for which misstatements of lesser
+amounts than materiality for the financial statements as a whole could reasonably
+be expected to influence the economic decisions of users taken on the basis of the
+financial statements include the following:
+
+1. Whether law, regulations or the applicable financial reporting framework
+       affect users' expectations regarding the measurement or disclosure of certain
+       items like in case of related party transactions, and the remuneration of
+       management and those charged with governance.
+
+2. The key disclosures in relation to the industry in which the entity operates.
+       For example, research and development costs for a pharmaceutical company.
+
+3. Whether attention is focused on a particular aspect of the entity's business
+       that is separately disclosed in the financial statements like in case of newly
+       acquired business.
+
+2.8 Revision in Materiality level as the Audit Progresses
+
+Materiality for the financial statements as a whole (and, if applicable, the materiality
+level or levels for particular classes of transactions, account balances or disclosures)
+may need to be revised as a result of a change in circumstances that occurred
+during the audit (for example, a decision to dispose of a major part of the entity's
+business), new information, or a change in the auditor's understanding of the entity
+and its operations as a result of performing further audit procedures.
+
+If during the audit it appears as though actual financial results are likely to be
+substantially different from the anticipated period end financial results that were
+used initially to determine materiality for the financial statements as a whole, the
+auditor revises that materiality.
+
+If the auditor concludes that a lower materiality for the financial statements as a
+whole (and, if applicable, materiality level or levels for particular classes of
+transactions, account balances or disclosures) than that initially determined is
+appropriate, the auditor shall determine whether it is necessary to revise
+performance materiality, and whether the nature, timing and extent of the further
+audit procedures remain appropriate.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.23
+
+2.9 Documenting the Materiality
+
+The audit documentation shall include the following amounts and the factors
+considered in their determination:
+
+(a) Materiality for the financial statements as a whole
+
+(b) If applicable, the materiality level or levels for particular classes of
+       transactions, account balances or disclosures
+
+(c) Performance materiality and
+
+(d) Any revision of (a)-(c) as the audit progressed
+
+2.10 Materiality and Audit Risk
+
+The concept of materiality is applied by the auditor both in planning and
+performing the audit, and in evaluating the effect of identified misstatements on
+the audit and of uncorrected misstatements, if any, on the financial statements and
+in forming the opinion in the auditor's report. In conducting an audit of financial
+statements, the overall objectives of the auditor are to obtain reasonable assurance
+about whether the financial statements as a whole are free from material
+misstatement, whether due to fraud or error, thereby enabling the auditor to
+express an opinion on whether the financial statements are prepared, in all material
+respects, in accordance with an applicable financial reporting framework; and to
+report on the financial statements, and communicate as required by the SAs, in
+accordance with the auditor's findings. The auditor obtains reasonable assurance
+by obtaining sufficient appropriate audit evidence to reduce audit risk to an
+acceptably low level.
+
+Audit risk is the risk that the auditor expresses an inappropriate audit opinion when
+the financial statements are materially misstated. Audit risk is a function of the risks
+of material misstatement and detection risk.
+
+Materiality and Audit Risk are considered throughout the audit, in particular,
+when:
+
+(a) Identifying and assessing the risks of material misstatement;
+
+(b) Determining the nature, timing and extent of further audit procedures; and
+
+(c) Evaluating the effect of uncorrected misstatements, if any, on the financial
+       statements and in forming the opinion in the auditor's report.
+
+© The Institute of Chartered Accountants of India
+3.24  AUDITING AND ETHICS
+
+ILLUSTRATION 3
+
+One of the team members of auditors of Highly Capable Limited was of the view that
+Materiality and Audit Risk are only considered at planning stage of an audit.
+Comment as an auditor
+
+SOLUTION
+
+The concept of materiality is applied by the auditor both in planning and
+performing the audit, and in evaluating the effect of identified misstatements on
+the audit and of uncorrected misstatements, if any, on the financial statements and
+in forming the opinion in the auditor's report.
+
+Test Your Understanding 6
+
+CA A. Raja is auditor of Build Well Forgings Private Limited having a revenue of
+` 25 crore. The company has been sanctioned a term loan of ` 50 lacs from a bank.
+However, as at end of the year, only ` 1 lac was availed due to delay in procurement
+of asset. The financial statements of the company do not disclose nature of security
+against which loan has been taken. Schedule III of the Companies Act,2013 requires
+disclosure in this respect. Discuss, whether, non-disclosure of nature of security is
+material for auditor.
+
+    3. UNDERSTANDING THE ENTITY AND ITS
+          ENVIRONMENT
+
+SA 315 Identifying and Assessing the Risks of Material Misstatement Through
+Understanding the Entity and its Environment states that the auditor shall obtain
+an understanding of the following: -
+
+(a) Relevant industry, regulatory, and other external factors including the
+       applicable financial reporting framework
+
+       Relevant industry factors include industry conditions such as the competitive
+       environment, supplier and customer relationships, and technological
+       developments.
+
+       Examples of matters the auditor may consider include market and
+       competition, whether entity is engaged in seasonal activities, product
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.25
+
+       technology relating to the entity's products. The industry in which the entity
+       operates may give rise to specific risks of material misstatement arising from
+       the nature of the business or the degree of regulation.
+
+       Relevant regulatory factors include the regulatory environment. The
+       regulatory environment includes, among other matters, the applicable
+       financial reporting framework and the legal and political environment.
+
+       Examples of matters the auditor may consider include accounting principles
+       and industry specific practices, regulatory framework for a regulated industry,
+       legislation and regulation that significantly affect the entity's operations,
+       including direct supervisory activities, taxation, government policies currently
+       affecting the conduct of the entity's business, environmental requirements
+       affecting the industry and the entity's business.
+
+       Examples of other external factors affecting the entity that the auditor may
+       consider include the general economic conditions, interest rates and
+       availability of financing, and inflation etc.
+
+(b) The nature of the entity, including: -
+
+       (i) its operations;
+
+       (ii) its ownership and governance structures;
+
+       (iii) the types of investments that the entity is making and plans to make,
+               including investments in special-purpose entities; and
+
+       (iv) the way that the entity is structured and how it is financed; to enable
+               the auditor to understand the classes of transactions, account balances,
+               and disclosures to be expected in the financial statements.
+
+       An understanding of nature of entity enables the auditor to understand
+       whether entity has a complex structure for example, whether it has
+       subsidiaries. Complex structures often introduce issues that may give rise to
+       risks of material misstatement. It also helps in understanding matters relating
+       to the ownership, and relations between owners and other people or entities.
+       This understanding assists in determining whether related party transactions
+       have been identified and accounted for appropriately.
+
+       Examples of matters that the auditor may consider while obtaining
+       understanding of nature of entity include: -
+
+© The Institute of Chartered Accountants of India
+3.26  AUDITING AND ETHICS
+
+        Business operations such as nature of revenue sources, products or
+               services, conduct of operations, location of production facilities, key
+               customers and suppliers of goods and services
+
+        Investment and investment activities such as capital investment
+               activities and planned or recently executed acquisitions
+
+        Financing and financing activities such as major subsidiaries, debt
+               structure etc.
+
+        Financial reporting such as accounting principles and revenue
+               recognition practices
+
+(c) The entity's selection and application of accounting policies, including
+       the reasons for changes thereto
+
+       The auditor shall evaluate whether the entity's accounting policies are
+       appropriate for its business and consistent with the applicable financial
+       reporting framework and accounting policies used in the relevant industry.
+
+(d) The entity's objectives and strategies, and those related business risks
+       that may result in risks of material misstatement.
+
+       The entity conducts its business in the context of industry, regulatory and
+       other internal and external factors. To respond to these factors, the entity's
+       management define objectives, which are the overall plans for the entity.
+       Strategies are the approaches by which management intends to achieve its
+       objectives. The entity's objectives and strategies may change over time.
+       Business risk is broader than the risk of material misstatement of the financial
+       statements, though it includes the latter. Business risk may arise from change
+       or complexity.
+
+       An understanding of the business risks facing the entity increases the
+       likelihood of identifying risks of material misstatement, since most business
+       risks will eventually have financial consequences and, therefore, an effect on
+       the financial statements. However, the auditor does not have a responsibility
+       to identify or assess all business risks because not all business risks give rise
+       to risks of material misstatement.
+
+       Examples of matters that the auditor may consider when obtaining an
+       understanding of the entity's objectives, strategies and related business risks
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.27
+
+       that may result in a risk of material misstatement of the financial statements
+       include: -
+
+        Industry developments (a potential related business risk might be, for
+               example, that the entity does not have the personnel or expertise to
+               deal with the changes in the industry).
+
+        New products and services (a potential related business risk might be,
+               for example, that there is increased product liability).
+
+        Expansion of the business (a potential related business risk might be,
+               for example, that the demand has not been accurately estimated).
+
+(e) The measurement and review of the entity's financial performance
+
+       Management and others will measure and review those things they regard as
+       important. Performance measures, whether external or internal, create
+       pressures on the entity. These pressures, in turn, may motivate management
+       to take action to improve the business performance or to misstate the
+       financial statements. Accordingly, an understanding of the entity's
+       performance measures assists the auditor in considering whether pressures
+       to achieve performance targets may result in management actions that
+       increase the risks of material misstatement, including those due to fraud.
+
+       Examples for measuring and reviewing financial performance which may be
+       used by an auditor may include: -
+
+        Key performance indicators (financial and non-financial) and key ratios,
+               trends and operating statistics.
+
+        Period-on-period financial performance analyses.
+
+        Budgets, forecasts, variance analyses, and departmental or other level
+               performance reports.
+
+        Credit rating agency reports
+
+3.1 Why understanding the entity and its environment is
+      significant?
+
+Understanding the entity and the environment in which it operates is very
+significant. It helps the auditor in planning the audit and in identifying areas
+requiring special attention. Gaining knowledge about client's business is one of the
+
+© The Institute of Chartered Accountants of India
+3.28  AUDITING AND ETHICS
+
+important principles in developing an overall audit plan. In fact, without adequate
+knowledge of client's business, a proper audit is not possible.
+
+3.2 Understanding the entity-a continuous process
+
+Obtaining an understanding of the entity and its environment, including the entity's
+internal control (referred to hereafter as an "understanding of the entity"), is a
+continuous, dynamic process of gathering, updating and analysing information
+throughout the audit. The understanding establishes a frame of reference within
+which the auditor plans the audit and exercises professional judgment throughout
+the audit, for example, when:
+
+ Assessing risks of material misstatement of the financial statements
+
+ Determining materiality in accordance with SA 320
+
+ Considering the appropriateness of the selection and application of
+       accounting policies
+
+ Identifying areas where special audit consideration may be necessary, for
+       example, related party transactions, the appropriateness of management's
+       use of the going concern assumption, or considering the business purpose of
+       transactions
+
+ Developing expectations for use when performing analytical procedures
+
+ Evaluating the sufficiency and appropriateness of audit evidence obtained
+       such as the appropriateness of assumptions and of management's oral and
+       written representations.
+
+ILLUSTRATION 4
+
+The auditor of ABC Textiles Ltd chalks out an audit plan without understanding the
+entity's business. Since he has carried out many audits of textile companies, there is
+no need to understand the nature of business of ABC Ltd. Advise the auditor how he
+should proceed.
+
+SOLUTION
+
+Obtaining an understanding of the entity and its environment, including the entity's
+internal control (referred to hereafter as an "understanding of the entity"), is a
+continuous, dynamic process of gathering, updating and analysing information
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL  3.29
+
+throughout the audit. The auditor should proceed accordingly.
+
+ILLUSTRATION 5
+
+While auditing the books of accounts of Heavy Material Limited for the financial year
+2022-23, a team member of the auditor of Heavy Material Limited showed no
+inclination towards understanding the business and the business environment of the
+above mentioned company. Is the approach of team member of the auditor of Heavy
+Material Limited correct or incorrect? Also give reason for your answer.
+
+SOLUTION
+
+The approach of team member of the auditor of Heavy Material Limited is incorrect
+because understanding the business and the business environment of company
+whose audit is to be conducted is very important, as it helps in planning the audit
+and identifying areas requiring special attention during the course of audit of that
+company.
+
+ILLUSTRATION 6
+
+Prince Blankets is engaged in business of blankets. Its major portion of sales is taking
+place through internet. Advise the auditor how he would proceed in this regard as to
+understanding the entity and its environment.
+
+SOLUTION
+
+While understanding entity and its environment, internet sales is being perceived
+as risky area by the auditor and thereby would be spending substantial time and
+extensive audit procedures on this particular area.
+
+    4. INTERNAL CONTROL
+
+4.1 Meaning of Internal Control
+
+As per SA-315, "Identifying and Assessing the Risk of Material Misstatement
+Through Understanding the Entity and its Environment", the internal control
+may be defined as "the process designed, implemented and maintained by those
+charged with governance, management and other personnel to provide reasonable
+assurance about the achievement of an entity's objectives with regard to reliability
+of financial reporting, effectiveness and efficiency of operations, safeguarding of
+assets, and compliance with applicable laws and regulations. The term "controls"
+
+© The Institute of Chartered Accountants of India
+3.30  AUDITING AND ETHICS
+
+refers to any aspects of one or more of the components of internal control."
+
+4.2 As derived from above definition, the purpose of
+      Internal Control is as under
+
+Internal control is designed, implemented and maintained to address identified
+business risks that threaten the achievement of any of the entity's objectives that
+concern:
+
+ The reliability of the entity's financial reporting;
+ The effectiveness and efficiency of its operations;
+ Its compliance with applicable laws and regulations; and
+ Safeguarding of assets.
+
+The way in which internal control is designed, implemented and maintained varies
+with an entity's size and complexity.
+
+4.3 Benefits of Understanding of Internal Control
+
+An understanding of internal control assists the auditor in: -
+(i) Identifying types of potential misstatements;
+(ii) Identifying factors that affect the risks of material misstatement, and
+(iii) Designing the nature, timing, and extent of further audit procedures.
+
+4.4 Limitations of Internal Control
+
+(i) Internal control can provide only reasonable assurance
+       Internal control, no matter how effective, can provide an entity with only
+       reasonable assurance about achieving the entity's financial reporting
+       objectives. The likelihood of their achievement is affected by inherent
+       limitations of internal control.
+
+(ii) Human judgment in decision-making
+       Realities that human judgment in decision-making can be faulty and that
+       breakdowns in internal control can occur because of human error. For
+       example, there may be an error in the design of, or in the change to, a control.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.31
+
+(iii) Lack of understanding the purpose
+
+       Equally, the operation of a control may not be effective, such as where
+       information produced for the purposes of internal control (for example, an
+       exception report) is not effectively used because the individual responsible
+       for reviewing the information does not understand its purpose or fails to take
+       appropriate action.
+
+(iv) Collusion among People
+
+       Additionally, controls can be circumvented by the collusion of two or more
+       people or inappropriate management override of internal control. For
+       example, management may enter into side agreements with customers that
+       alter the terms and conditions of the entity's standard sales contracts, which
+       may result in improper revenue recognition. Also, edit checks in a software
+       program that are designed to identify and report transactions that exceed
+       specified credit limits may be overridden or disabled.
+
+(v) Judgements by Management
+
+       Further, in designing and implementing controls, management may make
+       judgments on the nature and extent of the controls it chooses to implement,
+       and the nature and extent of the risks it chooses to assume.
+
+(vi) Limitations in case of Small Entities
+
+       Smaller entities often have fewer employees due to which segregation of
+       duties is not practicable. However, in a small owner-managed entity, the
+       owner-manager may be able to exercise more effective oversight than in a
+       larger entity. This oversight may compensate for the generally more limited
+       opportunities for segregation of duties. On the other hand, the owner-
+       manager may be more able to override controls because the system of
+       internal control is less structured. This is taken into account by the auditor
+       when identifying the risks of material misstatement due to fraud.
+
+ILLUSTRATION 7
+
+Auditor GR and Associates, appointed for audit of PNG Ltd, a manufacturing company
+engaged in manufacturing of various food items. While planning an audit, the auditor
+does not think that it would be necessary to understand internal controls. Advise the
+auditor in this regard.
+
+© The Institute of Chartered Accountants of India
+3.32  AUDITING AND ETHICS
+
+SOLUTION
+
+The auditor shall obtain an understanding of internal control relevant to the audit.
+Although most controls relevant to the audit are likely to relate to financial
+reporting, not all controls that relate to financial reporting are relevant to the audit.
+It is a matter of the auditor's professional judgment whether a control, individually or
+in combination with others, is relevant to the audit.
+
+ILLUSTRATION 8
+
+The team member of the auditor of Simple and Easy Limited was of the view that
+understanding the internal control of the company would not help them in any
+manner in relation to audit procedures to be applied while conducting the audit.
+
+SOLUTION
+
+The view of the team member of the auditor is incorrect because understanding
+the internal control of the company would help the auditor and his team members
+in designing the nature, timing and extent of audit procedures to be applied while
+conducting the audit of the company.
+
+4.5 Components of Internal Control
+
+The division of internal control into the following five components provides a useful
+framework for auditors to consider how different aspects of an entity's internal
+control may affect the audit: -
+
+(A) The control environment
+
+(B) The entity's risk assessment process
+
+(C) The information system, including the related business processes, relevant to
+       financial reporting, and communication
+
+(D) Control activities
+
+(E) Monitoring of controls
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL                                3.33
+
+                                                  Components of
+                                                  Internal control
+
+   Control   Entity's risk    Information  Control activities       Monitoring of
+environment  assessment       system and                               controls
+                            communiaction
+               process
+
+4.5(A) Control Environment
+
+The auditor shall obtain an understanding of the control environment. As part of
+obtaining this understanding, the auditor shall evaluate whether:
+(i) Management has created and maintained a culture of honesty and ethical
+
+       behaviour and
+(ii) The strengths in the control environment elements collectively provide an
+
+       appropriate foundation for the other components of internal control.
+What is included in Control Environment?
+The control environment includes:
+(i) the governance and management functions and
+(ii) the attitudes, awareness, and actions of those charged with governance and
+
+       management.
+(iii) the control environment sets the tone of an organization, influencing the
+
+       control consciousness of its people.
+Elements of the Control Environment
+Elements of the control environment that may be relevant when obtaining an
+understanding of the control environment include the following:
+(a) Communication and enforcement of integrity and ethical values
+
+       The effectiveness of controls cannot rise above the integrity and ethical
+       values of the people who create, administer, and monitor them. Integrity and
+
+© The Institute of Chartered Accountants of India
+3.34  AUDITING AND ETHICS
+
+       ethical behaviour are the product of the entity's ethical and behavioural
+       standards, how they are communicated, and how they are reinforced in
+       practice. The enforcement of integrity and ethical values includes, for
+       example, management actions to eliminate or mitigate incentives or
+       temptations that might prompt personnel to engage in dishonest, illegal, or
+       unethical acts. The communication of entity policies on integrity and ethical
+       values may include the communication of behavioural standards to personnel
+       through policy statements and codes of conduct and by example.
+
+(b) Commitment to competence
+
+       Matters such as management's consideration of the competence levels for
+       particular jobs and how those levels translate into requisite skills and
+       knowledge.
+
+(c) Participation by those charged with governance
+
+       It includes attributes of those charged with governance such as their
+       independence from management, their experience and stature, the extent of
+       their involvement and the information they receive and the scrutiny of
+       activities.
+
+(d) Management's philosophy and operating style
+
+       Management's philosophy and operating style encompass a broad range of
+       characteristics. For example, management's attitudes and actions towards
+       financial reporting- what approach is taken by management in selecting
+       accounting policies, approach in developing accounting estimates etc.
+       Matters such as approach of management to taking and managing business
+       risks, management's attitude towards information processing and accounting
+       function and personnel reflects upon management's philosophy and
+       operating style.
+
+(e) Organisational structure
+
+       The framework within which an entity's activities for achieving its objectives
+       are planned, executed, controlled, and reviewed. Establishing a relevant
+       organisational structure includes considering key areas of authority and
+       responsibility and appropriate lines of reporting. The appropriateness of an
+       entity's organisational structure depends, in part, on its size and the nature
+       of its activities.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.35
+
+(f) Assignment of authority and responsibility
+
+       Matters such as how authority and responsibility for operating activities are
+       assigned and how reporting relationships and authorisation hierarchies are
+       established.
+
+(g) Human resource policies and practices
+
+       Policies and practices that relate to, for example, recruitment, orientation,
+       training, evaluation, counselling, promotion, compensation, and remedial
+       actions. Human resource policies and practices often demonstrate important
+       matters in relation to the control consciousness of an entity.
+
+       For example, standards for recruiting the most qualified individuals ­ with
+       emphasis on educational background, prior work experience, past
+       accomplishments, and evidence of integrity and ethical behaviour ­
+       demonstrate an entity's commitment to competent and trustworthy people.
+       Training policies that communicate prospective roles and responsibilities and
+       include practices such as training schools and seminars illustrate expected
+       levels of performance and behaviour. Promotions driven by periodic
+       performance appraisals demonstrate the entity's commitment to the
+       advancement of qualified personnel to higher levels of responsibility.
+
+Existence of a satisfactory control environment-not an absolute deterrent to
+fraud
+
+The existence of a satisfactory control environment can be a positive factor when the
+auditor assesses the risks of material misstatement. However, although it may help
+reduce the risk of fraud, a satisfactory control environment is not an absolute
+deterrent to fraud. Conversely, deficiencies in the control environment may
+undermine the effectiveness of controls, in particular in relation to fraud. For
+example, management's failure to commit sufficient resources to address IT security
+risks may adversely affect internal control by allowing improper changes to be made
+to computer programs or to data, or unauthorized transactions to be processed.
+
+The control environment in itself does not prevent, or detect and correct, a material
+misstatement. It may, however, influence the auditor's evaluation of the
+effectiveness of other controls (for example, the monitoring of controls and the
+operation of specific control activities) and thereby, the auditor's assessment of the
+risks of material misstatement.
+
+© The Institute of Chartered Accountants of India
+3.36  AUDITING AND ETHICS
+
+4.5(B) The Entity's Risk Assessment Process
+
+The auditor shall obtain an understanding of whether the entity has a process for:
+
+(a) Identifying business risks relevant to financial reporting objectives
+
+(b) Estimating the significance of the risks
+
+(c) Assessing the likelihood of their occurrence
+
+(d) Deciding about actions to address those risks
+
+The entity's risk assessment process forms the basis for the risks to be managed. If
+that process is appropriate, it would assist the auditor in identifying risks of material
+misstatement. Risks can arise or change due to factor such as new technology, new
+business models, products or activities, changes in operating environment etc.
+Whether the entity's risk assessment process is appropriate to the circumstances is
+a matter of judgment.
+
+4.5(C) The information system, including the related
+      business processes, relevant to financial reporting and
+      communication
+
+The auditor shall obtain an understanding of the information system, including the
+related business processes, relevant to financial reporting, including the following
+areas: -
+
+(a) The classes of transactions in the entity's operations that are significant to
+       the financial statements
+
+(b) The procedures by which those transactions are initiated, recorded,
+       processed, corrected as necessary, transferred to the general ledger and
+       reported in the financial statements
+
+(c) The related accounting records, supporting information and specific accounts
+       in the financial statements that are used to initiate, record, process and report
+       transactions
+
+(d) How the information system captures events and conditions that are
+       significant to the financial statements
+
+(e) The financial reporting process used to prepare the entity's financial
+       statements
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.37
+
+(f) Controls surrounding journal entries.
+
+An information system consists of infrastructure (physical and hardware
+components), software, people, procedures, and data. Many information systems
+make extensive use of information technology (IT). Information system should
+provide qualitative financial information. The quality of system-generated
+information affects management's ability to make appropriate decisions in
+managing and controlling the entity's activities and to prepare reliable financial
+reports.
+
+The auditor shall obtain an understanding of how the entity communicates financial
+reporting roles and responsibilities. It may take such forms as policy manuals,
+accounting and financial reporting manuals, and memoranda. Communication also
+can be made electronically, orally, and through the actions of management.
+
+4.5(D) Control Activities
+
+The auditor shall obtain an understanding of control activities relevant to the audit,
+which the auditor considers necessary to assess the risks of material misstatement.
+An audit requires an understanding of only those control activities related to
+significant class of transactions, account balance, and disclosure in the financial
+statements and the assertions which the auditor finds relevant in his risk
+assessment process. Control activities are the policies and procedures that help
+ensure that management directives are carried out. Control activities, whether
+within IT or manual systems, have various objectives and are applied at various
+organisational and functional levels.
+
+Control activities relevant to audit generally include policies and procedures
+relating to performance reviews (reviews of actual performance with budgets),
+information processing (for example controls over checking arithmetical accuracy
+of records, program change controls etc), physical controls( like controls over
+physical security of assets) and segregation of duties (controls over ensuring that
+different people are assigned the responsibilities of authorising transactions,
+recording transactions and maintaining custody of assets)
+
+4.5(E) Monitoring of Controls
+
+The auditor shall obtain an understanding of the major activities that the entity
+uses to monitor internal control over financial reporting.
+
+© The Institute of Chartered Accountants of India
+3.38  AUDITING AND ETHICS
+
+Monitoring of controls is a process to assess the effectiveness of internal control
+performance over time. It helps in assessing the effectiveness of controls on a
+timely basis. It involves assessing the effectiveness of controls on a timely basis and
+taking necessary remedial actions. It includes considering whether controls are
+operating as intended and that they are modified as appropriate for change in
+conditions.
+
+Management accomplishes monitoring of controls through ongoing activities,
+separate evaluations, or a combination of the two. Ongoing monitoring activities
+are often built into the normal recurring activities of an entity and include regular
+management and supervisory activities.
+
+Management's monitoring activities may include using information from
+communications from external parties such as customer complaints and regulator
+comments that may indicate problems or highlight areas in need of improvement.
+
+Test Your Understanding 7
+
+CA Smriti is auditor of a company. As part of audit, she is going through company
+policies and practices regarding employee recruitment, training, orientation and
+related matters. She seems to be very much interested in finding out whether
+company hires best candidates from applicant pool. Identify what she is trying to
+do? How gaining knowledge about this aspect is useful to her as an auditor?
+
+Test Your Understanding 8
+
+During the audit of same company, CA Smriti is keen to find out whether there
+exists a proper system of segregation of duties in the company. She wants to be
+sure that a person responsible for recording a transaction is different from the
+person authorising it. Discuss what she is trying to do and how its understanding
+is significant to her as an auditor.
+
+4.6 Are all Controls Relevant to the audit?
+
+There is a direct relationship between an entity's objectives and the control it
+implements to provide reasonable assurance about their achievement. The entity's
+objectives, and therefore controls, relate to financial reporting, operations and
+compliance; however, not all of these objectives and controls are relevant to the
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.39
+
+auditor's risk assessment.
+
+Factors relevant to the auditor's judgment about whether a control, individually or
+in combination with others, is relevant to the audit may include such matters as the
+following:
+
+ Materiality.
+
+ The significance of the related risk.
+
+ The size of the entity.
+
+ The nature of the entity's business, including its organisation and ownership
+       characteristics.
+
+ The diversity and complexity of the entity's operations.
+
+ Applicable legal and regulatory requirements.
+
+ The circumstances and the applicable component of internal control.
+
+ The nature and complexity of the systems that are part of the entity's internal
+       control, including the use of service organisations.
+
+ Whether, and how, a specific control, individually or in combination with
+       others, prevents, or detects and corrects, material misstatement.
+
+4.7 Controls over the completeness and accuracy of
+      information
+
+Controls over the completeness and accuracy of information produced by the entity
+may be relevant to the audit if the auditor intends to make use of the information
+in designing and performing further procedures. For example, in auditing revenue
+by applying standard prices to records of sales volume, the auditor considers the
+accuracy of the price information and the completeness and accuracy of the sales
+volume data. Controls relating to operations and compliance objectives may also
+be relevant to an audit if they relate to data the auditor evaluates or uses in
+applying audit procedures.
+
+4.8 Internal control over safeguarding of assets
+
+Internal control over safeguarding of assets against unauthorised acquisition, use,
+or disposition may include controls relating to both financial reporting and
+
+© The Institute of Chartered Accountants of India
+3.40  AUDITING AND ETHICS
+
+operations objectives. The auditor's consideration of such controls is generally
+limited to those relevant to the reliability of financial reporting. For example, use
+of access controls, such as passwords, that limit access to the data and programs
+that process cash disbursements may be relevant to a financial statement audit.
+Conversely, safeguarding controls relating to operations objectives, such as
+controls to prevent the excessive use of materials in production, generally are not
+relevant to a financial statement audit.
+
+4.9 Controls relating to objectives that are not relevant to
+      an audit
+
+An entity generally has controls relating to objectives that are not relevant to an
+audit and therefore need not be considered. For example, an entity may rely on a
+sophisticated system of automated controls to provide efficient and effective
+operations (such as an airline's system of automated controls to maintain flight
+schedules), but these controls ordinarily would not be relevant to the audit. Further,
+although internal control applies to the entire entity or to any of its operating units
+or business processes, an understanding of internal control relating to each of the
+entity's operating units and business processes may not be relevant to the audit.
+
+In certain circumstances, the statute or the regulation governing the entity may
+require the auditor to report on compliance with certain specific aspects of internal
+controls as a result, the auditor's review of internal control may be broader and
+more detailed.
+
+4.10 Nature and Extent of the Understanding of Relevant
+      Controls
+
+Evaluating the design of a control involves considering whether the control,
+individually or in combination with other controls, is capable of effectively
+preventing, or detecting and correcting, material misstatements. Implementation
+of a control means that the control exists and that the entity is using it. There is
+little point in assessing the implementation of a control that is not effective, and so
+the design of a control is considered first.
+
+An improperly designed control may represent a significant deficiency in internal
+control. Risk assessment procedures to obtain audit evidence about the design and
+implementation of relevant controls may include-
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL  3.41
+
+ Inquiring of entity personnel.
+
+ Observing the application of specific controls.
+
+ Inspecting documents and reports.
+
+ Tracing transactions through the information system relevant to financial
+       reporting.
+
+Inquiry alone, however, is not sufficient for such purposes.
+
+Obtaining an understanding of an entity's controls is not sufficient to test their
+operating effectiveness, unless there is some automation that provides for the
+consistent operation of the controls. For example, obtaining audit evidence about
+the implementation of a manual control at a point in time does not provide audit
+evidence about the operating effectiveness of the control at other times during the
+period under audit. However, because of the inherent consistency of IT processing,
+performing audit procedures to determine whether an automated control has been
+implemented may serve as a test of that control's operating effectiveness,
+depending on the auditor's assessment and testing of controls such as those over
+program changes.
+
+    5. RISKS THAT REQUIRE SPECIAL AUDIT
+          CONSIDERATION
+
+As part of the risk assessment, the auditor shall determine whether any of the risks
+identified are, in the auditor's judgment, a significant risk. In exercising judgment as
+to which risks are significant risks, the auditor shall consider at least the following:
+(a) Whether the risk is a risk of fraud
+
+(b) Whether the risk is related to recent significant economic, accounting, or
+       other developments like changes in regulatory environment, etc., and,
+       therefore, requires specific attention
+
+(c) The complexity of transactions
+(d) Whether the risk involves significant transactions with related parties
+(e) The degree of subjectivity in the measurement of financial information
+
+       related to the risk, especially those measurements involving a wide range of
+       measurement uncertainty and
+
+© The Institute of Chartered Accountants of India
+3.42  AUDITING AND ETHICS
+
+(f) Whether the risk involves significant transactions that are outside the normal
+       course of business for the entity, or that otherwise appear to be unusual.
+
+5.1 Identifying Significant Risks
+
+Significant risks often relate to significant non-routine transactions or judgmental
+matters. Non-routine transactions are transactions that are unusual, due to either
+size or nature, and that therefore occur infrequently. Judgmental matters may
+include the development of accounting estimates for which there is significant
+measurement uncertainty. Significant risks are inherent risks with both a higher
+likelihood of occurrence and a higher magnitude of potential misstatement. The
+auditor assesses assertions affected by a significant risk as higher inherent risk. The
+following are always significant risks:
+
+ Risks of material misstatement due to fraud
+ Significant transactions with related parties that are outside the normal course
+
+       of business for the entity
+
+5.2 Risks of Material Misstatement ­ Greater for
+      Significant Non-Routine Transactions
+
+Risks of material misstatement may be greater for significant non-routine
+transactions arising from matters such as the following:
+
+ Greater management intervention to specify the accounting treatment.
+
+ Greater manual intervention for data collection and processing.
+
+ Complex calculations or accounting principles.
+
+ The nature of non-routine transactions, which may make it difficult for the
+       entity to implement effective controls over the risks.
+
+5.3 Risks of material misstatement­ Greater for Significant
+      Judgmental Matters
+
+Risks of material misstatement may be greater for significant judgmental matters
+that require the development of accounting estimates, arising from matters such
+as the following:
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.43
+
+ Accounting principles for accounting estimates or revenue recognition may
+       be subject to differing interpretation.
+
+ Required judgment may be subjective or complex, or require assumptions
+       about the effects of future events, for example, judgment about fair value.
+
+    6. EVALUATION OF INTERNAL CONTROL
+          SYSTEM
+
+So far as the auditor is concerned, the examination and evaluation of the internal
+control system is an indispensable part of the overall audit programme. The auditor
+needs reasonable assurance that the accounting system is adequate and that all
+the accounting information which should be recorded has in fact been recorded.
+Internal control normally contributes to such assurance.
+
+6.1 Benefits of Evaluation of Internal Control to the
+      Auditor
+
+The review of internal controls will enable the auditor to know:
+
+(i) whether errors and frauds are likely to be located in the ordinary course of
+       operations of the business
+
+(ii) whether an adequate internal control system is in use and operating as
+       planned by the management
+
+(iii) whether an effective internal auditing department is operating
+
+(iv) whether any administrative control has a bearing on his work (for example, if
+       the control over worker recruitment and enrolment is weak, there is a
+       likelihood of dummy names being included in the wages sheet and this is
+       relevant for the auditor)
+
+(v) whether the controls adequately safeguard the assets
+
+(vi) how far and how adequately the management is discharging its function in
+       so far as correct recording of transactions is concerned
+
+(vii) how reliable the reports, records and the certificates to the management can
+       be
+
+© The Institute of Chartered Accountants of India
+3.44  AUDITING AND ETHICS
+
+(viii) the extent and the depth of the examination that he needs to carry out in the
+       different areas of accounting
+
+(ix) what would be appropriate audit technique and the audit procedure in the
+       given circumstances
+
+(x) what are the areas where control is weak and where it is excessive and
+
+(xi) whether some worthwhile suggestions can be given to improve the control
+       system.
+
+ILLUSTRATION 9
+
+Mr. Y, one of the team member of the auditors of What and Where Limited was very
+keen in knowing whether the internal control of the company would safeguard the
+company's assets. Advise Mr. Y.
+
+SOLUTION
+
+The review of internal controls will enable the auditors to know whether the
+controls adequately safeguard the assets.
+
+ILLUSTRATION 10
+
+Mr. H, a team member of the auditor of There and Here Limited was of the view that
+evaluation of internal control of the company would help in identifying the areas
+where internal control is weak. Advise
+
+SOLUTION
+
+The review of internal controls will enable the auditor to know what are the areas
+where control is weak and where it is excessive.
+Formulate Audit Program after understanding Internal Control
+
+The auditor can formulate his entire audit programme only after he has had a
+satisfactory understanding of the internal control systems and their actual
+operation. If he does not care to study this aspect, it is very likely that his audit
+programme may become unwieldy and unnecessarily heavy and the object of the
+audit may be altogether lost in the mass of entries and vouchers. It is also important
+for him to know whether the system is actually in operation. Often, after installation
+of a system, no proper follow up is there by the management to ensure compliance.
+The auditor, in such circumstances, may be led to believe that a system is in
+operation which in reality may not be altogether in operation or may at best
+operate only partially. This state of affairs is probably the worst that an auditor may
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.45
+
+come across and he would be in the midst of confusion, if he does not take care.
+
+It would be better if the auditor can undertake the review of the internal control
+system of client. This will give him enough time to assimilate the controls and
+implications and will enable him to be more objective in the framing of the audit
+programme. He will also be in a position to bring to the notice of the management
+the weaknesses of the system and to suggest measures for improvement. At a
+further interim date or in the course of the audit, he may ascertain how far the
+weaknesses have been removed.
+
+From the foregoing, it can be concluded that the extent and the nature of the audit
+programme is substantially influenced by the internal control system in operation.
+In deciding upon a plan of test checking, the existence and operation of internal
+control system is of great significance. A proper understanding of the internal
+control system in its content and working also enables an auditor to decide upon
+the appropriate audit procedure to be applied in different areas to be covered in
+the audit programme.
+
+In a situation where the internal controls are considered weak in some areas, the
+auditor might choose an auditing procedure or test that otherwise might not be
+required; he might extend certain tests to cover a large number of transactions or
+other items than he otherwise would examine and at times he may perform
+additional tests to bring him the necessary satisfaction.
+
+For example, normally the distribution of wages is not observed by the auditor. But
+if the internal control over wages is so weak that there exists a possibility of dummy
+workers being paid, the auditor might include observation of wages distribution in
+his programme in order to find out the workers who do not turn up for receipt of
+wages.
+
+On the other hand, if he is satisfied with the internal control on sales and trade
+receivables, the auditor can get trade receivables' balances confirmed at almost any
+time reasonably close to the balance sheet date. But if the control is weak, he may
+feel that he should get the confirmation exactly on the date of the year closing so
+that he may eliminate the risk of errors and frauds occurring between the
+intervening period. Also, he may in that situation, decide to have a large coverage
+of trade receivables by the confirmation procedure.
+
+© The Institute of Chartered Accountants of India
+           3.46  AUDITING AND ETHICS
+
+6.2 Evaluation of Internal Control­ Methods
+
+A review of the internal control can be done by a process of study, examination and
+evaluation of the control system installed by the management. The first step
+involves determination of the control and procedures laid down by the
+management. By reading company manuals, studying organisation charts and flow
+charts and by making suitable enquiries from the officers and employees, the
+auditor may ascertain the character, scope and efficacy of the control system.
+
+The auditor must ask the right people the right questions if he is to get the
+information he wants. It would be better if he makes written notes of the relevant
+information and procedures contained in the manual or ascertained on enquiry. To
+facilitate the accumulation of the information necessary for the proper review and
+evaluation of internal controls, the auditor can use one of the following to help him
+to know and assimilate the system and evaluate the same:
+
+(A) Narrative record
+
+(B) Check List
+
+(C) Internal Control questionnaire and
+
+(D) Flow chart
+
+                 Methods of evaluation of
+                       internal control
+
+Narrative        Check list  Internal Control  Flow Chart
+  record                      questionnaire
+
+6.2(A) The Narrative Record
+
+This is a complete and exhaustive description of the system as found in operation
+by the auditor. Actual testing and observation are necessary before such a record
+can be developed. It may be recommended in cases where no formal control system
+is in operation and would be more suited to small business.
+The basic disadvantages of narrative records are:
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.47
+
+(i) To comprehend the system in operation is quite difficult.
+
+(ii) To identify weaknesses or gaps in the system.
+
+(iii) To incorporate changes arising on account of reshuffling of manpower, etc.
+
+6.2(B) Check List
+
+This is a series of instructions and/or questions which a member of the auditing
+staff must follow and/or answer. When he completes instruction, he initials the
+space against the instruction. Answers to the check list instructions are usually
+Yes, No or Not Applicable. This is again an on-the-job requirement and
+instructions are framed having regard to the desirable elements of control.
+
+Example
+
+A few examples of check list instructions are given hereunder:
+
+1. Are tenders called before placing orders?
+
+2. Are the purchases made on the basis of a written order?
+
+3. Is the purchase order form standardised?
+
+4. Are purchase order forms pre-numbered?
+
+5. Are the inventory control accounts maintained by persons who have nothing
+       to do with custody of work, receipt of inventory, inspection of inventory and
+       purchase of inventory?
+
+The complete check list is studied by the Principal/Manager/Senior to ascertain
+existence of internal control and evaluate its implementation and efficiency.
+
+6.2(C) Internal Control Questionnaire
+
+This is a comprehensive series of questions concerning internal control. This is the
+most widely used form for collecting information about the existence, operation
+and efficiency of internal control in an organisation. An important advantage of the
+questionnaire approach is that oversight or omission of significant internal control
+review procedures is less likely to occur with this method. With a proper
+questionnaire, all internal control evaluation can be completed at one time or in
+sections. The review can more easily be made on an interim basis. The questionnaire
+form also provides an orderly means of disclosing control defects. It is the general
+
+© The Institute of Chartered Accountants of India
+3.48  AUDITING AND ETHICS
+
+practice to review the internal control system annually and record the review in
+detail. In the questionnaire, generally questions are so framed that a `Yes' answer
+denotes satisfactory position and a `No' answer suggests weakness. Provision is
+made for an explanation or further details of `No' answers. In respect of questions
+not relevant to the business, `Not Applicable' reply is given. The questionnaire is
+usually issued to the client and the client is requested to get it filled by the
+concerned executives and employees. If on a perusal of the answers, inconsistencies
+or apparent incongruities are noticed, the matter is further discussed by auditor's
+staff with the client's employees for a clear picture. The concerned auditor then
+prepares a report of deficiencies and recommendations for improvement.
+
+Few illustrative examples of Internal Control Questionnaire in different areas
+of an entity are given as under:
+
+Examples of Extracts of Internal Control Questionnaire in respect of purchases,
+creditors, inventories and fixed assets
+
+A. Purchases
+
+(1) Are purchases centralised in the Purchase Department?
+
+(2) (a) Are purchases made only from approved suppliers?
+
+       (b) Is a list of approved suppliers maintained for this purpose?
+
+       (c) Does the master list contain more than one source of supply for all
+               important materials?
+
+(3) Are the purchase orders based on valid purchase requisitions duly signed by
+       authorised persons in this behalf?
+
+(4) Are purchases based on competitive quotations from two or more suppliers?
+
+(5) Are purchase orders pre-numbered?
+
+(6) Are purchase orders signed only by employees authorized in this behalf?
+
+(7) Are all materials received only in the Receiving Department?
+
+(8) Are persons connected with receipt of materials and the keeping of receiving
+       records denied authority to issue purchase orders or to approve invoices?
+
+(9) Are materials inspected and counted, weighed or measured in the Receiving
+       Department?
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL  3.49
+
+(10) Are receipt of materials evidenced by pre-numbered Goods Received Note?
+
+B. Creditors
+(1) (a) Are suppliers' invoices routed direct to the Accounts Department?
+
+       (b) Are they entered in a Bill register before submitting them to other
+               departments for check and/or approval?
+
+       (c) Are advance and partial payments entered on the invoices before they
+               are submitted to other departments?
+
+(2) Does the system ensure that all invoices are duly processed?
+
+(3) In respect of raw material and supplies, are reconciliations made of quantities
+       and/or values received as shown by purchase invoices with receipt into stock
+       records?
+
+(4) Does the Accounts Department match the invoices of supplies with Goods
+       Received Notes and purchase orders?
+
+(5) Do all invoices bear evidence of being checked for prices, freight, terms etc.?
+
+(6) Are all advance payments duly authorized by persons competent to authorize
+       such payments?
+
+(7) Are duplicate invoices marked immediately on receipt to avoid payment
+       against them?
+
+(8) Are all supplier's statements compared with ledger accounts?
+
+(9) Is there any follow-up action to investigate difference, if any, between the
+       suppliers' statements and the ledger accounts?
+
+(10) Is a list of unpaid creditors prepared and reconciled periodically?
+C. Inventories
+(1) Are stocks stored in assigned areas?
+
+(2) Are stocks insured comprehensively against different risks? If some risk is not
+       insured, whether it is due to specific decision taken by a senior official?
+
+(3) Is a record maintained for the insurance policies?
+
+(4) Is the record reviewed periodically?
+
+(5) Is there an official who decides on the value for which stocks are to be
+       insured?
+
+© The Institute of Chartered Accountants of India
+3.50  AUDITING AND ETHICS
+
+(6) Is the adequacy of insurance cover reviewed periodically?
+(7) Are perpetual stock records kept for raw materials, work-in-progress, finished
+
+       goods and stores?
+(8) Are stock records periodically reconciled with accounting records?
+(9) Where there is a system of perpetual inventory count:
+
+       (a) Is there a periodical report of shortages/excess?
+       (b) If so, are these differences investigated?
+       (c) Are these differences adjusted in the stock records and in the financial
+
+               accounts?
+       (d) Is written approval obtained from a responsible official to adjust these
+
+               differences?
+(10) Are there norms for stock levels to be held?
+D. Fixed Assets
+(1) Are budgets for capital expenditure approved?
+(2) Is the authority to incur capital expenditure restricted to specified officials?
+(3) Are purchases of capital expenditure subject to same controls as applicable
+
+       to purchases of raw materials, stores etc.?
+(4) Is there proper check to see that amounts expended do not exceed the
+
+       amount authorized?
+(5) Are fixed assets verified periodically?
+(6) Is there a written procedure for such verification?
+(7) Are reports prepared on such verification?
+(8) Do such reports indicate damaged/obsolete items of fixed assets?
+(9) Are discrepancies disclosed by such reports investigated?
+(10) Are the records and financial accounts corrected with appropriate authority?
+
+Note: The Internal Control questionnaire is usually issued to the client and the
+client is requested to get it filled by the concerned executives and employees by
+giving replies as Yes/No/Not applicable along with explanatory notes, if any.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.51
+
+6.2(D) Flow Chart
+
+It is a graphic presentation of each part of the company's system of internal control.
+A flow chart is considered to be the most concise way of recording the auditor's
+review of the system. It minimises the amount of narrative explanation and thereby
+achieves a consideration or presentation not possible in any other form.
+
+It gives bird's eye view of the system and the flow of transactions and integration
+and in documentation, can be easily spotted and improvements can be suggested. It
+is also necessary for the auditor to study the significant features of the business
+carried on by the concern, the nature of its activities and various channels of goods
+and materials as well as cash, both inward and outward and also a comprehensive
+study of the entire process of manufacturing, trading and administration. This will
+help him to understand and evaluate the internal controls in the correct perspective.
+
+ILLUSTRATION 11
+
+In order to evaluate the Internal Control of Your and My Limited, a team member of
+the auditors used a method according to which, number of questions relating to
+internal control of the company were required to be answered by the employees of
+the company. After obtaining the answers there was a discussion relating to those
+answers between team member of the auditor and employees of the company for a
+clear picture. State the method of evaluation of internal control as discussed above.
+
+SOLUTION
+
+The method of evaluation of internal control used in the above question is known
+as Internal Control Questionnaire because in questionnaire method, a number of
+questions relating to internal control of a company are required to be answered by
+employees of that company and when answers to the questions are obtained, there
+is a discussion relating to those answers between team members of the auditors
+and employees of that company for a clear picture.
+
+ILLUSTRATION 12
+
+Healthy and Useful Limited is into small manufacturing as well as trading business.
+For the purpose of evaluating the internal control of Healthy and Useful Limited, a
+team member of the auditors of the company used a method according to which
+the whole description of internal control that was operating in the said company
+was to be recorded. Identify the method of evaluation of internal control as
+mentioned above.
+
+© The Institute of Chartered Accountants of India
+3.52  AUDITING AND ETHICS
+
+SOLUTION
+
+The method of evaluation of internal control referred above is known as Narrative
+Record because in Narrative Record method, a whole description of internal control
+operating in an entity is recorded. Narrative Record method is also appropriate for
+small manufacturing as well as trading business as is mentioned in the question
+above case.
+
+    7. TESTING OF INTERNAL CONTROL
+
+After assimilating the internal control system, the auditor needs to examine
+whether and how far the same is actually in operation. For this, he resorts to actual
+testing of the system in operation. This he does on a selective basis: he can plan
+this testing in such a manner that all the important areas are covered in a period
+of, say, three years.
+
+Test of controls are performed to obtain audit evidence about the effectiveness of
+the:-
+
+(i) Design of the accounting and internal control system
+
+(ii) Operation of the internal control throughout the period
+
+Test of controls include tests of elements of the control environment where
+strengths in the control environment are used by auditors to reduce control risk.
+Some of the procedures performed to obtain the understanding of the accounting
+and internal control systems may not have been specifically planned as tests of
+control but may provide audit evidence about the effectiveness of the design and
+operation of internal controls relevant to certain assertions and, consequently,
+serve as tests of control. For example, in obtaining the understanding of the
+accounting and internal control systems pertaining to cash, the auditor may have
+obtained audit evidence about the effectiveness of the bank reconciliation process
+through inquiry and observation. When the auditor concludes that procedures
+performed to obtain the understanding of the accounting and internal control
+systems also provide audit evidence about the suitability of design and operating
+effectiveness of policies and procedures relevant to a particular financial statement
+assertion, the auditor may use that audit evidence, provided it is sufficient to
+support a control risk assessment at less than a high level.
+
+Test of controls may include:
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL  3.53
+
+ Inspection of documents supporting transactions and other events to gain
+       audit evidence that internal controls have operated properly, for example,
+       verifying that a transaction has been authorised.
+
+ Inquiries about, and observation of, internal controls which leave no audit
+       trail, for example, determining who actually performs each function and not
+       merely who is supposed to perform it.
+
+ Re-performance involves the auditor's independent execution of procedures
+       or controls that were originally performed as part of the entity's internal
+       control, for example, reconciliation of bank accounts, to ensure they were
+       correctly performed by the entity.
+
+ Testing of internal control operating on specific computerised applications or
+       over the overall information technology function, for example, access or
+       program change controls.
+
+While obtaining audit evidence about the effective operation of internal controls,
+the auditor considers how they were applied, the consistency with which they were
+applied during the period and by whom they were applied. The concept of effective
+operation recognises that some deviations may have occurred. Deviations from
+prescribed controls may be caused by such factors as changes in key personnel,
+significant seasonal fluctuations in volume of transactions and human error. When
+deviations are detected, the auditor makes specific inquiries regarding these
+matters, particularly, the timing of staff changes in key internal control functions.
+The auditor then ensures that the tests of control appropriately cover such a period
+of change or fluctuation.
+
+Based on the results of the tests of control, the auditor should evaluate whether
+the internal controls are designed and operating as contemplated in the
+preliminary assessment of control risk. The evaluation of deviations may result in
+the auditor concluding that the assessed level of control risk needs to be revised.
+In such cases, the auditor would modify the nature, timing and extent of planned
+substantive procedures.
+
+Before the conclusion of the audit, based on the results of substantive procedures
+and other audit evidence obtained by the auditor, the auditor should consider
+whether the assessment of control risk is confirmed. In case of deviations from the
+prescribed accounting and internal control systems, the auditor would make
+specific inquiries to consider their implications. Where, on the basis of such
+
+© The Institute of Chartered Accountants of India
+3.54  AUDITING AND ETHICS
+
+inquiries, the auditor concludes that the deviations are such that the preliminary
+assessment of control risk is not supported, he would amend the same unless the
+audit evidence obtained from other tests of control supports that assessment.
+Where the auditor concludes that the assessed level of control risk needs to be
+revised, he would modify the nature, timing and extent of his planned substantive
+procedures.
+
+    8. WHAT IS AN AUTOMATED ENVIRONMENT?
+
+An automated environment basically refers to a business environment where the
+processes, operations, accounting and even decisions are carried out by using
+computer systems ­ also known as Information Systems (IS) or Information
+Technology (IT) systems. Nowadays, it is very common to see computer systems
+being used in almost every type of business.
+
+8.1 Key features of an automated environment
+
+The fundamental principle of an automated environment is the ability to carry out
+business with less manual intervention and more system driven. The complexity of
+a business environment depends on the level of automation i.e., if a business
+environment is more automated, it is likely to be more complex. Key features of an
+automated environment are as under: -
+
+ Enables faster business operation
+ Accuracy in data processing and computation
+ Ability to process large volume of transactions
+ Integration amongst business operations
+ Better security and controls
+ Less prone to human errors
+ Provides latest information
+ Connectivity and networking capability
+
+If a company uses an integrated enterprise resource planning system (ERP) viz.,
+SAP, Oracle etc., then it is considered more complex to audit. On the other hand, if
+a company is using an off-the-shelf accounting software, then it is likely to be less
+automated and hence less complex environment.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.55
+
+8.2 Understanding and documenting automated
+      environment
+
+In an audit of financial statements, an auditor is required to understand the entity
+and its business, including IT. Understanding the entity and its automated
+environment involves understanding how IT department is organised, IT activities,
+the IT dependencies, relevant risks and controls. Given below are some of the points
+that an auditor should consider to obtain an understanding of the company's
+automated environment:
+
+ Information systems being used (one or more application systems and what
+       they are)
+
+ Their purpose (financial and non-financial)
+ Location of IT systems - local vs global
+ Architecture (desktop based, client-server, web application, cloud based)
+ Version (functions and risks could vary in different versions of same
+
+       application).
+ Interfaces within systems (in case multiple systems exist).
+ In-house vs Packaged.
+ Outsourced activities (IT maintenance and support).
+ Key persons (CIO, CISO, Administrators).
+
+The understanding of a company's IT environment that is obtained should be
+documented.
+
+8.3 Risks arising from use of IT Systems
+
+Having obtained an understanding of the IT systems and the automated environment
+of a company, the auditor should now understand the risks that arise from the use
+of IT systems. Given below are some such risks that should be considered:
+
+ Inaccurate processing of data, processing inaccurate data, or both.
+ Unauthorized access to data.
+ Direct data changes (backend changes).
+ Excessive access / Privileged access (super users).
+
+© The Institute of Chartered Accountants of India
+3.56  AUDITING AND ETHICS
+
+ Lack of adequate segregation of duties.
+ Unauthorized changes to systems or programs.
+ Failure to make necessary changes to systems or programs.
+ Loss of data.
+
+8.4 Impact of IT related risks
+
+The above risks have to be mitigated. If not mitigated, such risks, could have an
+impact on audit in different ways discussed as under: -
+Impact on substantive checking
+Inability to address above discussed risks may lead to non-reliance of data obtained
+from systems. In such a case, all information, data, and reports would have to be
+tested thoroughly for their completeness and accuracy. It could lead to increased
+substantive checking i.e., detailed checking.
+Impact on controls
+It can lead to non-reliance on automated controls, system calculations and
+accounting procedures built into applications. It may result in additional audit work.
+Impact on reporting
+Due to regulatory requirements in respect of internal financial controls (discussed
+in subsequent paras) in case of companies, it may lead to modification of auditor's
+report in some instances.
+
+8.5 Types of Controls in an automated environment
+
+Controls in an automated environment can be categorized as under: -
+(A) General IT controls
+(B) Application controls
+(C) IT-dependent controls
+
+8.5(A) General IT controls
+
+General IT controls are policies and procedures that relate to many applications
+and support the effective functioning of application controls. General IT-controls
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.57
+
+that maintain the integrity of information and security of data commonly include
+controls over the following:
+
+ Data centre and network operations
+
+ Program change
+
+ Access security
+
+ Application system acquisition, development, and maintenance (Business
+       Applications)
+
+These are IT controls generally implemented to mitigate the IT specific risks and
+applied commonly across multiple IT systems, applications and business processes.
+Hence, General IT controls are known as "pervasive" controls or "indirect" controls.
+
+(a) Controls over Data centre and network operations
+
+The objective of controls over Data centre and network operations is to ensure that
+production systems are processed to meet financial reporting objectives. These
+include activities such as overall management of computer operation activities,
+preparing, scheduling and executing of batch jobs, monitoring, storage and
+retention of backups. Such controls also help in performance monitoring of
+operating system, database and networks. Matters such as BCP (Business continuity
+plan) and DRP (Disaster recovery plan) which deal with recovery from failures are
+also taken care of by such type of controls.
+
+(b) Program Change
+
+The objective of program change controls is to ensure that modified systems
+continue to meet financial reporting objectives. It includes activities such as change
+management process, recording, managing and tracking change requests, making
+and testing changes etc.
+
+(c) Access Security
+
+The objective of controls over access security is to ensure that access to programs
+and data is authenticated and authorized to meet financial reporting objectives. It
+includes activities such as security organization & management, security policies &
+procedures, application security, data security, operating system security, network
+security, physical security etc.
+
+© The Institute of Chartered Accountants of India
+3.58  AUDITING AND ETHICS
+
+(d) Application system acquisition, development, and maintenance
+
+The objective of such controls is to ensure that systems are developed, configured
+and implemented to meet financial reporting objectives. It includes overall
+management of development activities, project initiation, analysis & design,
+construction, testing & quality assurance etc.
+
+8.5(B) Application Controls
+
+Application controls include both automated or manual controls that operate at a
+business process level. Automated Application controls are embedded into IT
+applications viz., ERPs and help in ensuring the completeness, accuracy and
+integrity of data in those systems. Examples of automated applications include edit
+checks and validation of input data, sequence number checks, user limit checks,
+reasonableness checks, mandatory data fields.
+
+8.5(C) IT dependent Controls
+
+IT dependent controls are basically manual controls that make use of some form of
+data or information or report produced from IT systems and applications. In this
+case, even though the control is performed manually, the design and effectiveness
+of such controls depends on the reliability of source data. Due to the inherent
+dependency on IT, the effectiveness and reliability of automated application
+controls and IT dependent controls require the General IT controls to be effective.
+
+8.6 General IT Controls vs. Application Controls
+
+ These two categories of control over IT systems are interrelated.
+
+ The relationship between the application controls and the General IT Controls
+       is such that General IT Controls are needed to support the functioning of
+       application controls, and both are needed to ensure complete and accurate
+       information processing through IT systems.
+
+8.7 Testing methods in an automated environment
+
+Having learnt about the various IT risks and controls, let us understand the different
+ways testing is performed in an automated environment. There are basically four
+types of audit tests that should be used. These are inquiry, observation, inspection
+and reperformance.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.59
+
+Inquiry is the most efficient audit test but it also gives the least audit evidence.
+Hence, inquiry should always be used in combination with any one of the other
+audit testing methods. Inquiry alone is not sufficient. Reperformance is most
+effective as an audit test and gives the best audit evidence. However, testing by
+reperformance could be very time consuming and least efficient most of the time.
+
+Generally, applying inquiry in combination with inspection gives the most effective
+and efficient audit evidence. However, which audit test to use, when and in what
+combination is a matter of professional judgement and will vary depending on
+several factors including risk assessment, control environment, desired level of
+evidence required, history of errors/misstatements, complexity of business,
+assertions being addressed etc. The auditor should document the nature of test (or
+combination of tests) applied along with the judgements in the audit file.
+
+When testing in an automated environment, some of the more common methods
+are as follows:
+
+ Obtain an understanding of how an automated transaction is processed by
+       doing a walkthrough of one end-to-end transaction using a combination of
+       inquiry, observation and inspection.
+
+ Observe how a user processes transactions under different scenarios.
+
+ Inspect the configuration defined in an application.
+
+Where the general IT controls are not existing or existing but ineffective, the auditor
+should assess the impact of IT risks and complexity of the automated environment
+in which the business operations take place and plan alternative audit procedures
+in order to rely on the system-based information.
+
+    9. CHARACTERISTICS OF MANUAL AND
+          AUTOMATED ELEMENTS OF INTERNAL
+          CONTROL RELEVANT TO THE AUDITOR'S
+          RISK ASSESSMENT
+
+An entity's system of internal control contains manual elements and often contains
+automated elements. The characteristics of manual or automated elements are
+relevant to the auditor's risk assessment and further audit procedures based
+thereon. The use of manual or automated elements in internal control also affects
+
+© The Institute of Chartered Accountants of India
+3.60  AUDITING AND ETHICS
+
+the manner in which transactions are initiated, recorded, processed, and reported:
+
+(a) Controls in a manual system may include such procedures as approvals and
+       reviews of transactions, and reconciliations and follow-up of reconciling
+       items. Alternatively, an entity may use automated procedures to initiate,
+       record, process, and report transactions, in which case records in electronic
+       format replace paper documents.
+
+(b) Controls in IT systems consist of a combination of automated controls (for
+       example, controls embedded in computer programs) and manual controls.
+       Further, manual controls may be independent of IT, may use information
+       produced by IT, or may be limited to monitoring the effective functioning of
+       IT and of automated controls, and to handling exceptions.
+
+9.1 Manual elements vs automated elements in entity's
+      internal control
+
+Manual elements in internal control may be more suitable where judgment and
+discretion are required such as for the following circumstances:
+
+ Large, unusual or non-recurring transactions.
+
+ Circumstances where errors are difficult to define, anticipate or predict.
+
+ In changing circumstances that require a control response outside the scope of
+       an existing automated control.
+
+ In monitoring the effectiveness of automated controls.
+
+Manual elements in internal control may be less reliable than automated elements
+because they can be more easily bypassed, ignored, or overridden and they are
+also more prone to simple errors and mistakes. Consistency of application of a
+manual control element cannot therefore be assumed. Manual control elements
+may be less suitable for the following circumstances:
+
+ High volume or recurring transactions, or in situations where errors that can
+       be anticipated or predicted can be prevented, or detected and corrected, by
+       control parameters that are automated.
+
+ Control activities where the specific ways to perform the control can be
+       adequately designed and automated.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL  3.61
+
+The extent and nature of the risks to internal control vary depending on the nature
+and characteristics of the entity's information system. The entity responds to the
+risks arising from the use of IT or from use of manual elements in internal control
+by establishing effective controls in light of the characteristics of the entity's
+information system.
+
+10. AUDIT APPROACH IN AN AUTOMATED
+      ENVIRONMENT
+
+    11. DATA ANALYTICS FOR AUDIT
+
+In today's digital age when companies rely on more and more on IT systems and
+networks to operate business, the amount of data and information that exists in
+these systems is enormous. The combination of processes, tools and techniques
+that are used to tap vast amounts of electronic data to obtain meaningful
+information is called data analytics. While it is true that companies can benefit
+immensely from the use of data analytics in terms of increased profitability, better
+customer service, gaining competitive advantage, more efficient operations, etc.,
+even auditors can make use of similar tools and techniques in the audit process
+and obtain good results.
+
+© The Institute of Chartered Accountants of India
+3.62  AUDITING AND ETHICS
+
+The tools and techniques that auditors use in applying the principles of data
+analytics are known as Computer Assisted Auditing Techniques or CAATs in short.
+Data analytics can be used in testing of electronic records and data residing in IT
+systems using spreadsheets and specialised audit tools viz., IDEA and ACL to
+perform the following:
+
+ Check completeness of data and population that is used in either test of
+       controls or substantive audit tests.
+
+ Selection of audit samples ­ random sampling, systematic sampling.
+
+ Re-computation of balances ­ reconstruction of trial balance from transaction
+       data.
+
+ Reperformance of mathematical calculations ­ depreciation, bank interest
+       calculation.
+
+ Analysis of journal entries
+
+ Fraud investigation.
+
+ Evaluating impact of control deficiencies.
+
+    12. DIGITAL AUDIT
+
+Entities are embracing digitization as part of their operations to keep pace with
+changing times. New technologies are helping companies revamp their
+operations and rethink the way business is conducted. Companies are
+restructuring their business models driven by technology. Automation is key to
+digitization.
+
+In such a business environment, use of digital technology is being made by
+auditors right from planning to expression of final opinion. Auditors are making
+use of artificial intelligence, data analytics and other latest technologies to help
+understand business processes in a better way. By using such tools, auditors can
+conduct audit in a better way and devote more attention to areas requiring
+greater focus. Digital audit is helping auditors to better identify risks making use
+of technology.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.63
+
+     13. INTERNAL FINANCIAL CONTROLS AS PER
+           REGULATORY REQUIREMENTS
+
+The term Internal Financial Controls (IFC) basically refers to the policies and
+procedures put in place by companies for ensuring:
+
+ Reliability of financial reporting
+ Effectiveness and efficiency of operations
+ Compliance with applicable laws and regulations
+ Safeguarding of assets
+ Prevention and detection of frauds
+
+The Companies Act, 2013 has placed a greater emphasis on the effective
+implementation and reporting on the internal controls for a company. The term
+"internal financial controls" is used at some places in the Companies Act, 2013
+casting responsibilities as under: -
+
+Relevant provision of Nature of Responsibility
+
+the       Companies
+
+Act,2013
+
+Section 134 (5)(e)        In case of listed Companies, the Directors'
+                          responsibility statement shall state that the Directors
+                          had laid down Internal financial controls to be followed
+                          by the company and that such Internal financial
+                          controls are adequate and were operating effectively.
+
+Section 143(3)(i) of the  The auditor's report shall state whether the company
+Act                       has adequate Internal financial controls system in
+                          place and also on the operating effectiveness of such
+                          controls.
+
+                          This requirement shall not apply to a private company
+                          which ­
+
+                          (i) is One Person Company or a small company; or
+
+                          (ii) has turnover less than  50 crore as per latest
+                                 audited Financial Statements; and which has
+                                 aggregate borrowings from banks or financial
+                                 institutions or any body corporate at any point
+
+© The Institute of Chartered Accountants of India
+         3.64             AUDITING AND ETHICS
+
+                          of time during the financial Year for less than 
+                          25 crore.
+
+Section 177(4)(vii) of Every audit Committee shall act in accordance with the
+
+the Act                   terms of reference specified in writing by the Board
+
+                          which shall, inter alia, include - evaluation of internal
+
+                          financial controls and risk management systems.
+
+As per Section 149(8) of  The company and independent directors shall abide by
+the Act                   the provisions specified in Schedule IV which lays
+                          down the Code for independent Directors. As per this
+                          code, the role and functions of independent directors
+                          include that they shall satisfy themselves on the
+                          integrity of financial information and that financial
+                          controls and the systems of risk management are
+                          robust and defensible.
+
+The directors and management have primary responsibility of implementing and
+maintaining an effective internal controls framework and auditors are expected to
+evaluate, validate and report on the design and operating effectiveness of internal
+financial controls.
+
+    14. DOCUMENTING THE RISKS
+
+The auditor shall document:
+
+(a) The discussion among the engagement team and the significant decisions
+       reached
+
+(b) Key elements of the understanding obtained regarding each of the aspects
+       of the entity and its environment and of each of the internal control
+       components, the sources of information from which the understanding was
+       obtained; and the risk assessment procedures performed
+
+(c) The identified and assessed risks of material misstatement at the financial
+       statement level and at the assertion level and
+
+(d) The risks identified, and related controls about which the auditor has
+       obtained an understanding.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.65
+
+    15. ASSESS AND REPORT AUDIT FINDINGS
+
+At the conclusion of each audit, it is possible that there will be certain findings or
+exceptions in IT environment and IT controls of the company that need to be
+assessed and reported to relevant stakeholders including management and those
+charged with governance viz., Board of directors, Audit committee .
+
+Some points to consider are as follows:
+
+ Are there any weaknesses in IT controls?
+
+ What is the impact of these weaknesses on overall audit?
+
+ Report deficiencies to management ­ Internal controls memo or
+       Management letter.
+
+ Communicate in writing any significant deficiencies to those Charged with
+       governance.
+
+The auditor needs to assess each finding or exception to determine impact on the
+audit and evaluate if the exception results in a deficiency in internal control.
+
+A deficiency in internal control exists if a control is designed, implemented or
+operated in such a way that it is unable to prevent, or detect and correct,
+misstatements in the financial statements on a timely basis; or the control is
+missing. Evaluation and assessment of audit findings and control deficiencies
+involves applying professional judgement that include considerations for
+quantitative and qualitative measures. Each finding should be looked at individually
+and in the aggregate by combining with other findings/deficiencies.
+
+    16. THE AUDITOR'S RESPONSES TO ASSESSED
+          RISKS
+
+SA 330- The auditor's responses to assessed risks deals with the auditor's
+responsibility to design and implement responses to the risks of material
+misstatement identified and assessed by the auditor in accordance with SA 315,
+"Identifying and Assessing Risks of Material Misstatement Through Understanding
+the Entity and Its Environment" in a financial statement audit.
+
+© The Institute of Chartered Accountants of India
+3.66  AUDITING AND ETHICS
+
+The objective of the auditor is to obtain sufficient appropriate audit evidence about
+the assessed risks of material misstatement, through designing and implementing
+appropriate responses to those risks.
+
+SA 330 states that: -
+
+(a) The auditor shall design and implement overall responses to address the
+       assessed risks of material misstatement at the financial statement level.
+
+(b) The auditor shall design and perform further audit procedures whose nature,
+       timing and extent are based on and are responsive to the assessed risks of
+       material misstatement at the assertion level.
+
+In designing the further audit procedures to be performed, the auditor shall:
+
+(a) Consider the reasons for the assessment given to the risk of material
+       misstatement at the assertion level for each class of transactions, account
+       balance, and disclosure, including:
+
+       (i) The likelihood of material misstatement due to the particular
+               characteristics of the relevant class of transactions, account balance, or
+               disclosure (i.e., the inherent risk); and
+
+       (ii) Whether the risk assessment takes into account the relevant controls
+               (i.e., the control risk), thereby requiring the auditor to obtain audit
+               evidence to determine whether the controls are operating effectively
+               (i.e., the auditor intends to rely on the operating effectiveness of
+               controls in determining the nature, timing and extent of substantive
+               procedures); and
+
+(b) Obtain more persuasive audit evidence the higher the auditor's assessment
+       of risk.
+
+The auditor shall design and perform tests of controls to obtain sufficient
+appropriate audit evidence as to the operating effectiveness of relevant
+controls when:
+
+(a) The auditor's assessment of risks of material misstatement at the assertion
+       level includes an expectation that the controls are operating effectively (i.e.,
+       the auditor intends to rely on the operating effectiveness of controls in
+       determining the nature, timing and extent of substantive procedures); or
+
+(b) Substantive procedures alone cannot provide sufficient appropriate audit
+       evidence at the assertion level.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.67
+
+In designing and performing tests of controls, the auditor shall obtain more
+persuasive audit evidence the greater the reliance the auditor places on the
+effectiveness of a control.
+
+A higher level of assurance may be sought about the operating effectiveness of
+controls when the approach adopted consists primarily of tests of controls, in
+particular, where it is not possible or practicable to obtain sufficient appropriate
+audit evidence only from substantive procedures.
+
+16.1 Nature and Extent of Test of Controls
+
+In designing and performing test of controls, the auditor shall:
+
+(a) Perform other audit procedures in combination with inquiry to obtain audit
+       evidence about the operating effectiveness of the controls, including:
+
+       (i) How the controls were applied at relevant times during the period
+               under audit.
+
+       (ii) The consistency with which they were applied.
+
+       (iii) By whom or by what means they were applied.
+
+(b) Determine whether the controls to be tested depend upon other controls
+       (indirect controls), and if so, whether it is necessary to obtain audit evidence
+       supporting the effective operation of those indirect controls.
+
+Inquiry alone is not sufficient to test the operating effectiveness of controls.
+Accordingly, other audit procedures are performed in combination with inquiry.
+In this regard, inquiry combined with inspection or reperformance may provide
+more assurance than inquiry and observation, since an observation is pertinent
+only at the point in time at which it is made.
+
+The nature of the particular control influences the type of procedure required to
+obtain audit evidence about whether the control was operating effectively.
+
+For example, if operating effectiveness is evidenced by documentation, the
+auditor may decide to inspect it to obtain audit evidence about operating
+effectiveness.
+
+When more persuasive audit evidence is needed regarding the effectiveness of a
+control, it may be appropriate to increase the extent of testing of the control as
+well as the degree of reliance on controls.
+
+© The Institute of Chartered Accountants of India
+3.68  AUDITING AND ETHICS
+
+Matters the auditor may consider in determining the extent of test of controls
+include the following:
+
+ The frequency of the performance of the control by the entity during the
+       period.
+
+ The length of time during the audit period that the auditor is relying on the
+       operating effectiveness of the control.
+
+ The expected rate of deviation from a control.
+
+ The relevance and reliability of the audit evidence to be obtained regarding
+       the operating effectiveness of the control at the assertion level.
+
+ The extent to which audit evidence is obtained from tests of other controls
+       related to the assertion.
+
+16.2 Timing of Test of Controls
+
+The auditor shall test controls for the particular time, or throughout the period, for
+which the auditor intends to rely on those controls in order to provide an
+appropriate basis for the auditor's intended reliance. Audit evidence pertaining
+only to a point in time may be sufficient for the auditor's purpose, for example,
+when testing controls over the entity's physical inventory counting at the period
+end. If, on the other hand, the auditor intends to rely on a control over a period,
+tests that are capable of providing audit evidence that the control operated
+effectively at relevant times during that period are appropriate. Such tests may
+include tests of the entity's monitoring of controls.
+
+16.3 Using Audit Evidence Obtained in Previous Audits
+
+In determining whether it is appropriate to use audit evidence about the operating
+effectiveness of controls obtained in previous audits, and, if so, the length of the
+time period that may elapse before retesting a control, the auditor shall consider
+the following:
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.69
+
+(a) The effectiveness of other elements of internal control, including the control
+       environment, the entity's monitoring of controls, and the entity's risk
+       assessment process
+
+(b) The risks arising from the characteristics of the control, including whether it
+       is manual or automated
+
+(c) The effectiveness of general IT-controls
+
+(d) The effectiveness of the control and its application by the entity, including
+       the nature and extent of deviations in the application of the control noted in
+       previous audits, and whether there have been personnel changes that
+       significantly affect the application of the control
+
+(e) Whether the lack of a change in a particular control poses a risk due to
+       changing circumstances and
+
+(f) The risks of material misstatement and the extent of reliance on the control
+
+If the auditor plans to use audit evidence from a previous audit about the operating
+effectiveness of specific controls, the auditor shall establish the continuing
+relevance of that evidence by obtaining audit evidence about whether significant
+changes in those controls have occurred subsequent to the previous audit.
+
+16.4 Evaluating the Operating Effectiveness of Controls
+
+When evaluating the operating effectiveness of relevant controls, the auditor shall
+evaluate whether misstatements that have been detected by substantive
+procedures indicate that controls are not operating effectively. The absence of
+misstatements detected by substantive procedures, however, does not provide
+audit evidence that controls related to the assertion being tested are effective. A
+material misstatement detected by the auditor's procedures is a strong indicator of
+the existence of a significant deficiency in internal control.
+
+16.5 Specific inquiries by auditor when deviations from
+      controls are detected
+
+When deviations from controls upon which the auditor intends to rely are detected,
+the auditor shall make specific inquiries to understand these matters and their
+
+© The Institute of Chartered Accountants of India
+3.70  AUDITING AND ETHICS
+
+potential consequences, and shall determine whether:
+
+(a) The test of controls that have been performed provide an appropriate basis
+       for reliance on the controls
+
+(b) Additional test of controls are necessary or
+
+(c) The potential risks of misstatement need to be addressed using substantive
+       procedures.
+
+Irrespective of the assessed risks of material misstatement, the auditor shall design
+and perform substantive procedures for each material class of transactions, account
+balance, and disclosure.
+
+This requirement reflects the facts that:
+
+(i) the auditor's assessment of risk is judgmental and so may not identify all risks
+       of material misstatement and
+
+(ii) there are inherent limitations to internal control, including management
+       override.
+
+Substantive procedures are audit procedures designed to detect material
+misstatements at the assertion level. Substantive procedures comprise: (i) Tests of
+details (of classes of transactions, account balances, and disclosures), and (ii)
+Substantive analytical procedures.
+
+16.6 Tests of Details
+
+Tests of details are further classified into tests of transactions i.e., vouching and
+tests of balances i.e., verification.
+
+For example, a purchase transaction may be verified by examining the related
+purchase invoice, goods received note, inward gate entry register. Such tests of
+transactions help in establishing the authenticity of transactions recorded in books
+of accounts.
+
+Tests of balances consist of verification of assets as well as liabilities. Verification of
+an item of fixed asset, for example, would help in establishing existence of that
+asset as on date of balance sheet. This may be obtained by reviewing entity's plan
+for performing physical verification of fixed assets and obtaining evidence for
+performance of physical verification of fixed assets by management.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.71
+
+16.7 Substantive analytical procedures
+
+Substantive analytical procedures refer to analytical procedures used as substantive
+procedures by auditor. The term "analytical procedures" means evaluations of
+financial information through analysis of plausible relationships among both
+financial and non-financial data. Analytical procedures also encompass such
+investigation as is necessary of identified fluctuations or relationships that are
+inconsistent with other relevant information or that differ from expected values by
+a significant amount.
+
+The use of widely recognised ratios (such as profit margins for different types of
+retail entities) can often be used effectively in substantive analytical procedures to
+provide evidence to support the reasonableness of recorded amounts.
+
+Analytical procedures involving, for example, the prediction of total rental income
+on a building divided into apartments, taking the rental rates, the number of
+apartments and vacancy rates into consideration, can provide persuasive evidence
+and may eliminate the need for further verification by means of tests of details.
+
+Substantive analytical procedures are generally more applicable to large volumes
+of transactions that tend to be predictable over time.
+
+16.7.1 Nature and extent of Substantive procedures
+
+Depending on the circumstances, the auditor may determine that:
+
+· Performing only substantive analytical procedures will be sufficient to reduce
+       audit risk to an acceptably low level. For example, where the auditor's
+       assessment of risk is supported by audit evidence from tests of controls.
+
+· Only tests of details are appropriate.
+
+· A combination of substantive analytical procedures and tests of details are
+       most responsive to the assessed risks.
+
+Because the assessment of the risk of material misstatement takes account of
+internal control, the extent of substantive procedures may need to be increased
+when the results from test of controls are unsatisfactory.
+
+In designing tests of details, the extent of testing is ordinarily thought of in terms
+of the sample size. However, other matters are also relevant, including whether it
+is more effective to use other selective means of testing.
+
+© The Institute of Chartered Accountants of India
+3.72          AUDITING AND ETHICS
+
+               Auditor's responses
+                  to assessed risks
+
+      Tests of Controls                            Substantive
+                                                   Procedures
+
+      Tests of Details                                   Substantive
+                                                   analytical procedures
+
+  Tests of    Tests of balances
+transactions   i.e.verification
+i.e.vouching
+
+Test Your Understanding 9
+
+Zomba Products Private limited is a small company. The control systems in the
+company are rudimentary. How, you as an auditor of the company, would proceed
+to evaluate internal control of the company?
+
+Test Your Understanding 10
+
+A Chartered accountant during course of audit of a company finds that cash is not
+deposited into bank frequently although concerned staff of company was required
+to do so. Further, the official responsible for ensuring performance of above
+function, has also not paid any attention to it. Discuss what does it represent from
+auditor's perspective.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.73
+
+CASE STUDY-1
+
+CA Paritosh is auditor of a company. The financial statements of the company have
+just been received for audit. Following issues have been flagged pertaining to the
+financial statements of the company for purpose of risk assessment: -
+(i) The revenue of company has fallen from ` 50 crore in last year to ` 5 crore in
+
+       current year (for which financial statements have been received for audit) due
+       to lack of demand in the market for company's products.
+(ii) Due to advent of new products in the market, company's products are fast
+       becoming outdated.
+(iii) A large customer having an outstanding balance of ` 5 crore has failed to pay
+       to the company despite efforts made by the company.
+(iv) Inventory holding period has increased from 30 days in last year to 90 days.
+(v) The company also gets carried out job operations from third parties.
+       Therefore, parts of inventories are lying with third parties.
+
+Based on above, answer the following questions: -
+
+1. Regarding drastic fall in revenue of the company, which of the following is an
+       audit risk?
+
+       (a) Fall in revenue would result in fall of profits for the company.
+
+       (b) Drastic fall in revenue may imply that company is not able to carry out
+               its operations in foreseeable future due to lack of demand in the market
+               for company's products. There is a risk that going concern disclosure is
+               omitted to be made in financial statements.
+
+       (c) The company can explore some new line of activity, if demand of its
+               products is falling.
+
+       (d) Fall in revenue would mean lower tax liabilities for the company.
+
+2. The company's products are getting outdated in the market. Which of the
+       following is an audit risk?
+
+       (a) The company should devise strategies to sell products in the market.
+
+       (b) Inventories may be understated in such a scenario.
+
+© The Institute of Chartered Accountants of India
+        3.74    AUDITING AND ETHICS
+
+       (c) Inventories may be overstated in such a scenario.
+
+       (d) The company should launch a 1+1 free offer for its customers.
+
+3. A large customer has failed to pay to the company. Identify audit risk from
+       below:
+
+       (a) Receivables may be misstated if irrecoverable debt is not written off.
+
+       (b) Receivables may be overstated if irrecoverable debt is not written off.
+
+       (c) Writing off irrecoverable debt would impact profits of company adversely.
+
+       (d) Failure to recover outstanding debt would impact cash flows of company
+               adversely.
+
+4. Identify audit risk involved when inventory holding period has increased from
+       30 days to 90 days.
+
+       (a) There is a risk of overstatement of inventories.
+
+       (b) There is a risk relating to existence of inventories.
+
+       (c) There is a risk that slow movement of stocks would increase tax liability
+               when GST rates are increased.
+
+       (d) There is a risk relating to holding and storage cost of inventories.
+
+5. Part of inventories are lying with third parties. Identify audit risk involved.
+
+       (a) There is a risk that third parties do not manufacture according to
+               specifications of the company.
+
+       (b) There is a risk that by getting job work done from third parties, company
+               is increasing its costs.
+
+       (c) There is a risk that sufficient and appropriate evidence would not be
+               available in respect of quantity and condition of inventories lying with
+               third parties.
+
+       (d) There is a risk that sufficient and appropriate evidence would not be
+               available for quality control in respect of inventories lying with third
+               parties.
+
+Answers to Questions involving Case Study 1
+
+1. (b)  2. (c)  3. (b)                             4. (a)  5. (c)
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.75
+
+CASE STUDY-2
+
+CA Piyush is understanding internal controls as part of audit exercise of a company.
+It is a new client. He has studied controls in place in various operational areas of
+the company. After studying and gaining an understanding of such controls, he has
+decided to test few controls to actually see whether these are operating as intended
+by the management.
+
+Till now, he has studied controls over inventories and bank. Few of such controls
+are listed below: -
+
+Nature of Control         Control description
+
+Control over inventories  Inventories of the company lying at each location
+                          should be insured.
+
+Control over inventories  There should be inventory counts on a regular
+                          basis for each location of the company.
+
+Control over Bank operations Bank reconciliations are to be performed at
+                                           regular intervals.
+
+Based on above, answer the following questions: -
+
+1. Which of the following most appropriately describes test of control regarding
+       insurance of inventories?
+
+       (a) Inspect insurance policies to verify that inventories at each location are
+               insured for fire and burglary. The sum insured and period of validity of
+               policy are not relevant.
+
+       (b) Inspect insurance policies to verify that inventories at each location are
+               comprehensively insured. Ensure adequacy of sum insured by comparing
+               it with value of inventories. Also ensure policy period has not expired.
+
+       (c) Inspect insurance policies to verify that inventories at each location are
+               comprehensively insured. Ensure policy period has not expired.
+
+       (d) Inspect insurance policies to verify that inventories at each location are
+               insured for fire and burglary. Ensure policy period has not expired.
+
+© The Institute of Chartered Accountants of India
+3.76  AUDITING AND ETHICS
+
+2. Which of the following most appropriately describes test of control regarding
+       inventory counts?
+
+       (a) Obtain detail of inventory counting procedure and ensure that inventory
+               count is carried out according to laid down procedure.
+
+       (b) Obtain detail of inventory counting procedure and ensure that inventory
+               count is carried out according to laid down procedure. Attend inventory
+               count.
+
+       (c) Obtain detail of inventory counting procedure and ensure that inventory
+               count is carried out according to laid down procedure. Attend inventory
+               count and perform test count.
+
+       (d) Attend inventory count and perform test count.
+
+3. While testing control over bank reconciliations, it has been noticed that bank
+       reconciliations are not being performed at regular intervals. Identify the most
+       appropriate description of "control deficiency" in this regard: -
+
+       (a) Bank reconciliations are not being performed regularly as concerned staff
+               is overburdened.
+
+       (b) Bank reconciliations are not being performed regularly as concerned staff
+               is overburdened. It could result in errors.
+
+       (c) Bank reconciliations are not being performed regularly as concerned staff
+               is overburdened. It could result in errors. It may result in misstatement of
+               cash and bank balance in financial statements.
+
+       (d) Bank reconciliations are not being performed regularly as concerned staff
+               is overburdened. These should be performed monthly and reviewed by
+               senior accountant.
+
+4. Since the company is a new client, which of the following statements is most
+       appropriate?
+
+       (a) There is reduced detection risk.
+
+       (b) There is increased detection risk.
+
+       (c) There is no effect on detection risk.
+
+       (d) Detection risk should be increased to lower audit risk.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL         3.77
+
+5. Which of the following statements is most appropriate regarding auditor's
+       response to assessed risk of a new client?
+       (a) More substantive procedures would require to be performed.
+       (b) Less substantive procedures would require to be performed.
+       (c) There is no effect on substantive procedures.
+       (d) There is no effect on substantive procedures as audit risk is low.
+
+Answers to Questions involving case study 2
+
+1. (b)  2. (c)  3. (c)  4. (b)               5. (a)
+
+SUMMARY
+
+ Audit risk means the risk that the auditor gives an inappropriate audit opinion
+       when the financial statements are materially misstated. Audit risk is a function
+       of the risks of material misstatement and detection risk.
+
+ Risks of material misstatements consists of two components i.e., inherent risk
+       and control risk.
+
+ There is always a risk that before considering any existence of internal control
+       in an entity, a particular transaction, balance of an account or a disclosure
+       required to be made in the financial statements of an entity have a chance of
+       being misstated and such misstatement can be material. This risk is known as
+       inherent risk.
+
+ Control risk is a risk that internal control existing and operating in an entity
+       would not be efficient enough to stop from happening, or find and then
+       rectify in an appropriate time, any material misstatement relating to a
+       transaction, balance of an account or disclosure required to be made in the
+       financial statements of that entity.
+
+ Detection risk is the risk that the procedures performed by the auditor to
+       reduce audit risk to an acceptably low level will not detect a misstatement
+       that exists and that could be material, either individually or when aggregated
+       with other misstatements. It comprises of sampling and non-sampling risk.
+
+ The assessment of risks is a matter of professional judgment, rather than a
+       matter capable of precise measurement.
+
+© The Institute of Chartered Accountants of India
+3.78  AUDITING AND ETHICS
+
+ Misstatements, including omissions, are considered to be material if they,
+       individually or in the aggregate, could reasonably be expected to influence
+       the economic decisions of users taken on the basis of the financial
+       statements.
+
+ Performance materiality means the amount or amounts set by the auditor at
+       less than materiality for the financial statements as a whole to reduce to an
+       appropriately low level the probability that the aggregate of uncorrected and
+       undetected misstatements exceeds materiality for the financial statements as
+       a whole.
+
+ Obtaining an understanding of the entity and its environment, including the
+       entity's internal control is a continuous, dynamic process of gathering,
+       updating and analysing information throughout the audit.
+
+ Internal control is the process designed, implemented and maintained by
+       those charged with governance, management and other personnel to provide
+       reasonable assurance about the achievement of an entity's objectives with
+       regard to reliability of financial reporting, effectiveness and efficiency of
+       operations, safeguarding of assets, and compliance with applicable laws and
+       regulations.
+
+ Significant risks often relate to significant nonroutine transactions or
+       judgmental matters.
+
+ A proper understanding of the internal control system in its content and
+       working also enables an auditor to decide upon the appropriate audit
+       procedure to be applied in different areas to be covered in the audit
+       programme.
+
+ Methods of evaluating internal control include narrative record, checklist,
+       internal control questionnaire and flow chart.
+
+ Test of controls are performed to obtain audit evidence about the
+       effectiveness of the design of the accounting and internal control system and
+       operation of the internal control throughout the period.
+
+ The complexity of a business environment depends on the level of
+       automation i.e., if a business environment is more automated, it is likely to be
+       more complex.
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.79
+
+ Controls in an automated environment include general IT controls,
+       application controls and IT-dependent controls.
+
+ The combination of processes, tools and techniques that are used to tap vast
+       amounts of electronic data to obtain meaningful information is called data
+       analytics.
+
+ The objective of the auditor is to obtain sufficient appropriate audit evidence
+       about the assessed risks of material misstatement, through designing and
+       implementing appropriate responses to those risks.
+
+TEST YOUR KNOWLEDGE
+
+MCQs based Questions
+
+1. Which of the following is true regarding materiality?
+       (a) It is unaffected by nature of an item.
+       (b) It is unaffected by requirements of law or regulations.
+       (c) It is not a matter of professional judgment.
+       (d) It is not always a matter of relative size.
+
+2. The operations of a company are automated substantially. Which of the
+       following statements is most appropriate in this respect?
+       (a) It results in complex business environment.
+       (b) It results in simple business environment and easier audit.
+       (c) Automation has no relationship with complexity of business environment.
+       (d) It results in simple business environment. However, it increases
+               complexity of audit.
+
+3. Who is responsible for maintaining effective internal financial controls?
+       (a) Statutory auditor
+       (b) Audit Committee
+       (c) Management
+       (d) Shareholders
+
+© The Institute of Chartered Accountants of India
+3.80  AUDITING AND ETHICS
+
+4. Which of the following is not a risk to a company's internal control due to its
+       IT environment?
+       (a) Potential loss of data
+       (b) Inability to access data when required
+       (c) Unauthorized access to data
+       (d) Processing of large volumes of data
+
+5. Which of the following is not an example of "General IT controls"?
+       (a) Controls pertaining to Disaster recovery plan
+       (b) Controls pertaining to batch preparation
+       (c) Controls pertaining to data security
+       (d) Controls pertaining to validation of input data in an application
+
+Correct/Incorrect
+
+State with reasons (in short) whether the following statements are
+correct or incorrect:
+(i) There is direct relationship between materiality and the degree of audit risk.
+(ii) Control risk is the susceptibility of an account balance or class of transactions
+
+       to misstatement that could be material either individually or, when aggregated
+       with misstatements in other balances or classes, assuming that there were no
+       related internal controls.
+(iii) Tests of control are performed to obtain audit evidence about the effectiveness
+       of Internal Controls Systems.
+(iv) Maintenance of Internal Control System is the responsibility of the Statutory
+       Auditor.
+
+Theoretical Questions
+
+1. Discuss how "analytical procedures" performed as "risk assessment procedures"
+       can be useful to an auditor.
+
+2. Is materiality required to be documented by the auditor? What factors have to
+       be considered this regard?
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL                     3.81
+
+3. Discuss relationship between "General IT controls" and "application controls"
+       in an automated environment.
+
+4. A company functions in an automated environment. Discuss in what areas data
+       analytics can be useful for auditor of the company.
+
+5. What is understood by "non-routine" transactions? Briefly outline why risks of
+       material misstatement is greater for such transactions.
+
+6. The auditor shall obtain an understanding of the major activities that the entity
+       uses to monitor internal control over financial reporting" Explain.
+
+7. "Risk of material misstatement consists of two components" Explain clearly
+       defining risk of material misstatement.
+
+8. "The SAs do not ordinarily refer to inherent risk and control risk separately, but
+       rather to a combined assessment of the "risks of material misstatement""
+       Explain
+
+9. "The auditor shall obtain an understanding of the control environment" Explain
+       stating what is included in control environment.
+
+10. Internal control over safeguarding of assets against unauthorised acquisition,
+       use, or disposition may include controls relating to both financial reporting and
+       operations objectives. Explain stating clearly the objectives of Internal Control.
+
+ANSWERS/SOLUTIONS
+
+Answers to the MCQs based Questions
+
+1. d  2. a  3. c                                   4. d  5. d
+
+Answers to Correct/Incorrect
+
+(i) Incorrect: There is an inverse relationship between materiality and the degree
+       of audit risk. The higher the materiality level, the lower the audit risk and vice
+       versa. For example, the risk that a particular account balance or class of
+       transactions could be misstated by an extremely large amount might be very
+       low but the risk that it could be misstated by an extremely small amount
+       might be very high.
+
+© The Institute of Chartered Accountants of India
+3.82  AUDITING AND ETHICS
+
+(ii) Incorrect: Inherent risk is the susceptibility of an account balance or class of
+       transactions to misstatement that could be material either individually or,
+       when aggregated with misstatements in other balances or classes, assuming
+       that there were no related internal controls. Control risk, on the other hand
+       is the risk that a misstatement that could occur in an assertion about a class of
+       transaction, account balance or disclosure and that could be material, either
+       individually or when aggregated with other misstatements, will not be
+       prevented, or detected and corrected, on a timely basis by the entity's internal
+       control.
+
+(iii) Correct: Tests of Control are performed to obtain audit evidence about the
+       effectiveness of:
+
+       (a) the design of the accounting and internal control systems that is
+               whether, they are suitably designed to prevent or detect or correct
+               material misstatements and
+
+       (b) the operation of the internal controls throughout the period.
+
+(iv) Incorrect: The management is responsible for maintaining an adequate
+       accounting system incorporating various internal controls to the extent
+       appropriate to the size and nature of the business. Maintenance of Internal
+       Control System is responsibility of management because the internal control
+       is the process designed, implemented and maintained by those charged with
+       governance/management to provide reasonable assurance about the
+       achievement of entity's objectives.
+
+Answers to Theoretical Questions
+
+1. Refer to heading on "What is included in risk assessment procedures" and
+       gather usefulness of analytical procedures performed as risk assessment
+       procedures.
+
+2. Refer to heading on "documenting the materiality".
+
+3. Refer to heading on "General IT controls vs. Application controls".
+
+4. Refer to heading on "data analytics"
+
+5. Refer to heading on "identifying significant risks".
+
+6. Refer to heading on "Internal Control"
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.83
+
+7. Refer to heading "Components of risk of material misstatement".
+
+8. Refer to heading on "Combined Assessment of the Risk of Material
+       Misstatement".
+
+9. Refer to heading on "Internal Control".
+
+10. Objectives of Internal Control
+
+       Internal control over safeguarding of assets against unauthorised acquisition,
+       use, or disposition may include controls relating to both financial reporting and
+       operations objectives. The auditor's consideration of such controls is generally
+       limited to those relevant to the reliability of financial reporting. For example,
+       use of access controls, such as passwords, that limit access to the data and
+       programs that process cash disbursements may be relevant to a financial
+       statement audit. Conversely, safeguarding controls relating to operations
+       objectives, such as controls to prevent the excessive use of materials in
+       production, generally are not relevant to a financial statement audit.
+
+       Objectives of Internal Control are :
+
+       (i) transactions are executed in accordance with managements general or
+               specific authorization;
+
+       (ii) all transactions are promptly recorded in the correct amount in the
+               appropriate accounts and in the accounting period in which executed
+               so as to permit preparation of financial information within a framework
+               of recognized accounting policies and practices and relevant statutory
+               requirements, if any, and to maintain accountability for assets;
+
+       (iii) assets are safeguarded from unauthorised access, use or disposition;
+               and
+
+       (iv) the recorded assets are compared with the existing assets at reasonable
+               intervals and appropriate action is taken with regard to any differences.
+
+Answers to Questions involving Test your Understanding
+
+1. It has been stated that many companies engaged in providing holistic
+       solutions to problem of stubble burning have not been successful. It shows
+       that line of activity is inherently risky. Therefore, there is a greater possibility
+
+© The Institute of Chartered Accountants of India
+3.84  AUDITING AND ETHICS
+
+       of misstatements. The component of risks of material misstatement involved
+       is "inherent risk."
+
+2. The company has devised a control that its inventory of perishable goods is
+       stored in appropriate conditions and responsibility is fixed on two persons to
+       monitor environment using sensors and to report on deviations. There is a
+       possibility that persons given responsibility do not perform their work and
+       report deviations. The component of risks of material misstatement is "control
+       risk".
+
+3. There is a possibility that planned audit procedures may not achieve desired
+       result and fail to detect misstatements in revenue recognition. The risk
+       alluded to it is "detection risk".
+
+4. Jo Jo Limited is planning to list on Bombay Stock Exchange next year. There
+       is a greater chance of misstatements in the financial statements due to
+       planned listing next year. There could be a possibility of intentional
+       manipulation of financial statements so that good response is received to
+       proposed issue. Therefore, there is increased audit risk i.e., risk of expressing
+       inappropriate opinion by the auditor when financial statements are materially
+       misstated.
+
+5. It is noticed by the auditor that current ratio has improved from 1.20:1 (in
+       preceding year) to 1.75:1 (in current year). The auditor is using "analytical
+       procedures" as risk assessment procedures. Current ratio has improved from
+       previous year. There could be a possibility of misstatement in current assets
+       and current liabilities. It is possible that improvement in current ratio is
+       artificial due to misstatements and has been done to secure good response
+       to the proposed issue of company next year.
+
+6. If there is any statutory requirement of disclosure, it is to be considered
+       material. Schedule III mandates disclosure of nature of security in relation to
+       loan. The amount involved is irrelevant.
+
+7. The study of company policies and practices regarding employee recruitment,
+       training, orientation and related matters including hiring of best candidates
+       is part of understanding HR function of the company. It, in turn, helps in
+
+© The Institute of Chartered Accountants of India
+RISK ASSESSMENT AND INTERNAL CONTROL               3.85
+
+       understanding control environment of the company. By gaining such a
+       knowledge, she can better understand internal control of the company.
+
+8. She is keen to find out whether there exists a proper system of segregation
+       of duties in the company. She is gaining an understanding of internal control
+       of the company. In particular, she is understanding "control activities". When
+       a person recording a transaction is different from one authorizing it, she gains
+       confidence that there exists a system for preventing misstatements. It helps
+       her in gaining insight into the internal control system of the company.
+
+9. In a small company, control systems are basic and not formalized. Therefore,
+       auditor should proceed to evaluate internal control using narrative record.
+
+10. Cash is not deposited into bank frequently, although, concerned staff of
+       company was required to do so. Further, the official responsible for ensuring
+       performance of above function, has also not paid any attention to it. It means
+       that control is not working as planned. It would not be able to prevent
+       misstatement and very purpose of control is defeated. It represents a "control
+       deficiency".
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+

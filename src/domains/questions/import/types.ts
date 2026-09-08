@@ -112,6 +112,7 @@ export interface CanonicalQuestionJson {
   source?: CanonicalSourceMetadata;
   caseStudy?: CanonicalCaseStudyJson;
   caseStudyRef?: string; // Reference to a shared case study defined at batch level
+  nodeCode?: string; // Top-level shortcut for curriculum.nodeCode
 
   // Backward compatibility fields for v1.0 imports
   curriculumNodeCode?: string;

@@ -1,0 +1,3151 @@
+CHAPTER          a  12
+
+SERVICE COSTING
+
+                                    LEARNING OUTCOMES
+
+ Discuss the cost accounting method for service sectors.
+ State the units used in different service sectors.
+ State the KPIs used in different service sectors.
+ Calculate the costs for different service industries.
+
+CHAPTER OVERVIEW
+
+                             Application of Service Costing     Composite Unit
+                                                                Equivalent Unit
+                         Service Costing vs Product Costing
+Service Costing
+                     Methods of Ascertaining Service cost unit
+
+                                  Service Cost Statement
+
+                    Costing of Services:
+                    (i)Transport
+                    (ii) Hotels & Lodges
+                    (iii) Hospitals
+                    (iv) IT & ITES
+                    (v) Toll Roads
+                    (vi) Educational Institutes
+                    (vii) Insurance
+                    viii) Financial Institutes
+                    (ix) Others
+
+© The Institute of Chartered Accountants of India
+12.2  a COST AND MANAGEMENT ACCOUNTING
+
+    1. INTRODUCTION
+
+Service sector, being a fastest growing sector and having a significant contribution
+towards the GDP in India, is a very important sector where the role of the cost and
+management accounting is inevitable. The competitiveness of a service entity is
+very much dependent on a robust cost and management accounting system for
+competitive pricing and identification of value adding activities. Providers of
+services like transportation, hotels, financial services & banking, insurance,
+electricity generation, transmission and distribution etc. are very much cost
+conscious and thrive to provide services in a cost-effective manner. Irrespective of
+regulatory requirements to maintain cost records and get the records audited,
+service costing becomes integral and inseparable part of each service entity. In this
+chapter we will be discussing how costing is done in service sectors like
+Transportation, Toll roads, Electricity generation, transmission and distribution,
+Hospitals, Canteen & Restaurants, Hotels & Lodges, Educational institutes, Financial
+institutions, Insurance, Information Technology (IT) & Information Technology
+Enabled Services (ITES) etc.
+
+Service costing is also known as operating costing.
+
+1.1 Application of Service Costing
+
+Internal: The service costing is required for in-house services provided by a service
+cost centre to other responsibility centres as support services. Examples of support
+services are Canteen and hospital for staff, Boiler house for supplying steam to
+production departments, Captive Power generation unit, operation of fleet of
+vehicles for transport of raw material to factory or distribution of finished goods to
+the market outlets, IT department services used by other departments, research &
+development, quality assurance, laboratory etc.
+
+External: When services are offered to outside customers as a profit centre in
+consonance with organisational objectives as an output like goods or passenger
+transport service provided by a transporter, hospitality services provided by a hotel,
+provision of services by financial institutions, insurance and IT companies etc.
+
+In both the situation, all costs incurred are collected, accumulated for a certain
+period or volume, recorded in the cost accounting system and then expressed in
+terms of a cost unit of service.
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.3   a
+
+1.2 Service Costing vs Product Costing
+
+Service costing differs from product costing (such as job or process costing) in the
+following ways due to some basic and peculiar nature.
+
+(i) Tangibility: Unlike products, services are intangible and cannot be stored,
+       hence, there is no inventory for the services.
+
+(ii) Cost units: Use of Composite cost units for cost measurement and to express
+       the volume of outputs.
+
+(iii) Material vs Employee cost: Unlike a product manufacturing, employee
+       (labour) cost constitutes a major cost element than material cost.
+
+(iv) Traceability of costs: Indirect costs like administration overheads are
+       generally have a significant proportion in total cost of a service as unlike
+       manufacturing sector, service sector heavily depends on support services and
+       traceability of costs to a service may not economically feasible.
+
+2. SERVICE COST UNIT AND KPI
+
+To compute the Service cost, it is necessary to understand the unit for which the
+cost is to be computed. All the costs incurred during a period are collected and
+analyzed and then expressed in terms of a cost per unit of service.
+
+One specific issue with service costing is the difficulty in defining a realistic cost
+unit that represents a suitable measure of the service provided. The cost unit to be
+applied needs to be defined carefully and frequently, a composite cost unit may be
+deemed more appropriate.
+
+For example, Hotels may use the `Occupied Room Days' as an appropriate unit for
+cost ascertainment and control.
+
+Other typical cost unit that may be used include:
+
+Service industry            Unit of cost (examples)
+Transport Services          Passenger- km., (In public transportation)
+                            Quintal- km., or Tonne- km. (In goods carriage)
+Electricity Supply service  Kilowatt- hour (kWh)
+
+© The Institute of Chartered Accountants of India
+        12.4     a COST AND MANAGEMENT ACCOUNTING
+
+Hospital                Patient per day, room per day or per bed, per opera-
+                        tion etc.
+
+Canteen                 Per item, per meal etc.
+
+Cinema                  Per ticket.
+
+Hotels                  Guest Days or Room Days
+
+Bank or          Financial Per transaction, per services (e.g. per letter of credit,
+Institutions                   per application, per project etc.)
+
+Educational Institutes  Per course, per student, per batch, per lecture etc.
+
+IT & ITES               Cost per project, per module etc.
+
+Insurance               Per policy, Per claim, Per TPA etc.
+
+The costing should be comprehensive enough to show the effects like off-season
+and peak-season demand, full time, part time, etc.
+
+Key Performance Indicator (KPI)
+
+Key Performance Indicators (KPIs) are the quantitative and qualitative factors which
+are commonly used to assess the performance of an organization which are
+important to achieve its goal. Like calculation of cost for a cost unit, calculation of
+cost or revenue per KPI helps to the performance against industry standards. For
+example, in case of Telecom industry Average Return per User (ARPU) is a key
+indicator, shows average revenue generated from a user of its services. The list
+below shows few important KPIs for some Service Industries:
+
+Industry         KPI                               Meaning
+ Transportation
+                 Number of Shipments,              This logistics metric monitors the
+                                                   number of orders that are shipped out
+                                                   of the warehouse.
+
+                 Truck Turnaround Rate             The time from when a delivery truck
+                 (Truck Turning),                  enters the warehouse to collect or
+                                                   deliver products to when it exits the
+                                                   facility.
+
+                 Lead Time (Order Cycle The amount of time in between order
+
+                 Time)                             placement by customer and receipt of
+
+                                                   order.
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.5  a
+
+                  On-Time and In-Full The number of orders delivered
+
+                  (OTIF)                           according to the schedule and quantity
+
+                                                   specified.
+
+                  Cost per Occupied The average cost per occupied room.
+                  Room (CPOR)
+
+Hotel Industry    Occupancy Rate                   The ratio of rented or used rooms to
+   Hospitals/                                      the total amount of available rooms.
+  Health care
+     Industry     Revenue per available The average revenue per available
+
+IT & ITES sector  room (RevPAR)                    room days.
+
+                  Bed Occupancy Rate               The proportion of hospital beds in use
+                                                   at any one time.
+
+                  Staff-To-Patient Ratio           The number of staff resources present
+                                                   to attend to the patients in a hospital
+                                                   over a certain period of time.
+
+                  Average      Treatment The average amount that a facility
+                  Charge                       charges a patient for a treatment.
+
+                  Gross Burn Rate                  The rate at which the company uses up
+                                                   its available cash to cover operating
+                                                   expenses.
+
+                  Customer Acquisition The amount it takes to attract new
+
+                  Cost (CAC)                       customers.
+
+                  Customer                         Lifetime The typical net profit a company
+                  Value (CLV)                                   generates over the entire life cycle of a
+                                                                single customer.
+
+                  Monthly      Recurring           The amount earned each month
+                                                   through subscription renewals, new
+                  Revenue (MRR)                    sales, upsells, and fluctuations on a
+                                                   monthly basis.
+
+                  Churn Rate                       The percentage of customers that
+                                                   cancel their recurring subscriptions
+                                                   over a given time period.
+
+                  Cost Per Feature                 How much a specific feature costs your
+                                                   business, based on usage and cloud
+                                                   costs.
+
+© The Institute of Chartered Accountants of India
+12.6       a COST AND MANAGEMENT ACCOUNTING
+
+           Average return per user How much money a company is
+
+           (ARPU)                                  making for each person using its
+
+                                                   service.
+
+           Subscriber acquisition Costs involved with gaining new
+
+           cost (SAC)                              subscribers.
+
+Telecom    Network Operating Cost Expenditure incurred on continual
+                                              upkeep to telecom's network.
+
+           Gross                         Revenue   How well a company is retaining its
+                                                   customers based on factors such as
+           Retention (GRR)                         sales price increases, organic customer
+                                                   growth, and more.
+
+           Instructional Costs                     The cost of part-time and full-time
+                                                   faculty members
+
+           Administrative Costs Per How much an institution is spending
+
+           Student.                                on administrative services on a per-
+
+Education                                          student basis.
+  Sector
+           Tuition Costs                           Costs accrued by students on a
+                                                   semester or annual basis.
+
+           Student-to-Faculty                      The number of students per faculty
+           Ratio                                   member, on a campus-wide basis or by
+                                                   department.
+
+           Average Cost Per Claim The average cost of each claim made.
+
+           Components of Claim Costs which are associated with a claim
+
+           Costs (CCC)                             like legal fees, time to settle,
+
+                                                   administration costs, and report delays.
+
+                         Cost Per Quote            The costs that the company incurs in
+Insurance Sector                                   order to get a quote in front of a
+                                                   potential client.
+
+           Administrative Costs Per The cost of the policy administration to
+
+           Policy                                  number of policies outstanding.
+
+           Average Policy Size                     The total amount of premium collected
+                                                   by the number of policies issued for a
+                                                   given time period.
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.7               a
+
+2.1 Methods for ascertaining Service Cost Unit
+
+Composite Cost Unit
+
+Sometime two measurement units are combined together to know the cost of
+service or operation. These are called composite cost units. For example, a public
+transportation undertaking would measure the operating cost per passenger per
+kilometer.
+
+Examples of Composite units are Tonne- km., Quintal- km, Passenger-km., Patient-
+day etc. Composite unit may be computed in two ways.
+
+(i) Absolute (Weighted Average) basis.
+
+(ii) Commercial (Simple Average) basis.
+
+In both bases of computation of service cost unit, weightage is also given to
+qualitative factors rather quantitative (which are directly related with variable cost
+elements) factors alone.
+
+(i) Weighted Average or Absolute basis ­ It is a summation of the products
+of qualitative and quantitative factors. For example, to calculate absolute Tonne-
+Km for a goods transport is calculated as follows.:
+
+(Weight Carried × Distance)1 + (Weight Carried × Distance)2 +....+(Weight Carried
+× Distance)n
+
+Similarly, in case of Cinema theatres, price for various classes of seats is fixed
+differently. For example­
+
+First class seat may be provided with higher quality service and hence charged at a
+higher rate, whereas Second Class seat may be priced less. In this case, appropriate
+weight to be given effect for First Class seat and Second Class seat ­ to ensure
+proper cost per composite unit.
+
+(ii) Simple Average or Commercial Basis ­ It is the product of average
+qualitative and total quantitative factors. For example, in case of goods transport,
+Commercial Tonne-Km is arrived at by multiplying total distance km., by average
+load quantity.
+
+(Distance1  +  Distance2  +  ..................+   Distancen)  ×    W1+ W2 +.... + Wn  
+                                                                             n         
+
+© The Institute of Chartered Accountants of India
+12.8  a COST AND MANAGEMENT ACCOUNTING
+
+In both the example, variable cost is dependent of distance and is a quantitative
+factor. Since, the weight carried does not affect the variable cost hence and is a
+qualitative factor.
+
+To understand the concept of absolute tonne-km., and commercial tonne-km., the
+following illustration may be referred.
+ILLUSTRATION 1
+
+A lorry starts with a load of 20 MT of goods from Station `A'. It unloads 8 MT in Station
+`B' and balance goods in Station `C'. On return trip, it reaches Station `A' with a load of
+16 MT, loaded at Station `C'. The distance between A to B, B to C and C to A are 80 Kms,
+120 Kms and 160 Kms, respectively. COMPUTE "Absolute MT-Kilometer" and
+"Commercial MT ­ Kilometer".
+
+(MT = Metric Ton or Ton).
+
+SOLUTION
+
+Weighted Average or Absolute basis ­ MT ­ Kilometer:
+
+              = (20 MT × 80 Kms) + (12 MT × 120 Kms) + (16 MT × 160 Kms)
+
+              = 1,600 + 1,440 + 2,560 = 5,600 MT - Kilometer
+
+Simple Average or Commercial basis ­ MT ­ Kilometer:
+
+              = [{(20+12+16) / 3} MT × {(80+120+160) Kms]
+
+              = 16 MT × 360 Kms = 5,760 MT ­ Kilometer
+
+Equivalent Cost Unit/ Equivalent Service Unit:
+
+To calculate cost or pricing of two more different grade of services which uses
+common resources, each grade of service is assigned a weight and converted
+into equivalent units. Converting services into equivalent units make different
+grade of services equivalent and comparable.
+For Example:
+A hotel has three types of suites for its customers, viz., Standard, Deluxe and
+Luxurious.
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.9  a
+
+Following information is given:
+
+Type of suite    Number of rooms                                   Room Tariff
+   Standard                100                                            --
+    Deluxe                  50
+  Luxurious                 30                         2.5 times of the Standard suites
+                                                          Twice of the Deluxe suites
+
+The rent of Deluxe suite is to be fixed at 2.5 times of the Standard suite and that of
+Luxurious suite as twice of the Deluxe suite.
+
+Since, all three types of suites use same amount of overheads, but to attach qualitative
+weight, these rooms are required to be converted into equivalent units. This can be
+done in two ways
+
+(i) Making all suites equivalent to Standard suites:
+
+Nature of suite  Occupancy (Room-days)                 Equivalent single room
+     Standard                                          suites (Room-days)
+      Deluxe                  36,000
+     Luxurious     (100 rooms  360 days)                            36,000
+                                                                 (36,000  1)
+                              18,000
+                    (50 rooms  360 days)                            45,000
+                                                                (18,000  2.5)
+                              10,800
+                    (30 rooms  360 days)                            54,000
+                                                                 (10,800  5)
+
+                                                                   1,35,000
+
+                                                   Or
+
+(ii) Making all suites equivalent to Luxurious suites:
+
+Nature of suite  Occupancy (Room-days)                              Equivalent Luxurious
+     Standard                                                       suites (Room-days)
+       Deluxe                  36,000
+                   (100 rooms  360 days)                                          7,200
+                                                                            (36,000  1/5)
+                               18,000
+                     (50 rooms  360 days)                                         9,000
+                                                                             (18,000  ½)
+
+© The Institute of Chartered Accountants of India
+12.10 a COST AND MANAGEMENT ACCOUNTING
+
+Luxurious            10,800                           10,800
+           (30 rooms  360 days)                    (10,800  1)
+
+                                                      27,000
+
+    3. STATEMENT OF COSTS FOR SERVICE
+          SECTORS
+
+For preparing a statement of cost or a cost sheet for service sector, costs are usually
+collected and accumulated for a specified period viz. A month, quarter or a year,
+etc.
+
+The cost statement for services may be prepared either on the basis of functional
+classification as done for product costing or on the basis of variability. Cost sheet
+on the basis of variability is prepared classifying all the costs into three different
+heads:
+
+1. Fixed costs or Standing charges
+
+2. Variable costs or Operating expenses
+
+3. Semi-variable costs or Maintenance expenses
+
+Note: In the absence of information about semi-variable costs, the costs would be
+shown under fixed and variable heads only.
+
+Treatment of Depreciation- Fixed or Variable?
+
+If related to effluxion of time or calculated on time basis, will be treated as fixed.
+However, if the depreciation is calculated on the basis of activity level or usage, it
+will be treated as variable cost.
+
+Treatment of Interest
+
+Interest and finance charges shall be presented in the cost statement as a separate
+item of cost of sales. In general, interest is treated as fixed cost, unless otherwise
+given.
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.11  a
+
+    4. APPLICATIONS OF COSTING METHODS IN
+          SERVICE COSTING
+
+Costing techniques vis-a vis Service sector: So far in previous chapters we have
+learnt how to collect, accumulate and calculate cost for each cost elements like
+Material, Employee (labour), Direct expenses and Overheads. We also learnt the
+various methods of costing like Job & Contract costing, Process & operation
+costing, Joint products & By products costing. Then again Cost Management
+techniques like Standard Costing, Budget and budgetary control Marginal costing
+are also equally applied in service sector.
+
+In general, the service sectors are either labour or capital intensive or both, that is
+the reason the proportion of costs of cost elements differs from manufacturing
+sectors. A manufacturing sector may have higher material cost than the labour, but
+in case of service sector the situation reverses.
+
+The system and techniques for cost collection, accumulation and valuation is similar
+as that has been learnt in previous chapters for each cost elements. The overhead
+allocation, apportionment and absorption techniques are also very similar.
+
+Method of costing vis-à-vis Service sector: The choice of method of costing
+depends on nature of service provided. For example, Job costing method may be
+suitable for a business which is engaged in development of customized software,
+healthcare etc. Process costing may be suitable for utility business like power, water
+supplies etc., Joint products costing may be suitable for businesses which are
+providing bundled service like telecom, event management, educational institutes
+etc.
+
+    5 COSTING OF TRANSPORT SERVICES
+
+Transport organizations can be divided into two categories viz. Goods transport
+and Passenger transport.
+
+The cost unit for Goods transport organization is Tonne­ Kilometer ­ that means
+cost of carrying one Tonne of goods over a distance of one kilometer.
+
+Cost unit for Passenger transport organization is Passenger­ Kilometer ­ that
+means cost of carrying one Passenger over a distance of one kilometer.
+
+© The Institute of Chartered Accountants of India
+          12.12 a COST AND MANAGEMENT ACCOUNTING
+
+The costs are shown under the suggestive following heads:
+(i) Standing Charges or Fixed costs: These are the fixed costs that remain
+
+       constant irrespective of the distance travelled. These costs include the
+       following:
+       · Insurance
+       · License fees
+       · Salary to Driver, Conductor, Cleaners, etc if paid on monthly basis
+       · Garage costs, including garage rent
+       · Depreciation (if related to efflux of time)
+       · Taxes
+       · Administration expenses, etc.
+(ii) Variable costs or Running costs: These costs are generally associated with
+       the distance travelled. These costs include the following:
+       · Petrol and Diesel
+       · Lubricant oils,
+       · Wages to Driver, Conductor, Cleaners, etc. if it is related to operations
+       · Depreciation (if related to activity)
+       · Any other variable costs identified.
+(iii) Semi-Variable Costs or Maintenance Costs: These costs include the
+       following:
+       · Repairs and maintenance
+       · Tyres
+       · Spares, etc.
+The heads for a cost may change as per the situation or condition. For an example
+salary of driver may be treated as standing charges or running cost depending on
+the situation and nature of his employment.
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.13  a
+
+ILLUSTRATION 2
+
+AXA Passenger Transport Company is running 5 buses between two towns, which are
+40 kms apart. Seating capacity of each bus is 40 passengers. Following details are
+available from their books, for the month of April:
+
+Particulars                                                         Amount (`)
+Salary of Drivers, Cleaners and Conductors                                 24,000
+Salary to Supervisor                                                       10,000
+Diesel and other Oil                                                       40,000
+Repairs and Maintenance                                                     8,000
+Tax and Insurance                                                          16,000
+Depreciation                                                               26,000
+Interest                                                                   20,000
+
+                                                                        1,44,000
+
+Actual passengers carried were 75% of the seating capacity. All the five buses run on all
+days for the month. Each bus made one round trip per day. CALCULATE cost per
+passenger ­ Kilometer.
+SOLUTION
+Working Note:
+Total Passenger Kilometres =
+Number of Buses × Distance × Seating Capacity × Used Capacity × Number of days
+in the month × Number of trips
+= 5 Buses × 40 kms. × 40 Seats × 75% × 30 Days × 2 Single trips (1 Round Trip)
+= 3,60,000 Passenger-Kms.
+Cost per Passenger-Km = Total costs ÷ Total Passenger Kilometers
+
+© The Institute of Chartered Accountants of India
+12.14 a COST AND MANAGEMENT ACCOUNTING
+
+Statement of Cost per Passenger ­ Km
+
+Particulars                                        Cost Per  Cost per
+
+A. Standing Charges:                               Month Passenger ­ Km
+       Wages of Drivers, Cleaners and Conductors
+       Salary to Supervisor                        24,000    0.267
+       Tax and Insurance                           10,000
+       Depreciation                                16,000
+       Interest                                    26,000
+       Total Standing Charges                      20,000
+                                                   96,000
+B. Running Charges
+       Diesel and other Oil                        40,000    0.111
+
+C. Maintenance Charges                                8,000  0.022
+       Repairs and Maintenance                     1,44,000  0.400
+       Total
+
+Cost per Passenger-Km = ` 0.40
+ILLUSTRATION 3
+ABC Transport Company has given a route 40 kilometers long to run bus.
+(a) The bus costs the company a sum of ` 10,00,000
+(b) It has been insured at 3% p.a. and
+(c) The annual tax will amount to ` 20,000
+(d) Garage rent is ` 20,000 per month.
+(e) Annual repairs will be ` 2,04,000
+(f) The bus is likely to last for 2.5 years
+(g) The driver's salary will be ` 30,000 per month and the conductor's salary will be
+
+       ` 25,000 per month in addition to 10% of takings as commission [To be shared
+       by the driver and conductor equally].
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.15  a
+
+(h) Cost of stationery will be ` 1,000 per month.
+
+(i) Manager-cum-accountant's salary is ` 17,000 per month.
+
+(j) Petrol and oil will be ` 500 per 100 kilometers.
+
+(k) The bus will make 3 up and down trips carrying on an average 40 passengers
+       on each trip.
+
+(l) The bus will run on an average 25 days in a month.
+
+Assuming 15% profit on takings, CALCULATE the bus fare to be charged per
+passenger-kilometer.
+
+SOLUTION
+
+Working Note:
+
+(1) Total Kilometers run per annum:
+
+= Number of Buses × Distance × Number of days in the Month × Number of
+trips × 12 months
+
+= 1 Bus × 40 kms × 25 Days × 6 Single trips (3 Round Trips) × 12 months =
+72,000 kms.
+
+(2) Total Passenger Kilometers per annum:
+
+Total Kilometers run per annum × Seating Capacity
+
+= 72,000 Kms × 40 Seats = 28,80,000 Passenger-Kms.
+
+(3) Petrol & oil Consumption per annum:
+
+Total Kilometers run per annum × Petrol Consumption per KM
+
+= 72,000 Kms × (`500 / 100 Kms) = ` 3,60,000
+
+Statement of Cost per Passenger ­ Km
+
+Particulars                                           Per Annum Per Passenger -
+                                                                                 Kilometer
+A. Standing Charges:
+       Insurance @ 3% on `10,00,000                          30,000
+       Annual Tax                                            20,000
+        Garage rent (`20,000 × 12)                        2,40,000
+
+© The Institute of Chartered Accountants of India
+12.16 a COST AND MANAGEMENT ACCOUNTING
+
+       Depreciation                                  4,00,000               0.5438
+       Salary of Driver (fixed part)                 3,60,000
+       Salary of Conductor (fixed part)              3,00,000               0.2236
+       Stationary                                                           0.0708
+       Manager-cum-accountant's salary                  12,000              0.8382
+       Total Standing Charges                        2,04,000               0.1479
+B. Running Charges:                                15,66,000                0.9861
+       Diesel and other Oil (WN-3)
+       Commission to Driver*                         3,60,000
+       (10%×`28,40,000×1/2)                          1,42,000
+       Commission to Conductor*
+       (10%×`28,40,000×1/2)                          1,42,000
+       Total Running Charges
+C. Maintenance Charges:                             6,44,000
+       Repairs
+       Grand Total (A+B+C)                           2,04,000
+       Profit (15%×`28,40,000)                     24,14,000
+       Fare per Passenger Kilometer
+                                                     4,26,000
+
+*Total takings = Standing Charges + (Running cost + Commission on takings)
+
++ Maintenance cost + Profit
+
+Let Takings = X
+Or, X = 15,66,000 + (3,60,000 + 0.1X) + 2,04,000 + 0.15X
+Or, X ­ 0.25X = 21,30,000
+
+Or, X = 28,40,000
+
+ILLUSTRATION 4
+
+SMC is a public school having five buses each plying in different directions for the
+transport of its school students. In view of a larger number of students availing of the bus
+service the buses work two shifts daily both in the morning and in the afternoon. The
+buses are garaged in the school. The work-load of the students has been so arranged
+that in the morning the first trip picks up senior students and the second trip plying an
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING    12.17
+
+hour later picks up the junior students. Similarly, in the afternoon the first trip takes the
+junior students and an hour later the second trip takes the senior students' home.
+
+The distance travelled by each bus one way is 8 km. The school works 25 days in a month
+and remains closed for vacation in May, June and December. Bus fee, however, is payable
+by the students for all 12 months in a year.
+
+The details of expenses for a year are as under:
+
+Driver's salary                                    ` 4,500 per month per driver
+
+Cleaner's salary                                   ` 3,500 per month
+
+(Salary payable for all 12 months)
+
+(One cleaner employed for all the five buses)
+
+License fee, taxes, etc.                           ` 8,600 per bus per annum
+
+Insurance                                          ` 10,000 per bus per annum
+
+Repairs & maintenance                              ` 35,000 per bus per annum
+
+Purchase price of the bus                          ` 15,00,000 each
+
+Life of each bus                                   12 years
+
+Scrap value of each bus at the end of life         ` 3,00,000
+
+Diesel cost                                        ` 45.00 per litre
+
+Each bus gives an average mileage of 4 km. per litre of diesel.
+
+Seating capacity of each bus is 50 students.
+
+The seating capacity is fully occupied during the whole year.
+
+Students picked up and dropped within a range up to 4 km. of distance from the school
+are charged half fare and fifty per cent of the students travelling in each trip are in this
+category. Ignore interest. Since the charges are to be based on average cost you are
+required to:
+
+(i) PREPARE a statement showing the expenses of operating a single bus and the
+       fleet of five buses for a year.
+
+(ii) WORK OUT the average cost per student per month in respect of ­
+
+(A) students coming from a distance of upto 4 km. from the school and
+
+(B) students coming from a distance beyond 4 km. from the school.
+
+© The Institute of Chartered Accountants of India
+12.18 a COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION
+(i) Statement of Expenses of operating bus/ buses for a year
+
+Particulars                                        Rate (`)       Per Bus    Fleet of 5
+                                                                             buses p.a.
+                                                                  per annum
+                                                                                       (`)
+                                                                  (`)
+                                                                               2,70,000
+(i) Standing Charges:                                                             42,000
+                                                                                  43,000
+Driver's salary                                    4,500 p.m      54,000          50,000
+
+Cleaner's salary                                   3,500 p.m      8,400        5,00,000
+
+Licence fee, taxes etc.                            8,600 p.a.     8,600        1,75,000
+
+Insurance                                          10,000 p.a.    10,000       8,10,000
+                                                                              18,90,000
+Depreciation                                       1,00,000 p.a.  1,00,000
+                                                                               1,57,500
+(15,00,000 ­ 3,00,000) ÷ 12 yrs                                                       750
+
+(ii) Maintenance Charges:                                                          ` 210
+
+Repairs & maintenance                              35,000 p.a.    35,000
+
+(iii) Operating Charges:
+
+Diesel (Working Note 1)                                           1,62,000
+
+Total Cost [(i) + (ii) + (iii)]                                   3,78,000
+
+Cost per month                                                    31,500
+
+Total no. of equivalent students                                  150
+
+Total Cost per half fare                                          ` 210
+equivalent student
+
+(ii) Average cost per student per month:
+
+A. Students coming from distance of upto 4 km. from school
+
+=             Total cost per month                 = ` 31,500 = ` 210
+                                                      150 students
+             Total no.of equivalent students
+
+B. Students coming from a distance beyond 4 km. from school
+       = Cost of per half fare student × 2 = ` 210 × 2 = ` 420
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.19  a
+
+Working Notes:
+1. Calculation of Diesel cost per bus :
+
+       Distance travelled in a year:
+       (8 round trip × 8 km. × 25 days × 9 months)
+       Distance travelled p.a.: 14,400 km.
+       Cost of diesel (per bus p.a.): 14, 400km.×` 45 = `1,62,000
+
+                                                 4kmpl
+
+2. Calculation of equivalent number of students per bus :
+
+Seating capacity of a bus                                           50 students
+
+Half fare students (50% of 50 students)                             25 students
+
+Full fare students (50% of 50 students)                             25 students
+
+Total number of students equivalent to half fare
+students
+
+Full fare students (25 students × 2)                                50 students
+
+Add: Half fare students                                             25 students
+
+Total Equivalent number of students in a trip                       75 students
+
+Total number of equivalent students in two trips 150 students
+(Senior + Junior)
+
+ILLUSTRATION 5
+
+GTC has a lorry of 6-tonne carrying capacity. It operates lorry service from city A to city
+B for a particular vendor. It charges ` 2,400 per tonne from city `A' to city `B' and ` 2,200
+per tonne for the return journey from city `B' to city `A'. Goods are also delivered to an
+intermediate city `C' but no extra changes are billed for unloading goods in-between
+destination city and no concession in rates is given for reduced load after unloading at
+intermediate city. Distance between the city `A' to `B' is 300 km and distance from city
+`A' to `C' is 140 km.
+
+© The Institute of Chartered Accountants of India
+12.20 a COST AND MANAGEMENT ACCOUNTING
+
+In the month of January, the truck made 12 journeys between city `A' and city `B'. The
+details of journeys are as follows:
+
+Outward journey       No. of journeys              Load (in tonne)
+       `A' to `B'                10                            6
+       `A' to `C'                 2                            6
+       `C' to `B'                 2                            4
+
+Return journey        No. of journeys              Load (in tonne)
+       `B' to `A'                 5                            8
+       `B' to `A'                 6                            6
+       `B' to `C'                 1                            6
+       `C' to `A'                 1                            0
+
+Annual fixed costs and maintenance charges are ` 6,00,000 and ` 1,20,000 respectively.
+Running charges spent during the month of January are ` 2,94,400 (includes ` 12,400
+paid as penalty for overloading).
+
+You are required to:
+
+(i) CALCULATE the cost as per (a) Commercial tonne-kilometer. (b) Absolute tonne-
+kilometer.
+
+(ii) CALCULATE Net Profit/ loss for the month of January.
+
+SOLUTION
+(i) Calculation of total monthly cost for running truck:
+
+Particulars                                                  Amount per      Amount per
+                                                               annum (`)        month (`)
+(i) Standing Charges:
+                                                                   6,00,000          50,000
+Annual fixed costs                                                 1,20,000          10,000
+
+(ii) Maintenance Charges:                                                          2,82,000
+                                                                                   3,42,000
+(iii) Running Cost:
+
+Running charges                                    2,94,400
+
+Less: Penalty paid for overloading (12,400)
+
+Total monthly cost
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.21   a
+
+      (a) Cost per commercial tonne-km. = `3, 42,000 = ` 7.62
+                                                            44, 856 ton- km.
+
+            (Refer to working note-1)              = `3, 42,000 = ` 7.65
+      (b) Cost per absolute tonne-km.                 44, 720 ton- km.
+
+      (Refer to working note-2)
+
+(ii)  Calculation of Net Profit/Loss for the month of January:
+
+      Particulars                                                   (`)          (`)
+
+      Truck hire charges received during the month:                            3,53,200
+
+      From Outward journey [(10 + 2) trips × 6 tonne × 1,72,800               (3,42,000)
+      ` 2,400]                                                                    11,200
+
+      From return journey                                           1,80,400    (12,400)
+                                                                                 (1,200)
+      {(5 trips × 8 tonne × ` 2,200) + [(6 + 1) trips × 6 tonne
+      × ` 2,200]}
+
+      Less: Monthly running cost {as per (i) above}
+
+      Operating profit
+
+      Less:Penalty paid for overloading
+
+      Net Loss for the month
+
+      Working Notes:
+      1. Calculation of Commercial Tonne-km:
+
+      Particulars                                                                 Tonne-
+                                                                                       km.
+      A. Total Distance travelled
+      To and fro (300 km × 2× 12 trips) (in km)                                      7,200
+      B. Average weight carried:
+      Outward (12 journeys × 6 tonne + 2 journeys × 4                    80
+      tonne)                                                             82
+      Return (5 journeys × 8 tonne + 6 journeys × 6 tonne
+      + 1 journey × 6 tonne)
+
+© The Institute of Chartered Accountants of India
+12.22 a COST AND MANAGEMENT ACCOUNTING
+
+Total weight                                             162
+No. of journeys                                           26
+Average weight (in tonne) (162÷26)
+Total Commercial Tonne-km (A×B)                         6.23
+
+                                                                  44,856
+
+2. Calculation of Absolute Tonne-km:                    Tonne-    Tonne-
+                                                            km.       km.
+ Particulars
+                                                         18,000    20,960
+ Outward journeys:                                        1,680
+ From city A to city B (10 journey × 300 km. × 6          1,280    23,760
+ tonne)                                                            44,720
+ From city A to city C (2 journeys × 140 km. × 6         22,800
+ tonne)                                                      960
+ From city C to city B (2 journeys × 160 km. × 4
+ tonne)
+ Return journeys:
+ From city B to city A (5 journeys × 300 km. × 8
+ tonne) + (6 journeys × 300 km. × 6 tonne)
+ From city B to city C (1 journey × 160 km. × 6 tonne)
+ Total Absolute Tonne-km
+
+Note: (i) While calculating absolute/commercial tonne-km., actual load carried are
+considered irrespective of the fact it attracts fines or penalty. (ii) Penalty paid for
+overloading is an abnormal expenditure and is not included in the operating cost
+of the lorry. This amount will be debited to Costing Profit and Loss A/c and hence
+deducted from operating profit to arrive at net profit/loss.
+
+    6. COSTING OF HOTELS AND LODGES
+
+Service costing is an effective tool in respect if hotel industry. Hotels are run on
+commercial basis. Hence it is necessary to compute the cost - to fix the price of
+various services provided by the hotel and to find out the profit or loss at the end
+of a particular period.
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING       a 12.23  a
+
+In this case, the costs associated with different services offered should be identified
+and cost per unit should be worked out. The cost unit may be Guest-day or Room
+Day. For calculation of cost per Guest Day or Room Day, estimated occupancy rate
+­ at different point of time, for example ­ Peak season or lien season, are taken in
+to account.
+
+ILLUSTRATION 6
+
+A company runs a holiday home. For this purpose, it has hired a building at a rent of `
+10,000 per month along with 5% of total taking. It has three types of suites for its
+customers, viz., single room, double rooms and triple rooms.
+
+Following information is given:
+
+Type of suite           Number                     Occupancy percentage
+Single room                   100                               100%
+Double rooms                   50                                80%
+Triple rooms                   30                                60%
+
+The rent of double rooms suite is to be fixed at 2.5 times of the single room suite and
+that of triple rooms suite as twice of the double room's suite.
+
+The other expenses for the year 2022-23 are as follows:
+
+                                                                    (`)
+
+Staff salaries                                     14,25,000
+Room attendants' wages                              4,50,000
+
+Lighting, heating and power                        2,15,000
+
+Repairs and renovation                             1,23,500
+Laundry charges                                      80,500
+
+Interior decoration                                      74,000
+
+Sundries                                           1,53,000
+
+Provide profit @ 20% on total taking and assume 360 days in a year.
+
+You are required to CALCULATE the rent to be charged for each type of suite.
+
+© The Institute of Chartered Accountants of India
+12.24 a COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION
+
+Working Notes:
+
+(i) Total equivalent single room suites
+
+Nature of suite                Occupancy (Room-days)      Equivalent single
+                                                              room suites
+Single room suites                           36,000          (Room-days)
+Double rooms suites              (100 rooms  360 days             36,000
+Triple rooms suites                                           (36,000  1)
+                                              100%)
+                                                                  36,000
+                                             14,400          (14,400  2.5)
+                               (50 rooms  360 days  80%)
+                                                                  32,400
+                                              6,480            (6,480  5)
+                               (30 rooms  360 days  60%)        1,04,400
+
+(ii) Statement of total cost:                                                  (`)
+                                                                      14,25,000
+Staff salaries
+Room attendant's wages                                                 4,50,000
+Lighting, heating and power                                            2,15,000
+Repairs and renovation                                                 1,23,500
+Laundry charges
+Interior decoration                                                       80,500
+Sundries                                                                  74,000
+                                                                       1,53,000
+Building rent {(`10,000  12 months) + 5% on total                     25,21,000
+taking}                                                     1,20,000+ 5% on
+Total cost                                                        total takings
+                                                          26,41,000 + 5% on
+                                                                  total takings
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.25  a
+
+Profit is 20% of total takings
+
+ Total takings = ` 26,41,000 + 25% (5% +20%) of total takings
+
+Let R be rent for single room suite
+
+Then 1,04,400 R = 26,41,000 + (0.25 × 1,04,400 R)
+
+Or, 1,04,400 R = 26,41,000 + 26,100 R
+
+Or, 78,300 R = 26,41,000
+
+Or, R           = `33.73
+
+Alternatively
+
+Let total takings be x
+
+ X= 26,41,000 + .25X ( 5% + 20% )
+
+ X = 35,21,333
+
+Let the rent of single room be R
+
+Then 1,04,400 R         = 35,21,333
+
+Or, R           = `33.73
+
+Rent to be charged:
+
+Rent to be charged for single room suite =                          `33.73
+
+Rent for double rooms suites ` 33.73  2.5 =                         `84.33
+
+Rent for triple rooms suites `33.73  5             = `168.65
+
+ILLUSTRATION 7
+
+A lodging home is being run in a small hill station with 100 single rooms. The home
+offers concessional rates during six off- season months in a year when numbers of visitor
+are limited. During this period, half of the full room rent is charged. The management's
+profit margin is targeted at 20% of the room rent. The following are the cost estimates
+and other details for the year ending on 31st March. [Assume a month to be of 30 days].
+
+(i) Occupancy during the season is 80% while in the off- season it is 40% only.
+
+(ii) Total investment in the home is ` 200 lakhs of which 80% relate to buildings
+       and balance for furniture and equipment.
+
+© The Institute of Chartered Accountants of India
+12.26 a COST AND MANAGEMENT ACCOUNTING
+
+(iii) Expenses:
+
+o Staff salary [Excluding room attendants] :          ` 5,50,000
+
+o Repairs to building                              :  ` 2,61,000
+
+o Laundry charges                                  :  ` 80, 000
+
+o Interior                                         :  ` 1,75,000
+
+o Miscellaneous expenses                           :  ` 1,90,800
+
+(iv) Annual depreciation is to be provided for buildings @ 5% and on furniture and
+       equipment @ 15% on straight-line basis.
+
+(v) Room attendants are paid ` 10 per room day on the basis of occupancy of the
+       rooms in a month.
+
+(vi) Monthly lighting charges are ` 120 per room, except in four months in winter
+       when it is ` 30 per room.
+
+You are required to WORK OUT the room rent chargeable per day both during the season
+and the off-season months on the basis of the foregoing information.
+
+SOLUTION
+
+Working Notes:
+
+(i) Total Room days in a year
+
+          Season   Occupancy (Room-days)              Equivalent Full Room
+                                                            charge days
+
+Season ­ 80% 100 Rooms × 80% × 6 months 14,400 Room Days ×
+
+Occupancy         × 30 days in a month = 14,400 100% = 14,400
+
+                  Room Days
+
+Off-season ­ 40% 100 Rooms × 40% × 6 months 7,200 Room Days ×
+
+Occupancy         × 30 days in a month = 7,200 50% = 3,600
+
+                  Room Days
+
+Total Room Days 14,400 + 7,200 = 21,600 Room 18,000 Full Room days
+                          Days
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING   a 12.27           a
+
+(ii) Lighting Charges:
+
+       It is given in the question that lighting charges for 8 months is `120 per month
+       and during winter season of 4 months it is `30 per month. Further it is also
+       given that peak season is 6 months and off season is 6 months.
+
+       It should be noted that ­ being Hill station, winter season is to be considered
+       as part of Off season. Hence, the non-winter season of 8 months include ­
+       Peak season of 6 months and Off season of 2 months.
+
+       Accordingly, the lighting charges are calculated as follows:
+
+Season                                             Occupancy (Room-days)
+
+Season & Non-winter ­ 80% 100 Rooms × 80% × 6 months × `120 per
+
+Occupancy                                          month = ` 57,600
+
+Off- season & non-winter ­ 40% 100 Rooms × 40% × 2 months × `120 per
+
+Occupancy (8 ­ 6 months)                           month = ` 9,600
+
+Off- season & -winter ­ 40% 100 Rooms × 40% × 4 months × ` 30 per
+
+Occupancy months)                                  month = ` 4,800
+
+Total Lighting charges                             ` 57,600+ 9,600 + 4,800 = ` 72,000
+
+Statement of total cost:
+
+Staff salary                                                                         (`)
+Repairs to building                                                           5,50,000
+Laundry & Linen                                                               2,61,000
+Interior
+Sundries Expenses                                                               80,000
+Depreciation on Building (` 200 Lakhs × 80% × 5%)                             1,75,000
+Depreciation on Furniture & Equipment (` 200 Lakhs × 20%                      1,90,800
+× 15%)                                                                        8,00,000
+Room attendant's wages (` 10 per Room Day for 21,600                          6,00,000
+Room Days)
+Lighting charges                                                              2,16,000
+
+                                                                                72,000
+
+© The Institute of Chartered Accountants of India
+12.28 a COST AND MANAGEMENT ACCOUNTING
+
+Total cost                                            29,44,800
+Add: Profit Margin (20% on Room rent or 25% on Cost)   7,36,200
+Total Rent to be charged
+                                                      36,81,000
+
+Calculation of Room Rent per day:
+Total Cost / Equivalent Full Room days = ` 36,81,000/ 18,000 = `204.50
+Room Rent during Season ­ `204.50
+Room Rent during Off season = `204.50 × 50% = ` 102.25
+
+    7. COSTING OF HOSPITALS
+
+A Hospital is providing various types of medical services to the patients. Hospital
+costing is applied to decide the cost of these services.
+A hospital may have different departments catering to varied services to the
+patients ­ such as
+· Out Patient
+· In Patient
+· Medical services like X-Ray, Scanning, etc.
+· General services like Catering, Laundry, Power house, etc.
+· Miscellaneous services like Transport, Dispensary, etc.
+
+7.1 Unit of Cost
+
+Common unit of costs of various departments are as follows:
+· Out Patient ­ Per Out-patient
+· In Patient ­ Per Room Day
+· Scanning ­ Per Case
+· Laundry ­ Per 100 items laundered
+
+7.2 Cost Segregation
+
+The cost of hospital can be divided in to fixed costs and variable costs
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.29  a
+
+Fixed costs are based on timelines and irrespective of services provided. For
+example, Staff salaries, Depreciation on Building and Equipment, etc.
+Variable costs vary with the level of services rendered. For example, laundry
+charges, Cost of food supplied to patients, Power, etc.
+ILLUSTRATION 8
+ABC Hospital runs a Critical Care Unit (CCU) in a hired building. CCU consists of 35 beds
+and 5 more beds can be added, if required.
+Rent per month - ` 75,000
+Supervisors ­ 2 persons ­ ` 25,000 Per month ­ each
+Nurses ­ 4 persons ­ ` 20,000 per month ­ each
+Ward Boys ­ 4 persons ­ ` 5,000 per month ­ each
+Doctors paid ` 2,50,000 per month ­ paid on the basis of number of patients attended
+and the time spent by them
+Other expenses for the year are as follows:
+Repairs (Fixed) ­ ` 81,000
+Food to Patients (Variable) ­ ` 8,80,000
+Other services to patients (Variable) ­ ` 3,00,000
+Laundry charges (Variable) ­ ` 6,00,000
+Medicines (Variable) ­ ` 7,50,000
+Other fixed expenses ­ ` 10,80,000
+Administration expenses allocated ­ ` 10,00,000
+It was estimated that for 150 days in a year 35 beds are occupied and for 80 days only
+25 beds are occupied.
+The hospital hired 750 beds at a charge of ` 100 per bed per day, to accommodate the
+flow of patients. However, this does not exceed more than 5 extra beds over and above
+the normal capacity of 35 beds on any day.
+You are required to ­
+
+© The Institute of Chartered Accountants of India
+12.30 a COST AND MANAGEMENT ACCOUNTING
+
+(a) CALCULATE profit per Patient day, if the hospital recovers on an average
+       ` 2,000 per day from each patient
+
+(b) FIND OUT Breakeven point for the hospital.
+
+SOLUTION
+Working Notes:
+
+(1) Calculation of number of patient days
+
+35 Beds × 150 days =                               5,250
+
+25 Beds × 80 days =                                2,000
+                                                     750
+Extra beds      =
+
+Total           =                                  8,000
+
+Statement of Profitability
+
+Particulars                                               Amount        Amount
+Income for the year (` 2,000 per patient per                         1,60,00,000
+day × 8,000 patient days)
+Variable Costs:                                           30,00,000
+Doctor Fees (` 2,50,000 per month × 12)                    8,80,000
+Food to Patients (Variable)                                3,00,000
+Other services to patients (Variable)                      6,00,000
+Laundry charges (Variable) ­ (`)                           7,50,000
+Medicines (Variable) ­ (`)                                   75,000
+Bed Hire Charges (`100 × 750 Beds)
+Total Variable costs                                                   56,05,000
+Contribution                                                         1,03,95,000
+Fixed Costs:
+Rent (` 75,000 per month × 12)                            9,00,000
+Supervisor (2 persons × `25,000 × 12)                     6,00,000
+Nurses (4 persons × ` 20,000 × 12)                        9,60,000
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.31    a
+
+Ward Boys (4 persons × ` 5,000 × 12)                                 2,40,000
+Repairs (Fixed)                                                        81,000
+Other fixed expenses ­ (`)
+Administration expenses allocated ­ (`)                             10,80,000
+Total Fixed Costs                                                   10,00,000
+Profit
+                                                                               48,61,000
+                                                                               55,34,000
+
+(1) Calculation of Contribution per Patient day
+
+Total Contribution ­ ` 1,03,95,000
+
+Total Patient days ­ 8,000
+
+Contribution per Patient day ­ ` 1,03,95,000 / 8,000 = ` 1,299.375
+
+(2) Breakeven Point  = Fixed Cost / Contribution per Patient day
+
+                     = ` 48,61,000 / `1,299.375
+
+                     = 3,741 patient days
+
+     8. COSTING OF IT & ITES
+
+Information Technology (IT) and Information Technology Enabled Services (ITES)
+organizations provide their customers with services or intangible products. These
+organizations are highly labour intensive.
+
+The services of IT and ITES organizations may be used for ­ provision of services to
+outside customers or provision of services internally (captive consumption)
+
+In this sector employee (labour) cost constitutes a significant portion of the total
+operating costs. The direct employee cost is traceable to services rendered.
+
+In addition to employee cost, significant overhead costs for offering the services
+are incurred and are classified as service overhead. To arrive at the cost incurred
+for rendering the services, it is necessary to allocate / apportion such overheads to
+cost units.
+
+© The Institute of Chartered Accountants of India
+          12.32 a COST AND MANAGEMENT ACCOUNTING
+
+8.1 Concept of Project
+
+In general ­ IT & ITES industries, the jobs undertaken are considered as Project.
+Each project is unique in nature and varies in size, functionality requirements,
+duration and staffing requirements.
+When a project is taken up, a detailed planning is done ­ by breaking down the
+project into number of activities and their dependencies. Based on the above,
+project scheduling are developed.
+Then the skill level requirement for carrying out each of the activities is identified
+and the duration of each and every activity would be ascertained. This process is
+known as effort estimation.
+Once the skill level and duration is identified, then required man-power is identified
+for carrying out the activities.
+Normally, project scheduling and effort estimation is carried out together. The costs
+of development are primarily the costs of the effort involved, so the effort
+computation is used in both the cost and the schedule estimate
+
+8.2 Effort Involved
+
+Direct Manpower
+In a typical software implementation project, three to four levels of man-power
+would be directly engaged, as mentioned below: -
+- Software Engineers / Functional Consultants / Business Analysts
+- Project Leaders
+- Project Manager
+- Program Manager, etc
+Depending on the nature and complexities of the projects being implemented, the
+number of persons engaged, their levels and duration of the engagement varies.
+For example, in a multi-continental, multi-time zone software implementation
+projects, in addition to the above manpower, Customer Account Manager, Portfolio
+Manager, etc may be involved.
+The costs incurred on the above listed manpower are traceable with a project and
+hence forming part of direct costs of the project.
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.33  a
+
+Support Manpower
+
+In addition to the above persons, who are directly engaged in project, there could
+be support persons or indirect manpower, who are indirectly involved in the
+project.
+
+For example, Quality Assurance Team, Testing Team, Version Control team, Staffing
+Manager, etc who are indirectly support the projects by providing required level of
+support services over the life of the projects.
+
+It is possible that the indirect manpower may be involved in more than one project,
+simultaneously. Their time spent, may or may not be traced on any particular
+project and will be used across multiple projects.
+
+If their time can be identified with a project, they will be treated as direct
+manpower. Accordingly, the cost incurred on them will be treated as direct cost.
+
+However, if their time is not traceable with a single project, then it may either be
+allocated or apportioned to various projects on some suitable basis. Accordingly,
+the cost incurred on them will be treated as overhead and the same will be
+apportioned to various projects on some suitable basis.
+
+Effort Cost in these types of organizations are calculated on the basis of cost per
+Person Day or cost per Person week or cost per Person month. That means cost
+incurred for a person for rendering services per day or per week or per month.
+
+Depending on the requirement of the customer, the periodicity will be defined. For
+example, implementation of new software may require eight to twelve person
+months. In such a case, the cost will be calculated on Per Person month basis. On
+the other hand, implementation of one or two new functionality in already
+implemented (existing) software may require one- or two-week's efforts. In such a
+case, the cost will be calculated on per Person week basis.
+
+© The Institute of Chartered Accountants of India
+          12.34 a COST AND MANAGEMENT ACCOUNTING
+
+8.3 Parameters in Computation of Total Cost
+
+A. Hardware and software costs involved
+       - If they are identifiable with a project, then they are directly allocated to
+               the project
+       - If they are not directly identifiable with a project or not fully allocable to
+               a project, then they are treated as service overhead
+
+B. Travel and training costs
+       - If they are incurred for a project, then they are directly allocated to the
+               project
+       - If they are not directly identifiable with a project or allocable over a
+               number of projects, then they are treated as service overhead. For
+               example, Java (software language) training provided to the software
+               engineers, may useful in multiple Java based projects. Hence treated as
+               overhead costs
+
+C. Effort costs
+       - Effort costs are basically identified with a project. They can be classified
+               as direct cost, unless otherwise specified.
+       - Effort costs are not just the salaries of the software engineers or
+               programmers who are involved in the project. Organisations compute
+               effort costs in terms of overhead costs where they take the total cost of
+               running the organisation and divide this by the number of productive
+               staff. Therefore, the following costs are all part of the total effort cost:
+               1. Costs of providing, heating and lighting office space
+               2. Costs of support staff such as accountants, administrators, system
+                       managers, cleaners and technicians
+               3. Costs of networking and communications
+               4. Costs of central facilities such as a library or recreational facilities
+               5. Costs of Social Security and employee benefits such as pensions
+                       and health insurance, etc.
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.35  a
+
+               In short, effort cost includes Salary of the staff concerned and part of
+               common overhead.
+ILLUSTRATION 9
+Following are the data pertaining to Infotech Pvt. Ltd, for the year 2022-23:
+
+Salary to Software Engineers (5 persons)                                  Amount (`)
+Salary to Project Leaders (2 persons)                                        15,00,000
+Salary to Project Manager                                                     9,00,000
+Repairs & maintenance                                                         6,00,000
+Administration overheads                                                      3,00,000
+                                                                             12,00,000
+
+The company executes a Project XYZ, the details of the same as are as follows:
+Project duration ­ 6 months
+One Project Leader and three Software Engineers were involved for the entire duration
+of the project, whereas Project Manager spends 2 months' efforts, during the execution
+of the project.
+Travel expenses incurred for the project ­ ` 1,87,500
+Two Laptops were purchased at a cost of ` 50,000 each, for use in the project and the life
+of the same is estimated to be 2 years
+PREPARE Project cost sheet.
+SOLUTION
+Working Notes:
+(1) Calculation of Cost per month and Overhead absorption rate
+
+Particulars                                        Total Per Per Person Per Person
+                                                     Annum Per Annum Per Month
+Salary to Software Engineer
+(5 Persons)                                        `15,00,000 ` 3,00,000     `25,000
+Salary to Project Leaders
+(2 persons)                                        ` 9,00,000 ` 4,50,000     ` 37,500
+
+© The Institute of Chartered Accountants of India
+12.36 a COST AND MANAGEMENT ACCOUNTING
+
+Salary to Project Manager                           ` 6,00,000  ` 6,00,000             ` 50,000
+Total                                              ` 30,00,000                       ` 1,12,500
+
+(2) Total Overhead = Repairs & maintenance + Administration overheads
+                             = ` 3,00,000 + `12,00,000 = `15,00,000
+
+(3) Calculation of Overhead absorption rate
+       = Total Overhead / Total Salary = `15,00,000 / `30,00,000 = 50%
+       Project Cost Sheet
+
+                                                                                     (`)
+
+Salary Cost:                                       (3 × ` 25,000 × 6 months)          4,50,000
+Salary of Software Engineers                       (` 37,500 × 6 months)              2,25,000
+Salary of Project Leader                           (` 50,000 × 2 months)              1,00,000
+Salary of Project Manager                                                             7,75,000
+Total Salary                                       (50% of Salary)                    3,87,500
+Overheads                                                                             1,87,500
+Travel Expenses                                    (`1,00,000 / 2 years × 6 months)
+Depreciation on Laptops                                                                 25,000
+Total Project Cost                                                                   13,75,000
+
+    9. COSTING OF TOLL ROADS
+
+The Construction of roads brings about a variety of benefits that are enjoyed
+practically by all sectors of the economy. Highway economic analysis is a technique
+whereby the cost and benefit from a scheme are quantified over a selected time
+horizon and evaluated by a common yardstick.
+
+The economic analysis involves comparison of project costs and benefits under the
+"with" and "without" project conditions.
+
+The project is further subjected to sensitivity analysis by assessing the effects of
+adverse changes in the key variables. In addition, the combined effect of these
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.37  a
+
+changes is also assessed. This helps to gauge the economic strength of the project
+to withstand future risks and uncertainties.
+
+9.1 Cost Involved
+
+The project cost consists of following two main components:
+
+9.1.1 Capital Costs
+The capital cost consists of cost incurred during the construction period. Generally,
+this sort of road construction projects run across multiple financial years. The total
+expenditure to be incurred during the construction period is termed as capital cost.
+The total cost includes the cost of construction of road and other structures and
+consultancy charges. In addition to this cost, it also includes the cost of
+construction of tollbooths.
+Construction expenses can be broadly classified as follows:
+· Preliminary and pre-operative expenses
+· Land Acquisition
+· Materials
+· Labour
+· Overheads incurred in the course of actual construction
+· Contingency allowance
+· Interest during construction period
+
+9.1.2 Operating and Maintenance Costs
+Routine maintenance cost would be incurred once the Toll road is operational.
+Routine maintenance involves Patching of potholes, sealing of cracks, Edge Repair,
+Surface Renewal, Periodic maintenance for new highways would be met with in
+accordance with the analysis of the life cycle model carried out for the project.
+Annual operating cost includes the cost of operating tollbooths, administrative
+expenses, emergency services, communications and security services and other
+costs of operation.
+
+© The Institute of Chartered Accountants of India
+          12.38 a COST AND MANAGEMENT ACCOUNTING
+
+Maintenance cost includes the cost of annual maintenance (routine) and periodic
+maintenance.
+· Annual maintenance cost includes primary maintenance of wearing surface,
+
+       railings, roadside furniture, etc.
+· Periodic maintenance cost includes the cost of overlays (wearing coats),
+
+       painting of railings, etc.
+Operating and Maintenance expenses can be broadly classified as follows:
+· Toll collection expenses
+· Administrative expenses for day-to-day operation.
+· Maintenance expenses, which include routing and periodic maintenance.
+· Interest expenses incurred for servicing term loans.
+
+9.2 Build-Operate-Transfer (BOT) Approach
+
+In recent years a growing trend emerged among Governments in many countries
+to solicit investments for public projects from the private sector under BOT scheme.
+BOT is an option for the Government to outsource public projects to the private
+sector.
+With BOT, the private sector designs, finances, constructs and operate the facility
+and eventually, after specified concession period, the ownership is transferred to
+the Government. Therefore, BOT can be seen as a developing technique for
+infrastructure projects by making them amenable to private sector participation.
+The fundamental principle in determining user levy is, 'if the price for a transport
+facility is set at a level that reflects the benefit, each user gains from improvements
+in the facility, it will result in traffic flow levels that equate social costs with user
+benefits.'
+
+9.3 Toll Rate
+
+In general, the toll rate should have a direct relation with the benefits that the road
+users would gain from its improvements. The benefits to road users are likely to be
+in terms of fuel savings, improvement in travel time and good riding quality.
+To compute the toll rate following formula with rounding off to nearest multiple of
+five has been adopted:
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.39  a
+
+User Fee = Total Distance × Toll Rate per km
+
+ILLUSTRATION 10
+BHG Toll Plaza Ltd built a 60 km. long highway and now operates a toll plaza to collect
+tolls from passing vehicles using the highway. The company has estimated that a total
+of 12 crore vehicles (only single type of vehicle) will be using the highway during the 10
+years toll collection tenure.
+
+Toll Operating and Maintenance cost for the month of April are as follows:
+
+(i) Salary to ­
+        Collection Personnel (3 Shifts and 4 persons per shift) - ` 550 per day per
+               person
+        Supervisor (2 Shifts and 1 person per shift) - ` 750 per day per person
+        Security Personnel (3 Shifts and 6 persons per shift) - ` 450 per day per
+               person
+        Toll Booth Manager (2 Shifts and 1 person per shift) - ` 900 per day per
+               person
+
+(ii) Electricity ­ ` 8,00,000
+
+(iii) Telephone ­ ` 1,40,000
+(iv) Maintenance cost ­ ` 30 Lakh
+
+Monthly depreciation and amortisation expenses will be ` 1.50 crore. Further, the
+company needs 25% profit over total cost to cover interest and other costs.
+
+Required:
+
+(i) CALCULATE cost per kilometer per month.
+
+(ii) CALCULATE the toll rate per vehicle.
+
+© The Institute of Chartered Accountants of India
+   12.40 a COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION
+Calculation of cost for the month of April
+
+Particulars                                                                                               (`)
+
+Salary to         Collection (3 Shifts × 4 persons per shift ×                                   1,98,000
+Personnel                         30 days × ` 550 per day)
+                                                                                                   45,000
+Salary to Supervisor          (2 Shifts × 1 persons per shift ×
+                              30 days × ` 750 per day)                                           2,43,000
+
+Salary to Security Personnel (3 Shifts × 6 persons per shift ×                                     54,000
+                                        30 days × ` 450 per day)
+                                                                                                 8,00,000
+Salary to Toll Booth (2 Shifts × 1 persons per shift ×                                           1,40,000
+                                                                                               30,00,000
+Manager                       30 days × ` 900 per day)                                         44,80,000
+                                                                                             1,50,00,000
+Electricity                                                                                 1,94,80,000
+
+Telephone
+
+Maintenance cost
+
+Total operating cost (A)
+
+Depreciation and amortisation expenses (B)
+
+Total Cost (A + B)
+
+(i) Calculation of cost per kilometer per month:
+
+   Total Cost ` 1,94,80,000
+= Total km. = 60 km. = ` 3,24,666.67
+
+(ii) Calculation of toll rate per vehicle:
+
+=  Total Cost+25% profit         ` 1,94,80,000 + ` 48,70,000                = ` 24.35
+
+                              =
+          Vehicles per month                       10,00,000 vehicles
+
+Working:
+
+No. of vehicles using the highway per month
+
+Total        estimated vehicles× 1                 month   =  12  crore  ×   1  month       10  lakhs
+                                                   months     10  years     12
+             10 years         12                                                         =
+
+                                                                                months
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.41  a
+
+    10. COSTING OF EDUCATIONAL INSTITUTIONS
+
+Educational institutions like schools, colleges, technical institutes for education and
+training, are run to impart education and training to students. The objective of
+running these institutions may be `Not-for profit' or `For profit'. Like other business
+entities, cost and management accounting is also inevitable for this sector. The
+Government, Local body of any other organisation which provides education and
+training to students with an objective to benefit and upliftment of the society, are
+also need cost and management accounting system for cost-social benefit analysis,
+allocation of funds and budgeting (zero-based budgeting), performance
+measurement and evaluation etc.
+
+10.1 Income of the Educational Institutions
+
+The source of income of an institute may be classified on the basis of recurrence as
+follows:
+
+One-time fees: These are the fees which are collected once in a course period or
+for a definite period like Admission fee, Development fee, Annual fee etc.
+
+Recurring fees: Tuition fee, laboratory, computer and internet fee, library fee,
+training fee, amenities fee, sports fee, extracurricular activities fee etc.
+
+The Government and other aided institutes may not be permitted to collect various
+fees like capitation fee and development fees etc. Further, unlike the trading and
+manufacturing organizations, these are not free to determine fees beyond a
+prescribed limit.
+
+Other incomes: The indirect income like transport, hostel, mess and canteen for
+the students and staff are provided by the educational institutions normally on no
+profit no loss basis.
+
+10.2 Expenditure of the Educational Institutions
+
+(i) Operational Cost:
+
+Following are the major operational costs incurred by an educational institution:
+
+· The salary of the teaching and non-teaching staff
+
+· Laboratory maintenance charges
+
+© The Institute of Chartered Accountants of India
+          12.42 a COST AND MANAGEMENT ACCOUNTING
+
+· Computer maintenance and internet charges,
+· Building maintenance,
+· Repairs and maintenance of equipment,
+· Administrative expenses,
+· Finance charges etc.
+Cost Centres and basis of cost allocation
+Cost centres in educational institutions are classified as follows:
+· Primary or Direct cost centres (like Civil Engineering department, Mechanical
+
+       Engineering department, etc.)
+· Service cost centres (like Laboratory, Library, Sports, etc.)
+· Student's Self-Supporting Services (like Transport, Hostel & Mess, etc.)
+· Administration Cost centres (like Research & Improvement, Examination)
+Costs incurred are allocated to the respective cost centres, if they are identifiable with
+a cost centre and apportioned to service and administration cost centres on suitable
+basis.
+(ii) Research and Development Cost
+Educational institutions undertake academic research on various fields of
+specializations. The costs of such research including personal costs, books etc. are
+to be collected through a cost centre approach. All costs incurred in that cost centre
+are collected and set off against the revenue generated from such research
+projects.
+If any balance is left out as undistributed, then such balance costs can be
+collectively distributed to all other course cost centre as a separate cost element
+namely "Research costs".
+(iii) Cost of Publication of research and other materials
+In an educational institution, there will be a separate department for conducting
+research publication related exercise. The cost incurred would be directly allocated
+to that department.
+
+© The Institute of Chartered Accountants of India
+                                                      SERVICE COSTING         a 12.43  a
+
+ILLUSTRATION 11
+
+AD Higher Secondary School (AHSS) offers courses for 11th & 12th standard in three
+streams i.e. Arts, Commerce and Science. AHSS runs higher secondary classes along with
+primary and secondary classes, but for accounting purpose it treats higher secondary as
+a separate responsibility centre. The Managing committee of the school wants to revise
+its fee structure for higher secondary students. The accountant of the school has provided
+the following details for a year:
+
+Teachers' salary (25 teachers × ` 35,000 × 12 months)                              Amount (`)
+Principal's salary                                                                 1,05,00,000
+Lab attendants' salary (2 attendants × ` 15,000 × 12 months)
+Salary to library staff                                                               14,40,000
+Salary to peons (4 peons × ` 10,000 × 12 months)                                       3,60,000
+Salary to other staffs                                                                 1,44,000
+Examinations expenditure                                                               4,80,000
+Office & Administration cost                                                           4,80,000
+Annual day expenses
+Sports expenses                                                                       10,80,000
+                                                                                      15,20,000
+
+                                                                                       4,50,000
+                                                                                       1,20,000
+
+Other information:
+
+(i)                                                                                Primary &
+                                                                                   Secondary
+                                                            Standard 11 & 12
+                                                                                       840
+                       Arts                           Commerce Science                 156
+
+No. of students        120                            360                     180        2
+
+Lab classes in a year                              0  0                       144   60 hours
+
+No. of examinations                                2  2                       2
+
+in a year
+
+Time spent at library 180 hours 120 hours 240 hours
+by students per year
+
+© The Institute of Chartered Accountants of India
+12.44 a COST AND MANAGEMENT ACCOUNTING
+
+Time spent                 by 208 hours 312 hours             480 hours  1,400 hours
+principal                  for                                     6           10
+administration
+
+Teachers for 11 & 12                               4  5
+
+standard
+
+(ii) One teacher who teaches economics for Arts stream students also teaches
+       commerce stream students. The teacher takes 1,040 classes in a year, it includes
+       208 classes for commerce students.
+
+(iii) There is another teacher who teaches mathematics for Science stream students
+       also teaches business mathematics to commerce stream students. She takes
+       1,100 classes a year, it includes 160 classes for commerce students.
+
+(iv) One peon is fully dedicated for higher secondary section. Other peons dedicate
+       their 15% time for higher secondary section.
+
+(v) All school students irrespective of section and age participates in annual
+       functions and sports activities.
+
+Required:
+
+(a) CALCULATE cost per student per annum for all three streams.
+
+(b) If the management decides to take uniform fee of ` 1,000 per month from all
+       higher secondary students, CALCULATE stream wise profitability.
+
+(c) If management decides to take 10% profit on cost, COMPUTE fee to be charged
+       from the students of all three streams respectively.
+
+SOLUTION
+
+Calculation of Cost per annum
+
+Particulars                Arts (`) Commerce Science                     Total (`)
+
+                                                         (`)  (`)
+
+Teachers' salary (W.N-1)   16,80,000 21,00,000 25,20,000 63,00,000
+
+Re-apportionment           of (84,000) 1,45,091 (61,091)                            -
+
+Economics & Mathematics
+
+teachers' salary (W.N- 2)
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING       a 12.45           a
+
+Principal's salary (W.N-3)         1,24,800                 1,87,200     2,88,000   6,00,000
+                                                                      -  1,72,800   1,72,800
+Lab assistants' salary (W.N-4)                           -                          1,29,600
+                                                              28,800       57,600   1,74,000
+Salary to library staff (W.N-5)                    43,200     94,909       47,455   2,11,200
+                                                            1,15,200       57,600   4,75,200
+Salary to peons (W.N-6)                            31,636   2,59,200     1,29,600   6,68,800
+                                                            3,64,800     1,82,400
+Salary to other staffs (W.N-7)                     38,400
+
+Examination expenses (W.N- 8) 86,400
+
+Office & Administration 1,21,600
+expenses (W.N- 7)
+
+Annual Day expenses (W.N-7)                        36,000    1,08,000 54,000 1,98,000
+                                                                28,800 14,400 52,800
+Sports expenses (W.N- 7)                           9,600
+                                                            34,32,000 34,62,764 89,82,400
+Total Cost per annum             20,87,636
+
+(i) Calculation of cost per student per annum
+
+Particulars                      Arts (`) Commerce Science                          Total (`)
+
+                                                            (`)          (`)
+
+Total Cost per annum 20,87,636 34,32,000 34,62,764 89,82,400
+
+No. of students                                    120           360           180         660
+
+Cost per student per                               17,397   9,533 19,238 13,610
+annum
+
+(ii) Calculation of profitability
+
+Particulars                                        Arts     Commer    Science       Total
+                                                    (`)       ce (`)     (`)         (`)
+
+Total Fees per annum                               12,000 12,000         12,000
+
+Cost per student per                               17,397   9,533        19,238
+annum
+
+Profit/ (Loss) per (5,397)                                  2,467        (7,238)
+student per annum
+
+No. of students                                    120      360          180
+
+Total Profit/ (Loss)             (6,47,640) 8,88,120 (13,02,840) (10,62,360)
+
+© The Institute of Chartered Accountants of India
+12.46 a COST AND MANAGEMENT ACCOUNTING
+
+(iii) Computation of fees to be charged to earn a 10% profit on cost
+
+                    Particulars                                   Arts       Commerce     Science
+                                                                   (`)            (`)        (`)
+Cost per student per annum
+Add: Profit @10%                                                  17,397     9,533          19,238
+Fees per annum                                                                                1,924
+Fees per month                                                    1,740      953
+                                                                                            21,162
+                                                                  19,137     10,486           1,764
+
+                                                                  1,595      874
+
+Working Notes:
+(1) Teachers' salary
+
+Particulars                                                       Arts       Commerce     Science
+
+No. of teachers                                                           4            5           6
+Salary per annum (`)                                                                      4,20,000
+(` 35,000 x 12)                                              4,20,000 4,20,000
+Total salary
+                                                             16,80,000 21,00,000 25,20,000
+
+(2) Re-apportionment of Economics and Mathematics teachers' salary
+
+                                                     Economics               Mathematics
+
+Particulars                                        Arts Commerce             Science Commerce
+
+No. of classes                                     832            208        940            160
+
+Salary                re-                          (84,000)       84,000     (61,091)       61,091
+
+apportionment (`)
+
+                                                     `4, 20, 000  ×208         `4, 20, 000  ×160  
+                                                       1, 040                    1,100            
+
+(3) Principal's salary has been apportioned on the basis of time spent by
+       him for administration of classes.
+
+(4) Lab attendants' salary has been apportioned on the basis of lab classes
+       attended by the students.
+
+(5) Salary of library staffs are apportioned on the basis of time spent by the
+       students in library.
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.47  a
+
+(6) Salary of Peons are apportioned on the basis of number of students. The
+       peons' salary allocable to higher secondary classes is calculated as
+       below:
+
+Peon dedicated for higher secondary                                 Amount (`)
+
+(1 peon × `10,000 × 12 months)                                         1,20,000
+                                                                          54,000
+Add: 15% of other peons' salary
+                                                                       1,74,000
+{15% of (3 peons × `10,000 × 12 months)}
+
+(7) Salary to other staffs, office & administration cost, Annual day expenses
+       and sports expenses are apportioned on the basis of number of
+       students.
+
+(8) Examination expenses has been apportioned taking number of students
+       into account (It may also be apportioned on the basis of number of
+       examinations).
+
+    11. COSTING IN INSURANCE COMPANIES
+
+Insurance or assurance industry operates in providing social security to the persons
+who subscribe for the policy. The Insurance companies are broadly classified as Life
+insurer and Non-Life Insurer (General Insurance providers). Life insurers provide
+assurance to the policy holders' life for the insured value. The Non-life insurers are
+providing insurance to the policyholder for actual loss upto insured value for the
+policy.
+
+The insurance companies are need to analyse it various insurance product for
+profitability. The product offered by insurance companies may include:
+
+(i) Life Insurance policies- with or without maturity benefits
+
+(ii) General insurance- Health, Fire, Property, Travel Insurance etc.
+
+(iii) Others services- Re-insurance, Fund management- Pension, Gratuity and
+       other etc.
+
+© The Institute of Chartered Accountants of India
+          12.48 a COST AND MANAGEMENT ACCOUNTING
+
+11.1 Income of Insurance Companies
+
+Income of insurance companies may include
+(i) Premium on policy (periodic or onetime)
+(ii) Commission on re-insurance
+(iii) Fund administration fee and return on investment of funds etc.
+
+11.2 Expenditure of Insurance Companies
+
+The Expenditure of an insurance company can be classified as direct and indirect
+to a policy or product.
+Direct- Commission paid to agents, claim settlement, cost of valuation, premium
+for re-insurance, legal and other costs etc.
+Indirect Cost- Actuarial fees, market and product development costs,
+administration cost, asset management cost etc.
+
+11.3 Method of Costing in an Insurance Company
+
+The cost object in an insurance company may be a product, a policy, a department
+or region, an agent etc.
+
+Activity Based Costing in Insurance Companies
+Activity based costing (ABC) is used for analysis of cost-benefit of a product (Direct
+Product Profitability), policy profitability (Customer Profitability Analysis) etc.
+Costs that occur in insurance companies are to be identified with appropriate
+activities that have caused its occurrence. Then costs must be reassigned from
+activities to cost objects (insurance contracts and policies, customers, delivery
+channels) based on identified cost drivers.
+Identification of activities and assignment of costs are the most critical for the
+implementation of activity-based costing. The activities can be divided into two
+parts i.e. (i) Pre-product development activities and (ii) Post product development
+activities.
+(i) Pre-product development activities: These are the activities which are
+carried out before a product is made. It includes market research, product
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.49  a
+
+development like specification of coverage, conditions, amount of premium,
+insurance contract, policy forms and provision for sales channel etc.
+
+(ii) Post product development activities: This activity is further divided into
+parts i.e. (a) Selling of policy and (b) Processing of claims. (a) Selling of policy refers
+to appointment of distribution of sales channel (direct selling or through agencies),
+soliciting for policy, processing of applications etc. (b) Processing of claim includes
+claim inception, claim estimation, claim settlement and legal actions.
+
+The activities costs are assigned to the products on the basis of appropriate cost
+drivers. The cost drivers may include no. of hours spent on processing of an
+application and claim processing, no. of application, no. of policy, no. of claim etc.
+
+ILLUSTATION 12
+
+Sanziet Lifecare Ltd. operates in life insurance business. Last year it launched a new
+term insurance policy for practicing professionals `Professionals Protection Plus'. The
+company has incurred the following expenditures during the last year for the policy:
+
+                                                                                `
+
+Policy development cost                                             11,25,000
+
+Cost of marketing of the policy                                     45,20,000
+
+Sales support expenses                                              11,45,000
+
+Policy issuance cost                                                10,05,900
+
+Policy servicing cost                                               35,20,700
+
+Claims management cost                                              1,25,600
+
+IT cost                                                             74,32,000
+
+Postage and logistics                                               10,25,000
+
+Facilities cost                                                     15,24,000
+
+Employees cost                                                      5,60,000
+
+Office administration cost                                          16,20,400
+
+Number of policies sold- 528
+Total insured value of policies- ` 1,320 crore
+
+© The Institute of Chartered Accountants of India
+      12.50 a COST AND MANAGEMENT ACCOUNTING
+
+Required:
+
+(i) CALCULATE total cost for Professionals Protection Plus policy segregating the
+       costs into four main activities namely (a) Marketing and Sales support, (b)
+       Operations, (c) IT and (d) Support functions.
+
+(ii) CALCULATE cost per policy.
+
+(iii) CALCULATE cost per rupee of insured value.
+
+SOLUTION
+
+(i) Calculation of total cost for `Professionals Protection Plus policy
+
+      Particulars                                                  Amount (`) Amount (`)
+      1. Marketing and Sales support:
+                                                                   11,25,000        67,90,000
+                  - Policy development cost                        45,20,000
+                  - Cost of marketing                              11,45,000
+                  - Sales support expenses
+      2. Operations:                                               10,05,900        46,52,200
+                  - Policy issuance cost                           35,20,700        74,32,000
+                  - Policy servicing cost
+                  - Claims management cost                          1,25,600
+      3. IT Cost
+      4. Support functions                                         10,25,000
+                  - Postage and logistics                          15,24,000
+                  - Facilities cost
+                  - Employees cost                                  5,60,000
+                  - Office administration cost                     16,20,400 47,29,400
+             Total Cost
+                                                                                   2,36,03,600
+
+(ii)  Calculation of cost per policy =             Total cost      =  `2,36,03,600  = ` 44,703.79
+
+                                                   No.of policies     528
+
+(iii) Cost per rupee of insured value =            Total cost         = ` 2.36 crore
+
+                                                   Total insured value ` 1,320 crore
+
+                                                   = ` 0.0018
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.51  a
+
+    12. COSTING IN FINANCIAL INSTITUTIONS
+
+In the past two-decade financial institutions have undergone major changes ­ in
+terms to increased regulations, competition from new entrants from both locally
+and globally, innovation of new products and services, technological advancement
+and increased expectations of new generation customers, etc.
+
+Over and above the challenges posed by the prevailing environment as described
+above, financial institutions underwent considerable changes in terms of its high
+quality, sensitive staffing requirements and its productivity.
+
+Manpower cost, other than interest cost and finance charges, is one of the largest
+single cost components in financial institutions. Hence, it is needless to say, that
+financial institutions are more interested in understanding and discovering the
+ways to more accurately allocate such costs to various product ranges offered by
+them and its customers.
+
+If the financial institution is to survive under the present challenging economic
+conditions, it will have to add value to its products and services. It is imperative to
+note that the financial institution needs to know the contribution of its products,
+services and customers to value creation.
+
+12.1 Cost Measurement in Financial Institutions
+
+The objectives of cost measurement include ­
+
+- Understand the profitability by products offered and by customers
+
+- Establishing a mechanism for pricing the products, by identifying the product
+       level and activity level unit costs
+
+- Understanding productivity issues and their relationship with strategic goals
+       of the organization
+
+In nutshell, financial institutions need to understand their position in various
+product lines and to find out how they can stay in competing edge or becomes a
+leader.
+
+© The Institute of Chartered Accountants of India
+12.52 a COST AND MANAGEMENT ACCOUNTING
+
+12.2 Activity Based Costing in Financial Institutions
+
+Activity based costing can be a useful tool in allocating the cost elements to various
+products offered and the customers being serviced.
+
+Activity based costing can help financial institutions to ­
+
+· Identify and analyze the profitability by product
+
+· Analyze the profitability by customer
+
+· Identify the activity level unit costs and build up product level costs, which in
+       turn forms basis for product level pricing / customer level pricing
+
+Financial institutions can improve their profitability by ­
+
+· Concentrating on products that are more profitable
+
+· Focus on high margin customers
+
+Costs that occur in financial institutions are to be identified with appropriate
+activities that have caused its occurrence. Then costs must be reassigned from
+activities to cost objects (various loan products offered by the organization,
+customers, etc.) based on identified cost drivers.
+
+The concepts on activity-based costing as discussed under Costing of Insurance
+Companies also applicable to financial institutions. Please refer the same.
+
+ILLUSTRATION 13
+
+The loan department of a bank performs several functions in addition to home loan
+application processing task. It is estimated that 25% of the overhead costs of loan
+department are applicable to the processing of home-loan application. The following
+information is given concerning the processing of a loan application:
+
+Direct professional labor:
+
+                                                             (`)
+
+Loan processor monthly salary:                               2,40,000
+
+(4 employees @ ` 60,000 each)
+
+Loan department overhead costs (monthly)
+
+Chief loan officer's salary                                  75,000
+
+Telephone expenses                                           7,500
+
+© The Institute of Chartered Accountants of India
+                       SERVICE COSTING           a 12.53  a
+
+Depreciation Building                                       28,000
+Legal advice                                                24,000
+Advertising                                                 40,000
+Miscellaneous
+Total overhead costs                                         6,500
+                                                          1,81,000
+
+You are required to COMPUTE the cost of processing home loan application on the
+assumption that five hundred home loan applications are processed each month.
+
+SOLUTION
+
+Statement showing computation of the cost of processing
+                  a typical home loan application
+
+                                                          (`)
+
+Direct professional labour cost                  2,40,000
+(4 employees @ ` 60,000 each)
+Service overhead cost (25% of ` 1,81,000)          45,250
+Total processing cost per month                  2,85,250
+No. of applications processed per month
+                                                       500
+
+Total processing cost per home loan application           570.5
+
+    13. OTHER SERVICES- COSTING FOR POWER
+          HOUSES
+
+Power houses are engaged either in electricity generation or steam generation use
+the concepts of service costing i.e., `Powerhouse Costing.' Service cost statement
+can be prepared by identifying the costs associated with the power generation or
+steam generation.
+Cost unit is different for electricity generation and steam generation.
+The cost unit for electricity generation organization is cost per kilowatt-hour (kWh)
+­ that means cost of generating one kilowatt of power per hour. Please note that
+kWh is commonly known as a "Unit".
+
+© The Institute of Chartered Accountants of India
+12.54 a COST AND MANAGEMENT ACCOUNTING
+
+The costs are shown under the following heads:
+
+(i) Standing Charges or Fixed costs: These are the fixed costs that remain
+       constant irrespective of the power or stream generated. These costs include
+       the following:
+
+ Rent, Rates & Taxes
+
+ Insurance
+
+ Depreciation
+
+ Salaries, if paid on Time (Monthly) basis
+
+ Administration expenses, etc.
+
+(ii) Variable costs or Running costs: These costs are generally associated with
+       the power or stream generated. These costs include the following:
+
+        Fuel Charges
+
+ Water Charges
+
+ Wages / Labour charges, if paid on the basis of production
+
+ Any other variable costs identified.
+
+(iii) Semi-variable costs or Maintenance costs: These costs include the
+       following:
+
+ Meters
+
+ Furnaces
+ Service materials
+
+ Tools, etc.
+
+ILLUSTRATION 14
+
+PREPARE the cost statement of Ignus Thermal Power Station showing the cost of
+electricity generated per kWh, from the data provided below pertaining to the
+year 2022-23.
+
+Total units generated 20,00,000 kWh
+
+Operating labour                                   Amount (`)
+                                                      30,00,000
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.55  a
+
+Repairs & maintenance                              10,00,000
+Lubricants, spares and stores                       8,00,000
+Plant supervision                                   6,00,000
+Administration overheads
+                                                   40,00,000
+
+5 kWh. of electricity generated per kg of coal consumed @ ` 4.25 per kg. Depreciation
+charges @ 5% on capital cost of ` 5,00,00,000.
+
+SOLUTION
+
+Cost Statement of Ignus Thermal Power Station
+
+Total units generated                              20,00,000 kwh.       Per kWh (`)
+                                                        Per annum (`)
+Fixed costs:
+Plant supervision                                             6,00,000
+Administration overheads
+Depreciation (5% of ` 5,00,00,000 p.a.)            40,00,000
+Total fixed cost: (A)
+Variable costs:                                    25,00,000
+Operating labour
+Lubricants, spares and stores                      71,00,000                 3.55
+Repairs & maintenance
+Coal cost (Refer to working note)                  30,00,000
+Total variable cost: (B)
+Total cost [(A) + (B)]                                        8,00,000
+
+                                                   10,00,000
+
+                                                   17,00,000
+
+                                                   65,00,000                 3.25
+
+                                                   1,36,00,000               6.80
+
+Working Note:
+
+Coal cost (20,00,000 kwh. ÷ 5 kwh) × ` 4.25 per kg. = ` 17,00,000
+
+ILLUSTRATION 15
+Solar Power Ltd. has a power generation capacity of 1000 Megawatt per day. On an
+average it operates at 85% of its installed capacity. The cost structure of the plant is as
+under:
+
+© The Institute of Chartered Accountants of India
+12.56 a COST AND MANAGEMENT ACCOUNTING
+
+         Cost particulars                          Amount (` in Lakh)
+1. Employee cost per year                                               2500
+2. Solar panel maintenance cost per year                                  250
+3. Site maintenance cost per year                                         150
+4. Depreciation per year                                                5940
+
+CALCULATE cost of generating 1kW of power.
+[ 1 Megawatt = 1,000 kW]
+
+SOLUTION
+Working:
+
+1. Estimated power generated in a year
+
+= 1000 Megawatt × 85% × 365 days
+
+= 3,10,250 Megawatt
+Calculation of 1 kW power generation cost:
+
+      Cost particulars                             Amount (` in Lakh)
+A. Employee cost per year                                              2500
+B. Solar panel maintenance cost per year                                 250
+C. Site maintenance cost per year                                        150
+D. Depreciation per year                                               5940
+E. Total Cost [A+B+C+D]                                                8840
+F. Estimated power generated (in Megawatt)
+                                                                   3,10,250
+      (Refer working note-1)
+G. Cost of generating 1 Megawatt (`)                               2,849.31
+
+      [(E÷F)×1,00,000]                                                2.849
+H. Cost of 1 kW (`) [G÷1,000]
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.57  a
+
+SUMMARY
+
+ Service Costing: It is application of cost concepts in ascertainment of cost or
+       providing services. It is also known as operating costing as relates to operating
+       of a service.
+
+ Composite Cost Unit: Unit of service cost consists of two different units.
+
+ Key Performance Indicators (KPIs): KPIs are the quantitative and qualitative
+       factors which are commonly used to assess the performance of an organization
+       which are important to achieve its goal.
+
+ Equivalent Service unit: To calculate cost or pricing of two more different grade
+       of services which uses common resources, each grade of service is assigned a
+       weight and converted into equivalent units. Converting services into equivalent
+       units make different grade of services equivalent and comparable.
+
+ Build-Operate-Transfer (BOT): With BOT, the private sector designs, finances,
+       constructs and operate the facility and eventually, after specified concession
+       period, the ownership is transferred to the Government. Therefore, BOT can be
+       seen as a developing technique for infrastructure projects by making them
+       amenable to private sector participation.
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1. Composite cost unit for a hospital is:
+       (a) Per patient
+       (b) Per patient-day
+       (c) Per day
+       (d) Per bed
+
+2. Cost of diesel and lubricant is an example of:
+       (a) Operating cost
+       (b) Fixed charges
+
+© The Institute of Chartered Accountants of India
+          12.58 a COST AND MANAGEMENT ACCOUNTING
+
+       (c) Semi-variable cost
+       (d) None of the above
+3. Cost units used in power sector is:
+       (a) Kilo meter (K.M)
+       (b) Kilowatt-hour (kWh)
+       (c) Number of electric points
+       (d) Number of hours
+4. Absolute Tonne-km. is an example of:
+       (a) Composite units in power sector
+       (b) Composite unit of transport sector
+       (c) Composite unit for bus operation
+       (d) Composite unit for oil and natural gas
+5. Depreciation is treated as fixed cost if it is related to:
+       (a) Activity level
+       (b) Related with machine hours
+       (c) Efflux of time
+       (d) None of the above
+6. Jobs undertaken by IT & ITES organizations are considered as:
+       (a) Project
+       (b) Batch work
+       (c) Contract
+       (d) All the above
+7. In Toll Road costing, the repetitive costs include:
+       (a) Maintenance cost
+       (b) Annual operating costs
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.59  a
+
+       (c) None of the above
+       (d) Both (a) and (b)
+8. BOT approach means:
+       (a) Build, Operate and Transfer
+       (b) Buy, Operate and Transfer
+       (c) Build, Operate and Trash
+       (d) Build, Own and Trash
+9. Pre-product development activities in insurance companies, include:
+       (a) Processing of Claim
+       (b) Selling of policy
+       (c) Provision of conditions
+       (d) Policy application processing
+10. Which of the following costing method is not appropriate for costing of
+       educational institutes:
+       (a) Batch Costing
+       (b) Activity Based Costing
+       (c) Absorption Costing
+       (d) Process Costing
+
+Theoretical Questions
+
+1. EXPLAIN briefly, what do you understand by Service Costing.
+2. STATE how are composite units computed.
+3. STATE the features of service costing.
+
+Practical Problems
+
+1. SLS Infrastructure built and operates 110 k.m. highway on the basis of Built-
+       Operate-Transfer (BOT) for a period of 25 years. A traffic assessment carried
+       out to estimate the traffic flow per day shows the following figures:
+
+© The Institute of Chartered Accountants of India
+12.60 a COST AND MANAGEMENT ACCOUNTING
+
+Sl. No. Type of vehicle                            Daily   traffic
+                                                   volume
+1.  Two wheelers                                   44,500
+                                                   3,450
+2.  Car and SUVs                                   1,800
+                                                   816
+3.  Bus and LCV
+
+4.  Heavy commercial vehicles
+
+The following is the estimated cost of the project:
+
+Sl. Activities                                                Amount
+No.                                                        (` in lakh)
+1 Site clearance
+2 Land development and filling work                             170.70
+3 Sub base and base courses                                   9,080.35
+4 Bituminous work                                           10,260.70
+5 Bridge, flyovers, underpasses, Pedestrian subway,         35,070.80
+                                                            29,055.60
+        footbridge, etc
+6 Drainage and protection work                                9,040.50
+7 Traffic sign, marking and road appurtenance                 8,405.00
+8 Maintenance, repairing and rehabilitation                 12,429.60
+9 Environmental management
+                                                                982.00
+        Total Project cost                                 114,495.25
+
+An estimated cost of `1,120 lakh has to be incurred on administration and toll
+plaza operation.
+
+On the basis of the vehicle specifications (i.e. weight, size, time saving etc.), the
+following weights has been assigned to the passing vehicles:
+
+Sl. No. Type of vehicle
+
+1.  Two wheelers                                   5%
+
+2.  Car and SUVs                                   20%
+
+3.  Bus and LCV                                    30%
+
+4.  Heavy commercial vehicles                      45%
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.61  a
+
+Required:
+
+(i) CACULATE the total project cost per day of concession period.
+
+(ii) COMPUTE toll fee to be charged for per vehicle of each type, if the
+       company wants to earn a profit of 15% on total cost.
+
+[Note: Concession period is a period for which an infrastructure is allowed to
+operate and recovers its investment]
+
+2. Mr. X owns a bus which runs according to the following schedule:
+
+(i) Delhi to Chandigarh and back, the same day.                     250 km. one way.
+        Distance covered:                                                                8
+        Number of days run each month:
+        Seating capacity occupied                                                   90%.
+
+(ii) Delhi to Agra and back, the same day.                          210 km. one way
+        Distance covered:                                                              10
+        Number of days run each month:
+        Seating capacity occupied                                                    85%
+
+(iii) Delhi to Jaipur and back, the same day.                       270 km. one way
+        Distance covered:                                                                6
+        Number of days run each month:
+
+        Seating capacity occupied                                              100%
+(iv) Following are the other details:
+                                                                       ` 12,00,000
+        Cost of the bus                                              ` 24,000 p.m.
+        Salary of the Driver                                         ` 21,000 p.m.
+        Salary of the Conductor
+        Salary of the part-time Accountant                            ` 5,000 p.m.
+        Insurance of the bus                                           ` 4,800 p.a.
+        Diesel consumption 4 km. per litre at                        ` 56 per litre
+        Road tax                                                     ` 15,915 p.a.
+
+© The Institute of Chartered Accountants of India
+12.62 a COST AND MANAGEMENT ACCOUNTING
+
+Lubricant oil                                                  ` 10 per 100 km.
+Permit fee                                                            ` 315 p.m.
+Repairs and maintenance
+Depreciation of the bus                                             ` 1,000 p.m.
+Seating capacity of the bus                                          @ 20% p.a.
+                                                                      50 persons.
+
+       Passenger tax is 20% of the total takings.
+
+       CALCULATE the bus fare to be charged from each passenger to earn a profit of
+       30% on total takings. The fares are to be indicated per passenger for the
+       journeys:
+
+       (i) Delhi to Chandigarh (ii) Delhi to Agra and (iii) Delhi to Jaipur.
+
+3. A company is considering three alternative proposals for conveyance facilities
+       for its sales personnel who has to do considerable traveling, approximately
+       20,000 kilometers every year. The proposals are as follows:
+
+       (i) Purchase and maintain its own fleet of cars. The average cost of a car is
+              ` 6,00,000.
+
+       (ii) Allow the Executive use his own car and reimburse expenses at the rate of
+              ` 10 per kilometre and also bear insurance costs.
+
+       (iii) Hire cars from an agency at ` 1,80,000 per year per car. The company will
+               have to bear costs of petrol, taxes and tyres.
+
+       The following further details are available:
+
+Petrol ` 6 per km.                                 Repairs and maintenance ` 0.20 per km.
+
+Tyre ` 0.12 per km.                                Insurance ` 1,200 per car per annum
+
+Taxes ` 800 per car per Life of the car: 5 years with annual mileage of
+
+annum                                              20,000 km.
+
+       Resale value: ` 80,000 at the end of the fifth year.
+
+       WORK OUT the relative costs of three proposals and rank them.
+
+4. From the following data pertaining to the year 2022-23 PREPARE a cost
+       statement showing the cost of electricity generated per kwh by Chambal
+       Thermal Power Station.
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.63            a
+
+Total units generated                              10,00,000 kWh
+
+                                                                    (`)
+
+Operating labour                                                    15,00,000
+
+Repairs & maintenance                                               5,00,000
+
+Lubricants, spares and stores                                       4,00,000
+
+Plant supervision                                                   3,00,000
+
+Administration overheads                                            20,00,000
+
+5 kWh. of electricity generated per kg. of coal consumed @ ` 4.25 per kg.
+Depreciation charges @ 5% on capital cost of ` 2,00,00,000.
+
+Case Scenarios
+
+1. A LMV Pvt. Ltd, operates cab/ car rental service in Delhi/NCR. It provides its
+       service to the offices of Noida, Gurugram and Faridabad. At present it operates
+       CNG fuelled cars but it is also considering to upgrade these into Electric vehicle
+       (EV). The following details related with the owning of CNG & EV propelled cars
+       are as tabulated below:
+
+Particulars                                        CNG Car                 EV Car
+Car purchase price (` )                            9,20,000              15,20,000
+Govt. subsidy on purchase of car                                          1,50,000
+(` )                                                    --
+Life of the car                                                           10 years
+Residual value (` )                                15 years               1,70,000
+Mileage                                             95,000          240 km per charge
+                                                   20 km/kg
+
+Electricity consumption per full                     --                        30 Kwh
+charge
+CNG cost per Kg (` )                                60                            --
+Power cost per Kwh (` )                              --                          7.60
+Annual Maintenance cost (` )                       8,000                        5,200
+Annual insurance cost (` )                         7,600                       14,600
+
+© The Institute of Chartered Accountants of India
+12.64 a COST AND MANAGEMENT ACCOUNTING
+
+Tyre replacement cost in every 5 -                 16,000  16,000
+year (` )
+
+Battery replacement cost in every                  12,000  5,40,000
+8- year (` )
+
+Apart from the above, the following are the additional information:
+
+Particulars
+
+Average distance covered by a car in a month               1,500 km
+
+Driver's salary (` )                                       20,000 p.m
+
+Garage rent per car (` )                                   4,500 p.m
+
+Share of Office & Administration cost per car (` )         1,500 p.m
+
+You have been approached by the management of A LMV Pvt. Ltd. for
+consultation on the two options of operating the cab service. The expected
+questions that may be asked by the management are as follows:
+(i) What would be the depreciable value of EV Car?
+
+       (a) `13,50,000
+       (b) `15,20,000
+       (c) `14,40,000
+       (d) `12,00,000
+(ii) What would be the monthly cost of electricity for an EV car?
+       (a) `1,425
+       (b) `1,500
+       (c) `1,450
+       (d) `1,525
+(iii) What would be the total cost to be incurred for replacement of tyres for
+       EV car?
+       (a) `32,000
+       (b) `24,000
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.65  a
+
+       (c) `12,000
+       (d) `16,000
+(iv) Calculate the operating cost of vehicle per month per car for CNG options.
+       (a) `36,627.78
+       (b) `24,000.50
+       (c) `43.708.33
+       (d) `16,605.55
+(v) Calculate the operating cost of vehicle per month per car for EV options
+       (a) `36,627.78
+       (b) `24,000.50
+       (c) `43.708.33
+       (d) `16,605.55
+
+ANSWERS/ SOLUTIONS
+
+Answers to the MCQs
+
+  1. (b) 2. (a) 3. (b) 4. (b) 5. (c) 6. (a)
+  7. (a) 8. (a) 9. (c) 10. (d)
+
+Answers to the Theoretical Questions
+
+1. Please refer paragraph 1
+2. Please refer paragraph 2
+3. Please refer paragraph 1
+
+© The Institute of Chartered Accountants of India
+12.66 a COST AND MANAGEMENT ACCOUNTING
+
+Answer to the Practical Problems
+
+1. (i) Calculation of total project cost per day of concession period:
+
+Activities                                                                            Amount
+                                                                                    (` in lakh)
+Site clearance
+Land development and filling work                                                        170.70
+Sub base and base courses                                                              9,080.35
+Bituminous work                                                                      10,260.70
+Bridge, flyovers, underpasses, Pedestrian subway,                                    35,070.80
+footbridge, etc                                                                      29,055.60
+Drainage and protection work
+Traffic sign, marking and road appurtenance                                            9,040.50
+Maintenance, repairing and rehabilitation                                              8,405.00
+Environmental management                                                             12,429.60
+Total Project cost
+Administration and toll plaza operation cost                                             982.00
+Total Cost                                                                          114,495.25
+Concession period in days (25 years × 365 days)
+Cost per day of concession period (` in lakh)                                          1,120.00
+                                                                                    115,615.25
+
+                                                                                           9,125
+                                                                                           12.67
+
+(ii) Computation of toll fee:
+
+Cost to be recovered per day = Cost per day of concession period + 15%
+profit on cost
+
+= `12,67,000 + `1,90,050
+
+= `14,57,050
+
+Cost per equivalent vehicle =                      `14, 57, 050
+
+                                                   76, 444units(Refer workingnote)
+
+                                                   = `19.06 per equivalent vehicle
+
+Vehicle type-wise toll fee:
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING          a 12.67      a
+
+Sl. Type of vehicle                                     Equivalent Weight                Toll fee
+No.                                                                                           per
+                                                                   cost     [B]
+1. Two wheelers                                                                          vehicle
+2. Car and SUVs                                                     [A]                    [A×B]
+3. Bus and LCV                                                                              19.06
+4. Heavy commercial vehicles                                       ` 19.06  1               76.24
+                                                                                          114.36
+                                                                   ` 19.06  4             171.54
+
+                                                                   ` 19.06  6
+
+                                                                   ` 19.06  9
+
+Working Note:
+
+The cost per day has to be recovered from the daily traffic. The each type
+of vehicle is to be converted into equivalent unit. Let's convert all vehicle
+types equivalent to Two-wheelers.
+
+Sl. Type of vehicle                                        Daily   Weight   Ratio        Equivalent
+No.                                                      traffic               [B]              Two-
+                                                        volume
+                                                                                            wheeler
+                                                              [A]                              [A×B]
+
+1. Two wheelers                                         44,500      0.05    1            44,500
+
+2. Car and SUVs                                         3,450       0.20    4            13,800
+
+3. Bus and LCV                                          1,800       0.30    6            10,800
+
+4. Heavy commercial                                     816         0.45    9            7,344
+
+vehicles
+
+Total                                                                                    76,444
+
+2. Working Notes:
+       Total Distance (in km.) covered per month
+
+Bus route            Km. per                            Trips per           Days per     Km. per
+Delhi to Chandigarh        trip                                day            month       month
+
+                           250                                     2                  8     4,000
+
+Delhi to Agra                                      210             2        10           4,200
+Delhi to Jaipur
+                                                   270             2        6            3,240
+
+                                                                                         11,440
+
+© The Institute of Chartered Accountants of India
+12.68 a COST AND MANAGEMENT ACCOUNTING
+
+Passenger- km. per month
+
+                            Total seats            Capacity Km.          Passenger-
+                         available per              utilised per             Km. per
+                                                                   trip        month
+                             month (at
+                      100% capacity)
+
+                                                   (%) Seats
+
+Delhi to Chandigarh                                800 90 720 250        1,80,000
+
+& Back                (50 seats  2                                       (720 seats ×
+
+                      trips  8 days)                                     250 km.)
+
+Delhi to Agra & Back                               1,000 85 850 210      1,78,500
+
+                         (50 seats  2                                    (850 seats ×
+                      trips  10 days)                                        210 km.)
+
+Delhi to Jaipur &                  600 100         600 270               1,62,000
+Back
+                       (50 seats  2                                      (600 seats ×
+                      trips  6 days)                                         270 km.)
+
+Total                                                                    5,20,500
+
+Monthly Operating Cost Statement                              (`)        (`)
+
+ (i) Running Costs                                            1,60,160   1,61,304
+         Diesel {(11,440 km  4 km)  ` 56}                        1,144
+         Lubricant oil {(11,440 km  100)  ` 10}
+                                                                         1,000
+ (ii) Maintenance Costs
+         Repairs & Maintenance                                  24,000   72,041.25
+                                                                21,000
+ (iii) Standing charges
+         Salary to driver                                        5,000
+         Salary to conductor                                        400
+         Salary of part-time accountant
+         Insurance (` 4,800 ÷12)                              1,326.25
+         Road tax (` 15,915 ÷12)                                    315
+         Permit fee
+         Depreciation {(` 12,00,000  20%)  12}                  20,000
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.69     a
+
+Total costs per month before Passenger Tax                                    2,34,345.25
+(i)+(ii)+(iii)
+Passenger Tax*                                                                  93,738.10
+Total Cost                                                                    3,28,083.35
+Add: Profit*                                                                  1,40,607.15
+Total takings per month                                                       4,68,690.50
+
+*Let, total takings be X then
+
+X = Total costs per month before passenger tax + 0.2 X (passenger tax) + 0.3
+       X (profit)
+
+X = ` 2,34,345.25 + 0.2 X + 0.3 X
+
+0.5 X = ` 2,34,345.25 or, X = `4,68,690.50
+
+Passenger Tax = 20% of `4,68,690.50 = ` 93,738.10
+
+Profit = 30% of `4,68,690.50 = ` 1,40,607.15
+
+Calculation of Rate per passenger km. and fares to be charged for
+different routes
+
+Rate per Passenger-Km. =                           Total takings per month
+
+                               Total Passenger -Km. per month
+
+                     =                             ` 4,68,690.50    = ` 0.90
+
+                          5,20,500 Passenger -Km.
+
+Bus fare to be charged per passenger.
+
+Delhi to Chandigarh  = ` 0.90  250 km                               = ` 225.00
+Delhi to Agra        = ` 0.90  210 km                               = ` 189.00
+Delhi to Jaipur      = ` 0.90  270 km                               = ` 243.00
+
+© The Institute of Chartered Accountants of India
+    12.70 a COST AND MANAGEMENT ACCOUNTING
+
+3. Calculation of relative costs of three proposals and their ranking
+
+    Reimbursement                                           per                  I          II          III
+    Fixed cost:                                    annum (`)             Use of      Use of       Use of
+    Insurance                                                      company's
+    Taxes                                                 1,200                         own         hired
+    Depreciation                                            800               car         car          car
+    (` 6,00,000 - `80,000) ÷ 5 year                                per km. (`)
+    Running and Maintenance                           1,04,000                      per km.      per km.
+    Cost:                                                                      --          (`)          (`)
+    Petrol                                                     --
+    Repairs and Maintenance                                    --                      10.00         9.00*
+    Tyre                                                       --
+    Total cost per km.                                         --  0.06             0.06         --
+    Cost for 20,000 km.
+    Ranking of proposals                                           0.04             --           0.04
+
+                                                                   5.20             --           --
+
+                                                                        6.00                --        6.00
+                                                                        0.20                --           --
+                                                                        0.12                --
+                                                                      11.62            10.06          0.12
+                                                                   2,32,400         2,01,200        15.16
+                                                                                                 3,03,200
+                                                                            II                I
+                                                                                                         III
+
+    * (` 1,80,000 ÷ 20,000 km.)
+
+    The Second alternative i.e., use of own car by the executive and reimbursement
+    of expenses by the company is the best alternative from company's point of view.
+
+4.  Cost Statement of Chambal Thermal Power Station
+
+    Total units generated                                          10,00,000 kWh.   Per kWh. (`)
+    Fixed costs:                                                   Per annum (`)
+
+    Plant supervision                                              3,00,000
+
+    Administration overheads                                       20,00,000
+
+    Depreciation (5% of ` 2,00,00,000 p.a.)                        10,00,000
+
+    Total fixed cost: (A)                                          33,00,000                     3.30
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.71      a
+
+Variable costs:                                                     15,00,000
+Operating labour
+Lubricants, spares and stores                                       4,00,000
+Repairs & maintenance
+Coal cost (Refer to working note)                                   5,00,000
+Total variable cost: (B)
+Total cost [(A) + (B)]                                              8,50,000
+
+                                                                    32,50,000                3.25
+
+                                                                    65,50,000                6.55
+
+Working Note:
+Coal cost (10,00,000 kWh. ÷ 5 kWh) × ` 4.25 per kg. = ` 8,50,000
+
+ANSWERS TO THE CASE SCENARIOS
+
+1.
+            i. (d) ii. (a) iii. (d) iv. (a) v. (c)
+
+(i) (d) `12,00,000
+
+Calculation of Depreciation per month:
+
+     Particulars                                                    CNG Car         EV Car
+A Car purchase price (`)                                            9,20,000     15,20,000
+B Less: Govt. subsidy (`)                                                        (1,50,000)
+C Less: Residual value (`)                                                   --  (1,70,000)
+D Depreciable value of car (`) [A-B-C]                               (95,000)    12,00,000
+E Life of the car                                                   8,25,000
+F Annual depreciation (`) [D÷E]                                      15 years     10 years
+G Depreciation per month (`) [F÷12]                                               1,20,000
+                                                                       55,000
+                                                                    4,583.33        10,000
+
+(ii) (a) `1,425
+
+Fuel/ Electricity consumption cost per month:
+
+     Particulars                                                    CNG Car      EV Car
+A Average distance covered in a month (KM)                              1,500     1,500
+
+© The Institute of Chartered Accountants of India
+12.72 a COST AND MANAGEMENT ACCOUNTING
+
+B Mileage (KM)                                         20            240
+C Qty. of CNG/ Full charge required [A÷B]          75 kg.           6.25
+D Electricity Consumption [C×30kwh]                               187.5
+E Cost of CNG per kg (`)                                 -
+F Power cost per Kwh (`)                               60               -
+G CNG Cost per month (`) [C×E]                                      7.60
+H Power cost per month (`) [D×F]                         -
+                                                   4,500                -
+                                                                  1,425
+                                                         -
+                                                                EV Car
+(iii) (d) `16,000                                              10 years
+       Amortised cost of Tyre replacement:
+                                                                5 years
+       Particulars                                 CNG Car       1 time
+A Life of vehicle                                  15 years      16,000
+B Replacement interval                                           16,000
+C No. of time replacement required                   5 years      1,600
+D Cost of tyres for each replacement (`)             2 times    133.33
+E Total replacement cost (`) [C×D]                    16,000
+F Amortised cost per year (`) [E÷A]                   32,000    EV Car
+E Cost per month (`) [F÷12]                        2,133.33    10 years
+                                                     177.78
+                                                                8 years
+(iv) (a) ` 36,627.78                                             1 time
+(v) (c) ` 43.708.33                                            5,40,000
+                                                               5,40,000
+                 Amortised cost of Battery replacement:          54,000
+                                                                  4,500
+       Particulars                                 CNG Car
+A Life of vehicle                                  15 years
+B Replacement interval
+C No. of time replacement required                   8 years
+D Cost of battery for each replacement (`)            1 time
+E Total replacement cost (`) [C×D]                    12,000
+F Amortised cost per year (`) [E÷A]                   12,000
+E Cost per month (`) [F÷12]
+                                                          800
+                                                       66.67
+
+© The Institute of Chartered Accountants of India
+                                                   SERVICE COSTING  a 12.73    a
+
+Calculation of Operating cost per month
+
+Particulars                                                         CNG Car EV Car (`)
+                                                                        (`)
+
+A Running cost:
+
+Fuel cost/ Power consumption cost [Refer                            4,500      1,425
+WN-2]
+
+B Maintenance cost:
+
+Annual Maintenance cost [Annual cost ÷12]                           666.67     433.33
+
+Annual Insurance cost [Annual cost ÷12]                             633.33 1,216.67
+
+Amortised cost of Tyre replacement [Refer                           177.78     133.33
+WN-3]
+
+Amortised cost of Battery replacement                               66.67      4,500
+[Refer WN-4]
+
+                                                                    1,544.45 6,283.33
+
+C Fixed cost:
+
+Depreciation [Refer WN-1]                                           4,583.33   10,000
+
+Driver's salary                                                     20,000     20,000
+
+Garage rent                                                         4,500      4,500
+
+Share of Office & Administration cost                               1,500      1,500
+
+                                                                    30,583.33  36,000
+
+D Operating cost per month [A+B+C]                                  36,627.78 43,708.33
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+

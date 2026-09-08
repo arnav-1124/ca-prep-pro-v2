@@ -1,0 +1,2246 @@
+CHAPTER                      10
+
+PROCESS & OPERATION
+COSTING
+
+                                    LEARNING OUTCOMES
+
+ State the meaning of Process and Operation Costing.
+ Discuss the treatment of process loss and gains in cost
+
+      accounts.
+ Compute equivalent completed production units.
+ Discuss the various methods of valuation of work in process.
+ State the meaning and treatment of Inter-process profits.
+
+CHAPTER OVERVIEW
+
+Process & Operation Costing                Meaning                       Normal
+                                     Costing Procedure                  Abnormal
+                             Treatment of Process loss/ gain  Process Costing Methods
+                                                                    Equivalent Units
+                                      Valuation of WIP
+                                     Inter-process Profit
+                                     Operation Costing
+
+© The Institute of Chartered Accountants of India
+          10.2             COST AND MANAGEMENT ACCOUNTING
+
+    1. MEANING OF PROCESS COSTING
+
+Process Costing is a method of costing used in industries where the material
+has to pass through two or more processes for being converted into a final
+product. It is defined as "a method of Cost Accounting whereby costs are charged
+to processes or operations and averaged over units produced". A separate account
+for each process is opened and all expenditure pertaining to a process is charged
+to that process account. Such type of costing method is useful in the
+manufacturing of products like steel, paper, medicines, soaps, chemicals, rubber,
+vegetable oil, paints, varnish etc. where the production process is continuous and
+the output of one process becomes the input of the following process till
+completion.
+
+This can be understood with the help of the following diagram:
+
+  Raw           Process-I                          Process-II  Process-III  Finished
+Material                                                                     Goods
+
+1.1 Basic Features
+
+Industries, where process costing can be applied, have normally one or more of the
+following features:
+
+1. Each plant or factory is divided into a number of processes, cost centres or
+       departments, and each such division is a stage of production or a process.
+
+2. Manufacturing activity is carried on continuously by means of one or
+       more process run sequentially, selectively or simultaneously.
+
+3. The output of one process becomes the input of another process.
+
+4. The end product usually is of like units not distinguishable from one another.
+
+5. It is not possible to trace the identity of any particular lot of output to
+       any lot of input materials. For example, in the sugar industry, it is impossible
+       to trace any lot of sugar bags to a particular lot of sugarcane fed or vice versa.
+
+6. Production of a product may give rise to Joint and/or By-Products.
+
+© The Institute of Chartered Accountants of India
+                PROCESS & OPERATION COSTING        10.3
+
+2. COSTING PROCEDURE IN PROCESS COSTING
+
+The Cost of each process comprises the cost of:
+
+(i) Materials                                      (ii) Employee Cost (Labour)
+
+(iii) Direct expenses, and                         (iv) Overheads of production.
+
+Materials - Materials and supplies which are required for each process are drawn
+against Material Requisitions Notes from the stores. Each process for which the
+materials are used, are debited with the cost of materials consumed on the
+basis of the information received from the Cost Accounting department. The
+finished product of first process generally become the raw materials of second
+process; under such a situation the account of second process is debited with the
+cost of transfer from the first process and also with the cost of any additional
+material used in process.
+
+Employee Cost (Labour) - Each process account should be debited with the
+labour cost or wages paid to labour for carrying out the processing activities.
+Sometimes the wages paid are apportioned over the different processes after
+selecting appropriate basis.
+
+Direct expenses - Each process account should be debited with direct expenses
+like depreciation, repairs, maintenance, insurance etc. associated with it.
+
+Production Overheads- Expenses like rent, power expenses, lighting bills, gas and
+water bills etc. are known as production overheads. These expenses cannot be
+allocated to a process. The suitable way out to recover them is to apportion them
+over different processes by using suitable basis. Usually, these expenses are
+estimated in advance and the processes debited with these expenses on a pre-
+determined basis.
+
+ILLUSTRATION 1
+
+From the following data, PREPARE process accounts indicating the cost of each
+process and the total cost. The total units that pass through each process were 240
+for the period.
+
+© The Institute of Chartered Accountants of India
+          10.4           COST AND MANAGEMENT ACCOUNTING
+
+Materials                Process I (`)             Process II (`)  Process III (`)
+Labour                     1,50,000                    50,000           20,000
+Other expenses               80,000                   2,00,000          60,000
+                             26,000                    72,000           25,000
+
+Indirect expenses amounting to ` 85,000 may be apportioned on the basis of wages.
+There was no opening or closing stock.
+
+SOLUTION
+
+Dr.                      Process- I Account                        Cr.
+Particulars
+                         Per Total (`)             Particulars       Per Total
+ To Material                                                       unit (`) (`)
+   " Labour              unit
+   " Other expenses      (`)
+   " Indirect expenses*
+                         625 1,50,000 By Process -II               1,150 2,76,000
+                                                    A/c
+
+                         334 80,000 (Transfer to
+                                              Process-II)
+
+                         108 26,000
+
+                         83 20,000
+
+                         1,150 2,76,000                            1,150 2,76,000
+
+Dr.                      Process- II Account                                             Cr.
+Particulars                                                          Per Total (`)
+                  Per Total (`)                    Particulars     unit (`)
+To Process-I A/c                                                      2,700 6,48,000
+                  unit
+" Material        (`)                                                 2,700 6,48,000
+
+" Labour          1,150 2,76,000 By Process-III
+" Other
+                                                   A/c
+       expenses
+" Indirect               208 50,000 (Transfer to
+
+       expenses*                                   Process-III)
+
+                         834 2,00,000
+
+                         300 72,000
+
+                         208 50,000
+
+                  2,700 6,48,000
+
+© The Institute of Chartered Accountants of India
+                   PROCESS & OPERATION COSTING                         10.5
+
+Dr.                           Process- III Account                                            Cr.
+Particulars                                                              Per Total (`)
+                                Per Total              Particulars     unit (`)
+To Process-II A/c             unit (`) (`)                                3,200 7,68,000
+
+     Material                 2,700 6,48,000 By Finished                  3,200 7,68,000
+" Labour                                                    Stock A/c
+" Other
+                              83 20,000 (Transferred)
+     expenses
+" Indirect                    250 60,000
+
+     expenses*                104 25,000
+
+                              63 15,000
+
+                              3,200 7,68,000
+
+* Apportionment of Indirect expenses among Process-I, Process-II and Process-III
+
+Total Wages to processes (I + II +III) = ` 80,000 + ` 2,00,000 + ` 60,000 =
+` 3,40,000
+
+Apportionment to:
+
+Process-  I   =    `85,000    ×`80,000  =  `  20,000;
+                  `3, 40,000
+
+Process-  II   =   `85,000    ×`2,00,000   =  `50,000 and
+                  `3, 40,000
+
+Process-  III  =   `85,000    ×`60,000  =     `15,000
+                  `3, 40,000
+
+    3. TREATMENT OF NORMAL, ABNORMAL LOSS
+          AND ABNORMAL GAIN
+
+3.1 Normal and Abnormal Loss
+
+Loss of material is inherent during processing operation. The loss of material under
+different processes arises due to reasons like evaporation or a change in the
+moisture content etc. Process loss is defined as the loss of material arising during
+the course of a processing operation and is equal to the difference between the
+input quantity of the material and its output.
+
+© The Institute of Chartered Accountants of India
+          10.6  COST AND MANAGEMENT ACCOUNTING
+
+There are two types of material losses viz. (i) Normal loss and (ii) Abnormal loss.
+
+(i) Normal Process Loss: It is also known as normal wastage. It is defined as
+the loss of material which is inherent in the nature of work. Such a loss can be
+reasonably anticipated from the nature of the material, nature of operation, the
+experience and technical data. It is unavoidable because of nature of the material
+or the process. It also includes units withdrawn from the process for test or
+sampling.
+
+Treatment in Cost Accounts: The cost of normal process loss in practice is
+absorbed by good units produced under the process. The amount realised by the
+sale of normal process loss units should be credited to the process account.
+
+Example-1 (Normal loss with no realisable value)
+
+A product passes through Process- I and Process- II. Materials issued to Process- I
+amounted to ` 40,000, Wages ` 30,000 and manufacturing overheads were
+` 27,000. Normal loss anticipated was 5% of input. 4,750 units of output were
+produced and transferred-out from Process-I. There were no opening stocks. Input
+raw material issued to Process I were 5,000 units. Scrap has no realisable value.
+
+You are required to PREPARE Process- I account, value of normal loss and units
+transferred to Process-II.
+
+SOLUTION
+
+                Process- I Account
+
+Particulars     Units (`) Particulars              Units                      (`)
+
+To Material     5,000 40,000 By Normal loss        250                             0
+
+To Wages        - 30,000
+
+To Overhead     - 27,000 By Process II             4,750 97,000
+
+                5,000 97,000                       5,000 97,000
+
+Value of Normal loss = Scrap realisable value less cost to sale
+Since, scraps do not realise any value, hence, value of normal loss is zero.
+
+© The Institute of Chartered Accountants of India
+                       PROCESS & OPERATION COSTING                                 10.7
+
+Value of units transferred to Process-II:
+
+=  Total Cost-Realisable value of normal              loss ×Units     transferred
+         Total inputunits-Normal lossunits
+
+=         `97,000 - 0  units ×4,750  units =          97,000
+   5,000 units - 250
+
+Example-2 (Normal loss with realisable value)
+
+A product passes through Process- I and Process- II. Materials issued to Process- I
+amounted to ` 40,000, Wages ` 30,000 and manufacturing overheads were
+` 27,000. Normal loss anticipated was 5% of input. 4,750 units of output were
+produced and transferred-out from Process-I. There were no opening stocks. Input
+raw material issued to Process I were 5,000 units. Scrap has realisable value of
+` 2 per unit.
+
+You are required to PREPARE Process- I account, value of normal loss and units
+transferred to Process-II.
+
+SOLUTION
+
+   Particulars                      Process- I Account                             Units   (`)
+   To Material             Units (`) Particulars                                      250    500
+   To Wages                5,000 40,000 By Normal loss
+   To Overhead                                                                     4,750   96,500
+                                 - 30,000                                          5,000   97,000
+                                 - 27,000 By Process II
+                           5,000 97,000
+
+Value of Normal loss = Scrap realisable value less cost to sale
+
+= 250 units × `2 = `500
+
+Value of units transferred to Process-II:
+
+=  Total Cost -Realisable value of normal loss                ×Units  transferred
+        Total input units -Normal loss units
+
+=  5,   `97,000 - `500     ×4,750units             =  96,500
+       000units -250units
+
+© The Institute of Chartered Accountants of India
+          10.8  COST AND MANAGEMENT ACCOUNTING
+
+(ii) Abnormal Process Loss: It is also known as abnormal wastage. It is defined
+as the loss in excess of the pre-determined loss (Normal process loss). This type
+of loss may occur due to the carelessness of workers, a bad plant design or
+operation, sabotage etc. Such a loss cannot obviously be estimated in advance. But
+it can be kept under control by taking suitable measures.
+
+Treatment in Cost Accounts: The cost of an abnormal process loss unit is equal
+to the cost of a good unit. The total cost of abnormal process loss is credited to
+the process account from which it arises. Cost of abnormal process loss is not
+treated as a part of the cost of the product. In fact, the total cost of abnormal
+process loss is debited to costing profit and loss account.
+
+Example-3 (Abnormal loss with realisable value)
+
+A product passes through Process- I and Process- II. Materials issued to Process- I
+amounted to ` 40,000, Wages ` 30,000 and manufacturing overheads were
+` 27,000. Normal loss anticipated was 5% of input. 4,550 units of output were
+produced and transferred-out from Process-I. There were no opening stocks. Input
+raw material issued to Process I were 5,000 units. Scrap has realisable value of
+` 2 per unit.
+
+You are required to PREPARE Process- I account, value of normal loss, abnormal loss
+and units transferred to Process-II.
+
+SOLUTION
+
+                Process- I Account
+
+Particulars     Units (`) Particulars                            Units     (`)
+To Material     5,000 40,000 By Normal loss                         250
+To Wages                                                            200     500
+To Overhead           - 30,000 By Abnormal Loss                           4,063
+                      - 27,000 By Process II                      4,550  92,437
+                5,000 97,000                                      5,000  97,000
+
+Value of Normal loss = Scrap realisable value less cost to sale
+= 250 units × `2 = `500
+
+© The Institute of Chartered Accountants of India
+   PROCESS & OPERATION COSTING                                                  10.9
+
+Value of Abnormal loss:
+
+=  Total Cost -Realisable value of normal loss ×Abnormal loss units
+        Total input units -Normal loss units
+
+=      ` 97,000-`500         ×200units  =          `4,063
+   5, 000 units - 250 units
+
+Value of units transferred to Process-II:
+
+=  Total Cost -Realisable value of normal loss             ×Units  transferred
+       Total input units -Normal loss units
+
+=      `97, 000 - `500       ×4,550  units         =  `  92,437
+   5, 000 units - 250 units
+
+3.2 Abnormal Process Gain/ Yield
+
+Sometimes, loss under a process is less than the anticipated normal figure. In other
+words, the actual production exceeds the expected figures. Under such a
+situation the difference between actual and expected loss or actual and expected
+production is known as abnormal gain or yield. So, abnormal gain may be defined
+as an unexpected gain in production under the normal conditions. This arises due
+to over- estimation of process loss, improvements in work efficiency of workers,
+use od better technology in production etc.
+
+Treatment in Cost Accounts: The process account under which abnormal gain
+arises is debited with the abnormal gain and credited to abnormal gain account
+which will be closed by transferring to the Costing Profit and Loss account. The cost
+of abnormal gain is computed on the basis of normal production.
+
+Example-4 (Abnormal gain/ yield with realisable value)
+
+A product passes through Process- I and Process- II. Materials issued to Process- I
+amounted to ` 40,000, Wages ` 30,000 and manufacturing overheads were
+` 27,000. Normal loss anticipated was 5% of input. 4,850 units of output were
+produced and transferred-out from Process-I. There were no opening stocks. Input
+raw material issued to Process I were 5,000 units. Scrap has realisable value of
+` 2 per unit.
+
+© The Institute of Chartered Accountants of India
+   10.10                         COST AND MANAGEMENT ACCOUNTING
+
+You are required to PREPARE Process- I account, value of normal loss, abnormal loss/
+gain and units transferred to Process-II.
+
+SOLUTION
+
+                                 Process- I Account
+
+   Particulars             Units                         (`)     Particulars       Units      (`)
+
+   To Material             5,000                      40,000 By Normal loss              250  500
+   To Wages                     -                     30,000
+   To Overhead                  -                     27,000 By Process II               4,850 98,532
+   To Abnormal Gain A/c
+                             100                       2,032
+                           5,100                      99,032                             5,100 99,032
+
+Value of Normal loss = Scrap realisable value less cost to sale
+= 250 units × `2 = `500
+(even though the actual loss is less than the expected loss (Normal loss), value of the
+normal loss is calculated on the estimated figure)
+
+Value of Abnormal Gain:
+
+=  Total Cost -Realisable value of normal loss                   ×Abnormal  Gain  units
+        Total input units -Normal loss units
+
+=       `97,000 - `500     ×100  units =              `2,032
+   5,000 units -250 units
+
+Value of units transferred to Process-II:
+
+=  Total Cost -Realisable value of normal loss                ×Units  transferred
+        Total input units -Normal loss units
+
+=      `97,000 - `500    ×4,850units               =  `  98,532
+   5,000units -250units
+
+(Process A/c is debited with the value of abnormal gain as calculated above but the
+Costing Profit & Loss Account will only be credited with actual amount of abnormal
+gain only considering the actual realisable value through Abnormal Gain A/c, as
+shown below)
+
+© The Institute of Chartered Accountants of India
+                PROCESS & OPERATION COSTING                                10.11
+
+                            Abnormal Gain A/c
+
+Particulars         Units                          (`) Particulars         Units   (`)
+To Normal Loss A/c    100                            200 By Process-I A/c     100  2,032
+
+(100 units × `2)           - 1,832
+                        100 2,032
+To Costing P&L A/c
+
+                                                                           100 2,032
+
+(The Costing P&L Account is credited only for actual gain amount)
+
+ILLUSTRATION 2
+
+A product passes through three processes. The output of each process is treated as
+the raw material of the next process to which it is transferred and output of the third
+process is transferred to finished stock.
+
+Materials issued            Process-I (`)               Process-II (`)     Process-III (`)
+Labour                          40,000                      20,000              10,000
+Manufacturing overhead           6,000                       4,000              1,000
+                                10,000                      10,000              15,000
+
+10,000 units have been issued to the Process-I and after processing, the output of
+each process is as under:
+
+Process             Output                         Normal Loss
+
+Process-I           9,750 units                    2%
+
+Process-II          9,400 units                    5%
+
+Process-III         8,000 units                    10%
+
+No stock of materials or of work-in-process was left at the end. CALCULATE the cost
+of the finished articles.
+
+SOLUTION
+
+Dr.                              Process-I Account                                        Cr.
+Particulars
+                    Units Total                    Particulars             Units Total
+To Material                      (`)                                                    (`)
+
+                    10,000 40,000 By Normal Loss A/c                               200    --
+                                                (2% of 10,000 units)
+
+© The Institute of Chartered Accountants of India
+    10.12                         COST AND MANAGEMENT ACCOUNTING
+
+" Labour                   -- 6,000 " Abnormal Loss A/c                50 286
+                                                (` 5.7142 × 50 units)
+
+" Manufacturing            -- 10,000 " Process-II A/c                  9,750 55,714
+       OH
+                                               (` 5.7142 × 9,750
+                                                units)
+
+                           10,000 56,000                               10,000 56,000
+
+Cost per unit of completed units and abnormal loss:
+
+      Total Cost  loss  =           ` 56,000       =`  5.7142
+Inputs -Normal             10,000units - 200units
+
+Dr.                               Process-II Account                                 Cr.
+       Particulars
+                           Units  Total            Particulars         Units    Total
+                                   (`)                                     488   (`)
+
+To Process-I A/c 9,750            55,714 By Normal Loss A/c                           --
+
+                                                  (5% of 9,750
+                                                  units)
+
+" Material                 --     20,000 " Process-III A/c             9,400 91,051
+
+                                                 (` 9.6862 × 9,400
+                                                  units)
+
+" Labour                   --     4,000
+
+" Manufacturing            --     10,000
+
+OH
+
+" Abnormal Gain 138               1,337
+       A/c
+
+       (` 9.6862 × 138
+       units)
+
+                           9,888  91,051                               9,888 91,051
+
+Cost per unit of completed units and abnormal gain:
+
+      Total Cost  loss  =          `89,714         = ` 9.6862
+Inputs-Normal              9,750units - 488units
+
+© The Institute of Chartered Accountants of India
+                  PROCESS & OPERATION COSTING                                       10.13
+
+Dr.                                   Process-III Account                                     Cr.
+Particulars
+                           Units      Total                 Particulars             Units Total
+To Process-II A/c                      (`)                                                       (`)
+   " Material                9,400
+   " Labour                       --  91,051 By Normal Loss A/c                     940       --
+                                  --
+   " Manufacturing OH                                       (10% of 9,400 units)
+                                  --
+                             9,400    10,000 " Abnormal Loss A/c                    460    6,364
+
+                                                            (`13.8358 × 460 units)
+
+                                                   1,000 "  Finished Stock A/c      8,000 1,10,687
+                                                            (`13.8358 × 8,000
+                                                             units)
+
+                                      15,000
+
+                                      1,17,051                                      9,400 1,17,051
+
+Cost per unit of completed units and abnormal loss:
+
+      Total Cost  loss  =         ` 1,17, 051               = `13.8358
+Inputs -Normal             9, 400units -940units
+
+ILLUSTRATION 3
+
+RST Limited processes Product Z through two distinct processes ­ Process- I and Process-
+II. On completion, it is transferred to finished stock. From the following information for the
+current year, PREPARE Process- I, Process- II and Finished Stock A/c:
+
+Particulars                                        Process- I                  Process- II
+                                                                                     --
+Raw materials used                                 7,500 units                       --
+
+Raw materials cost per unit                                 ` 60               6,525 units
+
+Transfer to next process/finished                  7,050 units                     10%
+stock                                                                          ` 1,29,250
+                                                                         65% of Direct wages
+Normal loss (on inputs)                                     5%           15% of Direct wages
+
+Direct wages                                       ` 1,35,750                    ` 37.50
+
+Direct Expenses                                    60% of Direct wages
+
+Manufacturing overheads                            20% of Direct wages
+
+Realisable value of scrap per unit                          ` 12.50
+
+6,000 units of finished goods were sold at a profit of 15% on cost. Assume that there
+was no opening or closing stock of work-in-process.
+
+© The Institute of Chartered Accountants of India
+10.14                            COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION                         Process- I A/c
+
+      Particulars      Units     (`)               Particulars             Units      (`)
+
+ To Raw material used   7,500    4,50,000 By Normal loss                      375      4,688
+                             --               (5% of 7,500 units) × `12.5   7,050   6,82,403
+ (`60 × 7,500 units)         --
+                                 1,35,750 By Process- II A/c                    75     7,259
+ To Direct wages        7,500                  (`96.7947 × 7,050 units)
+                                                                            7,500   6,94,350
+ To Direct expenses              81,450 By Abnormal loss
+                                             (`96. 7947 × 75 units)
+ To Manufacturing
+ overhead                        27,150
+
+                                 6,94,350
+
+Cost per unit of completed units and abnormal loss:
+
+Total Cost -Realisable value from normal loss
+         Inputs units -Normal loss units
+
+= `6,94,350 - `4,688 = `6,89,662 = ` 96.7947
+
+  7,500units - 375 units 7,125 units
+
+                                 Process- II A/c
+
+    Particulars        Units     (`)               Particulars             Units      (`)
+
+To Process- I A/c       7,050    6,82,403          By Normal loss             705     26,438
+                                                                                    9,13,824
+                                                   (10% of 7,050 units) ×   6,525
+                                                   ` 37.5                           9,40,262
+
+To Direct wages        --        1,29,250          By Finished Stock A/c
+
+                                                   (` 140.0496 × 6,525
+                                                   units)
+
+To Direct expenses         --    84,013
+                           --
+To Manufacturing         180     19,387
+overhead
+                       7,230     25,209
+To Abnormal gain
+(` 140.0496 × 180
+units)
+
+                                 9,40,262                                  7,230
+
+© The Institute of Chartered Accountants of India
+                   PROCESS & OPERATION COSTING                        10.15
+
+Cost per unit of completed units and abnormal loss:
+
+ TotalCost-Realisable value fromnormalloss
+            Inputsunits-Normallossunits
+
+= `9,15,053 - `26, 438             = `8,88,615 = `140.0496
+
+   7,050 units - 705 units            6,345 units
+
+                                   Finished Goods Stock A/c
+
+Particulars        Units           (`)       Particulars              Units  (`)
+
+To Process II A/c           6,525  9,13,824  By Cost of Sales         6,000  8,40,298
+                                                                        525    73,526
+                                             (`140.0496 ×      6,000
+                                             units)
+
+                                             By Balance c/d
+
+                            6,525 9,13,824                            6,525 9,13,824
+
+                                   Income Statement
+
+           Particulars                  (`)          Particulars                  (`)
+
+To Cost of sales                   8,40,298 By Abnormal gain                 18,459
+(`140.0496 × 6,000 units)
+                                                 {180 units × (`140.0496 ­
+To Abnormal loss                                 `37.50)}
+{75 units × (`96.7947 ­ `12.50)}
+To Net Profit                           6,322 By Sales (`8,40,298 × 115%)    9,66,343
+
+                                   1,38,182                                  9,84,802
+                                   9,84,802
+
+    4. VALUATION OF WORK-IN-PROCESS
+
+In the case of process type of industries, it is possible to determine the average
+cost per unit by dividing the total cost incurred during a given period of time by
+the total number of units produced during the same period. But this is hardly the
+case in most of the process type industries where manufacturing is a continuous
+activity. The reason is that the cost incurred in such industries represents the cost
+of work carried on opening work-in-process, closing work-in-process and
+completed units. Thus to ascertain the cost of each completed unit, it is necessary
+
+© The Institute of Chartered Accountants of India
+10.16                       COST AND MANAGEMENT ACCOUNTING
+
+to ascertain the cost of work-in-process in the beginning and at the end of the
+process.
+
+The valuation of work-in-process presents a good deal of difficulty because it has
+units under different stages of completion from those in which work has just begun
+to those which are only a step short of completion. Work-in-process can be valued
+on actual basis, i.e., materials used on the unfinished units and the actual amount
+of labour expenses involved. However, the degree of accuracy in such a case cannot
+be satisfactory. An alternative method is based on converting partly finished units
+into equivalent finished units.
+
+4.1 Equivalent Units
+
+Equivalent units or equivalent production units, means converting the incomplete
+production units into their equivalent completed units. Under each process, an
+estimate is made of the percentage completion of work-in-process with regard to
+different elements of costs, viz., material, labour and overheads. It is important that
+the estimate of percentage of completion should be as accurate as possible. The
+formula for computing equivalent completed units is:
+
+Equivalent completed units  =     Actual number of units in  ×  Percentage of 
+                                 the process of manufacture                      
+                                                                Work  completed  
+
+For instance, if 25% of work has been done on the average of units still under
+process, then 200 such units will be equal to 50 completed units and the cost of
+work-in-process will be equal to the cost of 50 finished units.
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India                   PROCESS AND OPERATION COSTING       10.17
+
+                                                   The following table may be used to compute the equivalent units:
+
+                                                   Input Details Units Output Particulars Units                                Equivalent Units
+
+                                                                                                                     Material       Labour          Overhead
+
+                                                                                                        % Units % Units % Units                                          PROCESS & OPERATION COSTING
+
+                                                                                                   a    b c= a×b d e=a×d f g=a×f
+
+                                                   Opening W-I-P    xxx Opening W-I-P*             xxx xxx           xxx       xxx  xxx          xxx  xxx
+
+                                                   Unit Introduced  xxx Finished output**          xxx xxx           xxx       xxx  xxx          xxx  xxx
+
+                                                                    Normal loss***                 xxx  -            -         -    -            -    -
+
+                                                                    Abnormal                       xxx xxx           xxx       xxx  xxx          xxx  xxx
+                                                                    loss/Gain****
+
+                                                                    Closing W-I-P                  xxx xxx           xxx       xxx  xxx          xxx  xxx
+
+                                                   Total            xxx Total                      xxx               xxx            xxx               xxx
+
+                                                   * Equivalent units for Opening W-I-P is calculated only under FIFO method. Under the Average method, it is not shown  10. 17
+                                                   separately.
+
+                                                   **Under the FIFO method, Finished Output = Units completed and transferred to next process less Opening WIP.
+                                                   Under Average method, Finished Output = Units completed and transferred.
+
+                                                   ***For normal loss, no equivalent unit is calculated.
+
+                                                   ****Abnormal Gain/ Yield is treated as 100% complete in respect of all cost elements irrespective of percentage of
+                                                   completion.
+10.18  COST AND MANAGEMENT ACCOUNTING
+
+    5. STEPS IN PROCESS COSTING
+
+For each production process, a Production Cost Report is prepared at the end of
+each accounting period. The objective of preparing the report is to know physical
+units and equivalent units in process, element wise cost of goods produced and
+transferred, goods in process (work-in-process), units lost due to abnormal reasons
+i.e. abnormal loss etc. To prepare the report, the following steps are generally
+followed:
+
+Step-1: Analysis of physical flow of production units
+
+The first step is to determine and analyse the number of physical units in the form
+of inputs (introduced fresh or transferred from previous process, beginning work-
+in-process) and outputs (completed and work-in-process).
+
+Step-2: Calculation of equivalent units for each cost elements
+
+The second step is to calculate equivalent units of production for each cost element
+i.e. for material, labour and overheads. It is calculated by taking the extent of work
+done in respect of each element. For example, if there are 1,000 units in work-in-
+process at the end of the month. All materials are introduced at the beginning of
+production process. For labour and overheads, 20% more work is required to get it
+completed. In this example, the equivalent units of work-in-process in respect of
+material would be 1,000 units (1,000 units × 100% complete) and for labour and
+overheads 800 units (1,000 units × 80% complete).
+
+Step-3: Determination of total cost for each cost element
+
+Total cost for each cost element is collected and accumulated for the period. The
+process of cost collection has already been discussed above.
+
+Step-4: Computation of cost per equivalent unit for each cost element
+
+In this step, the cost per equivalent unit for each cost element is calculated. The
+total cost as calculated in Step-3 is divided by the equivalent units as determined
+in Step-2.
+
+© The Institute of Chartered Accountants of India
+PROCESS AND OPERATION COSTING                      10.19
+
+Step-5: Assignment of total costs to units completed and ending WIP
+
+In this step, the total cost for units completed, units transferred to next process,
+ending work in process, abnormal loss etc. are calculated and posted in the process
+account and production cost report.
+
+    6. PROCESS COSTING METHODS
+
+Mainly two methods for valuation of work-in-process are followed:
+
+(i) First-in-First Out (FIFO) method.
+
+(ii) Weighted Average(Average) method
+
+(i) First-in-first-out (FIFO) method
+
+Under this method the units completed and transferred are taken from both
+opening work-in-process (WIP) and freshly introduced materials/inputs. The cost
+to complete the opening WIP and other completed units are calculated
+separately. The cost of opening WIP is added to cost incurred on completing the
+incomplete (WIP) units into complete one. The total cost of units completed and
+transferred is calculated by adding opening WIP cost to cost on freshly introduced
+inputs. In this method the closing stock of work in process is valued at current
+cost.
+
+ILLUSTRATION 4
+
+Opening work-in-process 1,000 units (60% complete); Cost ` 1,10,000. Units
+introduced during the period 10,000 units; Cost ` 19,30,000. Transferred to next
+process - 9,000 units.
+
+Closing work-in-process - 800 units (75% complete). Normal loss is estimated at 10%
+of total input including units in process at the beginning. Scraps realise ` 10 per unit.
+Scraps are 100% complete.
+
+Using FIFO method, COMPUTE equivalent production and cost per equivalent unit.
+Also evaluate the output.
+
+© The Institute of Chartered Accountants of India
+10.20                        COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION
+
+Statement of Equivalent Production Units (Under FIFO Method)
+
+    Particulars   Input                            Particulars       Output      Equivalent
+                  units                                               units      Production
+Opening W-I-P
+Units introduced                                                      1,000  (%) Equivalent
+                                                                      8,000              units
+                                                                      9,000
+                  1,000 From opening W-I-P                                   40           400
+
+                  10,000 From fresh inputs                                   100          8,000
+
+                              Units completed                        1,100 --                --
+                              (Transferred to next
+                              process)                                 800 75               600
+                                                                       100 100              100
+                              Normal Loss
+                              {10% (1,000 + 10,000                   11,000               9,100
+                              units)}
+
+                              Closing W-I-P
+
+                              Abnormal loss
+                              (Balancing figure)
+
+                  11,000
+
+Computation of cost per equivalent production unit:
+
+Cost of the Process (for the period)                                          `19,30,000
+Less: Scrap value of normal loss (` 10 × 1,100 units)                          (`11,000)
+Total process cost                                                           ` 19,19,000
+
+Cost per equivalent unit  =  `19,19,000            =`  210.88
+                             9,100units
+
+                             Statement of Evaluation
+
+          Particulars                              Equivalent        Cost per     Amount
+                                                   Units (EU)         EU (`)         (`)
+
+(i) Opening W-I-P completed during                              400      210.88      84,352
+
+the period
+
+© The Institute of Chartered Accountants of India
+PROCESS AND OPERATION COSTING                                        10.21
+
+      Add: Cost of W-I-P at beginning                  --        --  1,10,000
+      Complete cost of 1,000 units of              1,000   194.35    1,94,352
+     opening W-I-P
+(ii) Completely processed units                    8,000   210.88    16,87,040
+(iii) Abnormal Loss                                  100   210.88        21,088
+(iv) Closing W-I-P                                   600   210.88
+                                                                      1,26,528
+
+(The difference in total amount may arise due to rounding off error)
+
+   Process Explained:
+
+   (i) Total Units completed and Transferred is 9,000 units. Out of these 9,000 units,
+         1,000 units has been taken from opening WIP and the rest is from the fresh units
+         introduced.
+
+   (ii) The opening WIP is 60% complete in respect of costs, hence, 40% more work is
+         to be done during the period.
+
+   (iii) Total cost for cost elements for the period (current period only) is accumulated.
+
+   (iv) The realisable value of scrap (i.e. normal loss) is deducted from the total cost as
+         accumulated above.
+
+   (v) Total cost less realisable value is divided by equivalent units to get cost per
+         equivalent unit.
+
+   (vi) The equivalent cost as calculated above is multiplied by the equivalent units of
+         completely processed goods, abnormal loss and closing WIP to get the value.
+
+   (vii) Cost of units completed and transferred is calculated separately for Opening
+         WIP and fresh inputs.
+
+(ii) Weighted Average (Average) Method:
+
+Under this method, the cost of opening work-in-process and cost of the current
+period are aggregated and the aggregate cost is divided by output in terms
+of completed units. The equivalent production in this case consists of work-load
+already contained in opening work-in-process and work-load of current period.
+
+© The Institute of Chartered Accountants of India
+10.22                       COST AND MANAGEMENT ACCOUNTING
+
+The main difference between FIFO method and average method is that units of
+opening work in process and their cost are taken in full under average method
+while under FIFO method only the remaining work done now is considered.
+
+ILLUSTRATION 5
+
+Refer to information provided in Illustration 4 above and solve this by Weighted
+Average Method:
+
+SOLUTION
+
+Statement of Equivalent Units (Under Weighted Average Method)
+
+    Particulars   Input     Particulars                        Output   Equivalent
+Opening W-I-P     units                                         units   Production
+Units introduced
+                                                                        (%) Equivalent
+                                                                                     units
+
+                   1,000 Units completed                        9,000   100  9,000
+                              (Transferred to next
+                              process)                          1,100   --           --
+
+                  10,000 Normal Loss                               800  75   600
+                              {10% (1,000 +                        100
+                              10,000 units)}                   11,000   100  100
+
+                              Closing W-I-P                                  9,700
+
+                              Abnormal loss
+                              (Balancing figure)
+
+                  11,000
+
+Computation of cost per equivalent production unit :                    ` 1,10,000
+                                                                        `19,30,000
+  Cost of Opening W-I-P
+  Cost of the Process (for the period)                                    (`11,000)
+  Less: Scrap value of normal loss (` 10 × 1,100 units)                 `20,29,000
+  Total process cost
+
+Cost per equivalent unit =  `20,29,000             = ` 209.18
+                            9,700units
+
+© The Institute of Chartered Accountants of India
+PROCESS AND OPERATION COSTING                              10.23
+
+                     Statement of Evaluation
+
+Particulars                           Equivalent Cost per  Amount
+                                      Units (EU) EU (`)       (`)
+
+(i) Units Completed and               9,000 209.18         18,82,620
+         transferred to next process
+
+(ii) Abnormal Loss                    100 209.18           20,918
+
+(iii) Closing W-I-P                   600 209.18           1,25,508
+
+(The difference in total amount may arise due to rounding off error)
+
+ Process Explained:
+ (i) Total Units completed and Transferred is 9,000 units. All the 9,000 units has
+
+        been considered as equally complete in respected of cost.
+
+ (ii) Total cost for cost elements for the period and opening WIP is accumulated.
+
+ (iii) The realisable value of scrap (i.e. normal loss) is deducted from the total cost as
+        accumulated above.
+
+ (iv) Total cost less realisable value is divided by equivalent units to get cost per
+        equivalent unit.
+
+ (v) The equivalent cost as calculated above is multiplied by the equivalent units of
+        completely processed goods, abnormal loss and closing WIP to get the value.
+
+    7. INTER-PROCESS PROFITS
+
+To control cost and to measure performance, different processes within an
+organization are designated as separate profit centres. In this type of
+organizational structure, the output of one process is transferred to the next
+process not at cost but at market value or cost plus a percentage of profit. The
+difference between cost and the transfer price is known as inter-process profits.
+
+The advantages and disadvantages of using inter-process profit, in the case of
+process type industries are as follows:
+Advantages:
+
+1. Comparison between the cost of output and its market price at the stage of
+       completion is facilitated.
+
+© The Institute of Chartered Accountants of India
+           10.24              COST AND MANAGEMENT ACCOUNTING
+
+2. Each process is made to stand by itself as to the profitability.
+Disadvantages:
+
+1. The use of inter-process profits involves complication.
+2. The system shows profits which are not realised because of stock not sold out.
+
+ILLUSTRATION 6
+
+A Ltd. produces product `AXE' which passes through two processes before it is
+completed and transferred to finished stock. The following data relate for the month
+of October:
+
+Opening stock                                      Process- I   Process-   Finished
+Direct materials                                       (`)        II (`)   Stock (`)
+Direct wages                                                      9,000
+Factory overheads                                     7,500      15,750     22,500
+Closing stock                                        15,000      11,250        --
+Inter-process profit included in opening stock       11,200       4,500        --
+                                                     10,500       4,500        --
+                                                      3,700       1,500
+                                                                            11,250
+                                                        --                   8,250
+
+Output of Process- I is transferred to Process- II at 25% profit on the transfer price.
+
+Output of Process- II is transferred to finished stock at 20% profit on the transfer
+price. Stock in processes is valued at prime cost. Finished stock is valued at the price
+at which it is received from process II. Sales during the period are ` 1,40,000.
+
+PREPARE Process cost accounts and finished goods account showing the profit
+element at each stage.
+
+SOLUTION
+
+                                 Process- I Account
+
+Particulars Total        Cost Profit Particulars Total                     Cost Profit
+                    (`)
+                         (`)     (`)                            (`)        (`)    (`)
+
+Opening    7,500         7,500                     -- Process-  II 54,000  40,500 13,500
+stock                                                   A/c*
+
+Direct     15,000        15,000                    -- Closing Stock 3,700  3,700      --
+materials
+
+© The Institute of Chartered Accountants of India
+              PROCESS AND OPERATION COSTING                                   10.25
+
+Direct wages 11,200   11,200                     --
+                      33,700
+Prime Cost 33,700     10,500                     --
+                      44,200               13,500
+Overheads     10,500                       13,500
+Total Cost    44,200        --
+Profit**      13,500  44,200
+              57,700
+                                                                    57,700 44,200 13,500
+
+*Transfer price = Totalcost - Closingstock = 44,200 - 3,700 =`54,000
+                      75%                            75%
+
+**Profit on transfer = 54,000 × 25% = `13,500
+
+                                           Process- II Account
+
+Particulars Total (`) Cost                 Profit Particulars        Total     Cost   Profit
+                                      (`)    (`)                       (`)      (`)     (`)
+                                             1,500 Finished
+Opening       9,000 7,500                              Stock A/c**  1,12,500  75,750  36,750
+stock
+                                           13,500 Closing
+Transferred   54,000 40,500                            stock*       4,500 3,750       750
+from
+Process- I                                        --
+
+Direct        15,750 15,750                       --
+materials                                  15,000
+
+Direct wages  11,250 11,250                       --
+                                           15,000
+Prime cost    90,000 75,000                22,500
+                                           37,500
+Overheads     4,500 4,500
+
+Total cost    94,500 79,500
+
+Profit***     22,500       --
+
+              1,17,000 79,500                                       1,17,000 79,500 37,500
+
+* Cost of Closing Stock = `75,000 ×`4,500 = `3,750
+                                      `90, 000
+
+**Transfer price = Totalcost - Closingstock = 94,500 - 4,500 =`1,12,500
+                      80%                            80%
+
+***Profit on transfer = 1,12,500 × 20% = `22,500
+
+© The Institute of Chartered Accountants of India
+10.26                  COST AND MANAGEMENT ACCOUNTING
+
+                       Finished Stock Account
+
+  Particulars  Total   Cost Profit                      Particulars  Total Cost Profit
+                (`)
+Opening stock          (`)                         (`)               (`)  (`)   (`)
+Process- II
+Profit         22,500 14,250 8,250 Costing P&L A/c 1,40,000 82,425 57,575
+
+               1,12,500 75,750 36,750 Closing stock* 11,250 7,575 3,675
+
+               16,250       -- 16,250
+
+               1,51,250 90,000 61,250                                1,51,250 90,000 61,250
+
+* Cost of Closing Stock = Cost of transfer fromProcess-II×Valueof closingstock
+                                   Transfer price fromProcess - II
+
+(As per instruction given in the question)
+= ` 75,750 × ` 11,250 = ` 7,575
+
+   `1,12,500
+
+    8. OPERATION COSTING
+
+This product costing system is used when an entity produces more than one variant
+of final product using different materials but with similar conversion activities.
+Which means conversion activities are similar for all the product variants but
+materials differ significantly. Operation Costing method is also known as Hybrid
+product costing system as materials costs are accumulated by job order or batch
+wise but conversion costs i.e. labour and overheads costs are accumulated by
+department, and process costing methods are used to assign these costs to
+products. Moreover, under operation costing, conversion costs are applied to
+products using a predetermined application rate. This predetermined rate is based
+on budgeted conversion costs.
+
+For example, a company is manufacturing two grades of products, Product- Deluxe
+and Product- Regular. Both the products pass through a similar production process
+but require different quality and quantities of raw materials. The cost of raw
+material is accumulated on the basis of job or batches or units of two variants of
+products. But the costs for the conversion activities need not to be identified with
+the product variants as both the Products requires similar activities for conversion.
+Hence, conversion activity costs are accumulated on the basis of departments or
+processes only. Example of industries are ready made garments, Shoe making,
+jewelry etc.
+
+© The Institute of Chartered Accountants of India
+PROCESS AND OPERATION COSTING                      10.27
+
+SUMMARY
+
+ Process Costing: Used in industries where the material has to pass through two
+       or more processes for being converted into a final product.
+
+ Operation Costing: It is the refinement of process costing. It is concerned with
+       the determination of the cost of each operation rather than the process.
+
+ Treatment of Losses in process costing: -
+
+       (i) Normal process loss - The cost of normal process loss is absorbed by
+               good units produced under the process. The amount realised by the sale
+               of normal process loss units should be credited to the process account.
+
+       (ii) Abnormal process loss - The total cost of abnormal process loss is
+               credited to the process account from which it arises. The total cost of
+               abnormal process loss is debited to costing profit and loss account.
+
+ Abnormal gain - The process account under which abnormal gain arises is
+       debited with the abnormal gain and credited to Abnormal gain account which
+       will be closed by transferring to the Costing Profit and loss account.
+
+ Equivalent production units: This concept is used in the industries where
+       manufacturing is a continuous activity. Converting partly finished units into
+       equivalent finished units.
+
+       Equivalent production means converting the incomplete production units into
+       their equivalent completed units.
+
+       Equivalent completed units ={Actual number of units in the process of
+                                                 manufacture} × {Percentage of work completed}
+
+ Valuation of work-in-process: two main methods:
+
+       (1) First-in-First Out (FIFO) method.
+
+       (2) Average Cost method (or weighted average cost method).
+
+ Inter-Process Profits
+
+       The output of one process is transferred to the next process not at cost but at
+       market value or cost plus a percentage of profit. The difference between cost
+       and the transfer price is known as inter-process profits.
+
+© The Institute of Chartered Accountants of India
+10.28  COST AND MANAGEMENT ACCOUNTING
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1. The type of process loss that should not be allowed to affect the cost of good
+       units is:
+       (a) Abnormal loss
+       (b) Normal loss
+       (c) Seasonal loss
+       (d) Standard loss
+
+2. 200 units were introduced in a process in which 20 units is the normal loss. If
+       the actual output is 150 units, then there is:
+       (a) No abnormal loss
+       (b) No abnormal gain
+       (c) Abnormal loss of 30 units
+       (d) Abnormal gain of 30 units
+
+3. 100 units are processed at a total cost of ` 160, normal loss is 10%, & scrap
+       units are sold @ ` 0.25 each. If the output is 80 units, then the value of abnormal
+       loss is:
+       (a) ` 2.50
+       (b) ` 16
+       (c) ` 17.50
+       (d) ` 17.75
+
+4. When average method is used in process costing, the opening inventory costs are:
+       (a) Subtracted from the new costs
+       (b) Added to the new costs
+       (c) Kept separate from the costs of the new period
+       (d) Averaged with other costs to arrive at total cost
+
+© The Institute of Chartered Accountants of India
+PROCESS AND OPERATION COSTING                      10.29
+
+5. Spoilage that occurs under inefficient operating conditions and is ordinarily
+       controllable is called:
+       (a) Normal spoilage
+       (b) Abnormal spoilage
+       (c) Normal defectives
+       (d) None of the above
+
+6. The cost of normal process loss is -
+       (a) Absorbed by good units produced and amount realised by the sale of loss
+               units should be debited to the process account.
+       (b) Debited to costing profit and loss account.
+       (c) Absorbed by good units produced.
+       (d) Debited to costing profit and loss account and amount realised by the sale
+               of loss units should be credited to the process account.
+
+7. The value of abnormal loss is equal to:
+       (a) Total cost of materials
+       (b) Total process cost less realizable value of normal loss
+       (c) Total process cost less cost of scrap
+       (d) Total process cost less realizable value of normal loss less value of
+               transferred out goods.
+
+8. Inter-process profit is calculated, because:
+       (a) a process is a cost centres
+       (b) each process has to report profit
+       (c) the efficiency of the process is measured
+       (d) the wages of employees are linked to the process profitability.
+
+9. Under Weighted Average (Average) Method:
+       (a) The cost to complete the opening WIP is ignored.
+
+© The Institute of Chartered Accountants of India
+10.30  COST AND MANAGEMENT ACCOUNTING
+
+       (b) The cost to complete the opening WIP and other completed units are
+               calculated separately.
+
+       (c) The cost of opening work-in-process and cost of the current period are
+               aggregated and the aggregate cost is divided by output in terms of
+               completed units.
+
+       (d) Closing stock of work in process is valued at current cost.
+10. A process account is debited by abnormal gain, the value is determined as:
+
+       (a) Equal to the value of normal loss
+       (b) Cost of good units less realizable value of normal loss
+       (c) Cost of good units less realizable value of actual loss
+       (d) Equal to the value of good units less closing stock
+11. Lean Labs develops 55mm film using a four-step process that moves progressively
+       through four departments. The company specializes in overnight service and has
+       the largest drug store chain as its primary customer. Currently, direct labor, direct
+       materials, and overhead are accumulated by departments.
+       The cost accumulation system that best describes the system Lean Labs is using is:
+       (a) Operation costing.
+       (b) Activity-based costing.
+       (c) Job-order costing.
+       (d) Process costing.
+12. When compared with normal spoilage, abnormal spoilage:
+       (a) Arises more frequently from factors that are inherent in the manufacturing
+
+               process.
+       (b) Is given the same accounting treatment as normal spoilage.
+       (c) Is generally thought to be more controllable by purchase department than
+
+               production department.
+       (d) Is not typically influenced by the "tightness" of production standards.
+
+© The Institute of Chartered Accountants of India
+PROCESS AND OPERATION COSTING                              10.31
+
+13. Assume 550 units were worked on during a period in which a total of 500 good
+       units were completed. Normal spoilage consisted of 30 units; abnormal spoilage,
+       20 units. Total production costs were ` 2,200. The company accounts for abnormal
+       spoilage separately on the income statement as loss due to abnormal spoilage.
+       Normal spoilage is not accounted for separately. What is the cost of the good units
+       produced?
+
+(a) ` 2,080
+
+(b) ` 2,115
+
+(c) ` 2,200
+
+(d) ` 2,332
+
+14. IC Limited uses process costing systems and inspects its goods post manufacturing.
+       An engineer noticed on May 31st the following:
+
+Good units completed                               15,000
+
+Normal spoilage (units)                            300
+
+Abnormal spoilage (units)                          100
+
+Unit costs were: Material ` 2.50 and conversion costs (Labour & overheads)
+` 6.00. The number of units that company would transfer to its finished goods stock
+and the related cost of these units are:
+(a) 15,000 units transferred at a cost of ` 127,500
+(b) 15,000 units transferred at a cost of ` 130,050
+(c) 15,000 units transferred at a cost of ` 135,000
+(d) 15,300 units transferred at a cost of ` 130,050
+
+Theoretical Questions
+
+1. EXPLAIN briefly the procedure for the valuation of Work-in-Process.
+2. EXPLAIN equivalent units.
+3. "Operation costing is defined as refinement of Process costing." EXPLAIN it.
+4. What is inter-process profit? STATE its advantages and disadvantages.
+
+© The Institute of Chartered Accountants of India
+       10.32        COST AND MANAGEMENT ACCOUNTING
+
+Practical Problems
+
+1. An English willow company who manufactures cricket bat buys wood as its direct
+       material. The Forming department processes the cricket bats and the cricket bats
+       are then transferred to the Finishing department where stickers are applied. The
+       Forming department began manufacturing 10,000 initial bats during the month
+       of December for the first time and their cost is as follows:
+
+Direct material:    ` 33,000
+
+Conversion costs:   ` 17,000
+
+Total               ` 50,000
+
+A total of 8,000 cricket bats were completed and transferred to the Finishing
+department, the rest 2,000 were still in the Forming process at the end of the
+month. All of the forming departments direct material were placed, but, on
+average, only 25% of the conversion costs was applied to the ending work in
+progress inventory.
+
+CALCULATE:
+
+(i)    Equivalent units of production for each cost.
+
+(ii)   The Conversion cost per Equivalent units.
+
+(iii) Cost of closing work in process (WIP) and finished products.
+
+2. Hill manufacturing Ltd uses process costing to manufacture Water density
+       sensors for hydro sector. The following information pertains to operations for
+       the month of May.
+
+      Particulars                                      Units
+      Beginning WIP, May 1                             16,000
+      Started in production during May                1,00,000
+      Completed production during May                  92,000
+      Ending work in progress, May 31                  24,000
+
+The beginning work in progress was 60% complete for materials and 20%
+complete for conversion costs. The ending inventory was 90% complete for
+material and 40% complete for conversion costs.
+
+© The Institute of Chartered Accountants of India
+PROCESS AND OPERATION COSTING                         10.33
+
+Costs pertaining to the month of May are as follows:
+
+Beginning inventory costs are material `27,670, direct labour `30,120 and factory
+overhead ` 12,720.
+
+Cost incurred during May are material used, ` 4,79,000, direct labour `1,82,880,
+factory overheads ` 3,91,160.
+
+CALCULATE:
+
+(i) Using the FIFO method, the equivalent units of production for material.
+
+(ii) Cost per equivalent unit for conversion cost.
+
+3. Following information is available regarding Process-I for the month of
+       February:
+
+Production Record:                                               4,000
+Units in process as on 1st February
+(All materials used, 25% complete for labour and overhead)      16,000
+New units introduced                                            14,000
+Units completed
+Units in process as on 28th February                             6,000
+(All materials used, 33-1/3% complete for labour and overhead)
+Cost Records:                                                       (`)
+Work-in-process as on 1st February                               6,000
+Materials                                                        1,000
+Labour                                                           1,000
+Overhead                                                         8,000
+
+Cost during the month:                                          25,600
+Materials                                                       15,000
+Labour                                                          15,000
+Overhead                                                        55,600
+
+© The Institute of Chartered Accountants of India
+10.34          COST AND MANAGEMENT ACCOUNTING
+
+Presuming that average method of inventory is used, PREPARE:
+
+(i) Statement of equivalent production.
+
+(ii) Statement showing cost for each element.
+
+(iii) Statement of apportionment of cost.
+
+(iv) Process cost account for Process-I.
+
+4. Following details are related to the work done in Process-I by XYZ Company
+       during the month of March:
+
+                                                              (`)
+
+Opening work-in process (2,000 units)
+
+Materials                                                   80,000
+
+Labour                                                      15,000
+
+Overheads                                                   45,000
+
+Materials introduced in Process-I (38,000 units)            14,80,000
+
+Direct Labour                                               3,59,000
+
+Overheads                                                   10,77,000
+
+Units scrapped: 3,000 units                                 100%
+      Degree of completion:                                 80%
+      Materials
+      Labour and overheads                                  100%
+                                                            80%
+Closing work-in process: 2,000 units
+      Degree of completion:
+      Materials
+      Labour and overheads
+
+Units finished and transferred to Process-II: 35,000 units
+
+© The Institute of Chartered Accountants of India
+PROCESS AND OPERATION COSTING                                       10.35
+
+Normal Loss:
+
+5% of total input including opening work-in-process.
+
+Scrapped units fetch ` 20 per piece.
+
+You are required to PREPARE using average method:
+
+(i) Statement of equivalent production
+
+(ii) Statement of cost
+
+(iii) Statement of distribution cost, and
+
+(iv) Process-I Account, Normal Loss Account and Abnormal Loss Account.
+
+5. A company produces a component, which passes through two processes. During
+       the month of April, materials for 40,000 components were put into Process I of
+       which 30,000 were completed and transferred to Process II. Those not
+       transferred to Process II were 100% complete as to materials cost and 50%
+       complete as to labour and overheads cost. The Process I costs incurred were as
+       follows:
+
+Direct material                                    `15,000
+
+Direct wages                                       `18,000
+
+Factory overheads                                  `12,000
+
+Of those transferred to Process II, 28,000 units were completed and transferred to
+finished goods stores. There was a normal loss with no salvage value of 200 units in
+Process II. There were 1,800 units, remained unfinished in the process with 100%
+complete as to materials and 25% complete as regard to wages and overheads.
+
+No further process material costs occur after introduction at the first process
+until the end of the second process, when protective packing is applied to the
+completed components. The process and packing costs incurred at the end of
+the Process II were:
+
+Packing materials                                           `4,000
+
+Direct wages                                                `3,500
+
+Factory overheads                                  `4,500
+
+© The Institute of Chartered Accountants of India
+10.36  COST AND MANAGEMENT ACCOUNTING
+
+       Required:
+
+       (i) PREPARE Statement of Equivalent Production, Cost per unit and Process
+               I A/c.
+
+       (ii) PREPARE Statement of Equivalent Production, Cost per unit and Process
+               II A/c.
+
+6. `Healthy Sweets' is engaged in the manufacturing of jaggery. Its process involve
+        sugarcane crushing for juice extraction, then filtration and boiling of juice
+        along with some chemicals and then letting it cool to cut solidified jaggery
+        blocks.
+
+       The main process of juice extraction (Process ­ I) is done in conventional
+       crusher, which is then filtered and boiled (Process ­ II) in iron pots. The solidified
+       jaggery blocks are then cut, packed and dispatched. For manufacturing 10 kg
+       of jaggery, 100 kg of sugarcane is required, which extracts only 45 litre of juice.
+
+       Following information regarding Process ­ I has been obtained from the
+       manufacturing department of Healthy Sweets for the month of January:
+
+Opening work-in process (4,500 litre)                                 (`)
+      Sugarcane
+      Labour                                                     50,000
+      Overheads                                                  15,000
+      Sugarcane introduced for juice extraction (1,00,000 kg)    45,000
+      Direct Labour                                            5,00,000
+      Overheads                                                2,00,000
+                                                               6,00,000
+Abnormal Loss: 1,000 kg
+Degree of completion:                                             100%
+                                                                    80%
+      Sugarcane
+      Labour and overheads
+Closing work-in process: 9,000 litre
+
+© The Institute of Chartered Accountants of India
+PROCESS AND OPERATION COSTING                      10.37
+
+ Degree of completion:                                               100%
+        Sugarcane                                                     80%
+        Labour and overheads
+
+Extracted juice transferred for filtering and boiling: 39,500 litre
+(Consider mass of 1 litre of juice equivalent to 1 kg)
+You are required to PREPARE using average method:
+(i) Statement of equivalent production,
+(ii) Statement of cost,
+(iii) Statement of distribution cost, and
+(iv) Process-I Account.
+
+Case Scenarios
+
+1. Arnav Ltd. manufactures chemical solutions used in paint and adhesive
+       products. Chemical solutions are produced in different processes. Some of the
+       processes are hazardous in nature which may results in fire accidents.
+
+       At the end of the last month, one fire accident occurred in the factory. The fire
+       destroyed some of the paper files containing records of the process operations
+       for the month.
+
+       You being an associate to the Chief Manager (Finance), are assigned to prepare
+       the process accounts for the month during which the fire occurred. From the
+       documents and files of other sources, following information could be retrieved:
+
+       Opening work-in-process at the beginning of the month was 500 litres, 80%
+       complete for labour and 60% complete for overheads. Opening work-in-process
+       was valued at `2,78,000.
+
+       Closing work-in-process at the end of the month was 100 litres, 20% complete
+       for labour and 10% complete for overheads.
+
+       Normal loss is 10% of input (fresh) and total losses during the month were 800
+       litres partly due to the fire damage.
+
+       Output transferred to finished goods was 3,400 litres.
+
+       Losses have a scrap value of `20 per litre.
+
+© The Institute of Chartered Accountants of India
+10.38  COST AND MANAGEMENT ACCOUNTING
+
+All raw materials are added at the commencement of the process.
+The cost per equivalent unit is `660 for the month made up as follows:
+Raw Material `300 Labour `200 Overheads `160
+The company uses FIFO method to value work-in-process and finished goods.
+The following information are required for managerial decisions:
+i. How much quantity of raw material introduced during the month?
+
+       (a) 4,300 Litres
+       (b) 3,500 Litres
+       (c) 4,200 Litres
+       (d) 3,800 Litres
+ii. The Quantity of normal loss and abnormal loss are:
+       (a) Normal loss- 380 litres & Abnormal loss- 420 litres
+       (b) Normal loss- 350 litres & Abnormal loss ­ 450 litres
+       (c) Normal loss- 430 litres & Abnormal loss ­ 370 litres
+       (d) Normal loss- 420 litres & Abnormal loss ­ 380 litres.
+iii. Value of raw material added to the process during the month is:
+       (a) `10,10,000
+       (b) `10,33,600
+       (c) `10,18,400
+       (d) `10,20,000
+iv. Value of labour and overhead in closing Work-in-process are:
+       (a) `4,000 & `1,600 respectively
+       (b) `20,000 & `16,000 respectively
+       (c) `16,000 & `9,000 respectively
+       (d) `13,200 & `6,600 respectively
+
+© The Institute of Chartered Accountants of India
+              PROCESS AND OPERATION COSTING                           10.39
+
+v. Value of output transferred to finished goods is:
+       (a) `22,57,200
+       (b) `20,06,400
+       (c) `22,44,000
+       (d) `19,27,200
+
+ANSWERS/ SOLUTIONS
+
+Answers to the MCQs
+
+  1. (a) 2. (c) 3. (c) 4. (b) 5. (b) 6. (c)
+  7. (d) 8. (c) 9. (c) 10. (b) 11. (d) 12. (d)
+ 13. (b) 14. (b)
+
+Answers to the Theoretical Questions
+
+1. Please refer paragraph 4
+2. Please refer paragraph 4.1
+3. Please refer paragraph 8
+4. Please refer paragraph 7
+
+Answers to the Practical Problems
+
+1. (i) Calculation of equivalent units of production:
+
+    Input            Output                                Equivalent Units
+   Details         Particulars
+            Units                                  Units   Material Conversion cost
+Unit                                               8,000
+Introduced                                                 % Units %             Units
+
+Total       10,000 Finished output                         100 8,000  100 8,000
+
+                        Closing W-I-P              2,000 100 2,000           25  500
+            10,000 Total
+                                                   10,000  10,000                8,500
+
+© The Institute of Chartered Accountants of India
+10.40                COST AND MANAGEMENT ACCOUNTING
+
+(ii) Calculation of cost per equivalent unit
+
+                                                   Direct Material Conversion costs
+
+Total cost (`)                                            33,000                    17,000
+Equivalent units
+Cost per equivalent unit (`)                              10,000                    8,500
+
+                                                                    3.30                    2.00
+
+(iii) The cost of closing work in process (WIP):
+
+COSTS             EQUIVALENT UNITS                        RATE (`)        TOTAL COST (`)
+Direct Material              2,000                            3.30                       6,600
+Conversion Costs              500                             2.00                       1,000
+Total                                                                                    7,600
+
+The cost of finished products:
+
+COSTS                EQUIVALENT UNITS RATE (`)                                TOTAL COST
+                                                                              (`)
+Direct Material                                    8,000            3.30
+Conversion Costs                                                                         26,400
+Total                                              8,000            2.00                 16,000
+                                                                                         42,400
+
+2. (i) Calculation of equivalent units of production:
+
+Input Details Units             Output                    Units           Equivalent Units
+                              Particulars
+                                                                    Material        Conversion
+                                                                                         cost
+
+                                                                    % Units % Units
+
+Beginning WIP  16,000 Completed                           16,000 40       6,400     80 12,800
+
+                     Output: From
+
+                     beginning WIP
+
+Unit Introduced 1,00,000 Completed                        76,000 100 76,000 100 76,000
+
+                     output: From unit
+
+                     introduced
+
+                            Closing W-I-P                 24,000 90 21,600 40 9,600
+               1,16,000 Total
+Total                                                     1,16,000        1,04,000  98,400
+
+© The Institute of Chartered Accountants of India
+PROCESS AND OPERATION COSTING                                           10.41
+
+(ii) Calculation of cost per equivalent unit for conversion costs
+
+Particulars                                                             Amount (`)
+Direct Labour                                                                   1,82,880
+Factory Overheads                                                               3,91,160
+                                                                                5,74,040
+Equivalent Units                                                                  98,400
+Cost Per Equivalent Unit (`)                                                         5.83
+
+3. (i) Statement of equivalent production (Average cost method)
+
+Particulars  Input Particulars                     Output   Equivalent Production
+             Units                                  Units
+Opening                                                     Material    Labour & O.H.
+WIP           4,000 Completed                       14,000
+Units                    and                                % Units     %         Units
+introduced               transferred
+                                                            100 14,000  100 14,000
+             16,000 Closing WIP
+                                                   6,000 100 6,000 33-1/3 2,000
+             20,000
+                                                   20,000   20,000                16,000
+
+(ii) Statement showing cost for each element
+
+Particulars                                        Materials Labour Overhead      Total
+                                                                                     (`)
+                                                   (`)      (`)         (`)
+
+Cost of opening work-in-                           6,000 1,000          1,000 8,000
+process
+                                                   25,600 15,000        15,000 55,600
+Cost incurred during the
+month                                              31,600   16,000      16,000    63,600
+                                                   20,000   16,000      16,000       3.58
+Total cost: (A)
+                                                      1.58         1           1
+Equivalent units: (B)
+
+Cost per equivalent unit: (C) =
+(A ÷ B)
+
+© The Institute of Chartered Accountants of India
+10.42               COST AND MANAGEMENT ACCOUNTING
+
+(iii) Statement of apportionment of cost
+
+                                                                     Amount       Amount
+                                                                             (`)          (`)
+
+1. Value of units completed and transferred                                       50,120
+         (14,000 units × ` 3.58)
+                                                                     9,480        13,480
+2. Value of Closing W-I-P:                                           2,000
+              - Materials (6,000 units × ` 1.58)                     2,000
+              - Labour (2,000 units × ` 1)
+              - Overheads (2,000 units × ` 1)
+
+(iv) Process-I Cost Account
+
+Particulars Units                                  (`)  Particulars  Units         (`)
+                                                                     14,000       50,120
+To Opening   4,000 8,000 By Completed                                             13,480
+    W-I-P                             units                           6,000
+                                                                                  63,600
+To Materials 16,000 25,600 By Closing W-I-P                          20,000
+
+To Labour           -- 15,000
+
+To Overhead         -- 15,000
+
+             20,000 63,600
+
+4. (i) Statement of Equivalent Production
+
+Particulars  Input  Particulars                         Output  Equivalent Production
+             Units                                       Units
+                                                                Material          Labour &
+                                                                                     O.H.
+
+                                                                % Units % Units
+
+Opening WIP  2,000 Completed and 35,000 100 35,000 100 35,000
+                     transferred to
+                     Process-II
+
+Units        38,000 Normal Loss 2,000 --                             -- --        --
+
+introduced          (5% of 40,000)
+
+                    Abnormal loss 1,000 100 1,000 80 800
+                    (Balancing
+
+© The Institute of Chartered Accountants of India
+PROCESS AND OPERATION COSTING                                      10.43
+
+         figure)                                   2,000 100 2,000 80 1,600
+         Closing WIP
+40,000                                             40,000     38,000      37,400
+
+(ii) Statement showing cost for each element
+
+Particulars             Materials                  Labour Overhead          Total
+                            (`)                                               (`)
+                                                   (`)        (`)
+                                                                           1,40,000
+Cost of opening work-       80,000                 15,000     45,000      29,16,000
+in-process              14,80,000
+                                                   3,59,000 10,77,000       (40,000)
+Cost incurred during      (40,000)
+the month                                               --            --  30,16,000
+                        15,20,000
+Less: Realisable Value      38,000                 3,74,000   11,22,000        80.00
+of normal scrap              40.00                   37,400       37,400
+                                                       10.00       30.00
+(` 20 × 2,000 units)
+
+Total cost: (A)
+
+Equivalent units: (B)
+
+Cost per equivalent
+unit: (C) = (A ÷ B)
+
+(iii) Statement of Distribution of cost
+
+                                                        Amount (`) Amount (`)
+
+1. Value of units completed and                                           28,00,000
+     transferred
+
+     (35,000 units × ` 80)
+
+2. Value of Abnormal Loss:
+
+- Materials (1,000 units × ` 40)                              40,000
+
+- Labour (800 units × ` 10)                                   8,000
+
+- Overheads (800 units × ` 30)                                24,000      72,000
+
+3. Value of Closing W-I-P:
+
+- Materials (2,000 units × ` 40)                              80,000
+
+- Labour (1,600 units × ` 10)                                 16,000
+
+- Overheads (1,600 units × ` 30)                              48,000      1,44,000
+
+© The Institute of Chartered Accountants of India
+      10.44          COST AND MANAGEMENT ACCOUNTING
+
+(iv)                                               Process-I A/c
+
+        Particulars  Units                         (`)            Particulars Units (`)
+To Opening W.I.P:
+                                                        By Normal Loss       2,000  40,000
+    - Materials
+                                                            (`20 × 2,000
+    - Labour                                                 units)
+    - Overheads
+To Materials         2,000                         80,000 By         Abnormal 1,000 72,000
+      introduced                                            loss
+To Direct Labour
+To Overheads         -- 15,000 By Process-I A/c 35,000 28,00,000
+
+                     -- 45,000 By Closing WIP                                2,000 1,44,000
+
+                     38,000 14,80,000
+
+                                 3,59,000                                    40,000 30,56,000
+                               10,77,000
+                     40,000 30,56,000
+
+                     Normal Loss A/c
+
+      Particulars Units (`)                             Particulars       Units      (`)
+                                                                                    40,000
+To Process-I 2,000 40,000 By Cost Ledger 2,000
+                                                                                    40,000
+A/c                                                     Control A/c
+
+                     2,000 40,000                                         2,000
+
+                     Abnormal Loss A/c
+
+      Particulars Units (`)                             Particulars          Units (`)
+
+To Process-I 1,000 72,000 By Cost Ledger 1,000 20,000
+
+A/c                                                     Control A/c
+
+                                                        By Costing Profit &         52,000
+                                                        Loss A/c
+
+                     1,000 72,000                                            1,000 72,000
+
+© The Institute of Chartered Accountants of India
+             PROCESS AND OPERATION COSTING                                 10.45
+
+5. (i)       Process I ­ Statement of Equivalent Production
+
+Particulars Completed                              Closing stock of WIP    Equivalent
+                      Units
+                             Units                 % of       Equivalent   Production
+                                                                               units
+                                                   Completion Units
+
+                 (1)                                                 (2)        (1) + (2)
+
+Material     30,000 10,000                         100%       10,000              40,000
+
+Wages        30,000 10,000                         50%             5,000          35,000
+
+Overhead     30,000 10,000                         50%             5,000          35,000
+
+                                                   Process I
+
+Particulars Process Equivalent Process WIP stock Cost of Transfer
+
+             Cost         Production Cost p.u. Equivalent WIP                       to
+              (`)
+                          (units) (2)/(3)                     units        Stock (`) Process
+                                                                           (4) x (5) II (2)-(6)
+
+        (1)  (2)             (3)                   (4)        (5)          (6)      (7)
+
+Material     15,000 40,000                         0.375      10,000       3,750 11,250
+
+Wages        18,000 35,000                         0.514      5,000        2,570 15,430
+
+Overhead 12,000 35,000                             0.343      5,000        1,715 10,285
+
+             45,000                                                        8,035 36,965
+
+                             Process I A/c
+
+             Particulars     Unit (`)                         Particulars  Units (`)
+
+To Direct material 40,000 15,000 By Process II A/c                         30,000 36,965
+
+To Direct wages              -- 18,000 By Closing W-I-P                    10,000 8,035
+
+To Factory overhead          -- 12,000                                          --         --
+
+                          40,000 45,000                                    40,000 45,000
+
+© The Institute of Chartered Accountants of India
+      10.46             COST AND MANAGEMENT ACCOUNTING
+
+(ii)         Process II ­ Statement of Equivalent Production
+
+Particulars  Completed                             Closing stock of WIP      Equivalent
+                 Units                                                       Production
+                            Units                  % of        Equivalent
+                                                                                 units
+                                                   Completion Units
+                                                                               (1) + (2)
+             (1)                                                      (2)       29,800
+                                                                                28,450
+Material     28,000 1,800                          100%               1,800     28,450
+
+Wages        28,000 1,800                          25%                450
+
+Overhead     28,000 1,800                          25%                450
+
+                                                   Process II
+
+Particulars  Process    Equivalent                 Process     WIP stock   Cost of     Transfer
+               Cost                                  Cost      Equivalent    WIP           to
+                (`)     Production                   p.u.                   Stock
+                           (units)                                units       (`)      Finished
+                                                   (2)/(3)                              Stock
+                                                                           (4) x (5)    (2)-(6)
+      (1)    (2)            (3)                     (4)         (5)
+                                                   1.240       1,800          (6)         (7)
+Material     36,965         29,800                 0.123        450
+                                                   0.158        450            2,232       34,733
+Wages        3,500          28,450
+                                                                                   55        3,445
+Overhead     4,500          28,450
+                                                                                   71        4,429
+             44,965
+                                                                               2,358       42,607
+
+Add: Packing Material Cost                                                                   4,000
+
+Cost of Finished Stock                                                                     46,607
+
+                            Process II A/c
+
+        Particulars     Units (`)                              Particulars   Units       (`)
+                                                                             28,000    46,607
+To Process I            30,000 36,965 By Finished Stock
+                                                                                200          --
+To Direct wages             -- 3,500 By Normal loss                           1,800     2,358
+
+To Factory                  -- 4,500 By WIP stock
+       overhead
+                            -- 4,000
+To Packing
+       charges
+
+                        30,000 48,965                                        30,000 48,965
+
+© The Institute of Chartered Accountants of India
+        PROCESS AND OPERATION COSTING                                    10.47
+
+6. (i)       Statement of Equivalent Production
+
+Particulars  Input     Particulars                 Output     Equivalent Production
+             Units                                  Units
+ Opening                                                      Sugarcane            Labour &
+ WIP                                                 39,500                           O.H.
+
+ Units                                               55,000   % Units % Units
+ introduced
+                4,500  Completed                       1,000  100 39,500 100 39,500
+             1,00,000  and                             9,000
+                       transferred                 1,04,500   --         -- --               --
+             1,04,500  to Process
+                       - II                                   100 1,000 80           800
+
+                       Normal                                 100 9,000 80 7,200
+                       Loss (55%*
+                       of
+                       1,00,000)
+
+                       Abnormal
+                       loss
+
+                       Closing
+                       WIP
+
+                                                                      49,500       47,500
+
+* 100 kg of sugarcane extracts only 45 litre of juice.
+
+Thus, normal loss = 100 ­ 45 = 55%
+
+(ii)         Statement showing cost for each element
+
+        Particulars                                Sugarcane Labour Overhead       Total
+                                                                                      (`)
+                                                   (`)        (`)             (`)
+
+Cost of opening work-in-                           50,000 15,000      45,000 1,10,000
+process
+                                                   5,00,000 2,00,000 6,00,000 13,00,000
+Cost incurred during the
+month                                              5,50,000 2,15,000  6,45,000 14,10,000
+                                                                        47,500
+Total cost: (A)                                    49,500 47,500        13.579 29.216
+
+Equivalent units: (B)                              11.111     4.526
+
+Cost per equivalent unit: (C) =
+(A ÷ B)
+
+© The Institute of Chartered Accountants of India
+      10.48        COST AND MANAGEMENT ACCOUNTING
+
+(iii) Statement of Distribution of cost
+
+                                                                    Amount Amount
+
+                                                                                (`)     (`)
+
+1. Value of units completed and transferred                                           11,54,032
+      (39,500 units × ` 29.216)
+                                                                              11,111    25,595
+2. Value of Abnormal Loss:                                                     3,621
+      - Sugarcane (1,000 units × ` 11.111)
+      - Labour (800 units × ` 4.526)                                          10,863
+      - Overheads (800 units × ` 13.579)
+                                                                              99,999    2,30,355
+3. Value of Closing W-I-P:                                                    32,587
+      - Sugarcane (9,000 units × ` 11.111)                                    97,769
+      - Labour (7,200 units × ` 4.526)
+      - Overheads (7,200 units × ` 13.579)
+
+(iv)                                               Process-I A/c
+
+      Particulars     Units                        (`) Particulars               Units       (`)
+                      4,500                                                     55,000        --
+To Opening W.I.P:                                             By Normal Loss            25,613
+                           --                                                    1,000
+-     Sugarcane            --                      50,000     By Abnormal
+                   100,000                                    loss [` 25,595 +
+                                                              ` 18 (difference
+                                                              due to approxi-
+                                                              mation)]
+
+-     Labour                                       15,000 By Process-II         39,500  11,54,03
+                                                               A/c               9,000           2
+
+-     Overheads                                    45,000 By Closing WIP                2,30,355
+
+To Sugarcane                                       5,00,000
+introduced
+
+To Direct Labour                                    2,00,000
+                                                    6,00,000
+To Overheads                                       14,10,000
+
+                   104,500                                                      104,500 14,10,000
+
+© The Institute of Chartered Accountants of India
+       PROCESS AND OPERATION COSTING                                      10.49
+
+ANSWERS TO THE CASE SCENARIOS
+
+1.
+            i. (d) ii. (a) iii. (b) iv. (a) v. (c)
+
+i. d
+
+       Inflow into process Litres Outflow from process Litres
+
+       Opening WIP                                 500 Transferred to finished      3,400
+                                                          goods
+
+       Quantity introduced 3,800 Total loss                                         800
+
+       (Balancing figure)
+
+                                                          Closing WIP               100
+
+                                                   4,300                            4,300
+
+ii. a
+
+              Total loss                                                         800 litres
+              Normal loss (10% of fresh input i.e. 3,800)                        380 litres
+              Abnormal loss                                                      420 litres
+iii. b
+
+                      Calculation of Equivalent production units
+
+                       Output                                Equivalent Production
+                     Particulars
+Input Details Units                                Units  Material Labour Overheads
+
+                                                          % Units % Units % Units
+
+Opening WIP     500 From                             500  -  - 20 100 40 200
+Fresh inputs          Opening
+                      WIP                          2900   100 2900 100 2900 100 2900
+                                                     380
+              3,800 From fresh                       100  -            -         -
+                      units                          420
+                                                          100 100 20 20 10 10
+                      Normal loss                  4,300
+                                                          100 420 100 420 100 420
+                      Closing WIP
+                                                             3,420        3,440     3,530
+                      Abnormal
+                      loss
+
+              4,300
+
+© The Institute of Chartered Accountants of India
+10.50  COST AND MANAGEMENT ACCOUNTING
+
+Value of raw materials introduced during the month
+
+                                                   Equivalent      Cost per    Total cost
+                                                           units      EU (`)             (`)
+
+Total value of raw material                        3420                   300   10,26,000
+                                                                                     7,600
+Add: Scrap value of normal loss                    380                     20
+                                                                               10,33,600
+Value of raw material introduced
+
+iv. a Value of labour and overhead in closing Work in process
+
+       Cost elements                               Equivalent      Cost per       Total
+                                                           units      EU (`)   cost (`)
+       Labour
+       Overheads                                               20         200    4,000
+                                                                                 1,600
+                                                               10         160
+
+v. c   Value of output transferred to finished goods
+       Output transferred (Units) × Equivalent cost per unit
+
+       3,400 Litres × `660 = `22,44,000
+
+© The Institute of Chartered Accountants of India
+

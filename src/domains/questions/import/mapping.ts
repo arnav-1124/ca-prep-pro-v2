@@ -121,6 +121,7 @@ export function resolveQuestionCurriculum(
   const nodeCode =
     q.curriculum?.nodeCode ||
     q.curriculumNodeCode ||
+    q.nodeCode ||
     ((q as unknown as Record<string, unknown>).canonicalNodeCode as string | undefined);
   const nodeId = q.curriculum?.curriculumNodeId || q.curriculumNodeId;
   const subjectCode = q.curriculum?.subjectCode || q.subjectCode;

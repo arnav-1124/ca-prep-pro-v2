@@ -1,0 +1,2651 @@
+CHAPTER  7
+
+COST ACCOUNTING
+SYSTEMS
+
+                                      LEARNING OUTCOMES
+
+After studying this chapter, you would be able to-
+
+ Discuss the Cost Accounting System.
+
+ Differentiate between Integral and Non-Integral System of
+      Accounting.
+
+ Identify the ledgers maintained under Integral and Non-
+      Integral Accounting System.
+
+ Analyse the reasons for differences in profit under Financial
+      and Cost Accounting Systems.
+
+ Prepare reconciliation statement for profit under Financial
+      and Cost Accounting Systems.
+
+ Discuss the Accounting for Management Information and
+      Cost Control.
+
+© The Institute of Chartered Accountants of India
+7.2  COST AND MANAGEMENT ACCOUNTING
+
+CHAPTER OVERVIEW
+
+     1. INTRODUCTION
+
+To operate business operations efficiently and successfully, it is necessary to make
+use of an appropriate accounting system. Such a system should state in clear terms
+whether cost and financial transactions should be integrated or kept separately
+(Non-integrated). Where cost and financial accounting records are integrated,
+the system so evolved is known as integrated or integral accounting system. In
+case cost and financial transactions are kept separately, the system is called
+Non-Integrated Accounting system or Cost Control System. While non-
+integrated system of accounting necessitates reconciliation between financial and
+cost accounts but no reconciliation is required under integrated accounting system.
+
+     2. NON-INTEGRATED ACCOUNTING SYSTEM
+
+It is a system of accounting under which separate ledgers are maintained for both
+cost and financial accounts. This system is also known as cost ledger accounting
+system. Under this system the cost accounts restrict itself to recording only those
+transactions which relate to the product or service being supplied. Items of
+expenses which are related to sales, production or other matters of factory
+management are the ones dealt with in such accounts. This leads to the exclusion
+of certain expenses like interest, bad debts and revenue/income from `other than
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                            7.3
+
+the sale of product or service'.
+
+Non-Integrated accounting systems contain fewer accounts as compared to
+financial accounting system due to the exclusion of purchases, expenses and also
+Balance Sheet items like fixed assets, debtors and creditors. Items of accounts
+which are excluded are represented by an account known as Cost ledger
+control account.
+
+The important ledgers to be maintained under non-integrated accounting
+system in the Cost Accounting are the followings:
+
+(a) Cost Ledger - This is the principle ledger of the cost department in which
+       impersonal accounts are recorded. This ledger is made self-balancing by
+       maintaining therein a Control Account for each subsidiary ledger.
+
+(b) Stores Ledger - It contains an account for each item of stores. The entries in
+       each account maintained in this ledger are made from the invoice, goods
+       received note, material requisitions, material received note etc. Accounts in
+       respect of each item of stores show receipt, issue and balance in physical as well
+       as in monetary terms.
+
+(c) Work-in-Process Ledger - This ledger is also known as job ledger, it
+       contains accounts of unfinished jobs and processes. All material costs,
+       wages and overheads for each job in process are posted to the respective
+       job accounts in this ledger. The balance in a job account represents total
+       balance of job/work-in-process, as shown by the job account.
+
+(d) Finished Goods Ledger - It contains an account for each item of finished
+       product manufactured or the completed job. If the finished product is
+       transferred to stock, a credit entry is made in the work-in-process ledger
+       and a corresponding debit entry is made in this ledger.
+
+2.1 Principal Accounts
+
+The main accounts which are usually prepared when a separate Cost Ledger is
+maintained are as follows:
+
+(1) Cost Ledger Control Account - This account is also known as General
+       Ledger Adjustment Account. This account is made to complete double
+       entry. All items of expenditure are credited to this account. Sales are
+       debited to this account and net profit/loss from Costing Profit & Loss
+
+© The Institute of Chartered Accountants of India
+7.4  COST AND MANAGEMENT ACCOUNTING
+
+       Account is transferred to this account. The balance in this account at the
+       end of the particular period represents the net total of all the balances of
+       the impersonal accounts.
+
+(2) Stores Ledger Control Account ­ This account is debited for the purchase
+       of material and credited for issue of materials from the stores. The
+       balance in this account indicates the total balance of all the individual stores
+       accounts. Abnormal losses or gains if any in this account are transferred to
+       Costing Profit & Loss Account. Entries are made on the basis of goods
+       received notes and stores requisitions etc.
+
+(3) Wages Control Account - This account is debited with total wages paid
+       (direct and indirect). Direct wages are further transferred to Work-in-
+       Process Control Account and indirect wages to Production Overhead;
+       Administration Overhead or Selling & Distribution Overhead Control
+       Accounts, as the case may be. Wages paid for abnormal idle time are
+       transferred to Costing Profit & Loss Account either directly or through
+       Abnormal Loss Account.
+
+(4) Manufacturing/Production/Works/ Factory Overhead Control Account -
+       This account is debited with indirect costs of production such as indirect
+       material, indirect employee, indirect expenses (carriage inward etc.).
+       Overhead recovered (absorbed) is credited to this Account. The
+       difference between overhead incurred and overhead recovered (i.e. Under
+       Absorption or Over Absorption of Overheads) is transferred to Overheads
+       Adjustment Account.
+
+(5) Work-in-Process Control Account - This account is debited with the total
+       cost of production, which includes--direct materials, direct employee,
+       direct expenses, production overhead recovered, and is credited with the
+       amount of finished goods completed and transferred. The balance in this
+       account represents total balances of jobs/works-in-process, as shown by
+       several job accounts.
+
+(6) Administrative Overhead Control Account - This account is debited with
+       overheads incurred and credited with overhead recovered. The overhead
+       recovered are debited to Finished Goods Control Account, if administrative
+       overhead is related with production activities otherwise to Cost of Sales A/c.
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                            7.5
+
+       The difference between administrative overheads incurred and recovered is
+       transferred to Overhead Adjustment Account.
+
+(7) Finished Goods Control Accounts - This account is debited with the value
+       of goods transferred from Work-in-process Control Account and
+       administration costs recovered (if relates to production activities). This
+       account is credited with Cost of Sales Account. The balance of this account
+       represents the value of goods unsold at the end of the period.
+
+(8) Selling and Distribution Overhead Control Account - This account is debited
+       with selling and distribution overheads incurred and credited with the selling and
+       distribution overheads recovered. The difference between overheads incurred and
+       recovered is transferred usually to Overhead Adjustment Account.
+
+(9) Cost of Sales Account - This account is debited with the cost of finished
+       goods transferred from Finished Goods Control Account for sale,
+       General Administrative overhead recovered, Selling and distribution
+       overhead recovered. The balance of this account is ultimately transferred to
+       Sales Account or Costing Profit & Loss Account.
+
+(10) Costing Profit & Loss Account ­ This account is debited with cost of sales,
+       under-absorbed overheads and abnormal losses and is credited with sales
+       value, over-absorbed overhead and abnormal gains. The net profit or loss in
+       this account is transferred to Cost Ledger Control Account.
+
+(11) Overhead Adjustment Account - This account is to be debited for under-
+       recovery of overhead and credited with over-recovery of overhead
+       amount. The net balance in this account is transferred to Costing Profit &
+       Loss Account.
+
+Note: Sometimes, Overhead Adjustment Account is dispensed with and
+under/over absorbed overheads is directly transferred to Costing Profit & Loss
+Account from the respective overhead accounts.
+
+2.2 Scheme of Accounting Entries
+
+The manner in which the Cost Ledger, when maintained on a double entry basis,
+would operate is illustrated by the following statements of various journal entries
+as would appear in the cost books.
+
+© The Institute of Chartered Accountants of India
+           7.6            COST AND MANAGEMENT ACCOUNTING
+
+Material:                                                              (`)        (`)
+
+(a) Purchase­` 5,000 (credit or cash)
+
+(i) Material Control A/c ...................................           Dr. 5,000
+
+           To Cost Ledger Control A/c                                             5,000
+
+(ii) Stores Ledger Control A/c ...........................             Dr. 5,000
+
+           To Material Control A/c                                                5,000
+
+Note: Sometimes Material Control Account is dispensed with and entries are
+directly made into Stores Ledger Control A/c, giving a credit to Cost Ledger
+Control A/c.
+
+(b) Purchases worth ` 500 for special job
+
+Work-in-Process Ledger Control A/c......................               Dr. 500
+
+           To Cost Ledger Control A/c                                             500
+
+(c) Material returned to vendor--` 500
+
+Cost Ledger Control A/c ........................................       Dr. 500
+
+           To Store Ledger Control A/c                                            500
+
+(d) (i) Material (Direct) issued to production--` 1,000
+
+           Work-in-Process Control A/c.........................        Dr. 1,000
+
+           To Store Ledger Control A/c                                            1,000
+
+(ii) Material (Indirect) issued to production--` 200
+
+           Production Overhead Control A/c...................... Dr. 200
+
+           To Store Ledger Control A/c                                            200
+
+(e) (i) Material worth ` 200 returned from shop to
+            stores
+
+           Stores Ledger Control A/c......................             Dr. 200
+
+           To Work-in-Process Control A/c                                         200
+
+(ii) Material worth ` 100 is transferred from Job-1 to Job- 2
+
+           Job- 2 A/c................................................  Dr. 100
+
+           To Job- 1 A/c                                                          100
+
+© The Institute of Chartered Accountants of India
+                  COST ACCOUNTING SYSTEMS                           7.7
+
+(f) Material worth ` 100 is issued from stores for re-
+      pairs
+
+Production Overhead Control A/c............................         Dr. 100
+
+         To Stores Ledger Control A/c                                          100
+
+Labour:
+
+(g) Direct wages paid to workers-- ` 1,000
+
+Wages Control A/c................................................   Dr. 1,000
+
+         To Cost Ledger Control A/c                                            1,000
+
+(h) Indirect wages paid to workers in the production-- ` 700
+
+(i) Wages Control A/c.............................................  Dr. 700
+
+         To Cost Ledger Control A/c                                            700
+
+(ii) Production Overhead Control A/c........................ Dr. 700
+
+         To Wages Control A/c                                                  700
+
+(i) Indirect wages paid to workers in administration-- ` 500
+
+(i) Wages Control A/c.............................................  Dr. 500
+
+         To Cost Ledger Control A/c                                            500
+
+(ii) Administration Overhead A/c.............................. Dr. 500
+
+         To Wages Control A/c                                                  500
+
+(j) Indirect wages paid to workers in Selling & Dist. department-- ` 300
+
+(i) Wages Control A/c.............................................  Dr. 300
+
+         To Cost Ledger Control A/c                                            300
+
+(ii) Selling & Dist. Overhead A/c............................... Dr. 300
+
+         To Wages Control A/c                                                  300
+
+Direct Expenses:
+
+(k) Direct expenses incurred ` 500 for Job No. 12
+
+Job No. 12 A/c (WIP Control A/c)............................        Dr. 500
+
+         To Cost Ledger Control A/c                                            500
+
+© The Institute of Chartered Accountants of India
+            7.8  COST AND MANAGEMENT ACCOUNTING
+
+Overheads:
+
+(l) Overhead expenses incurred ` 500 (Production
+      `150; Administrative `150; Selling and Distribution
+      `200)
+
+Production Overhead Control A/c.............................         Dr. 150
+
+Administrative Overhead Control A/c........................ Dr. 150
+
+Selling & Dist. Overhead Control A/c........................         Dr. 200
+
+To Cost Ledger Control A/c                                                        500
+                                                                                  100
+(m) Carriage Inward (Direct to Factory) --` 100                                 1,000
+                                                                                  500
+Production Overhead Control A/c.............................         Dr. 100      100
+                                                                                  xxx
+To Cost Ledger Control A/c                                                        xxx
+
+(n) Production overhead recovered--` 1,000
+
+Work-in-Process Ledger Control A/c........................           Dr. 1,000
+
+To Production Overhead Control A/c
+
+(o) Administrative Overhead recovered ` 500 from finished goods
+
+Cost of Sales A/c..................................................  Dr. 500
+
+To Administrative Overhead Control A/c
+
+(p) Selling and Distribution Overhead ` 100 recovered from sales
+
+Cost of Sales A/c..................................................  Dr. 100
+
+To Selling & Dist. Overhead Control A/c
+
+(q) Under recovery of overheads
+
+Costing Profit & Loss A/c........................................    Dr. xxx
+
+To Administrative Overhead Control A/c
+
+(r) Over recovery of overheads
+
+Production Overheads Control A/c..........................           Dr. xxx
+
+To Costing Profit & Loss A/c
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                                                    7.9
+
+Sales:                                                                Dr. xxx
+(s) Cost Ledger Control A/c.........................................                        xxx
+
+              To Costing Profit & Loss A/c                            Dr. xxx
+Profit/ Loss:                                                                               xxx
+(t) In case of Profit
+                                                                      Dr.       xxx
+      (i) Costing Profit & Loss A/c.................................
+              To Cost Ledger Control A/c                                             xxx
+
+(u) In case of Loss
+      (ii) Cost Ledger Control A/c.................................
+              To Costing Profit & Loss A/c
+
+Non-Integrated Accounting System-flowchart
+
+*In the diagram administrative overhead is assumed to be related with production
+activity. In case of general administration expenses, it is treated as a part of Cost of
+Sales.
+
+© The Institute of Chartered Accountants of India
+7.10  COST AND MANAGEMENT ACCOUNTING
+
+ILLUSTRATION 1
+As on 31st March, the following balances existed in a firm's Cost Ledger:
+
+ Stores Ledger Control A/c                                      Dr.               Cr.
+ Work-in-Process Control A/c                                    (`)               (`)
+ Finished Stock Ledger Control A/c                       3,01,435
+ Manufacturing Overhead Control A/c                      1,22,365            10,525
+ Cost Ledger Control A/c                                 2,51,945          6,65,220
+                                                                           6,75,745
+During the next three months the following items arose:  6,75,745
+
+                                                                           (`)
+
+Finished product (at cost)                                                 2,10,835
+Manufacturing Overhead incurred                                              91,510
+Raw Materials purchased
+Factory Wages                                                              1,23,000
+Indirect Labour                                                              50,530
+Cost of Sales                                                                21,665
+Material issued to production
+Sales returned at Cost                                                     1,85,890
+Material returned to suppliers                                             1,27,315
+Manufacturing Overhead charged to production
+                                                                               5,380
+                                                                               2,900
+                                                                             77,200
+
+You are required to PASS the Journal Entries; write up the accounts and schedule
+the balances, stating what each balance represents.
+
+© The Institute of Chartered Accountants of India
+          COST ACCOUNTING SYSTEMS                  7.11
+
+SOLUTION
+
+Journal entries are as follows:
+
+                                                   Dr.                  Cr.
+                                                                        (`)
+                                                   (`)           2,10,835
+                                                                   91,510
+1. Finished stock ledger Control A/c               Dr. 2,10,835  1,23,000
+                                                                   72,195
+          To Work-in-Process Control A/c                           50,530
+                                                                   21,665
+2. Manufacturing Overhead Control A/c              Dr. 91,510    1,85,890
+                                                                 1,27,315
+          To Cost Ledger Control A/c                                 5,380
+                                                                     2,900
+3. Stores Ledger Control A/c                       Dr. 1,23,000    77,200
+
+          To Cost Ledger Control A/c
+
+4. (i) Wage Control A/c                            Dr. 72,195
+
+          To Cost Ledger Control A/c
+
+(ii) Work-in-Process Control A/c                   Dr. 50,530
+
+          To Wages Control A/c
+
+(iii) Manufacturing Overhead Control A/c           Dr. 21,665
+
+          To Wages Control A/c
+
+5. Cost of Sales A/c                               Dr. 1,85,890
+
+          To Finished Stock Ledger A/c
+
+6. Work-in-Process Control A/c                     Dr. 1,27,315
+
+          To Stores Ledger Control A/c
+
+7. Finished Stock Ledger Control A/c               Dr. 5,380
+
+          To Cost of Sales A/c
+
+8. Cost Ledger Control A/c                         Dr. 2,900
+
+          To Stores Ledger Control A/c
+
+9. Work-in-Process Control A/c                     Dr. 77,200
+
+          To Manufacturing Overhead Control A/c
+
+© The Institute of Chartered Accountants of India
+7.12                      COST AND MANAGEMENT ACCOUNTING
+
+                          COST LEDGERS
+                Cost Ledger Control Account
+
+Particulars                                        (`)  Particulars                        (`)
+                                                                                    6,65,220
+To Stores Ledger Control             By Balance b/d
+       A/c (return)       2,900                                                      91,510
+
+" Balance c/d             9,49,025 " Manufacturing OH                               1,23,000
+                                             Control A/c                              72,195
+
+                                                        " Stores Ledger Control     9,51,925
+                                                             A/c
+
+                                                        " Wages Control A/c
+
+                          9,51,925
+
+                Stores Ledger Control Account
+
+Particulars                                        (`)  Particulars                 (`)
+
+To Balance b/d            3,01,435 By Work in Process Control                       1,27,315
+                                            A/c
+
+" Cost Ledger Control A/c 1,23,000 " Cost Ledger Control A/c                        2,900
+
+                                                        " Balance c/d               2,94,220
+
+                          4,24,435                                                  4,24,435
+
+                          Wages Control Account
+
+Particulars                                        (`)  Particulars                     (`)
+                                                                                    50,530
+To Cost Ledger Control A/c 72,195 By Work in Process Control A/c                    21,665
+
+                                                        " Manufacturing OH Control  72,195
+                                                            A/c
+
+                          72,195
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                                                7.13
+
+Manufacturing Overhead Control Account
+
+Particulars                                        (`)  Particulars                 (`)
+                                                                               10,525
+To Cost Ledger Control A/c 91,510 By Balance b/d                               77,200
+                                                                               25,450
+" Wages Control A/c         21,665 " Work in Process Control                 1,13,175
+                                             A/c
+                                                                                    (`)
+                                                        " Balance c/d        2,10,835
+                                                                             1,66,575
+                            1,13,175
+                                                                             3,77,410
+                     Work-in-Process Control Account
+                                                                                    (`)
+              Particulars                          (`)  Particulars          1,85,890
+To Balance b/d                                                               2,82,270
+                            1,22,365 By Finished Stock Ledger
+ " Wages Control A/c                            Control A/c                  4,68,160
+ " Stores Ledger Control
+                            50,530 " Balance c/d
+      A/c
+ " Manufacturing OH         1,27,315
+
+      Control A/c             77,200
+                            3,77,410
+
+Finished Stock Ledger Control Account
+
+              Particulars                          (`)  Particulars
+To Balance b/d
+                            2,51,945 By Cost of Sales Control A/c
+ " Work in Process
+      Control A/c                         " Balance c/d
+                            2,10,835
+ " Cost of Sales Control
+      A/c (Return at cost)     5,380
+                            4,68,160
+
+© The Institute of Chartered Accountants of India
+7.14                       COST AND MANAGEMENT ACCOUNTING
+
+                           Cost of Sales Account
+
+              Particulars         (`)                        Particulars          (`)
+To Finished Stock Ledger               By          Finished Stock Ledger       5,380
+                                                   Control (Return)        1,80,510
+      Control              1,85,890                Balance c/d             1,85,890
+                                         "
+                                                                                  Cr.
+                           1,85,890                                               (`)
+
+                           Trial Balance                                  9,49,025
+                                                                          9,49,025
+Particulars                                                Dr.
+                                                           (`)
+Stores Ledger Control A/c                          2,94,220
+Work-in-Process Control A/c                        1,66,575
+Finished Stock Ledger Control A/c                  2,82,270
+Manufacturing Overhead Control A/c                    25,450
+Cost of Sales A/c                                  1,80,510
+Cost Ledger Control A/c
+                                                   9,49,025
+
+ILLUSTRATION 2
+
+Acme Manufacturing Co. Ltd. opens the costing records, with the balances as on 1st
+July as follows:
+
+Material Control A/c                                      (`)                    (`)
+Work-in-Process Control A/c                         1,24,000
+Finished Goods Control A/c                                                   12,000
+Production Overhead Control A/c                       62,500               3,13,150
+Administrative Overhead Control A/c                 1,24,000              3,25,150
+Selling & Distribution Overhead Control A/c
+Cost Ledger Control A/c                                8,400
+
+                                                       6,250
+
+                                                   3,25,150
+
+© The Institute of Chartered Accountants of India
+                COST ACCOUNTING SYSTEMS                 7.15
+
+The following are the transactions for the quarter ended 30th September:
+
+Materials purchased                                                  (`)
+                                                              4,80,100
+
+Materials issued to jobs                                      4,77,400
+
+Materials to works maintenance                                            41,200
+
+Materials to administrative office                                        3,400
+
+Materials to sales department                                     7,200
+Wages Direct                                                  1,49,300
+
+Wages Indirect                                                            65,000
+
+Transportation for Indirect Materials                             8,400
+Production Overheads incurred                                 2,42,250
+
+Absorbed Production Overheads                                 3,59,100
+
+Administrative Overheads incurred                                         74,000
+
+Administrative Overheads allocated to production                          52,900
+
+Administrative Overheads allocated to sales department                    14,800
+Selling & Distribution overheads incurred                                 64,200
+
+Selling & Distribution overheads absorbed                                 82,000
+
+Finished goods produced                                       9,58,400
+
+Finished goods sold                                           9,77,300
+
+Sales                                                         14,43,000
+
+Make up the various accounts as you envisage in the Cost Ledger and PREPARE a
+Trial Balance as at 30th September.
+
+© The Institute of Chartered Accountants of India
+          7.16            COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION
+
+                                Cost Ledgers
+                          Material Control A/c*
+
+Particulars                                        (`)  Particulars                     (`)
+                                                                                 4,77,400
+To Balance b/d            1,24,000 By Work-in-process Control
+                                            A/c                                    41,200
+                                                                                    3,400
+" Cost Ledger Control     4,80,100 " Production OH Control                          7,200
+     A/c (purchase)                         A/c
+                                                                                   74,900
+                                                        " Admn. OH Control A/c   6,04,100
+
+                                                        " S&D OH Control A/c            (`)
+                                                                                 1,49,300
+                                                        " Balance c/d
+                                                                                   65,000
+                          6,04,100                                               2,14,300
+
+*Material Control A/c may also be written as Stores Ledger Control A/c                  (`)
+                                                                                 3,59,100
+                          Wages Control A/c
+                                                                                    6,150
+             Particulars         (`)                             Particulars     3,65,250
+                          2,14,300 By                   Work-in-process Control
+To Cost Ledger Control                                  A/c
+      A/c                               "
+                                                        Production OH Control
+                          2,14,300                      A/c
+
+                Production Overhead Control A/c
+
+             Particulars     (`)                                Particulars
+To Balance b/d            8,400 By
+                                                        Work-in-process
+" Cost Ledger Control                                   Control A/c
+      A/c:
+      - Transportation       8,400                      Balance c/d
+      - Production OH     2,42,250
+
+" Wages Control A/c         65,000
+" Material Control A/c      41,200 "
+                          3,65,250
+
+© The Institute of Chartered Accountants of India
+                COST ACCOUNTING SYSTEMS                                      7.17
+
+                   Administrative Overhead Control A/c
+
+             Particulars       (`)                              Particulars            (`)
+To Cost Ledger Control     74,000 By                    Balance b/d                12,000
+
+      A/c                   3,400 "                     Finished Goods             52,900
+" Material Control A/c:                                 Control A/c
+                            2,300 "                                                14,800
+" Balance c/d              79,700                       Cost of sales A/c          79,700
+
+                          Work-in-Process Control A/c
+
+             Particulars          (`)                           Particulars               (`)
+To Balance b/d               62,500 By                                             9,58,400
+                                                        Finished goods Control
+ " Material Control A/c    4,77,400                     A/c
+ " Wages Control A/c       1,49,300
+ " Production OH           3,59,100
+
+      Control A/c
+
+                                          "             Balance c/d                   89,900
+                           10,48,300                                               10,48,300
+
+                           Finished Goods Control A/c
+
+Particulars                                        (`)        Particulars                  (`)
+                                                        Cost of Sales A/c           9,77,300
+To Balance b/d             1,24,000 By
+                                                        Balance c/d                 1,58,000
+" Administrative           52,900                                                  11,35,300
+     Overhead Control A/c
+
+" Work-in-process          9,58,400 "
+     Control A/c
+
+                           11,35,300
+
+© The Institute of Chartered Accountants of India
+7.18                      COST AND MANAGEMENT ACCOUNTING
+
+               Selling and Distribution Overhead Control A/c
+
+             Particulars      (`)                              Particulars           (`)
+To Balance b/d             6,250 By                     Cost of Sales A/c        82,000
+ " Cost Ledger Control    64,200
+                                                                                 82,000
+      A/c:                 7,200
+ " Material Control A/c    4,350
+ " Balance c/d            82,000
+
+                          Cost of Sales A/c
+
+             Particulars                           (`)  Particulars                      (`)
+To Finished Goods                                                                10,74,100
+                          9,77,300 By Costing P&L A/c
+      Control A/c                                                                10,74,100
+                          14,800
+ " Admn. OH Control
+      A/c                    82,000
+                          10,74,100
+ " S&D OH Control A/c
+
+                          Cost Ledger Control A/c
+
+Particulars                                        (`)  Particulars              (`)
+
+To Costing P&L A/c (Sales) 14,43,000 By Balance b/d                              3,13,150
+
+                                                        " Material Control A/c   4,80,100
+
+                                                        " Wages Control A/c      2,14,300
+                                                            (`1,49,300+`65,000)
+
+                                                        " Production OH Control A/c 2,50,650
+                                                            (`8,400+`2,42,250)
+
+                                                        " Administrative OH A/c  74,000
+
+                                                        " S&D OH Control A/c     64,200
+
+" Balance c/d             3,22,300 " Costing P&L A/c                             3,68,900
+
+                          17,65,300                                              17,65,300
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                                   7.19
+
+                               Costing Profit & Loss A/c
+
+              Particulars              (`)          Particulars              (`)
+To Cost of sales A/c           10,74,100 By  Cost Ledger Control     14,43,000
+
+ " Cost Ledger Control          3,68,900     A/c (sales)             14,43,000
+      A/c (profit) (balancing                                           Cr. (`)
+      figure)
+                                                                          2,300
+                               14,43,000                                  4,350
+
+Trial Balance as at 30th September                                    3,22,300
+                                                                     3,28,950
+Material Control A/c                                        Dr. (`)
+Production OH Control A/c                                    74,900
+Administrative OH Control A/c
+Selling & Distribution OH Control A/c                         6,150
+Work-in-process Control A/c
+Finished Goods Control A/c                                   89,900
+Cost Ledger Control A/c                                   1,58,000
+
+                                                          3,28,950
+
+     3. INTEGRATED (OR INTEGRAL) ACCOUNTING
+          SYSTEM
+
+Integrated Accounts is the name given to a system of accounting, whereby cost
+and financial accounts are kept in the same set of books. Obviously, then
+there will be no separate sets of books for Costing and Financial records.
+Integrated accounts provide or meet out fully the information requirement for
+Costing as well as for Financial Accounts. For Costing it provides information
+useful for ascertaining the cost of each product, job, process and operation of any
+other identifiable activity and for carrying necessary analysis. Integrated
+accounts provide relevant information which is necessary for preparing
+profit and loss account and the balance sheet as per the requirement of law
+and also helps in exercising effective control over the liabilities and assets of its
+business.
+
+© The Institute of Chartered Accountants of India
+7.20  COST AND MANAGEMENT ACCOUNTING
+
+3.1 Advantages
+
+The main advantages of Integrated Accounts are as follows:
+
+(a) No need for Reconciliation- The question of reconciling costing profit and
+       financial profit does not arise, as there is only one figure of profit.
+
+(b) Less efforts- Due to use of one set of books, there is a significant saving in
+       efforts made.
+
+(c) Less time consuming- No delay is caused in obtaining information as it is
+       provided from books of original entry.
+
+(d) Economical process- It is economical also as it is based on the concept of
+       "Centralisation of Accounting function".
+
+3.2 Essential pre-requisites for Integrated Accounts
+
+The essential pre-requisites for integrated accounts include the following steps:
+
+1. The management's decision about the extent of integration of the two sets
+       of books. Some concerns find it useful to integrate up to the stage of prime
+       cost or factory cost while other prefers full integration of the entire
+       accounting records.
+
+2. A suitable coding system must be made available so as to serve the
+       accounting purposes of financial and cost accounts.
+
+3. An agreed routine, with regard to the treatment of provision for accruals,
+       prepaid expenses, other adjustment necessary for preparation of interim
+       accounts.
+
+4. Perfect coordination should exist between the staff responsible for the
+       financial and cost aspects of the accounts and an efficient processing of
+       accounting documents should be ensured.
+
+Under this system there is no need for a separate cost ledger. Of course, there will
+be a number of subsidiary ledgers; in addition to the useful Customers' Ledger
+and the Purchase Ledger, there will be: (a) Stores Ledger; (b) Stock Ledger and (c)
+Job Ledger.
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                            7.21
+
+3.3 Features of Integrated Accounting System
+
+Following are the main points of integrated accounting:
+
+(a) Complete analysis of cost and sales are kept.
+
+(b) Complete details of all payments in cash are kept
+
+(c) Complete details of all assets and liabilities are kept and this system does
+       not use a notional account to represent all impersonal accounts
+
+In non-integrated system, a cost ledger control account or general ledger
+adjustment account is used in cost ledger. But in the integrated accounting
+system, general ledger adjustment account is eliminated and detailed accounts
+for assets and liabilities are maintained. In other words, following accounts are
+used for "General Ledger Adjustment Account/ Cost Ledger Control Account" of
+non-integrated system:
+
+(a) Bank account
+
+(b) Receivables (Debtors) account
+
+(c) Payables (Creditors) account
+
+(d) Provision for depreciation account etc.
+
+In integrated system, all accounts necessary for showing classification of cost will
+be used but the cost ledger control account of non-integrated accounting is
+replaced by use of following accounts:
+
+(a) Bank account
+(b) Receivables (Debtors) account
+(c) Payables (Creditors) account
+(d) Provision for depreciation account
+(e) Fixed assets account
+(f) Share capital account
+If the illustration given below is to be worked out on integrated account basis, the
+journal entries would be as follows:
+
+© The Institute of Chartered Accountants of India
+7.22            COST AND MANAGEMENT ACCOUNTING
+
+ILLUSTRATION 3
+
+JOURNALISE the following transactions assuming that cost and financial
+transactions are integrated:
+
+Raw materials purchased                                                                     (`)
+Direct materials issued to production                                                2,00,000
+Wages paid (30% indirect)                                                            1,50,000
+Wages charged to production                                                          1,20,000
+Manufacturing expenses incurred
+Manufacturing overhead charged to production                                           84,000
+Selling and Distribution costs                                                         84,000
+Finished products (at cost)                                                            92,000
+Sales                                                                                  20,000
+Closing stock                                                                        2,00,000
+Receipts from debtors                                                                2,90,000
+Payments to creditors
+                                                                                            Nil
+                                                                                       69,000
+                                                                                     1,10,000
+
+SOLUTION                                                                    DR. (`)   CR. (`)
+Journal entries are as follows:                                   Dr. 2,00,000       2,00,000
+
+ Stores Ledger Control A/c....................................    Dr. 1,50,000
+         To Payables (Creditors)/ Bank A/c
+                                                                                     1,50,000
+ (Materials purchased)
+ Work-in-Process Control A/c.................................     Dr. 1,20,000
+
+         To Stores Ledger Control A/c                                                1,20,000
+ (Materials issued to production)
+ Wages Control A/c..............................................
+
+         To Bank A/c
+ (Wages paid)
+
+© The Institute of Chartered Accountants of India
+                  COST ACCOUNTING SYSTEMS                                  7.23
+
+Factory Overhead Control A/c...............................           Dr.    36,000
+
+To Wages Control A/c                                                         84,000    36,000
+                                                                             84,000
+(30% of wages paid being indirect charged to                                 92,000    84,000
+overhead)                                                                    20,000    84,000
+                                                                           2,00,000    92,000
+Work-in-Process Control A/c.................................          Dr.  2,20,000    20,000
+                                                                                     2,00,000
+To Wages Control A/c                                                       2,90,000  2,00,000
+                                                                             69,000    20,000
+(Direct wages charged to production)                                                 2,90,000
+                                                                           1,10,000    69,000
+Factory Overhead Control A/c..............................            Dr.            1,10,000
+
+To Bank A/c
+
+(Manufacturing overhead incurred)
+
+Work-in-Process Control A/c.................................          Dr.
+
+To Factory Overhead Control A/c
+
+(Manufacturing overhead charged to production)
+
+Selling & Distribution Overhead Control A/c.......... Dr.
+
+To Bank A/c
+
+(Selling and Distribution costs incurred)
+
+Finished Goods Control A/c..................................          Dr.
+
+To Work-in-Process Control A/c
+
+(Cost of finished goods)
+
+Cost of Sales A/c................................................     Dr.
+
+To Finished Goods Control A/c
+
+To Selling and Distribution Control A/c
+
+(Costs of sales)
+
+Receivables (Debtors)/ Bank A/c................................. Dr.
+
+To Sales A/c
+
+(Finished goods sold)
+
+Bank A/c............................................................  Dr.
+
+To Receivables (Debtors) A/c
+
+(Receipts from receivables)
+
+Payables (Creditors) A/c.......................................       Dr.
+
+To Bank A/c
+
+(Payment made to payables)
+
+© The Institute of Chartered Accountants of India
+7.24            COST AND MANAGEMENT ACCOUNTING
+
+ILLUSTRATION 4
+
+In the absence of the Chief Accountant, you have been asked to prepare a month's
+cost accounts for a company which operates a batch costing system fully integrated
+with the financial accounts. The following relevant information is provided to you:
+
+                                                           (`)     (`)
+
+Balances at the beginning of the month:                            25,000
+     Stores Ledger Control Account                                 20,000
+     Work-in-Process Control Account                               35,000
+     Finished Goods Control Account                                 3,000
+     Prepaid Production Overheads brought forward from
+     previous month                                                75,000
+
+Transactions during the month:                             30,000  34,000
+Materials Purchased                                         4,000   5,000
+Materials Issued:
+                                                           25,000    30,000
+     To production                                          5,000    20,000
+     To factory maintenance
+Materials transferred between batches                                  5,000
+Total wages paid:                                                      6,000
+     To direct workers                                               12,000
+     To indirect workers                                           1,00,000
+Direct wages charged to batches                                      80,000
+Recorded non-productive time of direct workers                       65,000
+Selling and Distribution Overheads Incurred
+Other Production Overheads Incurred                                40,000
+Sales
+Cost of Finished Goods Sold
+Cost of Goods completed and transferred into finished
+goods during the month
+Physical value of work-in-Process at the end of the month
+
+© The Institute of Chartered Accountants of India
+          COST ACCOUNTING SYSTEMS                                      7.25
+
+The production overhead absorption rate is 150% of direct wages charged to work-
+in-Process.
+Required:
+PREPARE the following accounts for the month:
+(a) Stores Ledger Control Account.
+(b) Work-in-Process Control Account.
+(c) Finished Goods Control Account.
+(d) Production Overhead Control Account.
+(e) Costing Profit and Loss Account.
+
+SOLUTION             Stores Ledger Control Account
+(a)
+
+                                                   (`)                              (`)
+                                                                               30,000
+     To Balance b/d          25,000 By Work in Process Control A/c
+                                                                                4,000
+     " Creditors/ Bank A/c 75,000 " Production OH Control A/c                  66,000
+                                                                             1,00,000
+                                                        " Balance c/d
+
+                             1,00,000
+
+(b)                          Wages Control Account
+
+     To Bank A/c (Paid to        (`)                                             (`)
+          direct workers)    25,000 By Work in Process Control A/c           20,000
+
+     " Bank A/c (Paid to                   (Charged to batches)               5,000
+          indirect workers)   5,000 ,, Production OH Control A/c              5,000
+                                                                             30,000
+                                        " Production OH Control A/c
+                                           (Non-productive wages)
+
+                             30,000
+
+© The Institute of Chartered Accountants of India
+     7.26                      COST AND MANAGEMENT ACCOUNTING
+
+(c)              Production Overhead Control Account
+
+                                                   (`)                                         (`)
+                                                                                          30,000
+     To Balance b/d            3,000 By                 Work-in-Process
+            (Prepaid amount)                            Control A/c (150% of              30,000
+                                                        direct wages)                           (`)
+     " Stores Ledger
+            Control A/c        4,000                                                       65,000
+                                                                                           40,000
+     " Wages Control           10,000
+            A/c                                                                          1,05,000
+            (`5,000 + `5,000)
+
+     " Bank A/c                12,000
+
+     " Costing P&L A/c         1,000
+
+            (Over-absorption,
+            balancing figure)
+
+                               30,000
+
+(d)                  Work-in-Process Control Account
+
+                                                        (`)
+
+     To Balance b/d                                     20,000 By Finished Goods
+                                                                       Control A/c
+
+     " Store Ledger Control A/c                         30,000 " Balance c/d
+                                                                       (Physical value)
+
+     " Wages Control A/c                                20,000
+
+     " Production OH Control A/c                        30,000
+          (150% of direct wages)
+
+     " Costing P&L A/c                                  5,000
+          (Stock Gains)
+
+                                                        1,05,000
+
+© The Institute of Chartered Accountants of India
+     COST ACCOUNTING SYSTEMS                                            7.27
+
+(e)                  Finished Goods Control Account
+
+                                                   (`)                               (`)
+                                                                                80,000
+     To Balance b/d             35,000 By Cost of Goods Sold* A/c               20,000
+
+     " Work-in-Process          65,000 " Balance c/d                          1,00,000
+            Control A/c
+
+                                1,00,000
+
+     * Alternatively, Costing Profit & Loss Account
+
+(f)                  Costing Profit & Loss Account
+
+     To Finished Goods                                 (`)                           (`)
+           Control A/c or Cost                     80,000 By Sales A/c        1,00,000
+           of Goods Sold A/c
+                                                    6,000 "  Production OH       1,000
+     " Selling & Distribution                      20,000 "  Control A/c         5,000
+           OH A/c
+                                                             Work-in-Process
+     " Balance c/d                                           Control A/c
+                                                             (Stock gain)
+
+                                1,06,000                                      1,06,000
+
+     Notes:
+
+     (1) Materials transferred between batches will not affect the Control
+            Accounts.
+
+     (2) Non-production time of direct workers is a production overhead and
+            therefore will not be charged to work-in-Process Control A/c.
+
+     (3) Production overheads absorbed in work-in-Process Control A/c equals
+            to ` 30,000 (150% of ` 20,000).
+
+     (4) In the work-in-Process Control A/c the excess physical value of stock
+            is taken resulting in stock gain. Stock gain is transferred to Profit &
+            Loss A/c.
+
+© The Institute of Chartered Accountants of India
+7.28                            COST AND MANAGEMENT ACCOUNTING
+
+ILLUSTRATION 5
+
+A fire destroyed some accounting records of a company. You have been able to
+collect the following from the spoilt papers/records and as a result of consultation
+with accounting staff for the month of January:
+
+(i) Incomplete Ledger Entries:
+
+                Materials Control A/c
+
+                                                   (`)                         (`)
+
+To Balance b/d                                     32,000
+
+                Work-in-Process Control A/c
+
+To Balance b/d                                        (`)                            (`)
+                                                                               1,51,000
+                                                   9,200 By Finished Goods
+                                                                  Control A/c
+
+                Payables (Creditors) A/c
+
+To Balance c/d                                         (`)                         (`)
+                                                   19,200 By Balance b/d       16,400
+
+                Manufacturing Overheads Control A/c
+
+                                                   (`)                         (`)
+
+To Bank A/c (Amount                                29,600
+      spent)
+
+                Finished Goods Control A/c
+
+To Balance b/d                                         (`)                         (`)
+                                                   24,000 By Balance c/d       30,000
+
+© The Institute of Chartered Accountants of India
+          COST ACCOUNTING SYSTEMS                                           7.29
+
+(ii) Additional Information:
+
+       (1) The bank-book showed that ` 89,200 have been paid to creditors for
+               raw-material.
+
+       (2) Ending inventory of work-in-process included materials of ` 5,000 on
+               which 300 direct labour hours have been booked against wages and
+               overheads.
+
+       (3) The job card showed that workers have worked for 7,000 hours. The
+              wage rate is ` 10 per labour hour.
+
+       (4) Overhead recovery rate was ` 4 per direct labour hour.
+
+       You are required to COMPLETE the above accounts in the cost ledger of the
+       company.
+
+SOLUTION
+
+                               Materials Control A/c
+
+                                                   (`)                            (`)
+
+To Balance b/d                                          By Work-in-process
+      Cost Ledger Control A/c
+                               32,000                   control A/c                 53,000
+                                                                                    71,000
+" Payables (Creditors) A/c                " Balance c/d
+                               92,000                                             1,24,000
+      (Purchases)
+
+                               1,24,000
+
+                     Manufacturing Overheads A/c
+
+                                                   (`)                            (`)
+
+To Bank A/c (amount            29,600 By Work-in-process
+      spent)                                    control A/c (`4 × 7,000
+
+                                                  hours)                          28,000
+
+                                          " Costing P/L A/c                        1,600
+                                                                                  29,600
+                                                  (Under-absorbed OH)
+
+                               29,600
+
+© The Institute of Chartered Accountants of India
+7.30                          COST AND MANAGEMENT ACCOUNTING
+
+               Work-in-Process Control A/c
+
+To Balance b/d                    (`)                                                   (`)
+                                                                                 1,51,000
+" Wages Control A/c            9,200 By Finished Goods Control
+                                              A/c
+      (`10 × 7,000 hours)
+                              70,000 " Balance c/d:
+" Overheads Control A/c
+                              28,000                    -Material         5,000
+      (`4 × 7,000 hours)
+                                53,000                  -Wages (`10 ×     3,000
+" Materials Control A/c       1,60,200
+                                                        300 hours)        1,200 9,200
+      (Balancing figure)                                                            1,60,200
+                                                        - Overheads (`4
+
+                                                        × 300 hours)
+
+                              Finished Goods Control A/c
+
+To Balance b/d                       (`)                                                (`)
+
+" Work-in-process               24,000 By Cost of sales A/c (Bal.                1,45,000
+      Control A/c (as above)                                                       30,000
+                                                     fig.)
+                                                                                 1,75,000
+                                             " Balance c/d
+                              1,51,000
+                              1,75,000
+
+                              Payables (Creditors) A/c
+
+                                                   (`)                           (`)
+                                                                            16,400
+To Bank A/c                   89,200 By Balance b/d
+" Balance c/d                                                               92,000
+                              19,200 "                  Material Control  1,08,400
+                                                        A/c (Purchases)
+
+                                                        (Balancing fig.)
+
+                              1,08,400
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                            7.31
+
+     4. RECONCILIATION OF COST AND FINANCIAL
+          ACCOUNTS
+
+When the cost and financial accounts are kept separately, it is imperative that
+these should be reconciled to make the cost accounts reliable. It is necessary for
+reconciliation of the two sets of accounts that sufficient details are available to
+locate the differences and the reasons for the same. It is, therefore, important that
+in the financial accounts, the expenses should be analysed in the same way as in
+the cost accounts.
+
+The General Ledger Adjustment Account in the Cost Ledger may be studied to
+know the items which are included here and how differently these are presented
+in the financial accounts. The reconciliation of the balances of two sets of
+accounts is possible by preparing a Memorandum Reconciliation Account. In
+this account, the items charged in one set of accounts but not in the other or
+those charged in excess as compared to the other are identified and collected.
+These items of differences are either added or subtracted from the profit as
+shown by one of the accounts. Finally the profits from two sets of accounts are
+reconciled. The procedure is similar to those which are followed for reconciling
+bank balance as per bank ledger with the balance as shown in bank statement.
+
+It is important, however, to know the causes which, generally, give rise to
+differences in the Cost and Financial Accounts. These are briefly summarised
+below:
+
+4.1 Causes of differences in Financial and Cost Accounts
+
+1. Items included in Financial Accounts only-
+
+       (a) Purely Financial Expenses:
+
+               (i) Interest on loans or bank mortgages.
+
+               (ii) Expenses and discounts on issue of shares, debentures etc.
+
+               (iii) Other capital losses i.e., loss by fire not covered by insurance etc.
+
+               (iv) Losses on the sales of fixed assets and investments
+
+               (v) Income tax, donations, subscriptions
+
+               (vi) Expenses of the company's share transfer office, if any.
+
+© The Institute of Chartered Accountants of India
+7.32  COST AND MANAGEMENT ACCOUNTING
+
+       (b) Purely Financial Income
+               (i) Interest received on bank deposits, loans and investments
+
+               (ii) Dividends received
+
+               (iii) Profits on the sale of fixed assets and investments
+
+               (iv) Transfer fee received.
+
+               (v) Rent receivables
+
+2. Item included in Cost Accounts only (notional expenses):
+
+       (i) Charges in lieu of rent where premises are owned
+
+       (ii) Interest on capital at notional figure though not incurred
+
+       (iii) Salary for the proprietor at notional figure though not incurred
+
+       (iv) Notional Depreciation on the assets fully depreciated for which book
+               value is nil.
+
+3. Items whose treatment is different in the two sets of accounts: The
+       objective of cost accounting is to provide information to management for
+       decision making and control purposes while financial accounting conforms
+       to external reporting requirements. Hence there are chances that certain
+       items are treated differently in the two sets of accounts. For example, LIFO
+       method for inventory valuation is not recommended by Accounting
+       Standards for Financial Reporting purpose but this method may be adopted
+       for cost accounting purpose if management feels it suitable for making any
+       decision. Similarly cost accounting may use a different method of
+       depreciation than what is allowed under financial accounting.
+
+4. Varying basis of valuation: It is another factor which sometimes is
+       responsible for the difference. It is well known that in financial accounts
+       stock are valued either at cost or market price, whichever is lower. But in
+       Cost Accounts, stocks are only valued at cost.
+
+© The Institute of Chartered Accountants of India
+                   COST ACCOUNTING SYSTEMS                       7.33
+
+4.2 Procedure for Reconciliation
+
+There are 3 steps involved in the procedure for reconciliation.
+
+1. Ascertainment of profit as per Financial Accounts
+
+2. Ascertainment of profit as per Cost Accounts
+
+           3. Reconciliation of both the profits
+
+Circumstances where reconciliation statement can be avoided: When the Cost and
+Financial Accounts are integrated - there is no need to have a separate reconciliation
+statement between the two sets of accounts. Integration means that the same set of
+accounts fulfil the requirement of both i.e., Cost and Financial Accounts.
+
+ILLUSTRATION 6
+
+The following figures are available from the financial records of ABC Manufacturing
+Co. Ltd. for the year ended 31st March.
+
+                                                                       (`)
+
+Sales (20,000 units)                                                   25,00,000
+
+Materials                                                              10,00,000
+
+Wages                                                                  5,00,000
+
+Factory Overheads                                                      4,50,000
+
+Administrative Overhead (production related)                           2,60,000
+
+Selling and Distribution Overheads                                     1,80,000
+
+Finished goods (1,230 units)                                           1,50,000
+
+© The Institute of Chartered Accountants of India
+7.34                     COST AND MANAGEMENT ACCOUNTING
+
+                                                        (`)              (`)
+
+Work-in-Process:                                        30,000             70,000
+      Materials                                         20,000           2,00,000
+      Labour                                            20,000
+      Factory overheads                                                    20,000
+
+Goodwill written off
+Interest on loan taken
+
+In the Costing records, factory overhead is charged at 100% of wages,
+administrative overhead 10% of factory cost and selling and distribution overhead
+at the rate of ` 10 per unit sold.
+
+PREPARE a statement reconciling the profit as per cost records with the profit as per
+financial records.
+
+SOLUTION
+
+                 Profit & Loss Account of ABC Manufacturing Co. Ltd.
+                                 (for the year ended 31st March)
+
+                                                   (`)                   (`)
+
+To Opening Stock                                   - By Sales (20,000 units) 25,00,000
+" Materials
+" Wages                  10,00,000 " Closing Stock:
+
+" Factory Overheads      5,00,000                       Finished goods   1,50,000
+" Admn. Overheads                                       (1,230 units)
+" S&D Overheads
+" Goodwill written off   4,50,000                       Work-in-Process  70,000
+" Interest on loan
+" Net Profit             2,60,000
+
+                         1,80,000
+
+                         2,00,000
+
+                         20,000
+
+                         1,10,000
+
+                         27,20,000                                       27,20,000
+
+© The Institute of Chartered Accountants of India
+                           COST ACCOUNTING SYSTEMS              7.35
+
+                                                 Cost Sheet                         (`)
+                                                                           10,00,000
+ Materials
+ Wages                                                                       5,00,000
+ Direct Expenses                                                                    Nil
+ Prime Cost
+ Add: Factory Overhead @ 100% of wages                                    15,00,000
+ Gross Factory Cost                                                          5,00,000
+ Less: Closing WIP
+ Factory Cost of (20,000 + 1,230) units                                    20,00,000
+ Add: Admn. Overhead @ 10% of Factory cost                                   (70,000)
+
+ Less: Closing Stock of finished goods (1,230 units)                      19,30,000
+ Cost of Goods sold (20,000 units)                                           1,93,000
+ Add: Selling & Dist. Overhead @ ` 10 per unit
+ Cost of sales (20,000 units)                                              21,23,000
+ Sales of 20,000 units                                                    (1,23,000)*
+ Profit                                                                   20,00,000
+* (`21,23,000 × 1,230 units/ 21,230 units)
+                                                                             2,00,000
+                                      Reconciliation Statement            22,00,000
+                                                                           25,00,000
+ Profit as per Cost Accounts
+ Add: Factory overheads over-absorbed                                       3,00,000
+
+          (` 5,00,000 ­ ` 4,50,000)                                  (`)         (`)
+          Selling & Dist. Overhead over-absorbed                50,000    3,00,000
+           (` 2,00,000 ­ ` 1,80,000)
+          Difference in the valuation of closing stock of       20,000
+          finished goods (` 1,50,000 ­ ` 1,23,000)
+                                                                27,000    97,000
+© The Institute of Chartered Accountants of India
+                                                                          3,97,000
+7.36  COST AND MANAGEMENT ACCOUNTING
+
+Less: Admn. overhead under-absorbed                67,000
+         (` 2,60,000 ­ ` 1,93,000)
+        Goodwill written off                       2,00,000       2,87,000
+        Interest on loan                             20,000       1,10,000
+
+Profit as per financial accounts
+
+ILLUSTRATION 7
+Following are the figures extracted from the Cost Ledger of a manufacturing unit.
+
+Stores:                                                                  (`)
+      Opening balance
+      Purchases                                                     15,000
+      Transfer from WIP                                             80,000
+      Issue to WIP                                                  40,000
+      Issue to repairs and maintenance                              80,000
+      Sold as a special case at cost                                10,000
+      Shortage in the year
+                                                                      5,000
+Work-in-Process:                                                      3,000
+      Opening inventory
+      Direct labour cost charged                                    30,000
+      Overhead cost charged                                         30,000
+      Closing Balance                                             1,20,000
+                                                                    20,000
+Finished Products:
+Entire output is sold at 10% profit on actual cost from Work-in-    35,000
+Process.                                                          1,25,000
+Others:
+
+      Wages for the period
+      Overhead Expenses
+
+ASCERTAIN the profit or loss as per financial account and cost accounts and
+reconcile them.
+
+© The Institute of Chartered Accountants of India
+          COST ACCOUNTING SYSTEMS                                       7.37
+
+SOLUTION
+
+                           Stores Ledger Control A/c
+
+  To Balance b/d                   (`)                                               (`)
+  " Cost Ledger Control       15,000 By Work-in-Process Control                 80,000
+                                                                                10,000
+        A/c (Purchases)                        A/c (Issued to WIP)
+  " Work-in-Process           80,000 " Overhead Control A/c                      5,000
+
+        Control A/c                            (Issued for repairs)              3,000
+        (Return from WIP)     40,000 " Cost Ledger Control A/c                  37,000
+                                                                              1,35,000
+* Assumed normal                               (Sold at cost)
+
+                                          " Overheads Control A/c*
+                                               (Shortages)
+
+                                          " Balance c/d
+                            1,35,000
+
+                              Wages Control A/c
+
+To Cost Ledger Control A/c        (`)                                             (`)
+                                                                              30,000
+                              35,000 By Work-in-process Control
+                                               A/c                             5,000
+                                                                              35,000
+                                          " Overhead Control A/c
+                              35,000
+
+                            Overhead Control A/c                                     (`)
+                                       (`)                                    1,20,000
+
+To Stores Ledger Control A/c  10,000 By Work-in-Process                         23,000
+                                                Control A/c                   1,43,000
+
+" Stores Ledger Control A/c                        3,000
+
+" Cost Ledger Control A/c     1,25,000
+
+" Wages Control A/c                                5,000 " Balance c/d
+
+                              1,43,000
+
+© The Institute of Chartered Accountants of India
+7.38                         COST AND MANAGEMENT ACCOUNTING
+
+                             WIP Control A/c
+
+                                                   (`)                                       (`)
+
+To Balance b/d                                     30,000 By Stores Ledger              40,000
+                                                                     Control A/c
+                                                                                    2,00,000*
+" Stores Ledger Control A/c                        80,000 " Finished Goods
+                                                                     Control A/c        20,000
+                                                                                     2,60,000
+" Wages Control A/c                                30,000
+                                                                                          (`)
+" Overheads Control A/c                            1,20,000 " Balance c/d            40,000
+                                                                                     30,000
+                                                   2,60,000                         70,000
+                                                                                  1,20,000
+* Finished output at cost                                    2,00,000             1,90,000
+Profit at 10% on actual cost from WIP Sales                    20,000                30,000
+                                                                                  2,20,000
+                                                             2,20,000              (20,000)
+                                                                                  2,00,000
+                Statement of Profit as per Costing Records                           20,000
+                                                                                  2,20,000
+Direct Material Cost (`80,000 ­ `40,000)
+Direct wages
+Prime Cost
+Production Overheads
+Works Cost
+Add: Opening WIP
+
+Less: Closing WIP
+Cost of finished goods
+Profit (10% of cost)
+Sales
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                                      7.39
+
+                         Profit & Loss A/c
+
+To Material (Op. bal. +          (`)                                       (`)
+      Purchases - Sale)                 By Sales A/c               2,20,000
+
+ " Opening WIP             90,000                                     20,000
+ " Wages for the period    30,000 " Closing WIP
+                            35,000 " Closing stock of                 37,000
+ " Overheads expenses                                                  3,000
+                                               Raw Material        2,80,000
+                         1,25,000 " Net loss
+                         2,80,000                                         (`)
+                                                                    (3,000)
+                         Reconciliation Statement                    23,000
+                                                                     20,000
+Profit (loss) as per Financial Accounts
+Add: Overheads over absorbed (refer Overhead control A/c)
+Net Profit as per Cost Accounts
+
+ILLUSTRATION 8
+
+The following figures have been extracted from the Financial Accounts of a
+manufacturing firm for the first year of its operation:
+
+Direct Material Consumption                                                (`)
+Direct Wages                                                       50,00,000
+Factory Overheads                                                  30,00,000
+General Administrative Overheads                                   16,00,000
+Selling and Distribution Overheads
+Bad Debts                                                           7,00,000
+Preliminary expenses written off                                    9,60,000
+Legal Charges
+                                                                       80,000
+                                                                       40,000
+                                                                       10,000
+
+© The Institute of Chartered Accountants of India
+          7.40                 COST AND MANAGEMENT ACCOUNTING
+
+Dividends Received                                                   1,00,000
+Interest received on Deposits                                          20,000
+
+Sales (1,20,000 units)                                               1,20,00,000
+Closing Stock:
+Finished Goods (4,000 units)                                             3,20,000
+Work-in-Process                                                          2,40,000
+
+The cost accounts for the same period reveal that the direct material consumption
+was ` 56,00,000. Factory overhead is recovered at 20% on prime cost.
+Administration overhead is recovered at ` 6 per unit of goods sold. Selling and
+Distribution overheads are recovered at ` 8 per unit sold.
+PREPARE the Profit and Loss Accounts both as per financial records and as per cost
+records. RECONCILE the profits as per the two records.
+
+SOLUTION
+
+                       Profit and Loss Account
+                       (As per financial records)
+
+To Direct Material                (`)              Sales (1,20,000              (`)
+                         50,00,000 By              units)            1,20,00,000
+" Direct Wages                                     Closing Stock
+" Factory Overheads      30,00,000 "               Work-in-process       2,40,000
+" Gross Profit c/d       16,00,000                 Finished Goods        3,20,000
+                         29,60,000                 (4,000 units)     1,25,60,000
+" General                                                              29,60,000
+       Administrative  1,25,60,000                 Gross Profit b/d
+       Overheads           7,00,000 "                                    1,00,000
+                                                   Dividend
+" Selling and Dist.        9,60,000 "              received
+       OH
+
+© The Institute of Chartered Accountants of India
+              COST ACCOUNTING SYSTEMS                             7.41
+
+" Bad debts              80,000 " Interest received                          20,000
+                                                                        30,80,000
+" Preliminary            40,000
+       Expenses written
+       off
+
+" Legal Charges          10,000
+
+" Net Profit             12,90,000
+
+                         30,80,000
+
+                         Statement of Cost and Profit
+                               (As per Cost Records)
+
+         Direct Material                                                       (`)
+         Direct Wages                                                56,00,000
+         Prime Cost                                                  30,00,000
+         Factory Overhead (20% of `86,00,000)                       86,00,000
+                                                                     17,20,000
+Less: Closing Stock (WIP)                                          1,03,20,000
+         Works Cost or Cost of production (1,24,000 units)           (2,40,000)
+                                                                  1,00,80,000
+Less: Finished Goods (4,000 units @ `81.29)                          (3,25,160)
+         Cost of goods sold (1,20,000 units)                        97,54,840
+         Administrative Overhead (1,20,000 units @ ` 6 p.u.)
+         Selling and Distribution Overhead (1,20,000 @ ` 8 p.u.)       7,20,000
+         Cost of Sales                                                 9,60,000
+         Net profit (Balancing figure)                            1,14,34,840
+         Sales Revenue                                                 5,65,160
+                                                                  1,20,00,000
+
+© The Institute of Chartered Accountants of India
+7.42               COST AND MANAGEMENT ACCOUNTING
+
+Statement of Reconciliation of profit as obtained under Cost and Financial
+Accounts
+
+                                                   (`)       (`)
+
+Profit as per Cost Records                                   5,65,160
+
+Add: Excess of Material Consumption                6,00,000
+
+Factory Overhead                                   1,20,000
+
+Administrative Overhead                            20,000
+
+Dividend Received                                  1,00,000
+
+Interest Received                                  20,000    8,60,000
+
+                                                             14,25,160
+
+Less: Bad debts                                    80,000
+
+Preliminary expenses written off                   40,000
+
+Legal Charges                                      10,000
+
+Over-valuation of stock in cost book               5,160 (1,35,160)
+
+(` 3,25,160 ­ ` 3,20,000)
+
+Profit as per Financial Records                              12,90,000
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                            7.43
+
+SUMMARY
+
+ Cost Control Accounts: These are accounts maintained for the purpose of
+       exercising control over the costing ledgers and also to complete the double
+       entry in cost accounts.
+
+ Integral System of Accounting: A system of accounting where both costing
+       and financial transactions are recorded in the same set of books.
+
+ Non-Integral System of Accounting: A system of accounting where two sets
+       of books are maintained-(i) for Costing transactions; and (ii) for Financial
+       transactions
+
+ Reconciliation: In the Non-Integral System of Accounting, since the cost and
+       financial accounts are kept separately, it is imperative that those should be
+       reconciled; otherwise the cost accounts would not be reliable. The reason for
+       differences in the cost & financial accounts can be of purely financial nature
+       (Income and expenses) and notional nature.
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1. Under the Non-integrated accounting system
+
+       (a) Same ledger is maintained for cost and financial accounts by
+               accountants
+
+       (b) Separate ledgers are maintained for cost and financial accounts
+       (c) (a) and (b) both
+       (d) None of the above
+2. Notional costs
+
+       (a) May be included in Integrated accounts
+       (b) May be included in Non- integrated accounts
+       (c) Cannot be included in Non-integrated accounts
+       (d) None of the above
+
+© The Institute of Chartered Accountants of India
+7.44  COST AND MANAGEMENT ACCOUNTING
+
+3. Under Non-integrated accounting system, the account made to complete
+       double entry is
+       (a) Stores ledger control account
+       (b) Work in progress control account
+       (c) Finished goods control account
+       (d) General ledger adjustment account
+
+4. Integrated systems of accounts are maintained
+       (a) In separate books of accounts for costing and financial accounting
+               purposes
+       (b) In same books of accounts
+       (c) Both (a) & (b)
+       (d) None of the above
+
+5. Under Non-integrated system of accounting, purchase of raw material is
+       debited to which account
+       (a) Material control account / Stores ledger control account
+       (b) General ledger adjustment account
+       (c) Purchase account
+       (d) None of the above
+
+6. Under Non-integrated accounts, if materials worth ` 1,500 are purchased for
+       a special job, then which account will be debited:
+       (a) Special job account / Work in Process account
+       (b) Material Control account
+       (c) Cost Control account
+       (d) None of the above
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                            7.45
+
+7. Which account is to be debited if materials worth ` 500 are returned to
+       vendor under Non-integrated accounts:
+       (a) Cost ledger control account
+       (b) Finished goods control account
+       (c) WIP control account
+       (d) None of the above
+
+8. Which of the following items is included in cost accounts?
+       (a) Notional rent
+       (b) Donations
+       (c.) Transfer to general reserve
+       (d) Rent receivable
+
+9. When costing loss is ` 5,600, administrative overhead under-absorbed being `
+       600, the loss as per financial accounts should be
+       (a) ` 5,600
+       (b) ` 6,200
+       (c) ` 5,000
+       (d) None of the above
+
+10. Which of the following items should be added to costing profit to arrive at
+       financial profit?
+       (a) Over-absorption of works overhead
+       (b) Interest paid on debentures
+       (c) Income tax paid
+       (d) All of the above
+
+Theoretical Questions
+
+1. EXPLAIN what are the essential pre-requisites of Integrated Accounting
+       System.
+
+2. STATE what are the advantages of Integrated Accounting.
+
+© The Institute of Chartered Accountants of India
+7.46                   COST AND MANAGEMENT ACCOUNTING
+
+3. EXPLAIN why is it necessary to reconcile the Profits between the Cost
+       Accounts and Financial Accounts.
+
+4. STATE what are the reasons for disagreement of profits as per Cost Accounts
+       and Financial Accounts. Discuss.
+
+5. LIST the Financial expenses which are not included in Cost.
+
+6. STATE when is the Reconciliation statement of Cost and Financial accounts
+       not required.
+
+Practical Problems
+
+1. The following incomplete accounts are furnished to you for the month ended
+       31st October, 2022.
+
+Stores Ledger Control Account
+
+1.10.2022 To Balance                               ` 54,000
+
+Work in Process Control Account
+
+1.10. 2022 To Balance                              ` 6,000
+
+Finished Goods Control Account
+
+1.10. 2022 To Balance                              ` 75,000
+
+Factory Overheads Control Account
+
+Total debits for October, 2022 ` 45,000
+
+Factory Overheads Applied Account
+
+Cost of Goods Sold Account
+
+Creditors for Purchases Account
+
+1.10. 2022 By Balance                              V` 30,000
+
+Additional information:
+
+(i) The factory overheads are applied by using a budgeted rate based on
+       direct labour hours. The budget for overheads for 2022 is ` 6,75,000 and
+       the budget of direct labour hours is 4,50,000.
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                            7.47
+
+       (ii) The balance in the account of creditors for purchases on 31.10.2022 is `
+               15,000 and the payments made to creditors in October, 2022 amount to
+              ` 1,05,000.
+
+       (iii) The finished goods inventory as on 31st October, 2022 is ` 66,000.
+       (iv) The cost of goods sold during the month was ` 1,95,000.
+       (v) On 31st October, 2022 there was only one unfinished job in the factory.
+
+              The cost records show that ` 3,000 (1,200 direct labour hours) of direct
+              labour cost and ` 6,000 of direct material cost had been charged.
+       (vi) A total of 28,200 direct labour hours were worked in October, 2022. All
+               factory workers earn same rate of pay.
+       (vii) All actual factory overheads incurred in October, 2022 have been
+               posted.
+       You are required to FIND:
+       (a) Materials purchased during October, 2022.
+       (b) Cost of goods completed in October, 2022.
+       (c) Overheads applied to production in October, 2022.
+       (d) Balance of Work-in-Process Control A/c on 31st October, 2022.
+       (e) Direct Materials consumed during October, 2022.
+       (f) Balance of Stores Ledger Control Account on 31st October, 2022.
+       (g) Over absorbed or under absorbed overheads for October, 2022.
+2. A company operates on historic job cost accounting system, which is not
+       integrated with the financial accounts. At the beginning of a month, the
+       opening balances in cost ledger were:
+
+Stores Ledger Control Account                            (` in lakhs)
+Work-in-Process Control Account                                      80
+Finished Goods Control Account                                       20
+Building Construction Account
+Cost Ledger Control Account                                         430
+                                                                     10
+
+                                                                    540
+
+© The Institute of Chartered Accountants of India
+       7.48      COST AND MANAGEMENT ACCOUNTING
+
+During the month, the following transactions took place:
+
+                                                          (` in lakh)
+
+Materials        Purchased                                40
+
+                 Issued to production                     50
+
+                 Issued to factory maintenance            6
+
+                 Issued to building construction          4
+
+Wages            Gross wages paid                         150
+
+                 Indirect wages                           40
+
+                 For building construction                10
+
+Works Overheads  Actual amount incurred                   160
+
+                 (excluding items shown above)
+
+                 Absorbed in building construction        20
+
+                 Under absorbed                           8
+
+Royalty paid     (related to production)                  5
+
+Selling, Distribution and Administration overheads        25
+
+Sales                                                     450
+
+At the end of the month, the stock of raw material and work-in-Process was
+` 55 lakhs and ` 25 lakhs respectively. The loss arising in the raw material
+accounts is treated as factory overheads. The building under construction was
+completed during the month. Company's gross profit margin is 20% on sales.
+
+PREPARE the relevant control accounts to record the above transactions in the
+cost ledger of the company.
+
+3. Dutta Enterprises operates an Integral system of accounting. You are required
+       to PASS the Journal Entries for the following transactions that took place for
+       the year ended 31st March.
+
+(Narrations are not required.)
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                            7.49
+
+Raw Materials purchased (50% on Credit)                         (`)
+Materials issued to production                           6,00,000
+Wages paid (50% Direct)                                  4,00,000
+Wages charged to production                              2,00,000
+Factory Overheads incurred                               1,00,000
+Factory Overheads charged to production
+Selling and Distribution Overheads incurred                80,000
+Finished Goods at cost                                   1,00,000
+Sales (50% Credit)
+Closing stock                                              40,000
+Receipts from debtors                                    5,00,000
+Payments to creditors                                    7,50,000
+
+                                                                Nil
+                                                         2,00,000
+                                                         2,00,000
+
+4. The following information is available from the financial books of a company
+       having a normal production capacity of 60,000 units for the year ended 31st
+       March:
+
+(i) Sales ` 10,00,000 (50,000 units).
+(ii) There was no opening and closing stock of finished units.
+(iii) Direct Material and Direct Wages cost were ` 5,00,000 and ` 2,50,000
+
+       respectively.
+(iv) Actual factory expenses were ` 1,50,000 of which 60% are fixed.
+(v) Actual Administrative expenses were ` 45,000 which are completely
+
+       fixed.
+(vi) Actual Selling and Distribution expenses were ` 30,000 of which 40%
+
+       are fixed.
+(vii) Interest and dividends received ` 15,000.
+You are required to:
+(a) FIND OUT profit as per financial books for the year ended 31st March;
+(b) PREPARE the cost sheet and ascertain the profit as per cost accounts for
+
+       the year ended 31st March assuming that the indirect expenses are
+       absorbed on the basis of normal production capacity; and
+(c) PREPARE a statement reconciling profits shown by financial and cost books.
+
+© The Institute of Chartered Accountants of India
+7.50  COST AND MANAGEMENT ACCOUNTING
+
+5. M/s. H.K. Piano Company showed a net loss of ` 4,16,000 as per their
+       financial accounts for the year ended 31st March. The cost accounts, however,
+       disclosed a net loss of ` 3,28,000 for the same period. The following
+       information were revealed as a result of scrutiny of the figures of both the sets
+       of books:
+
+                                                       (`)
+
+(i) Factory Overheads under-recovered                  6,000
+
+(ii) Administration Overheads over-recovered           4,000
+
+(iii) Depreciation charged in financial accounts       1,20,000
+
+(iv) Depreciation recovered in costs                   1,30,000
+
+(v) Interest on investment not included in costs       20,000
+
+(vi) Income-tax provided                               1,20,000
+
+(vii) Transfer fees (credit in financial books)        2,000
+
+ (viii) Stores adjustment (credit in financial books)  2,000
+PREPARE a Memorandum reconciliation account.
+
+ANSWERS
+
+Answers to the MCQs
+
+ 1. (b) 2. (b) 3. (d) 4. (b) 5. (a) 6. (a)
+ 7. (a) 8. (a) 9. (b) 10. (a)
+
+Answers to the Theoretical Questions
+
+1. Please refer paragraph 3.2
+2. Please refer paragraph 3.1
+3. Please refer paragraph 4
+4. Please refer paragraph 4.1
+5. Please refer paragraph 4.1
+6. Please refer paragraph 4.2
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                                                  7.51
+
+Answers to the Practical Problems
+
+1. Working Notes:
+
+(i) Overhead recovery rate per direct labour hour:
+
+Budgeted Factory Overheads = ` 6,75,000
+
+Budgeted Direct Labour hours = 4,50,000
+
+Overhead recovery rate                             = Budgeted Factory Overheads
+                                                       Budgeted Direct Labour hours
+
+                                                   = ` 6,75,000
+                                                       4,50,000 hours
+
+                                                   = ` 1.50 per direct labour
+
+(ii) Direct Wage rate per hour:                    = ` 3,000
+       Direct Labour cost of WIP
+       (on 31st October 2022)                      = 1,200 hours
+       Direct labour hours of WIP
+                                                   =  Direct labour cost on WIP
+       Direct wage rate per hour                      Direct labour hours on WIP
+
+                                                   =     ` 3,  000    =  `2.50
+                                                      1, 200   hours
+
+(iii) Total Direct Wages charged to production:
+
+Total direct labour hours spent on production × Direct wage rate per
+                                                                     hour
+
+= 28,200 hours × ` 2.50 = ` 70,500
+
+(a) Material purchased during October, 2022
+
+Payment made to creditors                                                                (`)
+Add: Closing balance in the account of creditors for                              1,05,000
+purchase
+Less: Opening balance                                                               15,000
+Material Purchased
+                                                                                  (30,000)
+                                                                                   90,000
+
+© The Institute of Chartered Accountants of India
+7.52  COST AND MANAGEMENT ACCOUNTING
+
+(b) Cost of Finished Goods in October, 2022
+
+                                                                                 (`)
+
+Cost of goods sold during the month                                              1,95,000
+
+Add: Closing finished goods inventory                                            66,000
+
+Less: Opening finished goods inventory                                           (75,000)
+
+Cost of goods completed during the month                                         1,86,000
+
+(c) Overhead applied to production in October, 2022
+         = 28,200 hours × ` 1.50 = ` 42,300
+
+(d) Balance of Work-in-Process on 31st October, 2022
+
+Direct material cost                                                                  (`)
+Direct labour cost                                                                 6,000
+Overheads (` 1.50 × 1,200 hours)                                                   3,000
+                                                                                   1,800
+                                                                                 10,800
+
+(e) Direct material consumed during October, 2022 = ` 78,000
+         (Refer to following Accounts)
+
+      Work in Process Control A/c
+
+To Balance b/d                                         (`)                              (`)
+                                                                                 1,86,000
+ " Wages Control                                    6,000 By Finished goods
+      A/c [Refer                                                    control A/c    10,800
+      working note (iii)]                                           [Refer (b)
+                                                                    above]
+
+                                                   70,500 " Balance c/d
+                                                                    [Refer (d)
+                                                                    above]
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                                       7.53
+
+" Factory OH                                       42,300
+     Control A/c                                   78,000
+     [Refer (c) above]
+
+" Material
+     consumed
+     (Balancing fig.)
+
+                                                   1,96,800                        1,96,800
+
+(f) Balance of Stores Control Account on 31st October, 2022 = ` 66,000
+        (Refer to following Account)
+                              Stores Ledger Control Account
+
+" Balance b/d                                          (`)    Work-in-process          (`)
+                                                   54,000 By  Control A/c          78,000
+" Payables                                                    [Refer (e) above]
+     (Creditors) A/c                               90,000 "                        66,000
+     [Refer (a) above}                                        Balance c/d
+                                                              (Balancing fig.)
+
+                                                   1,44,000                        1,44,000
+
+(g) Over-absorbed or under-absorbed overheads for October, 2022:
+       Balance in Factory Overhead Account below showing that ` 2,700 is
+       under-absorbed.
+
+                             Factory Overhead Account
+
+To Bank A/c                                            (`)                             (`)
+                                                                                   42,300
+                                                   45,000 By Work-in-process
+                                                                      Control A/c   2,700
+                                                                      (Factory OH  45,000
+                                                                      applied)
+
+                                                                " Costing P/L A/c
+                                                                      (Under-
+                                                                      absorbed)
+
+                                                   45,000
+
+© The Institute of Chartered Accountants of India
+    7.54                      COST AND MANAGEMENT ACCOUNTING
+
+2.                  Cost Ledger Control A/c
+
+                                                                       Amount (` in lakhs)
+
+                                                   (`)                          (`)
+
+    To Costing P&L A/c                             450 By Balance b/d           540
+     " Building Construction
+                                                   44 " Stores Ledger Control   40
+          A/c
+     " Balance c/d                                      A/c
+
+                                                   483 " Wages Control A/c      150
+
+                                                        " Works OH Control A/c 160
+
+                                                        " Royalty A/c           5
+
+                                                        " Admn. OH and S&D      25
+
+                                                        OH A/c
+
+                                                        " Costing P&L A/c       57
+
+                                                   977                          977
+
+                    Stores Ledger Control A/c
+
+                                                   (`)                          (`)
+
+    To Balance b/d                                 80 By Work-in-Process A/c    50
+
+    " Cost Ledger Control A/c                      40 " Works OH Control A/c    6
+
+                                                        " Building Const. A/c   4
+
+                                                        " Works OH Control A/c  5
+
+                                                        (Bal. fig.) (loss)
+
+                                                        " Balance c/d           55
+
+                                                   120                          120
+
+                    Wages Control A/c
+
+                                                   (`)                          (`)
+
+    To Cost Ledger Control A/c 150 By Works OH Control A/c                      40
+
+                                                        " Building Const. A/c   10
+
+                                                        " Work-in-process       100
+
+                                                        Control A/c
+
+                                                        (Balancing figure)
+
+                                                   150                          150
+
+© The Institute of Chartered Accountants of India
+COST ACCOUNTING SYSTEMS                                                      7.55
+
+Works Overhead Control A/c
+
+                                                   (`)                              (`)
+
+To Stores Ledger Control                           6 By Building Const. A/c         20
+      A/c
+                                                   40 " Work-in-process             183
+ " Wages Control A/c
+                                                                Control A/c
+ " Cost Ledger Control A/c
+                                                                (Balancing figure)
+ " Store Ledger Control
+      A/c (loss)                                   160 " Costing P&L A/c (under- 8
+                                                                 absorption)
+
+                                                   5
+
+                                                   211                              211
+
+                                                   Royalty A/c
+
+                                                   (`)                              (`)
+
+To Cost Ledger Control A/c                         5 By Work-in-process             5
+
+                                                                Control A/c
+
+                                                   5                                5
+
+Work-in-Process Control A/c
+
+                                                   (`)                              (`)
+
+To Balance b/d                                     20 By Finished Goods Control 333
+                                                               A/c
+ " Stores Ledger Control
+       A/c                                                     (Balancing figure)
+
+ " Wages Control A/c                               50
+ " Works OH Control A/c
+ " Royalty A/c                                     100
+
+                                                   183
+
+                                                   5 " Balance c/d                  25
+
+                                                   358                              358
+
+© The Institute of Chartered Accountants of India
+     7.56              COST AND MANAGEMENT ACCOUNTING
+
+                    Finished Goods Control A/c
+
+                                                   (`)                       (`)
+
+To Balance b/d                                     430 By Cost of Goods Sold A/c 360
+                                                                 (80% of ` 450)
+ " Work-in-process
+      Control A/c                                  333 " Balance c/d         403
+
+                                                   763                       763
+
+                       Cost of Goods Sold A/c
+
+                                                   (`)                       (`)
+
+To Finished Goods Control                          360 By Cost of sales A/c  360
+
+A/c
+
+                                                   360                       360
+
+     Selling, Distribution and Administration Overhead A/c
+
+                                                   (`)                       (`)
+
+To Cost Ledger Control A/c                         25 By Cost of sales A/c   25
+
+                                                   25                        25
+
+                           Cost of Sales A/c
+
+                                                   (`)                       (`)
+
+To Cost of Goods Sold                              360 By Costing P&L A/c    385
+
+" Admn. OH and S&D OH                              25
+
+A/c
+
+                                                   385                       385
+
+© The Institute of Chartered Accountants of India
+     COST ACCOUNTING SYSTEMS                                           7.57
+
+                      Costing P & L A/c
+
+                                                   (`)                       (`)
+
+To Cost of Sales A/c                               385 By Cost Ledger        450
+
+                                                        Control A/c (Sales)
+
+" Works Overhead Control                           8
+
+A/c
+
+" Cost Ledger Control A/c                          57
+
+(Profit) (Balancing figure)
+
+                                                   450                       450
+
+                      Building Construction A/c
+
+                                                   (`)                       (`)
+
+To Balance b/d                                     10 By Cost Ledger         44
+
+                                                        Control A/c
+
+" Stores Ledger Control                            4
+
+A/c
+
+" Wages Control A/c                                10
+
+" Works OH Control A/c                             20
+
+                                                   44                        44
+
+                           Trial Balance                               (` in lakhs)
+
+                                                                     Dr. (`) Cr. (`)
+
+Stores control A/c                                                     55
+
+Work-in-Process A/c                                                    25
+
+Finished Goods A/c                                                     403
+
+Cost Ledger Adjustment A/c                                                   483
+
+                                                                       483   483
+
+© The Institute of Chartered Accountants of India
+7.58             COST AND MANAGEMENT ACCOUNTING
+
+3. Journal entries are as follows:
+
+                                                                      Dr. (`)        Cr. (`)
+                                                                                    3,00,000
+Stores Ledger Control A/c................................. Dr. 6,00,000             3,00,000
+                                                                                    4,00,000
+To Payables (Creditors) A/c                                                         2,00,000
+                                                                                    1,00,000
+To Cash or Bank                                                                     1,00,000
+
+Work-in-Process Control A/c........................                   Dr. 4,00,000    80,000
+                                                                                    1,00,000
+To Stores Ledger Control A/c
+                                                                                      40,000
+Wages Control A/c.............................................. Dr. 2,00,000        5,00,000
+                                                                                    5,00,000
+To Bank A/c
+                                                                                      40,000
+Factory Overhead Control A/c........................ Dr. 1,00,000
+                                                                                    7,50,000
+To Wages Control A/c                                                                2,00,000
+                                                                                    2,00,000
+Work-in-Process Control A/c........................... Dr. 1,00,000
+
+To Wages Control A/c
+
+Factory Overhead Control A/c.....................                     Dr. 80,000
+
+To Bank A/c
+
+Work-in-Process Control A/c........................                   Dr. 1,00,000
+
+To Factory Overhead Control A/c
+
+Selling and Dist. Overhead Control A/c                                Dr. 40,000
+
+To Bank A/c
+
+Finished Goods Control A/c........................                    Dr. 5,00,000
+
+To Work-in-Process Control A/c
+
+Cost of Sales A/c................................................ Dr. 5,40,000
+
+To Finished Goods Control A/c
+
+To Selling and Distribution Control A/c
+
+Receivables (Debtors) A/c.................................... Dr. 3,75,000
+
+Bank or Cash A/c................................................ Dr. 3,75,000
+
+To Sales A/c
+
+Bank A/c............................................................  Dr. 2,00,000
+
+To Receivables (Debtors) A/c
+
+Payables (Creditors) A/c....................................... Dr. 2,00,000
+
+To Bank A/c
+
+© The Institute of Chartered Accountants of India
+        COST ACCOUNTING SYSTEMS                                7.59
+
+4. (a)         Profit & Loss Account
+        (for the year ended 31st March)
+
+                                                   (`)                          (`)
+
+        To Direct Material                         5,00,000 By Sales (50,000    10,00,000
+        " Direct Wages                                                  units)      15,000
+
+                                                   2,50,000 "  Interest and
+                                                               dividends
+
+        " Factory                                  1,50,000
+              expenses                               45,000
+                                                     30,000
+        " Administrative
+              expenses
+
+        " Selling & Dist.
+              Expenses
+
+        " Net Profit                                  40,000
+                                                   10,15,000
+                                                                                10,15,000
+
+(b)                                                Cost Sheet
+
+                      (for the year ended 31st March)
+
+                                                               (`)              (`)
+
+        Direct Material                                                         5,00,000
+        Direct Wages                                                            2,50,000
+        Prime cost                                                              7,50,000
+        Factory expenses:
+
+        Variable (40% of ` 1,50,000)                           60,000
+
+                Fixed (` 90,000 × 50,000/60,000)               75,000           1,35,000
+        Works cost/ Cost of production                                          8,85,000
+
+© The Institute of Chartered Accountants of India
+     7.60           COST AND MANAGEMENT ACCOUNTING
+
+     Administrative expenses: (` 45,000 ×                  37,500
+     50,000/60,000)
+
+     Selling & Distribution expenses:
+
+     Variable (60% of ` 30,000)                    18,000
+
+     Fixed* (` 12,000 × 50,000/60,000)             10,000  28,000
+
+     Cost of Sales                                         9,50,500
+
+     Profit (Balancing figure)                             49,500
+
+     Sales revenue                                         10,00,000
+
+     *It is assumed that the company sells what it generally produces i.e. normal
+     production.
+
+(c)                 Statement of Reconciliation
+
+     (Reconciling profit shown by Financial and Cost Accounts)
+
+                                                   (`)          (`)
+
+     Profit as per Cost Account                            49,500
+
+     Add : Income from interest and dividends              15,000
+
+                                                           64,500
+
+     Less: Factory expenses under-charged in       15,000
+     Cost Accounts (` 1,50,000 ­ ` 1,35,000)
+
+     Administrative expenses under-charged in      7,500
+     Cost Accounts (` 45,000 ­ ` 37,500)
+
+     Selling & distribution expenses under--       2,000   (24,500)
+     charged in Cost Accounts (` 30,000 ­
+     ` 28,000)
+
+     Profit as per Financial Accounts                      40,000
+
+© The Institute of Chartered Accountants of India
+    COST ACCOUNTING SYSTEMS                             7.61
+
+5.  Memorandum Reconciliation Account
+
+                                                   (`)                              (`)
+
+    To Net loss as per       3,28,000 By Administration                             4,000
+            costing books                          Overhead- over-
+                                                   recovered in costs
+
+    " Factory                                      6,000 " Depreciation             10,000
+            Overheads                                               overcharged in
+            under-recovered                                         costs
+            in costs
+
+    " Income-tax not         1,20,000 "                 Interest on invest-         20,000
+            provided in                                 ments not
+            costs                                       included in costs
+
+                                                        " Transfer fees in          2,000
+                                                              financial books
+
+                                                        " Stores adjustment         2,000
+
+                                                        " Net loss as per
+
+                                                        financial books             4,16,000
+
+                             4,54,000                                               4,54,000
+
+© The Institute of Chartered Accountants of India
+

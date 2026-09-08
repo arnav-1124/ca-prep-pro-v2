@@ -1,0 +1,977 @@
+CHAPTER      9
+
+JOB COSTING
+
+                                    LEARNING OUTCOMES
+
+ Describe Job Costing methods.
+ Explain the accounting entries for cost elements under both
+
+      the methods.
+ Determining cost for a job.
+
+CHAPTER OVERVIEW
+
+                                            Methods of Costing
+
+                    Specific Order Costing
+
+                                                  Job Costing
+
+© The Institute of Chartered Accountants of India
+9.2  COST AND MANAGEMENT ACCOUNTING
+
+    1. JOB COSTING
+
+1.1 Meaning of Job Costing
+
+CIMA London defines Job Costing as "the category of basic costing methods
+which is applicable where the work consists of separate contracts, jobs or
+batches, each of which is authorised by specific order or contract." According
+to this method, costs are collected and accumulated according to jobs, contracts,
+products or work orders. Each job or unit of production is treated as a separate
+entity for the purpose of costing. Job Costing is carried out for the purpose of
+ascertaining cost of each job and takes into account the cost of materials,
+employees and overhead etc. The job costing method is also applicable to
+industries in which production is carried out in batches. Batch production
+basically is of the same character as the job order production, the difference
+being mainly one in the size of different orders.
+
+1.2 Principles of Job Costing
+
+The job costing method may be regarded as the principal method of costing since
+the basic object and purpose of all costing is to:
+
+· Analysis and ascertainment of cost of each unit of production
+
+· Control and regulate cost
+
+· Determine the profitability
+
+The basic principles enunciated for the job costing method are valid essentially for
+all types of industry. For example, printing; furniture; hardware; ship-building; heavy
+machinery; interior decoration, repairs and other similar work.
+
+1.3 Process of Job Costing
+
+· Prepare a separate cost sheet for each job
+
+· Disclose cost of materials issued for the job
+
+· Employee costs incurred (on the basis of bill of material and time cards
+       respectively)
+
+· When job is completed, overhead charges are added for ascertaining total
+       expenditure
+
+© The Institute of Chartered Accountants of India
+                                                   JOB COSTING      9.3
+
+1.4 Suitability of Job Costing
+
+· When jobs are executed for different customers according to their
+       specifications.
+
+· when no two orders are alike and each order/job needs special treatment.
+
+· Where the work-in-progress differs from period to period on the basis of the
+       number of jobs in hand.
+
+2. JOB COST CARD/ SHEET
+
+Each job order is asymmetrical to other due to specific and customised
+requirements. To ascertain cost of a particular job, it is necessary to record all the
+expenditure related with a job separately. For this purpose, Job Cost card is used.
+Job cost card is a cost sheet, where the quantity of materials issued, hours spent by
+different class of employees, amount of other expenses and share of overheads are
+recorded. This is helpful in knowing the total cost, profitability etc. of a job. The
+following is an illustrative format of Job Cost card/ sheet.
+
+Format of Job Cost Sheet:
+
+                JOB COST SHEET
+
+Description: _______________________               Job No.: ________________________
+Blue Print No.: ______________________             Quantity: _______________________
+Material No.: _______________________              Date of delivery: __________________
+Reference No.: ______________________              Date commenced: _________________
+                                                   Date finished: _____________________
+
+Date Reference  Details                            Material Labour  Overhead
+
+                                  Total
+
+© The Institute of Chartered Accountants of India
+9.4                     COST AND MANAGEMENT ACCOUNTING
+
+  Summary of costs      Estimated                  Actual  For the job __________________
+                            (`)                      (`)   Units produced ______________
+Direct material cost                                       Cost/unit ___________________
+Direct wages                                               Remarks ____________________
+Production overhead                                        Prepared by: ________________
+PRODUCTION COST                                            Checked by: _________________
+Administration and
+Selling & Distribution
+Overheads
+
+TOTAL COST
+PROFIT/LOSS
+SELLING PRICE
+
+    3. COLLECTION OF COSTS FOR A JOB
+
+3.1 Collection of Materials Cost
+
+An essential requirement of job cost accounting is that direct materials and their
+cost must be traced to and identified with specific job or work order. This
+segregation of materials cost by jobs or work order is brought by the use of
+separate stores requisitions for each job or work order. Where a bill of material is
+prepared, it provides the basis for the preparation of these stores requisitions. But
+when the entire quantity of materials specified in the bill of materials is drawn in
+one lot or in installments, the bill itself could be made to serve as a substitute for
+the stores requisition.
+
+After the materials have been issued and the stores requisitions have been priced,
+it is usual to enter the value of the stores requisition in a material abstract or
+analysis book. It serves to analyse and collect the cost of all direct materials
+according to job or work orders and departmental standing orders or expense code
+numbers. From the abstract book, the summary of materials cost of each job is
+posted to individual job cost sheets or cards in the Work-in-Progress ledger.
+The postings are usually made weekly or monthly. Similarly, at periodic intervals,
+from the material abstract books, summary cost of indirect material is posted to
+
+© The Institute of Chartered Accountants of India
+                                                   JOB COSTING  9.5
+
+different standing orders or expense code numbers in the Overhead Expenses
+ledger. If any special material has been purchased for a particular job, it is generally
+the practice to charge such special material direct to the job concerned without
+passing it through the Stores Ledger, as soon as it is purchased.
+
+If any surplus material is left over in the case of any job, unless it can be immediately
+and economically used on some other job, the same is returned to the stores with
+a proper supporting document/stores Debit Note or Shop Credit, and the relevant
+job account is credited with the value of excess material returned to the stores. If
+the surplus material is utilised on some other job, instead of being returned
+to the stores first, a material transfer note is prepared. The transfer note would
+show the number of the transfer to job as well as transferee job (or jobs) so that,
+on that basis, the cost thereof can be adjusted in the Work-in-Progress Ledger.
+
+3.2 Collection of Labour Cost
+
+All direct labour cost must be analysed according to individual jobs or work orders.
+Similarly, different types of indirect labour cost also must be collected and accumu-
+lated under appropriate standing order or expenses code number. The analysis of
+labour according to jobs or work orders is, usually, made by means of job time
+cards or sheets. All direct labour is booked against specific jobs in the job time
+cards or sheets. All the idle time also is booked against appropriate standing order
+expense code number either in the job time card for each job or on a separate idle
+time card for each worker (where the job time card is issued job-wise). The time
+booked or recorded in the job time and idle time cards is valued at appropriate
+rates and entered in the labour abstract or analysis book. All direct employee cost
+is accumulated under relevant job or work order numbers, and the total or the
+periodical total of each job or work order is then posted to the appropriate
+job cost card or sheet in Work-in-Progress ledger. The postings are usually made
+at the end of each week or month.
+
+The abstraction of idle time costs under suitable standing order or expenses code
+numbers is likewise done and the amounts are posted to the relevant departmental
+standing order or expense code number in the Overhead Expenses Ledger at
+periodical intervals. As regards other items of indirect labour cost these are
+collected from the payrolls books for the purpose of posting against standing order
+or expenses code numbers in the Overhead Expenses ledger.
+
+© The Institute of Chartered Accountants of India
+9.6  COST AND MANAGEMENT ACCOUNTING
+
+3.3 Collection of Overheads
+
+Manufacturing overheads are collected under suitable standing order numbers and
+selling and distribution overheads against cost accounts numbers. Total overhead
+expenses so collected are apportioned to service and production departments on
+some suitable basis. The expenses of service departments are finally transferred to
+production departments. The total overhead of production departments is then
+applied to products on some realistic basis, e.g. machine hour; labour hour;
+percentage of direct wages; percentage of direct materials; etc. It should be
+remembered that the use of different methods will lead to a different amount being
+computed for the works overhead charged to a job hence to different total cost.
+The problem of accurately absorbing, in each individual job or work order, the
+overhead cost of different cost centres or departments involved in the manufacture
+is difficult under the job costing method. It is because the cost or the expenses
+thereof cannot be traced to or identified with any particular job or work order. In
+such circumstances, the best that can be done is to apply a suitable overhead rate
+to each individual article manufactured or to each production order. This is
+essentially an arbitrary method.
+
+3.4 Treatment of spoiled and defective work
+
+Spoiled work is the quantity of production that has been totally rejected and
+cannot be rectified.
+
+Defective work refers to production that is not as perfect as the saleable
+product but is capable of being rectified and brought to the required degree of
+perfection provided some additional expenditure is incurred. Normally, all the
+manufacturing operations are not fully successful; they result in turning out a
+certain amount of defective work. Nonetheless, over a period of time it is possible
+to work out a normal rate of defectives for each manufacturing process which
+would represent the number of defective articles which a process shall produce in
+spite of due care. Defects arise in the following circumstances:
+
+© The Institute of Chartered Accountants of India
+                                                   JOB COSTING             9.7
+
+Circumstances                                                   Treatment
+
+(1) Where a percentage of When a normal rate of defectives has
+
+defective work is allowed already been established, if the actual
+
+in a particular batch as it number of defectives is within the normal
+
+cannot be avoided.                                 limit or is near thereto the cost of
+
+                                                   rectification will be charged to the
+
+                                                   whole job and spread over the entire
+
+                                                   output of the batch. If, on the other hand,
+
+                                                   the number of defective units substantially
+
+                                                   exceeds the normal, the cost of
+
+                                                   rectification of the number which exceeds
+
+                                                   the normal will be written off as a loss in
+
+                                                   the Costing Profit and Loss Account.
+
+(2) Where defect is due to bad In this case cost of rectification will be
+
+workmanship.                                       abnormal cost, i.e., not a legitimate
+
+                                                   element of the cost. Therefore, the cost of
+
+                                                   rectification shall be written off as a
+
+                                                   loss, unless by an arrangement, it is to be
+
+                                                   recovered as a penalty from the workman
+
+                                                   concerned. It is possible, however that the
+
+                                                   management did provide for a certain
+
+                                                   proportion of defectives on account of
+
+                                                   bad workmanship as an unavoidable
+
+                                                   feature of production. If that be the case,
+
+                                                   the cost of rectifying to the extent
+
+                                                   provided for by the management will be
+
+                                                   treated as a normal cost and charged to
+
+                                                   the batch.
+
+(3) Where defect is due to the In this case the cost of rectification will
+
+Inspection Department be charged to the department and will
+
+wrongly       accepting not be considered as cost of
+
+incoming material of poor manufacture of the batch. Being an
+
+quality.                                           abnormal cost, it will be written off to the
+
+                                                   Costing Profit and Loss Account.
+
+© The Institute of Chartered Accountants of India
+9.8                         COST AND MANAGEMENT ACCOUNTING
+
+4. ACCOUNTING OF COSTS FOR A JOB
+
+4.1 Entries in Control Accounts
+
+1. For purchase of materials-
+
+Stores Ledger Control A/c                          Dr.
+
+To Cost Ledger Control A/c*
+
+2. For the value of direct materials issued to
+        jobs-
+
+Work-in-Process Control A/c                        Dr.
+
+To Stores Ledger Control A/c
+
+3. For return of direct materials from jobs-
+
+Stores Ledger Control A/c                          Dr.
+
+To Work-in-Process Control A/c
+
+4. For return of materials to suppliers ­
+
+Cost Ledger Control A/c                            Dr.
+
+To Stores Ledger Control A/c
+
+5. For indirect materials-
+
+Factory Overhead Control A/c                       Dr.
+
+To Stores Ledger Control A/c
+
+6. For wages paid-
+
+Wages Control A/c                                  Dr.
+
+To Cost Ledger Control A/c
+
+7. For direct wages incurred on jobs-
+
+Work-in-Process Control A/c                        Dr.
+
+To Wages Control A/c
+
+8. For indirect wages ­
+
+Factory Overhead Control A/c                       Dr.
+
+To Wages Control A/c
+
+© The Institute of Chartered Accountants of India
+                                                   JOB COSTING  9.9
+
+9. For any indirect expense paid-
+
+Factory Overhead Control A/c                         Dr.
+
+To Cost Ledger Control A/c
+
+10. For charging overhead to jobs-
+
+Work-in-Process Control A/c                          Dr.
+
+To Factory Overhead Control A/c
+
+11. For the total cost of jobs completed-
+
+Cost of Sales A/c                                    Dr.
+
+To Work-in-Progress Control A/c
+
+12. The balance of Cost of Sales A/c is transferred
+        to Costing Profit and Loss a/c; For such
+        transfer ­
+
+Costing Profit and Loss A/c                          Dr.
+
+To Cost of Sales A/c
+
+13. For the sales value of jobs completed -
+
+Cost Ledger Control A/c                              Dr.
+
+To Costing Profit and Loss A/c**
+
+*General ledger adjustment account is another name of Cost Ledger Control Account.
+
+**The balance of Costing Profit and Loss Account shall now represent profit or loss. The balance
+of Cost Ledger Control Account shall be carried forwarded. With the balance on all the accounts
+trial balance can be drawn.
+
+ILLUSTRATION 1
+
+The manufacturing cost of a work order is ` 1,00,000; 8% of the production against
+that order spoiled and the rejection is estimated to have a realisable value of
+` 2,000 only. The normal rate of spoilage is 2%. RECORD this in the costing journal.
+
+© The Institute of Chartered Accountants of India
+          9.10            COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION
+
+Actual loss due to spoilage = 8% of ` 1,00,000 = `8,000 and Normal loss = 2% of
+` 1,00,000 = `2,000, therefore abnormal loss = `6,000.
+
+The rejection has a realisable value of ` 2,000, which is to be apportioned between
+normal loss and abnormal loss in the ratio of 2 : 6.
+
+The accounting entries necessary for recording the above facts would be:
+
+                                                        (`)               (`)
+
+Material Control Account                           Dr.  2,000
+
+Overhead Control Account                           Dr.  1,500
+
+Costing Profit and Loss Control Account            Dr.  4,500
+
+To Work-in-Progress Control Account                                       8,000
+
+In the case of defectives being inherent in the manufacturing process, the
+rectification cost may be charged to the specific jobs in which they have arisen. In
+case detectives cannot be identified with jobs, the cost of rectification may be
+treated as factory overheads. Abnormal defectives should be written off to the
+Costing Profit and Loss Account.
+
+ILLUSTRATION 2
+
+A shop floor supervisor of a small factory presented the following cost for Job No.
+303, to determine the selling price.
+
+Materials                                               Per unit (`)
+Direct wages 18 hours @ ` 2.50                                       70
+(Deptt. X 8 hours; Deptt. Y 6 hours; Deptt. Z 4 hours)               45
+Chargeable expenses
+                                                                      5
+Add : 33-1/3 % for expenses cost                                   120
+
+                                                                     40
+                                                                   160
+
+© The Institute of Chartered Accountants of India
+                                                   JOB COSTING              9.11
+
+Materials used        Analysis of the Profit/Loss Account                         (`)
+                         (for the current financial year)
+                                                                            2,50,000
+                                           (`)
+
+                                       1,50,000 Sales less returns
+
+Direct wages:
+
+Deptt. X 10,000
+
+Deptt. Y 12,000
+
+Deptt. Z              8,000                        30,000
+
+Special stores items                               4,000
+
+Overheads:
+
+Deptt. X              5,000
+
+Deptt. Y              9,000
+
+Deptt. Z              2,000                        16,000
+
+Works cost                                         2,00,000
+
+Gross profit c/d                                   50,000                         _______
+
+                                                   2,50,000                 2,50,000
+
+Selling expenses                                   20,000 Gross profit b/d        50,000
+
+Net profit                                         30,000                         ______
+
+                                                   50,000                         50,000
+
+It is also noted that average hourly rates for the three Departments X, Y and Z are similar.
+
+You are required to:
+
+(i) PREPARE a job cost sheet.
+
+(ii) CALCULATE the entire revised cost using current financial year actual figures as
+       basis.
+
+(iii) Add 20% to total cost to DETERMINE selling price.
+
+© The Institute of Chartered Accountants of India
+             9.12           COST AND MANAGEMENT ACCOUNTING
+
+SOLUTION                            Job Cost Sheet
+                                                         Job No._________________
+Customer Details ------                                  Date of completion _________
+Date of commencement ----
+
+Particulars                                                    Amount
+                                                                      (`)
+
+Direct materials                                               70
+
+Direct wages:
+
+Deptt. X ` 2.50 × 8 hrs. = ` 20.00
+
+Deptt. Y ` 2.50 × 6 hrs. = ` 15.00
+
+Deptt. Z ` 2.50 × 4 hrs. = ` 10.00                             45
+
+Chargeable expenses                                            5
+
+Prime cost                                                     120
+
+Overheads:
+       Deptt. X = `5,000 × 100 = 50% of ` 20 = ` 10.00
+                          `10,000
+
+Deptt. Y = `9,000 × 100 = 75% of ` 15 = ` 11.25                23.75
+                 `12,000
+
+Deptt. Z = `2,000 × 100 = 25% of ` 10 = ` 2.50
+                 `8,000
+
+Works cost                   `20,000 × 100 = 10% of work cost  143.75
+Selling expenses=           `2,00,000                            14.38
+
+Total cost                                                     158.13
+
+Profit (20% of total cost)                                     31.63
+
+Selling price                                                  189.76
+
+© The Institute of Chartered Accountants of India
+                                                   JOB COSTING               9.13
+
+4.2 Advantages and Disadvantages of Job Costing
+
+Some of the advantages and disadvantages of Job costing are summarised as
+below:
+
+          Advantages                                             Disadvantages
+
+1. The details of Cost of material, labour 1. Job Costing is costly and
+
+and overhead for all job is available                     laborious method.
+
+to control.
+
+2. Profitability of each job can be 2. As lot of clerical process is
+
+derived.                                                  involved the chances of error is
+
+                                                          more.
+
+3. It facilitates production planning.             3. This method is not suitable in
+                                                        inflationary condition.
+
+4. Budgetary control and Standard 4. Previous records of costs will be
+
+Costing can be applied in job costing.                    meaningless if there is any
+
+                                                          change in market condition.
+
+5. Spoilage and detective can be
+     identified and responsibilities can be
+     fixed accordingly.
+
+4.3 Difference between Job Costing and Process Costing
+
+The main points which distinguish job costing and process costing are as below:
+
+          Job Costing                                     Process Costing
+
+(i) A Job is carried out or a product is The process of producing the product has
+
+produced by specific orders.                       a continuous flow and the product
+
+                                                   produced is homogeneous.
+
+(ii) Costs are determined for each Costs are compiled on time basis i.e., for
+
+job.                                               production of a given accounting period
+
+                                                   for each process or department.
+
+(iii) Each job is separate and Products lose their individual identity as
+
+independent of other jobs.                         they are manufactured in a continuous
+
+                                                   flow.
+
+© The Institute of Chartered Accountants of India
+9.14  COST AND MANAGEMENT ACCOUNTING
+
+(iv) Each job or order has a number The unit cost of process is an average cost
+    and costs are collected against the for the period.
+    same job number.
+
+(v) Costs are computed when a job      Costs are calculated at the end of the cost
+    is completed. The cost of a job    period. The unit cost of a process may be
+    may be determined by adding all    computed by dividing the total cost for the
+    costs against the job.             period by the output of the process during
+                                       that period.
+
+(vi) As production is not continuous   Process of production is usually
+    and each job may be different, so  standardized and is therefore, quite stable.
+    more managerial attention is       Hence control here is comparatively
+    required for effective control.    easier.
+
+SUMMARY
+
+ Job Costing: The category of basic costing methods which is applicable
+       where the work consists of separate contracts, jobs or batches, each of which
+       is authorised by specific order or contract.
+
+TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1. In case product produced or jobs undertaken are of diverse nature, the system
+       of costing to be used should be:
+       (a) Process costing
+       (b) Operating costing
+       (c) Job costing
+       (d) None of the above
+
+2. The production planning department prepares a list of materials and stores
+       required for the completion of a specific job order, this list is known as:
+       (a) Bin card
+       (b) Bill of material
+
+© The Institute of Chartered Accountants of India
+                                                   JOB COSTING  9.15
+
+       (c) Material requisition slip
+       (d) None of the above
+3. Job costing is similar to that under Batch costing except with the difference that
+       a:
+       (a) Job becomes a cost unit.
+       (b) Batch becomes the cost unit instead of a job
+       (c) Process becomes a cost unit
+       (d) None of the above.
+4. In job costing which of the following documents are used to record the issue of
+       direct material to a job':
+       (a) Goods received note
+       (b) Material requisition
+       (c) Purchase order
+       (d) Purchase requisition
+5. The most suitable cost system where the products differ in type of materials
+       and work performed is :
+       (a) Job Costing
+       (b) Process Costing
+       (c) Operating Costing
+       (d) None of these.
+6. Which of the following statements is true:
+       (a) Job cost sheet may be used for estimating profit of jobs.
+       (b) Job costing cannot be used in conjunction with marginal costing.
+       (c) A production order is an order received from a customer for particular
+
+               jobs.
+       (d) None of these.
+
+© The Institute of Chartered Accountants of India
+9.16                COST AND MANAGEMENT ACCOUNTING
+
+7. Which of the following statements is true:
+       (a) Job cost sheet may be prepared for facilitating routing and scheduling of
+               the job
+       (b) Job costing can be suitably used for concerns producing uniformly any
+               specific product
+       (c) Job costing cannot be used in companies using standard costing
+       (d) Neither (a) nor (b) nor (c)
+
+Theoretical Questions
+
+1. DESCRIBE Job Costing giving example of industries where it is used.
+2. DISTINGUISH between Job Costing & Process Costing.
+
+Practical Problems
+
+1. In a factory following the Job Costing Method, an abstract from the work-in-
+       progress as on 30th September was prepared as under.
+
+Job No.  Materials     Direct hrs. Labour (`) Factory Overheads
+                  (`)                                               applied (`)
+  115
+  118           1325                               400 hrs.           800            640
+  120            810
+                 765                               250 hrs.           500            400
+
+               2,900                               300 hrs.           475            380
+
+                                                                  1,775              1,420
+
+Materials used in October were as follows:
+
+Materials Requisition No.                                    Job No.       Cost (`)
+                54                                             118             300
+                55                                             118             425
+                56                                             118             515
+
+         57                                                  120           665
+
+         58                                                  121           910
+
+© The Institute of Chartered Accountants of India
+                                                   JOB COSTING      9.17
+
+59                                                 124          720
+
+                                                                3,535
+
+A summary for labour hours deployed during October is as under:
+
+                   Job No.                         Number of Hours
+
+                      115                          Shop A       Shop B
+                      118
+                      120                          25           25
+                      121
+                      124                          90           30
+
+Indirect Labour: Waiting of material               75           10
+Machine breakdown
+Idle time                                          65           --
+Overtime premium
+                                                   25           10
+
+                                                   275          75
+
+                                                   20           10
+
+                                                   10           5
+
+                                                   5            6
+
+                                                   6            5
+
+                                                   316          101
+
+A shop credit slip was issued in October, that material issued under Requisition
+No. 54 was returned back to stores as being not suitable. A material transfer
+note issued in October indicated that material issued under Requisition No. 55
+for Job 118 was directed to Job 124.
+
+The hourly rate in shop A per labour hour is ` 3 per hour while at shop B, it is
+` 2 per hour. The factory overhead is applied at the same rate as in September.
+Job 115, 118 and 120 were completed in October.
+
+You are asked to COMPUTE the factory cost of the completed jobs. It is the
+practice of the management to put a 10% on the factory cost to cover
+administration and selling overheads and invoice the job to the customer on a
+total cost plus 20% basis. DETERMINE the invoice price of these three jobs?
+
+© The Institute of Chartered Accountants of India
+9.18  COST AND MANAGEMENT ACCOUNTING
+
+2. Ares Plumbing and Fitting Ltd. (APFL) deals in plumbing materials and also
+       provides plumbing services to its customers. On 12th August, 2022, APFL received
+       a job order for a students' hostel to supply and fitting of plumbing materials.
+       The work is to be done on the basis of specification provided by the hostel owner.
+       Hostel will be inaugurated on 5th September, 2022 and the work is to be
+       completed by 3rd September, 2022. Following are the details related with the
+       job work:
+       Direct Materials
+       APFL uses a weighted average method for the pricing of materials issues.
+       Opening stock of materials as on 12th August 2022:
+       - 15mm GI Pipe, 12 units of (15 feet size) @ ` 600 each
+       - 20mm GI Pipe, 10 units of (15 feet size) @ ` 660 each
+       - Other fitting materials, 60 units @ ` 26 each
+       - Stainless Steel Faucet, 6 units @ ` 204 each
+       - Valve, 8 units @ ` 404 each
+       Purchases:
+       On 16th August 2022:
+       - 20mm GI Pipe, 30 units of (15 feet size) @ ` 610 each
+       - 10 units of Valve @ ` 402 each
+       On 18th August 2022:
+       - Other fitting materials, 150 units @ ` 28 each
+       - Stainless Steel Faucet, 15 units @ ` 209 each
+       On 27th August 2022:
+       - 15mm GI Pipe, 35 units of (15 feet size) @ ` 628 each
+       - 20mm GI Pipe, 20 units of (15 feet size) @ ` 660 each
+       - Valve, 14 units @ ` 424 each
+       Issues for the hostel job:
+
+© The Institute of Chartered Accountants of India
+                                                   JOB COSTING  9.19
+
+On 12th August 2022:
+- 20mm GI Pipe, 2 units of (15 feet size)
+- Other fitting materials, 18 units
+On 17th August 2022:
+- 15mm GI Pipe, 8 units of (15 feet size)
+- Other fitting materials, 30 units
+On 28th August 2022:
+- 20mm GI Pipe, 2 units of (15 feet size)
+- 15mm GI Pipe, 10 units of (15 feet size)
+- Other fitting materials, 34 units
+- Valve, 6 units
+On 30th August 2022:
+- Other fitting materials, 60 units
+- Stainless Steel Faucet, 15 units
+Direct Labour:
+Plumber: 180 hours @ ` 50 per hour (includes 12 hours overtime)
+Helper: 192 hours @ `35 per hour (includes 24 hours overtime)
+Overtimes are paid at 1.5 times of the normal wage rate.
+Overheads:
+Overheads are applied @ ` 13 per labour hour.
+Pricing policy:
+It is company's policy to price all orders based on achieving a profit margin of
+25% on sales price.
+You are required to
+(a) Calculate the total cost of the job.
+(b) Calculate the price to be charged from the customer
+
+© The Institute of Chartered Accountants of India
+    9.20            COST AND MANAGEMENT ACCOUNTING
+
+ANSWERS/ SOLUTIONS
+
+Answers to the MCQs
+
+   1. (c) 2. (b) 3. (a) 4. (b) 5. (a) 6. (a)
+   7. (d)
+
+Answers to the Theoretical Questions
+
+1. Please refer paragraph 1
+2. Please refer paragraph 4
+
+Answers to the Practical Problems
+
+1.             Factory Cost Statement of Completed Job.
+
+    Month      Job Materials Direct                               Factory         Factory
+                                                                                      cost
+               No.                                        labour  overheads
+                                                                                        (`)
+                                                                  (80% of direct      2765
+
+                                                                  labour cost)         225
+                                                                                     2,990
+               (`)                                 (`)    (`)     (`)                1,710
+                                                                                     1,109
+    September  115                                 1,325  800     640                2,819
+                                                                                     1,620
+    October    115                                 --     125     100                1,106
+                                                                                     2,726
+    Total                                          1,325  925     740
+
+    September  118                                 810    500     400
+
+    October    118                                 515    330     264
+
+    Total                                          1,325  830     664
+
+    September  120                                 765    475     380
+
+    October    120                                 665    245     196
+
+    Total                                          1,430  720     576
+
+© The Institute of Chartered Accountants of India
+                                                   JOB COSTING              9.21
+
+                  Invoice Price of Complete Job
+
+                  Job No.                                115          118               120
+                                                          (`)          (`)               (`)
+Factory cost                                       2,990.00     2,819.00          2,726.00
+Administration and selling
+overheads @ 10% of factory cost                      299.00       281.90            272.60
+Total cost                                         3,289.00     3,100.90          2,998.60
+Profit (20% of total cost)
+Invoice Price                                        657.80       620.18            599.72
+                                                   3,946.80     3,721.08          3,598.32
+
+       Assumption: - Indirect labour costs have been included in the factory overhead
+       which has been recovered as 80% of the labour cost.
+
+2. (a) Calculation of Total Cost for the Hostel Job:
+
+Particulars                                                     Amount Amount
+
+                                                                            (`)   (`)
+
+Direct Material Cost:
+
+- 15mm GI Pipe (Working Note- 1)                                11,051.28
+                                                                 2,588.28
+- 20mm GI Pipe (Working Note- 2)                                 3,866.07
+                                                                 3,113.57
+- Other fitting materials (Working Note-3)
+
+- Stainless steel faucet
+
+-     15 units ×   6×` 204+15×` 209 
+                                                   
+                       21units                     
+
+- Valve                                                         2,472.75 23,091.95
+
+   6  units  ×    8×` 404+10×` 402+14×` 424                     9,300.00
+                                 32units                        7,140.00 16,440.00
+                                                     
+
+Direct Labour:
+
+- Plumber [(180 hours × ` 50) + (12 hours ×
+     ` 25)]
+
+- Helper [(192 hours × ` 35) + (24 hours ×
+     ` 17.5)]
+
+© The Institute of Chartered Accountants of India
+9.22                COST AND MANAGEMENT ACCOUNTING
+
+ - Overheads [` 13 × (180 + 192) hours]                                                      4,836.00
+Total Cost                                                                                  44,367.95
+
+(b) Price to be charged for the job work:
+
+Total Cost incurred on the job                                                       Amount (`)
+                                                                                        44,367.95
+Add:  25%   Profit  on  Job                        Price       44, 367.95 ×25%          14,789.32
+                                                                  75%           
+
+                                                                                            59,157.27
+
+Working Note:
+
+1. Cost of 15mm GI Pipe
+
+      Date                                                                           Amount (`)
+                                                                                          4,800.00
+      17-08-2022 8 units × ` 600                                                          6,251.28
+
+      28-08-2022    10                             units  ×    4×` 600+35×` 628   
+                                                                      39units     
+                                                                                  
+
+                                                                                          11,051.28
+
+2. Cost of 20mm GI Pipe
+
+      Date                                                                                  Amount
+                                                                                                   (`)
+
+      12-08-2022 2 units × ` 660                                                            1,320.00
+
+      28-08-2022    2   units                      ×         8×`  660+30×` 610+20×`  660    1,268.28
+                                                                           58units        
+                                                                                          
+
+                                                                                            2,588.28
+
+3. Cost of Other fitting materials                                                          Amount
+         Date                                                                                      (`)
+
+         12-08-2022 18 units × ` 26                                                           468.00
+         17-08-2022 30 units × ` 26
+                                                                                              780.00
+
+© The Institute of Chartered Accountants of India
+                                                          JOB COSTING             9.23
+                                                                                           946.96
+28-08-2022  34                                     units  ×   12×` 26+150×` 28  
+                                                                                         1,671.11
+                                                               162units                  3,866.07
+
+30-08-2022  60                                     units  ×   12×` 26+150×` 28  
+                                                                                
+                                                               162units         
+
+© The Institute of Chartered Accountants of India
+© The Institute of Chartered Accountants of India
+
