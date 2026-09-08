@@ -4,6 +4,12 @@ import { z } from "zod";
 import { AIProvider, AIExplanationPayload, AIExplanationResult } from "./base";
 import { getExplanationBudget } from "../config";
 
+const DEFAULT_CANDIDATE_MODELS = [
+  "google/gemini-2.5-flash",
+  "meta-llama/llama-3.3-70b-instruct",
+  "deepseek/deepseek-chat",
+];
+
 export class OpenRouterProvider implements AIProvider {
   name = "openrouter";
   modelName: string;
@@ -30,22 +36,46 @@ export class OpenRouterProvider implements AIProvider {
     const prompt = this.compilePrompt(payload);
     const maxTokens = getExplanationBudget(payload);
 
-    const { object } = await generateObject({
-      model: openrouterInstance(this.modelName),
-      schema: z.object({
-        explanation: z.string(),
-        keyPoint: z.string(),
-      }),
-      prompt,
-      maxOutputTokens: maxTokens,
-      maxRetries: 0,
-      abortSignal: abortSignal || AbortSignal.timeout(10000),
-    });
+    // Prioritize configured modelName, followed by resilient candidate models
+    const modelsToTry = [
+      this.modelName,
+      ...DEFAULT_CANDIDATE_MODELS.filter((m) => m !== this.modelName),
+    ];
 
-    return {
-      explanation: object.explanation,
-      keyPoint: object.keyPoint,
-    };
+    let lastError: unknown = null;
+
+    for (const currentModel of modelsToTry) {
+      if (abortSignal?.aborted) {
+        throw new Error("TimeoutError: OpenRouter generation aborted due to timeout.");
+      }
+
+      try {
+        const { object } = await generateObject({
+          model: openrouterInstance(currentModel),
+          schema: z.object({
+            explanation: z.string(),
+            keyPoint: z.string(),
+          }),
+          prompt,
+          maxOutputTokens: maxTokens,
+          maxRetries: 0,
+          abortSignal: abortSignal || AbortSignal.timeout(10000),
+        });
+
+        return {
+          explanation: object.explanation,
+          keyPoint: object.keyPoint,
+          provider: this.name,
+          model: currentModel,
+        };
+      } catch (err: unknown) {
+        lastError = err;
+        const msg = err instanceof Error ? err.message : String(err);
+        console.warn(`[OpenRouter Model Warning] Model '${currentModel}' failed: "${msg}". Attempting next candidate...`);
+      }
+    }
+
+    throw lastError || new Error("All OpenRouter candidate models failed.");
   }
 
   private compilePrompt(payload: AIExplanationPayload): string {

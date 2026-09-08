@@ -9,7 +9,7 @@ export class GeminiProvider implements AIProvider {
   modelName: string;
 
   constructor(modelName?: string) {
-    this.modelName = modelName || process.env.GEMINI_MODEL || "gemini-3.6-flash";
+    this.modelName = modelName || process.env.GEMINI_MODEL || "gemini-2.5-flash";
   }
 
   async generateExplanation(payload: AIExplanationPayload, abortSignal?: AbortSignal): Promise<AIExplanationResult> {
@@ -40,6 +40,8 @@ export class GeminiProvider implements AIProvider {
     return {
       explanation: object.explanation,
       keyPoint: object.keyPoint,
+      provider: this.name,
+      model: this.modelName,
     };
   }
 

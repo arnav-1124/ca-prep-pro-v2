@@ -169,9 +169,23 @@ export async function getOrGenerateExplanation(
   };
 
   const runGeneration = async (): Promise<AIExplanationResult> => {
-    // 5. Instantiating configured providers
-    const primaryProviderName = (process.env.AI_PROVIDER || "gemini").toLowerCase();
-    
+    // 5. Instantiating configured providers with safe environment parsing
+    const rawProviderEnv = process.env.AI_PROVIDER || "";
+    const cleanProviderEnv = rawProviderEnv.split("#")[0].replace(/['"]/g, "").trim().toLowerCase();
+
+    // Smart default: If OpenRouter is configured and Gemini API key is missing or not a standard Google AI key, prefer OpenRouter
+    const hasValidGeminiKey = Boolean(process.env.GEMINI_API_KEY && process.env.GEMINI_API_KEY.startsWith("AIzaSy"));
+    const hasOpenRouterKey = Boolean(process.env.OPENROUTER_API_KEY);
+
+    let primaryProviderName: "gemini" | "openrouter";
+    if (cleanProviderEnv === "openrouter") {
+      primaryProviderName = "openrouter";
+    } else if (cleanProviderEnv === "gemini") {
+      primaryProviderName = "gemini";
+    } else {
+      primaryProviderName = hasOpenRouterKey && !hasValidGeminiKey ? "openrouter" : "gemini";
+    }
+
     let providerInstance: AIProvider;
     let fallbackInstance: AIProvider;
 
@@ -179,18 +193,18 @@ export async function getOrGenerateExplanation(
       providerInstance = new OpenRouterProvider();
       providerInstance.modelName = process.env.OPENROUTER_MODEL || "google/gemini-2.5-flash";
       fallbackInstance = new GeminiProvider();
-      fallbackInstance.modelName = process.env.GEMINI_MODEL || "gemini-3.6-flash";
+      fallbackInstance.modelName = process.env.GEMINI_MODEL || "gemini-2.5-flash";
     } else {
-      // Default is Gemini
+      // Default is Gemini primary, OpenRouter fallback
       providerInstance = new GeminiProvider();
-      providerInstance.modelName = process.env.GEMINI_MODEL || "gemini-3.6-flash";
+      providerInstance.modelName = process.env.GEMINI_MODEL || "gemini-2.5-flash";
       fallbackInstance = new OpenRouterProvider();
       fallbackInstance.modelName = process.env.OPENROUTER_MODEL || "google/gemini-2.5-flash";
     }
 
     const GEMINI_TIMEOUT_MS = Number(process.env.AI_GEMINI_TIMEOUT_MS || "8000");
     const OPENROUTER_TIMEOUT_MS = Number(process.env.AI_OPENROUTER_TIMEOUT_MS || "10000");
-    const TOTAL_TIMEOUT_MS = Number(process.env.AI_TOTAL_TIMEOUT_MS || "15000");
+    const TOTAL_TIMEOUT_MS = Number(process.env.AI_TOTAL_TIMEOUT_MS || "25000");
 
     // Create absolute overall budget controller
     const totalController = new AbortController();
@@ -216,16 +230,12 @@ export async function getOrGenerateExplanation(
         console.log(`AI Explanation: Attempting with primary provider '${activeProvider}' (${activeModel})`);
         result = await providerInstance.generateExplanation(payload, primaryController.signal);
         const latency = Date.now() - startTime;
+        activeModel = result.model || activeModel;
         console.log(`[AI Explanation Success] id=${questionVersionId} provider=${activeProvider} model=${activeModel} latency=${latency}ms fallback=false`);
       } catch (primaryErr: unknown) {
         const errObj = primaryErr as Error;
         const latency = Date.now() - startTime;
-        const retryable = isRetryableError(primaryErr);
-        console.warn(`[AI Explanation Failed] id=${questionVersionId} provider=${activeProvider} model=${activeModel} latency=${latency}ms error="${errObj?.message || "Unknown"}" retryable=${retryable}`);
-        
-        if (!retryable) {
-          throw primaryErr; // Don't fall back for configuration or key errors
-        }
+        console.warn(`[AI Explanation Primary Failed] id=${questionVersionId} provider=${activeProvider} model=${activeModel} latency=${latency}ms error="${errObj?.message || "Unknown"}". Falling back to secondary provider...`);
 
         // Check if overall budget is already exceeded before triggering fallback
         if (totalController.signal.aborted) {
@@ -249,6 +259,7 @@ export async function getOrGenerateExplanation(
         try {
           result = await fallbackInstance.generateExplanation(payload, fallbackController.signal);
           const fallbackLatency = Date.now() - fallbackStartTime;
+          activeModel = result.model || activeModel;
           console.log(`[AI Explanation Success] id=${questionVersionId} provider=${activeProvider} model=${activeModel} latency=${fallbackLatency}ms fallback=true`);
         } catch (fallbackErr: unknown) {
           const errObj = fallbackErr as Error;
@@ -320,7 +331,7 @@ export async function getOrGenerateExplanation(
 
   let finalResult: AIExplanationResult;
   let finalProvider = "gemini";
-  let finalModel = "gemini-3.6-flash";
+  let finalModel = "gemini-2.5-flash";
 
   try {
     const aiResponse = await generationPromise;
